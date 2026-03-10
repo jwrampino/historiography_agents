@@ -1,0 +1,79 @@
+# Experiment Configuration
+experiment:
+  name: "historian_multiagent_experiment"
+  n_agents_per_group: 3
+  max_dialogue_turns: 50
+  output_dir: "./outputs"
+
+# Historian Persona Dimensions
+personas:
+  fields:
+    - "social_history"
+    - "political_history"
+    - "cultural_history"
+    - "economic_history"
+    - "intellectual_history"
+    - "gender_history"
+    - "environmental_history"
+
+  methods:
+    - "quantitative"
+    - "qualitative"
+    - "comparative"
+    - "microhistory"
+    - "oral_history"
+
+  eras:
+    - "ancient"
+    - "medieval"
+    - "early_modern"
+    - "modern"
+    - "contemporary"
+
+  theoretical_orientations:
+    - "marxist"
+    - "poststructuralist"
+    - "feminist"
+    - "postcolonial"
+    - "positivist"
+    - "constructivist"
+    - "annales_school"
+
+# FAISS Source Library
+sources:
+  embedding_model: "sentence-transformers/all-mpnet-base-v2"
+  index_path: "./sources/faiss_index"
+  metadata_path: "./sources/metadata.json"
+  chunk_size: 500
+  chunk_overlap: 50
+
+# LLM Configuration
+llm:
+  provider: "anthropic"  # or "openai"
+  model: "claude-sonnet-4-6"
+  temperature: 0.7
+  max_tokens: 4000
+
+# Multi-agent Dialogue
+dialogue:
+  min_turns: 10
+  max_turns: 50
+  consensus_threshold: 0.8
+
+  actions:
+    - "speak"  # Agent shares thoughts/arguments
+    - "search"  # Agent searches FAISS for sources
+    - "read"  # Agent reads a source in detail
+    - "propose"  # Agent proposes research question/thesis
+    - "critique"  # Agent critiques another's proposal
+
+# Analysis
+analysis:
+  sae_latent_dim: 128
+  n_bootstrap_samples: 1000
+  significance_level: 0.05
+
+  outcome_metrics:
+    - "novelty"  # Measured via embedding distance from existing literature
+    - "perplexity"  # Language model perplexity of thesis
+    - "quality"  # Human ratings or proxy measures

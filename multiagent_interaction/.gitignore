@@ -1,0 +1,33 @@
+# Environment
+.env
+venv/
+env/
+*.pyc
+__pycache__/
+
+# Outputs
+outputs/
+logs/
+*.log
+
+# Data
+sources/faiss_index/
+personas/persona_storage.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights
+*.pth
+*.ckpt
+*.safetensors
