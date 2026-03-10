@@ -1,0 +1,42 @@
+name: history_agents
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  # Core Data Science
+  - numpy>=1.26
+  - pandas>=2.0
+  - scipy>=1.11
+  - scikit-learn>=1.3
+  - duckdb>=0.10
+  - pillow>=10.0
+  - matplotlib>=3.7
+  - seaborn>=0.12
+  - networkx>=3.1
+  # Utils
+  - tqdm>=4.66
+  - requests>=2.31
+  - loguru>=0.7
+  - python-dotenv>=1.0
+  - pydantic>=2.0
+  - pyyaml>=6.0
+  - pip:
+      # ML / Embeddings
+      - torch>=2.2
+      - transformers>=4.40
+      - sentence-transformers>=2.6
+      - faiss-cpu>=1.8
+      # Causal Inference 
+      - dowhy>=0.11
+      - econml>=0.14
+      # LLM / Agent Ecosystem 
+      - langchain>=0.1
+      - langgraph>=0.0.40
+      - openai>=1.0
+      - anthropic>=0.18
+      - autogen-agentchat>=0.2
+      - pyautogen>=0.2
+      # Archive SDK
+      - internetarchive>=3.3
