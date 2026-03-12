@@ -1,0 +1,62 @@
+{
+  "loc": {
+    "enabled": true,
+    "queries": [
+      "reconstruction era african american",
+      "freedmen bureau photographs"
+    ],
+    "max_items_per_query": 200,
+    "extra_params": {}
+  },
+  "chronicling_america": {
+    "enabled": true,
+    "queries": [
+      "reconstruction",
+      "freedmen",
+      "emancipation"
+    ],
+    "max_items_per_query": 500,
+    "extra_params": {
+      "date_start": "1865-01-01",
+      "date_end": "1877-12-31"
+    }
+  },
+  "internet_archive": {
+    "enabled": true,
+    "queries": [
+      "reconstruction era history",
+      "civil war aftermath documents"
+    ],
+    "max_items_per_query": 200,
+    "extra_params": {
+      "mediatype": "texts"
+    }
+  },
+  "nara": {
+    "enabled": true,
+    "queries": [
+      "freedmen bureau records",
+      "reconstruction era federal records"
+    ],
+    "max_items_per_query": 200,
+    "extra_params": {}
+  },
+  "smithsonian": {
+    "enabled": true,
+    "queries": [
+      "reconstruction era artifacts",
+      "19th century african american history"
+    ],
+    "max_items_per_query": 100,
+    "extra_params": {
+      "unit_code": "NMAAHC"
+    }
+  },
+  "run_ingestion": true,
+  "run_ocr": false,
+  "run_transcription": false,
+  "run_embedding": true,
+  "run_indexing": true,
+  "run_export": true,
+  "export_csv_path": "./data/corpus_export.csv"
+}
