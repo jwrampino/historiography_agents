@@ -1,0 +1,130 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "NUCLEAR ENERGY CHARTS - PROGRESS OF NUCLEAR PHYSICS",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-0561",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Still Pictures",
+          "state": "MD",
+          "fax": "301-837-3621",
+          "email": "stillpix@nara.gov",
+          "mailCode": "RRSS"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Photographic Materials"
+          ],
+          "specificMediaType": "Magnetic Disk"
+        },
+        {
+          "generalMediaTypes": [
+            "Photographic Materials"
+          ],
+          "specificMediaType": "Negative"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupName": "National Archives at College Park \u2013 Still Pictures",
+    "groupId": "RRAS",
+    "groupCd": "RRAS"
+  },
+  "generalRecordsTypes": [
+    "Photographs and other Graphic Materials"
+  ],
+  "localIdentifier": "255-GRC-1956-C-41770",
+  "productionDates": [
+    {
+      "month": 4,
+      "year": 1956,
+      "day": 18,
+      "logicalDate": "1956-04-18"
+    }
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "Batch 27",
+      "type": "Other Finding Aid Identifier"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "255-GRC-1956-C-41770.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/stillpix/255-grc/Batch027/255-GRC-1956-C-41770.JPG",
+      "objectFileSize": 18133114,
+      "objectId": "354818048",
+      "objectType": "Image (JPG)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1903,
+        "logicalDate": "1903-01-01"
+      },
+      "distance": 3,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 255,
+      "inclusiveEndDate": {
+        "year": 2006,
+        "logicalDate": "2006-12-31"
+      },
+      "title": "Records of the National Aeronautics and Space Administration",
+      "naId": 582
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1973,
+        "logicalDate": "1973-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "National Aeronautics and Space Administration. John H. Glenn Research Center at Lewis Field. (03/01/1999 - )",
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 3,
+            "year": 1999,
+            "day": 1,
+            "logicalDate": "1999-03-01"
+          },
+          "naId": 10501290
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 2019,
+        "logicalDate": "2019-12-31"
+      },
+      "title": "Photographs Relating to Agency Activities, Facilities and Personnel",
+      "naId": 12005631
+    },
+    {
+      "distance": 1,
+      "levelOfDescription": "fileUnit",
+      "title": "GRC 1956",
+      "naId": 353710250
+    }
+  ],
+  "scopeAndContentNote": "The original finding aid described this as:\n\nDescription: NUCLEAR ENERGY CHARTS - PROGRESS OF NUCLEAR PHYSICS     \nNotes: Unknown Artist",
+  "naId": 354818047
+}

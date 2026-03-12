@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045293/1931-06-23/ed-1/?sp=12"
+  ],
+  "batch": [
+    "whi_jarlsburg_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/wisconsin/",
+    "2/united states/wisconsin/milwaukee/",
+    "3/united states/wisconsin/milwaukee/milwaukee/"
+  ],
+  "contributor": [
+    "wisconsin historical society"
+  ],
+  "date": "1931-06-23",
+  "dates": [
+    "1931-06-23"
+  ],
+  "description": [
+    "EDITORS SECTION The Proposed Moratorium Hoovers proposal for a oneyear moratorium of public war debts does not make it clear whether he intends that there shall be double payments the following year or whether he means that the whole line of payments should be pushed along one year farther That makes a good deal of difference if the debts are really to be paid sometime But then they may never be paid and this may be the entering wedge to a general cancellation of public war debts We take it for granted that the proposal did not originate with Hoover We suppose that it orginated at the Chequers conference between the German statesmen on the one hand and Ramsay Mac Donald and Arthur Henderson on the other Andrew Mellon was in England It had been announced that his visit had no signifi cance why cant our statesmen be frank with the American people about their own business For this is emphatically their business If the proposal originated elsewhere its embellishment was plainly made by the administration The latter still keeps up the pretense that the war debts owed to America have no connection with the war debts owed by Germany"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-10-06T01:23:27.423Z",
+  "group": [
+    "ndnp/whi",
+    "wisconsin-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045293/1931-06-23/ed-1/?sp=12",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jarlsburg_ver01:data:sn83045293:00542868946:1931062301:0542/full/pct:3.125/0/default.jpg#h=306&w=224",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jarlsburg_ver01:data:sn83045293:00542868946:1931062301:0542/full/pct:6.25/0/default.jpg#h=612&w=448",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/whi/batch_whi_jarlsburg_ver01/data/sn83045293/00542868946/1931062301/0542.xml&format=alto_xml"
+  ],
+  "index": 14,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "wisconsin",
+    "milwaukee"
+  ],
+  "location_city": [
+    "milwaukee"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "milwaukee"
+  ],
+  "location_state": [
+    "wisconsin"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn83045293",
+    "9",
+    "2",
+    "8",
+    "0000000012",
+    "5",
+    "6",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045293"
+  ],
+  "number_page": [
+    "0000000012"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "2",
+    "8",
+    "6",
+    "8",
+    "9",
+    "4",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83045293-1931-06-23-ed-1-0542",
+  "partof": [
+    "chronicling america",
+    "the milwaukee leader (milwaukee, wis.) 1911-1938",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the milwaukee leader (milwaukee, wis.) 1911-1938"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045293/1931-06-23/ed-1/?sp=12"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045293/1931-06-23/ed-1/"
+  ],
+  "shelf_id": "12",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "https://id.oclc.org/worldcat/entity/e39pbjj8j7dbwccgbfpvchw3cp",
+    "socialism",
+    "wisconsin",
+    "milwaukee",
+    "united states",
+    "newspapers",
+    "milwaukee (wis.)"
+  ],
+  "timestamp": "2024-10-06T01:47:19.958Z",
+  "title": "Image 12 of The Milwaukee leader (Milwaukee, Wis.), June 23, 1931, (Home Edition)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045293/1931-06-23/ed-1/?sp=12&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwhi%2Fbatch_whi_jarlsburg_ver01%2Fdata%2Fsn83045293%2F00542868946%2F1931062301%2F0542.xml&q=fascism&relevant_snippet=1"
+}

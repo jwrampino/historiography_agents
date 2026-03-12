@@ -1,0 +1,133 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16106/?sp=3"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1819-04-24",
+  "dates": [
+    "1819-04-24"
+  ],
+  "description": [
+    "id ys Gulf of Mexien and thence by the shores of Florida through that Gulftothe northward and past the Bank of Newfoanditand antl opposed by the current at the polar basin when it takes a direvttion eastward If the diarnalmotion acts on the water atthe Equator by veloci ty it will also actat the Poles by a coanter effect A PROFESSOR OF SIGNS ON TWO WAYS OF TELLING A sTORY Kiag James VI on removing to London was waited upon by the Spanish Ambassador a man of erudition but who had a crofchet in his head thatevery country should have a Professor of Signs to teach him and the like of him to understand one another The Ambassador was lamenting ones day before che King this great desideratum throughout all Kurope whenthe King who wasa queers ish sort of nan said to him Why have a Professor of Signs in the nothernmost Col lege in my dominions vigat Aberden but itis a great way off perhaps 600 miles Wereititten thousand leagues off shall see hint says the Amlsassador and am determined to set out in two or three days The King saw he had committed himself and writes or causes"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16106/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16106:0003/full/pct:3.125/0/default.jpg#h=258&w=170",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16106:0003/full/pct:6.25/0/default.jpg#h=517&w=340",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16106:0003/full/pct:12.5/0/default.jpg#h=1035&w=681",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16106:0003/full/pct:25.0/0/default.jpg#h=2070&w=1362",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16106:0003/full/pct:50.0/0/default.jpg#h=4140&w=2724",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16106:0003/full/pct:100.0/0/default.jpg#h=8281&w=5449",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16106/0003.alto.xml&format=alto_xml"
+  ],
+  "index": 12,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "calcutta",
+    "india"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "sn88063571",
+    "0000000003",
+    "2025-08-13t13:59:42.400000",
+    "sn88063570",
+    "sn88063569"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16106-0003-alto",
+  "partof": [
+    "catalog",
+    "world digital library",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "asian division",
+    "serial and government publications division",
+    "south asian digital collection",
+    "world newspapers",
+    "general collections"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16106/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16106/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "calcutta",
+    "india"
+  ],
+  "timestamp": "2025-12-12T07:20:16.953Z",
+  "title": "Image 3 of Supplement. Calcutta, Saturday, April 24, 1819 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16106/?sp=3&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16106%2F0003.alto.xml&q=spanish&relevant_snippet=1"
+}

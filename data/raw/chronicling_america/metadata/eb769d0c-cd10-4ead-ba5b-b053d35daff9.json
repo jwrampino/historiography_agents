@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1918-11-10/ed-1/?sp=47"
+  ],
+  "batch": [
+    "dlc_gonzo_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1918-11-10",
+  "dates": [
+    "1918-11-10"
+  ],
+  "description": [
+    "Admiral Mayo Tells of Our Navy in the War In an Interview With Star Correspondent in London He Says the Spirit of 76 Now Rules Our FleetA Remark able Tribute to the American Sailor by His Commander Special Correspondence of Tho Slur HIvONDON November 1 1018 ERE is a talk with the sailing master of Americas flotillas in the great war Admiral Henry T Mayo in command of the Atlantic fleet now on this side of the ocean in it speaks freely to the American people as befjts a bluff and hearty sailor who is proud of the great service in which he has won distinction who is certain that the job on which he is engaged will be carried through to a successful finish and especially who is proud of his allies Very soon after the United States entered the war I got into touch with Admiral Sir Montagu Browning of the British navy and Admiral Grasset of the French fleets he told md Our Navy Department wished to ascertain how best America could help in the great war These eminent allied sailors were told what we hoped to do not In a spirit of American brag but with"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:14:00.578Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1918-11-10/ed-1/?sp=47",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gonzo_ver01:data:sn83045462:00280658443:1918111001:0607/full/pct:6.25/0/default.jpg#h=351&w=226",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gonzo_ver01:data:sn83045462:00280658443:1918111001:0607/full/pct:12.5/0/default.jpg#h=702&w=452",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_gonzo_ver01/data/sn83045462/00280658443/1918111001/0607.xml&format=alto_xml"
+  ],
+  "index": 134,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000047",
+    "2",
+    "sn83045462",
+    "8",
+    "6",
+    "5",
+    "3",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000047"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "8",
+    "4",
+    "4",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1918-11-10-ed-1-0607",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1918-11-10/ed-1/?sp=47"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1918-11-10/ed-1/"
+  ],
+  "shelf_id": "47",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2022-10-20T16:04:29.624Z",
+  "title": "Image 47 of Evening star (Washington, D.C.), November 10, 1918",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1918-11-10/ed-1/?sp=47&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_gonzo_ver01%2Fdata%2Fsn83045462%2F00280658443%2F1918111001%2F0607.xml&q=great+war&relevant_snippet=1"
+}

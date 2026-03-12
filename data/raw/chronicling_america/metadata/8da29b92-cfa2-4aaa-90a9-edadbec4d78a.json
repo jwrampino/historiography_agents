@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn91070618/1961-03-31/ed-1/?sp=3"
+  ],
+  "batch": [
+    "rp_invisiblestalker_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/rhode island/",
+    "2/united states/rhode island/newport/",
+    "3/united states/rhode island/newport/newport/"
+  ],
+  "contributor": [
+    "rhode island digital newspaper project"
+  ],
+  "date": "1961-03-31",
+  "dates": [
+    "1961-03-31"
+  ],
+  "description": [
+    "Friday 31 March 1961 New CO Takes Helm At Public Works Center CAPT Earl R Bennett in change of command ceremonies on 17 March turned over the helm of the Public Works Center to CAPT Robert R Wooding CAPT Bennett PWC CO for the past three years has been assigned to head the Naval Con struction Battalion Center in Port Hueneme Calif CAPT Wooding comes to his new com mand from the post of Executive Assistant to the Assistant Chief for Maintenance and Materials Bureau of Yards and Docks in Washington D C Major Developments CAPT Bennetts tenure as IW CO was marked by several major developments He was officer in charge of construction for the ll million Destroyer Pier 2 at Coddington Cove which was completed six months ahead of schedule he supervised the mul tinullion dollar breakwater now under construction to provide safer berthing for ships at Piers 1 and 2 and all public works activities under separate com mand when he arrived here have been consolidated under his direc tion CAPT Bennett also served as the Navys housing officer in charge of more than 1400 Navy owned units in various locations on and off the Base Arrange"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-04-27T04:22:45.193Z",
+  "group": [
+    "ndnp/rp",
+    "rhode-island-digital-newspaper-project"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn91070618/1961-03-31/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_invisiblestalker_ver01:data:sn91070618:00516991811:1961033101:0382/full/pct:6.25/0/default.jpg#h=339&w=280",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_invisiblestalker_ver01:data:sn91070618:00516991811:1961033101:0382/full/pct:12.5/0/default.jpg#h=678&w=560",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/rp/batch_rp_invisiblestalker_ver01/data/sn91070618/00516991811/1961033101/0382.xml&format=alto_xml"
+  ],
+  "index": 162,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "rhode island",
+    "newport",
+    "united states"
+  ],
+  "location_city": [
+    "newport"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "newport"
+  ],
+  "location_state": [
+    "rhode island"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn91070618",
+    "8",
+    "0",
+    "0000000003",
+    "9",
+    "1",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn91070618"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "1",
+    "8",
+    "1",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Issues for Jan. 8-Sept. 9, 1988 published as: Navalog"
+  ],
+  "page_id": "sn91070618-1961-03-31-ed-1-0382",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "newport navalog (newport, r.i.) 1944-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "newport navalog (newport, r.i.) 1944-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn91070618/1961-03-31/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn91070618/1961-03-31/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "rhode island",
+    "newspapers",
+    "military bases",
+    "newport (r.i.)",
+    "newport",
+    "united states"
+  ],
+  "timestamp": "2025-04-27T04:37:08.199Z",
+  "title": "Image 3 of Newport navalog (Newport, R.I.), March 31, 1961",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn91070618/1961-03-31/ed-1/?sp=3&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Frp%2Fbatch_rp_invisiblestalker_ver01%2Fdata%2Fsn91070618%2F00516991811%2F1961033101%2F0382.xml&q=nuclear&relevant_snippet=1"
+}

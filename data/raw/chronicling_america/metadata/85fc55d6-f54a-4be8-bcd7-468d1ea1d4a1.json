@@ -1,0 +1,154 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85053044/1953-01-09/ed-1/?sp=4"
+  ],
+  "batch": [
+    "mthi_anaconda_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/glacier/",
+    "3/united states/montana/glacier/browning/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1953-01-09",
+  "dates": [
+    "1953-01-09"
+  ],
+  "description": [
+    "reflects the spirit off the west j SIP g\u00dfi THE OPEN ROAD by STETSON rn S eaSy maSCU H ne styng bespeaks if a 4 the Western origin of this Stetson J Lightweight and very comfortable j l I L c with linos that look as smart on the avenue y OldAge Insurance Compulsory oldage Insurance was first adopted In Germany In 1883 Child Fatality More than 3000 boys and girls under 15 years old were killed in traffic accidents last year Merchandise Values Hamberger Lb 39c _ Veal Steak Lb 49c U S No 2 Red Potatoes 100lb 298 Fresh Ranch Eggs Doz 49c Oven Magic Flour 25sack 175 Trucks Safer Three out of four motor vehicles in 1951 accidents were passenger cars Coke Coke ia bituminous coal from which the volatile constituents have been baked out THE BROWNING CHIEF NOTICE TO CREDITORS Estate of David Cameron de ceased Notice is hereby given by the undersigned Administrator of the Estate of David Cameron de ceased to the creditors and to al persons having claims against the said deceased to exhibit them within the necessary vouchers within four months after the first publication of this notice to the said Administrator"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:49:32.529Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85053044/1953-01-09/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_anaconda_ver01:data:sn85053044:00517178147:1953010901:0721/full/pct:6.25/0/default.jpg#h=319&w=224",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_anaconda_ver01:data:sn85053044:00517178147:1953010901:0721/full/pct:12.5/0/default.jpg#h=639&w=449",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_anaconda_ver01/data/sn85053044/00517178147/1953010901/0721.xml&format=alto_xml"
+  ],
+  "index": 162,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "montana",
+    "browning",
+    "glacier",
+    "united states"
+  ],
+  "location_city": [
+    "browning"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "glacier"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn85053044",
+    "0000000004",
+    "8",
+    "0",
+    "7",
+    "1",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85053044"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "8",
+    "1",
+    "4",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85053044-1953-01-09-ed-1-0721",
+  "partof": [
+    "chronicling america",
+    "browning chief (browning, mont.) 1941-1953",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "browning chief (browning, mont.) 1941-1953"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85053044/1953-01-09/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85053044/1953-01-09/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "montana",
+    "browning",
+    "glacier",
+    "united states"
+  ],
+  "timestamp": "2023-07-05T14:32:58.713Z",
+  "title": "Image 4 of Browning chief (Browning, Mont.), January 9, 1953",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85053044/1953-01-09/ed-1/?sp=4&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_anaconda_ver01%2Fdata%2Fsn85053044%2F00517178147%2F1953010901%2F0721.xml&q=computers&relevant_snippet=1"
+}

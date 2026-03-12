@@ -1,0 +1,167 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2010270509/1960-10-06/ed-1/?sp=14"
+  ],
+  "batch": [
+    "nbu_equus_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nebraska/",
+    "2/united states/nebraska/holt/",
+    "3/united states/nebraska/holt/o'neill/",
+    "3/united states/nebraska/holt/o'neill city/"
+  ],
+  "contributor": [
+    "university of nebraska-lincoln libraries, lincoln, ne"
+  ],
+  "date": "1960-10-06",
+  "dates": [
+    "1960-10-06"
+  ],
+  "description": [
+    "Fort Randall News Janice Kirwan Mr and Mrs Joseph Hausmann jr Jerry Gary and Terry ol rural Butte were Thursday eve ning business callers at the G R Kirwan ranch Mr and Mrs Fa 1 ward Cassidy and Virginia attended the Com Palace show in Mitchell S D Wednesday They also visited with Mr and Mrs Marlyn Gra ham and family Mr Graham is Mr Cassidys nephew Connie Cud aback if Pickstown was a Thursday overnight guest of Janice Kirwan Janet Cassidy who is attend ing Southern State Teachers College at Springfield spent the weekend at the home of her par ents Mr and Mrs Ed Cassidy Mary Jane Kirwan attended the birthday party honoring Barbaji Jean Ackerman at the John Ac kerman home in Pickstown Sun day Mrs Gerald Kirwan attended the funeral of Martin Grady in Bonesteel Saturday morning Harold Guies of Lake Andes S D was a Sunday visitor in the John Cassidy jr home Mr and Mrs Orville Hanson Twila Dee and Junior of Her rick S D were Wednesday cof fee guests at the Gerald Kirwan home Tuesday evening callers at the G R Kirwan home were Mr and Mrs Emil Jons and sun Lor"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:39:34.334Z",
+  "group": [
+    "ndnp/nbu",
+    "university-of-nebraska-of-nebraska-lincoln-libraries-lincoln-ne-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2010270509/1960-10-06/ed-1/?sp=14",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_equus_ver01:data:2010270509:00279527690:1960100601:0897/full/pct:6.25/0/default.jpg#h=484&w=374",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_equus_ver01:data:2010270509:00279527690:1960100601:0897/full/pct:12.5/0/default.jpg#h=969&w=749",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nbu/batch_nbu_equus_ver01/data/2010270509/00279527690/1960100601/0897.xml&format=alto_xml"
+  ],
+  "index": 106,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "holt",
+    "holt county",
+    "o'neill city",
+    "o'neill",
+    "nebraska",
+    "united states"
+  ],
+  "location_city": [
+    "o'neill",
+    "o'neill city"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "holt"
+  ],
+  "location_state": [
+    "nebraska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "2010270509",
+    "5",
+    "0000000014",
+    "0",
+    "2",
+    "7",
+    "9",
+    "1",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2010270509"
+  ],
+  "number_page": [
+    "0000000014"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "2",
+    "7",
+    "6",
+    "9",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Publisher's box title: O'Neill frontier"
+  ],
+  "page_id": "2010270509-1960-10-06-ed-1-0897",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the frontier (o'neill city, holt county, neb.) 1880-1965"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the frontier (o'neill city, holt county, neb.) 1880-1965"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2010270509/1960-10-06/ed-1/?sp=14"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2010270509/1960-10-06/ed-1/"
+  ],
+  "shelf_id": "14",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "o'neill (neb.)",
+    "holt county (neb.)",
+    "holt",
+    "holt county",
+    "o'neill city",
+    "o'neill",
+    "nebraska",
+    "united states"
+  ],
+  "timestamp": "2025-12-14T21:32:55.731Z",
+  "title": "Image 14 of The frontier (O'Neill City, Holt County, Neb.), October 6, 1960, (Section Two)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2010270509/1960-10-06/ed-1/?sp=14&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnbu%2Fbatch_nbu_equus_ver01%2Fdata%2F2010270509%2F00279527690%2F1960100601%2F0897.xml&q=nuclear&relevant_snippet=1"
+}

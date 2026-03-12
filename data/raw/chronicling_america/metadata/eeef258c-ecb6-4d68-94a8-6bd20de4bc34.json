@@ -1,0 +1,150 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82016181/1937-01-08/ed-1/?sp=21"
+  ],
+  "batch": [
+    "dlc_capa_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1937-01-08",
+  "dates": [
+    "1937-01-08"
+  ],
+  "description": [
+    "Plain Economics by John T Flynn Flynn believes future historians will be stumped when they read that United States permitted holding companies to exist NEW YORKIt is entirely possible that future historians of the United States looking with amused interest at the many vagaries of our pres ent system will pause with wonder when they come to the holding com pany They will probably say that it is inconceivable that any intelligent people would permit such a device to be used Yet today in spite of all the vast losses resulting from holding company operationsbillions in savings of hardworking citizens the wreckage of banks of utility companies of railroads of industrial corporations in spite of all these things one of the most difficult indeed almost impossible tasks is to induce people to look this amazing invention over seriously Endless instances of the uses of the device come to light daily Here is one which I find reading thru the testimony about the railroads be fore Sen Wheelers committee Terminal Shares Inc is a corpor ation formed by the Van Sweringens to hold the stocks of certain prop erties around St Louis The Ter minal Shares Inc is a holding com"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-09-28T05:01:35.272Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82016181/1937-01-08/ed-1/?sp=21",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_capa_ver01:data:sn82016181:00516999561:1937010801:0226/full/pct:6.25/0/default.jpg#h=332&w=225",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_capa_ver01:data:sn82016181:00516999561:1937010801:0226/full/pct:12.5/0/default.jpg#h=665&w=451",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_capa_ver01/data/sn82016181/00516999561/1937010801/0226.xml&format=alto_xml"
+  ],
+  "index": 89,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn82016181",
+    "5",
+    "6",
+    "9",
+    "0000000021",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82016181"
+  ],
+  "number_page": [
+    "0000000021"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "9",
+    "5",
+    "6",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82016181-1937-01-08-ed-1-0226",
+  "partof": [
+    "serial and government publications division",
+    "the washington daily news (washington, d.c.) 1921-1972",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington daily news (washington, d.c.) 1921-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82016181/1937-01-08/ed-1/?sp=21"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82016181/1937-01-08/ed-1/"
+  ],
+  "shelf_id": "21",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2025-09-28T05:45:19.088Z",
+  "title": "Image 21 of The Washington daily news (Washington, D.C.), January 8, 1937",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82016181/1937-01-08/ed-1/?sp=21&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_capa_ver01%2Fdata%2Fsn82016181%2F00516999561%2F1937010801%2F0226.xml&q=child+labor&relevant_snippet=1"
+}

@@ -1,0 +1,131 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16083/?sp=13"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1805-08-06",
+  "dates": [
+    "1805-08-06"
+  ],
+  "description": [
+    "a The following atcefote fo horotrakle t the Feelings and difcernment of a Britith Admiral we eon vouch for as afa A few days ago an infore mation being laid againft a waterman as having been at fea the informer contrivet o fend the unfat peek ing vi\u00e9tim of his malignity in his boat to the Admie fals thip the poor man was detained of courfeg but Admiral Rowley the Port Admiral being ine formed of fome aggravating circumftances attending this perfidious tranfa\u00e9tion he caufed the informer to be impreffed and brought on board in the room of the other whom he immediarely difcharged and feut home to his family As a trait in thr Britith charafter the following ig not unwo thy of notice His Majeftys thip the Buckingham being appropriated folely to the recepe tion of Dutch prifoners of war her fhtps company confiting of a detachment of the Royal Marineg andfome feamed gave up the whole of their pro vitions beer c on Chrifmas Day to the Dutch prifoners in confideration of the humanity and kindyefs with which they urderftood the Romneya officers and fhins company had been treated by the Dutch on occafion of the lofe"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16083/?sp=13",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16083:0013/full/pct:6.25/0/default.jpg#h=271&w=162",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16083:0013/full/pct:12.5/0/default.jpg#h=543&w=324",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16083:0013/full/pct:25.0/0/default.jpg#h=1087&w=648",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16083:0013/full/pct:50.0/0/default.jpg#h=2174&w=1297",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16083:0013/full/pct:100.0/0/default.jpg#h=4348&w=2595",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16083/0013.alto.xml&format=alto_xml"
+  ],
+  "index": 27,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "india",
+    "calcutta"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "sn88063570",
+    "0000000013",
+    "sn88063571",
+    "sn88063569",
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000013"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16083-0013-alto",
+  "partof": [
+    "asian division",
+    "general collections",
+    "world newspapers",
+    "catalog",
+    "south asian digital collection",
+    "serial and government publications division",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "world digital library"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16083/?sp=13"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16083/"
+  ],
+  "shelf_id": "13",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "india",
+    "calcutta"
+  ],
+  "timestamp": "2025-12-12T07:19:57.894Z",
+  "title": "Image 13 of Volume 11, Number 551, Tuesday, August 6, 1805 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16083/?sp=13&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16083%2F0013.alto.xml&q=great+war&relevant_snippet=1"
+}

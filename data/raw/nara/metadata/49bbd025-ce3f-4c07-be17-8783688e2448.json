@@ -1,0 +1,117 @@
+{
+  "dataControlGroup": {
+    "groupId": "ou=NLWJC,ou=groups",
+    "groupCd": "LPWJC"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "note": "Some or all of the records may be subject to copyright restrictions. Researchers should contact the copyright holder for further information.",
+    "specificUseRestrictions": [
+      "Copyright"
+    ],
+    "status": "Restricted - Possibly"
+  },
+  "digitalObjects": [
+    {
+      "objectFilename": "42_t_12091515_20120268F_Sg10_001_004_2016_Page_001.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/56/4826/40482656/content/presidential-libraries/clinton/foia/2006/2006-0885-F-Seg-10/2006-0885-F-Seg10/Box_001/42-t-12091515-20120268F-Sg10-001-004-2016/42_t_12091515_20120268F_Sg10_001_004_2016_Page_001.JPG",
+      "objectFileSize": 327680,
+      "objectId": "56021012",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42-t-12091515-20120268F-Sg10-001-004-2016.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/56/4826/40482656/content/presidential-libraries/clinton/foia/2006/2006-0885-F-Seg-10/2006-0885-F-Seg10-PDF/Box_01/42-t-12091515-20120268F-Sg10-001-004-2016.pdf",
+      "objectFileSize": 19832,
+      "objectId": "56021011",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "otherTitles": [
+    "42-t-12091515-20060885F-Sg10-001-004-2016"
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "WJC-TFNHC",
+      "inclusiveStartDate": {
+        "year": 1993,
+        "logicalDate": "1993-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "year": 1994,
+        "logicalDate": "1994-12-31"
+      },
+      "title": "Records of the Task Force on National Health Care (Clinton Administration)",
+      "naId": 7410105
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1993,
+        "logicalDate": "1993-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "White House Health Care Task Force (U.S.)",
+          "authorityType": "organization",
+          "naId": 10443060
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1994,
+        "logicalDate": "1994-12-31"
+      },
+      "title": "Robert Boorstin's Files",
+      "naId": 12091515
+    }
+  ],
+  "title": "AIDS/HIV - Immigration",
+  "naId": 40482656,
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Little Rock",
+          "phone": "501-244-2877",
+          "address1": "1200 President Clinton Avenue",
+          "postalCode": "72201",
+          "name": "William J. Clinton Library",
+          "state": "AR",
+          "fax": "501-244-2881",
+          "email": "clinton.library@nara.gov",
+          "mailCode": "LP-WJC"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper",
+          "containerId": "1"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "note": "These records may need to be screened for personal privacy, and law enforcement under 5 U.S.C. 552 (b) prior to public release.",
+    "specificAccessRestrictions": [
+      {
+        "restriction": "FOIA (b)(6) Personal Information"
+      },
+      {
+        "restriction": "PRM - Personal Record Misfile"
+      }
+    ],
+    "status": "Restricted - Partly"
+  }
+}

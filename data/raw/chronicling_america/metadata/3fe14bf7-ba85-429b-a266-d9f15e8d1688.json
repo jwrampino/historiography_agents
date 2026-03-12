@@ -1,0 +1,167 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86072160/1919-11-01/ed-1/?sp=9"
+  ],
+  "batch": [
+    "wyu_frannie_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/wyoming/",
+    "2/united states/wyoming/natrona/",
+    "3/united states/wyoming/natrona/casper/"
+  ],
+  "contributor": [
+    "university of wyoming libraries"
+  ],
+  "date": "1919-11-01",
+  "dates": [
+    "1919-11-01"
+  ],
+  "description": [
+    "SATURDAY NOV 11811 MAMMOTH PROGRAM OF ROAD WORK MAPPED OUT BY STATE IMPROVEMENT PLANS COVER EVERY COUNTY IN INTO NATRONA TO SEE COMPLETION OF SALT CREEK ROO Resurfacing of Yellowstone to Big Muddy Field Road from Petrie to Richards Are Included in Summary of Work to Be Launched Here The Wyoming State Highway commiuion is out with an an nouncement of work to he undertaken by the department during the coming year which shows exteasive preparations and surveys covering every county in the state The detailed summary of the plans fol lows exclusive of cost figures which have not been compiled Albany County r Completion of reconstruction of ajl proximately ten miles of Un Medicine BowMarshall road with county funds Completion of twentyfive miles Ijtra ini North Park road Completion of now road from Laramie via Telephone Canon to east county line near Buford Reconstruction of 26 miles east of ik River Maintenance of Lincoln highway and North Park road J Bighorn County Completion of reconstruction of Yel lowstone highway from south cuonty Hur to Manderson n distance of X 19 miles Completion of new forest road over Bighorn mountains from Terisleop to Buffalo Reconstruction of road from Basin io"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-05-31T13:49:11.609Z",
+  "group": [
+    "ndnp/wyu",
+    "university-of-wyoming-libraries"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86072160/1919-11-01/ed-1/?sp=9",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_frannie_ver01:data:sn86072160:00514150321:1919110101:0267/full/pct:6.25/0/default.jpg#h=292&w=233",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_frannie_ver01:data:sn86072160:00514150321:1919110101:0267/full/pct:12.5/0/default.jpg#h=585&w=467",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_frannie_ver01:data:sn86072160:00514150321:1919110101:0267/full/pct:25/0/default.jpg#h=1171&w=934",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wyu/batch_wyu_frannie_ver01/data/sn86072160/00514150321/1919110101/0267.xml&format=alto_xml"
+  ],
+  "index": 28,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "natrona",
+    "natrona county",
+    "casper",
+    "united states",
+    "wyoming"
+  ],
+  "location_city": [
+    "casper"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "natrona"
+  ],
+  "location_state": [
+    "wyoming"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "2",
+    "5",
+    "3",
+    "4",
+    "1",
+    "0000000009",
+    "sn86072160"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86072160"
+  ],
+  "number_page": [
+    "0000000009"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "4",
+    "1",
+    "5",
+    "0",
+    "3",
+    "2",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Casper Sunday morning tribune and Wyoming weekly review",
+    "Casper Sunday tribune and Wyoming weekly review",
+    "Casper Sunday tribune",
+    "Casper tribune-herald"
+  ],
+  "page_id": "sn86072160-1919-11-01-ed-1-0267",
+  "partof": [
+    "casper daily tribune (casper, wyo.) 1916-1931",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "casper daily tribune (casper, wyo.) 1916-1931"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86072160/1919-11-01/ed-1/?sp=9"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86072160/1919-11-01/ed-1/"
+  ],
+  "shelf_id": "09",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "casper (wyo.)",
+    "natrona",
+    "natrona county",
+    "casper",
+    "united states",
+    "newspapers",
+    "natrona county (wyo.)",
+    "wyoming"
+  ],
+  "timestamp": "2023-06-28T06:41:58.390Z",
+  "title": "Image 9 of Casper daily tribune (Casper, Wyo.), November 1, 1919",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86072160/1919-11-01/ed-1/?sp=9&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwyu%2Fbatch_wyu_frannie_ver01%2Fdata%2Fsn86072160%2F00514150321%2F1919110101%2F0267.xml&q=reconstruction&relevant_snippet=1"
+}

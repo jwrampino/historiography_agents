@@ -1,0 +1,140 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "subjects": [
+    {
+      "heading": "Lynching",
+      "authorityType": "topicalSubject",
+      "naId": 10637047
+    },
+    {
+      "heading": "Civil rights",
+      "authorityType": "topicalSubject",
+      "naId": 10638857
+    }
+  ],
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "Flyer Regarding a Funeral March in Washington, D.C.",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Independence",
+          "phone": "816-268-8272",
+          "address1": "500 West U.S. Highway 24",
+          "postalCode": "64050-1798",
+          "name": "Harry S. Truman Library",
+          "state": "MO",
+          "fax": "816-268-8295",
+          "email": "truman.reference@nara.gov",
+          "mailCode": "PL-HST"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupName": "Harry S. Truman Library",
+    "groupId": "PL-HST",
+    "groupCd": "PL-HST"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "productionDates": [
+    {
+      "month": 8,
+      "year": 1946,
+      "day": 3,
+      "logicalDate": "1946-08-03"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "725630-01-58-01.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/93/199/40019993/content/presidential-libraries/truman/201124/725630-01-58-01.jpg",
+      "objectFileSize": 1210006,
+      "objectId": "40019994",
+      "objectDescription": "Image courtesy of citizen contributor.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "725630-01-58-01.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/93/199/40019993/content/presidential-libraries/truman/201124/725630-01-58-01.pdf",
+      "objectFileSize": 449367,
+      "objectId": "40019995",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "HST-OFF",
+      "inclusiveStartDate": {
+        "year": 1945,
+        "logicalDate": "1945-01-01"
+      },
+      "distance": 3,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "year": 1953,
+        "logicalDate": "1953-12-31"
+      },
+      "title": "Official Files (Truman Administration)",
+      "naId": 1202
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1945,
+        "logicalDate": "1945-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "President (1945-1953 : Truman). Office of the President. (04/1945 - 01/20/1953)",
+          "abolishDate": {
+            "month": 1,
+            "year": 1953,
+            "day": 20,
+            "logicalDate": "1953-01-20"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 4,
+            "year": 1945,
+            "logicalDate": "1945-04-01"
+          },
+          "naId": 10467306
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1953,
+        "logicalDate": "1953-12-31"
+      },
+      "title": "Official Files",
+      "naId": 201124
+    },
+    {
+      "distance": 1,
+      "levelOfDescription": "fileUnit",
+      "title": "Lynching (Colored Question), OF 93-A",
+      "naId": 725630
+    }
+  ],
+  "naId": 40019993
+}

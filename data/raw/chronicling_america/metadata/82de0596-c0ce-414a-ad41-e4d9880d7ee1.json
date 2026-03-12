@@ -1,0 +1,154 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86075250/1953-08-28/ed-1/?sp=4"
+  ],
+  "batch": [
+    "mthi_ismay_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/blaine/",
+    "3/united states/montana/blaine/harlem/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1953-08-28",
+  "dates": [
+    "1953-08-28"
+  ],
+  "description": [
+    "WllTtt HTIOKI AMD KOREA Armistice Is First Phase of Korean Problem Peace Conference Must Solve Other Issues By National Weekly Newspaper Service AN ARMISTICE and ceasefire in Korea have finally been agreed to What have been the results And what are the prob lems that lie ahead These questions are uppermost fa the minds of Americans in every walk of lifein the big towns and the little towns of the nation And because the nation has been so close to the situationwith its cit izensoldiers fighting and dying in a foreign landit has been difficult for many to evaluate the situation Approaching the subject as ob jectively as possible under the cir cumstances this would seem to be the facts COLLECTIVE SECURITY Re sistance to aggression in Korea was the United Nations first effort at collective security Resistance was authorized by the responsible bodies of the United Nations based upon the law of the Charter RESULTS The majority of the delegates to the United Nations and a large section of world public opinion believe that United Nations Intervention in Korea interrupted a pattern of aggression and pre vented a third world war President Dwight Eisenhower had this to say on"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-09T22:58:06.650Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86075250/1953-08-28/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_ismay_ver01:data:sn86075250:00517179061:1953082801:0238/full/pct:6.25/0/default.jpg#h=373&w=282",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_ismay_ver01:data:sn86075250:00517179061:1953082801:0238/full/pct:12.5/0/default.jpg#h=746&w=565",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_ismay_ver01/data/sn86075250/00517179061/1953082801/0238.xml&format=alto_xml"
+  ],
+  "index": 18,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "montana",
+    "harlem",
+    "blaine",
+    "united states"
+  ],
+  "location_city": [
+    "harlem"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "blaine"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0000000004",
+    "0",
+    "sn86075250",
+    "7",
+    "9",
+    "1",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86075250"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "9",
+    "0",
+    "6",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86075250-1953-08-28-ed-1-0238",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the harlem news (harlem, mont.) 1908-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the harlem news (harlem, mont.) 1908-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86075250/1953-08-28/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86075250/1953-08-28/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "montana",
+    "harlem",
+    "blaine",
+    "united states"
+  ],
+  "timestamp": "2023-09-09T23:13:41.644Z",
+  "title": "Image 4 of The Harlem news (Harlem, Mont.), August 28, 1953",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86075250/1953-08-28/ed-1/?sp=4&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_ismay_ver01%2Fdata%2Fsn86075250%2F00517179061%2F1953082801%2F0238.xml&q=korea&relevant_snippet=1"
+}

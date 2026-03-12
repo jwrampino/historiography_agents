@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045012/1923-07-27/ed-1/?sp=2"
+  ],
+  "batch": [
+    "ohi_buttercup_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/butler/",
+    "3/united states/ohio/butler/hamilton/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1923-07-27",
+  "dates": [
+    "1923-07-27"
+  ],
+  "description": [
+    "SrKv THE PRESS OFFICIAL ORGAN OF ORGANIZED LABOR OF HAMILTON AND VICINITY miw OHIO ASSwj Members Ohio Labor Press Association THE NONPAREIL PRINTING CO PUBLISHERS AND PROPRIETORS Subscription Price 100 par Year Payable in Advance We do not hold ourselves responsible for any views or opinions expressed in the articles or communications of correspondents Communications solicited from secretaries of all societies and orKanirations and should be addressed to The Butler County Press 828 Mnrket Street Hamilton Ohio The publishers reserve the right to reject any sdvprtinements at any time Advertising rates made known on appli cation Whatever g intended for Insertion must be authenticated by the name and address of the writer not necesxarily for publication bat as a guarantee of good faith Subscribers chansrins their address will please notify this office giving old and new address to insure regular delivery of paper FRIDAY JULY 271923 Entered at the Postoffice at Hamilton Ohio as Second Class Mail Matter Issued Weekly at 326 Market Street Hamilton Ohio Telephone 1296 Endorsed by the Trades and Labor Council of Hamilton Ohio Endorsed by the Middletown Trades and Labor Council of Middletown O THOMAS BECKETT It was with deep sorrow and re gret that"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:15:15.286Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045012/1923-07-27/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_buttercup_ver01:data:sn83045012:00414210284:1923072701:0747/full/pct:3.125/0/default.jpg#h=307&w=225",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_buttercup_ver01:data:sn83045012:00414210284:1923072701:0747/full/pct:6.25/0/default.jpg#h=615&w=451",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_buttercup_ver01/data/sn83045012/00414210284/1923072701/0747.xml&format=alto_xml"
+  ],
+  "index": 83,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ohio",
+    "united states",
+    "butler",
+    "hamilton"
+  ],
+  "location_city": [
+    "hamilton"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "butler"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "sn83045012",
+    "4",
+    "0000000002",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045012"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "2",
+    "1",
+    "0",
+    "2",
+    "8",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83045012-1923-07-27-ed-1-0747",
+  "partof": [
+    "the butler county press (hamilton, ohio) 1900-1946",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the butler county press (hamilton, ohio) 1900-1946"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045012/1923-07-27/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045012/1923-07-27/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "ohio",
+    "united states",
+    "newspapers",
+    "hamilton",
+    "hamilton (ohio)",
+    "butler"
+  ],
+  "timestamp": "2023-09-05T03:57:56.414Z",
+  "title": "Image 2 of The Butler County press (Hamilton, Ohio), July 27, 1923",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045012/1923-07-27/ed-1/?sp=2&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_buttercup_ver01%2Fdata%2Fsn83045012%2F00414210284%2F1923072701%2F0747.xml&q=immigration&relevant_snippet=1"
+}

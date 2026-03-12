@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1901-12-06/ed-1/?sp=13"
+  ],
+  "batch": [
+    "dlc_japanesechin_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1901-12-06",
+  "dates": [
+    "1901-12-06"
+  ],
+  "description": [
+    "CONTESTS FORSEATS Federation of Labor Convention Hear Pleas of Delegates l1lY RESOLUTIONS OFFERED Color Line Drawn by Action at Yesterdays Session SEPARATE UNIONS URGED SCRANTON Pa December 6The first hour of the second days session of the American Federation of Labor this morn ing was taken up by the calling of the roll and the rEception of a large number of resolutions The resolutions were not read but were at once sent to appropriate com mittees In the temporary absence of President Gompers First Vice President Duncan of Boston presided There are several contests over the seat ing of delegates yet undecided One of the most important is brought by Francis D1 Spagna of the Mosaic Workers Union against the seating of D S Wood presi dent of the Ceramic Mosaic and Encaustic Tile Workers International Union Di Spagnas fight against President Wood is not personal but one over the question of jurisdiction in laying ceramic tiles The Mosaic Workers Union claims the sole right to lay such material and took the question before the Louisville convention of the federation last December Mr Di Spagna claims that the matter was referred to the executive council of the federation which body"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-01-08T13:48:16.632Z",
+  "group": [
+    "ndnp/dlc-2011_2013",
+    "library-of-congress-washington-dc-awardee-4"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1901-12-06/ed-1/?sp=13",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_japanesechin_ver01:data:sn83045462:00280655442:1901120601:0465/full/pct:6.25/0/default.jpg#h=478&w=359",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_japanesechin_ver01:data:sn83045462:00280655442:1901120601:0465/full/pct:12.5/0/default.jpg#h=956&w=718",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_japanesechin_ver01/data/sn83045462/00280655442/1901120601/0465.xml&format=alto_xml"
+  ],
+  "index": 74,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000013",
+    "2",
+    "sn83045462",
+    "8",
+    "6",
+    "5",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000013"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "5",
+    "4",
+    "4",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday issues for Mar. 26, 1905-July 9,1972 called: Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1901-12-06-ed-1-0465",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1901-12-06/ed-1/?sp=13"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1901-12-06/ed-1/"
+  ],
+  "shelf_id": "13",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "https://id.oclc.org/worldcat/entity/e39pbjfcwcmmjdpvk8h8hpkccp",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2025-01-08T23:17:54.252Z",
+  "title": "Image 13 of Evening star (Washington, D.C.), December 6, 1901",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1901-12-06/ed-1/?sp=13&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_japanesechin_ver01%2Fdata%2Fsn83045462%2F00280655442%2F1901120601%2F0465.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

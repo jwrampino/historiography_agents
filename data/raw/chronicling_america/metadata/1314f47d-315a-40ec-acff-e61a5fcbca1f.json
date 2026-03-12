@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1904-02-06/ed-1/?sp=29"
+  ],
+  "batch": [
+    "dlc_rottweiler_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1904-02-06",
+  "dates": [
+    "1904-02-06"
+  ],
+  "description": [
+    "r ADVERTISED LETTERS The following ts n 11st of advertised lettr m tnalnin In the Washington I C pot offlr bat Vrdir KohnBirj tt UH _ To obtain KBj of Umm letter the applicant bould rnll fur Advertised Letters It not rilled for within two 2 weeks the will be Bent to the dead letter office IJVDLES LIST Aketnar Mr J W Atar Mr Srih Adams Miss riManco f Adansu Mr Edw Allen Mrs Breariea A llu Mrs Iattle Almond Mist Carrie AlUturu Miss Myrtle Anderson Miss Lilian Anderson Mrs R O Asly Marnie Baiftoy Mrs Stian llabv Miss Wzatxth Kali Mrs Mnn Banks Mrs fjfTee Jartier Mis Lena Karnes Mra Fannie Bites Mian Lucy Bayler Mra B A Beander Miss rrie lie ark Mis Martha Bell Mrs Annie Hell Mrs FretTk A Bell Miaa Sadie Bennett Miss Annie V Polity Mrs L E Bettors Mrs Ida Biggs Mrs Etta Bird Mrs Annie I Black Miss Helen 3 Blair Miaa Ifiugena Blake Mrs Jennie Iroofcer MKs Llllle Boaton Mrs Lizzie Boner Miss Ixmiae Bourquina Mra L Borer Annie Law rence Mrs F K Lawrence Mrs Verjta M Lee Mis Llrzia Lentil Mis Oile Lenine Miaa May Lewis Mrs Belle Lewis"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-01-08T13:49:28.002Z",
+  "group": [
+    "ndnp/dlc-2011_2013",
+    "library-of-congress-washington-dc-awardee-4"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1904-02-06/ed-1/?sp=29",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:0028065551A:1904020601:0594/full/pct:6.25/0/default.jpg#h=480&w=362",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:0028065551A:1904020601:0594/full/pct:12.5/0/default.jpg#h=960&w=724",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_rottweiler_ver01/data/sn83045462/0028065551A/1904020601/0594.xml&format=alto_xml"
+  ],
+  "index": 180,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "0000000029",
+    "8",
+    "6",
+    "5",
+    "a",
+    "sn83045462",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000029"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "5",
+    "5",
+    "1",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday issues for Mar. 26, 1905-July 9,1972 called: Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1904-02-06-ed-1-0594",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1904-02-06/ed-1/?sp=29"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1904-02-06/ed-1/"
+  ],
+  "shelf_id": "29",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "https://id.oclc.org/worldcat/entity/e39pbjfcwcmmjdpvk8h8hpkccp",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2025-01-09T07:22:38.692Z",
+  "title": "Image 29 of Evening star (Washington, D.C.), February 6, 1904",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1904-02-06/ed-1/?sp=29&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_rottweiler_ver01%2Fdata%2Fsn83045462%2F0028065551A%2F1904020601%2F0594.xml&q=medicine&relevant_snippet=1"
+}

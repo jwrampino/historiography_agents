@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84024221/1946-05-02/ed-1/?sp=1"
+  ],
+  "batch": [
+    "ohi_foxglove_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/montgomery/",
+    "3/united states/ohio/montgomery/dayton/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1946-05-02",
+  "dates": [
+    "1946-05-02"
+  ],
+  "description": [
+    "PAYTON CCUEfN FAIR FEARLESS Vol 6No 34 r The CHICAGO FLIGHT OFFICERS PLANE CRASH VICTIMS AT TUSKEGEE TUSKEGEE May 2 ANP Flight Officers Sylvester H Hurd Jr and George A Bates pilots at Tuskegee Army Air field were killed here when the single engine trainer in which they were on a routine flight crashed near Mil stead Ala Cause of the crash has not yet been determined but a board has been appointed to investigate the accident Flight Officer Hurd who re ceived his pilot wings here last No vember was the son of Sylvester H Hurd Sr of East Chicago and Flight Officer Bates a March TAAF graduate was the son of Mrs Grace C Bates of Chicago Both officers were undergoing con tinuation training according to Col_Parrish commanding officer here SPINGARN MEDAL TO THURGOOD MARSHALL NEW YORK May 2 ANP Thurgood Marshall NAACP spe cial counsel was named the 31st recipient of the Spingarn medal awarded annually for highest achievement by a Negro The noted lawyer received the 1946 award for distinguished service as a lawyer particularly in the Texas Primary case which may have more far reaching influence than any other act in the ending of disfranchise"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:18:08.736Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84024221/1946-05-02/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_foxglove_ver01:data:sn84024221:00340580084:1946050201:1014/full/pct:6.25/0/default.jpg#h=408&w=277",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_foxglove_ver01:data:sn84024221:00340580084:1946050201:1014/full/pct:12.5/0/default.jpg#h=817&w=554",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_foxglove_ver01/data/sn84024221/00340580084/1946050201/1014.xml&format=alto_xml"
+  ],
+  "index": 112,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ohio",
+    "united states",
+    "dayton",
+    "montgomery"
+  ],
+  "location_city": [
+    "dayton"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "montgomery"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "8",
+    "5",
+    "4",
+    "3",
+    "sn84024221",
+    "0",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84024221"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "0",
+    "0",
+    "8",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84024221-1946-05-02-ed-1-1014",
+  "partof": [
+    "serial and government publications division",
+    "the daily bulletin (dayton, ohio) 1942-1946",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the daily bulletin (dayton, ohio) 1942-1946"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84024221/1946-05-02/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84024221/1946-05-02/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "ohio",
+    "dayton (ohio)",
+    "united states",
+    "montgomery",
+    "african american",
+    "newspapers",
+    "dayton",
+    "african americans"
+  ],
+  "subject_ethnicity": [
+    "african american"
+  ],
+  "timestamp": "2023-09-05T13:45:29.461Z",
+  "title": "Image 1 of The daily bulletin (Dayton, Ohio), May 2, 1946",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84024221/1946-05-02/ed-1/?sp=1&q=civil+rights",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_foxglove_ver01%2Fdata%2Fsn84024221%2F00340580084%2F1946050201%2F1014.xml&q=civil+rights&relevant_snippet=1"
+}

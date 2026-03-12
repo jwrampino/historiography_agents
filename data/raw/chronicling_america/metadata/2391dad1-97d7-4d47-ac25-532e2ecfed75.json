@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87065228/1953-03-26/ed-1/?sp=1"
+  ],
+  "batch": [
+    "msar_lapis_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/mississippi/",
+    "2/united states/mississippi/holmes/",
+    "3/united states/mississippi/holmes/durant/"
+  ],
+  "contributor": [
+    "mississippi department of archives and history"
+  ],
+  "date": "1953-03-26",
+  "dates": [
+    "1953-03-26"
+  ],
+  "description": [
+    "Football fans particularly Ole Miss supporters will be interested in the following comment made by the sports editor of the New Orleans TimesPicayune in his Sunday column Viewing the News Bill Keefes observations which should be impartial as well as competent back up those Ole Miss supporters who have been vehemently claim ing their team did not get a square deal in the 1953 Sugar Bowl game with Georgia Tech Now for Mr Keefes column which we reprint Mangidfioent Picture Colored movies of the Sugar Bowl game shown Sunday to the MidWinter Sports Associa tions big party for the Sugarettes at the St Charles are an alltime high in foot ball pics The soft but varied and gorgeous colors of the crowds and the vinecovered stadium ends the contour of the crowds in the lower stands and upper decks and the ex cellence of the presentation of boxing basketball track ten nis and yachting as well as the football classic form a treat that will be watched by millions Every watcher will envy those who were in Tulane Stadium for the game No finer tribute could be paid to a city than this picture pays to Americas most interesting city"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:44:56.297Z",
+  "group": [
+    "ndnp/msar",
+    "mississippi-department-of-archives-and-history"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87065228/1953-03-26/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lapis_ver01:data:sn87065228:00383344785:1953032601:1049/full/pct:6.25/0/default.jpg#h=437&w=313",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lapis_ver01:data:sn87065228:00383344785:1953032601:1049/full/pct:12.5/0/default.jpg#h=875&w=627",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/msar/batch_msar_lapis_ver01/data/sn87065228/00383344785/1953032601/1049.xml&format=alto_xml"
+  ],
+  "index": 166,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "holmes",
+    "united states",
+    "mississippi",
+    "durant"
+  ],
+  "location_city": [
+    "durant"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "holmes"
+  ],
+  "location_state": [
+    "mississippi"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "0",
+    "sn87065228",
+    "3",
+    "7",
+    "1",
+    "0000000001",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87065228"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "8",
+    "3",
+    "3",
+    "4",
+    "4",
+    "7",
+    "8",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87065228-1953-03-26-ed-1-1049",
+  "partof": [
+    "chronicling america",
+    "the durant news (durant, miss.) 1882-1985",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the durant news (durant, miss.) 1882-1985"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87065228/1953-03-26/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87065228/1953-03-26/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "holmes",
+    "durant",
+    "mississippi",
+    "united states"
+  ],
+  "timestamp": "2023-07-06T06:22:51.602Z",
+  "title": "Image 1 of The Durant news (Durant, Miss.), March 26, 1953",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87065228/1953-03-26/ed-1/?sp=1&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmsar%2Fbatch_msar_lapis_ver01%2Fdata%2Fsn87065228%2F00383344785%2F1953032601%2F1049.xml&q=korea&relevant_snippet=1"
+}

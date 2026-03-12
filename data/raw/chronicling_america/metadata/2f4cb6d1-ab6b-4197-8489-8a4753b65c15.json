@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87075269/1898-05-19/ed-1/?sp=3"
+  ],
+  "batch": [
+    "ohi_james_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/guernsey/",
+    "3/united states/ohio/guernsey/cumberland/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1898-05-19",
+  "dates": [
+    "1898-05-19"
+  ],
+  "description": [
+    "IS AT HIS MERCI Dewey Ccys He Can Tako Manila at Any Time Insurgents Have the City Hemmed Tn on the Land SieThe Admiral Captures the Spanish Gunboat Callao Ecareity of Food in the Ilcleaguered City Washington May 10 A dispatch from Hong Kong brought welcome news yesterday from Admiral Dewey to the president Secretary Long and the naval officials who are watching the admirals movements with so much interest The telegram indicates that Dewey has lost none of the prestige gained in his memorable fight two weeks ago and that while he refrains from taking the city of Manila he has it practically at his mercy The best evidence of the effective nessof the blockade maintained by the American admiral and also of the work of the insurgents in surrounding the city is shown in the statements in the dispatch that provisions are scarce in Manila which seems to indicate to Admiral Dewey an early surrender by the Spanish authorities Another pub lished report seems also to be refuted by the admirals advices and that is that the rebels had raided Cavite where the Spanish naval station was located and where presumably large supplies of arms and ammunition were"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-07-02T21:25:46.910Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87075269/1898-05-19/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_james_ver01:data:sn87075269:00516994101:1898051901:0091/full/pct:6.25/0/default.jpg#h=377&w=251",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_james_ver01:data:sn87075269:00516994101:1898051901:0091/full/pct:12.5/0/default.jpg#h=755&w=502",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_james_ver01/data/sn87075269/00516994101/1898051901/0091.xml&format=alto_xml"
+  ],
+  "index": 143,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ohio",
+    "united states",
+    "cumberland",
+    "guernsey",
+    "guernsey county"
+  ],
+  "location_city": [
+    "cumberland"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "guernsey"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "0000000003",
+    "5",
+    "6",
+    "9",
+    "sn87075269",
+    "4",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87075269"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "4",
+    "1",
+    "0",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87075269-1898-05-19-ed-1-0091",
+  "partof": [
+    "the cumberland echo (cumberland, o. [ohio]) 1892-1952",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the cumberland echo (cumberland, o. [ohio]) 1892-1952"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87075269/1898-05-19/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87075269/1898-05-19/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "ohio",
+    "guernsey county (ohio)",
+    "united states",
+    "cumberland",
+    "guernsey",
+    "newspapers",
+    "guernsey county",
+    "cumberland (ohio)"
+  ],
+  "timestamp": "2025-07-02T22:01:33.989Z",
+  "title": "Image 3 of The Cumberland echo (Cumberland, O. [Ohio]), May 19, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87075269/1898-05-19/ed-1/?sp=3&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_james_ver01%2Fdata%2Fsn87075269%2F00516994101%2F1898051901%2F0091.xml&q=spanish&relevant_snippet=1"
+}

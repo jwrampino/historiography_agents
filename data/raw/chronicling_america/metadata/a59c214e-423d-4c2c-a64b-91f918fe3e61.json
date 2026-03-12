@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn92073229/1959-01-15/ed-1/?sp=5"
+  ],
+  "batch": [
+    "ncu_dowe_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/north carolina/",
+    "2/united states/north carolina/orange/",
+    "3/united states/north carolina/orange/chapel hill/"
+  ],
+  "contributor": [
+    "university of north carolina at chapel hill library, chapel hill, nc"
+  ],
+  "date": "1959-01-15",
+  "dates": [
+    "1959-01-15"
+  ],
+  "description": [
+    "Thursday January 15 1959 John W Carr 111 Native of Durham Will Be Director of Computor Center Mathematician John W Carr 111 of the University of Michigan and a native North Carolinian will be director of the Computer Center at the University here He will also be an associate profes sor of mathematics Profesor Carr at the age of 35 is one of the nations outstanding authorities on electronic comput ers He will have charge of op erations when the Univac 1105 Data Automation System is instal led at Chapel Hill in 1059 The 24 million computor has been ac quired by the Consolidated Uni 9 versity by arrangement with Rem ington Rand Company the Bureau of the Census and the National Science FoufcLition This installa tion ushers inTor the South a new era of automation Mr Carr is a native of Durham and a graduate of Duke University where he received the BS degree in electrical engineering in 1943 His father John W Carr 11 is a member of the Duke University ii r ri i HOW LONG WILL YOU LIVE When you have mortgage insurance its the mortgage that walks outNOT YOUR FAMILY Matt Thompson Arthur De\u00dferry Jr"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-12T17:33:38.394Z",
+  "group": [
+    "ndnp/ncu",
+    "university-of-north-carolina-chapel-hill-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn92073229/1959-01-15/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dowe_ver01:data:sn92073229:00332891856:1959011501:0033/full/pct:3.125/0/default.jpg#h=277&w=209",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dowe_ver01:data:sn92073229:00332891856:1959011501:0033/full/pct:6.25/0/default.jpg#h=554&w=418",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dowe_ver01:data:sn92073229:00332891856:1959011501:0033/full/pct:12.5/0/default.jpg#h=1108&w=836",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ncu/batch_ncu_dowe_ver01/data/sn92073229/00332891856/1959011501/0033.xml&format=alto_xml"
+  ],
+  "index": 21,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "orange",
+    "north carolina",
+    "orange county",
+    "chapel hill",
+    "united states"
+  ],
+  "location_city": [
+    "chapel hill"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "orange"
+  ],
+  "location_state": [
+    "north carolina"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0000000005",
+    "sn92073229",
+    "8",
+    "0",
+    "2",
+    "9",
+    "1",
+    "3",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn92073229"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "1",
+    "8",
+    "5",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn92073229-1959-01-15-ed-1-0033",
+  "partof": [
+    "chronicling america",
+    "the chapel hill weekly (chapel hill, n.c.) 1923-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the chapel hill weekly (chapel hill, n.c.) 1923-1972"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn92073229/1959-01-15/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn92073229/1959-01-15/ed-1/"
+  ],
+  "shelf_id": "05",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "orange",
+    "north carolina",
+    "orange county",
+    "orange county (n.c.)",
+    "chapel hill",
+    "chapel hill (n.c.)",
+    "united states"
+  ],
+  "timestamp": "2023-08-13T01:12:46.424Z",
+  "title": "Image 5 of The Chapel Hill weekly (Chapel Hill, N.C.), January 15, 1959",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn92073229/1959-01-15/ed-1/?sp=5&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fncu%2Fbatch_ncu_dowe_ver01%2Fdata%2Fsn92073229%2F00332891856%2F1959011501%2F0033.xml&q=computers&relevant_snippet=1"
+}

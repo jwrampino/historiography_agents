@@ -1,0 +1,143 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85058396/1918-01-04/ed-1/?sp=7"
+  ],
+  "batch": [
+    "uuml_julich_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/utah/",
+    "2/united states/utah/weber/",
+    "3/united states/utah/weber/ogden/"
+  ],
+  "contributor": [
+    "university of utah, marriott library"
+  ],
+  "date": "1918-01-04",
+  "dates": [
+    "1918-01-04"
+  ],
+  "description": [
+    "J THE OGDEN STAND ARD OGDEN XJTAH FRIDAY JANUARY 4 1918 j BIG 74CT BILL j Today and Saturday jtiljp Most Sensational Headline 5 a Feature of the Year pan i Dream of wt the Orient i featuring Madame Makarenke and 0renta Dancn9 Grs aNsther GREAT acts Z SHOWS DAILY 3 COIl 152535c i MATINEE 101525C edit j Tn i 1 f CITY UK MEN TO I BENE THEIR HUESII Jing I e a Jnv ri Questionnaires were sent by the city nti aemption board today to the follow v be registrants 75 Delwin Hutchins Isaac Guy Allred 25c igster Grant Hinchcliffe Francis jierse George Dalebout Jost John 15c G White Carl Flygare Howard E jjeror Albert Alberts Julius Perondi 345 v Albert D Johnson Jerome C Rush Ramimondi Dettori George T Don15c 1 Jdson David E Edlind James H Wiggins Pedro Romero Claude R 25c fjark James C Jones William C Jol 25c liffe Fulvis Luchetti Arthur E 25c J 1 WiXHis Frank West Brewer Daniel 4 Traseth Heiko Dallinga Joseph 35c Browning George A Phillipps Earl W 50c Brinton Fred S Furniss Harry Sand 0c man Timothy A Kelliher Joseph W I Watkins Jr Darroll W Burk A"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T16:01:19.264Z",
+  "group": [
+    "ndnp/uuml",
+    "university-of-utah-marriott-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85058396/1918-01-04/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_julich_ver01:data:sn85058396:print:1918010401:0034/full/pct:3.125/0/default.jpg#h=293&w=215",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_julich_ver01:data:sn85058396:print:1918010401:0034/full/pct:6.25/0/default.jpg#h=587&w=431",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_julich_ver01:data:sn85058396:print:1918010401:0034/full/pct:12.5/0/default.jpg#h=1174&w=862",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/uuml/batch_uuml_julich_ver01/data/sn85058396/print/1918010401/0034.xml&format=alto_xml"
+  ],
+  "index": 39,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "weber",
+    "united states",
+    "utah",
+    "weber county",
+    "ogden"
+  ],
+  "location_city": [
+    "ogden"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "weber"
+  ],
+  "location_state": [
+    "utah"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn85058396",
+    "0000000007",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85058396"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85058396-1918-01-04-ed-1-0034",
+  "partof": [
+    "chronicling america",
+    "the ogden standard (ogden city, utah) 1913-1920",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the ogden standard (ogden city, utah) 1913-1920"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85058396/1918-01-04/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85058396/1918-01-04/ed-1/"
+  ],
+  "shelf_id": "07",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "weber",
+    "united states",
+    "newspapers",
+    "weber county (utah)",
+    "utah",
+    "ogden (utah)",
+    "weber county",
+    "ogden"
+  ],
+  "timestamp": "2022-11-28T14:28:32.741Z",
+  "title": "Image 7 of The Ogden standard (Ogden City, Utah), January 4, 1918, (4 P.M. CITY EDITION)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85058396/1918-01-04/ed-1/?sp=7&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fuuml%2Fbatch_uuml_julich_ver01%2Fdata%2Fsn85058396%2Fprint%2F1918010401%2F0034.xml&q=manifest+destiny&relevant_snippet=1"
+}

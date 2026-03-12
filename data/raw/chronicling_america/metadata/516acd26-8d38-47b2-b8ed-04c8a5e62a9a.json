@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84026749/1923-12-08/ed-1/?sp=8"
+  ],
+  "batch": [
+    "dlc_melville_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1923-12-08",
+  "dates": [
+    "1923-12-08"
+  ],
+  "description": [
+    "8 EUROPESEEKING WISH u s CMS Chief Engineer Jack of Olds Co Returns From Abroad With Data on Trade The coming European market for automobiles will call for a light six cylinder cai of small bore selling at about 250 pounds sterling accord ing to R K Jack chief engineer of the Olds Motor Works Lansing Mich who has just returned from a two months tour of the continent as a member of a party of General Motors engineers This type car he said will meet the demands of the middle class which atpresent is de spairing of ever owning an automo bile having more than four cyl inders European countries tax automo biles according to horsepower com puted on the basis of size of cyl inder said Jack For that reason a large bore and an overengined car carries a tax which is practicably prohibitive to the greater number of potential automobile owners In foreign countries the head of the average family has to provide for a greater number of children by far than is the case in the United States Add to this the fact that since the war business conditions have been generally bad it can read"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-07T20:33:03.037Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84026749/1923-12-08/ed-1/?sp=8",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_melville_ver02:data:sn84026749:0022225405A:1923120801:0480/full/pct:3.125/0/default.jpg#h=279&w=233",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_melville_ver02:data:sn84026749:0022225405A:1923120801:0480/full/pct:6.25/0/default.jpg#h=558&w=466",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_melville_ver02:data:sn84026749:0022225405A:1923120801:0480/full/pct:12.5/0/default.jpg#h=1116&w=932",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_melville_ver02/data/sn84026749/0022225405A/1923120801/0480.xml&format=alto_xml"
+  ],
+  "index": 125,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn84026749",
+    "a",
+    "2",
+    "0000000008",
+    "5",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84026749"
+  ],
+  "number_page": [
+    "0000000008"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "2",
+    "2",
+    "2",
+    "5",
+    "4",
+    "0",
+    "5",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Washington times herald"
+  ],
+  "page_id": "sn84026749-1923-12-08-ed-1-0480",
+  "partof": [
+    "chronicling america",
+    "the washington times (washington [d.c.]) 1902-1939",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington times (washington [d.c.]) 1902-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84026749/1923-12-08/ed-1/?sp=8"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84026749/1923-12-08/ed-1/"
+  ],
+  "shelf_id": "08",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-08-08T13:27:21.048Z",
+  "title": "Image 8 of The Washington times (Washington [D.C.]), December 8, 1923",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84026749/1923-12-08/ed-1/?sp=8&q=oil",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_melville_ver02%2Fdata%2Fsn84026749%2F0022225405A%2F1923120801%2F0480.xml&q=oil&relevant_snippet=1"
+}

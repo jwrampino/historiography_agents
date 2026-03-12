@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83025247/1939-09-22/ed-1/?sp=2"
+  ],
+  "batch": [
+    "mnhi_croquet_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/minnesota/",
+    "2/united states/minnesota/hennepin/",
+    "3/united states/minnesota/hennepin/minneapolis/"
+  ],
+  "contributor": [
+    "minnesota historical society; saint paul, mn"
+  ],
+  "date": "1939-09-22",
+  "dates": [
+    "1939-09-22"
+  ],
+  "description": [
+    "PAGE TWO MINNEAPOLIS SPOKESMAN An Independent Newspaper Published every Friday by SpokesmanRecorder Publishing Co Editorial and Business Offices at 306 Third Street South Minneapolis Minnesota U S A Phones BRidgeport 3595 Midway 8340 Entered as secondclass matter October 26 1936 at the post office at Minneapolis Minnesota under the Act of March 3 1879 SUBSCRIPTION RATES One year 2 six months 125 three months 075 payable strictly in advance Promising prep school football candidates in Minneapolis are Carl Wade Jr at South and Leroy Anderson who is a sure shot for Centrals De Velma NewmanBusiness Manager Curtis Chiversi Advertising Gordon Parks J W Pate Circulation TTIVB All the Negro race asks is that the door which rewards industry thrift intelligence and character be left as wide open to him as to others More than this he has no right to request less than this the Republic has no right to vouchsafeB T Washington Friday September 221939 Joe Louis Good Will Ambassador Whenever Joe Louis enters the ring he chalks up another victory for better race relations in the United States The masses of people who never hear of our great scientists artists and other types of out standing people know"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-03T23:20:06.081Z",
+  "group": [
+    "ndnp/mnhi",
+    "minnesota-historical-society-saint-paul-mn-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83025247/1939-09-22/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_croquet_ver01:data:sn83025247:00393340095:1939092201:0791/full/pct:6.25/0/default.jpg#h=451&w=340",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_croquet_ver01:data:sn83025247:00393340095:1939092201:0791/full/pct:12.5/0/default.jpg#h=902&w=680",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mnhi/batch_mnhi_croquet_ver01/data/sn83025247/00393340095/1939092201/0791.xml&format=alto_xml"
+  ],
+  "index": 185,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "minneapolis",
+    "minnesota",
+    "hennepin county",
+    "hennepin",
+    "united states"
+  ],
+  "location_city": [
+    "minneapolis"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hennepin"
+  ],
+  "location_state": [
+    "minnesota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0000000002",
+    "0",
+    "9",
+    "sn83025247",
+    "1",
+    "3",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83025247"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "9",
+    "3",
+    "3",
+    "4",
+    "0",
+    "0",
+    "9",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83025247-1939-09-22-ed-1-0791",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "minneapolis spokesman (minneapolis, minn.) 1934-2000"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "minneapolis spokesman (minneapolis, minn.) 1934-2000"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83025247/1939-09-22/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83025247/1939-09-22/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "minneapolis",
+    "african americans",
+    "minnesota",
+    "african american",
+    "hennepin county",
+    "hennepin county (minn.)",
+    "minneapolis (minn.)",
+    "hennepin",
+    "united states"
+  ],
+  "subject_ethnicity": [
+    "african american"
+  ],
+  "timestamp": "2024-01-04T12:04:58.976Z",
+  "title": "Image 2 of Minneapolis spokesman (Minneapolis, Minn.), September 22, 1939",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83025247/1939-09-22/ed-1/?sp=2&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmnhi%2Fbatch_mnhi_croquet_ver01%2Fdata%2Fsn83025247%2F00393340095%2F1939092201%2F0791.xml&q=fascism&relevant_snippet=1"
+}

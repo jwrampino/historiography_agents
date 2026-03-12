@@ -1,0 +1,174 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84020097/1933-11-22/ed-1/?sp=6"
+  ],
+  "batch": [
+    "iune_fluorite_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/",
+    "1/united states/illinois/",
+    "2/united states/illinois/cook/",
+    "3/united states/illinois/cook/chicago/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1933-11-22",
+  "dates": [
+    "1933-11-22"
+  ],
+  "description": [
+    "Page Six rrfa A W3MS Americas Only Working Class Daily Newspaper FOUNDED 194 olltshed UlUiy except Sunday by the ComprodeUy Puthhi Io SO Bast 18th Street New York N T eiephoea ALgonquln 47955 W Address TJatwork New York Jt T Vashlugtoo Surean Room 64 NaMonel Prune Buildtn 4th ao4 a St Washington D C Subscription Bates y Mall except Manhattan and Bronx 1 year 80 00 l moothe 5350 S months 200 1 month 75 cents tinhattan Bronx Foreign and Canada 1 year 8400 Btonthe 8800 3 months 83 00 8y Carrier Weekly 18 cents monthly 75 cents WEDNESDAY NOVEMBER 32 1933 U S S R Recognition and the Socialist Party Continued from Page 1 sms we have the intimation of Mr Lee Socialist leader hat they will continue to do so VNLY the day before the Socialist Jewish Forward A sensing the widespread enthusiasm among the Amer can working masses over recognition of the Soviet Moi declared A feeling of joy ran through the United States ns throughout the world when it became known that the United States recognized the Soviet Union and no one feels more sincerely happy than the Social ists Every worker will have the greatest"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:20:32.314Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84020097/1933-11-22/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_fluorite_ver01:data:sn84020097:00332897421:1933112201:0726/full/pct:3.125/0/default.jpg#h=271&w=208",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_fluorite_ver01:data:sn84020097:00332897421:1933112201:0726/full/pct:6.25/0/default.jpg#h=542&w=417",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_fluorite_ver01:data:sn84020097:00332897421:1933112201:0726/full/pct:12.5/0/default.jpg#h=1085&w=834",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_fluorite_ver01/data/sn84020097/00332897421/1933112201/0726.xml&format=alto_xml"
+  ],
+  "index": 194,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "new york",
+    "chicago",
+    "illinois",
+    "new york city",
+    "cook"
+  ],
+  "location_city": [
+    "new york",
+    "chicago"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york",
+    "cook"
+  ],
+  "location_state": [
+    "new york",
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "9",
+    "0000000006",
+    "7",
+    "4",
+    "3",
+    "sn84020097",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84020097"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "7",
+    "4",
+    "2",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84020097-1933-11-22-ed-1-0726",
+  "partof": [
+    "the daily worker (chicago, ill.;new york, n.y.) 1924-1958",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the daily worker (chicago, ill.;new york, n.y.) 1924-1958"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84020097/1933-11-22/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84020097/1933-11-22/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "new york",
+    "labor unions",
+    "chicago (ill.)",
+    "chicago",
+    "illinois",
+    "labor movement",
+    "new york (state)",
+    "newspapers",
+    "communism",
+    "cook",
+    "new york (n.y.)"
+  ],
+  "timestamp": "2025-05-22T03:16:42.225Z",
+  "title": "Image 6 of The daily worker (Chicago, Ill.;New York, N.Y.), November 22, 1933",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84020097/1933-11-22/ed-1/?sp=6&q=soviet+union",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_fluorite_ver01%2Fdata%2Fsn84020097%2F00332897421%2F1933112201%2F0726.xml&q=soviet+union&relevant_snippet=1"
+}

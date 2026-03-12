@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85055101/1942-05-21/ed-1/?sp=1"
+  ],
+  "batch": [
+    "dlc_eastliberty_ver03"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/pennsylvania/",
+    "2/united states/pennsylvania/allegheny/",
+    "3/united states/pennsylvania/allegheny/pittsburgh/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1942-05-21",
+  "dates": [
+    "1942-05-21"
+  ],
+  "description": [
+    "THE OLDEST AND LARGEST SERBIAN DAILY NEWSPAPER IN AMERICA PUBLISHED DAILY Except Saturdays Sundays and Holidays Olficla Organ of SERE NATIONAL FEDERATION Entered as secondclass matter April 13 1906 at the Post Office wof Putsburgh l gg of gdg 3 1879 VOL XXXVI No 8093 THE AMERICAN SRBOBRAN PITSEUR PA Towdy My 21 1082 Acceptance for mailing st epecial rate of posage provided for in Section 1103 Act of Oupber 3 1917 authorised Joly 12 1918 9 3 THAT SECOND FRONT ls America growing offensiveminded 7 E Some guarters profess the AEF in Ireland is there more for psychological effect than to lend credence 1o talk of second fromt offensive The force is wtill too small it is argued for any largescale undertaking At best it can only serve to immobilize seversl Nazi divisions that could be put to good use in Russia thus i in small way to the war of nerves now being employed agains Hitler We disagree a 0 America plays for high stakesand plays to win America through President Roosevelt was offensiveminded from the outbreak of the war What wait awhile attitude manifest then was engendered more by lack of preparedness than desire Every turning powt"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-12-29T03:41:55.204Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85055101/1942-05-21/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastliberty_ver03:data:sn85055101:print:1942052101:0001/full/pct:12.5/0/default.jpg#h=403&w=314",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastliberty_ver03:data:sn85055101:print:1942052101:0001/full/pct:25/0/default.jpg#h=807&w=628",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_eastliberty_ver03/data/sn85055101/print/1942052101/0001.xml&format=alto_xml"
+  ],
+  "index": 97,
+  "language": [
+    "english",
+    "serbian"
+  ],
+  "location": [
+    "pittsburgh",
+    "canada",
+    "united states",
+    "allegheny",
+    "pennsylvania",
+    "allegheny county"
+  ],
+  "location_city": [
+    "pittsburgh"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "allegheny"
+  ],
+  "location_state": [
+    "pennsylvania"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000001",
+    "1",
+    "sn85055101"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85055101"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438 \u0441\u0440\u0431\u043e\u0431\u0440\u0430\u043d",
+    "Issues for <Feb. 4, 1918-> have English parallel title: American srbobran"
+  ],
+  "page_id": "sn85055101-1942-05-21-ed-1-0001",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "amerikanski srbobran (pittsburg, pa.;pittsburgh, pa.) 1906-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "amerikanski srbobran (pittsburg, pa.;pittsburgh, pa.) 1906-current"
+  ],
+  "publication_frequency": [
+    "semimonthly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85055101/1942-05-21/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85055101/1942-05-21/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "pittsburgh",
+    "canada",
+    "united states",
+    "serbs",
+    "allegheny",
+    "serbian",
+    "newspapers",
+    "https://id.oclc.org/worldcat/entity/e39pbjkmhvw4rfvxprhvp4vwg3",
+    "pennsylvania",
+    "allegheny county",
+    "https://id.oclc.org/worldcat/entity/e39pbjxrxbhw3qhvh8dhd6fhyp",
+    "https://id.oclc.org/worldcat/entity/e39pbjrrtrm7hc7dmvtffcgyfq",
+    "serbian americans",
+    "allegheny county (pa.)",
+    "pittsburgh (pa.)",
+    "https://id.oclc.org/worldcat/entity/e39pbjtxgqxmwqmjmjjwxrhgrq"
+  ],
+  "subject_ethnicity": [
+    "serbian"
+  ],
+  "timestamp": "2024-12-29T03:58:43.012Z",
+  "title": "Image 1 of Amerikanski srbobran (Pittsburg, Pa.;Pittsburgh, Pa.), May 21, 1942",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85055101/1942-05-21/ed-1/?sp=1&q=phillipines",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_eastliberty_ver03%2Fdata%2Fsn85055101%2Fprint%2F1942052101%2F0001.xml&q=phillipines&relevant_snippet=1"
+}

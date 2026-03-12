@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87093039/1921-01-14/ed-1/?sp=2"
+  ],
+  "batch": [
+    "wa_cedar_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/washington/",
+    "2/united states/washington/chelan/",
+    "3/united states/washington/chelan/leavenworth/"
+  ],
+  "contributor": [
+    "washington state library; olympia, wa"
+  ],
+  "date": "1921-01-14",
+  "dates": [
+    "1921-01-14"
+  ],
+  "description": [
+    "v i ij Wlli INSTITUTION J C PENNEY COMPANY A NATIONWIDE INSTITUTION I C PENNEY COMPANY A N A IIONWIDE INSTITUTION I ri nm Ml AM A _ s Putting Our House in Order j To fleet New Conditions jj 1 z I 5 The J C PENNEY CO Operating 312 Department Stores in 27 States I will on FRIDAY JANUARY 14th open its doors with Recon struction Prices prevailingEvery price in our stores is based upon our replacement price REGARDLESS OF PREVIOUS COST l I EJELIEVIM the lime has arrived when revision of prices is warranted Do not confuse his with the usual mark up and mark down sale CM by replacement value discounted our merchandise thousands mon v he hv ther merchants The J C Penney Company never has nor of dollars in our inventory just completedwe therefore give to the public does nW e in special sales Remember every article will remain as _ does it now believe in special sales Remember eer article win jemain a I the full benefit of the loss we sustain priced until sold or forced by market conditions to change I I I 1 i Remember we have said OUR RE"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-04-26T11:24:36.520Z",
+  "group": [
+    "ndnp/wa",
+    "washington-state-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87093039/1921-01-14/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_cedar_ver01:data:sn87093039:00211107704:1921011401:0427/full/pct:6.25/0/default.jpg#h=406&w=305",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_cedar_ver01:data:sn87093039:00211107704:1921011401:0427/full/pct:12.5/0/default.jpg#h=813&w=611",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wa/batch_wa_cedar_ver01/data/sn87093039/00211107704/1921011401/0427.xml&format=alto_xml"
+  ],
+  "index": 14,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "leavenworth",
+    "united states",
+    "chelan",
+    "washington"
+  ],
+  "location_city": [
+    "leavenworth"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "chelan"
+  ],
+  "location_state": [
+    "washington"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn87093039",
+    "0",
+    "1",
+    "2",
+    "4",
+    "7",
+    "0000000002"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87093039"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "1",
+    "1",
+    "0",
+    "7",
+    "7",
+    "0",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87093039-1921-01-14-ed-1-0427",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the leavenworth echo (leavenworth, wash.) 1904-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the leavenworth echo (leavenworth, wash.) 1904-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87093039/1921-01-14/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87093039/1921-01-14/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington (state)",
+    "chelan",
+    "united states",
+    "newspapers",
+    "washington",
+    "leavenworth (wash.)",
+    "leavenworth"
+  ],
+  "timestamp": "2024-04-26T15:56:41.842Z",
+  "title": "Image 2 of The Leavenworth echo (Leavenworth, Wash.), January 14, 1921",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87093039/1921-01-14/ed-1/?sp=2&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwa%2Fbatch_wa_cedar_ver01%2Fdata%2Fsn87093039%2F00211107704%2F1921011401%2F0427.xml&q=reconstruction&relevant_snippet=1"
+}

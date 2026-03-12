@@ -1,0 +1,118 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "useRestriction": {
+    "note": "Some or all of this material may be restricted by copyright or other intellectual property rights restrictions.",
+    "specificUseRestrictions": [
+      "Copyright"
+    ],
+    "status": "Restricted - Possibly"
+  },
+  "audiovisual": "True",
+  "title": "Roosevelt Landslide / Spanish Revolt",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-3540",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Motion Pictures",
+          "state": "MD",
+          "fax": "301-837-3622",
+          "email": "mopix@nara.gov",
+          "mailCode": "RRSM"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Motion Picture Film"
+          ],
+          "specificMediaType": "Film Reel"
+        }
+      ],
+      "copyStatus": "Preservation"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupName": "National Archives at College Park \u2013 Motion Pictures",
+    "groupId": "RRAM",
+    "groupCd": "RRAM"
+  },
+  "generalRecordsTypes": [
+    "Moving Images"
+  ],
+  "broadcastDates": [
+    {
+      "year": 1936,
+      "logicalDate": "1936-01-01"
+    }
+  ],
+  "generalNotes": [
+    "If you would like to see the subject card please go to: 75442234 NARA ID 75442234 page number 1499 or copy link: https://catalog.archives.gov/id/75442234?objectPage=1499\n\nIf you would like to see the subject card please go to: Foreign Locations: Polish Army - Glasgow, Scotland NARA ID 75442219 page number 1528 or copy link: https://catalog.archives.gov/id/75442219?objectPage=1528\n\nAgency-provided documents state that related releases are 8-508-1."
+  ],
+  "localIdentifier": "UN-UN-1994x3/4",
+  "productionDates": [
+    {
+      "year": 1936,
+      "logicalDate": "1936-01-01"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "un-un-1994x3_4.mp4",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/mopix/un/OUTTAKES/Batch0003/un-un-1994x3_4.mp4",
+      "objectFileSize": 137030768,
+      "objectDesignator": "Reel 1 of 1",
+      "objectId": "503128055",
+      "objectType": "Audio/Visual File (MP4)"
+    }
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "UN",
+      "inclusiveStartDate": {
+        "year": 1929,
+        "logicalDate": "1929-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "year": 1967,
+        "logicalDate": "1967-12-31"
+      },
+      "title": "MCA/Universal Pictures Collection",
+      "naId": 1013
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1929,
+        "logicalDate": "1929-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "MCA/Universal Pictures.",
+          "authorityType": "organization",
+          "naId": 10468004
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1967,
+        "logicalDate": "1967-12-31"
+      },
+      "title": "Outtakes from Motion Picture Newsreels of the Universal Newsreel Library",
+      "naId": 559522
+    }
+  ],
+  "scopeAndContentNote": "Associated subject catalog cards state this footage was acquired from and/or shot by Hearst, Lyons, Graham, Savitt, Trayham, Winner, Proffitt, Edwards and Eclair.",
+  "naId": 503128054
+}

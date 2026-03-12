@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn78000395/1898-04-30/ed-1/?sp=1"
+  ],
+  "batch": [
+    "mnhi_isuzu_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/minnesota/",
+    "2/united states/minnesota/saint louis/",
+    "3/united states/minnesota/saint louis/duluth/"
+  ],
+  "contributor": [
+    "minnesota historical society; saint paul, mn"
+  ],
+  "date": "1898-04-30",
+  "dates": [
+    "1898-04-30"
+  ],
+  "description": [
+    "VOL 3 No 52 THE SELFMADE MAN Opportunity in Different Ages for the Accumulation of Wealth and PROGRESS ALONG INDUSTRIAL LINES What the Future Has Store for the Toiler Thrift is still a virtue not to be despised because the hope of fortune by its exercise is lessened through the closing of the doors of opportunity The selfmade man likes to say Lpok at me I started pen niless saved fifty cents a week out of my four dollars a week watched my chances and be came rich anybody can do the same and it is only the shiftless and thriftless who complain The unmade man is more apt to whine What can a fellow do At his best if he retains his health he can barely keep his head above water lets have a drink Both are mistaken When the selfmade man started forty years ago he had chances that are now closed Pingree be gan without capital and has become a great manufacturer he says he could not get a foot hold now if he started with 50000 instead of 5 Here and there a man may still by supe rior energy or luck or endur ance climb"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-04T17:01:48.207Z",
+  "group": [
+    "ndnp/mnhi",
+    "minnesota-historical-society-saint-paul-mn-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn78000395/1898-04-30/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_isuzu_ver01:data:sn78000395:0021247969A:1898043001:0208/full/pct:6.25/0/default.jpg#h=511&w=350",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_isuzu_ver01:data:sn78000395:0021247969A:1898043001:0208/full/pct:12.5/0/default.jpg#h=1022&w=700",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mnhi/batch_mnhi_isuzu_ver01/data/sn78000395/0021247969A/1898043001/0208.xml&format=alto_xml"
+  ],
+  "index": 45,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "saint louis county",
+    "duluth",
+    "minnesota",
+    "saint louis"
+  ],
+  "location_city": [
+    "duluth"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "saint louis"
+  ],
+  "location_state": [
+    "minnesota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "9",
+    "6",
+    "7",
+    "4",
+    "a",
+    "sn78000395",
+    "2",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn78000395"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "2",
+    "4",
+    "7",
+    "9",
+    "6",
+    "9",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn78000395-1898-04-30-ed-1-0208",
+  "partof": [
+    "the labor world (duluth, minn.) 1896-current",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the labor world (duluth, minn.) 1896-current"
+  ],
+  "publication_frequency": [
+    "biweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn78000395/1898-04-30/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn78000395/1898-04-30/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "working class",
+    "united states",
+    "labor unions",
+    "periodicals",
+    "saint louis county",
+    "duluth",
+    "newspapers",
+    "minnesota",
+    "saint louis county (minn.)",
+    "duluth (minn.)",
+    "saint louis"
+  ],
+  "timestamp": "2024-01-05T01:45:43.969Z",
+  "title": "Image 1 of The labor world (Duluth, Minn.), April 30, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn78000395/1898-04-30/ed-1/?sp=1&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmnhi%2Fbatch_mnhi_isuzu_ver01%2Fdata%2Fsn78000395%2F0021247969A%2F1898043001%2F0208.xml&q=cuba&relevant_snippet=1"
+}

@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82015104/1898-11-06/ed-1/?sp=11"
+  ],
+  "batch": [
+    "curiv_hessel_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/california/",
+    "2/united states/california/sacramento/",
+    "3/united states/california/sacramento/sacramento/"
+  ],
+  "contributor": [
+    "university of california, riverside; riverside, ca"
+  ],
+  "date": "1898-11-06",
+  "dates": [
+    "1898-11-06"
+  ],
+  "description": [
+    "THE NICARAGUA CANAL PROJECT Report of the Commission Appointed to Inquire Into the Matter Expected to Be Ready to Submit to Secre tary Hay in About a Month Computers Draughtsmen and En gineers Now Busily Engaged in Making the Most Elaborate Presentation of the Subject Ever Submitted WASHINGTON Nov sThe Nic aragua Canal Commission appointed by the President under an Act of Con gress directing a complete inquiry into this project with particular reference to its practicability and cost has about completed its work and the present prospect is that the report will be handed to Secretary Hay in about a month The commission has taken the build ing on Fifteenth street formerly used as the German Legation and under the direction of Admiral Walker Chair man a force of thirtysix computers draftsmen engineers etc are at work on the report and technical matter which will accompany it making in all the most elaborate presentation of the subject ever presented The com mission is laboring to centralize the salient features of this great project leaving the statistics and details to fllow in supplements The commis sion has gone about its work feeling that it was likely to furnish the basis"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-09-02T13:55:53.340Z",
+  "group": [
+    "ndnp/curiv",
+    "university-of-california-riverside-riverside-ca-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82015104/1898-11-06/ed-1/?sp=11",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hessel_ver01:data:sn82015104:00280768832:1898110601:0054/full/pct:3.125/0/default.jpg#h=339&w=250",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hessel_ver01:data:sn82015104:00280768832:1898110601:0054/full/pct:6.25/0/default.jpg#h=679&w=500",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/curiv/batch_curiv_hessel_ver01/data/sn82015104/00280768832/1898110601/0054.xml&format=alto_xml"
+  ],
+  "index": 199,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "sacramento county",
+    "sacramento",
+    "california"
+  ],
+  "location_city": [
+    "sacramento"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "sacramento"
+  ],
+  "location_state": [
+    "california"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn82015104",
+    "3",
+    "6",
+    "2",
+    "1",
+    "7",
+    "0000000011",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82015104"
+  ],
+  "number_page": [
+    "0000000011"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "7",
+    "6",
+    "8",
+    "8",
+    "3",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday issues for Jan. 11-May 17, 1891 have title: Sunday union"
+  ],
+  "page_id": "sn82015104-1898-11-06-ed-1-0054",
+  "partof": [
+    "the record-union (sacramento, calif.) 1891-1903",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the record-union (sacramento, calif.) 1891-1903"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82015104/1898-11-06/ed-1/?sp=11"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82015104/1898-11-06/ed-1/"
+  ],
+  "shelf_id": "11",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "sacramento",
+    "sacramento county (calif.)",
+    "united states",
+    "newspapers",
+    "california",
+    "sacramento (calif.)",
+    "sacramento county"
+  ],
+  "timestamp": "2025-09-28T15:18:55.743Z",
+  "title": "Image 11 of The record-union (Sacramento, Calif.), November 6, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82015104/1898-11-06/ed-1/?sp=11&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fcuriv%2Fbatch_curiv_hessel_ver01%2Fdata%2Fsn82015104%2F00280768832%2F1898110601%2F0054.xml&q=computers&relevant_snippet=1"
+}

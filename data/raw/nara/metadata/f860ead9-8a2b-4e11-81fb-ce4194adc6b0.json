@@ -1,0 +1,122 @@
+{
+  "accessionNumbers": [
+    "NN3-166-07-003"
+  ],
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "Grain and Feed: Canada Presses for Reduction in Agricultural Subsidies at Cairns Group Meeting in Banff, 10/19/2000, Canada, CA0164",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-0470",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Electronic Records",
+          "state": "MD",
+          "fax": "301-837-3681",
+          "email": "cer@nara.gov",
+          "mailCode": "RRE"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Magnetic Media"
+          ],
+          "specificMediaType": "Magnetic Disk"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupName": "National Archives at College Park \u2013 Electronic Records",
+    "groupId": "RRD",
+    "groupCd": "RRD"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "variantControlNumbers": [
+    {
+      "note": "This is file 40678558.PDF in Tape Archive (TAR) file GAIN.2000.TAR (XMIS 098953).",
+      "number": "1.1-4.3-201301.109876",
+      "type": "Ref ID"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "40678558.PDF",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-166/GAIN/2000/40678558.PDF",
+      "objectFileSize": 16888,
+      "objectId": "117595141",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1901,
+        "logicalDate": "1901-01-01"
+      },
+      "distance": 3,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 166,
+      "inclusiveEndDate": {
+        "year": 1994,
+        "logicalDate": "1994-12-31"
+      },
+      "title": "Records of the Foreign Agricultural Service",
+      "naId": 495
+    },
+    {
+      "inclusiveStartDate": {
+        "month": 7,
+        "year": 1998,
+        "day": 1,
+        "logicalDate": "1998-07-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "Department of Agriculture. Foreign Agricultural Service. (03/10/1953 - )",
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 3,
+            "year": 1953,
+            "day": 10,
+            "logicalDate": "1953-03-10"
+          },
+          "naId": 10465094
+        }
+      ],
+      "inclusiveEndDate": {
+        "month": 12,
+        "year": 2011,
+        "day": 31,
+        "logicalDate": "2011-12-31"
+      },
+      "title": "Global Agriculture Information Network (GAIN) Reports",
+      "naId": 3493144
+    },
+    {
+      "distance": 1,
+      "levelOfDescription": "fileUnit",
+      "title": "Global Agriculture Information Network (GAIN) Reports, 2000",
+      "naId": 3511825
+    }
+  ],
+  "naId": 117595140
+}

@@ -1,0 +1,171 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82015425/1958-04-30/ed-1/?sp=2"
+  ],
+  "batch": [
+    "gu_goblin_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/georgia/",
+    "2/united states/georgia/fulton/",
+    "3/united states/georgia/fulton/atlanta/"
+  ],
+  "contributor": [
+    "digital library of georgia, a project of galileo located at the university of georgia libraries"
+  ],
+  "date": "1958-04-30",
+  "dates": [
+    "1958-04-30"
+  ],
+  "description": [
+    "4th Anniversary Of School Rule To Be Widely Hailed 2 ATLANTA DAILY WORLD Wednesday April 30 1958 i At La iliMI HLi J w f MME fl H X BfeHfl\u00dfk iral W 1 Mm a IdWMIw fl Bk Kgt LRSHSHmmF 1 T W wM g WWMW flJKp HBv fl OUTSTANDING STUDENT AND CADET Brig Gen Kenneth W Haas retired on behalr of Secretary of the Army William D Brucker pins ribbon and lapel device on Cpl William H Ma jors son of Mr and Mrs John A Mayors of Alexandria Va designating him as the out Dr Julian Flays Juvenile Delinquency Crime Rate CHICAGO ANP Noted chemist Dr Percy Julian a us ually mildmannered man fired an angry blast at juvenile de linquency and the alarming rate of crime among Negroes in q speech before the 81st annual meeting recently of the Chicago YWCA The renowned Negro chemist famed for his development of the cortisone drug attacked the twin evils in one of the toughest speech es he has made to date He said de linquency has all hut gotten out of hand in an age of new free dom for the child Discussing integration Dr Julian directed criticism at"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-07-06T04:52:20.438Z",
+  "group": [
+    "ndnp/gu",
+    "digital-library-of-georgia-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82015425/1958-04-30/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_goblin_ver01:data:sn82015425:00529040982:1958043001:0706/full/pct:3.125/0/default.jpg#h=265&w=212",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_goblin_ver01:data:sn82015425:00529040982:1958043001:0706/full/pct:6.25/0/default.jpg#h=531&w=424",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_goblin_ver01:data:sn82015425:00529040982:1958043001:0706/full/pct:12.5/0/default.jpg#h=1062&w=849",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/gu/batch_gu_goblin_ver01/data/sn82015425/00529040982/1958043001/0706.xml&format=alto_xml"
+  ],
+  "index": 37,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "fulton county",
+    "fulton",
+    "united states",
+    "georgia",
+    "atlanta"
+  ],
+  "location_city": [
+    "atlanta"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "fulton"
+  ],
+  "location_state": [
+    "georgia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "5",
+    "2",
+    "4",
+    "1",
+    "sn82015425",
+    "0000000002",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82015425"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "2",
+    "9",
+    "0",
+    "4",
+    "0",
+    "9",
+    "8",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Published occasionally in 1934-1945 as: Atlanta world"
+  ],
+  "page_id": "sn82015425-1958-04-30-ed-1-0706",
+  "partof": [
+    "chronicling america",
+    "atlanta daily world (atlanta, georgia) 1932-current",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "atlanta daily world (atlanta, georgia) 1932-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82015425/1958-04-30/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82015425/1958-04-30/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "fulton county",
+    "atlanta (ga.)",
+    "fulton",
+    "united states",
+    "georgia",
+    "newspapers",
+    "african americans",
+    "african american",
+    "african american newspapers",
+    "fulton county (ga.)",
+    "atlanta"
+  ],
+  "subject_ethnicity": [
+    "african american"
+  ],
+  "timestamp": "2025-07-06T05:16:22.170Z",
+  "title": "Image 2 of Atlanta daily world (Atlanta, Georgia), April 30, 1958, (City Edition)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82015425/1958-04-30/ed-1/?sp=2&q=vietnam",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fgu%2Fbatch_gu_goblin_ver01%2Fdata%2Fsn82015425%2F00529040982%2F1958043001%2F0706.xml&q=vietnam&relevant_snippet=1"
+}

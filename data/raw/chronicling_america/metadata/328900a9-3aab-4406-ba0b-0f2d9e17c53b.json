@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85042002/1856-04-03/ed-1/?sp=4"
+  ],
+  "batch": [
+    "dlc_alicanto_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1856-04-03",
+  "dates": [
+    "1856-04-03"
+  ],
+  "description": [
+    "AMERICAN ORGAN Vitality of the AaeriMl Party Kt party ever sprang into exisknce in this Re public that baa had to pass through such terrific ordealsaa the American party Struggling up from the superincumbent weight of two great political factions breasting the full tide of public opinion pouring through the prvss it summoned its inco herent uncertain forces to the field Beaten but not discomfited It boldly challenged the scrutiny of the people and pUnting iUelf on the principles of the Re volution commanded thu unwilling re spect even of its foes Treason at Albany drove off only the weak and dishonest Divided views at Philadelphia euded only in higher resolution The experiment at Binghamton which the wisest politiciaoa fully believed would end in our over throw only insured a victory Through another storm at Philadelphia the flarty has passed in safe ty and before another deliberate tiean it has not wen staggered but firm as a rock stands and fazes sternly and defiantly on its foes With the Bible in one hand uiid the Constitution in the other claiming for the land of its nativity Protest ant institutions and American rulers Its voice rings out clear and clarionlike over"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:46:23.833Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85042002/1856-04-03/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415661009:1856040301:0385/full/pct:3.125/0/default.jpg#h=281&w=207",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415661009:1856040301:0385/full/pct:6.25/0/default.jpg#h=562&w=415",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415661009:1856040301:0385/full/pct:12.5/0/default.jpg#h=1124&w=831",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_alicanto_ver02/data/sn85042002/00415661009/1856040301/0385.xml&format=alto_xml"
+  ],
+  "index": 197,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn85042002",
+    "5",
+    "6",
+    "9",
+    "0000000004",
+    "4",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85042002"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "6",
+    "1",
+    "0",
+    "0",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "American organ"
+  ],
+  "page_id": "sn85042002-1856-04-03-ed-1-0385",
+  "partof": [
+    "serial and government publications division",
+    "daily american organ (washington, d.c.) 1854-1856",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "daily american organ (washington, d.c.) 1854-1856"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85042002/1856-04-03/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85042002/1856-04-03/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-19T22:33:22.551Z",
+  "title": "Image 4 of Daily American organ (Washington, D.C.), April 3, 1856",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85042002/1856-04-03/ed-1/?sp=4&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_alicanto_ver02%2Fdata%2Fsn85042002%2F00415661009%2F1856040301%2F0385.xml&q=medicine&relevant_snippet=1"
+}

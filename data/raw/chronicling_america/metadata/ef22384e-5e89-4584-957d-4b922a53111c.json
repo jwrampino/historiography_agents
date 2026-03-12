@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1922-04-24/ed-1/?sp=21"
+  ],
+  "batch": [
+    "dlc_cylon_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1922-04-24",
+  "dates": [
+    "1922-04-24"
+  ],
+  "description": [
+    "BOND AND CURB MARKETS On r v V H r s 1 s Is V s 1 M V H H BONDS New York Stock Exchange iutatne fumlwhl by Redntond 4 r s MTiin Ubertj 3a S5 Illw rtv ll 4 4 iy 21 4 Ibertv M l rJJlo Ulwrtjr 21 i4 Mhcrfjr 3d l Liberty 4h 4 JZ Victory g70 Victocy 3s 10006 id OTHER BONDS Quotations furnished by the Associated Press Sale Tbous High 267 liberty 3 9952 2 TJberty 2d 4s 9046 21 Liberty lt 4 9976 Hi Liberty 2d 4 9958 1W Liberty 34 4 9976 548 Liberty 4th 4a 9988 148 Victory 4 ltio74 27 Victory 4a 100 FUltnittN GOVT STATE AND 17 Argentine 7 88 Hi tliy f toptjj rj Itt 11 City of itlo d Ja i 104 1 tity uf Zurich 8s 1104 s hnuisii Minki Ss A 112 23 lept of Seine 7 96 1 iKtin of Can 5i 31 91 j Hutch Fast lu 6 47 96 r French ltepul 8 IWIs Cv French ltoiU 7is 103 lt Japanese 1 4 91 King w tir 71 IWi L7 King of lie Iff turn Oh 104 2i lviudoin w en 6s"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:56:45.473Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1922-04-24/ed-1/?sp=21",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cylon_ver01:data:sn83045462:00280657104:1922042401:0427/full/pct:6.25/0/default.jpg#h=423&w=330",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cylon_ver01:data:sn83045462:00280657104:1922042401:0427/full/pct:12.5/0/default.jpg#h=846&w=660",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_cylon_ver01/data/sn83045462/00280657104/1922042401/0427.xml&format=alto_xml"
+  ],
+  "index": 120,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "2",
+    "sn83045462",
+    "6",
+    "8",
+    "0000000021",
+    "5",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000021"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "7",
+    "1",
+    "0",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1922-04-24-ed-1-0427",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1922-04-24/ed-1/?sp=21"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1922-04-24/ed-1/"
+  ],
+  "shelf_id": "21",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2022-10-20T04:03:54.715Z",
+  "title": "Image 21 of Evening star (Washington, D.C.), April 24, 1922",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1922-04-24/ed-1/?sp=21&q=oil",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_cylon_ver01%2Fdata%2Fsn83045462%2F00280657104%2F1922042401%2F0427.xml&q=oil&relevant_snippet=1"
+}

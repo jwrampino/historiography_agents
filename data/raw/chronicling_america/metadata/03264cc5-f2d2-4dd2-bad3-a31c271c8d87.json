@@ -1,0 +1,165 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83016209/1889-05-24/ed-1/?sp=2"
+  ],
+  "batch": [
+    "mdu_fireweed_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/maryland/",
+    "2/united states/maryland/montgomery/",
+    "3/united states/maryland/montgomery/rockville/",
+    "3/united states/maryland/montgomery/gaithersburg/"
+  ],
+  "contributor": [
+    "university of maryland, college park, md"
+  ],
+  "date": "1889-05-24",
+  "dates": [
+    "1889-05-24"
+  ],
+  "description": [
+    "I UK SKNTIN K L ROCKVILLE MD Friday Homing May 241889 PEIMAEY_ELECTIONB The Democratic State Central and Coun ty Committees for Montgomery county at a meeting held in Rockville on Tuesday May 21st 1889 Reaokted That the Democratic Conserva tive voters of Montgomery county lx re spectfully requested to hold Primary Elec tions at the places in each district fixed by law for holding general elections on SATUEDAY August the 3rd 1889 from 9 oclock A M to 6 oclock I M to cast their votes for the following offices Comptroller of the State of Maryland State Senator three member of the House f Delegates five members for Commissioners of Montgomery county Sheriff of Mont gomery county and County Surveyor All persons desiring to be candidates at the Primary Elections shall so designate the same in writing to H W Talbott in Rock ville accompanied with one dollar on or before Tuesday the 23rd day of July 1889 to insure the printing of their names on said tickets to be voted at the Primary Elections lu case said parties desiring to be candi dates as aforesaid do not comply with the aforegoing their names will not be on said tickets"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-03-01T18:28:33.329Z",
+  "group": [
+    "ndnp/mdu",
+    "university-of-maryland-college-park-college-park-md-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83016209/1889-05-24/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342430:1889052401:0292/full/pct:3.125/0/default.jpg#h=265&w=214",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342430:1889052401:0292/full/pct:6.25/0/default.jpg#h=531&w=428",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342430:1889052401:0292/full/pct:12.5/0/default.jpg#h=1062&w=857",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mdu/batch_mdu_fireweed_ver01/data/sn83016209/00383342430/1889052401/0292.xml&format=alto_xml"
+  ],
+  "index": 97,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "gaithersburg",
+    "united states",
+    "rockville",
+    "maryland",
+    "montgomery",
+    "montgomery county"
+  ],
+  "location_city": [
+    "rockville",
+    "gaithersburg"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "montgomery"
+  ],
+  "location_state": [
+    "maryland"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn83016209",
+    "0",
+    "3",
+    "4",
+    "2",
+    "1",
+    "0000000002",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83016209"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "8",
+    "3",
+    "3",
+    "4",
+    "2",
+    "4",
+    "3",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83016209-1889-05-24-ed-1-0292",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "montgomery county sentinel (rockville, md.) 1855-1974"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "montgomery county sentinel (rockville, md.) 1855-1974"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83016209/1889-05-24/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83016209/1889-05-24/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "gaithersburg",
+    "united states",
+    "montgomery county (md.)",
+    "newspapers",
+    "maryland",
+    "rockville",
+    "rockville (md.)",
+    "montgomery",
+    "montgomery county"
+  ],
+  "timestamp": "2023-03-07T12:17:02.492Z",
+  "title": "Image 2 of Montgomery County sentinel (Rockville, Md.), May 24, 1889",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83016209/1889-05-24/ed-1/?sp=2&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmdu%2Fbatch_mdu_fireweed_ver01%2Fdata%2Fsn83016209%2F00383342430%2F1889052401%2F0292.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

@@ -1,0 +1,166 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84022060/1888-11-17/ed-1/?sp=1"
+  ],
+  "batch": [
+    "nvln_bullfrog_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nevada/",
+    "2/united states/nevada/humboldt/",
+    "3/united states/nevada/humboldt/unionville/",
+    "3/united states/nevada/humboldt/winnemucca/"
+  ],
+  "contributor": [
+    "university of nevada las vegas university libraries"
+  ],
+  "date": "1888-11-17",
+  "dates": [
+    "1888-11-17"
+  ],
+  "description": [
+    "1 tub siix VOL XXXIII WINNEMUCCA NEVADA SATURDAY NOVEMBER IT 1888 NO 41 I I Absolutely Pure This w ti n i s tear 1 of prity ecreoK nd whohsot ess Mur economical than dinar V d and earro be sold in conn Man with tic multitude of lew test ehoi xht alum r phosphate powd r SoiJ inca Il UOYAh lAKlG PO fEU CO IM v St N Y d20l HOMER DA VIS Blacksmitn I Sf 4ND Waon Maker r Ihe Depot WlnpePinre Xrv rnght Light and Spring Wjuj oiik Made to Order Asrent for the Celebrated STlillEBAKHli vVAiivs T i Waxons hal e the genuine CONOORI ax ar fully Warranted and will be sold as the ordinary Waxons Kx vuine the STUDEBAKER WAGON and asr i e bafore purchasing elsewhere HARDWOOD LUMBER IRON CVMIIERL 1XI COAL a ays on hand and for sale at prices to suit the times tf HOMER DAVI Lafayette Hotel smaa tbs rurar I winner coca n kva n m IBMAIN Proprietor THE LEADING HOTKl IN VNTKAL NEVADA i Tilt LAFAYETTE HOTEL I thr only flnKlww Hotel In the tliy THE PROPRIETOR TAKES PLEARUKf unounctag t ha numerous friend aod rh untie gem rlv"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-06-30T14:52:13.153Z",
+  "group": [
+    "ndnp/nvln",
+    "university-of-nevada-las-vegas-university-libraries-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84022060/1888-11-17/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_bullfrog_ver01:data:sn84022060:00332890529:1888111701:1084/full/pct:6.25/0/default.jpg#h=425&w=285",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_bullfrog_ver01:data:sn84022060:00332890529:1888111701:1084/full/pct:12.5/0/default.jpg#h=851&w=570",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nvln/batch_nvln_bullfrog_ver01/data/sn84022060/00332890529/1888111701/1084.xml&format=alto_xml"
+  ],
+  "index": 40,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "humboldt",
+    "nevada",
+    "winnemucca",
+    "unionville"
+  ],
+  "location_city": [
+    "unionville",
+    "winnemucca"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "humboldt"
+  ],
+  "location_state": [
+    "nevada"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "9",
+    "5",
+    "3",
+    "sn84022060",
+    "2",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84022060"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "0",
+    "5",
+    "2",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Daily silver state",
+    "Winnemucca republican"
+  ],
+  "page_id": "sn84022060-1888-11-17-ed-1-1084",
+  "partof": [
+    "serial and government publications division",
+    "the silver state (unionville, nev.) 1870-1903",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the silver state (unionville, nev.) 1870-1903"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84022060/1888-11-17/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84022060/1888-11-17/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "humboldt",
+    "nevada",
+    "newspapers",
+    "winnemucca",
+    "unionville (nev.)",
+    "unionville",
+    "winnemucca (nev.)"
+  ],
+  "timestamp": "2023-06-30T16:47:48.659Z",
+  "title": "Image 1 of The Silver state (Unionville, Nev.), November 17, 1888",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84022060/1888-11-17/ed-1/?sp=1&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnvln%2Fbatch_nvln_bullfrog_ver01%2Fdata%2Fsn84022060%2F00332890529%2F1888111701%2F1084.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

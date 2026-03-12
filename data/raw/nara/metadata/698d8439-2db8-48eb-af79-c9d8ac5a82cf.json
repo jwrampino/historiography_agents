@@ -1,0 +1,593 @@
+{
+  "dataControlGroup": {
+    "groupId": "ou=NLRN,ou=groups",
+    "groupCd": "LPRN"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "digitalObjects": [
+    {
+      "objectFilename": "333187237_Page_01.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_01.jpg",
+      "objectFileSize": 752612,
+      "objectId": "363438739",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_02.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_02.jpg",
+      "objectFileSize": 1160782,
+      "objectId": "363438740",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_03.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_03.jpg",
+      "objectFileSize": 1073102,
+      "objectId": "363438741",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_04.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_04.jpg",
+      "objectFileSize": 969042,
+      "objectId": "363438742",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_05.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_05.jpg",
+      "objectFileSize": 755728,
+      "objectId": "363438743",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_06.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_06.jpg",
+      "objectFileSize": 768267,
+      "objectId": "363438744",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_07.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_07.jpg",
+      "objectFileSize": 751867,
+      "objectId": "363438745",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_08.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_08.jpg",
+      "objectFileSize": 790345,
+      "objectId": "363438746",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_09.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_09.jpg",
+      "objectFileSize": 767266,
+      "objectId": "363438747",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_10.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_10.jpg",
+      "objectFileSize": 1343683,
+      "objectId": "363438748",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_11.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_11.jpg",
+      "objectFileSize": 1420812,
+      "objectId": "363438749",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_12.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_12.jpg",
+      "objectFileSize": 1506952,
+      "objectId": "363438750",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_13.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_13.jpg",
+      "objectFileSize": 1299927,
+      "objectId": "363438751",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_14.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_14.jpg",
+      "objectFileSize": 1545250,
+      "objectId": "363438752",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_15.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_15.jpg",
+      "objectFileSize": 1427178,
+      "objectId": "363438753",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_16.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_16.jpg",
+      "objectFileSize": 1462381,
+      "objectId": "363438754",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_17.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_17.jpg",
+      "objectFileSize": 1414999,
+      "objectId": "363438755",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_18.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_18.jpg",
+      "objectFileSize": 1466424,
+      "objectId": "363438756",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_19.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_19.jpg",
+      "objectFileSize": 1547721,
+      "objectId": "363438757",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_20.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_20.jpg",
+      "objectFileSize": 1497298,
+      "objectId": "363438758",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_21.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_21.jpg",
+      "objectFileSize": 1485786,
+      "objectId": "363438759",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_22.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_22.jpg",
+      "objectFileSize": 1505982,
+      "objectId": "363438760",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_23.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_23.jpg",
+      "objectFileSize": 760329,
+      "objectId": "363438761",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_24.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_24.jpg",
+      "objectFileSize": 1352684,
+      "objectId": "363438762",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_25.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_25.jpg",
+      "objectFileSize": 1354674,
+      "objectId": "363438763",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_26.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_26.jpg",
+      "objectFileSize": 1318053,
+      "objectId": "363438764",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_27.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_27.jpg",
+      "objectFileSize": 1390955,
+      "objectId": "363438765",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_28.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_28.jpg",
+      "objectFileSize": 1460093,
+      "objectId": "363438766",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_29.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_29.jpg",
+      "objectFileSize": 1307696,
+      "objectId": "363438767",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_30.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_30.jpg",
+      "objectFileSize": 1431746,
+      "objectId": "363438768",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_31.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_31.jpg",
+      "objectFileSize": 1395982,
+      "objectId": "363438769",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_32.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_32.jpg",
+      "objectFileSize": 1472154,
+      "objectId": "363438770",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_33.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_33.jpg",
+      "objectFileSize": 1350381,
+      "objectId": "363438771",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_34.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_34.jpg",
+      "objectFileSize": 1462910,
+      "objectId": "363438772",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_35.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_35.jpg",
+      "objectFileSize": 1308827,
+      "objectId": "363438773",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_36.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_36.jpg",
+      "objectFileSize": 1367117,
+      "objectId": "363438774",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_37.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_37.jpg",
+      "objectFileSize": 1383839,
+      "objectId": "363438775",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_38.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_38.jpg",
+      "objectFileSize": 759955,
+      "objectId": "363438776",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_39.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_39.jpg",
+      "objectFileSize": 1314145,
+      "objectId": "363438777",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_40.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_40.jpg",
+      "objectFileSize": 1268187,
+      "objectId": "363438778",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_41.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_41.jpg",
+      "objectFileSize": 1236795,
+      "objectId": "363438779",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_42.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_42.jpg",
+      "objectFileSize": 1018531,
+      "objectId": "363438780",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_43.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_43.jpg",
+      "objectFileSize": 1313131,
+      "objectId": "363438781",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_44.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_44.jpg",
+      "objectFileSize": 2557725,
+      "objectId": "363438782",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_45.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_45.jpg",
+      "objectFileSize": 2646842,
+      "objectId": "363438783",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_46.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_46.jpg",
+      "objectFileSize": 2757782,
+      "objectId": "363438784",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_47.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_47.jpg",
+      "objectFileSize": 2639467,
+      "objectId": "363438785",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_48.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_48.jpg",
+      "objectFileSize": 2658422,
+      "objectId": "363438786",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_49.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_49.jpg",
+      "objectFileSize": 2789987,
+      "objectId": "363438787",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_50.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_50.jpg",
+      "objectFileSize": 2895827,
+      "objectId": "363438788",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_51.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_51.jpg",
+      "objectFileSize": 2625373,
+      "objectId": "363438789",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_52.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_52.jpg",
+      "objectFileSize": 2620657,
+      "objectId": "363438790",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_53.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_53.jpg",
+      "objectFileSize": 1232642,
+      "objectId": "363438791",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_54.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_54.jpg",
+      "objectFileSize": 746802,
+      "objectId": "363438792",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_55.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_55.jpg",
+      "objectFileSize": 1316668,
+      "objectId": "363438793",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_56.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_56.jpg",
+      "objectFileSize": 1294887,
+      "objectId": "363438794",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_57.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_57.jpg",
+      "objectFileSize": 1300305,
+      "objectId": "363438795",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_58.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_58.jpg",
+      "objectFileSize": 1322179,
+      "objectId": "363438796",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_59.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_59.jpg",
+      "objectFileSize": 1373662,
+      "objectId": "363438797",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_60.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_60.jpg",
+      "objectFileSize": 1303923,
+      "objectId": "363438798",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_61.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_61.jpg",
+      "objectFileSize": 1392398,
+      "objectId": "363438799",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_62.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_62.jpg",
+      "objectFileSize": 1421827,
+      "objectId": "363438800",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_63.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_63.jpg",
+      "objectFileSize": 1350689,
+      "objectId": "363438801",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_64.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_64.jpg",
+      "objectFileSize": 1375001,
+      "objectId": "363438802",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_65.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_65.jpg",
+      "objectFileSize": 1415306,
+      "objectId": "363438803",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237_Page_66.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237_Page_66.jpg",
+      "objectFileSize": 1287310,
+      "objectId": "363438804",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "333187237.pdf",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/nixon/rn-nsf/1103638/Batch0004/333187237.pdf",
+      "objectFileSize": 96733213,
+      "objectId": "363438738",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "RN-NSF",
+      "inclusiveStartDate": {
+        "year": 1968,
+        "logicalDate": "1968-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "year": 1975,
+        "logicalDate": "1975-12-31"
+      },
+      "title": "National Security Files (Nixon Administration)",
+      "naId": 572235
+    },
+    {
+      "inclusiveStartDate": {
+        "month": 1,
+        "year": 1969,
+        "day": 20,
+        "logicalDate": "1969-01-20"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Predecessor",
+          "heading": "President (1969-1974 : Nixon). Office of the Assistant to the President for National Security Affairs. 1969-1974",
+          "abolishDate": {
+            "year": 1974,
+            "logicalDate": "1974-12-31"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1969,
+            "logicalDate": "1969-01-01"
+          },
+          "naId": 10447351
+        },
+        {
+          "creatorType": "Predecessor",
+          "heading": "President (1974-1977 : Ford). Office of the Assistant to the President for National Security Affairs. 1974-1977",
+          "abolishDate": {
+            "year": 1977,
+            "logicalDate": "1977-12-31"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1974,
+            "logicalDate": "1974-01-01"
+          },
+          "naId": 10447522
+        },
+        {
+          "creatorType": "Most Recent",
+          "heading": "Department of State. Office of the Secretary. (9/1789 - )",
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 9,
+            "year": 1789,
+            "logicalDate": "1789-09-01"
+          },
+          "naId": 10501640
+        }
+      ],
+      "inclusiveEndDate": {
+        "dateQualifier": "ca.",
+        "month": 7,
+        "year": 1975,
+        "logicalDate": "1975-07-31"
+      },
+      "title": "Henry A. Kissinger's (HAK) Office Files",
+      "naId": 1103638
+    }
+  ],
+  "title": "SOVIET UNION Peking Trip [November 1973] [2 of 2]",
+  "naId": 333187237,
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Yorba Linda",
+          "phone": "714-983-9120",
+          "address1": "18001 Yorba Linda Boulevard",
+          "postalCode": "92886",
+          "name": "Richard Nixon Library",
+          "state": "CA",
+          "fax": "714-983-9111",
+          "email": "nixonreference@nara.gov",
+          "mailCode": "LP-RN"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper",
+          "containerId": "99"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  }
+}

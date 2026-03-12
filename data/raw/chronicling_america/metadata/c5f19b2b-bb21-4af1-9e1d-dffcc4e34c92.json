@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn89051238/1910-09-21/ed-1/?sp=6"
+  ],
+  "batch": [
+    "arhi_hubble_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/arkansas/",
+    "2/united states/arkansas/hot spring/",
+    "3/united states/arkansas/hot spring/malvern/"
+  ],
+  "contributor": [
+    "arkansas state archives"
+  ],
+  "date": "1910-09-21",
+  "dates": [
+    "1910-09-21"
+  ],
+  "description": [
+    "87 11 Wienboolfe Justifies Our Inter vention in cube unpardonable ji act or a grew ttempt at a K ave them constant aid and piece of hu of every movement of the m Valeriane iff Says General Weyler the former if W w Os all the measures I took the most bitte captain gen if concentration which saved my troops from Cuba who If 2 A mated and prevented the landing of arms and for himself t 0 the enem y 1 need not defend that syst mviable title lg wm smattering of the history of modern wars kn ber has al J ied by ths English in the Transvaal and tl he publishers S a Philippines a fact most flattering to my prlc the title of K If Individuals were sometimes summarily satlqnal book eralship as it happens in the course of ei to defend his put to death in obedience to tho laws and r resentative of the mere reason that they were insurgents I i that island returned to the fold and showed much deme CUBA I came to me however black their past may h a Cuba t It is a matter of regret that General"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-12-02T23:44:46.099Z",
+  "group": [
+    "ndnp/arhi",
+    "arkansas-state-archives-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn89051238/1910-09-21/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_hubble_ver01:data:sn89051238:0051368843A:1910092101:0368/full/pct:6.25/0/default.jpg#h=390&w=279",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_hubble_ver01:data:sn89051238:0051368843A:1910092101:0368/full/pct:12.5/0/default.jpg#h=780&w=558",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/arhi/batch_arhi_hubble_ver01/data/sn89051238/0051368843A/1910092101/0368.xml&format=alto_xml"
+  ],
+  "index": 137,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "arkansas",
+    "united states",
+    "hot spring",
+    "malvern"
+  ],
+  "location_city": [
+    "malvern"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hot spring"
+  ],
+  "location_state": [
+    "arkansas"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "0",
+    "0000000006",
+    "a",
+    "sn89051238",
+    "1",
+    "3",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn89051238"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "3",
+    "6",
+    "8",
+    "8",
+    "4",
+    "3",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn89051238-1910-09-21-ed-1-0368",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the times-journal (malvern, hot spring county, ark.) 1893-1913"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the times-journal (malvern, hot spring county, ark.) 1893-1913"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn89051238/1910-09-21/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn89051238/1910-09-21/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "malvern (ark.)",
+    "hot spring",
+    "arkansas",
+    "https://id.oclc.org/worldcat/entity/e39pbjyrbmyhwdhwdjfw6jrpfq",
+    "malvern",
+    "united states"
+  ],
+  "timestamp": "2024-12-03T13:56:49.970Z",
+  "title": "Image 6 of The times-journal (Malvern, Hot Spring County, Ark.), September 21, 1910",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn89051238/1910-09-21/ed-1/?sp=6&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Farhi%2Fbatch_arhi_hubble_ver01%2Fdata%2Fsn89051238%2F0051368843A%2F1910092101%2F0368.xml&q=cuba&relevant_snippet=1"
+}

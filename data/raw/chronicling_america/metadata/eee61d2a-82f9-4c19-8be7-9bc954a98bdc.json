@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045433/1914-07-20/ed-1/?sp=10"
+  ],
+  "batch": [
+    "dlc_braniff_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1914-07-20",
+  "dates": [
+    "1914-07-20"
+  ],
+  "description": [
+    "rA THE WASHINGTON HERALD MONDAY JUIY 20 1914 10 N The Mans Store Official Weather Report Fair Big Straw Hat Rush e Every Straw Hat in the house at Honest Half Price 2 Straw Hats 100 3 Straw Hats 150 4 Straw Hats 200 Whos M This sale shows whos who in the clothing business whos got the peoples confidence and who giving the biggest cloth ing values in the town All we had to say was Every Fancy Suit In the House at Honestly Reduced Prices Weve been busy as bees ever since the sale started 15 M S M Suits 11 20 M S M Suits 13 25 M S M Suits v 16 30 M S M Suits 19 35 M S M Suits 23 Moneys Worth or Money Back D J KAUFMAN INCORPORATED 10051007 PA AVE Z5b T5ovm Trier Dr Fax X Field at the Casualty Hospital surgical staff leaves tomorrow for Wellsboro Pa where he will spend a months vacation with relaUves John McLendan sixteen years old i u una rrea iyncn J escaped yesterday from the National Training School for Boys ine ponce nr luumt iui Litm I B Fitzgerald dentist at 433 Dr"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-12-09T13:41:58.683Z",
+  "group": [
+    "ndnp/dlc-2009_2010",
+    "library-of-congress-washington-dc-awardee-3"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045433/1914-07-20/ed-1/?sp=10",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn83045433:00294558160:1914072001:0477/full/pct:6.25/0/default.jpg#h=406&w=335",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn83045433:00294558160:1914072001:0477/full/pct:12.5/0/default.jpg#h=812&w=671",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_braniff_ver01/data/sn83045433/00294558160/1914072001/0477.xml&format=alto_xml"
+  ],
+  "index": 137,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "district of columbia",
+    "washington d.c.",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "4",
+    "2",
+    "5",
+    "1",
+    "0000000010",
+    "6",
+    "sn83045433",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045433"
+  ],
+  "number_page": [
+    "0000000010"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "4",
+    "5",
+    "5",
+    "8",
+    "1",
+    "6",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Washington times-herald",
+    "Washington herald times"
+  ],
+  "page_id": "sn83045433-1914-07-20-ed-1-0477",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the washington herald (washington, d.c.) 1906-1939"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington herald (washington, d.c.) 1906-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045433/1914-07-20/ed-1/?sp=10"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045433/1914-07-20/ed-1/"
+  ],
+  "shelf_id": "10",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "washington",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2024-12-09T18:02:16.293Z",
+  "title": "Image 10 of The Washington herald (Washington, D.C.), July 20, 1914",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045433/1914-07-20/ed-1/?sp=10&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_braniff_ver01%2Fdata%2Fsn83045433%2F00294558160%2F1914072001%2F0477.xml&q=immigration&relevant_snippet=1"
+}

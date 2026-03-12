@@ -1,0 +1,170 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88078683/1921-05-21/ed-1/?sp=2"
+  ],
+  "batch": [
+    "ohi_byrd_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/",
+    "1/united states/ohio/",
+    "2/united states/ohio/cuyahoga/",
+    "3/united states/ohio/cuyahoga/cleveland/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1921-05-21",
+  "dates": [
+    "1921-05-21"
+  ],
+  "description": [
+    "PAGE 2 THE TJ THE PROCEEDINGS OF THE mini ms sum I Jg 0 I L E R CLEVELAND OHIO SATURDAY MAY 211921 llth Installment NIGHT SITTING OF AUGUST 3 Petrograd Pravda Aug 5 1920 DEBATES ON TRADEUNIONS At the night sitting debates are continued on the report of Comrade Radek relating to the role of the tradeunions in the Commun ist movement Comrade Walter takes the floor and calls attention to the fact that before the begin ning of the World War every attempt to re volutionize the tradeunions was considered Utopian At present the political situation of the whole world has changed so consider ably that we can undertake it seems the most intricate problems The state of mind of the masses is excellent And all that is necessary is to remove from the tradeunion movement those elements which are leading the movement along the opportunistic and even counterrevolutionary path It is ne cessary above all to remove the bureaucracy of the tradeunions and to replace the former leaders with new ones who will be able to lead the tradeunion movement in a genuinely revolutionary direction Comrade Bilan points out the difference between the tradeunion movement of Amer"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:15:28.475Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88078683/1921-05-21/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn88078683:00280774789:1921052101:0627/full/pct:6.25/0/default.jpg#h=480&w=348",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn88078683:00280774789:1921052101:0627/full/pct:12.5/0/default.jpg#h=961&w=696",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_byrd_ver01/data/sn88078683/00280774789/1921052101/0627.xml&format=alto_xml"
+  ],
+  "index": 126,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "cuyahoga",
+    "cleveland",
+    "ohio",
+    "new york",
+    "new york city",
+    "united states"
+  ],
+  "location_city": [
+    "new york",
+    "cleveland"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york",
+    "cuyahoga"
+  ],
+  "location_state": [
+    "new york",
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "8",
+    "0000000002",
+    "0",
+    "2",
+    "sn88078683",
+    "7",
+    "9",
+    "1",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88078683"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "7",
+    "7",
+    "4",
+    "7",
+    "8",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88078683-1921-05-21-ed-1-0627",
+  "partof": [
+    "the toiler (cleveland, ohio) 1919-1922",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the toiler (cleveland, ohio) 1919-1922"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88078683/1921-05-21/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88078683/1921-05-21/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "new york (state)",
+    "cuyahoga",
+    "cleveland",
+    "labor movement",
+    "new york (n.y.)",
+    "ohio",
+    "cleveland (ohio)",
+    "new york",
+    "communism",
+    "united states"
+  ],
+  "timestamp": "2023-09-05T04:42:00.664Z",
+  "title": "Image 2 of The toiler (Cleveland, Ohio), May 21, 1921",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88078683/1921-05-21/ed-1/?sp=2&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_byrd_ver01%2Fdata%2Fsn88078683%2F00280774789%2F1921052101%2F0627.xml&q=revolution&relevant_snippet=1"
+}

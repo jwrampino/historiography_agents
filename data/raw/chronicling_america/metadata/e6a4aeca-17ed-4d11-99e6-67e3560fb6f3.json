@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86090439/1905-03-28/ed-1/?sp=1"
+  ],
+  "batch": [
+    "txdn_haslett_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/texas/",
+    "2/united states/texas/bexar/",
+    "3/united states/texas/bexar/san antonio/"
+  ],
+  "contributor": [
+    "university of north texas; denton, tx"
+  ],
+  "date": "1905-03-28",
+  "dates": [
+    "1905-03-28"
+  ],
+  "description": [
+    "atanKs 1 1 ELEVATORS Dynamos Telephones and Supplies Dubinskl Electric Works Tel 318 108 Soledad Street VOL 24 No 68 T C FROST President FROST NATIONAL BANK SAN ANTONIO TEXAS Capital and Surplus 550000000 EXCHANGE DRAWN ON PRINCIPAL CITIES IN EUROPE MEXICAN MONEY BOUGHT AND SOLD at e the e HOFFMAN HOUSE BAR They carry all the leading brands cf fins Whiskies Wines and Cigars Telephone orders for bottled goods promptly filled day or night TOURIST TRADE SOLICITED OPEN ALL NIGHT 408 E Houston Street Hicks Building opposite Telephone 662 ALBERT BEITEL R M BEITEL BEITEL LUMBER CO XT LUMBER AND BUILDERS HARDWARE P O BOX 393 BOTH PHONES NO 250 Branch Yards at Kerrville Texas Office and Yards West Commere St near the I A G N R R The Original Yale Dentists Under the same old management have 1 f J BRIDGE purchased tho Chicago Dental Parlors ivnpKUdjUUJ on account of the superior location and p we continuing our same methods Best work at lowest prices 50 given for any C 1 4 jr tooth we cannot extract or fill absolutely U painlessly HICKS BUILDING AMUSEMENTS Grand Opera House TONIGHT Viola Allen As Hermione and Perdta In THE"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-06-05T16:51:06.109Z",
+  "group": [
+    "ndnp/txdn",
+    "university-of-north-texas-denton-tx-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86090439/1905-03-28/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_haslett_ver01:data:sn86090439:00517175031:1905032801:0832/full/pct:6.25/0/default.jpg#h=424&w=318",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_haslett_ver01:data:sn86090439:00517175031:1905032801:0832/full/pct:12.5/0/default.jpg#h=848&w=637",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/txdn/batch_txdn_haslett_ver01/data/sn86090439/00517175031/1905032801/0832.xml&format=alto_xml"
+  ],
+  "index": 133,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "texas",
+    "bexar county",
+    "bexar",
+    "san antonio",
+    "united states"
+  ],
+  "location_city": [
+    "san antonio"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "bexar"
+  ],
+  "location_state": [
+    "texas"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000001",
+    "5",
+    "3",
+    "1",
+    "sn86090439",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86090439"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "5",
+    "0",
+    "3",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Daily light",
+    "Sunday Issues for <November 10, 1895> have title: Sunday light"
+  ],
+  "page_id": "sn86090439-1905-03-28-ed-1-0832",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "san antonio daily light (san antonio, tex.) 1886-1907"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "san antonio daily light (san antonio, tex.) 1886-1907"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86090439/1905-03-28/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86090439/1905-03-28/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "texas",
+    "bexar county",
+    "bexar county (tex.)",
+    "san antonio (tex.)",
+    "bexar",
+    "san antonio",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2025-06-10T18:56:30.239Z",
+  "title": "Image 1 of San Antonio daily light (San Antonio, Tex.), March 28, 1905",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86090439/1905-03-28/ed-1/?sp=1&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Ftxdn%2Fbatch_txdn_haslett_ver01%2Fdata%2Fsn86090439%2F00517175031%2F1905032801%2F0832.xml&q=korea&relevant_snippet=1"
+}

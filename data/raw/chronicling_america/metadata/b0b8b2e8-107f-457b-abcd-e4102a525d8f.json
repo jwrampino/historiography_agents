@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84027008/1866-04-07/ed-1/?sp=2"
+  ],
+  "batch": [
+    "scu_alexiavalentine_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/south carolina/",
+    "2/united states/south carolina/richland/",
+    "3/united states/south carolina/richland/columbia/"
+  ],
+  "contributor": [
+    "university of south carolina; columbia, sc"
+  ],
+  "date": "1866-04-07",
+  "dates": [
+    "1866-04-07"
+  ],
+  "description": [
+    "COLUMBIA Saturday Horning April 7 1866 What we Want All that the South needs now is to be let alone Let alone in the ma nagement of her laborJet alone in her efforts to develop her resources With her civil and political rights guaranteed to her with BO obstacle or obstruction to the energies of her people we believe today she could work out her own redemption re trieve her shattered fortunes and start on a career of prosperity that she has never yet enjoyed But the radical party will not per mit her to do this They keep her out of the Unionout of the frater nity of States which constitute the republic they regulate her system of labor and do this by military rule They keep a people as loyal and as true as any within the vide domain of the American republic out of their rights and privileges and from their just representation in the councils of the nationand for what Il would puzzle the ablest political economist to answer that question Despoiled ravaged and desolated by the fortunes of warher people subdued and ac cepting their subjugation in honesty and sincerityleft in a condition which forbids"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-24T14:37:21.733Z",
+  "group": [
+    "ndnp/scu",
+    "university-of-south-carolina-columbia-sc-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84027008/1866-04-07/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551657:1866040701:0002/full/pct:6.25/0/default.jpg#h=444&w=331",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551657:1866040701:0002/full/pct:12.5/0/default.jpg#h=889&w=663",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/scu/batch_scu_alexiavalentine_ver01/data/sn84027008/00294551657/1866040701/0002.xml&format=alto_xml"
+  ],
+  "index": 179,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "richland county",
+    "richland",
+    "columbia",
+    "south carolina",
+    "united states"
+  ],
+  "location_city": [
+    "columbia"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "richland"
+  ],
+  "location_state": [
+    "south carolina"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0000000002",
+    "0",
+    "2",
+    "7",
+    "9",
+    "1",
+    "sn84027008",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84027008"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "4",
+    "5",
+    "5",
+    "1",
+    "6",
+    "5",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Phoenix"
+  ],
+  "page_id": "sn84027008-1866-04-07-ed-1-0002",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the daily phoenix (columbia, s.c.) 1865-1878"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the daily phoenix (columbia, s.c.) 1865-1878"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84027008/1866-04-07/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84027008/1866-04-07/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "richland county (s.c.)",
+    "richland county",
+    "richland",
+    "columbia (s.c.)",
+    "columbia",
+    "south carolina",
+    "united states"
+  ],
+  "timestamp": "2024-02-04T02:26:46.735Z",
+  "title": "Image 2 of The daily phoenix (Columbia, S.C.), April 7, 1866",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84027008/1866-04-07/ed-1/?sp=2&q=civil+rights",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fscu%2Fbatch_scu_alexiavalentine_ver01%2Fdata%2Fsn84027008%2F00294551657%2F1866040701%2F0002.xml&q=civil+rights&relevant_snippet=1"
+}

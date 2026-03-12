@@ -1,0 +1,136 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2004540423/1917-09-30/ed-1/?sp=58"
+  ],
+  "batch": [
+    "dlc_1genovia_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1917-09-30",
+  "dates": [
+    "1917-09-30"
+  ],
+  "description": [
+    "RUSSIAN PENDULUM SWINGING FROM THE BOLSHEVIK REVOLT BACK TOWARD A DICTATORSHIP Kerensky Has Power Now Correspondent of The World Re ports Greater Than He Would Have ChosenRadicals Easy Prey for German Agents and for Those American Emissaries Strongly Tainted With German MoneyAmer ican Newspaper Men Scale Lofty Fence in Sudden Fusil lade on the Nevsky and Prostrate Themselves as Machine Gun Bullets Fly HarmlesslyEffort to Force Power Onto Soldiers and Workmens Delegates Collapses Through Cooperation by Them and Resistance Elsewhere By Arno DoschFleurot Staff Correspondent of The World Copyright 1917 by Tho Press Puollshing Cos The New York World PETROGRAD July 29Now that the hidden machine gunners of the Bolsheviki have stopped sprinkling this part of town with their miserable little teakettles and the Bolshyik White Night revolutionjias been liqui dated by the Cossacks there is just a moment in the rapid fire changes of the Russian revolution to stopmd take note of what happened The Cossacks have hurled their dead in a magnificent ceremony which was at the same time a challenge and a threat to any Bolsheviki who might be looking on They carried no banners hut their own Cossack regimental banners furled There was no music but"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-19T00:31:09.109Z",
+  "group": [
+    "sgpww1newspaperclippings/dlc",
+    "wwi-newspaper-clippings"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2004540423/1917-09-30/ed-1/?sp=58",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_1genovia_ver01:data:2004540423:print00192512347:1917093001:0058/full/pct:6.25/0/default.jpg#h=458&w=343",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_1genovia_ver01:data:2004540423:print00192512347:1917093001:0058/full/pct:12.5/0/default.jpg#h=916&w=687",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/sgp/sgpbatches/batch_dlc_1genovia_ver01/data/2004540423/print00192512347/1917093001/0058.xml&format=alto_xml"
+  ],
+  "index": 119,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "new york",
+    "germany",
+    "united states"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "2004540423",
+    "0000000058",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2004540423"
+  ],
+  "number_page": [
+    "0000000058"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2004540423-1917-09-30-ed-1-0058",
+  "partof": [
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-",
+    "serial and government publications division",
+    "world war history: newspaper clippings, 1914-1926"
+  ],
+  "partof_collection": [
+    "world war history: newspaper clippings, 1914-1926"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2004540423/1917-09-30/ed-1/?sp=58"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2004540423/1917-09-30/ed-1/"
+  ],
+  "shelf_id": "058",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "armistices",
+    "history",
+    "allied occupation",
+    "germany",
+    "sources",
+    "new york",
+    "world war",
+    "united states"
+  ],
+  "timestamp": "2022-11-09T15:34:24.383Z",
+  "title": "Image 58 of World War history : daily records and comments as appeared in American and foreign newspapers, 1914-1926 (New York), September 30, 1917, (1917 September 30-October 05)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2004540423/1917-09-30/ed-1/?sp=58&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fsgp%2Fsgpbatches%2Fbatch_dlc_1genovia_ver01%2Fdata%2F2004540423%2Fprint00192512347%2F1917093001%2F0058.xml&q=revolution&relevant_snippet=1"
+}

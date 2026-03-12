@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84023058/1895-11-05/ed-1/?sp=1"
+  ],
+  "batch": [
+    "nhd_flume_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new hampshire/",
+    "2/united states/new hampshire/strafford/",
+    "3/united states/new hampshire/strafford/dover/"
+  ],
+  "contributor": [
+    "dartmouth college"
+  ],
+  "date": "1895-11-05",
+  "dates": [
+    "1895-11-05"
+  ],
+  "description": [
+    "This Paper is Printedon the TFastest Newspaper Press in New Hampshire GEO J FOSTER CO PROPRIETORS RIGHT OF FRANCHISE e Being Exercised Teday In Many Parts of the Country SOME VERY CLOSE CONTESTS An Element of Uncertainty as to Leaders Fates R it WASHINGTON Nov sFour states about fmonopolize the interest which this city foels in the elections of today Maryland and Kentucky of the border states and New York and Ohio in the north Four years ago interest centered in New York Massachusetts Ohio and lowa and the Democrats met defeat only in Ohio In both Massachusetts and lowa they failed to carry the state offices below the governorship but this was expected and the fight had been made on the head of the ticket Flowers majority in New York was decisive and the continued allegiance of Massachusetts and lowa im parted to the Democracy renewed courage for the presidential struggle of 1892 This year the battle lines have changed The Democrats are fighting hard for two states in which their chances have hitherto been pretty good and find a struggle on their hands to retain two other states which ever since the war have been con ceded to"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-04-20T17:44:06.710Z",
+  "group": [
+    "ndnp/nhd",
+    "new-hampshire-dartmouth-college"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84023058/1895-11-05/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_flume_ver02:data:sn84023058:00517015763:1895110501:0857/full/pct:3.125/0/default.jpg#h=294&w=218",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_flume_ver02:data:sn84023058:00517015763:1895110501:0857/full/pct:6.25/0/default.jpg#h=589&w=436",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_flume_ver02:data:sn84023058:00517015763:1895110501:0857/full/pct:12.5/0/default.jpg#h=1179&w=873",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nhd/batch_nhd_flume_ver02/data/sn84023058/00517015763/1895110501/0857.xml&format=alto_xml"
+  ],
+  "index": 149,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "strafford",
+    "dover",
+    "new hampshire",
+    "united states"
+  ],
+  "location_city": [
+    "dover"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "strafford"
+  ],
+  "location_state": [
+    "new hampshire"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000001",
+    "sn84023058",
+    "6",
+    "5",
+    "3",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84023058"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "0",
+    "1",
+    "5",
+    "7",
+    "6",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84023058-1895-11-05-ed-1-0857",
+  "partof": [
+    "chronicling america",
+    "foster's daily democrat (dover, n.h.) 1873-current",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "foster's daily democrat (dover, n.h.) 1873-current"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84023058/1895-11-05/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84023058/1895-11-05/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "strafford",
+    "united states",
+    "dover",
+    "new hampshire"
+  ],
+  "timestamp": "2024-04-20T17:57:08.530Z",
+  "title": "Image 1 of Foster's daily Democrat (Dover, N.H.), November 5, 1895",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84023058/1895-11-05/ed-1/?sp=1&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnhd%2Fbatch_nhd_flume_ver02%2Fdata%2Fsn84023058%2F00517015763%2F1895110501%2F0857.xml&q=korea&relevant_snippet=1"
+}

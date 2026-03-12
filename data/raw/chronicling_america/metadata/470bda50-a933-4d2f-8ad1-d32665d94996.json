@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87062224/1950-12-01/ed-1/?sp=14"
+  ],
+  "batch": [
+    "deu_flash_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/delaware/",
+    "2/united states/delaware/sussex/",
+    "3/united states/delaware/sussex/milford/"
+  ],
+  "contributor": [
+    "university of delaware library, newark, de"
+  ],
+  "date": "1950-12-01",
+  "dates": [
+    "1950-12-01"
+  ],
+  "description": [
+    "Man Who Sold Surplus To U S Gets A Lot More Bargains Bv Associated Prass WASHINGTON The lucky Texan who paid 689 for some surplus Air Force equipment and sold it to Air Force officers for 63000 has found some more at bargain prices it was reported this wek Two different sources said the canny Texan acquired the same type of instruments but the Air Force refused to buy them back this time The name of the Texan has been withheld from the public by both the Senate armed services prepar edness subcommittee and Air Force officers Pentagon spokesmen for the Air Force refused to answer any ques tions saying that all information had been supplied to the Senate group which is acting as a watch dog committee over the multikil lion dollar defense program and Korean War Senator Lyndon Johnson D Tex chairman of the investigating group who first called attention to the most astounding case of short sightedness was out of the city Aides of the senator said any questions about additional lots of the surplus equipment could be answered by the Air Force officers Johnson when he first called at tention to the transaction said he was"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-12T17:56:17.086Z",
+  "group": [
+    "ndnp/deu",
+    "university-of-delaware-library-newark-de-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87062224/1950-12-01/ed-1/?sp=14",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_flash_ver01:data:sn87062224:00514156761:1950120101:0408/full/pct:3.125/0/default.jpg#h=269&w=205",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_flash_ver01:data:sn87062224:00514156761:1950120101:0408/full/pct:6.25/0/default.jpg#h=539&w=411",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_flash_ver01:data:sn87062224:00514156761:1950120101:0408/full/pct:12.5/0/default.jpg#h=1078&w=823",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/deu/batch_deu_flash_ver01/data/sn87062224/00514156761/1950120101/0408.xml&format=alto_xml"
+  ],
+  "index": 34,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "milford",
+    "united states",
+    "sussex",
+    "delaware"
+  ],
+  "location_city": [
+    "milford"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "sussex"
+  ],
+  "location_state": [
+    "delaware"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn87062224",
+    "6",
+    "5",
+    "4",
+    "1",
+    "7",
+    "0000000014"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87062224"
+  ],
+  "number_page": [
+    "0000000014"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "4",
+    "1",
+    "5",
+    "6",
+    "7",
+    "6",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87062224-1950-12-01-ed-1-0408",
+  "partof": [
+    "milford chronicle (milford, del.) 1878-1974",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "milford chronicle (milford, del.) 1878-1974"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87062224/1950-12-01/ed-1/?sp=14"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87062224/1950-12-01/ed-1/"
+  ],
+  "shelf_id": "14",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "milford (del.)",
+    "sussex",
+    "delaware",
+    "milford",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-08-13T04:06:25.068Z",
+  "title": "Image 14 of Milford chronicle (Milford, Del.), December 1, 1950",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87062224/1950-12-01/ed-1/?sp=14&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdeu%2Fbatch_deu_flash_ver01%2Fdata%2Fsn87062224%2F00514156761%2F1950120101%2F0408.xml&q=computers&relevant_snippet=1"
+}

@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045293/1926-10-05/ed-1/?sp=3"
+  ],
+  "batch": [
+    "whi_havarti_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/wisconsin/",
+    "2/united states/wisconsin/milwaukee/",
+    "3/united states/wisconsin/milwaukee/milwaukee/"
+  ],
+  "contributor": [
+    "wisconsin historical society"
+  ],
+  "date": "1926-10-05",
+  "dates": [
+    "1926-10-05"
+  ],
+  "description": [
+    "THREE Philippines Want Full Independence or NothingQuezon SENATE CHIEF AVERS THIS IS THE ONE ISSUE Impossible Will Be Burden of Thomp son Report CHICAGO Unexpectedly Col Carmi A Thompson President Cool idges personal investigator who is just preparing to draft his report finds his hands freer than he had expected during the three months of investigation of the situation in the Philippine islands says a copy righted dispatch from Manila to The Tribune He sails today with the great mass of material already whipped into shape for the final analysis and during brief stays in China and Japan followed by 11 days on the water to Seattle he will prepare an outline construction of his find ings Liberty Or Nothing At this juncture Manuel Quezon president of the Philippine senate has stepped In and materially les sened the problem of the presidents representative with the formal re iteration that the Philippines will refuse any of f short of complete Independence iTol Thompsons posi tion is that he is not called upon to consider or discuss any proposal ex cept turning the islands loose with out a single string and he holds that this is out of the question In the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-10-20T02:18:46.051Z",
+  "group": [
+    "ndnp/whi",
+    "wisconsin-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045293/1926-10-05/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_havarti_ver01:data:sn83045293:00542869045:1926100501:0251/full/pct:3.125/0/default.jpg#h=300&w=228",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_havarti_ver01:data:sn83045293:00542869045:1926100501:0251/full/pct:6.25/0/default.jpg#h=600&w=456",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/whi/batch_whi_havarti_ver01/data/sn83045293/00542869045/1926100501/0251.xml&format=alto_xml"
+  ],
+  "index": 196,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "wisconsin",
+    "milwaukee",
+    "united states"
+  ],
+  "location_city": [
+    "milwaukee"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "milwaukee"
+  ],
+  "location_state": [
+    "wisconsin"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "2",
+    "0",
+    "sn83045293",
+    "0000000003",
+    "9",
+    "1",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045293"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "2",
+    "8",
+    "6",
+    "9",
+    "0",
+    "4",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83045293-1926-10-05-ed-1-0251",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the milwaukee leader (milwaukee, wis.) 1911-1938"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the milwaukee leader (milwaukee, wis.) 1911-1938"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045293/1926-10-05/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045293/1926-10-05/ed-1/"
+  ],
+  "shelf_id": "03",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "wisconsin",
+    "https://id.oclc.org/worldcat/entity/e39pbjj8j7dbwccgbfpvchw3cp",
+    "milwaukee",
+    "socialism",
+    "milwaukee (wis.)",
+    "united states"
+  ],
+  "timestamp": "2024-10-20T03:16:20.134Z",
+  "title": "Image 3 of The Milwaukee leader (Milwaukee, Wis.), October 5, 1926, (Morning Edition)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045293/1926-10-05/ed-1/?sp=3&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwhi%2Fbatch_whi_havarti_ver01%2Fdata%2Fsn83045293%2F00542869045%2F1926100501%2F0251.xml&q=fascism&relevant_snippet=1"
+}

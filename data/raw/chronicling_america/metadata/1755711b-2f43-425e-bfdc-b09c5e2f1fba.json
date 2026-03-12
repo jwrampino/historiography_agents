@@ -1,0 +1,167 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86063034/1896-12-15/ed-1/?sp=1"
+  ],
+  "batch": [
+    "gu_endeavour_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/georgia/",
+    "2/united states/georgia/chatham/",
+    "3/united states/georgia/chatham/savannah/"
+  ],
+  "contributor": [
+    "digital library of georgia, a project of galileo located at the university of georgia libraries"
+  ],
+  "date": "1896-12-15",
+  "dates": [
+    "1896-12-15"
+  ],
+  "description": [
+    "T THE MORNING NEWS 1 I rtsbllshed 1850 Incorporated 1088 V Ct J H E3TILL President SCORES SIGN TO FIGHT SPAIN RECRUITING FOR CUBA GOING OX IX SEVERAL CITIES Government Ofllclals ut Washington vvotvhlli the Situation Closely Secretary Herbert Dcnlea u Sensa tional Report That the Cruisers Katieiitll and Newark Have Sailed j or Cuba to Prevent the Execution ot the Competitors Crew Washington Dec 14The feeling that has been aroused throughout the country b y the reported assassination of Maceo the Cuban insurgent is causing the gov ernment officials here no little anxiety and they ar watching developments closely The daily published dispatches giving ac counts of meetings throughout this coun try in which not only resolutions sympa thizing whh Cuba are adopted but meas taken to send armed 1 men and tnuni l ns 0 t war to Cuba are receiving strict attention in government circles here Even if government officials did not so closely advise themselves they would not be al ituvert u remain in ignorance of passing events as Senor de LoLme the Spanish minister has agents at all the principal r along the Atlantic seaboard and In the large cities who report to him almost"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-05-22T12:56:18.280Z",
+  "group": [
+    "ndnp/gu",
+    "digital-library-of-georgia-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86063034/1896-12-15/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182197:1896121501:1023/full/pct:3.125/0/default.jpg#h=279&w=217",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182197:1896121501:1023/full/pct:6.25/0/default.jpg#h=559&w=435",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182197:1896121501:1023/full/pct:12.5/0/default.jpg#h=1118&w=870",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/gu/batch_gu_endeavour_ver01/data/sn86063034/00414182197/1896121501/1023.xml&format=alto_xml"
+  ],
+  "index": 178,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "georgia",
+    "chatham county",
+    "savannah",
+    "chatham"
+  ],
+  "location_city": [
+    "savannah"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "chatham"
+  ],
+  "location_state": [
+    "georgia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "4",
+    "1",
+    "2",
+    "sn86063034",
+    "7",
+    "0000000001",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86063034"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "1",
+    "8",
+    "2",
+    "1",
+    "9",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Savannah morning news",
+    "Sunday issue may sometimes be known as: Sunday news",
+    "Sunday issue may sometimes be known as: Sunday morning news"
+  ],
+  "page_id": "sn86063034-1896-12-15-ed-1-1023",
+  "partof": [
+    "the morning news (savannah, ga.) 1887-1900",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the morning news (savannah, ga.) 1887-1900"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86063034/1896-12-15/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86063034/1896-12-15/ed-1/"
+  ],
+  "shelf_id": "01",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "georgia",
+    "newspapers",
+    "chatham county",
+    "savannah",
+    "chatham",
+    "savannah (ga.)",
+    "chatham county (ga.)"
+  ],
+  "timestamp": "2024-05-22T20:36:17.745Z",
+  "title": "Image 1 of The morning news (Savannah, Ga.), December 15, 1896",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86063034/1896-12-15/ed-1/?sp=1&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fgu%2Fbatch_gu_endeavour_ver01%2Fdata%2Fsn86063034%2F00414182197%2F1896121501%2F1023.xml&q=cuba&relevant_snippet=1"
+}

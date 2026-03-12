@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87060190/1898-06-16/ed-1/?sp=1"
+  ],
+  "batch": [
+    "kyu_bronze_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/kentucky/",
+    "2/united states/kentucky/mason/",
+    "3/united states/kentucky/mason/maysville/"
+  ],
+  "contributor": [
+    "university of kentucky, lexington, ky"
+  ],
+  "date": "1898-06-16",
+  "dates": [
+    "1898-06-16"
+  ],
+  "description": [
+    "r Wrrvfpt3rXp HSKsufJWTfiT IK VT5EJ7555 THE EVENING BULLETIN VOLUME XVII MAYSVILLE KY THURSDAY JUNE 161898 NUMBER 175 1 v RELIEF TO OFFICIALS Was a Cablegram Received From Admiral Sampson CUBANS ABE NOW ON HAND They Are Fighting Sd by Side Wiih the Americans JESUS RA3I CAPTURES A TOWN The Spanish Guerrillas it Santltgo Have Practically Retreated Inside the City Proper Where They Will Make Their Last Stand Washington June 18 Like the re lief of the beleaguered Lucknow came the welcome news to the navy depart mmt that thf Httln hand of American ft larlnes who had planted the flag on forest Hill and were defending It night and day against heavy odds were not only safe but were strongly reinforced by 1500 Cubans from the commands of Garcia and Rabl and were now Btrong enough to more than hold their own It was disclosed in a dispatch from Admiral Sampson and brought relief to the naval officials The early re ports had indicated that the marines were surrounded and It was feared that they might be compelled to return to the ships before General Shatters invading army reached there on Fri day The coming of the Cuban forces seems"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-07-21T10:35:14.566Z",
+  "group": [
+    "ndnp/kyu",
+    "university-of-kentucky-lexington-ky-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87060190/1898-06-16/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bronze_ver01:data:sn87060190:00211103942:1898061601:0844/full/pct:6.25/0/default.jpg#h=446&w=289",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bronze_ver01:data:sn87060190:00211103942:1898061601:0844/full/pct:12.5/0/default.jpg#h=892&w=578",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/kyu/batch_kyu_bronze_ver01/data/sn87060190/00211103942/1898061601/0844.xml&format=alto_xml"
+  ],
+  "index": 184,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "mason",
+    "kentucky",
+    "mason county",
+    "maysville",
+    "united states"
+  ],
+  "location_city": [
+    "maysville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "mason"
+  ],
+  "location_state": [
+    "kentucky"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn87060190",
+    "0",
+    "2",
+    "3",
+    "9",
+    "1",
+    "0000000001",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87060190"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "1",
+    "1",
+    "0",
+    "3",
+    "9",
+    "4",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87060190-1898-06-16-ed-1-0844",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the evening bulletin (maysville, ky.) 1887-1905"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the evening bulletin (maysville, ky.) 1887-1905"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87060190/1898-06-16/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87060190/1898-06-16/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "mason",
+    "kentucky",
+    "mason county",
+    "mason county (ky.)",
+    "maysville (ky.)",
+    "maysville",
+    "united states"
+  ],
+  "timestamp": "2025-07-21T14:01:42.810Z",
+  "title": "Image 1 of The evening bulletin (Maysville, Ky.), June 16, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87060190/1898-06-16/ed-1/?sp=1&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fkyu%2Fbatch_kyu_bronze_ver01%2Fdata%2Fsn87060190%2F00211103942%2F1898061601%2F0844.xml&q=spanish&relevant_snippet=1"
+}

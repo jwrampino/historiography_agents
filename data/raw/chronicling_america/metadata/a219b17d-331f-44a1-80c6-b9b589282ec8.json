@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85053058/1917-09-10/ed-1/?sp=14"
+  ],
+  "batch": [
+    "mthi_leopardfrog_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/silver bow/",
+    "3/united states/montana/silver bow/butte/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1917-09-10",
+  "dates": [
+    "1917-09-10"
+  ],
+  "description": [
+    "r Advr THE BUTTE DAILY POST 1 S Office Using Rates on Appll ANACONDA 203 Main St Phone cation B U R E A U Bell 65 UNION COMMITTEE HOLDS II MEETING Mass Session Will Be Called for Margaret Theater To morrow Night Anaconda Sept 10 A meeting of a committee representative of the Great Falls Mill and Smeltermen the 1utte Miners Inion No 1 the Ana conda Mill and Smeltermen and the Butte Engineers was held today at Carpenters hall The delegates rep resented international unions Tom Stodden was elected chairman Mr Stodden is a member of the engi neers union of Butte William Max well was chosen secretary It was de ctded to hold a mass meeting at the Margaret theater tomorrow night The icomplete details of the meeting will be worked cut later in the day and the sjeakors for the occasion se levted Nothing was given out in reference to the deliberations of the committee but it is understood that the coni nut tee had under consideration a res olution to notify the companies that the memberships of the unions repre sented were ready to resume work at the mines and smelters so declaring the companies"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:48:41.891Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85053058/1917-09-10/ed-1/?sp=14",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_leopardfrog_ver01:data:sn85053058:00295861319:1917091001:0845/full/pct:6.25/0/default.jpg#h=358&w=259",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_leopardfrog_ver01:data:sn85053058:00295861319:1917091001:0845/full/pct:12.5/0/default.jpg#h=717&w=519",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_leopardfrog_ver01/data/sn85053058/00295861319/1917091001/0845.xml&format=alto_xml"
+  ],
+  "index": 116,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "butte",
+    "montana",
+    "silver bow"
+  ],
+  "location_city": [
+    "butte"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "silver bow"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn85053058",
+    "1",
+    "0000000014",
+    "8",
+    "9",
+    "5",
+    "6",
+    "3",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85053058"
+  ],
+  "number_page": [
+    "0000000014"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "5",
+    "8",
+    "6",
+    "1",
+    "3",
+    "1",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Montana standard-post"
+  ],
+  "page_id": "sn85053058-1917-09-10-ed-1-0845",
+  "partof": [
+    "the butte daily post (butte, mont.) 1913-1961",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the butte daily post (butte, mont.) 1913-1961"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85053058/1917-09-10/ed-1/?sp=14"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85053058/1917-09-10/ed-1/"
+  ],
+  "shelf_id": "14",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "butte (mont.)",
+    "united states",
+    "periodicals",
+    "montana",
+    "butte",
+    "silver bow"
+  ],
+  "timestamp": "2023-07-06T10:28:31.641Z",
+  "title": "Image 14 of The Butte daily post (Butte, Mont.), September 10, 1917",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85053058/1917-09-10/ed-1/?sp=14&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_leopardfrog_ver01%2Fdata%2Fsn85053058%2F00295861319%2F1917091001%2F0845.xml&q=terrorism&relevant_snippet=1"
+}

@@ -1,0 +1,166 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88063294/1943-07-31/ed-1/?sp=18"
+  ],
+  "batch": [
+    "mimtptc_gwinn_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/michigan/",
+    "2/united states/michigan/wayne/",
+    "3/united states/michigan/wayne/detroit/"
+  ],
+  "contributor": [
+    "central michigan university, clark historical library"
+  ],
+  "date": "1943-07-31",
+  "dates": [
+    "1943-07-31"
+  ],
+  "description": [
+    "July J 943 Page 18 BB mm MMMH PS fBI JiV kit FINSTERWALDS IfBAL SALE Added Brand New Fall Suits Top coats and Overcoats to replenish assort mentsat Final Reductions TONIGHT SATURDAY ALL 5 STORES OPEN 9 A M TO 9 P M vhS 8 4 High Value Voltage Croups j rtif Iri Como to a fviTWfl BSSS ntfm VTTm ss Alteration at k In no cast over sl E Small deposit holds any pur _ E r 1 T i ALLWOOL SPORT COATS Ordinarily op to CIA sl7 85 Reduced to LEISURE COATS f TA All wool Sharply M fII reduced to Vs SLACKS f shsrdo s a and turdt DfXtixrl fl M ly raduced tc Vs I w PROF THRU TI L SAYS CHARGE IT USE ONE OF OUR 4 THRIFT PAY PLANS Ciiir 2 Month IFiff 4l J Accmint fnt 3 Monlhn Month WtV f hna pay uni mtr tn lnk lr rlr irfuit II vrtlrr r II NSTERWALDS 235 MONROf COR RANDOLPH o 13725 WOOOWARO n Prrttn 13232 JEFFERSON nr DrciH f m 14335 3RATIOT If 7 MHt M 10711 GRAND RIVER r OiMua THE DETROIT TIMES IAND rye A AfOrfJfm GROUP 4 j AllWool OCoats"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-16T21:40:25.229Z",
+  "group": [
+    "ndnp/mimtptc",
+    "central-michigan-university-clark-historical-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88063294/1943-07-31/ed-1/?sp=18",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gwinn_ver01:data:sn88063294:00340588599:1943073101:0703/full/pct:3.125/0/default.jpg#h=290&w=228",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gwinn_ver01:data:sn88063294:00340588599:1943073101:0703/full/pct:6.25/0/default.jpg#h=581&w=456",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gwinn_ver01:data:sn88063294:00340588599:1943073101:0703/full/pct:12.5/0/default.jpg#h=1163&w=912",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mimtptc/batch_mimtptc_gwinn_ver01/data/sn88063294/00340588599/1943073101/0703.xml&format=alto_xml"
+  ],
+  "index": 130,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "wayne county",
+    "united states",
+    "wayne",
+    "michigan",
+    "detroit"
+  ],
+  "location_city": [
+    "detroit"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "wayne"
+  ],
+  "location_state": [
+    "michigan"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "9",
+    "4",
+    "5",
+    "1",
+    "0000000018",
+    "sn88063294",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88063294"
+  ],
+  "number_page": [
+    "0000000018"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "8",
+    "5",
+    "9",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Detroit times",
+    "Detroit Sunday times"
+  ],
+  "page_id": "sn88063294-1943-07-31-ed-1-0703",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "detroit evening times (detroit, mich) 1921-1958"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "detroit evening times (detroit, mich) 1921-1958"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88063294/1943-07-31/ed-1/?sp=18"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88063294/1943-07-31/ed-1/"
+  ],
+  "shelf_id": "18",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "wayne county",
+    "united states",
+    "newspapers",
+    "detroit (mich.)",
+    "wayne",
+    "wayne county (mich.)",
+    "michigan",
+    "detroit"
+  ],
+  "timestamp": "2024-01-17T10:45:04.244Z",
+  "title": "Image 18 of Detroit evening times (Detroit, Mich), July 31, 1943, (REDLINE)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88063294/1943-07-31/ed-1/?sp=18&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmimtptc%2Fbatch_mimtptc_gwinn_ver01%2Fdata%2Fsn88063294%2F00340588599%2F1943073101%2F0703.xml&q=fascism&relevant_snippet=1"
+}

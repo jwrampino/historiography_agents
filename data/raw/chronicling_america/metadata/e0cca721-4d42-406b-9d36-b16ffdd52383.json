@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86075096/1960-09-15/ed-1/?sp=5"
+  ],
+  "batch": [
+    "mthi_fireweed_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/cascade/",
+    "3/united states/montana/cascade/great falls/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1960-09-15",
+  "dates": [
+    "1960-09-15"
+  ],
+  "description": [
+    "Agribusiness What It Is and What It Means For Farmers and Ranchers AGRIBUSINESS IS THE word coined in 1954 by Harvard economists John Davis and Ray Goldberg to describe the modern complex organiza tion of farm and business firms engaged in the production of a finished food or fiber commodity The concept of agriculture as an industry in and of itself was appro priate enough 150 years ago and on up to the early 1900s Until then the farm family produced most of its needs right on the farm It performed all operations related to growing processing storing and merchandising But today many of these operations are performed by a host of separate businesses A few of these in addition to the producer are the machinery dealers fertilizer dealers gas and oil distributors elevators flour mills feed dealers grocery stores bakeries banks and transportation com panies All these people and firms are dependent upon each other and all are contributing to the production and distribution of the finished product It is evident that agriculture just isnt what it used to be We have a new entity a composite of many farms and business firms which perform all the functions of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:46:22.504Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86075096/1960-09-15/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_fireweed_ver01:data:sn86075096:00340581532:1960091501:0898/full/pct:6.25/0/default.jpg#h=432&w=322",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_fireweed_ver01:data:sn86075096:00340581532:1960091501:0898/full/pct:12.5/0/default.jpg#h=864&w=645",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_fireweed_ver01/data/sn86075096/00340581532/1960091501/0898.xml&format=alto_xml"
+  ],
+  "index": 37,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "great falls",
+    "cascade",
+    "montana"
+  ],
+  "location_city": [
+    "great falls"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cascade"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn86075096",
+    "2",
+    "8",
+    "5",
+    "3",
+    "4",
+    "1",
+    "0000000005"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86075096"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "1",
+    "5",
+    "3",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86075096-1960-09-15-ed-1-0898",
+  "partof": [
+    "montana farmer-stockman (great falls, mont.) 1947-1993",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "montana farmer-stockman (great falls, mont.) 1947-1993"
+  ],
+  "publication_frequency": [
+    "other"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86075096/1960-09-15/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86075096/1960-09-15/ed-1/"
+  ],
+  "shelf_id": "05",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "livestock",
+    "cascade",
+    "great falls (mont.)",
+    "great falls",
+    "agriculture",
+    "united states",
+    "newspapers",
+    "montana"
+  ],
+  "timestamp": "2023-07-05T23:11:30.864Z",
+  "title": "Image 5 of Montana farmer-stockman (Great Falls, Mont.), September 15, 1960",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86075096/1960-09-15/ed-1/?sp=5&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_fireweed_ver01%2Fdata%2Fsn86075096%2F00340581532%2F1960091501%2F0898.xml&q=computers&relevant_snippet=1"
+}

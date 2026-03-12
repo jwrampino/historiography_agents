@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1919-09-29/ed-1/?sp=16"
+  ],
+  "batch": [
+    "dlc_dalek_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1919-09-29",
+  "dates": [
+    "1919-09-29"
+  ],
+  "description": [
+    "urrv IS r v I fe M irrf i Aj H B KVmIHI lHI i j yllBRj B fl A I V i k hl i Kl 1 Thi i 1 I III II H4ITGE MEDICINE r Sergeant VH a dog But lie was more tl that Be VH ft Friend For years Sergeant i the feltbful oompanloa of his master Polk 1 ler oa their busting trigs Polk piw was of 4 melires greatest authorities on Dogs tl ft care ftftd treatment So ha decided upon a li IfP memorial to 8ergeaftt He compounded Bi tela modieinea for dogs and named them a F his old Friend Among them was Sergea u Mango Medicine for more than 40 years this used to help daga afflicted with Mange skin ti J i Mag ftftd falling hair Then came A WVflUMrVM WlBVWfMH i u It WW tewrt that Sergeants Mange M etna waa wonderfully successful in treating v tnaa Mif the earn ailments which in S I K It had SO universally relieved One man L another and so the good news spread From 1 time en the demand for Sergeants Mange M eine was widespread Its use has increased d"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:57:18.824Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1919-09-29/ed-1/?sp=16",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dalek_ver01:data:sn83045462:0028065663A:1919092901:0200/full/pct:6.25/0/default.jpg#h=459&w=355",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dalek_ver01:data:sn83045462:0028065663A:1919092901:0200/full/pct:12.5/0/default.jpg#h=919&w=710",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_dalek_ver01/data/sn83045462/0028065663A/1919092901/0200.xml&format=alto_xml"
+  ],
+  "index": 10,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "a",
+    "2",
+    "sn83045462",
+    "6",
+    "8",
+    "5",
+    "3",
+    "0000000016",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000016"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "6",
+    "6",
+    "3",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1919-09-29-ed-1-0200",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1919-09-29/ed-1/?sp=16"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1919-09-29/ed-1/"
+  ],
+  "shelf_id": "16",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2022-10-20T04:26:59.539Z",
+  "title": "Image 16 of Evening star (Washington, D.C.), September 29, 1919",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1919-09-29/ed-1/?sp=16&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_dalek_ver01%2Fdata%2Fsn83045462%2F0028065663A%2F1919092901%2F0200.xml&q=medicine&relevant_snippet=1"
+}

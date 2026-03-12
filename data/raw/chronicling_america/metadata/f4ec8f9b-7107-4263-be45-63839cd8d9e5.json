@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83030272/1911-05-28/ed-1/?sp=32"
+  ],
+  "batch": [
+    "nn_dansereau_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "the new york public library, astor, lenox and tilden foundation"
+  ],
+  "date": "1911-05-28",
+  "dates": [
+    "1911-05-28"
+  ],
+  "description": [
+    "THE SUN SUNDAY MAY 28 Mil SOME SEW BOOKS The Middle Ace I The exact purpose of Hksbt OsroiiN Tatlorb The Jfediceral Mind Tho Mac mlllan Company Is made clear by Its subtitle as a history of tho develop ment of thought and omotion In tho Mlddlo Arm Tho idoa Is novel and appeals to tho imagination Also It I bo ambitious as to oxcite scoptlelsm for If It carries out its protnlso It will ho ono of tho groat liooks of our timed Will tho imagination that ran eonoolvo tho echemo bo occom paniod by tho Round s holarshlp and keen insight that will give ui truo images of thneo centuries formidable for thoir talo of nnarly a thousand yonrs thoir heterogeneous races thoir picturesque contrasts and abovo nil for tho lap k of contact which nmtrM to reign botwoon iw and thorn whirh make us commonly fo that tho Mlddlo Agns aro Intolloe tually so propostorous spiritually so strange A first glnnro nt tho tnblo of contents given a vivid impression unusual in thin ordinarily dry catalogue of titles Evi dently MrTavlor ran pnwont his matorial Under attraotivo caption In sequences and contrasts both logical and plrttirosquo Ho"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T13:37:24.117Z",
+  "group": [
+    "ndnp/nn-2011_2013",
+    "the-new-york-public-library-astor-lenox-and-tilden-foundation-awardee-3"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83030272/1911-05-28/ed-1/?sp=32",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dansereau_ver02:data:sn83030272:00206533559:1911052801:0518/full/pct:6.25/0/default.jpg#h=411&w=301",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dansereau_ver02:data:sn83030272:00206533559:1911052801:0518/full/pct:12.5/0/default.jpg#h=822&w=603",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nn/batch_nn_dansereau_ver02/data/sn83030272/00206533559/1911052801/0518.xml&format=alto_xml"
+  ],
+  "index": 54,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "new york county",
+    "new york city",
+    "new york"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn83030272",
+    "3",
+    "9",
+    "6",
+    "5",
+    "2",
+    "1",
+    "0000000032"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83030272"
+  ],
+  "number_page": [
+    "0000000032"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "6",
+    "5",
+    "3",
+    "3",
+    "5",
+    "5",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "New York sun",
+    "Extra sun"
+  ],
+  "page_id": "sn83030272-1911-05-28-ed-1-0518",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the sun (new york [n.y.]) 1833-1916"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the sun (new york [n.y.]) 1833-1916"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83030272/1911-05-28/ed-1/?sp=32"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83030272/1911-05-28/ed-1/"
+  ],
+  "shelf_id": "32",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "new york (n.y.)",
+    "united states",
+    "newspapers",
+    "new york",
+    "new york (state)",
+    "new york county",
+    "new york county (n.y.)"
+  ],
+  "timestamp": "2022-10-11T04:09:19.350Z",
+  "title": "Image 32 of The sun (New York [N.Y.]), May 28, 1911, (THIRD SECTION)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83030272/1911-05-28/ed-1/?sp=32&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnn%2Fbatch_nn_dansereau_ver02%2Fdata%2Fsn83030272%2F00206533559%2F1911052801%2F0518.xml&q=nuclear&relevant_snippet=1"
+}

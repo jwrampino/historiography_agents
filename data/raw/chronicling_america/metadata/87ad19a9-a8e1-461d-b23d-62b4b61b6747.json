@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn90060332/1935-03-09/ed-1/?sp=2"
+  ],
+  "batch": [
+    "mnhi_limbo_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/minnesota/",
+    "2/united states/minnesota/hennepin/",
+    "3/united states/minnesota/hennepin/minneapolis/"
+  ],
+  "contributor": [
+    "minnesota historical society; saint paul, mn"
+  ],
+  "date": "1935-03-09",
+  "dates": [
+    "1935-03-09"
+  ],
+  "description": [
+    "Two FL PLATFORM DEMANDS REPEAL OF STATE SYNDICALISM LAW Continued from page 1 der which we have grown from a mere Thirteen colonies to a na tion ot fortyeight sovereign states from a weakling colony to the most powerful nation on earthfrom subjects of a king to a freedom unknown under the most benign rule of any monarch listen one moment Our public officials our pat riotic organizations our civic organizations and too many of our public spirited citizens have refused to listen have re fused to beieve that our govern ment is in actual danger of de struction that tor arc face to face zeith revolution For months Saturday Press has called your attention to this dan ger for months it has done its small mite towards halting the spread of communism and red radicalism in this community and state In all those months no public official under oath to support the constitution of the United States and prosecute those teaching sedition and preaching treason has lifted hand or voice in assistance has made no move to enforce the one law that com munists and radicals fear above all other laws The state svndicalism law Let me quote that"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-04T03:57:40.811Z",
+  "group": [
+    "ndnp/mnhi",
+    "minnesota-historical-society-saint-paul-mn-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn90060332/1935-03-09/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_limbo_ver01:data:sn90060332:00383348444:1935030901:0083/full/pct:6.25/0/default.jpg#h=464&w=329",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_limbo_ver01:data:sn90060332:00383348444:1935030901:0083/full/pct:12.5/0/default.jpg#h=929&w=659",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mnhi/batch_mnhi_limbo_ver01/data/sn90060332/00383348444/1935030901/0083.xml&format=alto_xml"
+  ],
+  "index": 70,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "hennepin",
+    "minneapolis",
+    "minnesota"
+  ],
+  "location_city": [
+    "minneapolis"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hennepin"
+  ],
+  "location_state": [
+    "minnesota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn90060332",
+    "3",
+    "4",
+    "1",
+    "0000000002",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn90060332"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "8",
+    "3",
+    "3",
+    "4",
+    "8",
+    "4",
+    "4",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn90060332-1935-03-09-ed-1-0083",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the saturday press (minneapolis, minn.) 1927-1936"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the saturday press (minneapolis, minn.) 1927-1936"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn90060332/1935-03-09/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn90060332/1935-03-09/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "minneapolis",
+    "minneapolis (minn.)",
+    "united states",
+    "newspapers",
+    "hennepin",
+    "minnesota"
+  ],
+  "timestamp": "2024-01-05T07:53:41.207Z",
+  "title": "Image 2 of The Saturday press (Minneapolis, Minn.), March 9, 1935",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn90060332/1935-03-09/ed-1/?sp=2&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmnhi%2Fbatch_mnhi_limbo_ver01%2Fdata%2Fsn90060332%2F00383348444%2F1935030901%2F0083.xml&q=terrorism&relevant_snippet=1"
+}

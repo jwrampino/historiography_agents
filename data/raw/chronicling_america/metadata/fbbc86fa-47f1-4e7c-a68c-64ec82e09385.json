@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2025200871/1893-01-01/ed-1/?sp=8"
+  ],
+  "batch": [
+    "dlc_cheetah_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/pennsylvania/",
+    "2/united states/pennsylvania/cumberland/",
+    "3/united states/pennsylvania/cumberland/carlisle/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1893-01-01",
+  "dates": [
+    "1893-01-01"
+  ],
+  "description": [
+    "WHATTHEPRESIDENTH IOS ABOUT INDIAN I V 1 I MESSAGI The work in the Indian Bureau in 1 execution of he policy of reeen legisl tion has been largely directed to iw Ciief purpose First the allotment of lauds in severalty to the Indian and the cession to the United States o surp us lan Is an secondly to the w rk ot du cating tne Indian for hi own prorectio in his closer contact with the whi e man and for the intel igent exercise of his new citi enship Allotments have been made and paten s issued to 5900 Inainns under the present Secretary and Commissioner and 7600 additional allotments have been made for which patents at enow in process of prep ra ion The school attendance of Indian chil dren has be en increased during that time over 13 per cent the enrollment for 1692 being nearly 20000 A uniform system of school text books and of study has been adopted and the work in these national schools brought as near as mav be to the basis of the free common school of the States These senools can be transf rred and merited into the commonschool sys tems"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-09-14T05:40:40.501Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2025200871/1893-01-01/ed-1/?sp=8",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cheetah_ver02:data:2025200871:00543171748:1893010101:0358/full/pct:6.25/0/default.jpg#h=400&w=277",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cheetah_ver02:data:2025200871:00543171748:1893010101:0358/full/pct:12.5/0/default.jpg#h=801&w=555",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_cheetah_ver02/data/2025200871/00543171748/1893010101/0358.xml&format=alto_xml"
+  ],
+  "index": 159,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "cumberland",
+    "carlisle",
+    "pennsylvania"
+  ],
+  "location_city": [
+    "carlisle"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cumberland"
+  ],
+  "location_state": [
+    "pennsylvania"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "1",
+    "5",
+    "4",
+    "7",
+    "2025200871",
+    "0000000008",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2025200871"
+  ],
+  "number_page": [
+    "0000000008"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "3",
+    "1",
+    "7",
+    "1",
+    "7",
+    "4",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2025200871-1893-01-01-ed-1-0358",
+  "partof": [
+    "chronicling america",
+    "the red man (carlisle, pa.) 1888-1900",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the red man (carlisle, pa.) 1888-1900"
+  ],
+  "publication_frequency": [
+    "monthly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2025200871/1893-01-01/ed-1/?sp=8"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2025200871/1893-01-01/ed-1/"
+  ],
+  "shelf_id": "8",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states indian school (carlisle, pa.)",
+    "united states",
+    "carlisle (pa.)",
+    "newspapers",
+    "pennsylvania",
+    "carlisle",
+    "cumberland",
+    "indians of north america"
+  ],
+  "subject_ethnicity": [
+    "indians of north america"
+  ],
+  "timestamp": "2025-09-14T05:43:50.685Z",
+  "title": "Image 8 of The Red man (Carlisle, Pa.), January 1, 1893",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2025200871/1893-01-01/ed-1/?sp=8&q=indian+territory",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_cheetah_ver02%2Fdata%2F2025200871%2F00543171748%2F1893010101%2F0358.xml&q=indian+territory&relevant_snippet=1"
+}

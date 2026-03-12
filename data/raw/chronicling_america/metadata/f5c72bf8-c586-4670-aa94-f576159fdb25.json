@@ -1,0 +1,165 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn78000090/1950-02-17/ed-1/?sp=1"
+  ],
+  "batch": [
+    "fu_bobcats_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/florida/",
+    "2/united states/florida/duval/",
+    "3/united states/florida/duval/jacksonville/"
+  ],
+  "contributor": [
+    "university of florida"
+  ],
+  "date": "1950-02-17",
+  "dates": [
+    "1950-02-17"
+  ],
+  "description": [
+    "THE OLDEST AND MOST WIDELY CIRCULATED JEWISH PUBLICATION IN THIS TERRITORY VOL 27 NO 4 PLAIN TALK By Alfred Segal OUR STIFFNECKS I have been getting word lately about Jews wrapping themselves up in special righteousness and refusing to have anything to do with gestures of good will toward their nonJewish neighbors There was as I recall a recent incident in New Jersey in which some of the Jews of the commun ity took public steps to have their children boycott Christmas ob servance in the public schools It is creditable to other Jews of the same community that they pub licly protested against this Now I read some utterances made against the broadminded Jew of Claremont N H In one of the Yiddish press they are ac cused of trying to buy good will among the Christians Their alleged offense is that they sent Christmas presents to the dis abled in a Veterans Hospital they invited Christian ministers to the pulpit of Rabbi Michael Szenes of their temple If these were isolated incidents they wouldnt be worth mention ing They belong to a new pat tern of some Jews who lately have taken up a stiffneckedness unbecoming to the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2026-01-27T16:58:05.115Z",
+  "group": [
+    "ndnp/fu",
+    "university-of-florida-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn78000090/1950-02-17/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_bobcats_ver01:data:sn78000090:0041418067A:1950021701:0809/full/pct:6.25/0/default.jpg#h=490&w=333",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_bobcats_ver01:data:sn78000090:0041418067A:1950021701:0809/full/pct:12.5/0/default.jpg#h=980&w=666",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/fu/batch_fu_bobcats_ver01/data/sn78000090/0041418067A/1950021701/0809.xml&format=alto_xml"
+  ],
+  "index": 197,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "duval",
+    "duval county",
+    "florida",
+    "jacksonville"
+  ],
+  "location_city": [
+    "jacksonville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "duval"
+  ],
+  "location_state": [
+    "florida"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "8",
+    "6",
+    "sn78000090",
+    "7",
+    "4",
+    "a",
+    "0",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn78000090"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "1",
+    "8",
+    "0",
+    "6",
+    "7",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn78000090-1950-02-17-ed-1-0809",
+  "partof": [
+    "the southern jewish weekly (jacksonville, fla.) 1939-1992",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the southern jewish weekly (jacksonville, fla.) 1939-1992"
+  ],
+  "publication_frequency": [
+    "semimonthly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn78000090/1950-02-17/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn78000090/1950-02-17/ed-1/"
+  ],
+  "shelf_id": "01",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "florida",
+    "jewish",
+    "duval county (fla.)",
+    "newspapers",
+    "duval",
+    "jacksonville (fla.)",
+    "duval county",
+    "jewish newspapers",
+    "jacksonville"
+  ],
+  "subject_ethnicity": [
+    "jewish"
+  ],
+  "timestamp": "2026-01-27T20:17:25.607Z",
+  "title": "Image 1 of The Southern Jewish weekly (Jacksonville, Fla.), February 17, 1950",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn78000090/1950-02-17/ed-1/?sp=1&q=soviet+union",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Ffu%2Fbatch_fu_bobcats_ver01%2Fdata%2Fsn78000090%2F0041418067A%2F1950021701%2F0809.xml&q=soviet+union&relevant_snippet=1"
+}

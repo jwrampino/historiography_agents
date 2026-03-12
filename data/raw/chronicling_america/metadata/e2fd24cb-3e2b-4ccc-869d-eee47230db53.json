@@ -1,0 +1,166 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045313/1953-06-22/ed-1/?sp=5"
+  ],
+  "batch": [
+    "me_immigration_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/maine/",
+    "2/united states/maine/androscoggin/",
+    "3/united states/maine/androscoggin/lewiston/"
+  ],
+  "contributor": [
+    "maine state library"
+  ],
+  "date": "1953-06-22",
+  "dates": [
+    "1953-06-22"
+  ],
+  "description": [
+    ""
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-10-13T01:45:46.557Z",
+  "group": [
+    "ndnp/me",
+    "maine-state-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045313/1953-06-22/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_immigration_ver01:data:sn83045313:00542861083:1953062201:0873/full/pct:6.25/0/default.jpg#h=322&w=212",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_immigration_ver01:data:sn83045313:00542861083:1953062201:0873/full/pct:12.5/0/default.jpg#h=644&w=424",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/me/batch_me_immigration_ver01/data/sn83045313/00542861083/1953062201/0873.xml&format=alto_xml"
+  ],
+  "index": 197,
+  "language": [
+    "french"
+  ],
+  "location": [
+    "united states",
+    "androscoggin",
+    "maine",
+    "lewiston"
+  ],
+  "location_city": [
+    "lewiston"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "androscoggin"
+  ],
+  "location_state": [
+    "maine"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "2",
+    "8",
+    "5",
+    "6",
+    "3",
+    "sn83045313",
+    "4",
+    "1",
+    "0000000005"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045313"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "2",
+    "8",
+    "6",
+    "1",
+    "0",
+    "8",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83045313-1953-06-22-ed-1-0873",
+  "partof": [
+    "chronicling america",
+    "le messager (lewiston, me.) 1880-1966",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "le messager (lewiston, me.) 1880-1966"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045313/1953-06-22/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045313/1953-06-22/ed-1/"
+  ],
+  "shelf_id": "05",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "lewiston",
+    "androscoggin",
+    "https://id.oclc.org/worldcat/entity/e39qbtfrdvqtdqt9hdrtcc3ymm",
+    "french americans",
+    "lewiston (me.)",
+    "https://id.oclc.org/worldcat/entity/e39pbjtxgqxmwqmjmjjwxrhgrq",
+    "french",
+    "maine",
+    "french-canadians",
+    "united states",
+    "newspapers"
+  ],
+  "subject_ethnicity": [
+    "french"
+  ],
+  "timestamp": "2024-10-13T01:58:23.328Z",
+  "title": "Image 5 of Le messager (Lewiston, Me.), June 22, 1953",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045313/1953-06-22/ed-1/?sp=5&q=vietnam",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fme%2Fbatch_me_immigration_ver01%2Fdata%2Fsn83045313%2F00542861083%2F1953062201%2F0873.xml&q=vietnam&relevant_snippet=1"
+}

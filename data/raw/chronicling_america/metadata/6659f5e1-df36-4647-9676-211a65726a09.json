@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn90060762/1924-05-01/ed-1/?sp=4"
+  ],
+  "batch": [
+    "mnhi_juliet_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/minnesota/",
+    "2/united states/minnesota/washington/",
+    "3/united states/minnesota/washington/stillwater/"
+  ],
+  "contributor": [
+    "minnesota historical society; saint paul, mn"
+  ],
+  "date": "1924-05-01",
+  "dates": [
+    "1924-05-01"
+  ],
+  "description": [
+    "PIPEFULS A column of VERSE and WORSE in which the colunmitt LIGHTS VP D D says he can write as good poetry as Shakespeare if he has a mind to Attaboy Dink youre right at that all thats lacking is the mind But were for you strong and to prove it we pub lish your latest pome below Speaking of fashions in dress reminds us Fashion Note Indications are that the coming seasons vogue will see tan and khaki as the dominant colors in mens morning and afternoon suitings For evening wear nightshirts will remain de rigueur excepting on very hot nights Patent medicine ad The man who takes my medicine will never take any other Signed Dr I O Dyne You said it doc How about a few of our madetoorder testimonials for your advertising campaign Dear Dr Dyne When I began taking your medicine I could see but little now I can see my finish Dear Doc You told me to take one pill three times a day I took it once but I couldnt get it up again Dr I O Dyne For many years I tried everything for a lame back Now I stick to your"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-07-10T21:33:10.760Z",
+  "group": [
+    "ndnp/mnhi",
+    "minnesota-historical-society-saint-paul-mn-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn90060762/1924-05-01/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_juliet_ver02:data:sn90060762:00199919866:1924050101:0072/full/pct:6.25/0/default.jpg#h=386&w=281",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_juliet_ver02:data:sn90060762:00199919866:1924050101:0072/full/pct:12.5/0/default.jpg#h=772&w=563",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mnhi/batch_mnhi_juliet_ver02/data/sn90060762/00199919866/1924050101/0072.xml&format=alto_xml"
+  ],
+  "index": 33,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "stillwater",
+    "minnesota",
+    "washington county"
+  ],
+  "location_city": [
+    "stillwater"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "washington"
+  ],
+  "location_state": [
+    "minnesota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn90060762",
+    "8",
+    "9",
+    "6",
+    "0000000004",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn90060762"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "1",
+    "9",
+    "9",
+    "9",
+    "1",
+    "9",
+    "8",
+    "6",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn90060762-1924-05-01-ed-1-0072",
+  "partof": [
+    "serial and government publications division",
+    "the mirror (stillwater, minn.) 1894-1925",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the mirror (stillwater, minn.) 1894-1925"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn90060762/1924-05-01/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn90060762/1924-05-01/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "stillwater (minn.)",
+    "minnesota state prison (stillwater, minn.)",
+    "washington",
+    "washington county (minn.)",
+    "stillwater",
+    "newspapers",
+    "minnesota",
+    "washington county",
+    "correctional institutions"
+  ],
+  "timestamp": "2025-07-11T04:18:03.307Z",
+  "title": "Image 4 of The mirror (Stillwater, Minn.), May 1, 1924",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn90060762/1924-05-01/ed-1/?sp=4&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmnhi%2Fbatch_mnhi_juliet_ver02%2Fdata%2Fsn90060762%2F00199919866%2F1924050101%2F0072.xml&q=cuba&relevant_snippet=1"
+}

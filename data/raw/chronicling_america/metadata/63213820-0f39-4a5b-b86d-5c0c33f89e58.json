@@ -1,0 +1,167 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2010270509/1957-10-10/ed-1/?sp=11"
+  ],
+  "batch": [
+    "nbu_equus_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nebraska/",
+    "2/united states/nebraska/holt/",
+    "3/united states/nebraska/holt/o'neill/",
+    "3/united states/nebraska/holt/o'neill city/"
+  ],
+  "contributor": [
+    "university of nebraska-lincoln libraries, lincoln, ne"
+  ],
+  "date": "1957-10-10",
+  "dates": [
+    "1957-10-10"
+  ],
+  "description": [
+    "Official Proceedings Holt County Supervisors ONeill Nebr August 9 1957 100 PM Holt County Board of Supervis ors met as per adjournment Motion by Ernst seconded by Land re th to adopt the following resolution Motion carried RESOLUTION Whereas a proposed County Budget for the fiscal year 711957 to 6301958 prepared by the Budget making Au thority was transmitted to the County Board on the 9th day of July 1957 and Whereas a summary of such proposed budget togeth er with a notice of public hearing to be held on the 31st day of July 1957 was pub lished in the Holt County In dependent a legal newspaper on the 26th day of July 1957 and Whereas a public hearing was held pursuant to said published notice on the 26th day of July 1957 and Whereas the action of the State Board of Equalization has been had and certified by the County Clerk NOW THEREFORE BE IT RESOLVED BY THE BOARD OF COUNTY SUPERVIS ORS OP HOLT COUNTY NEBRASKA as follows Sec 1 That the Budget for the fiscal year 711957 to 6301957 as summarized on page 3 of the budget docu ment be and the same here by is"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:39:35.969Z",
+  "group": [
+    "ndnp/nbu",
+    "university-of-nebraska-of-nebraska-lincoln-libraries-lincoln-ne-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2010270509/1957-10-10/ed-1/?sp=11",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_equus_ver01:data:2010270509:00279527744:1957101001:1022/full/pct:6.25/0/default.jpg#h=490&w=377",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_equus_ver01:data:2010270509:00279527744:1957101001:1022/full/pct:12.5/0/default.jpg#h=980&w=754",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nbu/batch_nbu_equus_ver01/data/2010270509/00279527744/1957101001/1022.xml&format=alto_xml"
+  ],
+  "index": 47,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "o'neill city",
+    "o'neill",
+    "holt",
+    "holt county",
+    "nebraska"
+  ],
+  "location_city": [
+    "o'neill",
+    "o'neill city"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "holt"
+  ],
+  "location_state": [
+    "nebraska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "2010270509",
+    "9",
+    "5",
+    "7",
+    "0000000011",
+    "4",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2010270509"
+  ],
+  "number_page": [
+    "0000000011"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "2",
+    "7",
+    "7",
+    "4",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Publisher's box title: O'Neill frontier"
+  ],
+  "page_id": "2010270509-1957-10-10-ed-1-1022",
+  "partof": [
+    "the frontier (o'neill city, holt county, neb.) 1880-1965",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the frontier (o'neill city, holt county, neb.) 1880-1965"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2010270509/1957-10-10/ed-1/?sp=11"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2010270509/1957-10-10/ed-1/"
+  ],
+  "shelf_id": "11",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "o'neill (neb.)",
+    "united states",
+    "o'neill city",
+    "o'neill",
+    "holt",
+    "newspapers",
+    "holt county",
+    "holt county (neb.)",
+    "nebraska"
+  ],
+  "timestamp": "2025-12-14T21:38:06.842Z",
+  "title": "Image 11 of The frontier (O'Neill City, Holt County, Neb.), October 10, 1957",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2010270509/1957-10-10/ed-1/?sp=11&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnbu%2Fbatch_nbu_equus_ver01%2Fdata%2F2010270509%2F00279527744%2F1957101001%2F1022.xml&q=nuclear&relevant_snippet=1"
+}

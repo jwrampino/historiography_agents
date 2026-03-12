@@ -1,0 +1,169 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83030214/1920-03-29/ed-1/?sp=16"
+  ],
+  "batch": [
+    "dlc_carril_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1920-03-29",
+  "dates": [
+    "1920-03-29"
+  ],
+  "description": [
+    "SacURTtFS OFFERED AND WANTED Detroit United Ry r1923 Grand Trunk Pac 31962 Michigan United Ry 5V1936 United Light Ry 5V1932 Chicago Detroit Bonds Privatenoires to Chicago Cleveland Detroit Youngstofn Grand Rapid Merrill LynchCo Tradlnfc Depart ment 120 Broadway New York Phoaee Hector MS to TOM lacl JJLRIceJr Co BuSell American Cyanamid Com Pfd American Piano Com Pfd Bank of Manhattan Rights Empire Steel Iron Com Pfd Great American Ins Mechanicsa Metals Bk Rights Nafl Fuel Gas Winchester Common JKRiceJrCo Phones 000 to 4010 John 86 Wall St N T Buyers Arrived Fairchild Service ATLANTAJ M High Co T D Bejlah coats suits drosses 16 West Thirty second Street A Fantl ATLANTAKeely Co H T Craft up holstery and draperies floor coverings rugs and carpets UTO Broadway BALTIMOREBlaustein Cktzen S BlaUBtein mfrs capa Pennsylvania BALTIMOREAmerican Wholesale Corp II S Messersmith remnants P Quell rnalx cotton piece goods 334 Fourth Avenue BALTIMOREJ E Hurst A Co A Lamabach upholstery and drapery Pennrylvanla BRADFORD Pa Kohn Mfg Co M Kohn mfrs overalls Pennsylvania BIRMINGHAMLoveman Joseph Loeb Dalton Scales uphostery and draperies furniture floor coverings 116 West Thirtysecond Street BOSTONBoston Wholesale Millinery Co HA Wilson millinery Walllck B08TONChandler _ Co J D Duggan laces"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-12-09T13:42:06.179Z",
+  "group": [
+    "ndnp/dlc-2009_2010",
+    "library-of-congress-washington-dc-awardee-3"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83030214/1920-03-29/ed-1/?sp=16",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_carril_ver02:data:sn83030214:0020653249A:1920032901:0850/full/pct:3.125/0/default.jpg#h=263&w=209",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_carril_ver02:data:sn83030214:0020653249A:1920032901:0850/full/pct:6.25/0/default.jpg#h=526&w=419",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_carril_ver02:data:sn83030214:0020653249A:1920032901:0850/full/pct:12.5/0/default.jpg#h=1052&w=839",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_carril_ver02/data/sn83030214/0020653249A/1920032901/0850.xml&format=alto_xml"
+  ],
+  "index": 57,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "new york",
+    "new york county",
+    "new york city"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "6",
+    "5",
+    "9",
+    "0000000016",
+    "sn83030214",
+    "4",
+    "a",
+    "3",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83030214"
+  ],
+  "number_page": [
+    "0000000016"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "6",
+    "5",
+    "3",
+    "2",
+    "4",
+    "9",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Due to strike, published jointly with other newspapers as: Combined New York morning newspapers",
+    "Combined New York Sunday newspapers",
+    "New-York daily tribune"
+  ],
+  "page_id": "sn83030214-1920-03-29-ed-1-0850",
+  "partof": [
+    "serial and government publications division",
+    "new-york tribune (new york [n.y.]) 1866-1924",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "new-york tribune (new york [n.y.]) 1866-1924"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83030214/1920-03-29/ed-1/?sp=16"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83030214/1920-03-29/ed-1/"
+  ],
+  "shelf_id": "16",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "new york",
+    "new york county (n.y.)",
+    "https://id.oclc.org/worldcat/entity/e39pbjpj8ktvrv6gp6v6tp7pwc",
+    "new york (state)",
+    "newspapers",
+    "https://id.oclc.org/worldcat/entity/e39qbtfrvqh7864jh4rdgbfdwc",
+    "new york county",
+    "new york (n.y.)"
+  ],
+  "timestamp": "2024-12-09T18:56:28.723Z",
+  "title": "Image 16 of New-York tribune (New York [N.Y.]), March 29, 1920",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83030214/1920-03-29/ed-1/?sp=16&q=oil",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_carril_ver02%2Fdata%2Fsn83030214%2F0020653249A%2F1920032901%2F0850.xml&q=oil&relevant_snippet=1"
+}

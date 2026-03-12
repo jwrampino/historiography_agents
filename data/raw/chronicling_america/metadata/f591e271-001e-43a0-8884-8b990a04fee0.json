@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88071001/1963-02-25/ed-1/?sp=1"
+  ],
+  "batch": [
+    "gu_kraken_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/georgia/",
+    "2/united states/georgia/richmond/",
+    "3/united states/georgia/richmond/augusta/"
+  ],
+  "contributor": [
+    "digital library of georgia, a project of galileo located at the university of georgia libraries"
+  ],
+  "date": "1963-02-25",
+  "dates": [
+    "1963-02-25"
+  ],
+  "description": [
+    "s sdfsd Vol 2 Russell Talmadge Ask Kennedy To Drive Castro Khrushchev Out Of Cuba Deals Of The Kennedy Family With The Nep Powell Reminiscent Of Carpetbaggers Operations Io Georgia Senator Williams Of Delaware Exposes The Record Of New York Congressman The conduct of Adam Clayton Powell the Negro Congressman from New York and the dealings of the national ad ministration with him are reminiscent of the dealings between the Negroes and carpetbaggers in Georgia and other Sou thern States during the period of Re construction immediately following the War Between the States In most of the Southern States the carpetbaggers and Negroes raped the treasuries of the various States and en tered into every kind of scheme to en rich themselves It has truly been called the tragic era in the history of the United States Adam Clayton Powell and his associ ates have been given an outright grant by the Department of Health Educa tion and Welfare in the sum of 250000 for the alleged purpose of developing the nucleus of a domestic peace corps LongTerm Loans In addition to this longterm loans at a low interest rate of nearly eleven mil lion dollars have been made to"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-06-29T05:13:40.925Z",
+  "group": [
+    "ndnp/gu",
+    "digital-library-of-georgia-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88071001/1963-02-25/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_kraken_ver01:data:sn88071001:00529044707:1963022501:0657/full/pct:3.125/0/default.jpg#h=261&w=189",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_kraken_ver01:data:sn88071001:00529044707:1963022501:0657/full/pct:6.25/0/default.jpg#h=523&w=378",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_kraken_ver01:data:sn88071001:00529044707:1963022501:0657/full/pct:12.5/0/default.jpg#h=1047&w=756",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/gu/batch_gu_kraken_ver01/data/sn88071001/00529044707/1963022501/0657.xml&format=alto_xml"
+  ],
+  "index": 177,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "georgia",
+    "richmond",
+    "augusta"
+  ],
+  "location_city": [
+    "augusta"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "richmond"
+  ],
+  "location_state": [
+    "georgia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "5",
+    "2",
+    "4",
+    "1",
+    "7",
+    "0000000001",
+    "sn88071001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88071001"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "2",
+    "9",
+    "0",
+    "4",
+    "4",
+    "7",
+    "0",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88071001-1963-02-25-ed-1-0657",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the augusta courier (augusta, ga.) 1946-1974"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the augusta courier (augusta, ga.) 1946-1974"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88071001/1963-02-25/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88071001/1963-02-25/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "conservatism",
+    "georgia",
+    "newspapers",
+    "augusta",
+    "politics and government",
+    "richmond",
+    "augusta (ga.)",
+    "since 1945"
+  ],
+  "timestamp": "2025-06-29T05:45:56.670Z",
+  "title": "Image 1 of The Augusta courier (Augusta, Ga.), February 25, 1963",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88071001/1963-02-25/ed-1/?sp=1&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fgu%2Fbatch_gu_kraken_ver01%2Fdata%2Fsn88071001%2F00529044707%2F1963022501%2F0657.xml&q=cuba&relevant_snippet=1"
+}

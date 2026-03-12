@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85038411/1919-03-21/ed-1/?sp=2"
+  ],
+  "batch": [
+    "pst_hershey_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/pennsylvania/",
+    "2/united states/pennsylvania/dauphin/",
+    "3/united states/pennsylvania/dauphin/harrisburg/"
+  ],
+  "contributor": [
+    "penn state university libraries; university park, pa"
+  ],
+  "date": "1919-03-21",
+  "dates": [
+    "1919-03-21"
+  ],
+  "description": [
+    "2 ATE HIGHWAY DEPARTMENT NOW WELL ORGANIZED Commission Retains Men of Experience to Have Charge of Extensive New Program Appointment of George 11 Biles to be Assistant Highway Commissioner and other officers in the States Htgh way Department under the reorgan ization act has been followed by an nouncement of Howard W Fry of to be secretary and M H James of Harrisburg to be chief of the Bureau of Information i Governor William C Sprouls ap 1 pointment of Mr Biles is a recog nition of his servicee during the war w hen in addition to being in charge of all maintenance he was acting chief engineer and directed con struction work 9 The system of organization and operation of the Division of Mainte nance created by Mr Biles has been pronounced by United States gov ernment officials the Russian Com mission of Ways and Communication and other authorities as the most comprehensive in existence Before coming to the Stale High waj Department in 1905 when he was appointed chief draftsman Mr j Biles saw extensive service as an en gineer in the Department of Public Works Cite of Philadelphia where ill 19U4 he qualified for principal as sistant"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-10-08T09:24:12.374Z",
+  "group": [
+    "ndnp/pst",
+    "penn-state-university-libraries-university-park-pa-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85038411/1919-03-21/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85038411:00296028344:1919032101:0154/full/pct:6.25/0/default.jpg#h=451&w=362",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85038411:00296028344:1919032101:0154/full/pct:12.5/0/default.jpg#h=902&w=725",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/pst/batch_pst_hershey_ver01/data/sn85038411/00296028344/1919032101/0154.xml&format=alto_xml"
+  ],
+  "index": 100,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "harrisburg",
+    "dauphin",
+    "pennsylvania",
+    "united states"
+  ],
+  "location_city": [
+    "harrisburg"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "dauphin"
+  ],
+  "location_state": [
+    "pennsylvania"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn85038411",
+    "8",
+    "0000000002",
+    "0",
+    "2",
+    "9",
+    "1",
+    "3",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85038411"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "6",
+    "0",
+    "2",
+    "8",
+    "3",
+    "4",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Harrisburg evening telegraph",
+    "Daily telegraph"
+  ],
+  "page_id": "sn85038411-1919-03-21-ed-1-0154",
+  "partof": [
+    "harrisburg telegraph (harrisburg, pa.) 1879-1948",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "harrisburg telegraph (harrisburg, pa.) 1879-1948"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85038411/1919-03-21/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85038411/1919-03-21/ed-1/"
+  ],
+  "shelf_id": "02",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "dauphin",
+    "harrisburg",
+    "harrisburg (pa.)",
+    "pennsylvania",
+    "united states"
+  ],
+  "timestamp": "2022-10-28T03:04:31.024Z",
+  "title": "Image 2 of Harrisburg telegraph (Harrisburg, Pa.), March 21, 1919",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85038411/1919-03-21/ed-1/?sp=2&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fpst%2Fbatch_pst_hershey_ver01%2Fdata%2Fsn85038411%2F00296028344%2F1919032101%2F0154.xml&q=revolution&relevant_snippet=1"
+}

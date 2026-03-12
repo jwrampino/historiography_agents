@@ -1,0 +1,169 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2010270509/1955-11-17/ed-1/?sp=2"
+  ],
+  "batch": [
+    "nbu_equus_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nebraska/",
+    "2/united states/nebraska/holt/",
+    "3/united states/nebraska/holt/o'neill/",
+    "3/united states/nebraska/holt/o'neill city/"
+  ],
+  "contributor": [
+    "university of nebraska-lincoln libraries, lincoln, ne"
+  ],
+  "date": "1955-11-17",
+  "dates": [
+    "1955-11-17"
+  ],
+  "description": [
+    "Prairieland Talk Foreign Relations May Be Issue By ROMAINE SAUNDERS Retired Former Editor The Frontier LINCOLNThe great game of American pol itics has begun to smolder The democrats are in control of the national lawmaking body That is not enough they want it all Half a loaf never satisfied a politician What the war cry will be heading into a na tional election next year is yet to be sounded though rumblings so far indicate the bombardment will be direct ed at the administrations for eign relations policy Following three disastrous wars within a generation under the Wilson Roosevelt Truman administra tions that brought death and desolation to a million American homes the bugle call to arms has now been stilled and we are at peace our military forces guarding that peace Politics breeds more or less Romaine partisan hogwash and that is Saunders the Yankee privilege Out of this hog wash the GOP is crowned with the ignominy of sponsoring big business Maybe so No big business means no little business When big business closed the factory doors as conditions forced it to do in the 1890s and 1930s bread lines and soup kitchens and the tramp of armies"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:39:36.741Z",
+  "group": [
+    "ndnp/nbu",
+    "university-of-nebraska-of-nebraska-lincoln-libraries-lincoln-ne-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2010270509/1955-11-17/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_equus_ver01:data:2010270509:00279527574:1955111701:0417/full/pct:3.125/0/default.jpg#h=257&w=195",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_equus_ver01:data:2010270509:00279527574:1955111701:0417/full/pct:6.25/0/default.jpg#h=514&w=390",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_equus_ver01:data:2010270509:00279527574:1955111701:0417/full/pct:12.5/0/default.jpg#h=1028&w=781",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nbu/batch_nbu_equus_ver01/data/2010270509/00279527574/1955111701/0417.xml&format=alto_xml"
+  ],
+  "index": 2,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "holt",
+    "nebraska",
+    "o'neill",
+    "holt county",
+    "united states",
+    "o'neill city"
+  ],
+  "location_city": [
+    "o'neill",
+    "o'neill city"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "holt"
+  ],
+  "location_state": [
+    "nebraska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "2010270509",
+    "4",
+    "9",
+    "2",
+    "5",
+    "0000000002",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2010270509"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "2",
+    "7",
+    "5",
+    "7",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Publisher's box title: O'Neill frontier"
+  ],
+  "page_id": "2010270509-1955-11-17-ed-1-0417",
+  "partof": [
+    "the frontier (o'neill city, holt county, neb.) 1880-1965",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the frontier (o'neill city, holt county, neb.) 1880-1965"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2010270509/1955-11-17/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2010270509/1955-11-17/ed-1/"
+  ],
+  "shelf_id": "02",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "holt",
+    "nebraska",
+    "o'neill",
+    "o'neill (neb.)",
+    "holt county (neb.)",
+    "holt county",
+    "united states",
+    "newspapers",
+    "o'neill city"
+  ],
+  "timestamp": "2025-12-14T21:22:41.528Z",
+  "title": "Image 2 of The frontier (O'Neill City, Holt County, Neb.), November 17, 1955",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2010270509/1955-11-17/ed-1/?sp=2&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnbu%2Fbatch_nbu_equus_ver01%2Fdata%2F2010270509%2F00279527574%2F1955111701%2F0417.xml&q=nuclear&relevant_snippet=1"
+}

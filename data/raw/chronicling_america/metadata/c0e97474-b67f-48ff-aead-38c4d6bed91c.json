@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82014085/1942-11-04/ed-1/?sp=2"
+  ],
+  "batch": [
+    "ct_ives_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/connecticut/",
+    "2/united states/connecticut/new haven/",
+    "3/united states/connecticut/new haven/waterbury/"
+  ],
+  "contributor": [
+    "connecticut state library, hartford, ct"
+  ],
+  "date": "1942-11-04",
+  "dates": [
+    "1942-11-04"
+  ],
+  "description": [
+    "BI Opens Drive For Tuohy Gang Connecticut Joins Nation in Manhunt for Mob Which Fled Illinois Prison The Connecticut held office ol the Federal Bureau of Investigation at New Haven and other field offi ces la continental United States have been placed on the alert for Roger Terrible Touhy Basil The Owl1 Banghart and five other long tern cons lets who escaped from the Statesville Penitentiary at Joliet 111 October 9 The fleeing felons described by FBI Director J Edgar Hoover as the most dangerous group at liberty In nearly a decade are fugitives from Federal Justice for violating the Selective Service Act by falling to notify their draft hoard of a change In address The Federal warrant Issued October 19 were the signal for the FBI to partlct ate In the nationwide manhunt In the prison break one peniten tiary guard was shot and wounded and another severely beaten Touhy led the escape and armed with a scissors slashed a prison garbage truck driver commandeered the truck and drove across the prison communications system by cutting telephone wires Banghart armed with a gun accompanied by the other convicts took a ladder from the mechanical shop then drove the commandeered"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-06-01T13:39:13.208Z",
+  "group": [
+    "ndnp/ct",
+    "connecticut-state-library-hartford-ct-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82014085/1942-11-04/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ives_ver02:data:sn82014085:00393347107:1942110401:0043/full/pct:6.25/0/default.jpg#h=442&w=325",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ives_ver02:data:sn82014085:00393347107:1942110401:0043/full/pct:12.5/0/default.jpg#h=885&w=650",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ct/batch_ct_ives_ver02/data/sn82014085/00393347107/1942110401/0043.xml&format=alto_xml"
+  ],
+  "index": 57,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "connecticut",
+    "new haven",
+    "waterbury",
+    "united states"
+  ],
+  "location_city": [
+    "waterbury"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new haven"
+  ],
+  "location_state": [
+    "connecticut"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000002",
+    "0",
+    "7",
+    "9",
+    "sn82014085",
+    "1",
+    "3",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82014085"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "9",
+    "3",
+    "3",
+    "4",
+    "7",
+    "1",
+    "0",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82014085-1942-11-04-ed-1-0043",
+  "partof": [
+    "the waterbury democrat (waterbury, conn.) 1917-1946",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the waterbury democrat (waterbury, conn.) 1917-1946"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82014085/1942-11-04/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82014085/1942-11-04/ed-1/"
+  ],
+  "shelf_id": "02",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "waterbury",
+    "connecticut",
+    "new haven",
+    "waterbury (conn.)",
+    "united states"
+  ],
+  "timestamp": "2023-06-28T20:54:28.356Z",
+  "title": "Image 2 of The Waterbury Democrat (Waterbury, Conn.), November 4, 1942",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82014085/1942-11-04/ed-1/?sp=2&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fct%2Fbatch_ct_ives_ver02%2Fdata%2Fsn82014085%2F00393347107%2F1942110401%2F0043.xml&q=computers&relevant_snippet=1"
+}

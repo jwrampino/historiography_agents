@@ -1,0 +1,154 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86075189/1949-10-07/ed-1/?sp=3"
+  ],
+  "batch": [
+    "mthi_douglasfir_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/lewis and clark/",
+    "3/united states/montana/lewis and clark/helena/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1949-10-07",
+  "dates": [
+    "1949-10-07"
+  ],
+  "description": [
+    "Strategic Meaning of the Soviet Abomb By MAX WERNER From the N Y DAILY COMPASS Wtihout a direct threat to the United States the Soviet atomic bomb has already wiped out the At lantic Pact For years the Soviet strategists in sisted that the atomic bomb CAN NOT win a big war while the ma jority of the American experts as serted that the atomic bomb IS a decisive weapon Now that the Soviet strategists cannot start tending that their atomic bomb has become the decisive weapon against the U S while the American strate gists can hardly believe that in Soviet hands the atomic bomb is of little importance The world now knows that Soviet applied science Russian military technology has passed the severest examination The Soviet Union has now the entire complex of modern military power and supertechnology There are no longer any substantial gaps in the Soviet armament system Chapter by chapter with the atomic bomb the Soviet Union has almost everything in the military field that the United States has Soviet atomic armament has been amazing General Groves who be lieved that the Soviet atomic bomb would require 15 to 30 years was wrong Dr Langmuir"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:45:50.033Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86075189/1949-10-07/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_douglasfir_ver01:data:sn86075189:00414211021:1949100701:0660/full/pct:6.25/0/default.jpg#h=416&w=287",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_douglasfir_ver01:data:sn86075189:00414211021:1949100701:0660/full/pct:12.5/0/default.jpg#h=832&w=574",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_douglasfir_ver01/data/sn86075189/00414211021/1949100701/0660.xml&format=alto_xml"
+  ],
+  "index": 6,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "helena",
+    "united states",
+    "montana",
+    "lewis and clark"
+  ],
+  "location_city": [
+    "helena"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lewis and clark"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "0000000003",
+    "sn86075189",
+    "4",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86075189"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "2",
+    "1",
+    "1",
+    "0",
+    "2",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86075189-1949-10-07-ed-1-0660",
+  "partof": [
+    "the people's voice (helena, mont.) 1939-1969",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the people's voice (helena, mont.) 1939-1969"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86075189/1949-10-07/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86075189/1949-10-07/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "helena (mont.)",
+    "montana",
+    "history",
+    "helena",
+    "lewis and clark"
+  ],
+  "timestamp": "2023-07-05T20:54:19.639Z",
+  "title": "Image 3 of The People's voice (Helena, Mont.), October 7, 1949",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86075189/1949-10-07/ed-1/?sp=3&q=soviet+union",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_douglasfir_ver01%2Fdata%2Fsn86075189%2F00414211021%2F1949100701%2F0660.xml&q=soviet+union&relevant_snippet=1"
+}

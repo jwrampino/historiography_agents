@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1937-03-03/ed-1/?sp=11"
+  ],
+  "batch": [
+    "dlc_1johns_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1937-03-03",
+  "dates": [
+    "1937-03-03"
+  ],
+  "description": [
+    "Child Crusade Is in Reality 2 Campaigns Amendment Proposed In 1924 No Exception To Feasible Changes BY DAVID LAWRENCE ONE of the principal argu ments beint made aga st amending the Federal Con stitution to secure social reforms is the experience of those who have been crusading for the child labor amendment The tement is frequently made that the child labor amendment was submitted by Congress in 1924 and has not been ratified yet An examination of the facts reveals that the child labor amendment was rejected by 35 States within three years after It was submitted by a twothirds vote of Congress David Lawrence Ir other words acuon on uie amu labor amendment came within about the same period of time as has elapsed with respect to other amend ments that have een submitted What has been confusing about the record on the child labor amend ment is that proponents of the refc i revived the issue in State legislatures In 1933 Just about nine years after the original submission Since 1924 28 States haw ratified the ame ment22 of them since 1933so that what has happened is th rcuivalent of a second submission Many Change Views It was"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:38:09.984Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1937-03-03/ed-1/?sp=11",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1johns_ver01:data:sn83045462:00280601883:1937030301:0437/full/pct:6.25/0/default.jpg#h=494&w=350",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1johns_ver01:data:sn83045462:00280601883:1937030301:0437/full/pct:12.5/0/default.jpg#h=989&w=701",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1johns_ver01/data/sn83045462/00280601883/1937030301/0437.xml&format=alto_xml"
+  ],
+  "index": 33,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "0000000011",
+    "3",
+    "sn83045462",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000011"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "1",
+    "8",
+    "8",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1937-03-03-ed-1-0437",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1937-03-03/ed-1/?sp=11"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1937-03-03/ed-1/"
+  ],
+  "shelf_id": "11",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-24T20:14:49.009Z",
+  "title": "Image 11 of Evening star (Washington, D.C.), March 3, 1937",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1937-03-03/ed-1/?sp=11&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_1johns_ver01%2Fdata%2Fsn83045462%2F00280601883%2F1937030301%2F0437.xml&q=child+labor&relevant_snippet=1"
+}

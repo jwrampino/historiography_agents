@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83025074/1876-05-25/ed-1/?sp=2"
+  ],
+  "batch": [
+    "dlc_armadillo_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/oklahoma/",
+    "2/united states/oklahoma/mcintosh/",
+    "3/united states/oklahoma/mcintosh/eufaula/",
+    "2/united states/oklahoma/muskogee/",
+    "3/united states/oklahoma/muskogee/muskogee/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1876-05-25",
+  "dates": [
+    "1876-05-25"
+  ],
+  "description": [
+    "THE JOURNAL Chartered by the Creek Council IV P BOSS Editor MP ROBERTS Pubh for Printing Co THURSDAY MAY 25 1876 Heavy snow storm Omaha May 22d The effort to restore the Franking Privilege to members of Congress is reported as likely to succeed President Grant received a Cable gram 22d announcing the death of the infant Sartoris his first grand Child The Vindicator has hoisted the name of Allen Wright fox Principal Chief of the Choctaw Nation and ngcntly remarks that men oficright principles are now wanted all over the country The Ilon N P Banks M C will please accept the thanks of of the Indian Journal for a copy ofhis able speech delivered in the House of Representatives Jan 20 on the Bill relating to the Centennial cele bration of American Independence Cabinet changes Mr Edwards Pierrepont AttyGeneral nominat ed and confirmed Minister to England Alphonzo Taft now Secretary of War to be AttorneyGeneral J Donald Cameron of Pennsylvania to be Sec retary of War The Sultan of Turky pays his Phy sician and Apothecarian 140000 per annum The London Telegraph May 22 intimates that he will proba bly be compelled to abdicate shortly Shouldnt wonderhe has"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-09-08T14:11:24.868Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83025074/1876-05-25/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_armadillo_ver01:data:sn83025074:print:1876052501:0002/full/pct:3.125/0/default.jpg#h=328&w=255",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_armadillo_ver01:data:sn83025074:print:1876052501:0002/full/pct:6.25/0/default.jpg#h=657&w=510",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_armadillo_ver01/data/sn83025074/print/1876052501/0002.xml&format=alto_xml"
+  ],
+  "index": 33,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "mcintosh",
+    "eufaula",
+    "muskogee county",
+    "muskogee",
+    "oklahoma",
+    "indian territory",
+    "united states",
+    "mcintosh county"
+  ],
+  "location_city": [
+    "eufaula",
+    "muskogee"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "mcintosh",
+    "muskogee"
+  ],
+  "location_state": [
+    "oklahoma"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000002",
+    "sn83025074",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83025074"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Journal"
+  ],
+  "page_id": "sn83025074-1876-05-25-ed-1-0002",
+  "partof": [
+    "chronicling america",
+    "the indian journal (muskogee, creek nation, indian territory [okla.]) 1876-????",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the indian journal (muskogee, creek nation, indian territory [okla.]) 1876-????"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83025074/1876-05-25/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83025074/1876-05-25/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "mcintosh",
+    "eufaula",
+    "eufaula (okla.)",
+    "muskogee county",
+    "mcintosh county (okla.)",
+    "muskogee",
+    "oklahoma",
+    "creek indians",
+    "indians of north america",
+    "muskogee (okla.)",
+    "indian territory",
+    "muskogee county (okla.)",
+    "newspapers",
+    "mcintosh county"
+  ],
+  "subject_ethnicity": [
+    "indians of north america"
+  ],
+  "timestamp": "2025-09-08T14:18:12.354Z",
+  "title": "Image 2 of The Indian journal (Muskogee, Creek Nation, Indian Territory [Okla.]), May 25, 1876",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83025074/1876-05-25/ed-1/?sp=2&q=indian+territory",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_armadillo_ver01%2Fdata%2Fsn83025074%2Fprint%2F1876052501%2F0002.xml&q=indian+territory&relevant_snippet=1"
+}

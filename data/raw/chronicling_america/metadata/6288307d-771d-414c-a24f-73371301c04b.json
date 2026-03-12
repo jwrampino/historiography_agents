@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn90059228/1902-06-19/ed-1/?sp=6"
+  ],
+  "batch": [
+    "mnhi_orr_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/minnesota/",
+    "2/united states/minnesota/marshall/",
+    "3/united states/minnesota/marshall/warren/"
+  ],
+  "contributor": [
+    "minnesota historical society; saint paul, mn"
+  ],
+  "date": "1902-06-19",
+  "dates": [
+    "1902-06-19"
+  ],
+  "description": [
+    "8 1 mimm I resident Roosevelt Urges Congress to Keep Faith with Cuban Republic QUOTES FROM HIS DECEMBER MESSAGE JU MO Recalls Word of McKinley in His Mesiage to Cong reRefers I to Appeal from Palma for Relief Before It I Too LateAsks That Special CoucecsLona Granted Washington June 14The president Friday sent the following message to oongress To the Senate and House of Representa tives I deem it important before the ad journment of the present session of congress to call attention to the following expres sions in the message which in the discharge of the duty Imposed upon me by the consti tution I sent to congress on the first Tues day of December last Elsewhere I have discussed the ques tion of reciprocity In the ease of Cuba liowever there are weighty reasons of morality and of national Interest why the policy should be held to have a peculiar ap plication and I most earnestly ask your attention to the wisdom Indeed to the vital seed of providing for a substantial reduc tion in the tariff duties on Cuban Import into the United States Cuba has in her constitution affirmed what we desired that he should stand"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-04T17:05:05.071Z",
+  "group": [
+    "ndnp/mnhi",
+    "minnesota-historical-society-saint-paul-mn-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn90059228/1902-06-19/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:00280766495:1902061901:0212/full/pct:3.125/0/default.jpg#h=275&w=195",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:00280766495:1902061901:0212/full/pct:6.25/0/default.jpg#h=551&w=391",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:00280766495:1902061901:0212/full/pct:12.5/0/default.jpg#h=1102&w=782",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mnhi/batch_mnhi_orr_ver01/data/sn90059228/00280766495/1902061901/0212.xml&format=alto_xml"
+  ],
+  "index": 71,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "warren",
+    "marshall",
+    "minnesota"
+  ],
+  "location_city": [
+    "warren"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "marshall"
+  ],
+  "location_state": [
+    "minnesota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "9",
+    "5",
+    "0000000006",
+    "7",
+    "4",
+    "sn90059228",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn90059228"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "7",
+    "6",
+    "6",
+    "4",
+    "9",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn90059228-1902-06-19-ed-1-0212",
+  "partof": [
+    "warren sheaf (warren, marshall county, minn.) 1880-current",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "warren sheaf (warren, marshall county, minn.) 1880-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn90059228/1902-06-19/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn90059228/1902-06-19/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "warren (minn.)",
+    "newspapers",
+    "marshall",
+    "minnesota",
+    "warren"
+  ],
+  "timestamp": "2024-01-05T11:58:33.215Z",
+  "title": "Image 6 of Warren sheaf (Warren, Marshall County, Minn.), June 19, 1902",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn90059228/1902-06-19/ed-1/?sp=6&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmnhi%2Fbatch_mnhi_orr_ver01%2Fdata%2Fsn90059228%2F00280766495%2F1902061901%2F0212.xml&q=cuba&relevant_snippet=1"
+}

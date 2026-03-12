@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85053045/1962-03-01/ed-1/?sp=2"
+  ],
+  "batch": [
+    "mthi_anaconda_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/glacier/",
+    "3/united states/montana/glacier/browning/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1962-03-01",
+  "dates": [
+    "1962-03-01"
+  ],
+  "description": [
+    "THE GLACIER REPORTER fncul Pprr or the Town o Brouning ond the BUckfeel Indian Nation Published at Browning Montana every Thursday Entered M end claw mailing matter at the Port Office Browning Montana under the Act of March 3 1879 RATION A I EDITORIAL f ELENA MONT Training ub first aid and water safety for 14888 residents the provision of Mood for patients in 52 hospitals and services to the armed forces were highlights of a summary of American Red Cross activities in Moatana during the past year which was presented to Governor Tim Babcock right Making the report to the Governor was Cle ment Van Nice left vicepresi dent of the Helena Branch of the Editorial Comment From Life Lines WHY WE ARE LOSING OUR POSITION AND RESPECT Before it is too late we Americans must realize that if we are to remain free and if our country is to be saved there can be no substitute for the defeat of the International Mistaken conspiracy against the liberty of man This is the reality that confronts us Why is not victory ours today Only a few years ago the United States of America was unquestionably the most powerful nation"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:49:34.899Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85053045/1962-03-01/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_anaconda_ver01:data:sn85053045:00517178196:1962030101:0048/full/pct:6.25/0/default.jpg#h=485&w=356",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_anaconda_ver01:data:sn85053045:00517178196:1962030101:0048/full/pct:12.5/0/default.jpg#h=970&w=712",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_anaconda_ver01/data/sn85053045/00517178196/1962030101/0048.xml&format=alto_xml"
+  ],
+  "index": 137,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "montana",
+    "browning",
+    "glacier"
+  ],
+  "location_city": [
+    "browning"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "glacier"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "5",
+    "1",
+    "6",
+    "7",
+    "sn85053045",
+    "0000000002",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85053045"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "8",
+    "1",
+    "9",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85053045-1962-03-01-ed-1-0048",
+  "partof": [
+    "chronicling america",
+    "the glacier reporter (browning, mont.) 1953-current",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the glacier reporter (browning, mont.) 1953-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85053045/1962-03-01/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85053045/1962-03-01/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "glacier",
+    "united states",
+    "newspapers",
+    "montana",
+    "indians of north america",
+    "browning"
+  ],
+  "subject_ethnicity": [
+    "indians of north america"
+  ],
+  "timestamp": "2023-07-05T14:40:04.393Z",
+  "title": "Image 2 of The Glacier reporter (Browning, Mont.), March 1, 1962",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85053045/1962-03-01/ed-1/?sp=2&q=vietnam",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_anaconda_ver01%2Fdata%2Fsn85053045%2F00517178196%2F1962030101%2F0048.xml&q=vietnam&relevant_snippet=1"
+}

@@ -1,0 +1,171 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82015425/1963-07-02/ed-1/?sp=4"
+  ],
+  "batch": [
+    "gu_harpy_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/georgia/",
+    "2/united states/georgia/fulton/",
+    "3/united states/georgia/fulton/atlanta/"
+  ],
+  "contributor": [
+    "digital library of georgia, a project of galileo located at the university of georgia libraries"
+  ],
+  "date": "1963-07-02",
+  "dates": [
+    "1963-07-02"
+  ],
+  "description": [
+    "4 ATLANTA DAILY WORLD Tuesday July 2 1963 Atlanta World rur August 6 mg Dally March It IN W A UU 11 1 ududnrubUtiCi August 5 ISZB tv tebiuhi 1 1W KVaT aKmluf hli Cpt Monday vl ZHI Auluiu litaM M TELEFHUNk JAHMV IHit MEMUtk BNS NNFA ANF UFI la Fuat Office at Atlanta Si Grurgle m Bm4 lAmb Mn der the Act at CunreM March 18 1878 C A BIOTT Editor and General Mnupt DAILY SUBSCRIPTION RATES BT CARRIER WEEKLY 31 c Sales Tax Included MONTHLY IJ4 MAIL SUBSCRIPTION RATES PMdaily rates payable in advance are One Year fISM plus die as lea Yu ar I6M Six Montha s7Bd plus 24c or 804 Three Month 3M plan 12c or 42 Saturday only rate are One Year 624 pitta Ite Bales tax t 4 43 and for Six Montha 312 pine 12c er 2JU No aalee tax rasped en oat of state subscriptions National Advertising Repreoentative AMALGAMATED FUBLISHEKS INO St Madtoan Avenue IM W Washington HL New Tarh 17 New York Chicago 1 UuneM THE ATLANTA D LY WORLD la an Independent newspaper nen m tAriau and uoii partisan printing news as accurately aa possible and supporting those things II"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-04-13T06:41:36.829Z",
+  "group": [
+    "ndnp/gu",
+    "digital-library-of-georgia-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82015425/1963-07-02/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_harpy_ver01:data:sn82015425:00529041123:1963070201:0004/full/pct:3.125/0/default.jpg#h=280&w=218",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_harpy_ver01:data:sn82015425:00529041123:1963070201:0004/full/pct:6.25/0/default.jpg#h=561&w=436",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_harpy_ver01:data:sn82015425:00529041123:1963070201:0004/full/pct:12.5/0/default.jpg#h=1122&w=873",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/gu/batch_gu_harpy_ver01/data/sn82015425/00529041123/1963070201/0004.xml&format=alto_xml"
+  ],
+  "index": 11,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "georgia",
+    "fulton county",
+    "atlanta",
+    "fulton"
+  ],
+  "location_city": [
+    "atlanta"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "fulton"
+  ],
+  "location_state": [
+    "georgia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "5",
+    "9",
+    "sn82015425",
+    "4",
+    "0000000004",
+    "3",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82015425"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "2",
+    "9",
+    "0",
+    "4",
+    "1",
+    "1",
+    "2",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Published occasionally in 1934-1945 as: Atlanta world"
+  ],
+  "page_id": "sn82015425-1963-07-02-ed-1-0004",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "atlanta daily world (atlanta, georgia) 1932-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "atlanta daily world (atlanta, georgia) 1932-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82015425/1963-07-02/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82015425/1963-07-02/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "georgia",
+    "atlanta (ga.)",
+    "united states",
+    "fulton county",
+    "african american newspapers",
+    "african american",
+    "atlanta",
+    "fulton county (ga.)",
+    "newspapers",
+    "fulton",
+    "african americans"
+  ],
+  "subject_ethnicity": [
+    "african american"
+  ],
+  "timestamp": "2025-04-13T07:30:28.952Z",
+  "title": "Image 4 of Atlanta daily world (Atlanta, Georgia), July 2, 1963, (City Edition)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82015425/1963-07-02/ed-1/?sp=4&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fgu%2Fbatch_gu_harpy_ver01%2Fdata%2Fsn82015425%2F00529041123%2F1963070201%2F0004.xml&q=terrorism&relevant_snippet=1"
+}

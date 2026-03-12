@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/46032385/1903-12-25/ed-1/?sp=14"
+  ],
+  "batch": [
+    "nbu_carson_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nebraska/",
+    "2/united states/nebraska/lancaster/",
+    "3/united states/nebraska/lancaster/lincoln/"
+  ],
+  "contributor": [
+    "university of nebraska-lincoln libraries, lincoln, ne"
+  ],
+  "date": "1903-12-25",
+  "dates": [
+    "1903-12-25"
+  ],
+  "description": [
+    "nTSji XllW Vfef Wr v The Commoner 14 VOLUME 3 NUMBER 4j imiytfiwwMii tmjvmmhu i mmmmmikgmp II IEgySNP5 Ji 1 KUllllllJI VI A S If V ay JtV Ithlca N Y Democrat Consider ing President Roosevelts reputation for strenuosity his message does not Bhow it Georgetown Ky Times There Will be two eclipses of the sun next year and one of the republican party The latter event will occur in Novem ber Elizabeth City N C News Dur ing the next campaign the republican cry to the laborers will be dinner at the White house instead of full din ner pail Plattsmouth Neb Journal From subordinating the tariff question to sinking the boodle issue is a nat ural and easy declension for the re publican party Central City Neb Democrat Cleveland has announced that he will not bo a candidate for president next year in the same tone of voice that the little boy refuses a second piece of pie when company is present Frankfort Ind Standard Knox the trust buster our able honest and fearless United States attorney general seems in his report to have forgotten that there is any such thing as trusts Singular oversight for a buster"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:38:01.384Z",
+  "group": [
+    "ndnp/nbu",
+    "university-of-nebraska-of-nebraska-lincoln-libraries-lincoln-ne-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/46032385/1903-12-25/ed-1/?sp=14",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_carson_ver02:data:46032385:00237284860:1903122501:0793/full/pct:6.25/0/default.jpg#h=403&w=286",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_carson_ver02:data:46032385:00237284860:1903122501:0793/full/pct:12.5/0/default.jpg#h=807&w=573",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nbu/batch_nbu_carson_ver02/data/46032385/00237284860/1903122501/0793.xml&format=alto_xml"
+  ],
+  "index": 84,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "lancaster county",
+    "lancaster",
+    "lincoln",
+    "nebraska"
+  ],
+  "location_city": [
+    "lincoln"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lancaster"
+  ],
+  "location_state": [
+    "nebraska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000014",
+    "0",
+    "3",
+    "4",
+    "2",
+    "6",
+    "1",
+    "7",
+    "46032385",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "46032385"
+  ],
+  "number_page": [
+    "0000000014"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "3",
+    "7",
+    "2",
+    "8",
+    "4",
+    "8",
+    "6",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "46032385-1903-12-25-ed-1-0793",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the commoner (lincoln, neb.) 1901-1923"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the commoner (lincoln, neb.) 1901-1923"
+  ],
+  "publication_frequency": [
+    "monthly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/46032385/1903-12-25/ed-1/?sp=14"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/46032385/1903-12-25/ed-1/"
+  ],
+  "shelf_id": "14",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "lancaster county (neb.)",
+    "united states",
+    "lincoln (neb.)",
+    "lancaster county",
+    "lincoln",
+    "newspapers",
+    "lancaster",
+    "politics and government",
+    "nebraska",
+    "middle class"
+  ],
+  "timestamp": "2025-12-14T14:24:39.710Z",
+  "title": "Image 14 of The commoner (Lincoln, Neb.), December 25, 1903",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/46032385/1903-12-25/ed-1/?sp=14&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnbu%2Fbatch_nbu_carson_ver02%2Fdata%2F46032385%2F00237284860%2F1903122501%2F0793.xml&q=manifest+destiny&relevant_snippet=1"
+}

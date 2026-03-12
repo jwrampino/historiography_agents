@@ -1,0 +1,131 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16109/?sp=1"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1819-05-04",
+  "dates": [
+    "1819-05-04"
+  ],
+  "description": [
+    "oe REUBEN BRUMLEY Master ESS a a ee a OT BENG ear Sey a Se ee ae eee PRICE To SUBSCRIBERS FIVE RUPEES PER MONTH VOL XXI1X TUESDAY MAY 4 1819 HE Public is hereby informed that MR FRANCIS claim to the liberalite of governmeut and the Muster Rolls ar\u00e9 TIPPPING HAUL is this day admitted a Member of our to decido the right of individauls to participate accordingly mM tstublishment PALMER AND COMPANY The following are the corps and detachments having claim to benefit by this donation f Detuehment His Ms 17th Dragoons Ws Native Cavalry e Artiflery Engineers Under Lieut Detachment His Ms 47th Regiment Col Prother se His Ms 89th Regiment e ist Battalion Sth Regiment ist Battalion 9th Regiment Orduance Department Detachment of Pioneers Calentta fst May 1819 OTICEThe Public are informed that my Son N CHARLES TWi ING BLANEY is admitted trom this date a partneria my Commercial and Agency Concerns W which will be conducted ander the Firm of Cuates BLaNey ioe od CHARLES BLANEY Caloutta May 1 1819 h OTICE This is to CAUTION the Public against Usder Captain 2d Battalion 4th Regiment a trusting any of the Crew of the American ship"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16109/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16109:0001/full/pct:6.25/0/default.jpg#h=350&w=270",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16109:0001/full/pct:12.5/0/default.jpg#h=701&w=541",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16109:0001/full/pct:25.0/0/default.jpg#h=1402&w=1083",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16109:0001/full/pct:50.0/0/default.jpg#h=2804&w=2166",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16109:0001/full/pct:100.0/0/default.jpg#h=5609&w=4332",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16109/0001.alto.xml&format=alto_xml"
+  ],
+  "index": 66,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "india",
+    "calcutta"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "sn88063570",
+    "sn88063571",
+    "0000000001",
+    "sn88063569",
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16109-0001-alto",
+  "partof": [
+    "asian division",
+    "general collections",
+    "world newspapers",
+    "catalog",
+    "south asian digital collection",
+    "serial and government publications division",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "world digital library"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16109/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16109/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "india",
+    "calcutta"
+  ],
+  "timestamp": "2025-12-12T07:20:19.201Z",
+  "title": "Image 1 of Volume 29, Number 1268, Tuesday, May 4, 1819 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16109/?sp=1&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16109%2F0001.alto.xml&q=great+war&relevant_snippet=1"
+}

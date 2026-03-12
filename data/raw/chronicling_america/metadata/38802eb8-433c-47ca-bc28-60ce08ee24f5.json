@@ -1,0 +1,179 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn95047435/1911-04-14/ed-1/?sp=6"
+  ],
+  "batch": [
+    "fu_estero_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/florida/",
+    "2/united states/florida/hillsborough/",
+    "3/united states/florida/hillsborough/tampa/",
+    "3/united states/florida/hillsborough/ybor city/"
+  ],
+  "contributor": [
+    "university of florida"
+  ],
+  "date": "1911-04-14",
+  "dates": [
+    "1911-04-14"
+  ],
+  "description": [
+    "TO THE REVOLUGIONARIES AND WORKNEM OF THE WORLD Stop for a moment your hard labor from which you obtain the crust of bread hardly sufficient to support your families drop for an instant your tools and look towards Mexico there is a strugle there in Mexico the clasic country of the peo nage and of the most abyect slavery the people are in open rebelion and between these people in arms struggling with an untiring arm to bring forward the red flag of the liberators of the world you will find the phalanges of the Mexican Liberal Party As you hear this name Mexican Libe ral Party probably you will think that wespeak of a burgess partyof an arrogant party that wants the powerto continue supporting the social and poli tical edifice which we the liberators of the world struggle against Ifin all coun tries the liberal party is a burgesspar tyor an arrogant party it is not so in Mexico The Mexican Liberal party struggles for the economic emancipation exclusi vely social and political of the proleta riate of Mexico The Mexican liberal par ty avails itself of present insurrection not to put any man in power but re"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2026-01-27T17:00:32.237Z",
+  "group": [
+    "ndnp/fu",
+    "university-of-florida-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn95047435/1911-04-14/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_estero_ver02:data:sn95047435:00517170422:1911041401:0568/full/pct:3.125/0/default.jpg#h=311&w=198",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_estero_ver02:data:sn95047435:00517170422:1911041401:0568/full/pct:6.25/0/default.jpg#h=622&w=396",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/fu/batch_fu_estero_ver02/data/sn95047435/00517170422/1911041401/0568.xml&format=alto_xml"
+  ],
+  "index": 59,
+  "language": [
+    "english",
+    "spanish"
+  ],
+  "location": [
+    "ybor city",
+    "tampa",
+    "florida",
+    "hillsborough",
+    "hillsborough county",
+    "united states"
+  ],
+  "location_city": [
+    "tampa",
+    "ybor city"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hillsborough"
+  ],
+  "location_state": [
+    "florida"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "2",
+    "5",
+    "4",
+    "sn95047435",
+    "1",
+    "0000000006",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn95047435"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "0",
+    "4",
+    "2",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Some issues in 1920, 1933-<1934> have English section with parallel title: International"
+  ],
+  "page_id": "sn95047435-1911-04-14-ed-1-0568",
+  "partof": [
+    "chronicling america",
+    "el internacional (tampa, fla.) 1904-193?",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "el internacional (tampa, fla.) 1904-193?"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn95047435/1911-04-14/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn95047435/1911-04-14/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "ybor city (tampa, fla.)",
+    "ybor city",
+    "tobacco workers",
+    "tampa",
+    "cigar makers",
+    "cubans",
+    "labor unions",
+    "tampa (fla.)",
+    "hillsborough county (fla.)",
+    "florida",
+    "hillsborough",
+    "cuban",
+    "hillsborough county",
+    "latin american",
+    "hispanic americans",
+    "newspapers"
+  ],
+  "subject_ethnicity": [
+    "cuban",
+    "latin american"
+  ],
+  "timestamp": "2026-01-28T03:00:14.342Z",
+  "title": "Image 6 of El internacional (Tampa, Fla.), April 14, 1911",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn95047435/1911-04-14/ed-1/?sp=6&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Ffu%2Fbatch_fu_estero_ver02%2Fdata%2Fsn95047435%2F00517170422%2F1911041401%2F0568.xml&q=revolution&relevant_snippet=1"
+}

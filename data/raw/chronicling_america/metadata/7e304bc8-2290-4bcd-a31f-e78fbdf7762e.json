@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83030311/1836-01-06/ed-1/?sp=1"
+  ],
+  "batch": [
+    "dlc_kudzu_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1836-01-06",
+  "dates": [
+    "1836-01-06"
+  ],
+  "description": [
+    "VOLUME I rUBMSHFli DAILY BY JAMES GORDON BENNETT OJJece y 4S JSaesnu street brtzifm Beekman mul Spruce streets opposite Dr Springs Ckurch basement story TERMS FOR ADVERTISING I qaire year 10 j 1 square 2 weeks 2 25 3 WDiitlit 3 00 I 1 week 1 75 2 months 6 09 i 3 days 1 00 1 mouth 3 00 J 1 insertion 0 50 Sixteen lines make e square invalid readit mat concern A OU Prisons uh hase been injuied by the ton frequent use ofpowrifully stimulating and diastic medicines as Calomel Lobelia Gamboge Hrgean Medicines sr any other diastic drugs will by the Use Sf EVANS CAMOMILE PILLS find an antidote which will quiet and strengthen their nervous system allaying all irritability and give general health to the frame See advertisemeu on the other page To be had at 95 Division tL N Y jau 4If r LOVEMAVS B AlaVt OK uiluai roH COUGHS COLDS ASTHMASk CONSUMPTION It is the most approved medicine extant for the radical cure of the aborc disorders It gives immediate relief to lhoe ivliose constitutions have hern impaired by intemperance and youthful iinprudvneiei anxiety of mind and the habits of a fashionable life"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:28:20.751Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83030311/1836-01-06/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030311:00271743105:1836010601:0026/full/pct:6.25/0/default.jpg#h=389&w=257",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030311:00271743105:1836010601:0026/full/pct:12.5/0/default.jpg#h=778&w=515",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_kudzu_ver01/data/sn83030311/00271743105/1836010601/0026.xml&format=alto_xml"
+  ],
+  "index": 141,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "new york",
+    "new york county",
+    "new york city",
+    "united states"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0",
+    "2",
+    "3",
+    "7",
+    "1",
+    "0000000001",
+    "sn83030311",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83030311"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "1",
+    "7",
+    "4",
+    "3",
+    "1",
+    "0",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "New York herald"
+  ],
+  "page_id": "sn83030311-1836-01-06-ed-1-0026",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the herald (new york [n.y.]) 1835-1837"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the herald (new york [n.y.]) 1835-1837"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83030311/1836-01-06/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83030311/1836-01-06/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "new york (state)",
+    "new york (n.y.)",
+    "new york county",
+    "new york",
+    "new york county (n.y.)",
+    "united states"
+  ],
+  "timestamp": "2022-10-20T22:05:41.650Z",
+  "title": "Image 1 of The herald (New York [N.Y.]), January 6, 1836",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83030311/1836-01-06/ed-1/?sp=1&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_kudzu_ver01%2Fdata%2Fsn83030311%2F00271743105%2F1836010601%2F0026.xml&q=medicine&relevant_snippet=1"
+}

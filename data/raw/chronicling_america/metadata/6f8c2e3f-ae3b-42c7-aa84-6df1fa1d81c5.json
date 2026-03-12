@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn92051499/1960-11-09/ed-1/?sp=3"
+  ],
+  "batch": [
+    "ct_hashbrown_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/connecticut/",
+    "2/united states/connecticut/hartford/",
+    "3/united states/connecticut/hartford/newington/"
+  ],
+  "contributor": [
+    "connecticut state library, hartford, ct"
+  ],
+  "date": "1960-11-09",
+  "dates": [
+    "1960-11-09"
+  ],
+  "description": [
+    "iFTHE TOWN CRIER f PLEDGED TO COMMUNITY SERVICE M 0 6 9500 M 0 69570 Published Every Wednesday at 75 Market Square Newington PHILIP CALDERAZZI Publisher Editor Advertising Manager NATALIE ROME Associate Editor PEGGY COCHEO Account Executive 175 six months 300 year Second Class Postage Paid at Hartford Connecticut Sditariafy Your Safety Is Your Future The everpresent threat of impending war between nations and peoples along with the upsurging scienti fic advances has brought to fore the increasing im portance of Civil Defense In the event of an enemy attack our irpmediate and future survival depends upon the preparedness of Civil Defense authorities Integrity and ability are only two of the necessary components needed to control panic which inevitably leads to disaster We the people of Newington are fortunate in having a CD organization whose members have laboriously donated their time in attempting to make a safe and sure defense program Community cooperation is essential in the safety of you and your family Be informed Know your local CD program Civil Defense A Must by Earl L Kemmler Local CD Director I do not believe the case for Civil Defense has been more ably stated than it was in the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-08-17T12:33:53.314Z",
+  "group": [
+    "ndnp/ct",
+    "connecticut-state-library-hartford-ct-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn92051499/1960-11-09/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hashbrown_ver01:data:sn92051499:00516996328:1960110901:0531/full/pct:6.25/0/default.jpg#h=379&w=251",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hashbrown_ver01:data:sn92051499:00516996328:1960110901:0531/full/pct:12.5/0/default.jpg#h=759&w=502",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ct/batch_ct_hashbrown_ver01/data/sn92051499/00516996328/1960110901/0531.xml&format=alto_xml"
+  ],
+  "index": 5,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "connecticut",
+    "united states",
+    "newington",
+    "hartford"
+  ],
+  "location_city": [
+    "newington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hartford"
+  ],
+  "location_state": [
+    "connecticut"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000003",
+    "9",
+    "2",
+    "6",
+    "5",
+    "3",
+    "8",
+    "1",
+    "sn92051499"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn92051499"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "6",
+    "3",
+    "2",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn92051499-1960-11-09-ed-1-0531",
+  "partof": [
+    "chronicling america",
+    "the town crier (newington, conn.) 1959-1971",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the town crier (newington, conn.) 1959-1971"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn92051499/1960-11-09/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn92051499/1960-11-09/ed-1/"
+  ],
+  "shelf_id": "03",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "connecticut",
+    "newington",
+    "hartford",
+    "newington (conn.)",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2025-08-17T12:52:15.262Z",
+  "title": "Image 3 of The town crier (Newington, Conn.), November 9, 1960",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn92051499/1960-11-09/ed-1/?sp=3&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fct%2Fbatch_ct_hashbrown_ver01%2Fdata%2Fsn92051499%2F00516996328%2F1960110901%2F0531.xml&q=nuclear&relevant_snippet=1"
+}

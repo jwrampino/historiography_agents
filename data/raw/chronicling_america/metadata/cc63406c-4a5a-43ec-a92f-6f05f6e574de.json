@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn78002169/1941-06-10/ed-1/?sp=10"
+  ],
+  "batch": [
+    "ncu_grape_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/north carolina/",
+    "2/united states/north carolina/new hanover/",
+    "3/united states/north carolina/new hanover/wilmington/"
+  ],
+  "contributor": [
+    "university of north carolina at chapel hill library, chapel hill, nc"
+  ],
+  "date": "1941-06-10",
+  "dates": [
+    "1941-06-10"
+  ],
+  "description": [
+    "FOREST FIRES WORST IN YEARS Despite Recent Heavy Rains Creeks and Lakes Are Low And Situation Serious RALEIGH June 9WDespite fieavy rains recently in some sec tions North Carolinas forest fire situation is still serious and the season for disastrous fires is by no means over Assistant State For ester W C McCormick said today Local showers have helped and I would say that 75 per cent of the areas under protection have received some moisture through these showers McCormick said But there is no water in the swamps yet The creeks and lakes are low and the thirsty ground soaks up rainfall like a spong It would take 30 days of the intermittent rains that really amounted to real downpours to put the ground and vegetation in a safe condition from fires Forest fires this spring have been the worst in years and wide spread areas f rom Rockingham around the coast to the Virginia line are still ablaze McCormick told of a fire which had been burning on the east side of Lake Waccamaw in Columbus county for a month having pene trated the peaty earth as deeply as a yard or more I want to impress upon"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-12T17:35:11.378Z",
+  "group": [
+    "ndnp/ncu",
+    "university-of-north-carolina-chapel-hill-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn78002169/1941-06-10/ed-1/?sp=10",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grape_ver01:data:sn78002169:00279559101:1941061001:0542/full/pct:6.25/0/default.jpg#h=424&w=315",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grape_ver01:data:sn78002169:00279559101:1941061001:0542/full/pct:12.5/0/default.jpg#h=849&w=631",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ncu/batch_ncu_grape_ver01/data/sn78002169/00279559101/1941061001/0542.xml&format=alto_xml"
+  ],
+  "index": 117,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "new hanover",
+    "north carolina",
+    "new hanover county",
+    "wilmington",
+    "united states"
+  ],
+  "location_city": [
+    "wilmington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new hanover"
+  ],
+  "location_state": [
+    "north carolina"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "2",
+    "0",
+    "7",
+    "9",
+    "sn78002169",
+    "1",
+    "0000000010"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn78002169"
+  ],
+  "number_page": [
+    "0000000010"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "5",
+    "9",
+    "1",
+    "0",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star-news",
+    "Morning star"
+  ],
+  "page_id": "sn78002169-1941-06-10-ed-1-0542",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the wilmington morning star (wilmington, n.c.) 1909-1990"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the wilmington morning star (wilmington, n.c.) 1909-1990"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn78002169/1941-06-10/ed-1/?sp=10"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn78002169/1941-06-10/ed-1/"
+  ],
+  "shelf_id": "10",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "new hanover",
+    "north carolina",
+    "wilmington (n.c.)",
+    "new hanover county (n.c.)",
+    "new hanover county",
+    "wilmington",
+    "united states"
+  ],
+  "timestamp": "2023-08-13T05:27:36.717Z",
+  "title": "Image 10 of The Wilmington morning star (Wilmington, N.C.), June 10, 1941, (FINAL EDITION)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn78002169/1941-06-10/ed-1/?sp=10&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fncu%2Fbatch_ncu_grape_ver01%2Fdata%2Fsn78002169%2F00279559101%2F1941061001%2F0542.xml&q=computers&relevant_snippet=1"
+}

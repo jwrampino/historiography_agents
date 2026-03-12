@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88085733/1934-07-27/ed-1/?sp=1"
+  ],
+  "batch": [
+    "wa_ivorygull_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/washington/",
+    "2/united states/washington/king/",
+    "3/united states/washington/king/seattle/"
+  ],
+  "contributor": [
+    "washington state library; olympia, wa"
+  ],
+  "date": "1934-07-27",
+  "dates": [
+    "1934-07-27"
+  ],
+  "description": [
+    "ANSWER COAST TERROR WITH MIGHTY AUGT DEMONSTRATIONS AGAINST WAR FASCISM UNCONDITIONAL FREEDOM OF ALL WORKERS ARREST ED IN RAIDS BY FASCIST COPS VOLUME 2 The FRONT BY LINE 2 THE STRIKE AND THE NEXT WAR In the strike of the long shoremen and all marine crafts American capitalism sces a threat to its war prepara tions The arena of the next imperialist war is on the Pa cific Here the differences be tween the imperialist powers have reached the breaking point making an armed clash inevitable For this war American im perialism is building a bigger navy reequipping and mech anizing its army increasing its air fleet strengthening its nav al bases on the Pacific But in modern war such pre parations in themselves are not sufficient AMERICAN IM FERIALISM WANTS TO BE SURE THAT ITS REAR IS ABSOLUTELY SECURED It wants to be absolutely certain of the smooth running of its industries producing war materials and above every thing else it wants to be guar anteed of the uninterrupted shipping and transportation of war materials and man power American capitalism is there fore determined not to tolerate any possible interference from labor organizations in such a vital and strategic"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-04-26T11:27:39.718Z",
+  "group": [
+    "ndnp/wa",
+    "washington-state-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88085733/1934-07-27/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_ivorygull_ver01:data:sn88085733:00414189945:1934072701:0835/full/pct:6.25/0/default.jpg#h=409&w=303",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_ivorygull_ver01:data:sn88085733:00414189945:1934072701:0835/full/pct:12.5/0/default.jpg#h=819&w=607",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wa/batch_wa_ivorygull_ver01/data/sn88085733/00414189945/1934072701/0835.xml&format=alto_xml"
+  ],
+  "index": 130,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "seattle",
+    "king",
+    "washington",
+    "united states"
+  ],
+  "location_city": [
+    "seattle"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "king"
+  ],
+  "location_state": [
+    "washington"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn88085733",
+    "8",
+    "0",
+    "9",
+    "1",
+    "0000000001",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88085733"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "1",
+    "8",
+    "9",
+    "9",
+    "4",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88085733-1934-07-27-ed-1-0835",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "voice of action (seattle, wash.) 1933-1936"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "voice of action (seattle, wash.) 1933-1936"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88085733/1934-07-27/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88085733/1934-07-27/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "washington (state)",
+    "seattle (wash.)",
+    "king",
+    "seattle",
+    "washington",
+    "united states"
+  ],
+  "timestamp": "2024-04-27T04:08:59.924Z",
+  "title": "Image 1 of Voice of action (Seattle, Wash.), July 27, 1934",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88085733/1934-07-27/ed-1/?sp=1&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwa%2Fbatch_wa_ivorygull_ver01%2Fdata%2Fsn88085733%2F00414189945%2F1934072701%2F0835.xml&q=terrorism&relevant_snippet=1"
+}

@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1940-09-29/ed-1/?sp=78"
+  ],
+  "batch": [
+    "dlc_1rothko_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1940-09-29",
+  "dates": [
+    "1940-09-29"
+  ],
+  "description": [
+    "APARTMENTS UNFURNISHED COLOREDBASEMENT APT 2 ROOMS kitchen bath gas elec and heat lurn 40 mo refs req Adams 2586_ COLORED REFINED MODERI 1418 N J ave nw2 rms kit hath no children reference 3860 Apply Apt 1 cSLORED1 600 BLOCK 131 hST N W 3 rms bath gas heal 4250 Must have references_NA 1408_29_ FOR COLORED 1828 RIGGS PL NW CBet R and S Sts 18th and I9th Sts 1room kit and bath apt with or without Murphy bed 35 ROBERT VV SAVAGE 813 Union Trust Bldg NA 3630 3750lOOVi C SE3 r7 B HWH COLORED 265086 N se2 r k b elec 26 504081 a N J ave nw2 r k elec _THOS D WALSH INC PI 1557 COLOREDHEATED APARTMENTS 1110 6th st nw1 rm k b g 2050 61 K st ne 1 rm k b g 2150 68 M st nw3 rms k b g e 3650 Keys on premises HOME REALTY CO 606 10th NW_RE 1337 COLORED 658 G ST NE5950 8 rms b hwh elec gas and 2 Btorv brick garage in rear good condition FLOYD E DAVIS CO 733 12th St NW National 0352 FOR COLORED 1830 16th ST NW Ant 14 r k"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:39:48.426Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1940-09-29/ed-1/?sp=78",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1rothko_ver02:data:sn83045462:00280603028:1940092901:0358/full/pct:6.25/0/default.jpg#h=487&w=350",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1rothko_ver02:data:sn83045462:00280603028:1940092901:0358/full/pct:12.5/0/default.jpg#h=974&w=700",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1rothko_ver02/data/sn83045462/00280603028/1940092901/0358.xml&format=alto_xml"
+  ],
+  "index": 55,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "3",
+    "sn83045462",
+    "0000000078",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000078"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "3",
+    "0",
+    "2",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1940-09-29-ed-1-0358",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1940-09-29/ed-1/?sp=78"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1940-09-29/ed-1/"
+  ],
+  "shelf_id": "078",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-25T00:07:44.299Z",
+  "title": "Image 78 of Evening star (Washington, D.C.), September 29, 1940",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1940-09-29/ed-1/?sp=78&q=oil",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_1rothko_ver02%2Fdata%2Fsn83045462%2F00280603028%2F1940092901%2F0358.xml&q=oil&relevant_snippet=1"
+}

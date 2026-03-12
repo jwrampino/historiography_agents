@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1923-10-14/ed-1/?sp=45"
+  ],
+  "batch": [
+    "dlc_beiderbecke_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1923-10-14",
+  "dates": [
+    "1923-10-14"
+  ],
+  "description": [
+    "Society News Part 222 Pages RECLASSIFYING BILL ROW CERTAIN IN NEW CONGRESS Measure Causing Wave of Protest Even Before It Becomes Operative Warmly Defended by Authors BV WILL P KENNEDY Reclassification legislation will stir the incoming Congress This is positively shown by White House conferences par ticipated in not only by administrative officers and the Personnel Classification Board but also by leaders in Congress who had a prominent part in passing the reclassification act and by members of the appropriations committee who must provide the funds to make the law effective It is shown also in the reaction of members of Congress to a flood of let ters from all parts of the country Some members of Congress say they are In clined to vote for repealing the law while others say that they are advised reclassification of the field service as now proposed would result in such a muddle that they are in favor of having no reclassification in the field Those who are in closest touch with all the moves in reclassification predict that if there is no classification in the field there will be none in the District of Columbia Reclassification for the approximately 60000 government employes"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:50:18.548Z",
+  "group": [
+    "ndnp/dlc-2017_2017",
+    "library-of-congress-washington-dc-awardee-6"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1923-10-14/ed-1/?sp=45",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_beiderbecke_ver01:data:sn83045462:00280657402:1923101401:0095/full/pct:3.125/0/default.jpg#h=262&w=204",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_beiderbecke_ver01:data:sn83045462:00280657402:1923101401:0095/full/pct:6.25/0/default.jpg#h=524&w=408",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_beiderbecke_ver01:data:sn83045462:00280657402:1923101401:0095/full/pct:12.5/0/default.jpg#h=1048&w=816",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_beiderbecke_ver01/data/sn83045462/00280657402/1923101401/0095.xml&format=alto_xml"
+  ],
+  "index": 112,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "district of columbia",
+    "washington d.c.",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "6",
+    "2",
+    "5",
+    "4",
+    "0000000045",
+    "1",
+    "7",
+    "sn83045462",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000045"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "7",
+    "4",
+    "0",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1923-10-14-ed-1-0095",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1923-10-14/ed-1/?sp=45"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1923-10-14/ed-1/"
+  ],
+  "shelf_id": "045",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "washington",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-24T15:43:20.433Z",
+  "title": "Image 45 of Evening star (Washington, D.C.), October 14, 1923",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1923-10-14/ed-1/?sp=45&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_beiderbecke_ver01%2Fdata%2Fsn83045462%2F00280657402%2F1923101401%2F0095.xml&q=child+labor&relevant_snippet=1"
+}

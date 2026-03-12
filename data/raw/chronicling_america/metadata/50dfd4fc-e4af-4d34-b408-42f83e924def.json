@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84027352/1860-09-06/ed-1/?sp=1"
+  ],
+  "batch": [
+    "iahi_bellsprout_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/iowa/",
+    "2/united states/iowa/wapello/",
+    "3/united states/iowa/wapello/ottumwa/"
+  ],
+  "contributor": [
+    "state historical society of iowa"
+  ],
+  "date": "1860-09-06",
+  "dates": [
+    "1860-09-06"
+  ],
+  "description": [
+    "fit 3SE2i22 NEW S E I E S V O 5 NO30 J W ORRIProprietor c BE Dttumhm Conrirr di 18 PUBM8IIKD EVERY THURSDAY IN fUMROTS BLOO 2 TIIIUK HOOll 0ITIJM ttA VA PHLLO CO 10 WAt Br J w A P ORRI E S INVAIUABIY IN ADVANCE One copy per year tisU Kour cople ft00 Ten 1200 Twenty ftno Persons wishing to ul crifoe for a less time than one Tr can do so r rewiuirrg Hie amount tley wmh to to apr0iteil Tr hn IVI w11 we entrr row Dairifs u iiles Iiicv are afcon iird wiili nopry IplJULAflKllJJHIK OWH V KHAKIS Douglas Record His Numerous Shifts and v Changes O O FROM A MMXCWfE SnOWN IP N CHAPTERS A fMIOBHrTB AID KOT A 9EWK3UCT CHAPTER T HH 1849 DOIIKIAK Canonized lite Hisonri Compromise The Missouri Compromise had an origin akin to that oflhe Constitution of the United States conceived in the same spirit of frater nal affection and calculated to remove for ever the danger which seemed to threaten at some distant day to sever the social bond of Union All the evidences of public opin ion at that day seemed to indicate that this Compromise had"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-05-16T11:53:08.824Z",
+  "group": [
+    "ndnp/iahi",
+    "state-historical-society-of-iowa-state-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84027352/1860-09-06/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860090601:0566/full/pct:3.125/0/default.jpg#h=302&w=221",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860090601:0566/full/pct:6.25/0/default.jpg#h=604&w=442",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iahi/batch_iahi_bellsprout_ver01/data/sn84027352/00279528578/1860090601/0566.xml&format=alto_xml"
+  ],
+  "index": 175,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "iowa",
+    "united states",
+    "ottumwa",
+    "wapello"
+  ],
+  "location_city": [
+    "ottumwa"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "wapello"
+  ],
+  "location_state": [
+    "iowa"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "0000000001",
+    "2",
+    "8",
+    "5",
+    "sn84027352",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84027352"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "2",
+    "8",
+    "5",
+    "7",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Ottumwa weekly courier",
+    "Ottumwa courier",
+    "Weekly courier"
+  ],
+  "page_id": "sn84027352-1860-09-06-ed-1-0566",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the weekly ottumwa courier (ottumwa, iowa) 1857-1872"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the weekly ottumwa courier (ottumwa, iowa) 1857-1872"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84027352/1860-09-06/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84027352/1860-09-06/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "wapello",
+    "ottumwa (iowa)",
+    "ottumwa",
+    "iowa",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-07-03T15:45:42.631Z",
+  "title": "Image 1 of The weekly Ottumwa courier (Ottumwa, Iowa), September 6, 1860",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84027352/1860-09-06/ed-1/?sp=1&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiahi%2Fbatch_iahi_bellsprout_ver01%2Fdata%2Fsn84027352%2F00279528578%2F1860090601%2F0566.xml&q=slavery&relevant_snippet=1"
+}

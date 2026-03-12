@@ -1,0 +1,14 @@
+{
+  "creator": "Archive-It",
+  "date": "2012-01-01T00:00:00Z",
+  "description": "recurrence=WEEKLY, maxDuration=259200, maxDocumentCount=null, isTestCrawl=false, seedCount=140, accountId=153, organizationName=\"National Library of Australia\", collectionId=2954, collectionName=\"Japan, Social movements after the Fukushima Nuclear Power Plants crisis, March 11, 2011\"",
+  "format": [
+    "Item CDX Index",
+    "Metadata",
+    "WARC CDX Index",
+    "Web ARChive GZ"
+  ],
+  "identifier": "ARCHIVEIT-2954-WEEKLY-IAEUFR-00000",
+  "mediatype": "web",
+  "title": "ARCHIVEIT-2954-WEEKLY-IAEUFR-20120803082251-00003-crawling210.us.archive.org-6680.warc.gz"
+}

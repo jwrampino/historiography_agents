@@ -1,0 +1,173 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85009852/1957-02-14/ed-1/?sp=7"
+  ],
+  "batch": [
+    "ct_carpsurprise_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/connecticut/",
+    "2/united states/connecticut/hartford/",
+    "3/united states/connecticut/hartford/new britain/"
+  ],
+  "contributor": [
+    "connecticut state library, hartford, ct"
+  ],
+  "date": "1957-02-14",
+  "dates": [
+    "1957-02-14"
+  ],
+  "description": [
+    "THURSDAY FEBRUARY 14 1957 High School Will Offer New Studies There will be changes in the subjects offered at East Hart ford High School next Septem ber The Board of Education last week voted a series of curricu lum adjustments Although none represented a major overhaul of copses together they may af feot a considerable number of pu pils The changes will Make General Business and Business Arithmetic full year courses instead of half a year Offer Bookkeeping I in the 11th grade rather than 10th Note on records sent out from school whether the English a pu pil took was College English Practical English or Business English More Language Offered Offer French 111 next year and Spanish 111 in the near future Latin IV now is being offered if enough pupils sign up for itl Students will be asked to plan to take two consecutive years of the samq language A grade of D will not admit pupils to any sec ond year foreign language course Offer Beginning Sewing and Beginning Foods and Nutrition to girls who have not taken Homemaking I II or 111 Provide that pupils must re ceive a C or better in Algebra I before"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-12-15T22:39:36.855Z",
+  "group": [
+    "ndnp/ct",
+    "connecticut-state-library-hartford-ct-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85009852/1957-02-14/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_carpsurprise_ver01:data:sn85009852:00517174890:1957021401:0065/full/pct:3.125/0/default.jpg#h=280&w=207",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_carpsurprise_ver01:data:sn85009852:00517174890:1957021401:0065/full/pct:6.25/0/default.jpg#h=561&w=414",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_carpsurprise_ver01:data:sn85009852:00517174890:1957021401:0065/full/pct:12.5/0/default.jpg#h=1122&w=828",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ct/batch_ct_carpsurprise_ver01/data/sn85009852/00517174890/1957021401/0065.xml&format=alto_xml"
+  ],
+  "index": 28,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "new britain",
+    "south windsor",
+    "connecticut",
+    "glastonbury",
+    "east windsor",
+    "east hartford",
+    "hartford"
+  ],
+  "location_city": [
+    "new britain"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hartford"
+  ],
+  "location_state": [
+    "connecticut"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn85009852",
+    "8",
+    "5",
+    "9",
+    "7",
+    "4",
+    "0000000007",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85009852"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "4",
+    "8",
+    "9",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85009852-1957-02-14-ed-1-0065",
+  "partof": [
+    "the east hartford gazette (east hartford, conn.) 1942-current",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the east hartford gazette (east hartford, conn.) 1942-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85009852/1957-02-14/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85009852/1957-02-14/ed-1/"
+  ],
+  "shelf_id": "07",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "east windsor (conn.)",
+    "new britain",
+    "https://id.oclc.org/worldcat/entity/e39pbjpjj38c94hmdm3bxkykjc",
+    "connecticut",
+    "south windsor",
+    "https://id.oclc.org/worldcat/entity/e39qbtfrqr6qxbfkkvtp4wjrcp",
+    "newspapers",
+    "east hartford",
+    "east hartford (conn.)",
+    "east windsor",
+    "glastonbury",
+    "south windsor (conn.)",
+    "glastonbury (conn.)",
+    "https://id.oclc.org/worldcat/entity/e39pbjvcjhwfvmbcmprmtfyghc",
+    "hartford"
+  ],
+  "timestamp": "2024-12-15T23:03:56.229Z",
+  "title": "Image 7 of The East Hartford gazette (East Hartford, Conn.), February 14, 1957",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85009852/1957-02-14/ed-1/?sp=7&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fct%2Fbatch_ct_carpsurprise_ver01%2Fdata%2Fsn85009852%2F00517174890%2F1957021401%2F0065.xml&q=nuclear&relevant_snippet=1"
+}

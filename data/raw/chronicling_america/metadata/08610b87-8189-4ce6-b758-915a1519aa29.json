@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83016244/1957-01-10/ed-1/?sp=3"
+  ],
+  "batch": [
+    "fu_calhoun_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/florida/",
+    "2/united states/florida/monroe/",
+    "3/united states/florida/monroe/key west/"
+  ],
+  "contributor": [
+    "university of florida"
+  ],
+  "date": "1957-01-10",
+  "dates": [
+    "1957-01-10"
+  ],
+  "description": [
+    "Civil Rights Legislation Seen In This Congress Session By JOHN CHADWICK WASHINGTON Senate lead ers were reported today to believe that civil rights legislation will be passed at this session of Con gress even though they expect a Southern filibuster An influential Senate Democrat unwilling to be quoted by name said the chances are that a pro gram along the lines advocate 4 by President Eisenhower will be approved probably earlier than later Eisenlowers program calls for court action to protect voting and other rights the establishment of a civil rights division in the Jus tice Department and a presiden tial commission to investigate civil rights Legislation to carry it out has been introduced in both the Senate and the House Southern Democrats have been able to block civil rights measures in the past but there appears to be a more determined effort by both Republicans and Northern Democrats to force action at this session of Congress The Democratic source who is not known as an advocate of such measures said that the point ap parently has been reached where public sentiment for civil rights legislation is too strong to be re sisted He expressed the view that while a"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2026-01-27T16:58:22.164Z",
+  "group": [
+    "ndnp/fu",
+    "university-of-florida-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83016244/1957-01-10/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_calhoun_ver01:data:sn83016244:00517170264:1957011001:0093/full/pct:3.125/0/default.jpg#h=286&w=211",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_calhoun_ver01:data:sn83016244:00517170264:1957011001:0093/full/pct:6.25/0/default.jpg#h=573&w=423",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_calhoun_ver01:data:sn83016244:00517170264:1957011001:0093/full/pct:12.5/0/default.jpg#h=1147&w=846",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/fu/batch_fu_calhoun_ver01/data/sn83016244/00517170264/1957011001/0093.xml&format=alto_xml"
+  ],
+  "index": 197,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "monroe",
+    "monroe county",
+    "key west",
+    "florida",
+    "united states"
+  ],
+  "location_city": [
+    "key west"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "monroe"
+  ],
+  "location_state": [
+    "florida"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0",
+    "2",
+    "sn83016244",
+    "0000000003",
+    "7",
+    "1",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83016244"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "0",
+    "2",
+    "6",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83016244-1957-01-10-ed-1-0093",
+  "partof": [
+    "the key west citizen (key west, fla.) 1879-current",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the key west citizen (key west, fla.) 1879-current"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83016244/1957-01-10/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83016244/1957-01-10/ed-1/"
+  ],
+  "shelf_id": "03",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "key west (fla.)",
+    "monroe",
+    "monroe county",
+    "monroe county (fla.)",
+    "key west",
+    "florida",
+    "united states"
+  ],
+  "timestamp": "2026-01-27T20:59:35.166Z",
+  "title": "Image 3 of The Key West citizen (Key West, Fla.), January 10, 1957",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83016244/1957-01-10/ed-1/?sp=3&q=civil+rights",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Ffu%2Fbatch_fu_calhoun_ver01%2Fdata%2Fsn83016244%2F00517170264%2F1957011001%2F0093.xml&q=civil+rights&relevant_snippet=1"
+}

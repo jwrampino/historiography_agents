@@ -1,0 +1,131 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16123/?sp=3"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1819-05-20",
+  "dates": [
+    "1819-05-20"
+  ],
+  "description": [
+    "fures which were calculatedto sepel it the line he had adopted was however unpopular and lie th\u00e9r\u00e9fer\u00e9 could not anticipate all that assistance on his own side the Fish River which in any other quarrel he might have com manded so circumstanced he sent messengers to Gra hams Town to pray for assistance in case liis affairs should require it and as soon as His Excellency the Governor was apprized of what was going forward the necessary instructions were given for Gaikas effectual support Meanwhile however his adversari\u00e9s advanced rapidly up on him and on the Ghonap their numbers overpowered faim after a shortconflictin which he lost aear 300 men hewas forced to retire towards the fastnesses asiofthe Winterberg _ Elushed with this first success his savage enemies as fisual abused their victory the cruelties they are re ported to have committed hardly bear repeating they havebeen probably exaggerated by those who gvere sent to Grahams Town fromGaika bat they are said to have burnt the habitations of Gaikas people to have put the womente death and to have thrownthe children Inte the flames Gaikas favourite son the fine young man who met His Exc\u00e9llencyatthe Kat River in 1817 fellinto"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16123/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16123:0003/full/pct:6.25/0/default.jpg#h=357&w=280",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16123:0003/full/pct:12.5/0/default.jpg#h=715&w=560",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16123:0003/full/pct:25.0/0/default.jpg#h=1431&w=1120",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16123:0003/full/pct:50.0/0/default.jpg#h=2863&w=2240",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16123:0003/full/pct:100.0/0/default.jpg#h=5726&w=4480",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16123/0003.alto.xml&format=alto_xml"
+  ],
+  "index": 112,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "calcutta",
+    "india"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "sn88063571",
+    "0000000003",
+    "2025-08-13t13:59:42.400000",
+    "sn88063570",
+    "sn88063569"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16123-0003-alto",
+  "partof": [
+    "catalog",
+    "world digital library",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "asian division",
+    "serial and government publications division",
+    "south asian digital collection",
+    "world newspapers",
+    "general collections"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16123/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16123/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "calcutta",
+    "india"
+  ],
+  "timestamp": "2025-12-12T07:20:29.766Z",
+  "title": "Image 3 of Volume 29, Number 1282, Thursday, May 20, 1819 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16123/?sp=3&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16123%2F0003.alto.xml&q=great+war&relevant_snippet=1"
+}

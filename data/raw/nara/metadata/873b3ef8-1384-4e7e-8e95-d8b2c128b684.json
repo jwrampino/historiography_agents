@@ -1,0 +1,126 @@
+{
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "note": "Some or all of the records may be subject to copyright restrictions. Researchers should contact the copyright holder for further information.",
+    "specificUseRestrictions": [
+      "Copyright"
+    ],
+    "status": "Restricted - Possibly"
+  },
+  "audiovisual": "false",
+  "title": "Child Labor",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Little Rock",
+          "phone": "501-244-2877",
+          "address1": "1200 President Clinton Avenue",
+          "postalCode": "72201",
+          "name": "William J. Clinton Library",
+          "state": "AR",
+          "fax": "501-244-2881",
+          "email": "clinton.library@nara.gov",
+          "mailCode": "LP-WJC"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "note": "These records may need to be screened for personal privacy, and law enforcement under 5 U.S.C. 552 (b) prior to public release.",
+    "specificAccessRestrictions": [
+      {
+        "restriction": "FOIA (b)(7c) Law Enforcement"
+      }
+    ],
+    "status": "Restricted - Partly"
+  },
+  "dataControlGroup": {
+    "groupName": "William J. Clinton Library",
+    "groupId": "PL-WJC",
+    "groupCd": "PL-WJC"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "LPWJC 2016-0201-S",
+      "type": "FOIA Tracking Number"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "42-t-7431940-20160201S-006-002-2017.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/systematic/2016/2016-0201-S/42-t-7431940-20160201S-006-002-2017.pdf",
+      "objectFileSize": 12345678,
+      "objectId": "134758033",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "otherTitles": [
+    "42-t-7431940-20160201S-006-002-2017"
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "WJC-OS",
+      "inclusiveStartDate": {
+        "year": 1993,
+        "logicalDate": "1993-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "year": 2001,
+        "logicalDate": "2001-12-31"
+      },
+      "title": "Records of the Office of Speechwriting (Clinton Administration)",
+      "naId": 2534571
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1998,
+        "logicalDate": "1998-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "President (1993-2001 : Clinton). Office of Speechwriting. (01/20/1993 - 01/20/2001)",
+          "abolishDate": {
+            "month": 1,
+            "year": 2001,
+            "day": 20,
+            "logicalDate": "2001-01-20"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 1,
+            "year": 1993,
+            "day": 20,
+            "logicalDate": "1993-01-20"
+          },
+          "naId": 10514210
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 2001,
+        "logicalDate": "2001-12-31"
+      },
+      "title": "Joshua Gottheimer's Files",
+      "naId": 7431940
+    }
+  ],
+  "naId": 134758032
+}

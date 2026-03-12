@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83030313/1849-04-17/ed-1/?sp=2"
+  ],
+  "batch": [
+    "dlc_kudzu_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1849-04-17",
+  "dates": [
+    "1849-04-17"
+  ],
+  "description": [
+    "SCIENCE VS QUACKERY Thfrf is no profession in life in which there la so much charlatanry practiced an in that of medicine and thi truth is nownere ao generally admitted m anions medical men themselves Ignorant pretenders to a knowledge of the benling art both in and out of the Ualined medical fraternity urs found in evory aection of our oonntry Considering the rapid and Degressive impulae which has been communicated to moat brancbea of human knowledge the enlightened alato of the age the many reforms and great progress which have been made in almost cvory other science and art it ia surprising that in the practice of medieiue so little has been accomplished by those who claim to he in the exclusive possession of its mysteries and truths it has been sool though it is rather a quaint war of expressing a truth that If there be a science overcharged with superfluous haggiwe it is doubtless that of mediuine No profession stands la greater need of a rigorous tuotliod of siiupliAoution The rraotice of tho art among the regular faculty is so full of obscurity and pretensions to mystery that the most learned no u in the profession hare"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:28:39.217Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83030313/1849-04-17/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:0027174299A:1849041701:0462/full/pct:3.125/0/default.jpg#h=277&w=191",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:0027174299A:1849041701:0462/full/pct:6.25/0/default.jpg#h=554&w=383",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:0027174299A:1849041701:0462/full/pct:12.5/0/default.jpg#h=1109&w=767",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_kudzu_ver01/data/sn83030313/0027174299A/1849041701/0462.xml&format=alto_xml"
+  ],
+  "index": 183,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "new york",
+    "new york county",
+    "new york city"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "9",
+    "7",
+    "4",
+    "a",
+    "0000000002",
+    "sn83030313",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83030313"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "1",
+    "7",
+    "4",
+    "2",
+    "9",
+    "9",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "New York daily herald"
+  ],
+  "page_id": "sn83030313-1849-04-17-ed-1-0462",
+  "partof": [
+    "serial and government publications division",
+    "chronicling america",
+    "the new york herald (new york [n.y.]) 1840-1920"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the new york herald (new york [n.y.]) 1840-1920"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83030313/1849-04-17/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83030313/1849-04-17/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "new york",
+    "new york county (n.y.)",
+    "new york (state)",
+    "newspapers",
+    "new york county",
+    "new york (n.y.)"
+  ],
+  "timestamp": "2022-10-20T22:33:00.625Z",
+  "title": "Image 2 of The New York herald (New York [N.Y.]), April 17, 1849",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83030313/1849-04-17/ed-1/?sp=2&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_kudzu_ver01%2Fdata%2Fsn83030313%2F0027174299A%2F1849041701%2F0462.xml&q=medicine&relevant_snippet=1"
+}

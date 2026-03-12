@@ -1,0 +1,154 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85034438/1898-09-11/ed-1/?sp=10"
+  ],
+  "batch": [
+    "vi_metallica_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/virginia/",
+    "3/united states/virginia/richmond/"
+  ],
+  "contributor": [
+    "library of virginia; richmond, va"
+  ],
+  "date": "1898-09-11",
+  "dates": [
+    "1898-09-11"
+  ],
+  "description": [
+    "Xi i Hoy THE TIMES RICHMOND VA SUNDAY SEPTEMBER 11 1898 The Klondike of the Tropics An Interview With 2 Member of the Cuban Junta YORK Sept 5We have the Cutan Junta into an in office for information about sald a member of the Cuban pe formerly we transacted busi mess for the patriots we are now ving jana of Intelligence about the is coma here and they want to the cost of getting to Santiago the inquire about expense of living ba they ask how long It takes to a tobacco trop and the chances on every dollar wisely invested these peobls we can only say that Js a Klondike richer than the re and vastly more comfortable to The richest part of the island rtion lately surrendered by to neral Shafter It is there that heav lest deposits of fron ore in the world era located They yleld from six five to seventyfive per cent of pure entirely free fromm sulphur and Phosphorous There are near Santlago big mines worth at a low esti mate 5000 each Ihese are owned Americans and were in opefation up the time of hostilities upon the city n the workmen either starved"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-11-23T05:59:08.678Z",
+  "group": [
+    "ndnp/vi",
+    "library-of-virginia-richmond-va-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85034438/1898-09-11/ed-1/?sp=10",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_metallica_ver02:data:sn85034438:00175049460:1898091101:0582/full/pct:3.125/0/default.jpg#h=353&w=247",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_metallica_ver02:data:sn85034438:00175049460:1898091101:0582/full/pct:6.25/0/default.jpg#h=707&w=494",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/vi/batch_vi_metallica_ver02/data/sn85034438/00175049460/1898091101/0582.xml&format=alto_xml"
+  ],
+  "index": 64,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "virginia",
+    "united states",
+    "richmond"
+  ],
+  "location_city": [
+    "richmond"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "virginia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "0000000010",
+    "5",
+    "9",
+    "6",
+    "sn85034438",
+    "7",
+    "4",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85034438"
+  ],
+  "number_page": [
+    "0000000010"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "1",
+    "7",
+    "5",
+    "0",
+    "4",
+    "9",
+    "4",
+    "6",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Daily times"
+  ],
+  "page_id": "sn85034438-1898-09-11-ed-1-0582",
+  "partof": [
+    "serial and government publications division",
+    "chronicling america",
+    "the times (richmond, va.) 1890-1903"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the times (richmond, va.) 1890-1903"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85034438/1898-09-11/ed-1/?sp=10"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85034438/1898-09-11/ed-1/"
+  ],
+  "shelf_id": "10",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "virginia",
+    "newspapers",
+    "richmond (va.)",
+    "richmond"
+  ],
+  "timestamp": "2025-11-23T07:20:30.045Z",
+  "title": "Image 10 of The times (Richmond, Va.), September 11, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85034438/1898-09-11/ed-1/?sp=10&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fvi%2Fbatch_vi_metallica_ver02%2Fdata%2Fsn85034438%2F00175049460%2F1898091101%2F0582.xml&q=cuba&relevant_snippet=1"
+}

@@ -1,0 +1,253 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "subjects": [
+    {
+      "heading": "Titanic (Steamship)",
+      "authorityType": "organization",
+      "naId": 10445467
+    },
+    {
+      "heading": "Manifests",
+      "authorityType": "specificRecordsType",
+      "naId": 10661621
+    },
+    {
+      "heading": "Passenger lists",
+      "authorityType": "specificRecordsType",
+      "naId": 10636082
+    }
+  ],
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "List of U. S. Citizens (For the Immigration Authorities), R.M.S. CARPATHIA.",
+  "coverageEndDate": {
+    "month": 6,
+    "year": 1912,
+    "day": 18,
+    "logicalDate": "1912-06-18"
+  },
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "7th and Pennsylvania Avenue NW",
+          "city": "Washington",
+          "phone": "202-357-5385",
+          "address1": "National Archives Building",
+          "postalCode": "20408",
+          "name": "National Archives at Washington, DC - Textual Reference",
+          "state": "DC",
+          "fax": "202-357-5936",
+          "email": "Archives1reference@nara.gov",
+          "mailCode": "RR1"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "coverageStartDate": {
+    "month": 6,
+    "year": 1912,
+    "day": 18,
+    "logicalDate": "1912-06-18"
+  },
+  "dataControlGroup": {
+    "groupName": "National Archives at Washington, DC \u00a0 \u2013 Textual Reference",
+    "groupId": "RR1",
+    "groupCd": "RR1"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "microformPublications": [
+    {
+      "identifier": "T715",
+      "note": "Although Carpathia returned to New York on April 18, 1912, the list of survivors is filed with manifests dated two months later. It can be found on NARA microfilm publication T715, \"Passenger and Crew Lists of Vessels Arriving at New York, 1897-1957,\" roll 1883 (INS Volume 4183).",
+      "title": "T715 - Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957."
+    }
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "NWCTB-85-T715-VOL4183-CARPUS",
+      "type": "NAIL Control Number"
+    },
+    {
+      "number": "NWDT1-85-T715-VOL4183-CARPUS",
+      "type": "NAIL Control Number"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "carp04a.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/49/3003/300349/content/arcmedia/media/images/51/1/carp04a.jpg",
+      "objectFileSize": 165555,
+      "objectDesignator": "PAGE124",
+      "objectId": "14982797",
+      "objectDescription": "List of U. S. Citizens (For the Immigration Authorities)",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "carp06a.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/49/3003/300349/content/arcmedia/media/images/51/1/carp06a.jpg",
+      "objectFileSize": 165555,
+      "objectDesignator": "PAGE125",
+      "objectId": "14982798",
+      "objectDescription": "List of U. S. Citizens (For the Immigration Authorities)",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "carp07a.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/49/3003/300349/content/arcmedia/media/images/51/1/carp07a.jpg",
+      "objectFileSize": 165555,
+      "objectDesignator": "PAGE126",
+      "objectId": "14982799",
+      "objectDescription": "List of U. S. Citizens (For the Immigration Authorities)",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "carp08a.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/49/3003/300349/content/arcmedia/media/images/51/1/carp08a.jpg",
+      "objectFileSize": 165555,
+      "objectDesignator": "PAGE127",
+      "objectId": "14982800",
+      "objectDescription": "List of U. S. Citizens (For the Immigration Authorities)",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "carp09a.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/49/3003/300349/content/arcmedia/media/images/51/1/carp09a.jpg",
+      "objectFileSize": 165555,
+      "objectDesignator": "PAGE128",
+      "objectId": "14982801",
+      "objectDescription": "List of U. S. Citizens (For the Immigration Authorities)",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "carp10a.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/49/3003/300349/content/arcmedia/media/images/51/1/carp10a.jpg",
+      "objectFileSize": 165555,
+      "objectDesignator": "PAGE129",
+      "objectId": "14982802",
+      "objectDescription": "Affidavit of Surgeon.",
+      "objectType": "Image (JPG)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1787,
+        "logicalDate": "1787-01-01"
+      },
+      "distance": 3,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 85,
+      "inclusiveEndDate": {
+        "year": 2004,
+        "logicalDate": "2004-12-31"
+      },
+      "title": "Records of the Immigration and Naturalization Service",
+      "naId": 414
+    },
+    {
+      "inclusiveStartDate": {
+        "month": 6,
+        "year": 1897,
+        "day": 16,
+        "logicalDate": "1897-06-16"
+      },
+      "distance": 2,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Predecessor",
+          "heading": "Department of Labor. Bureau of Immigration. (1913 - 06/10/1933)",
+          "abolishDate": {
+            "month": 6,
+            "year": 1933,
+            "day": 10,
+            "logicalDate": "1933-06-10"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1913,
+            "logicalDate": "1913-01-01"
+          },
+          "naId": 10458397
+        },
+        {
+          "creatorType": "Predecessor",
+          "heading": "Department of Commerce and Labor. Bureau of Immigration and Naturalization. (1906 - 1913)",
+          "abolishDate": {
+            "year": 1913,
+            "logicalDate": "1913-12-31"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1906,
+            "logicalDate": "1906-01-01"
+          },
+          "naId": 10458243
+        },
+        {
+          "creatorType": "Predecessor",
+          "heading": "Department of Commerce and Labor. Bureau of Immigration. (1903 - 1906)",
+          "abolishDate": {
+            "year": 1906,
+            "logicalDate": "1906-12-31"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1903,
+            "logicalDate": "1903-01-01"
+          },
+          "naId": 10462741
+        },
+        {
+          "creatorType": "Most Recent",
+          "heading": "Department of Justice. Immigration and Naturalization Service. (06/14/1940 - 03/01/2003)",
+          "abolishDate": {
+            "month": 3,
+            "year": 2003,
+            "day": 1,
+            "logicalDate": "2003-03-01"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 6,
+            "year": 1940,
+            "day": 14,
+            "logicalDate": "1940-06-14"
+          },
+          "naId": 10464340
+        }
+      ],
+      "inclusiveEndDate": {
+        "month": 7,
+        "year": 1957,
+        "day": 3,
+        "logicalDate": "1957-07-03"
+      },
+      "title": "Passenger and Crew Lists of Vessels Arriving at New York, New York",
+      "naId": 300346
+    },
+    {
+      "distance": 1,
+      "levelOfDescription": "fileUnit",
+      "title": "Passenger and crew lists for vessels arriving at New York, New York: Immigration and Naturalization Service Volume 4183",
+      "naId": 300347
+    }
+  ],
+  "scopeAndContentNote": "This document lists survivors from the S. S. TITANIC that were taken aboard the R.M.S. CARPATHIA. The list was recorded on a standard manifest form and contains 29 columns of information, including age, occupation, address, nearest relative or friend, destination, physical description, and place of birth.",
+  "naId": 300349
+}

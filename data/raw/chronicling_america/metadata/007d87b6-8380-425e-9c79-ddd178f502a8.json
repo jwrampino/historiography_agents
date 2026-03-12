@@ -1,0 +1,151 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85038615/1905-09-17/ed-1/?sp=3"
+  ],
+  "batch": [
+    "vi_berea_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/virginia/",
+    "3/united states/virginia/richmond/"
+  ],
+  "contributor": [
+    "library of virginia; richmond, va"
+  ],
+  "date": "1905-09-17",
+  "dates": [
+    "1905-09-17"
+  ],
+  "description": [
+    "H FINE FIELD Big Banks Siici Other Prosperous Institutions BaeUc by Enter prising Americans HOW BUSINESS GROWS Great Development Along Finan cial LinesTrofits of Banking Values of Stocks and Bonds By Frank G Carpenter Spiclul Correspondene TIiiichDispatch HAVANA CUBA Sept 1JAnierlinn capital la rapidly pufllilng It wuy Into cuba and thn day will come when we shull own tho Inland comhircfnily and industrially If noi pollllciilly Tho Im iiiiiis tobiico business la already con trolled by our Iriuit sugar plantations capitalized nt millions hnvo been bought by Americana nd more than llftv mil lion dollars ot Unitoti State gold Into been spent Bilico tlio war In Julian binila nho street rulhotulii of Ilnvuna are large ly owned by nn American syndicate and th moat of tin monoy used In building the Cuban rtllroiul whli11 la now open ing up eastern Cuba came from New WTy IIANCO NACIXAIj DB CUIJA Founded and capitalized by Americans This lsu picture of the handsome building about to he erected Yori Othor railroads are projected by Americans and there are alai electric lighting und power Bohemos horo dnd thero ovpr Cuba financed by thorn I have written of the vast Iron arid cop pir deposits"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-02-06T12:36:44.331Z",
+  "group": [
+    "ndnp/vi",
+    "library-of-virginia-richmond-va-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85038615/1905-09-17/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_berea_ver01:data:sn85038615:00175045867:1905091701:0963/full/pct:6.25/0/default.jpg#h=450&w=340",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_berea_ver01:data:sn85038615:00175045867:1905091701:0963/full/pct:12.5/0/default.jpg#h=901&w=681",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/vi/batch_vi_berea_ver01/data/sn85038615/00175045867/1905091701/0963.xml&format=alto_xml"
+  ],
+  "index": 38,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "virginia",
+    "united states",
+    "richmond"
+  ],
+  "location_city": [
+    "richmond"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "virginia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "0000000003",
+    "8",
+    "5",
+    "6",
+    "7",
+    "4",
+    "sn85038615",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85038615"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "1",
+    "7",
+    "5",
+    "0",
+    "4",
+    "5",
+    "8",
+    "6",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85038615-1905-09-17-ed-1-0963",
+  "partof": [
+    "serial and government publications division",
+    "the times dispatch (richmond, va.) 1903-1914",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the times dispatch (richmond, va.) 1903-1914"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85038615/1905-09-17/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85038615/1905-09-17/ed-1/"
+  ],
+  "shelf_id": "03",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "virginia",
+    "newspapers",
+    "richmond (va.)",
+    "richmond"
+  ],
+  "timestamp": "2024-02-06T18:02:17.937Z",
+  "title": "Image 3 of The times dispatch (Richmond, Va.), September 17, 1905",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85038615/1905-09-17/ed-1/?sp=3&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fvi%2Fbatch_vi_berea_ver01%2Fdata%2Fsn85038615%2F00175045867%2F1905091701%2F0963.xml&q=cuba&relevant_snippet=1"
+}

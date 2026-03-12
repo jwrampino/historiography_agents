@@ -1,0 +1,151 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82016181/1937-07-09/ed-1/?sp=9"
+  ],
+  "batch": [
+    "dlc_bullock_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1937-07-09",
+  "dates": [
+    "1937-07-09"
+  ],
+  "description": [
+    "ON THE SPOT by Bill Crawford L J Well Ill bet we showed em the most action theyll see in Washington for a long long time Revised WageHour Bill Ready for Senate Vote Cut to the bone in both form and content the Presidents wagehour bill was before the Senate today stamped with committee approval and ready for a vote whenever the court plan is disposed of As simplified it may increase the wages of 3000000 workers possibly fewer It may shorten working hours for 6000000 The original bill cov ered some 12000000 workers Principal features of the new draft The bill applies only to workers at the bottom of the labor ladder It proposes to create a labor standards board with power to fix minimum wages at any figure up to 40 cents an hour but no higher The original bill would have let it deal with wages up to 1200 a year Likewise the board may fix a min imum work week of 40 hours or more but not less The old bill was designed not only to combat oppressive labor stand ards but also to foster fair labor standards Some labor leaders felt that it might thus"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-09-28T04:47:48.729Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82016181/1937-07-09/ed-1/?sp=9",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bullock_ver01:data:sn82016181:00516999597:1937070901:0261/full/pct:6.25/0/default.jpg#h=330&w=223",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bullock_ver01:data:sn82016181:00516999597:1937070901:0261/full/pct:12.5/0/default.jpg#h=661&w=447",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_bullock_ver01/data/sn82016181/00516999597/1937070901/0261.xml&format=alto_xml"
+  ],
+  "index": 94,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn82016181",
+    "5",
+    "6",
+    "9",
+    "0000000009",
+    "7",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82016181"
+  ],
+  "number_page": [
+    "0000000009"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "9",
+    "5",
+    "9",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82016181-1937-07-09-ed-1-0261",
+  "partof": [
+    "serial and government publications division",
+    "the washington daily news (washington, d.c.) 1921-1972",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington daily news (washington, d.c.) 1921-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82016181/1937-07-09/ed-1/?sp=9"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82016181/1937-07-09/ed-1/"
+  ],
+  "shelf_id": "09",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2025-09-28T05:26:20.125Z",
+  "title": "Image 9 of The Washington daily news (Washington, D.C.), July 9, 1937",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82016181/1937-07-09/ed-1/?sp=9&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_bullock_ver01%2Fdata%2Fsn82016181%2F00516999597%2F1937070901%2F0261.xml&q=child+labor&relevant_snippet=1"
+}

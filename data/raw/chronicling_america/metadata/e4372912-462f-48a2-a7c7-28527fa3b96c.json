@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn90059523/1896-12-20/ed-1/?sp=1"
+  ],
+  "batch": [
+    "mnhi_iona_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/minnesota/",
+    "2/united states/minnesota/ramsey/",
+    "3/united states/minnesota/ramsey/saint paul/"
+  ],
+  "contributor": [
+    "minnesota historical society; saint paul, mn"
+  ],
+  "date": "1896-12-20",
+  "dates": [
+    "1896-12-20"
+  ],
+  "description": [
+    "Pffi 1 10 12 VOL XIX NO 355 BULLETIN OF THrE ST PftL GlO\u00df SIXDAV DEC 20 1806 Weather for Today Fair Westerly Winds PAGE 1 House Favors Culm Senate Resolution Excites Spain Olney Criticises tiie Resolution The People Anxious for War PAGE 2 Fire Loss Estimated at 5200000 The Troubles of Third Street PAGE 3 Expose of St Paul Park Deal A Snap for an Elector PAGE 4 Editorial Ko PostofHce Political Trickery PAGE 5 Sons of Revolution Banquet Expose of Alleged Soniuomen y PAGE 6 Barnato Buys Minnesota Mines Troulrie Over Irish Taxation PAGE 7 In the Realm of labor PAGE S Legends of the Christmas Tree The Federation Will Lobby Complaints Against Officer Hanley PAGE 9 Minneapolis Grand Jury Work An Interview With llnney Holdl ps In Flour City Miiccii the Martyr PAGE 10 Carlisle IS Wisconsin S SixtyFive Rinks at Portage PAGE 11 Among the Wlifst Players In St Paul Secret Societies PAGE 12 The Birth of Jesus In the World of Music PAGE 13 Christinas IBOG Illustration PAGE 14 Books of the Hour Today at the Churches PAGE 15 Business Mans Announcement PAGE 10 Suburban Social News PAGE 17 6oclnl Xevfs of St Paul A"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-07-10T21:05:42.148Z",
+  "group": [
+    "ndnp/mnhi",
+    "minnesota-historical-society-saint-paul-mn-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn90059523/1896-12-20/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_iona_ver01:data:sn90059523:00206536950:1896122001:0539/full/pct:3.125/0/default.jpg#h=295&w=214",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_iona_ver01:data:sn90059523:00206536950:1896122001:0539/full/pct:6.25/0/default.jpg#h=591&w=428",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_iona_ver01:data:sn90059523:00206536950:1896122001:0539/full/pct:12.5/0/default.jpg#h=1183&w=856",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mnhi/batch_mnhi_iona_ver01/data/sn90059523/00206536950/1896122001/0539.xml&format=alto_xml"
+  ],
+  "index": 132,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ramsey",
+    "saint paul",
+    "united states",
+    "minnesota"
+  ],
+  "location_city": [
+    "saint paul"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "ramsey"
+  ],
+  "location_state": [
+    "minnesota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0",
+    "2",
+    "3",
+    "sn90059523",
+    "9",
+    "1",
+    "0000000001",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn90059523"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "6",
+    "5",
+    "3",
+    "6",
+    "9",
+    "5",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Saint Paul daily globe",
+    "St. Paul globe"
+  ],
+  "page_id": "sn90059523-1896-12-20-ed-1-0539",
+  "partof": [
+    "chronicling america",
+    "the saint paul globe (st. paul, minn.) 1896-1905",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the saint paul globe (st. paul, minn.) 1896-1905"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn90059523/1896-12-20/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn90059523/1896-12-20/ed-1/"
+  ],
+  "shelf_id": "01",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "saint paul",
+    "minnesota",
+    "ramsey",
+    "saint paul (minn.)",
+    "united states"
+  ],
+  "timestamp": "2025-07-11T03:41:53.808Z",
+  "title": "Image 1 of The Saint Paul globe (St. Paul, Minn.), December 20, 1896",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn90059523/1896-12-20/ed-1/?sp=1&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmnhi%2Fbatch_mnhi_iona_ver01%2Fdata%2Fsn90059523%2F00206536950%2F1896122001%2F0539.xml&q=cuba&relevant_snippet=1"
+}

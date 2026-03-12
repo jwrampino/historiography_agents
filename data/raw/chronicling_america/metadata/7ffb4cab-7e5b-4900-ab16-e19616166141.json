@@ -1,0 +1,167 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86090862/1963-05-17/ed-1/?sp=4"
+  ],
+  "batch": [
+    "az_anthillgarnet_ver04"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/arizona/",
+    "2/united states/arizona/maricopa/",
+    "3/united states/arizona/maricopa/phoenix/"
+  ],
+  "contributor": [
+    "arizona state library, archives and public records; phoenix, az"
+  ],
+  "date": "1963-05-17",
+  "dates": [
+    "1963-05-17"
+  ],
+  "description": [
+    ""
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-04-06T23:25:30.672Z",
+  "group": [
+    "ndnp/az",
+    "arizona-state-university-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86090862/1963-05-17/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_anthillgarnet_ver04:data:sn86090862:00517019367:1963051701:0120/full/pct:6.25/0/default.jpg#h=512&w=373",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_anthillgarnet_ver04:data:sn86090862:00517019367:1963051701:0120/full/pct:12.5/0/default.jpg#h=1025&w=747",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/az/batch_az_anthillgarnet_ver04/data/sn86090862/00517019367/1963051701/0120.xml&format=alto_xml"
+  ],
+  "index": 4,
+  "language": [
+    "spanish"
+  ],
+  "location": [
+    "united states",
+    "phoenix",
+    "maricopa",
+    "newspapers",
+    "arizona"
+  ],
+  "location_city": [
+    "phoenix"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "maricopa"
+  ],
+  "location_state": [
+    "arizona"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "5",
+    "9",
+    "6",
+    "7",
+    "0000000004",
+    "3",
+    "sn86090862",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86090862"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "0",
+    "1",
+    "9",
+    "3",
+    "6",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86090862-1963-05-17-ed-1-0120",
+  "partof": [
+    "el sol (phoenix, ariz.) 1939-1981",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "el sol (phoenix, ariz.) 1939-1981"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86090862/1963-05-17/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86090862/1963-05-17/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "phoenix",
+    "mexican",
+    "hispanic americans",
+    "mexican americans",
+    "phoenix (ariz.)",
+    "maricopa",
+    "newspapers",
+    "latin american",
+    "arizona",
+    "mexicans"
+  ],
+  "subject_ethnicity": [
+    "latin american",
+    "mexican"
+  ],
+  "timestamp": "2024-04-06T23:56:37.359Z",
+  "title": "Image 4 of El sol (Phoenix, Ariz.), May 17, 1963",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86090862/1963-05-17/ed-1/?sp=4&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Faz%2Fbatch_az_anthillgarnet_ver04%2Fdata%2Fsn86090862%2F00517019367%2F1963051701%2F0120.xml&q=cuba&relevant_snippet=1"
+}

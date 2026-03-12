@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85034082/1892-07-14/ed-1/?sp=2"
+  ],
+  "batch": [
+    "gu_drteeth_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/georgia/",
+    "2/united states/georgia/cobb/",
+    "3/united states/georgia/cobb/marietta/"
+  ],
+  "contributor": [
+    "digital library of georgia, a project of galileo located at the university of georgia libraries"
+  ],
+  "date": "1892-07-14",
+  "dates": [
+    "1892-07-14"
+  ],
+  "description": [
+    "g l The Rlarietta Journal ee e e ESTABLISHED IN 1866 Official Journal of City and County WS N NEAL 1 A MASSEY Editors and Proprietors SININININS NS SIS NNMVMMNWWW Egtered at the Post Oifice Marietta s as Sec ond Class Matter TERMS OF SUBSCRIPTION Due Year gL el 8w iie S Six Months o 75 Four Monihs o e e 80 Paver sant out of the County Ibcts Postage Subseription Strictly in Advance ADVERTISING RATES ror each square of teu liues or less for the first insertio One Dollar and for each subsequent iu sertion o cents Reduction wade by contract for longer time Local Notices 10 cents per line for each inseryion All Obituary notices tributesot respect over ix lines charged for All communications ip t2nded to promo the annw or political ends or interests of indiriduals or corpurations will be coarged as advertisewents The money for advertisiug considered dne after first iusertion 2Ldvertising Agentsare putor voict alouly metal cuts will be used f MARIETTA GA THURSDAY MCRNING JULY 141892 A man finds his warmest welcome at the place where he spends the most money Judge Speer on a petition of stockbolders amounting 1000000 appointed H M Comer"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-05-22T12:56:00.155Z",
+  "group": [
+    "ndnp/gu",
+    "digital-library-of-georgia-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85034082/1892-07-14/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177313:1892071401:0082/full/pct:3.125/0/default.jpg#h=314&w=219",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177313:1892071401:0082/full/pct:6.25/0/default.jpg#h=629&w=438",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/gu/batch_gu_drteeth_ver01/data/sn85034082/00517177313/1892071401/0082.xml&format=alto_xml"
+  ],
+  "index": 9,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "paulding county",
+    "cobb county",
+    "cobb",
+    "united states",
+    "pickens county",
+    "georgia",
+    "marietta",
+    "cherokee county"
+  ],
+  "location_city": [
+    "marietta"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cobb"
+  ],
+  "location_state": [
+    "georgia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn85034082",
+    "3",
+    "5",
+    "1",
+    "7",
+    "0000000002"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85034082"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "7",
+    "3",
+    "1",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85034082-1892-07-14-ed-1-0082",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the marietta journal (marietta, georgia;marietta, ga.) 1866-1909"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the marietta journal (marietta, georgia;marietta, ga.) 1866-1909"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85034082/1892-07-14/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85034082/1892-07-14/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "cobb county",
+    "cobb",
+    "pickens county (ga.)",
+    "united states",
+    "georgia",
+    "newspapers",
+    "marietta",
+    "cobb county (ga.)",
+    "cherokee county (ga.)",
+    "paulding county (ga.)",
+    "marietta (ga.)"
+  ],
+  "timestamp": "2024-05-22T19:26:25.558Z",
+  "title": "Image 2 of The Marietta journal (Marietta, Georgia;Marietta, Ga.), July 14, 1892",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85034082/1892-07-14/ed-1/?sp=2&q=great+depressiom",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fgu%2Fbatch_gu_drteeth_ver01%2Fdata%2Fsn85034082%2F00517177313%2F1892071401%2F0082.xml&q=great+depressiom&relevant_snippet=1"
+}

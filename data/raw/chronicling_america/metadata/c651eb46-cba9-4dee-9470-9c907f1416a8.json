@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83016244/1963-09-09/ed-1/?sp=15"
+  ],
+  "batch": [
+    "fu_freeport_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/florida/",
+    "2/united states/florida/monroe/",
+    "3/united states/florida/monroe/key west/"
+  ],
+  "contributor": [
+    "university of florida"
+  ],
+  "date": "1963-09-09",
+  "dates": [
+    "1963-09-09"
+  ],
+  "description": [
+    "Deeds Show 423200 Realty Deals Business activity soared to a smashing 1423200 in real estate transactions in the county at the close of the first week in Septem ber according to the value of deeds filed in the clerks office One deal involved numerous tracts and acres on Sugarloaf Key which were purchased from the Alico Land Development Corp by the Florida Keys Land Co head ed by Henry and C E Jackson for a neat 234000 The weeks turnover was far past the same week last year when business held at a calm 297 000 September hi IM2 rolled up 11525M0 in property deals and was regarded a good month in the face of a mild season This season looked sharper to real estate business heads in the country and might be depended on for a significant gain over last year The complete list of deeds as recorded with Earl R Adams county elerk and hie staff are as follows Richard S OBrien to Eugene D Smith property in Key West 10400 Ernest M Stant to Montgomery Atwater property in Upper Mate cumbe Key OOOO Ardith S Wolfe to Robert L Haley property in Summerland Key lOOOO Seaside Properties"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2026-01-27T17:01:24.223Z",
+  "group": [
+    "ndnp/fu",
+    "university-of-florida-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83016244/1963-09-09/ed-1/?sp=15",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_freeport_ver01:data:sn83016244:00517170033:1963090901:0107/full/pct:3.125/0/default.jpg#h=302&w=209",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_freeport_ver01:data:sn83016244:00517170033:1963090901:0107/full/pct:6.25/0/default.jpg#h=605&w=418",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/fu/batch_fu_freeport_ver01/data/sn83016244/00517170033/1963090901/0107.xml&format=alto_xml"
+  ],
+  "index": 83,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "monroe",
+    "monroe county",
+    "key west",
+    "florida",
+    "united states"
+  ],
+  "location_city": [
+    "key west"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "monroe"
+  ],
+  "location_state": [
+    "florida"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0",
+    "0000000015",
+    "sn83016244",
+    "7",
+    "1",
+    "3"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83016244"
+  ],
+  "number_page": [
+    "0000000015"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "0",
+    "0",
+    "3",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83016244-1963-09-09-ed-1-0107",
+  "partof": [
+    "the key west citizen (key west, fla.) 1879-current",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the key west citizen (key west, fla.) 1879-current"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83016244/1963-09-09/ed-1/?sp=15"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83016244/1963-09-09/ed-1/"
+  ],
+  "shelf_id": "15",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "key west (fla.)",
+    "monroe",
+    "monroe county",
+    "monroe county (fla.)",
+    "key west",
+    "florida",
+    "united states"
+  ],
+  "timestamp": "2026-01-28T05:32:14.504Z",
+  "title": "Image 15 of The Key West citizen (Key West, Fla.), September 9, 1963",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83016244/1963-09-09/ed-1/?sp=15&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Ffu%2Fbatch_fu_freeport_ver01%2Fdata%2Fsn83016244%2F00517170033%2F1963090901%2F0107.xml&q=computers&relevant_snippet=1"
+}

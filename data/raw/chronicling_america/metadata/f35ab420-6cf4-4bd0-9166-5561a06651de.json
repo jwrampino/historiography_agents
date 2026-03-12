@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn98068396/1962-10-09/ed-1/?sp=7"
+  ],
+  "batch": [
+    "vi_galshar_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/virginia/",
+    "2/united states/virginia/prince edward/",
+    "3/united states/virginia/prince edward/farmville/"
+  ],
+  "contributor": [
+    "library of virginia; richmond, va"
+  ],
+  "date": "1962-10-09",
+  "dates": [
+    "1962-10-09"
+  ],
+  "description": [
+    "At Cascade to spend the week end with his brother and sister inlaw Mr and Mrs Charles K Soyars were the Rev and Mrs H Norman Soyars They all attended the Soyars family reunion in Danville during their visit Mr and Mrs Norman Gresh ham and children spent the week end with her parents Mr and Mrs T E Adams in Nokesville Alex Holmes a student at the University of Virginia was the week end guest of his parents Mr and Mrs A B Holmes W D Jones and son P N Jones are visiting their son and brother Major W D Jones and Mrs Jones at McGuire Air Force Base Beverly N J The Rev and Mrs Sam Har wood of Victoria visited his brother and sisterinlaw Mr and Mrs Ernest Harwood on Sunday Miss Kay Whitfield of Wil liam and Mary College was here for the week end with her parents Mr and Mrs J H Whitfield Mr and Mrs J Meredith Robeson spent the week end at their cottage at Kill Devil Hill N C Community Chest i Continued from page 1 district lines with the following subleaders County Districts Farmville District Mrs Grace Gordon chairman and"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-02-06T12:40:14.382Z",
+  "group": [
+    "ndnp/vi",
+    "library-of-virginia-richmond-va-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn98068396/1962-10-09/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_galshar_ver01:data:sn98068396:00393348215:1962100901:0440/full/pct:6.25/0/default.jpg#h=423&w=301",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_galshar_ver01:data:sn98068396:00393348215:1962100901:0440/full/pct:12.5/0/default.jpg#h=847&w=602",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/vi/batch_vi_galshar_ver01/data/sn98068396/00393348215/1962100901/0440.xml&format=alto_xml"
+  ],
+  "index": 128,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "virginia",
+    "prince edward",
+    "farmville"
+  ],
+  "location_city": [
+    "farmville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "prince edward"
+  ],
+  "location_state": [
+    "virginia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn98068396",
+    "9",
+    "3",
+    "0000000007",
+    "4",
+    "2",
+    "1",
+    "5",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn98068396"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "9",
+    "3",
+    "3",
+    "4",
+    "8",
+    "2",
+    "1",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn98068396-1962-10-09-ed-1-0440",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the farmville herald (farmville, va.) 1957-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the farmville herald (farmville, va.) 1957-current"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn98068396/1962-10-09/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn98068396/1962-10-09/ed-1/"
+  ],
+  "shelf_id": "07",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "farmville",
+    "farmville (va.)",
+    "prince edward",
+    "virginia"
+  ],
+  "timestamp": "2024-02-07T07:18:59.617Z",
+  "title": "Image 7 of The Farmville herald (Farmville, Va.), October 9, 1962",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn98068396/1962-10-09/ed-1/?sp=7&q=vietnam",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fvi%2Fbatch_vi_galshar_ver01%2Fdata%2Fsn98068396%2F00393348215%2F1962100901%2F0440.xml&q=vietnam&relevant_snippet=1"
+}

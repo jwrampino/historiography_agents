@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn93067846/1917-09-12/ed-1/?sp=5"
+  ],
+  "batch": [
+    "scu_felicitylane_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/south carolina/",
+    "2/united states/south carolina/sumter/",
+    "3/united states/south carolina/sumter/sumter/"
+  ],
+  "contributor": [
+    "university of south carolina; columbia, sc"
+  ],
+  "date": "1917-09-12",
+  "dates": [
+    "1917-09-12"
+  ],
+  "description": [
+    "ntOUB BREAKERS BEATEN cistttsaMinsjs an Trouble Be 04 Begin Chattanooga Sept 7Street car operativee left their oars In a body promptly at oclock tonight Cars were loft standing at points where they happened to bo at the strike hour with the exception of Market street A police order having changed plans Of Strickers to this extent Serious disorder broke out Immedi ately following the street car strike she trot car sent out with striks breakers being assailed and the men badly beaten up by sympathisers Three of the Injured strike breakers were rushed to the hospital sJWKEXN TOOL OF GERMANY jFkhd Argon tins rded by SwoedJah Minister Washington Sept 8How Swed ens legi it Ion In Argem a la acting aa Iba secret means of communication between German charg at Buenos Aires and the Berlin foreign office hi revealed In official dispatches made public by the State department These wets despatched from Bu Alres by the 8wedlsh legation aa their own official messages to the Stockholm foreign office They gave the dateu of sailing of vessels and di rections for their destruction by sub The message was obtained Count Luxburg the German at the time Among other things he recommended"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-24T14:39:46.268Z",
+  "group": [
+    "ndnp/scu",
+    "university-of-south-carolina-columbia-sc-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn93067846/1917-09-12/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_felicitylane_ver01:data:sn93067846:00294550926:1917091201:0518/full/pct:3.125/0/default.jpg#h=328&w=218",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_felicitylane_ver01:data:sn93067846:00294550926:1917091201:0518/full/pct:6.25/0/default.jpg#h=656&w=437",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/scu/batch_scu_felicitylane_ver01/data/sn93067846/00294550926/1917091201/0518.xml&format=alto_xml"
+  ],
+  "index": 54,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "sumter",
+    "south carolina",
+    "sumter county"
+  ],
+  "location_city": [
+    "sumter"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "sumter"
+  ],
+  "location_state": [
+    "south carolina"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "2",
+    "6",
+    "5",
+    "4",
+    "sn93067846",
+    "1",
+    "0000000005"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn93067846"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "4",
+    "5",
+    "5",
+    "0",
+    "9",
+    "2",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn93067846-1917-09-12-ed-1-0518",
+  "partof": [
+    "chronicling america",
+    "the watchman and southron (sumter, s.c.) 1881-1930",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the watchman and southron (sumter, s.c.) 1881-1930"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn93067846/1917-09-12/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn93067846/1917-09-12/ed-1/"
+  ],
+  "shelf_id": "5",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "sumter",
+    "south carolina",
+    "sumter (s.c.)",
+    "sumter county",
+    "united states",
+    "newspapers",
+    "sumter county (s.c.)"
+  ],
+  "timestamp": "2024-02-04T09:52:38.679Z",
+  "title": "Image 5 of The watchman and southron (Sumter, S.C.), September 12, 1917",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn93067846/1917-09-12/ed-1/?sp=5&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fscu%2Fbatch_scu_felicitylane_ver01%2Fdata%2Fsn93067846%2F00294550926%2F1917091201%2F0518.xml&q=revolution&relevant_snippet=1"
+}

@@ -1,0 +1,160 @@
+{
+  "dataControlGroup": {
+    "groupId": "ou=NREA,ou=groups",
+    "groupCd": "RMKC"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "false",
+  "digitalObjects": [
+    {
+      "objectFilename": "SamLee_001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/19/69/12006919/content/arcmedia/central-plains/kansas-city/6862011/SamLee_001.jpg",
+      "objectFileSize": 2370761,
+      "objectId": "16010903",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "SamLee_002.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/19/69/12006919/content/arcmedia/central-plains/kansas-city/6862011/SamLee_002.jpg",
+      "objectFileSize": 1601383,
+      "objectId": "16010905",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "SamLee_003.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/19/69/12006919/content/arcmedia/central-plains/kansas-city/6862011/SamLee_003.jpg",
+      "objectFileSize": 1884433,
+      "objectId": "16010906",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "SamLee_004.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/19/69/12006919/content/arcmedia/central-plains/kansas-city/6862011/SamLee_004.jpg",
+      "objectFileSize": 1883464,
+      "objectId": "16010907",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "SamLee_005.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/19/69/12006919/content/arcmedia/central-plains/kansas-city/6862011/SamLee_005.jpg",
+      "objectFileSize": 1752798,
+      "objectId": "16010908",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "SamLee_006.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/19/69/12006919/content/arcmedia/central-plains/kansas-city/6862011/SamLee_006.jpg",
+      "objectFileSize": 2158779,
+      "objectId": "16010909",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "SamLee_007.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/19/69/12006919/content/arcmedia/central-plains/kansas-city/6862011/SamLee_007.jpg",
+      "objectFileSize": 1802953,
+      "objectId": "16010910",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "SamLee_008.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/19/69/12006919/content/arcmedia/central-plains/kansas-city/6862011/SamLee_008.jpg",
+      "objectFileSize": 1456326,
+      "objectId": "16010911",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "SamLee.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/19/69/12006919/content/arcmedia/central-plains/kansas-city/6862011/SamLee.pdf",
+      "objectFileSize": 0,
+      "objectId": "16010904",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1685,
+        "logicalDate": "1685-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 21,
+      "inclusiveEndDate": {
+        "year": 2009,
+        "logicalDate": "2009-12-31"
+      },
+      "title": "Records of District Courts of the United States",
+      "naId": 350
+    },
+    {
+      "inclusiveStartDate": {
+        "month": 11,
+        "year": 1900,
+        "day": 14,
+        "logicalDate": "1900-11-14"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "U.S. District Court for the Eastern (St. Louis) Division of the Eastern District of Missouri. 2/28/1887-",
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 2,
+            "year": 1887,
+            "day": 28,
+            "logicalDate": "1887-02-28"
+          },
+          "naId": 10459091
+        }
+      ],
+      "inclusiveEndDate": {
+        "month": 5,
+        "year": 1925,
+        "day": 1,
+        "logicalDate": "1925-05-01"
+      },
+      "title": "Chinese Exclusion Case Files",
+      "naId": 6862011
+    }
+  ],
+  "title": "Chinese Exclusion Case File for Lee Sam",
+  "naId": 12006919,
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Kansas City",
+          "phone": "816-268-8000",
+          "address1": "400 West Pershing Road",
+          "postalCode": "64108",
+          "name": "National Archives at Kansas City",
+          "state": "MO",
+          "fax": "816-268-8038",
+          "email": "kansascity.archives@nara.gov",
+          "mailCode": "RM-KC"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  }
+}

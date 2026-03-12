@@ -1,0 +1,165 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86089568/1936-02-16/ed-1/?sp=16"
+  ],
+  "batch": [
+    "txdn_bluebird_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/texas/",
+    "2/united states/texas/webb/",
+    "3/united states/texas/webb/laredo/"
+  ],
+  "contributor": [
+    "university of north texas; denton, tx"
+  ],
+  "date": "1936-02-16",
+  "dates": [
+    "1936-02-16"
+  ],
+  "description": [
+    "Looking of 1936 Campaignrtie i Lincoln was accused of wasting money Z breaking promises and trying to evade k the Constitution but he won a second 1 term because his foes could not unite and a historian traces a parallel in l warning to F D Rs opponents today E By Henry W Lawrence Professor of History Connecticut College UST 36 years after the beginning of the 20th century Franklin Roosevelt a crisispresident is seeking reelection Just 36 years bPefore that century began Abraham Lincoln another crisispresident sought reelection too Lincoln won thanks largely to some Jucky breaks It was a close call Rowever and this campaign of 1864 may throw some light on the prospects for 1936 It is interesting to see for instance how Lincoln might have been defeated by a little smarter manage ment on the part of his opponents if his lucky breaks had not arrived just in time It was less than three months before election day Aug 23 1864 to be ex act that Lincoln himself wrote down in a very secret memorandum his own pessimistic conclusions thus This morning as for some days past it seems exceedingly probable that this adminis tration will"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-06-05T16:45:51.874Z",
+  "group": [
+    "ndnp/txdn",
+    "university-of-north-texas-denton-tx-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86089568/1936-02-16/ed-1/?sp=16",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bluebird_ver02:data:sn86089568:00517176539:1936021601:0456/full/pct:12.5/0/default.jpg#h=479&w=335",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bluebird_ver02:data:sn86089568:00517176539:1936021601:0456/full/pct:25/0/default.jpg#h=959&w=670",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/txdn/batch_txdn_bluebird_ver02/data/sn86089568/00517176539/1936021601/0456.xml&format=alto_xml"
+  ],
+  "index": 2,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "webb",
+    "laredo",
+    "texas"
+  ],
+  "location_city": [
+    "laredo"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "webb"
+  ],
+  "location_state": [
+    "texas"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "9",
+    "5",
+    "6",
+    "1",
+    "7",
+    "0000000016",
+    "sn86089568"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86089568"
+  ],
+  "number_page": [
+    "0000000016"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "6",
+    "5",
+    "3",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Tiempo de Laredo"
+  ],
+  "page_id": "sn86089568-1936-02-16-ed-1-0456",
+  "partof": [
+    "chronicling america",
+    "the laredo times (laredo, tex.) 192?-1982",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the laredo times (laredo, tex.) 192?-1982"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86089568/1936-02-16/ed-1/?sp=16"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86089568/1936-02-16/ed-1/"
+  ],
+  "shelf_id": "16",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "texas",
+    "webb",
+    "united states",
+    "laredo (tex.)",
+    "newspapers",
+    "laredo",
+    "mexican",
+    "mexican americans"
+  ],
+  "subject_ethnicity": [
+    "mexican"
+  ],
+  "timestamp": "2025-06-09T21:45:23.330Z",
+  "title": "Image 16 of The Laredo times (Laredo, Tex.), February 16, 1936, (HOME EDITION)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86089568/1936-02-16/ed-1/?sp=16&q=great+depressiom",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Ftxdn%2Fbatch_txdn_bluebird_ver02%2Fdata%2Fsn86089568%2F00517176539%2F1936021601%2F0456.xml&q=great+depressiom&relevant_snippet=1"
+}

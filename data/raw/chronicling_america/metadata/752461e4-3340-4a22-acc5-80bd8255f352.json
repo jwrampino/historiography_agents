@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86072192/1897-12-12/ed-1/?sp=8"
+  ],
+  "batch": [
+    "au_abernethy_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/alabama/",
+    "2/united states/alabama/jefferson/",
+    "3/united states/alabama/jefferson/birmingham/"
+  ],
+  "contributor": [
+    "university of alabama libraries, tuscaloosa, al"
+  ],
+  "date": "1897-12-12",
+  "dates": [
+    "1897-12-12"
+  ],
+  "description": [
+    "A LAUNCELGT OF POLITICS From the St Louis GlobeDemocrat Cassius M Clay whose recent domestic troubles have brought his name before the public but who was far better know n to an earlier generation is one cl the strangest characters who has ever ap pared in the countrys politics A1 though h never held a national office except that of minister to Russia to which he was appointed by President Lrixin he was a conspicuous political figure for nearly half a century be ginning at a time soon after he entered the Kentucky legislature in 1835 He was a delegate to several national coii ventlons was a stump speaker in many presidential canvasses and was tender ed important offices by several presi dent but refused them all except the Russian m i scion A resident of a slave state Mr Clay was an ardent and outspoken abolition ist alt a time when abolitionism was un popular in all the freestates and when its advocacy was attended wlh personal danger in most of them At one time and another In hi twothirds of a cen tury of participation in politics he has belonged lib ad the great political par tiesNational Republican"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2022-09-26T01:30:51.333Z",
+  "group": [
+    "ndnp/au",
+    "university-of-alabama-tuscaloosa-al-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86072192/1897-12-12/ed-1/?sp=8",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn86072192:00340583267:1897121201:0591/full/pct:6.25/0/default.jpg#h=418&w=295",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn86072192:00340583267:1897121201:0591/full/pct:12.5/0/default.jpg#h=836&w=591",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/au/batch_au_abernethy_ver01/data/sn86072192/00340583267/1897121201/0591.xml&format=alto_xml"
+  ],
+  "index": 145,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "birmingham",
+    "jefferson",
+    "alabama",
+    "united states"
+  ],
+  "location_city": [
+    "birmingham"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "jefferson"
+  ],
+  "location_state": [
+    "alabama"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "1",
+    "8",
+    "0",
+    "2",
+    "sn86072192",
+    "7",
+    "0000000008",
+    "3",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86072192"
+  ],
+  "number_page": [
+    "0000000008"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "3",
+    "2",
+    "6",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86072192-1897-12-12-ed-1-0591",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the age-herald (birmingham, ala.) 1897-1902"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the age-herald (birmingham, ala.) 1897-1902"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86072192/1897-12-12/ed-1/?sp=8"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86072192/1897-12-12/ed-1/"
+  ],
+  "shelf_id": "08",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "birmingham",
+    "jefferson",
+    "alabama",
+    "birmingham (ala.)",
+    "united states"
+  ],
+  "timestamp": "2022-11-22T15:29:07.717Z",
+  "title": "Image 8 of The age-herald (Birmingham, Ala.), December 12, 1897",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86072192/1897-12-12/ed-1/?sp=8&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fau%2Fbatch_au_abernethy_ver01%2Fdata%2Fsn86072192%2F00340583267%2F1897121201%2F0591.xml&q=slavery&relevant_snippet=1"
+}

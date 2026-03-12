@@ -1,0 +1,140 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83016025/1901-07-10/ed-1/?sp=4"
+  ],
+  "batch": [
+    "me_iceboro_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/maine/",
+    "2/united states/maine/cumberland/",
+    "3/united states/maine/cumberland/portland/"
+  ],
+  "contributor": [
+    "maine state library"
+  ],
+  "date": "1901-07-10",
+  "dates": [
+    "1901-07-10"
+  ],
+  "description": [
+    "THE PRESS WEDNESDAY JULY 10 1901 TK11MS i DAILY PRESS Bytbeyeai 6 in advance or 7 at the end of the year By the month 50 cents The DAILY TRESS Is delivered at these rates every morning to subscribers In all parts of Portland and lu Westbrook and South Tortr Land S MAINE STATE TRESS Wecklyi By the year 1 In advance or 8125 at the end ol the year For six months CO cents for three months 23 cents Subscribers whose papers arc not delivered promptly are requested to notify the office of tho DAILY TRESS No 07 Exchange street Portland Mo Patrons of the TRESS who are leaving town temporarily may have the addresses of tlietr ppern changed as often as they may desire by notifying the office It is praotieally settled that the Vir ginia Democratic state convention will nominate Mr Montague for governor The only question that Is likely to give the convention trouble Is that of endors ing a general primary for the nomination of all state officers Including United tStates Senators That idea eets the strongest opposition from the local bosses Sheriff McFadden of Kennebec county has made proclamation that he will ex tend"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T14:09:01.974Z",
+  "group": [
+    "ndnp/me",
+    "maine-state-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83016025/1901-07-10/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_iceboro_ver01:data:sn83016025:print:1901071001:0080/full/pct:3.125/0/default.jpg#h=283&w=229",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_iceboro_ver01:data:sn83016025:print:1901071001:0080/full/pct:6.25/0/default.jpg#h=567&w=458",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_iceboro_ver01:data:sn83016025:print:1901071001:0080/full/pct:12.5/0/default.jpg#h=1134&w=916",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/me/batch_me_iceboro_ver01/data/sn83016025/print/1901071001/0080.xml&format=alto_xml"
+  ],
+  "index": 177,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "portland",
+    "united states",
+    "cumberland",
+    "maine"
+  ],
+  "location_city": [
+    "portland"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cumberland"
+  ],
+  "location_state": [
+    "maine"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "0000000004",
+    "sn83016025"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83016025"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83016025-1901-07-10-ed-1-0080",
+  "partof": [
+    "chronicling america",
+    "the portland daily press (portland, me.) 1862-1921",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the portland daily press (portland, me.) 1862-1921"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83016025/1901-07-10/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83016025/1901-07-10/ed-1/"
+  ],
+  "shelf_id": "04",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "portland (me.)",
+    "cumberland",
+    "portland",
+    "maine",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-07-06T10:11:34.065Z",
+  "title": "Image 4 of The Portland daily press (Portland, Me.), July 10, 1901",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83016025/1901-07-10/ed-1/?sp=4&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fme%2Fbatch_me_iceboro_ver01%2Fdata%2Fsn83016025%2Fprint%2F1901071001%2F0080.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

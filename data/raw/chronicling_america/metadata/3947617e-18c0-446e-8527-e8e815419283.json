@@ -1,0 +1,152 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82016181/1935-01-26/ed-1/?sp=5"
+  ],
+  "batch": [
+    "dlc_arbus_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1935-01-26",
+  "dates": [
+    "1935-01-26"
+  ],
+  "description": [
+    "OnceRicb Mother and Son Slay 2 Relief Workers Crazed Man Kills Parent and Self After Fatally Wounding Two By United Press CHICAGOThree murders a sui cide and wounding of two persons were scored today against the eco nomic depression which made a mad man of a once promising youth and a killer of his cultured mother Henry Arden 27yearold paralytic graduate of the University of Chicago shot to death a relief investigator in his home then raided relief head quarters with his mother in revenge for fancied neglect His victims Mrs R W Arden 52 his mother Miss Alice Irwin 23 relief commis sion visitor Miss Caroline Wallace 45 relief su pervisor and former World War nurse TWO OTHERS WOUNDED Two other relief commission em ployes were wounded in the sham bles at the Dearborn and Chicago avenue relief station where the de moniac killer and his mother fired wildly side by side into a mass of more than 100 helpless office work ers The orgy of bloodshed started late yesterday afternoon in the Ardens home a tworoom flat Arden and his mother a comely grayhaired woman who had known wealth had twice been on relief rolls since the young"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-04-13T06:48:55.544Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82016181/1935-01-26/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arbus_ver02:data:sn82016181:00516996407:1935012601:0733/full/pct:6.25/0/default.jpg#h=336&w=236",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arbus_ver02:data:sn82016181:00516996407:1935012601:0733/full/pct:12.5/0/default.jpg#h=673&w=472",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_arbus_ver02/data/sn82016181/00516996407/1935012601/0733.xml&format=alto_xml"
+  ],
+  "index": 193,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "0000000005",
+    "sn82016181",
+    "5",
+    "6",
+    "9",
+    "7",
+    "4",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82016181"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "6",
+    "4",
+    "0",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82016181-1935-01-26-ed-1-0733",
+  "partof": [
+    "serial and government publications division",
+    "the washington daily news (washington, d.c.) 1921-1972",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington daily news (washington, d.c.) 1921-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82016181/1935-01-26/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82016181/1935-01-26/ed-1/"
+  ],
+  "shelf_id": "05",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2025-04-13T09:21:29.358Z",
+  "title": "Image 5 of The Washington daily news (Washington, D.C.), January 26, 1935",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82016181/1935-01-26/ed-1/?sp=5&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_arbus_ver02%2Fdata%2Fsn82016181%2F00516996407%2F1935012601%2F0733.xml&q=child+labor&relevant_snippet=1"
+}

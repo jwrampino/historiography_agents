@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn99068076/1898-05-07/ed-1/?sp=2"
+  ],
+  "batch": [
+    "sdhi_falcon_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/south dakota/",
+    "2/united states/south dakota/brule/",
+    "3/united states/south dakota/brule/kimball/"
+  ],
+  "contributor": [
+    "south dakota state historical society \u2013 state archives"
+  ],
+  "date": "1898-05-07",
+  "dates": [
+    "1898-05-07"
+  ],
+  "description": [
+    "mmt ill 11 sfe iff ir SjI lis IPS liiS ffg J P Sft W SP mi is WMm tin mm SNp afcs Jlwi 11 WM KIMBALL GftAPHlC C B TINAS Publisher K1MBALI SOUTH DAKOTA _ Tbc greatnininifactiirer of perfumes a Grasso M Louis ltcmre died rcccnt Jy ife wns an active clcvur and in peiiiousFrenchman All his perfumes werty extracted from flowers lie com bined the sccnts of six orseven in end less varieties They were to him as a perfumer what the keyboard of a to Utibenstein lut he did not catch up the orientals in his distilla tion of roses He was very proud of his jaSSbmine extract a few drops of which will fill a bath with a clinging subtle perfume M lloure made a large fortune with his perfumes His best Customers were American ladies vliuf he saw Hie time coming when Flor ida would be the great manufacturing country of flower perfumes WkianoUs An idea of the expense of monitor firing may be gathered from the state ment that every shot from the Mian touomoh will cost Uncle Sam 250 It takes SOU pounds of powder to project the mass of steel weighing 500"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-06-25T23:47:12.330Z",
+  "group": [
+    "ndnp/sdhi",
+    "south-dakota-state-historical-society-state-archives-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn99068076/1898-05-07/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068076:00415623380:1898050701:0107/full/pct:6.25/0/default.jpg#h=451&w=352",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068076:00415623380:1898050701:0107/full/pct:12.5/0/default.jpg#h=903&w=705",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/sdhi/batch_sdhi_falcon_ver01/data/sn99068076/00415623380/1898050701/0107.xml&format=alto_xml"
+  ],
+  "index": 113,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "kimball",
+    "united states",
+    "dakota territory",
+    "south dakota",
+    "brule county",
+    "brule"
+  ],
+  "location_city": [
+    "kimball"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "brule"
+  ],
+  "location_state": [
+    "south dakota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn99068076",
+    "3",
+    "5",
+    "4",
+    "1",
+    "6",
+    "2",
+    "0000000002",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn99068076"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "2",
+    "3",
+    "3",
+    "8",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn99068076-1898-05-07-ed-1-0107",
+  "partof": [
+    "the kimball graphic (kimball, brule county, dakota [s.d.]) 1883-1905",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the kimball graphic (kimball, brule county, dakota [s.d.]) 1883-1905"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn99068076/1898-05-07/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn99068076/1898-05-07/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "kimball",
+    "united states",
+    "dakota territory",
+    "south dakota",
+    "kimball (s.d.)",
+    "history",
+    "brule county (s.d.)",
+    "newspapers",
+    "brule county",
+    "brule"
+  ],
+  "timestamp": "2023-06-26T06:33:57.903Z",
+  "title": "Image 2 of The Kimball graphic (Kimball, Brule County, Dakota [S.D.]), May 7, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn99068076/1898-05-07/ed-1/?sp=2&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fsdhi%2Fbatch_sdhi_falcon_ver01%2Fdata%2Fsn99068076%2F00415623380%2F1898050701%2F0107.xml&q=spanish&relevant_snippet=1"
+}

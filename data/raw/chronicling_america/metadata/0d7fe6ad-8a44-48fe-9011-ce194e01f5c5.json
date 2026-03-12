@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86090862/1961-04-14/ed-1/?sp=2"
+  ],
+  "batch": [
+    "az_foolsfortynine_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/arizona/",
+    "2/united states/arizona/maricopa/",
+    "3/united states/arizona/maricopa/phoenix/"
+  ],
+  "contributor": [
+    "arizona state library, archives and public records; phoenix, az"
+  ],
+  "date": "1961-04-14",
+  "dates": [
+    "1961-04-14"
+  ],
+  "description": [
+    ""
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-09T14:49:35.625Z",
+  "group": [
+    "ndnp/az",
+    "arizona-state-university-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86090862/1961-04-14/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_foolsfortynine_ver01:data:sn86090862:00414217242:1961041401:0272/full/pct:6.25/0/default.jpg#h=511&w=364",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_foolsfortynine_ver01:data:sn86090862:00414217242:1961041401:0272/full/pct:12.5/0/default.jpg#h=1022&w=729",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/az/batch_az_foolsfortynine_ver01/data/sn86090862/00414217242/1961041401/0272.xml&format=alto_xml"
+  ],
+  "index": 94,
+  "language": [
+    "spanish"
+  ],
+  "location": [
+    "newspapers",
+    "phoenix",
+    "maricopa",
+    "arizona",
+    "united states"
+  ],
+  "location_city": [
+    "phoenix"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "maricopa"
+  ],
+  "location_state": [
+    "arizona"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn86090862",
+    "0000000002",
+    "2",
+    "0",
+    "7",
+    "1",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86090862"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "2",
+    "1",
+    "7",
+    "2",
+    "4",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86090862-1961-04-14-ed-1-0272",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "el sol (phoenix, ariz.) 1939-1981"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "el sol (phoenix, ariz.) 1939-1981"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86090862/1961-04-14/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86090862/1961-04-14/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "mexican americans",
+    "phoenix",
+    "mexicans",
+    "maricopa",
+    "arizona",
+    "hispanic americans",
+    "phoenix (ariz.)",
+    "latin american",
+    "united states"
+  ],
+  "subject_ethnicity": [
+    "latin american"
+  ],
+  "timestamp": "2024-01-10T00:27:45.937Z",
+  "title": "Image 2 of El sol (Phoenix, Ariz.), April 14, 1961",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86090862/1961-04-14/ed-1/?sp=2&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Faz%2Fbatch_az_foolsfortynine_ver01%2Fdata%2Fsn86090862%2F00414217242%2F1961041401%2F0272.xml&q=cuba&relevant_snippet=1"
+}

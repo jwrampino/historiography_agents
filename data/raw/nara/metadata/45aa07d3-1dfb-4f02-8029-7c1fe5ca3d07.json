@@ -1,0 +1,165 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "[Select views:]  HUD historical highlights. [Secretaries, Presidents, events]",
+  "coverageEndDate": {
+    "month": 10,
+    "year": 2009,
+    "day": 13,
+    "logicalDate": "2009-10-13"
+  },
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-0561",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Still Pictures",
+          "state": "MD",
+          "fax": "301-837-3621",
+          "email": "stillpix@nara.gov",
+          "mailCode": "RRSS"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Magnetic Media"
+          ],
+          "specificMediaType": "Magnetic Disk"
+        }
+      ],
+      "copyStatus": "Preservation"
+    },
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-0561",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Still Pictures",
+          "state": "MD",
+          "fax": "301-837-3621",
+          "email": "stillpix@nara.gov",
+          "mailCode": "RRSS"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Optical Disks"
+          ],
+          "specificMediaType": "Optical Disk: Compact Disk"
+        }
+      ],
+      "copyStatus": "Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "coverageStartDate": {
+    "month": 2,
+    "year": 1961,
+    "day": 11,
+    "logicalDate": "1961-02-11"
+  },
+  "dataControlGroup": {
+    "groupName": "National Archives at College Park \u2013 Still Pictures",
+    "groupId": "RRAS",
+    "groupCd": "RRAS"
+  },
+  "generalRecordsTypes": [
+    "Photographs and other Graphic Materials"
+  ],
+  "localIdentifier": "207-DP-10017_nm_newark_riots8_070712_ssh.jpg",
+  "digitalObjects": [
+    {
+      "objectFilename": "207-DP-10017_nm_newark_riots8_070712_ssh.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/72/707/24070772/content/stillpix/207-dp/207-DP-10017/207-DP-10017_nm_newark_riots8_070712_ssh.jpg",
+      "objectFileSize": 94891,
+      "objectId": "24070773",
+      "objectType": "Image (JPG)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1931,
+        "logicalDate": "1931-01-01"
+      },
+      "distance": 3,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 207,
+      "inclusiveEndDate": {
+        "year": 2003,
+        "logicalDate": "2003-12-31"
+      },
+      "title": "General Records of the Department of Housing and Urban Development",
+      "naId": 534
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 2001,
+        "logicalDate": "2001-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "Department of Housing and Urban Development. Office of the Chief Human Capital Officer. Office of Broadcasting Operations. Photo Section. (ca. 2011 - ca. 07/18/2014)",
+          "abolishDate": {
+            "month": 7,
+            "year": 2014,
+            "day": 18,
+            "logicalDate": "2014-07-18"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 2011,
+            "logicalDate": "2011-01-01"
+          },
+          "naId": 22740486
+        },
+        {
+          "creatorType": "Predecessor",
+          "heading": "Department of Housing and Urban Development. Office of the Assistant Secretary for Administration. Office of the Deputy Assistant Secretary for Budget and Management Support. Office of Administrative and Management Services. Multimedia Division. Publications Branch. Multimedia Library, (2005 - 2010)",
+          "abolishDate": {
+            "year": 2010,
+            "logicalDate": "2010-12-31"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 2005,
+            "logicalDate": "2005-01-01"
+          },
+          "naId": 10536688
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 2014,
+        "logicalDate": "2014-12-31"
+      },
+      "title": "Photographs Documenting the Secretary's Headquarters and Field Activities, and Agency Officials and Events",
+      "naId": 6002366
+    },
+    {
+      "distance": 1,
+      "levelOfDescription": "fileUnit",
+      "title": "[Select views:]  HUD historical highlights. [Secretaries, Presidents, events]",
+      "naId": 23943297
+    }
+  ],
+  "scopeAndContentNote": "Photographer: HUD Staff; White House\n\nPhoto Creation Date: 2/11/1961 - 10/13/2009",
+  "naId": 24070772
+}

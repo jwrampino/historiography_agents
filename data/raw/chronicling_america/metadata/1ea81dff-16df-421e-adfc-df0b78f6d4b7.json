@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn78000395/1905-07-08/ed-1/?sp=1"
+  ],
+  "batch": [
+    "mnhi_isuzu_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/minnesota/",
+    "2/united states/minnesota/saint louis/",
+    "3/united states/minnesota/saint louis/duluth/"
+  ],
+  "contributor": [
+    "minnesota historical society; saint paul, mn"
+  ],
+  "date": "1905-07-08",
+  "dates": [
+    "1905-07-08"
+  ],
+  "description": [
+    "Vol11 No 10 OH CHILD MIR CURSE Tells of Some of the Conditions Which Prevail in Modern Factories Industrial Czars of Our Own Country Infinitely Worse Than Nicholas New York July 8Dr Max Adler the eminent writer on industrial sub jects says I want to nail on the threshold of tny discourse the words of Elizabeth arrett Browning How long O cruel Station will ye trample on a childs heart said Dr Adler in beginning We have recently passed the anniver sary of the first factory law passed by the British government he contin ued When the rise of modern ma chinery brought a demand for cheap factory operatives the workhouses of England were filled with children No body owned them and nobody cared Somebody had the idea of shovelling them into the factories and children were fed to the machines as literally as in ancient idolatry they were fed to Moloch Then he said came the time of fourteen hour days for children of ten der years the time when they rotted away by the thousands British states men roused at last passed laws against this use of workhouse children but the time came when the protection was needed"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-04T17:01:44.395Z",
+  "group": [
+    "ndnp/mnhi",
+    "minnesota-historical-society-saint-paul-mn-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn78000395/1905-07-08/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_isuzu_ver01:data:sn78000395:00212472487:1905070801:0159/full/pct:3.125/0/default.jpg#h=270&w=214",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_isuzu_ver01:data:sn78000395:00212472487:1905070801:0159/full/pct:6.25/0/default.jpg#h=541&w=429",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_isuzu_ver01:data:sn78000395:00212472487:1905070801:0159/full/pct:12.5/0/default.jpg#h=1083&w=859",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mnhi/batch_mnhi_isuzu_ver01/data/sn78000395/00212472487/1905070801/0159.xml&format=alto_xml"
+  ],
+  "index": 6,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "saint louis",
+    "minnesota",
+    "duluth",
+    "saint louis county",
+    "united states"
+  ],
+  "location_city": [
+    "duluth"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "saint louis"
+  ],
+  "location_state": [
+    "minnesota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "8",
+    "0",
+    "2",
+    "7",
+    "sn78000395",
+    "1",
+    "0000000001",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn78000395"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "2",
+    "4",
+    "7",
+    "2",
+    "4",
+    "8",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn78000395-1905-07-08-ed-1-0159",
+  "partof": [
+    "chronicling america",
+    "the labor world (duluth, minn.) 1896-current",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the labor world (duluth, minn.) 1896-current"
+  ],
+  "publication_frequency": [
+    "biweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn78000395/1905-07-08/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn78000395/1905-07-08/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "saint louis county (minn.)",
+    "saint louis",
+    "labor unions",
+    "minnesota",
+    "working class",
+    "duluth (minn.)",
+    "periodicals",
+    "duluth",
+    "saint louis county",
+    "united states"
+  ],
+  "timestamp": "2024-01-05T01:41:56.457Z",
+  "title": "Image 1 of The labor world (Duluth, Minn.), July 8, 1905",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn78000395/1905-07-08/ed-1/?sp=1&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmnhi%2Fbatch_mnhi_isuzu_ver01%2Fdata%2Fsn78000395%2F00212472487%2F1905070801%2F0159.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

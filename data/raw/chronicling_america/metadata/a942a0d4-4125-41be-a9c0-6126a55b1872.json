@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87093220/1901-10-17/ed-1/?sp=1"
+  ],
+  "batch": [
+    "wa_green_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/washington/",
+    "2/united states/washington/grays harbor/",
+    "3/united states/washington/grays harbor/aberdeen/"
+  ],
+  "contributor": [
+    "washington state library; olympia, wa"
+  ],
+  "date": "1901-10-17",
+  "dates": [
+    "1901-10-17"
+  ],
+  "description": [
+    "ABERDEEN HERALD VOL XVI FULL DINNER PAILS ARE IN OANQER FROM CHINESE COMPETITION Scheme of the Traits lor Cheap LaborThe Chinese Exclusion Act Soon Expires Small Prospect of Its Reenactment by Con gressDestruction ol Labor Unions When the gigantic trusts were farming it should have been evident to wage workers that their interests as repre sented by the rates of wages would be attacked sooner or later The professed object of forming these huge combina tions of capital is to bring about the greatest possible saving in the cost of production The multimillionaires back of them maintain a very discreet silence as to the profit they purpose reaping from raising prices to the consumers What they most insist on is that the ab sorption of little mills and factories by one bus concern commonly designated a trust will cut down the expenses of superintendence and do away with the loss incurred by wastful competition But the saving effected by this sort of economy will be as nothing compared with what would be brought about by a good permanent cut in the wages of the employes of the trusts The trust mag nates recognizing this have determined to make a vigorous"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-04-26T11:26:39.064Z",
+  "group": [
+    "ndnp/wa",
+    "washington-state-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87093220/1901-10-17/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_green_ver01:data:sn87093220:00200290331:1901101701:0894/full/pct:6.25/0/default.jpg#h=429&w=296",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_green_ver01:data:sn87093220:00200290331:1901101701:0894/full/pct:12.5/0/default.jpg#h=859&w=592",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wa/batch_wa_green_ver01/data/sn87093220/00200290331/1901101701/0894.xml&format=alto_xml"
+  ],
+  "index": 123,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "aberdeen",
+    "grays harbor",
+    "washington"
+  ],
+  "location_city": [
+    "aberdeen"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "grays harbor"
+  ],
+  "location_state": [
+    "washington"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "3",
+    "1",
+    "2",
+    "0000000001",
+    "sn87093220"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87093220"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "0",
+    "2",
+    "9",
+    "0",
+    "3",
+    "3",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87093220-1901-10-17-ed-1-0894",
+  "partof": [
+    "aberdeen herald (aberdeen, chehalis county, w.t.) 1886-1917",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "aberdeen herald (aberdeen, chehalis county, w.t.) 1886-1917"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87093220/1901-10-17/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87093220/1901-10-17/ed-1/"
+  ],
+  "shelf_id": "01",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington (state)",
+    "aberdeen (wash.)",
+    "united states",
+    "newspapers",
+    "washington",
+    "grays harbor",
+    "aberdeen"
+  ],
+  "timestamp": "2024-04-27T00:02:38.645Z",
+  "title": "Image 1 of Aberdeen herald (Aberdeen, Chehalis County, W.T.), October 17, 1901",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87093220/1901-10-17/ed-1/?sp=1&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwa%2Fbatch_wa_green_ver01%2Fdata%2Fsn87093220%2F00200290331%2F1901101701%2F0894.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

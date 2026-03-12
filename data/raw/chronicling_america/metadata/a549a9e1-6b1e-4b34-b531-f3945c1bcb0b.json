@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045366/1901-06-22/ed-1/?sp=26"
+  ],
+  "batch": [
+    "mnhi_tower_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/minnesota/",
+    "2/united states/minnesota/hennepin/",
+    "3/united states/minnesota/hennepin/minneapolis/"
+  ],
+  "contributor": [
+    "minnesota historical society; saint paul, mn"
+  ],
+  "date": "1901-06-22",
+  "dates": [
+    "1901-06-22"
+  ],
+  "description": [
+    "oyH FWR cIRV E EW T H EiV Q RLDi F RIDAY June 14 was a day of startling accidents in the waters about New York Early in the afternoon the m transport Ingalls which had just been put into the dry dock in Erie basin slipped upon the blocks and cap Sim J sized carrying with her the old dock upon which 240 men were at work Several were killed outright and many seri ously injured At 6 oclock as the Staten Island ferryboat Northfield was leaving the ferry slip she was struck by the Mauch Chunk and so badly injured that within ten minutes she sank in eight feet of water The Northfield was packed with people and for a time ft was thought that there was great loss of life among passengers in the cabins but later reports are that but one body was found Mrs McKinley is almost out of danger Her general condi tion is very satisfactory but she is still so weak that there is possible danger of a relapse Wireless telegraphy was used on Tuesday June 1 In experi ments for the transmission of pictures The inventor of the pic ture producing apparatus"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-07-10T23:53:15.609Z",
+  "group": [
+    "ndnp/mnhi",
+    "minnesota-historical-society-saint-paul-mn-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045366/1901-06-22/ed-1/?sp=26",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn83045366:00206533924:1901062201:0325/full/pct:6.25/0/default.jpg#h=437&w=303",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn83045366:00206533924:1901062201:0325/full/pct:12.5/0/default.jpg#h=875&w=606",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mnhi/batch_mnhi_tower_ver01/data/sn83045366/00206533924/1901062201/0325.xml&format=alto_xml"
+  ],
+  "index": 145,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "hennepin",
+    "minneapolis",
+    "minnesota"
+  ],
+  "location_city": [
+    "minneapolis"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hennepin"
+  ],
+  "location_state": [
+    "minnesota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "sn83045366",
+    "6",
+    "5",
+    "9",
+    "4",
+    "3",
+    "0000000026",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045366"
+  ],
+  "number_page": [
+    "0000000026"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "6",
+    "5",
+    "3",
+    "3",
+    "9",
+    "2",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday journal",
+    "Journal junior",
+    "Evening journal",
+    "Minneapolis evening journal"
+  ],
+  "page_id": "sn83045366-1901-06-22-ed-1-0325",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the minneapolis journal (minneapolis, minn.) 1888-1939"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the minneapolis journal (minneapolis, minn.) 1888-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045366/1901-06-22/ed-1/?sp=26"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045366/1901-06-22/ed-1/"
+  ],
+  "shelf_id": "26",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "hennepin",
+    "newspapers",
+    "minnesota",
+    "minneapolis (minn.)",
+    "minneapolis"
+  ],
+  "timestamp": "2025-07-11T10:10:24.388Z",
+  "title": "Image 26 of The Minneapolis journal (Minneapolis, Minn.), June 22, 1901, (Journal Junior)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045366/1901-06-22/ed-1/?sp=26&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmnhi%2Fbatch_mnhi_tower_ver01%2Fdata%2Fsn83045366%2F00206533924%2F1901062201%2F0325.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

@@ -1,0 +1,144 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "shotList": "1) AtoG MS Looking down over the offshore oil rig, with a large barge secured to the rig. VG2) AtoG MS Oil rig and barge out in the open water; platform is around the oil rig; PAN back off the port quarter of barge. G3) AtoG CU PAN Past the oil rig out in water; PAN in close around the platfrom being built around the rig for working space. G4) AtoG MCU PAN In around the offshore oil rig; smaller platform is in in the water next to oil rig; small boat is alongside the oil rig in left FG. VG5) CU Oil worker, working with the oil rig. G6) MCU Oil workers setting a pipe down into a hole on the oil rig. G",
+  "subjects": [
+    {
+      "heading": "Aerial views",
+      "authorityType": "specificRecordsType",
+      "naId": 10628853
+    },
+    {
+      "heading": "Motion pictures",
+      "authorityType": "specificRecordsType",
+      "naId": 10631732
+    },
+    {
+      "heading": "Employees",
+      "authorityType": "topicalSubject",
+      "naId": 10638074
+    },
+    {
+      "heading": "Industries",
+      "authorityType": "topicalSubject",
+      "naId": 10638418
+    }
+  ],
+  "useRestriction": {
+    "status": "Undetermined"
+  },
+  "editStatus": "Unedited",
+  "audiovisual": "True",
+  "title": "OFFSHORE OIL DRILLING",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-3540",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Motion Pictures",
+          "state": "MD",
+          "fax": "301-837-3622",
+          "email": "mopix@nara.gov",
+          "mailCode": "RRSM"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "specificMediaType": "Film Reel"
+        }
+      ],
+      "copyStatus": "Preservation"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupName": "National Archives at College Park \u2013 Motion Pictures",
+    "groupId": "RRAM",
+    "groupCd": "RRAM"
+  },
+  "generalRecordsTypes": [
+    "Moving Images"
+  ],
+  "localIdentifier": "428-NPC-36163",
+  "productionDates": [
+    {
+      "month": 7,
+      "year": 1965,
+      "day": 21,
+      "logicalDate": "1965-07-21"
+    }
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "NWDNM(m)-428-NPC-36163",
+      "type": "NAIL Control Number"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "428-npc-36163.mp4",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/mopix/428/NPC/428-npc-36163.mp4",
+      "objectFileSize": 46898616,
+      "objectDesignator": "Reel 1 of 1",
+      "objectId": "183896354",
+      "objectType": "Audio/Visual File (MP4)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1941,
+        "logicalDate": "1941-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 428,
+      "inclusiveEndDate": {
+        "year": 2004,
+        "logicalDate": "2004-12-31"
+      },
+      "title": "General Records of the Department of the Navy",
+      "naId": 717
+    },
+    {
+      "inclusiveStartDate": {
+        "dateQualifier": "ca.",
+        "year": 1947,
+        "logicalDate": "1947-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "Department of Defense. Department of the Navy. Naval Photographic Center. (12/01/1959 - ca. 1998)",
+          "abolishDate": {
+            "year": 1998,
+            "logicalDate": "1998-12-31"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 12,
+            "year": 1959,
+            "day": 1,
+            "logicalDate": "1959-12-01"
+          },
+          "naId": 10466012
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1980,
+        "logicalDate": "1980-12-31"
+      },
+      "title": "Moving Images Relating to Military Activities",
+      "naId": 75284
+    }
+  ],
+  "naId": 84825
+}

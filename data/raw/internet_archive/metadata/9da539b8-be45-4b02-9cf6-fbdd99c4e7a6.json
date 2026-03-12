@@ -1,0 +1,27 @@
+{
+  "creator": "Orson Welles-Mr. Bruns",
+  "description": "This is the 1938 radio broadcast of Orson Welles \"War of the Worlds\".",
+  "format": [
+    "audio (including music)",
+    "64Kbps M3U",
+    "64Kbps MP3",
+    "64Kbps MP3 ZIP",
+    "Archive BitTorrent",
+    "Item Tile",
+    "Metadata",
+    "Ogg Vorbis",
+    "PNG",
+    "Spectrogram",
+    "VBR M3U",
+    "VBR MP3",
+    "VBR ZIP"
+  ],
+  "identifier": "OrsonWellesMrBruns",
+  "licenseurl": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+  "mediatype": "audio",
+  "subject": [
+    "war of the worlds",
+    "orson welles"
+  ],
+  "title": "The War of the Worlds"
+}

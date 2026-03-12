@@ -1,0 +1,136 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2004540423/1918-03-14/ed-1/?sp=82"
+  ],
+  "batch": [
+    "dlc_2mypos_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1918-03-14",
+  "dates": [
+    "1918-03-14"
+  ],
+  "description": [
+    "EDITORIAL PAGE of THE EVENING CALL eleventh year 1 ic filming all _ Published by he Workingmens Cooperative Publishing Assn S JOHN BLOCK President JULIUS GERBER Secretary r _ published evert day except Sunday Saturday issue huludes The Call Maga zine For sale on all newsstands MemSer AUDIT BUREAU OF CIRCULATIONS Office 444 Peal Street Near Park Row l 1 l_ air Telephone Worth 76 A Revolutionary Infant of Twelve Months IT is now justone year since the great uprising in Russia which began with the overthrow of czarism took place and in the fol lowing 12 months the events of centuries apparently have been co cd Probably no country on earth has ever undergone such a rapid successionof vitally important events in such a short space of time not even the France of the great historic revolution And the end is not yet The news of the czars overthrow was hailed here by radicals and Socialists with a most extraordinary though perfectly natural outburst of enthusiasm But all has not been plain sailing since then the fortunes of the revolution have presented a strangely checkered picture inwhich conservative and Socialist both imagined their hopes and fears realized and over"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-19T00:31:37.557Z",
+  "group": [
+    "sgpww1newspaperclippings/dlc",
+    "wwi-newspaper-clippings"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2004540423/1918-03-14/ed-1/?sp=82",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_2mypos_ver01:data:2004540423:print00192513455:1918031401:0082/full/pct:6.25/0/default.jpg#h=459&w=341",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_2mypos_ver01:data:2004540423:print00192513455:1918031401:0082/full/pct:12.5/0/default.jpg#h=919&w=682",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/sgp/sgpbatches/batch_dlc_2mypos_ver01/data/2004540423/print00192513455/1918031401/0082.xml&format=alto_xml"
+  ],
+  "index": 165,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "germany",
+    "united states",
+    "new york"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000082",
+    "2004540423",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2004540423"
+  ],
+  "number_page": [
+    "0000000082"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2004540423-1918-03-14-ed-1-0082",
+  "partof": [
+    "world war history: newspaper clippings, 1914-1926",
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "world war history: newspaper clippings, 1914-1926"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2004540423/1918-03-14/ed-1/?sp=82"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2004540423/1918-03-14/ed-1/"
+  ],
+  "shelf_id": "082",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "sources",
+    "new york",
+    "germany",
+    "world war",
+    "history",
+    "allied occupation",
+    "armistices"
+  ],
+  "timestamp": "2022-11-09T18:41:13.207Z",
+  "title": "Image 82 of World War history : daily records and comments as appeared in American and foreign newspapers, 1914-1926 (New York), March 14, 1918, (1918 March 14-17)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2004540423/1918-03-14/ed-1/?sp=82&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fsgp%2Fsgpbatches%2Fbatch_dlc_2mypos_ver01%2Fdata%2F2004540423%2Fprint00192513455%2F1918031401%2F0082.xml&q=revolution&relevant_snippet=1"
+}

@@ -1,0 +1,25 @@
+{
+  "description": "The Internet Archive Software Library is the ultimate software crate-digger's dream: Tens of thousands of playable software titles from multiple computer platforms, allowing instant access to decades of computer history in your browser through the JSMESS emulator. The intention is to ultimately have most major computer platforms available; currently, the collection includes the Apple II , Atari 800 , and ZX Spectrum computers. In each case, sub-collections contain vast sets of disk and cartridge images. Genres include games, applications, utilities, demos and operating systems. To see a curated set of these many programs, with contextual descriptions and information, visit the Historical Software Collection , curated by the Internet Archive's Jason Scott. If you'd like to volunteer to help describe and increase knowledge on disks in the Software Library, contact Jason at jscott@archive.org .",
+  "format": [
+    "Archive BitTorrent",
+    "Item Image",
+    "JPEG",
+    "JPEG Thumb",
+    "Metadata",
+    "PNG"
+  ],
+  "identifier": "softwarelibrary",
+  "mediatype": "collection",
+  "subject": [
+    "software",
+    "floppies",
+    "images",
+    "disks",
+    "emulation",
+    "Apple II",
+    "Atari 800",
+    "Atari 8-Bit",
+    "ZX Spectrum"
+  ],
+  "title": "Software Library"
+}

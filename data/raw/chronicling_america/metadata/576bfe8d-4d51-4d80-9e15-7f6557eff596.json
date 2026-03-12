@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83032040/1907-12-05/ed-1/?sp=12"
+  ],
+  "batch": [
+    "pst_dubois_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/pennsylvania/",
+    "2/united states/pennsylvania/cameron/",
+    "3/united states/pennsylvania/cameron/emporium/"
+  ],
+  "contributor": [
+    "penn state university libraries; university park, pa"
+  ],
+  "date": "1907-12-05",
+  "dates": [
+    "1907-12-05"
+  ],
+  "description": [
+    "12 jM mmm MRS DONALD McLEAN The Gr of Patriotic Societies T By Mrs Donald McLean ri Order of Cincinnati Founded by Revolutionary Officers Crop of Societies the Result of Centen nial in 1876 Refusal of Sons of Revolution to Accept Daughters Daughters Soon Greatly Outnumber Sons Eligibility Rules for Both Are Democratic Colonial Dames and Other Organizations V J Copyright by Joseph B Bowlea Mrs Donald McLeans name Is known very widely not only as that of th Head of the New York city chapter of the Daughters of the American Revolution but as that of a writer and speaker of ability on topics of especial interest to women Mrs McLean is a prominent member of a number of organizations of a social and patriotic character The centennial celebration of 1876 gave an impetus to patriotic impulse as directed toward organization which had lain dormant in a large measure since the years immediately succeed ing the war of the revolution As all the world knows the Order of the Cincinnati was formed imme diately upon the cessation of that war and just before the disbanding of the continental army It was composed of the officers who served through the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-10-08T02:56:26.906Z",
+  "group": [
+    "ndnp/pst",
+    "penn-state-university-libraries-university-park-pa-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83032040/1907-12-05/ed-1/?sp=12",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_dubois_ver01:data:sn83032040:00296026049:1907120501:0659/full/pct:6.25/0/default.jpg#h=445&w=318",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_dubois_ver01:data:sn83032040:00296026049:1907120501:0659/full/pct:12.5/0/default.jpg#h=890&w=636",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/pst/batch_pst_dubois_ver01/data/sn83032040/00296026049/1907120501/0659.xml&format=alto_xml"
+  ],
+  "index": 13,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "emporium",
+    "pennsylvania",
+    "cameron"
+  ],
+  "location_city": [
+    "emporium"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cameron"
+  ],
+  "location_state": [
+    "pennsylvania"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn83032040",
+    "9",
+    "2",
+    "6",
+    "0000000012",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83032040"
+  ],
+  "number_page": [
+    "0000000012"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "6",
+    "0",
+    "2",
+    "6",
+    "0",
+    "4",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Cameron Co. press",
+    "Press"
+  ],
+  "page_id": "sn83032040-1907-12-05-ed-1-0659",
+  "partof": [
+    "chronicling america",
+    "cameron county press (emporium, cameron county, pa.) 1866-1922",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "cameron county press (emporium, cameron county, pa.) 1866-1922"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83032040/1907-12-05/ed-1/?sp=12"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83032040/1907-12-05/ed-1/"
+  ],
+  "shelf_id": "12",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "cameron",
+    "emporium (pa.)",
+    "emporium",
+    "pennsylvania",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2022-10-27T19:25:19.832Z",
+  "title": "Image 12 of Cameron County press (Emporium, Cameron County, Pa.), December 5, 1907",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83032040/1907-12-05/ed-1/?sp=12&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fpst%2Fbatch_pst_dubois_ver01%2Fdata%2Fsn83032040%2F00296026049%2F1907120501%2F0659.xml&q=revolution&relevant_snippet=1"
+}

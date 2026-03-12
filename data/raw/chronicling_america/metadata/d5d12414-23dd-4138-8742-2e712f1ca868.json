@@ -1,0 +1,166 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2010270509/1962-11-22/ed-1/?sp=3"
+  ],
+  "batch": [
+    "nbu_equus_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nebraska/",
+    "2/united states/nebraska/holt/",
+    "3/united states/nebraska/holt/o'neill/",
+    "3/united states/nebraska/holt/o'neill city/"
+  ],
+  "contributor": [
+    "university of nebraska-lincoln libraries, lincoln, ne"
+  ],
+  "date": "1962-11-22",
+  "dates": [
+    "1962-11-22"
+  ],
+  "description": [
+    "Ewing News By Mm Harold Harris Mr ami Mrs Gall Boies spent Sunday visiting at the home of Mr and Mrs Ray Boies at Plain view Catherine Bauer and her room mate Janell KucheJ Fremont were weekend guests at the home of Mrs Rose Bauer Mr and Mrs Merle Sehi both teaebers of a rural school at tended the teachers convention in Norfolk Friday The Sehi fam ily visited Sunday at the home of her parents Mr and Mrs Norman Saitz Page Mrs Albert Kallhoff ONeill and Mr and Mrs Boh Sum merer and family Atkinson were guests at the home of Mrs Joe Tom jack Sunday Mr and Mrs Thomas Jacob sen and family and Bonnie Sned igner stopped to spend a week at the home of Mrs Amy Jacob sen and other relatives before continuing on their way to their home at Intercession Fla They hail sHnt the summer in Oregon Mrs Thomas Jacobsen Mrs Alta Meyer Laura Jacohen Bonnie Snedlgner Arlene Pelle tier and Rev M E Ooombs went to NeJlgh Monday evening where they attended a service at the Wesleyan Methodist church when a missionary from India was the guest speakT A nohost dinner was served"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:39:33.465Z",
+  "group": [
+    "ndnp/nbu",
+    "university-of-nebraska-of-nebraska-lincoln-libraries-lincoln-ne-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2010270509/1962-11-22/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_equus_ver01:data:2010270509:00279527719:1962112201:0244/full/pct:6.25/0/default.jpg#h=499&w=397",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_equus_ver01:data:2010270509:00279527719:1962112201:0244/full/pct:12.5/0/default.jpg#h=999&w=794",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nbu/batch_nbu_equus_ver01/data/2010270509/00279527719/1962112201/0244.xml&format=alto_xml"
+  ],
+  "index": 31,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "o'neill city",
+    "o'neill",
+    "holt",
+    "holt county",
+    "nebraska"
+  ],
+  "location_city": [
+    "o'neill",
+    "o'neill city"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "holt"
+  ],
+  "location_state": [
+    "nebraska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000003",
+    "1",
+    "2010270509",
+    "9",
+    "5",
+    "7",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2010270509"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "2",
+    "7",
+    "7",
+    "1",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Publisher's box title: O'Neill frontier"
+  ],
+  "page_id": "2010270509-1962-11-22-ed-1-0244",
+  "partof": [
+    "the frontier (o'neill city, holt county, neb.) 1880-1965",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the frontier (o'neill city, holt county, neb.) 1880-1965"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2010270509/1962-11-22/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2010270509/1962-11-22/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "o'neill (neb.)",
+    "united states",
+    "o'neill city",
+    "o'neill",
+    "holt",
+    "newspapers",
+    "holt county",
+    "holt county (neb.)",
+    "nebraska"
+  ],
+  "timestamp": "2025-12-14T21:35:09.146Z",
+  "title": "Image 3 of The frontier (O'Neill City, Holt County, Neb.), November 22, 1962",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2010270509/1962-11-22/ed-1/?sp=3&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnbu%2Fbatch_nbu_equus_ver01%2Fdata%2F2010270509%2F00279527719%2F1962112201%2F0244.xml&q=nuclear&relevant_snippet=1"
+}

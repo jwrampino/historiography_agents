@@ -1,0 +1,32 @@
+{
+  "creator": "John Stoll",
+  "date": "2012-09-24T00:00:00Z",
+  "description": "Digitized, cataloged and archived by the Houston Audio Control Room.",
+  "format": [
+    "Abbyy GZ",
+    "DjVu",
+    "DjVuTXT",
+    "Djvu XML",
+    "Flac",
+    "Item Tile",
+    "JSON",
+    "Metadata",
+    "Ogg Vorbis",
+    "PNG",
+    "Scandata",
+    "Single Page Processed JP2 ZIP",
+    "Text PDF",
+    "VBR MP3",
+    "WAVE"
+  ],
+  "identifier": "Apollo13Audio",
+  "language": "eng",
+  "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "mediatype": "audio",
+  "subject": [
+    "NASA",
+    "Apollo 13",
+    "Apollo 13 ACR Collection"
+  ],
+  "title": "Apollo 13"
+}

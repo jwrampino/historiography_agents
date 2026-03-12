@@ -1,0 +1,187 @@
+{
+  "accessionNumbers": [
+    "NN3-12-85-2"
+  ],
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "subjects": [
+    {
+      "heading": "Motion pictures",
+      "authorityType": "specificRecordsType",
+      "naId": 10631732
+    },
+    {
+      "heading": "Education",
+      "authorityType": "topicalSubject",
+      "naId": 10640533
+    }
+  ],
+  "useRestriction": {
+    "status": "Undetermined"
+  },
+  "editStatus": "Edited",
+  "audiovisual": "True",
+  "title": "COMMUNICATION REVOLUTION",
+  "productionSeriesTitle": "Communication Theory and the New Educational Media Series",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-3540",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Motion Pictures",
+          "state": "MD",
+          "fax": "301-837-3622",
+          "email": "mopix@nara.gov",
+          "mailCode": "RRSM"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "elementNumber": 1,
+          "reelTapeDiscNumber": 1,
+          "format": "Video: U-matic",
+          "specificMediaType": "Video Cassette",
+          "dimension": "3/4 inch"
+        }
+      ],
+      "copyStatus": "Reference"
+    },
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-3540",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Motion Pictures",
+          "state": "MD",
+          "fax": "301-837-3622",
+          "email": "mopix@nara.gov",
+          "mailCode": "RRSM"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "elementNumber": 1,
+          "reelTapeDiscNumber": 1,
+          "color": "Black-and-White",
+          "footage": 790,
+          "format": "Film: MPPC",
+          "specificMediaType": "Film Reel",
+          "dimension": "Film: 16 mm"
+        },
+        {
+          "elementNumber": 2,
+          "reelTapeDiscNumber": 1,
+          "footage": 790,
+          "format": "Film: DNT",
+          "specificMediaType": "Film Reel",
+          "dimension": "Film: 16 mm"
+        }
+      ],
+      "copyStatus": "Preservation"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupName": "National Archives at College Park \u2013 Motion Pictures",
+    "groupId": "RRAM",
+    "groupCd": "RRAM"
+  },
+  "generalRecordsTypes": [
+    "Moving Images"
+  ],
+  "localIdentifier": "12.24",
+  "productionDates": [
+    {
+      "year": 1966,
+      "logicalDate": "1966-01-01"
+    }
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "NAC Title No.: 234480; NAC Series Title No.: 234510",
+      "type": "Other Identifier"
+    },
+    {
+      "number": "SAMMA File 12-24",
+      "type": "Search Identifier"
+    },
+    {
+      "number": "NWDNM(m)-12.24",
+      "type": "NAIL Control Number"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "12-24.wmv",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/53/12/1253/content/arcmedia/mopix/012/12-24.wmv",
+      "objectFileSize": 194701872,
+      "objectId": "14866776",
+      "objectDescription": "Download this film.",
+      "objectType": "Audio/Visual File (WMV)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1870,
+        "logicalDate": "1870-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 12,
+      "inclusiveEndDate": {
+        "year": 1980,
+        "logicalDate": "1980-12-31"
+      },
+      "title": "Records of the Office of Education",
+      "naId": 341
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1944,
+        "logicalDate": "1944-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "Department of Health, Education, and Welfare. Education Division. Office of Education. (07/01/1972 - 05/04/1980)",
+          "abolishDate": {
+            "month": 5,
+            "year": 1980,
+            "day": 4,
+            "logicalDate": "1980-05-04"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 7,
+            "year": 1972,
+            "day": 1,
+            "logicalDate": "1972-07-01"
+          },
+          "naId": 10453048
+        }
+      ],
+      "inclusiveEndDate": {
+        "dateQualifier": "ca.",
+        "year": 1977,
+        "logicalDate": "1977-12-31"
+      },
+      "title": "Public Information and Education Films",
+      "naId": 1225
+    }
+  ],
+  "scopeAndContentNote": "DISCUSSION FILM: PRESENTS EDGAR DALE, MARSHALL MC LUHAN, GILBERT SELDES, AND I. KEITH TYLER IN A DISCUSSION OF THE IMPACT OF THE INFORMATION EXPLOSION AND MASS MEDIA ON WESTERN CIVILISATION. RAISES QUESTIONS ABOUT A NEW DISTRIBUTION OF POWER THROUGH A REDISTRIBUTION OF INFORMATION. EMPHASIZES THE INEVITABLE NEED FOR DISCRIMINATION IN TEACHING MEDIA.",
+  "naId": 1253,
+  "soundType": "Sound"
+}

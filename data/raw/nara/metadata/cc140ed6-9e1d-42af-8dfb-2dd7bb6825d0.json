@@ -1,0 +1,135 @@
+{
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "false",
+  "title": "Former Soviet Union Countries - Reports [1993]",
+  "physicalOccurrences": [
+    {
+      "extent": "One legal file folder",
+      "referenceUnits": [
+        {
+          "city": "College Station",
+          "phone": "979-691-4000",
+          "address1": "1000 George Bush Drive West",
+          "postalCode": "77845",
+          "name": "George Bush Library",
+          "state": "TX",
+          "fax": "979-691-4050",
+          "email": "bush.library@nara.gov",
+          "mailCode": "PL-GB"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper",
+          "containerId": "62068"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "note": "Records may be closed under restrictions of the Presidential Records Act and the Freedom of Information Act (FOIA). Withdrawal sheets in processed folders will indicate specific closures and restrictions.",
+    "specificAccessRestrictions": [
+      {
+        "restriction": "Freedom of Information Act (FOIA)"
+      }
+    ],
+    "status": "Restricted - Possibly"
+  },
+  "dataControlGroup": {
+    "groupName": "George Bush Library",
+    "groupId": "PL-GB",
+    "groupCd": "PL-GB"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "localIdentifier": "62068-007",
+  "variantControlNumbers": [
+    {
+      "number": "2005-0336-F",
+      "type": "FOIA Tracking Number"
+    },
+    {
+      "number": "Pres-Bush",
+      "type": "Other Finding Aid Identifier"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "41-ostp-admin-62068-007.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/foia/2005/2005-0336-F/41-ostp-admin-62068-007.pdf",
+      "objectFileSize": 1234,
+      "objectId": "285792224",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "GB-SCT",
+      "inclusiveStartDate": {
+        "month": 1,
+        "year": 1989,
+        "day": 20,
+        "logicalDate": "1989-01-20"
+      },
+      "distance": 2,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "month": 1,
+        "year": 1993,
+        "day": 20,
+        "logicalDate": "1993-01-20"
+      },
+      "title": "Records of the White House Office of Science and Technology (George H. W. Bush Administration)",
+      "naId": 2163593
+    },
+    {
+      "inclusiveStartDate": {
+        "month": 1,
+        "year": 1989,
+        "day": 20,
+        "logicalDate": "1989-01-20"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "President (1989-1993 : Bush). Office of Science and Technology Policy. (01/20/1989 - 01/20/1993)",
+          "abolishDate": {
+            "month": 1,
+            "year": 1993,
+            "day": 20,
+            "logicalDate": "1993-01-20"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 1,
+            "year": 1989,
+            "day": 20,
+            "logicalDate": "1989-01-20"
+          },
+          "naId": 10515769
+        }
+      ],
+      "inclusiveEndDate": {
+        "month": 1,
+        "year": 1993,
+        "day": 20,
+        "logicalDate": "1993-01-20"
+      },
+      "title": "Allan D. Bromley Files",
+      "naId": 2595246
+    }
+  ],
+  "scopeAndContentNote": "Records pertain to the Office of Science and Technology Policy.",
+  "naId": 285792223
+}

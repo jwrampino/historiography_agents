@@ -1,0 +1,129 @@
+{
+  "accessionNumbers": [
+    "NN3-255-04-002"
+  ],
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "Presentation: Columbia Reconstruction, Steve Altemus, NASA Reconstruction Director, March 16, 2003",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-0470",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Electronic Records",
+          "state": "MD",
+          "fax": "301-837-3681",
+          "email": "cer@nara.gov",
+          "mailCode": "RRE"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Magnetic Media"
+          ],
+          "specificMediaType": "Magnetic Disk"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupName": "National Archives at College Park \u2013 Electronic Records",
+    "groupId": "RRD",
+    "groupCd": "RRD"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "variantControlNumbers": [
+    {
+      "note": "The agency transferred a Microsoft Powerpoint and PDF version of this file.",
+      "number": "1.1-4.3-201104.173622; 1.1-4.3-201104.173623",
+      "type": "Ref ID"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "032003_02Reconstruction.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-255/CAIBPAF/032003_02Reconstruction.pdf",
+      "objectFileSize": 9210833,
+      "objectId": "185850083",
+      "objectDescription": "Two versions of this file were received, only the PDF version is being made available online.",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1903,
+        "logicalDate": "1903-01-01"
+      },
+      "distance": 3,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 255,
+      "inclusiveEndDate": {
+        "year": 2006,
+        "logicalDate": "2006-12-31"
+      },
+      "title": "Records of the National Aeronautics and Space Administration",
+      "naId": 582
+    },
+    {
+      "inclusiveStartDate": {
+        "month": 2,
+        "year": 2003,
+        "day": 14,
+        "logicalDate": "2003-02-14"
+      },
+      "distance": 2,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "National Aeronautics and Space Administration. Columbia Accident Investigation Board. (02/01/2003 - 10/28/2003)",
+          "abolishDate": {
+            "month": 10,
+            "year": 2003,
+            "day": 28,
+            "logicalDate": "2003-10-28"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 2,
+            "year": 2003,
+            "day": 1,
+            "logicalDate": "2003-02-01"
+          },
+          "naId": 10450213
+        }
+      ],
+      "inclusiveEndDate": {
+        "month": 6,
+        "year": 2003,
+        "day": 12,
+        "logicalDate": "2003-06-12"
+      },
+      "title": "Public Affairs Files",
+      "naId": 1039946
+    },
+    {
+      "distance": 1,
+      "levelOfDescription": "fileUnit",
+      "title": "Presentation Materials and Reports, April 9, 2003",
+      "naId": 1208292
+    }
+  ],
+  "naId": 185850082
+}

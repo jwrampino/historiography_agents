@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83030312/1838-05-31/ed-1/?sp=1"
+  ],
+  "batch": [
+    "dlc_laceflower_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1838-05-31",
+  "dates": [
+    "1838-05-31"
+  ],
+  "description": [
+    "MORNING HERALD VOL 111 NEW YORK THURSDAY MORNING MAY 81 1888 ao sio Nutle to Country Subscribers Hereafter whenever any country subscription to the Herald reaches a fortnight of its close subscribers will receive their papers done up in yellow wrappers This plan is adopted in order te give our patrons in the country notice either to renew their subscription by a fresh remittance er to expect it to cease at tne close of the period for which it had been paid Sub scribers wiU therefore understand after this notice what is meant by receiving their papers done up in yellow wrapping paper By this method we furnish individual subscribers with a proper notice without putting them to the ex pense of postage and thuB6have Amos Kendall by way of roqiutal for his shaving so often our subscri be s Tne fashionable morals of the present day as sanctioned by th Honorable the Kitchen Cabinet are to cheat as much as you can so that the law does not reach yon I do not practice on this princi ple to any extent except when I have dealings with the Kitchenand on such occasions it is adopted purely in self defenceif"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:30:21.769Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83030312/1838-05-31/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030312:00271743129:1838053101:0543/full/pct:3.125/0/default.jpg#h=277&w=188",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030312:00271743129:1838053101:0543/full/pct:6.25/0/default.jpg#h=555&w=377",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030312:00271743129:1838053101:0543/full/pct:12.5/0/default.jpg#h=1110&w=755",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_laceflower_ver01/data/sn83030312/00271743129/1838053101/0543.xml&format=alto_xml"
+  ],
+  "index": 178,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "new york",
+    "new york county",
+    "new york city"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn83030312",
+    "1",
+    "9",
+    "7",
+    "4",
+    "3",
+    "2",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83030312"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "1",
+    "7",
+    "4",
+    "3",
+    "1",
+    "2",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83030312-1838-05-31-ed-1-0543",
+  "partof": [
+    "serial and government publications division",
+    "morning herald (new york [n.y.]) 1837-1840",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "morning herald (new york [n.y.]) 1837-1840"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83030312/1838-05-31/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83030312/1838-05-31/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "new york",
+    "new york county (n.y.)",
+    "new york (state)",
+    "newspapers",
+    "new york county",
+    "new york (n.y.)"
+  ],
+  "timestamp": "2022-10-20T23:47:04.301Z",
+  "title": "Image 1 of Morning herald (New York [N.Y.]), May 31, 1838",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83030312/1838-05-31/ed-1/?sp=1&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_laceflower_ver01%2Fdata%2Fsn83030312%2F00271743129%2F1838053101%2F0543.xml&q=medicine&relevant_snippet=1"
+}

@@ -1,0 +1,154 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86075189/1950-07-14/ed-1/?sp=1"
+  ],
+  "batch": [
+    "mthi_douglasfir_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/lewis and clark/",
+    "3/united states/montana/lewis and clark/helena/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1950-07-14",
+  "dates": [
+    "1950-07-14"
+  ],
+  "description": [
+    "I sU to IC a A lym Ti 1 v I lilinsr r r EWIOI INDEPENDENT NEWSPAPER IP MONTANAS ONI Vol XINo 32 HELENA MONTANA JULY 14 1950 Price Five Cents HavreShelby Figl\u00f9 Must Be Won Senate ftformed 5 Word from Washington this week that the Senate Appro riations Committee had repeated its performance of Aug 194S in turning thumbs down on the HavreShelby transmis sion line was the signal for people from all walks of life in Mon tana to join together in a militant demand that the committees action be overridden on the Senate floor Farmers workers little businessmen state officials are acting as one in support of Senator James E Murray in the floor fight started yesterday to restore funds for HavreShelby and many other public power projects Telegrams by the hundreds have been pouring into Wash ington protesting the committees action appeals Coop association Montana Farmers Union Montana MVA and CVA as sociations Montana State Associa tion of Plumbers Fitters and Cas cade Trades Labor Assembly cli maxed by a fiveminute appeal Wed nesday afternoon by Gov John W Bonner over a 10station hookup are indicative of the widespread sup port which is fast developing behind"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:45:50.033Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86075189/1950-07-14/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_douglasfir_ver01:data:sn86075189:00414211021:1950071401:0828/full/pct:6.25/0/default.jpg#h=419&w=291",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_douglasfir_ver01:data:sn86075189:00414211021:1950071401:0828/full/pct:12.5/0/default.jpg#h=839&w=583",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_douglasfir_ver01/data/sn86075189/00414211021/1950071401/0828.xml&format=alto_xml"
+  ],
+  "index": 123,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "helena",
+    "montana",
+    "lewis and clark",
+    "united states"
+  ],
+  "location_city": [
+    "helena"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lewis and clark"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn86075189",
+    "0",
+    "4",
+    "2",
+    "1",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86075189"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "2",
+    "1",
+    "1",
+    "0",
+    "2",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86075189-1950-07-14-ed-1-0828",
+  "partof": [
+    "chronicling america",
+    "the people's voice (helena, mont.) 1939-1969",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the people's voice (helena, mont.) 1939-1969"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86075189/1950-07-14/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86075189/1950-07-14/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "history",
+    "helena",
+    "montana",
+    "helena (mont.)",
+    "lewis and clark"
+  ],
+  "timestamp": "2023-07-05T20:54:51.927Z",
+  "title": "Image 1 of The People's voice (Helena, Mont.), July 14, 1950",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86075189/1950-07-14/ed-1/?sp=1&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_douglasfir_ver01%2Fdata%2Fsn86075189%2F00414211021%2F1950071401%2F0828.xml&q=korea&relevant_snippet=1"
+}

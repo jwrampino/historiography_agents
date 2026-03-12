@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82016412/1893-10-28/ed-1/?sp=4"
+  ],
+  "batch": [
+    "hihouml_gold_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/hawaii/",
+    "2/united states/hawaii/honolulu/",
+    "3/united states/hawaii/honolulu/honolulu/"
+  ],
+  "contributor": [
+    "university of hawaii at manoa; honolulu, hi"
+  ],
+  "date": "1893-10-28",
+  "dates": [
+    "1893-10-28"
+  ],
+  "description": [
+    "jw f Jp Neckwear Neckwear Neckwear GRAND OP New Summer 100 Doz FourinHands Worth 50 Oexrts 100 Doz FonrinHands Wortli TS Cents H S TREGLOAN GOO Nuuanu Street HAS JUST TUXEIVEI BY LATE AMIIVALS 3JirTlSTJE3TT TEA Direct from Chinal Finest Mountain Quality Supeiior to Any thing Ever Sold in Honolulu Camphor Trunk Fitted with Patent Detective Lochs Latest Styles Chinese Bamboo Chain and Lounges Beautiful Patterns Chinese Silk and Sills Handkerchiefs Etc High Glass Tailoring in All lis Branches Always on hand a Choice Assortment of Cashmeres Tweeds Etc Etc Low Prices and Oood Fit auaranteod 840ini C1IAS EUSTACE IMPORTER AND DEALER IN GROCERIES PROVISIONS FLOUR and FEED Fresh California Roll ALWAYS New Goods Received by Every All Orders faithfully attended to solicited and packed with care LINCOLN BLOCK King Street TELEPHONE 119 BOTH TELEPHONES 240 LEWIS Ill FORT Importers Wholesale Provision Dealers Naval Supplies Fresh Goods by Every Cala Steamer IOE HOUSE Solicited GOODS A Island Orders TELEPHONE Vi H E McINTYRE BRO IMPORTERS AND DEAIEKB IN Qroceries Provisions strict Peed New Jooda Received by Every Packet from the Eastern States and Europe KltKHH CALIFORNIA PRODUCE BV EVERY STEAMER Orders faithfully attended lo ml Uondtt delivered to tiny purl"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T08:05:14.767Z",
+  "group": [
+    "ndnp/hihouml",
+    "university-of-hawaii-at-manoa-honolulu-hi-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82016412/1893-10-28/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_gold_ver01:data:sn82016412:00294552194:1893102801:0611/full/pct:6.25/0/default.jpg#h=434&w=335",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_gold_ver01:data:sn82016412:00294552194:1893102801:0611/full/pct:12.5/0/default.jpg#h=868&w=671",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/hihouml/batch_hihouml_gold_ver01/data/sn82016412/00294552194/1893102801/0611.xml&format=alto_xml"
+  ],
+  "index": 139,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "honolulu",
+    "united states",
+    "hawaii"
+  ],
+  "location_city": [
+    "honolulu"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "honolulu"
+  ],
+  "location_state": [
+    "hawaii"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000004",
+    "9",
+    "2",
+    "5",
+    "4",
+    "1",
+    "sn82016412"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82016412"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "4",
+    "5",
+    "5",
+    "2",
+    "1",
+    "9",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "J.W. Robertson's daily bulletin"
+  ],
+  "page_id": "sn82016412-1893-10-28-ed-1-0611",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the daily bulletin (honolulu [hawaii]) 1882-1895"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the daily bulletin (honolulu [hawaii]) 1882-1895"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82016412/1893-10-28/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82016412/1893-10-28/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "honolulu",
+    "honolulu (hawaii)",
+    "united states",
+    "newspapers",
+    "hawaii"
+  ],
+  "timestamp": "2022-11-21T23:14:07.487Z",
+  "title": "Image 4 of The Daily bulletin (Honolulu [Hawaii]), October 28, 1893",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82016412/1893-10-28/ed-1/?sp=4&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fhihouml%2Fbatch_hihouml_gold_ver01%2Fdata%2Fsn82016412%2F00294552194%2F1893102801%2F0611.xml&q=manifest+destiny&relevant_snippet=1"
+}

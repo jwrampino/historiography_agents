@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84020558/1921-01-18/ed-1/?sp=3"
+  ],
+  "batch": [
+    "az_locoweed_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/arizona/",
+    "2/united states/arizona/maricopa/",
+    "3/united states/arizona/maricopa/phoenix/"
+  ],
+  "contributor": [
+    "arizona state library, archives and public records; phoenix, az"
+  ],
+  "date": "1921-01-18",
+  "dates": [
+    "1921-01-18"
+  ],
+  "description": [
+    "PAGE THREti J C Penney Company A NationWide Institution J C Penney Company A NationWide Institution J C Penney Company A NationWide Institution c o O a re S 9 n The RECONSTRUCTION PERIOD IS ON Every article in our store bears its proper reduction You can shop here with confidence that prices are RIGHT o o 3 n o a 2 THE ARIZONA KKPUBLICAN TUESDAY MORNING JANUARY 18 1921 EsitabliEslmiiisf C c e o ft o c fl 3 o c c a c 2 to T3 o 25 cl s o c c 0 c o c T3 r o 2 n O o U c c u WE BELIEVE the era of high prices is rapidly passing Production has overtaken demand and pre vailing replacement costs are forcing prices downward To meet this new condition it is our desire and intention to strike bottom in our first re vision of prices This means a tremendous loss to us which is your gain Those who know us know we are not special sale folks and we do not want you to con fuse this price revision with the ordinary special ten day sale commonly employed by other merchants"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-09T14:52:32.592Z",
+  "group": [
+    "ndnp/az",
+    "arizona-state-university-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84020558/1921-01-18/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_locoweed_ver01:data:sn84020558:00295869677:1921011801:0373/full/pct:6.25/0/default.jpg#h=510&w=382",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_locoweed_ver01:data:sn84020558:00295869677:1921011801:0373/full/pct:12.5/0/default.jpg#h=1021&w=765",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/az/batch_az_locoweed_ver01/data/sn84020558/00295869677/1921011801/0373.xml&format=alto_xml"
+  ],
+  "index": 50,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "phoenix",
+    "maricopa",
+    "maricopa county",
+    "united states",
+    "arizona"
+  ],
+  "location_city": [
+    "phoenix"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "maricopa"
+  ],
+  "location_state": [
+    "arizona"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000003",
+    "9",
+    "2",
+    "8",
+    "5",
+    "6",
+    "1",
+    "sn84020558",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84020558"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "5",
+    "8",
+    "6",
+    "9",
+    "6",
+    "7",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Daily republican"
+  ],
+  "page_id": "sn84020558-1921-01-18-ed-1-0373",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "arizona republican (phoenix, ariz.) 1890-1930"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "arizona republican (phoenix, ariz.) 1890-1930"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84020558/1921-01-18/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84020558/1921-01-18/ed-1/"
+  ],
+  "shelf_id": "03",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "maricopa county (ariz.)",
+    "phoenix (ariz.)",
+    "phoenix",
+    "maricopa",
+    "maricopa county",
+    "united states",
+    "newspapers",
+    "arizona"
+  ],
+  "timestamp": "2024-01-10T08:36:53.869Z",
+  "title": "Image 3 of Arizona republican (Phoenix, Ariz.), January 18, 1921",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84020558/1921-01-18/ed-1/?sp=3&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Faz%2Fbatch_az_locoweed_ver01%2Fdata%2Fsn84020558%2F00295869677%2F1921011801%2F0373.xml&q=reconstruction&relevant_snippet=1"
+}

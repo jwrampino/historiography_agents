@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84022982/1898-10-15/ed-1/?sp=3"
+  ],
+  "batch": [
+    "arhi_hubble_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/arkansas/",
+    "2/united states/arkansas/mississippi/",
+    "3/united states/arkansas/mississippi/osceola/"
+  ],
+  "contributor": [
+    "arkansas state archives"
+  ],
+  "date": "1898-10-15",
+  "dates": [
+    "1898-10-15"
+  ],
+  "description": [
+    "SCHLEY STANDS GUARD Cerveras Wily CoalChasers Have Made Their Last Run Securely Hemmed In the Harbor f San tiago De Culm Its Destruction or Cap ture Is Now Considered Certain Washington May 24Spains flying squadron will fly no longer Its race is run Cooped up in the harbor of Santiago de Cuba its destruction or capture is considered by officials here to be mere ly a matter of time Before the harbor are the armorclads f the American navy ready to give battle to Admiral Cerveras menofwar the moment they poke their noses out of the channel leading to the sea Official advices announcing these to be the positions of the opposing fleets were received at the navy department last night from the commanderinchief of the American force operating in front of the harbor It was these advices which enabled the authorities to deny emphatically the reports that an action had occurred on the Windward Passage An dfficial with whom I talked to night said he regarded it as manifestly impossible that any engagement could have occurred between Cuba and Hayti notwithstanding the persistent reports to this effect when the department had absolute knowledge of the where abouts of the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-12-02T23:41:21.098Z",
+  "group": [
+    "ndnp/arhi",
+    "arkansas-state-archives-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84022982/1898-10-15/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_hubble_ver01:data:sn84022982:00513688672:1898101501:0832/full/pct:6.25/0/default.jpg#h=396&w=261",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_hubble_ver01:data:sn84022982:00513688672:1898101501:0832/full/pct:12.5/0/default.jpg#h=793&w=523",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/arhi/batch_arhi_hubble_ver01/data/sn84022982/00513688672/1898101501/0832.xml&format=alto_xml"
+  ],
+  "index": 24,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "osceola",
+    "united states",
+    "arkansas",
+    "mississippi"
+  ],
+  "location_city": [
+    "osceola"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "mississippi"
+  ],
+  "location_state": [
+    "arkansas"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "0000000003",
+    "8",
+    "5",
+    "6",
+    "sn84022982",
+    "7",
+    "3",
+    "2",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84022982"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "3",
+    "6",
+    "8",
+    "8",
+    "6",
+    "7",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84022982-1898-10-15-ed-1-0832",
+  "partof": [
+    "the osceola times (osceola, ark.) 1870-current",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the osceola times (osceola, ark.) 1870-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84022982/1898-10-15/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84022982/1898-10-15/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "arkansas",
+    "osceola (ark.)",
+    "newspapers",
+    "osceola",
+    "https://id.oclc.org/worldcat/entity/e39pbjg4rgrjkjw7qw839vdbbp",
+    "mississippi"
+  ],
+  "timestamp": "2024-12-03T13:42:16.854Z",
+  "title": "Image 3 of The Osceola times (Osceola, Ark.), October 15, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84022982/1898-10-15/ed-1/?sp=3&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Farhi%2Fbatch_arhi_hubble_ver01%2Fdata%2Fsn84022982%2F00513688672%2F1898101501%2F0832.xml&q=cuba&relevant_snippet=1"
+}

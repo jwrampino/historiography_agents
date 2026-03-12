@@ -1,0 +1,153 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045298/1960-03-19/ed-1/?sp=2"
+  ],
+  "batch": [
+    "ak_arctictern_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/alaska/",
+    "3/united states/alaska/kodiak/"
+  ],
+  "contributor": [
+    "alaska state library historical collections"
+  ],
+  "date": "1960-03-19",
+  "dates": [
+    "1960-03-19"
+  ],
+  "description": [
+    "New Labor Savers For 1960 Census t A couple of doityourself gim micks to be used in next years census wfll save the government considerable time The bureau has made public one of two doityourself forms a four page item that will be mailed to the nations 55000000 households late in March Householders will be asked to fill out this form before census takers make personal visits start ing April 1 The census takers 8hen will merely copy down the information instead of asking ques tions that might be difficult to answer on the spur of Che moment The bureau tested this advance form Last February in two South Carolina counties It said use of the form cuts the average visit of the census taker to 7 minutes from about 15 minutes and pro duced more accurate information Basic questions on the advance forms includes names of all res idents of the housho4dddress sex color race date of birth mar ital status number of rooms in toe household whether the dwell ing is owned or rented and whether it has running water plumbing and cooking facilities In a1 dtion census talkers will Cleave at every fourth household a somewhat longer"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-05-22T12:56:52.757Z",
+  "group": [
+    "ndnp/ak",
+    "alaska-state-library-historical-collections-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045298/1960-03-19/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_arctictern_ver01:data:sn83045298:00414185599:1960031901:0098/full/pct:6.25/0/default.jpg#h=417&w=282",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_arctictern_ver01:data:sn83045298:00414185599:1960031901:0098/full/pct:12.5/0/default.jpg#h=834&w=564",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ak/batch_ak_arctictern_ver01/data/sn83045298/00414185599/1960031901/0098.xml&format=alto_xml"
+  ],
+  "index": 155,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "kodiak",
+    "united states",
+    "alaska"
+  ],
+  "location_city": [
+    "kodiak"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "alaska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn83045298",
+    "8",
+    "0000000002",
+    "0",
+    "9",
+    "1",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045298"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "1",
+    "8",
+    "5",
+    "5",
+    "9",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Kodiak daily mirror"
+  ],
+  "page_id": "sn83045298-1960-03-19-ed-1-0098",
+  "partof": [
+    "kodiak mirror (kodiak, alaska) 1940-1976",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "kodiak mirror (kodiak, alaska) 1940-1976"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045298/1960-03-19/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045298/1960-03-19/ed-1/"
+  ],
+  "shelf_id": "02",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "alaska",
+    "kodiak (alaska)",
+    "kodiak",
+    "united states"
+  ],
+  "timestamp": "2024-05-22T13:55:34.581Z",
+  "title": "Image 2 of Kodiak mirror (Kodiak, Alaska), March 19, 1960",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045298/1960-03-19/ed-1/?sp=2&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fak%2Fbatch_ak_arctictern_ver01%2Fdata%2Fsn83045298%2F00414185599%2F1960031901%2F0098.xml&q=computers&relevant_snippet=1"
+}

@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83030311/1836-01-05/ed-1/?sp=4"
+  ],
+  "batch": [
+    "dlc_kudzu_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1836-01-05",
+  "dates": [
+    "1836-01-05"
+  ],
+  "description": [
+    "r VSPEPSIA AND LIVER COMPLAINTS J THE PATENT MEDICINE STOMACHCE ET HEPATICE formed by cheuiteal analysts and synthesis of several prosunits vegetable principles are latrinaily acknowledged hi have totally eclipsed the pretensions of every other reotdy atisi superceded trie ties lastly of every oilier mode of treatment w herever the above disease are f Mad to exists as well as u enlargement of the Sp een and in Jsandier Among the symptoms of Dyspepsia and Liter complaints a flatulency sonnies ami burning in the stomach nwlaociioly irritability dissgieeable taste in the month great irregularity of appetite which is sometimes voracious and at other times greatly deficient thirst fielid breath nsuaea tveakness of the stomach acif ernctJiMa palpitation arowuness irregularity ot tlie bowels pressure n the stomach after mals pain iu uie hsd dizziness or vertigo Wtfduaion nf mind attended with leas of memory a gnawing in the stoinnh when empty chilliness affection of sight and hearing pain and weakn in the buck languor distu beddeep cold reel and hands tremor uxietoinessiu the throat ciugh pain ia the side or breast During toe last yer thousands with joy would testify to theit great efic cv like metotiowiog From iVlujsr Willis Young"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:28:20.751Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83030311/1836-01-05/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030311:00271743105:1836010501:0025/full/pct:6.25/0/default.jpg#h=392&w=260",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030311:00271743105:1836010501:0025/full/pct:12.5/0/default.jpg#h=785&w=520",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_kudzu_ver01/data/sn83030311/00271743105/1836010501/0025.xml&format=alto_xml"
+  ],
+  "index": 57,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "new york county",
+    "new york city",
+    "new york"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "1",
+    "2",
+    "4",
+    "5",
+    "7",
+    "sn83030311",
+    "0000000004"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83030311"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "1",
+    "7",
+    "4",
+    "3",
+    "1",
+    "0",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "New York herald"
+  ],
+  "page_id": "sn83030311-1836-01-05-ed-1-0025",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the herald (new york [n.y.]) 1835-1837"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the herald (new york [n.y.]) 1835-1837"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83030311/1836-01-05/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83030311/1836-01-05/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "new york (n.y.)",
+    "united states",
+    "newspapers",
+    "new york",
+    "new york (state)",
+    "new york county",
+    "new york county (n.y.)"
+  ],
+  "timestamp": "2022-10-20T22:05:40.112Z",
+  "title": "Image 4 of The herald (New York [N.Y.]), January 5, 1836",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83030311/1836-01-05/ed-1/?sp=4&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_kudzu_ver01%2Fdata%2Fsn83030311%2F00271743105%2F1836010501%2F0025.xml&q=medicine&relevant_snippet=1"
+}

@@ -1,0 +1,174 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84020097/1925-09-15/ed-1/?sp=6"
+  ],
+  "batch": [
+    "iune_emerald_ver03"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/",
+    "1/united states/illinois/",
+    "2/united states/illinois/cook/",
+    "3/united states/illinois/cook/chicago/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1925-09-15",
+  "dates": [
+    "1925-09-15"
+  ],
+  "description": [
+    "Page Six THE PMBY WOBKER Published by the DAILY WORKER PUBLISHING CO IXl W Washington Bivd Chicago 111 Phone Monroe 47U SUBSCRIPTION RATES By mall In Chicago only By mail outside of Chicago soo per year 450 six months 600 per year 350 six months 260 three months 200 three months Address all mail and make out checks to THE DAILY WORKER 1118 W Washington Blvd Chieago Illinois J LOUIS ENGDAHL j st WILLIAM F DUNNE f MORITZ J LOEB Business Manager Entered as secondclass mail September 21 1923 at the poatofflcs at Chi cago 111 under the act ot March 3 1879 S9O Advertising ratos on application International Solidarity The action of the Marine Transport Workers Union No 510 of the I W W in calling a strike of seamen deck hands firemen and stew ards on all seagoing ships will give aid and comfort to the striking seamen of Britain who have been betrayed by the archfaker Have lock Wilson head of the British seamens union and gives a dem onstration of international solidarity which cannot fail but give hope to the advanced section of the revolutionary working class in all countries There is no other category of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:19:49.773Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84020097/1925-09-15/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_emerald_ver03:data:sn84020097:00332897767:1925091501:0436/full/pct:3.125/0/default.jpg#h=270&w=210",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_emerald_ver03:data:sn84020097:00332897767:1925091501:0436/full/pct:6.25/0/default.jpg#h=541&w=421",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_emerald_ver03:data:sn84020097:00332897767:1925091501:0436/full/pct:12.5/0/default.jpg#h=1083&w=842",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_emerald_ver03/data/sn84020097/00332897767/1925091501/0436.xml&format=alto_xml"
+  ],
+  "index": 127,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "chicago",
+    "new york",
+    "new york city",
+    "cook",
+    "illinois",
+    "united states"
+  ],
+  "location_city": [
+    "new york",
+    "chicago"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york",
+    "cook"
+  ],
+  "location_state": [
+    "new york",
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn84020097",
+    "8",
+    "0",
+    "2",
+    "0000000006",
+    "7",
+    "9",
+    "1",
+    "3",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84020097"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "7",
+    "7",
+    "6",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84020097-1925-09-15-ed-1-0436",
+  "partof": [
+    "chronicling america",
+    "the daily worker (chicago, ill.;new york, n.y.) 1924-1958",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the daily worker (chicago, ill.;new york, n.y.) 1924-1958"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84020097/1925-09-15/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84020097/1925-09-15/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "new york (state)",
+    "labor unions",
+    "chicago",
+    "labor movement",
+    "new york (n.y.)",
+    "chicago (ill.)",
+    "new york",
+    "communism",
+    "cook",
+    "illinois",
+    "united states"
+  ],
+  "timestamp": "2025-05-22T01:20:10.516Z",
+  "title": "Image 6 of The daily worker (Chicago, Ill.;New York, N.Y.), September 15, 1925, (New York Edition)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84020097/1925-09-15/ed-1/?sp=6&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_emerald_ver03%2Fdata%2Fsn84020097%2F00332897767%2F1925091501%2F0436.xml&q=terrorism&relevant_snippet=1"
+}

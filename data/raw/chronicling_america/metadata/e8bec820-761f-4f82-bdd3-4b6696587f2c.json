@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045081/1897-02-20/ed-1/?sp=7"
+  ],
+  "batch": [
+    "mdu_endive_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/maryland/",
+    "3/united states/maryland/baltimore/"
+  ],
+  "contributor": [
+    "university of maryland, college park, md"
+  ],
+  "date": "1897-02-20",
+  "dates": [
+    "1897-02-20"
+  ],
+  "description": [
+    ""
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-03-01T18:24:57.538Z",
+  "group": [
+    "ndnp/mdu",
+    "university-of-maryland-college-park-college-park-md-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045081/1897-02-20/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_endive_ver01:data:sn83045081:00296026244:1897022001:0310/full/pct:6.25/0/default.jpg#h=424&w=326",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_endive_ver01:data:sn83045081:00296026244:1897022001:0310/full/pct:12.5/0/default.jpg#h=849&w=653",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mdu/batch_mdu_endive_ver01/data/sn83045081/00296026244/1897022001/0310.xml&format=alto_xml"
+  ],
+  "index": 91,
+  "language": [
+    "german"
+  ],
+  "location": [
+    "baltimore",
+    "maryland",
+    "united states"
+  ],
+  "location_city": [
+    "baltimore"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "maryland"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn83045081",
+    "0",
+    "2",
+    "9",
+    "1",
+    "0000000007",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045081"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "6",
+    "0",
+    "2",
+    "6",
+    "2",
+    "4",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sonntags-Correspondent"
+  ],
+  "page_id": "sn83045081-1897-02-20-ed-1-0310",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "der deutsche correspondent (baltimore, md.) 1841-1918"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "der deutsche correspondent (baltimore, md.) 1841-1918"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045081/1897-02-20/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045081/1897-02-20/ed-1/"
+  ],
+  "shelf_id": "07",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "baltimore (md.)",
+    "maryland",
+    "german",
+    "baltimore",
+    "germans",
+    "german americans",
+    "united states"
+  ],
+  "subject_ethnicity": [
+    "german"
+  ],
+  "timestamp": "2023-03-07T10:56:05.440Z",
+  "title": "Image 7 of Der Deutsche correspondent (Baltimore, Md.), February 20, 1897, (Der Sonntags-Correspondent.)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045081/1897-02-20/ed-1/?sp=7&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmdu%2Fbatch_mdu_endive_ver01%2Fdata%2Fsn83045081%2F00296026244%2F1897022001%2F0310.xml&q=revolution&relevant_snippet=1"
+}

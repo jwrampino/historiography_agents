@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83016244/1963-10-29/ed-1/?sp=6"
+  ],
+  "batch": [
+    "fu_freeport_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/florida/",
+    "2/united states/florida/monroe/",
+    "3/united states/florida/monroe/key west/"
+  ],
+  "contributor": [
+    "university of florida"
+  ],
+  "date": "1963-10-29",
+  "dates": [
+    "1963-10-29"
+  ],
+  "description": [
+    "Elw Iteg West Eitixen fka SmrtkemaMM Hniw Tka NORMAN D ABTMAN Editor and Publisher MARGARET FOBESMAN Managing Editor BAYFORD ROBERTS Circulatioa Manager Page 6 Privilege Of Giving Most Americans are lucky be cause they can rive away some of their money to help their less for tunate fellow citizens This is not a paradox but a truth rooted deep in human psychology The great bulk of the worlds people do not enjoy this kind of luck Their whole lives are spent on the ragged edge of subsistence When they see even greater suffer ing around them they have little or no means of helping A man with A Political Lesson A newly published biography of an influential senator of about a century ago recalls a fact that is of particular interest as we move to ward a presidential election year It is that three men have missed the presidency by but one vote In 1800 Aaron Burr tied Thomas Jefferson in the electoral college and Jefferson was later chosen by the House of Representa tives When Rutherford B Hayes and Samuel J Tilden were neck and neck in 1876 the final settlement gave Tilden 184 electoral votes but Hayes got"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2026-01-27T17:01:24.223Z",
+  "group": [
+    "ndnp/fu",
+    "university-of-florida-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83016244/1963-10-29/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_freeport_ver01:data:sn83016244:00517170033:1963102901:0738/full/pct:3.125/0/default.jpg#h=308&w=218",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_freeport_ver01:data:sn83016244:00517170033:1963102901:0738/full/pct:6.25/0/default.jpg#h=617&w=436",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/fu/batch_fu_freeport_ver01/data/sn83016244/00517170033/1963102901/0738.xml&format=alto_xml"
+  ],
+  "index": 62,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "monroe county",
+    "key west",
+    "monroe",
+    "florida"
+  ],
+  "location_city": [
+    "key west"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "monroe"
+  ],
+  "location_state": [
+    "florida"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "5",
+    "0000000006",
+    "7",
+    "3",
+    "sn83016244",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83016244"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "0",
+    "0",
+    "3",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83016244-1963-10-29-ed-1-0738",
+  "partof": [
+    "serial and government publications division",
+    "the key west citizen (key west, fla.) 1879-current",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the key west citizen (key west, fla.) 1879-current"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83016244/1963-10-29/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83016244/1963-10-29/ed-1/"
+  ],
+  "shelf_id": "06",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "monroe county (fla.)",
+    "key west",
+    "monroe county",
+    "key west (fla.)",
+    "newspapers",
+    "monroe",
+    "florida"
+  ],
+  "timestamp": "2026-01-28T05:33:29.343Z",
+  "title": "Image 6 of The Key West citizen (Key West, Fla.), October 29, 1963",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83016244/1963-10-29/ed-1/?sp=6&q=civil+rights",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Ffu%2Fbatch_fu_freeport_ver01%2Fdata%2Fsn83016244%2F00517170033%2F1963102901%2F0738.xml&q=civil+rights&relevant_snippet=1"
+}

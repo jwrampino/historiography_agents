@@ -1,0 +1,132 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2023270549/1890-02-22/ed-1/?sp=2"
+  ],
+  "batch": [
+    "dlc_arial_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "3/united states/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1890-02-22",
+  "dates": [
+    "1890-02-22"
+  ],
+  "description": [
+    "2 PROFESSOR GOLDWIN SMITH Professor Goldwin Smith an old and dis tinguished journalist a brilliant historian and political controversalist a shining light intel lectually in our midst and a gentleman of vast prominence is still with the vigor of youth pouring forth his trenchant criticisms on politi cal social and foreign matters making even the most caieful of our statesmen in the world at large hesitate before taking action While a scholar of the highest order one of the if not the best educated gentleman in Canada surrounded with wealth an orator whose fluency of speech ease of manner and beauti ful diction seldom heard have made him the pride and prize of the crowning intellects of our sweet Dominion he never fails to give consideration and gentleness to the most meagre He is a philanthropist in the strong est sense of the word a Samaritan in the broadest manner a coveted companion beyond description one in whose society all care passes away and in whom the elegance of beautifying nature springs to the front giving instruction sanctity comfort and lasting memories of what man can accomplish to the present generation and to the generations to come He was born"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-09-29T20:11:55.295Z",
+  "group": [
+    "sgpjournalistbatches/dlc",
+    "sgp-journalist"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2023270549/1890-02-22/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_arial_ver02:data:2023270549:print:1890022201:0002/full/pct:6.25/0/default.jpg#h=330&w=237",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_arial_ver02:data:2023270549:print:1890022201:0002/full/pct:12.5/0/default.jpg#h=661&w=474",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/sgp/sgpbatches/batch_dlc_arial_ver02/data/2023270549/print/1890022201/0002.xml&format=alto_xml"
+  ],
+  "index": 137,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "new york",
+    "united states"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000002",
+    "1",
+    "2023270549"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2023270549"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2023270549-1890-02-22-ed-1-0002",
+  "partof": [
+    "the journalist (new york) 1884-1907 [online resource]",
+    "the journalist (new york), 1884 to 1906",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "the journalist (new york), 1884 to 1906"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the journalist (new york) 1884-1907 [online resource]"
+  ],
+  "publication_frequency": [
+    "monthly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2023270549/1890-02-22/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2023270549/1890-02-22/ed-1/"
+  ],
+  "shelf_id": "02",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "new york",
+    "journalism",
+    "periodicals",
+    "united states",
+    "p\u00e9riodiques",
+    "journalisme"
+  ],
+  "timestamp": "2025-09-29T20:19:21.045Z",
+  "title": "Image 2 of The journalist (New York), February 22, 1890",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2023270549/1890-02-22/ed-1/?sp=2&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fsgp%2Fsgpbatches%2Fbatch_dlc_arial_ver02%2Fdata%2F2023270549%2Fprint%2F1890022201%2F0002.xml&q=manifest+destiny&relevant_snippet=1"
+}

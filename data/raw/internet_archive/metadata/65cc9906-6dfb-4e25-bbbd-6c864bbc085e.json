@@ -1,0 +1,14 @@
+{
+  "description": "Books, Serials, web collections related to medicine, mostly historical.",
+  "format": [
+    "Archive BitTorrent",
+    "Item Image",
+    "Item Tile",
+    "Metadata",
+    "Text"
+  ],
+  "identifier": "medicallibrary",
+  "mediatype": "collection",
+  "subject": "medicine",
+  "title": "Medical Library"
+}

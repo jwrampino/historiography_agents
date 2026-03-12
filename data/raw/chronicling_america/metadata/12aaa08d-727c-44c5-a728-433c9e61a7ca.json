@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88071001/1962-11-12/ed-1/?sp=1"
+  ],
+  "batch": [
+    "gu_kraken_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/georgia/",
+    "2/united states/georgia/richmond/",
+    "3/united states/georgia/richmond/augusta/"
+  ],
+  "contributor": [
+    "digital library of georgia, a project of galileo located at the university of georgia libraries"
+  ],
+  "date": "1962-11-12",
+  "dates": [
+    "1962-11-12"
+  ],
+  "description": [
+    "h THE Vol 2 Constitutions McGill Amusing Example Of How Castro Made Dunces Of Liberals Cuban Situation Proves United States Senator Thurmond To Be Ooe Of The Greatest Statesmen In The Congress Kennedy Fulbright State Department Deliberately Adopted The NoWin Policy The Cuban situation conclusively proves Strom Thurmond the United States Senator from South Carolina to be one of the greatest statesmen in America The situation should force his critics over the last twelve months to hang their heads in shame and at the same time to acknowledge the great service he has rendered the people of this nation For more than a year Strom Thur mond has preached that the administra tion in Washington has been following a nowin policy in the contest with the Communists A NoWin Policy He has time and again made it known that the administration and especially the State Department deliberately fol lowed a nowin policy In doing so they censored the speech es of all the officials of the military in order to curb their activities in opposi tion to this nowin policy In an editorial appearing on Mon day October 29 1962 the Charleston South Carolina NEWS and COURIER said Thurmond Was"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-06-29T05:13:40.925Z",
+  "group": [
+    "ndnp/gu",
+    "digital-library-of-georgia-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88071001/1962-11-12/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_kraken_ver01:data:sn88071001:00529044707:1962111201:0597/full/pct:3.125/0/default.jpg#h=261&w=188",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_kraken_ver01:data:sn88071001:00529044707:1962111201:0597/full/pct:6.25/0/default.jpg#h=523&w=376",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_kraken_ver01:data:sn88071001:00529044707:1962111201:0597/full/pct:12.5/0/default.jpg#h=1047&w=753",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/gu/batch_gu_kraken_ver01/data/sn88071001/00529044707/1962111201/0597.xml&format=alto_xml"
+  ],
+  "index": 117,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "augusta",
+    "richmond",
+    "georgia"
+  ],
+  "location_city": [
+    "augusta"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "richmond"
+  ],
+  "location_state": [
+    "georgia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "5",
+    "9",
+    "7",
+    "4",
+    "sn88071001",
+    "2",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88071001"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "2",
+    "9",
+    "0",
+    "4",
+    "4",
+    "7",
+    "0",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88071001-1962-11-12-ed-1-0597",
+  "partof": [
+    "serial and government publications division",
+    "chronicling america",
+    "the augusta courier (augusta, ga.) 1946-1974"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the augusta courier (augusta, ga.) 1946-1974"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88071001/1962-11-12/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88071001/1962-11-12/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "georgia",
+    "augusta (ga.)",
+    "united states",
+    "since 1945",
+    "augusta",
+    "newspapers",
+    "conservatism",
+    "politics and government",
+    "richmond"
+  ],
+  "timestamp": "2025-06-29T05:45:49.780Z",
+  "title": "Image 1 of The Augusta courier (Augusta, Ga.), November 12, 1962",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88071001/1962-11-12/ed-1/?sp=1&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fgu%2Fbatch_gu_kraken_ver01%2Fdata%2Fsn88071001%2F00529044707%2F1962111201%2F0597.xml&q=cuba&relevant_snippet=1"
+}

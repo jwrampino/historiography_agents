@@ -1,0 +1,174 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84020097/1933-11-14/ed-1/?sp=6"
+  ],
+  "batch": [
+    "iune_fluorite_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/",
+    "1/united states/illinois/",
+    "2/united states/illinois/cook/",
+    "3/united states/illinois/cook/chicago/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1933-11-14",
+  "dates": [
+    "1933-11-14"
+  ],
+  "description": [
+    "Page Six DaiUi3fcrier Americas Only Working Claw Daily Newspaper FOUNDED 19M Pubuaked aaaty xtpt Sunday by th Oomprodwif PuMMtfni Co Inc 80 tut JSth Street New York K H Telephone Algonquin 47W5 Cable Address Tswork New York V Y Washington Bureau Room 94 Watfowtl Nrwt Building 14th and Q St Washington D C snberfptHwi Ratr St Mall exempt Manhattan and Bronx 1 6 months 190 1 months 1200 1 month 78 cants Manhattan Bronx Foreign and Canada 1 J 0 00 6 months SSOO S months 300 Br Carrier Weekly If eents monthly 78 cent TUESDAY NOVEMBER 14 1933 f 11 The Farmers Must Fight On PXCEPT for sporadic announcements of violence the capitalist press has grown suddenly silent on I the latest developments in the Western Farm strike But this silence of the capitalist press by no means tan be taken to mean that the struggles of the farm j ere have ended v It is true that the arch misleader of the farmers j Milo Reno stands convicted again of having betrayed j the farmers by his policy of sending the farmers into the strike without the slightest degree of preliminary j preparation and by his policy of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:20:32.314Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84020097/1933-11-14/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_fluorite_ver01:data:sn84020097:00332897421:1933111401:0682/full/pct:3.125/0/default.jpg#h=268&w=207",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_fluorite_ver01:data:sn84020097:00332897421:1933111401:0682/full/pct:6.25/0/default.jpg#h=536&w=414",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_fluorite_ver01:data:sn84020097:00332897421:1933111401:0682/full/pct:12.5/0/default.jpg#h=1073&w=829",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_fluorite_ver01/data/sn84020097/00332897421/1933111401/0682.xml&format=alto_xml"
+  ],
+  "index": 73,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "illinois",
+    "cook",
+    "united states",
+    "new york",
+    "new york city",
+    "chicago"
+  ],
+  "location_city": [
+    "new york",
+    "chicago"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york",
+    "cook"
+  ],
+  "location_state": [
+    "new york",
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "9",
+    "4",
+    "2",
+    "0000000006",
+    "1",
+    "sn84020097",
+    "7",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84020097"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "7",
+    "4",
+    "2",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84020097-1933-11-14-ed-1-0682",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the daily worker (chicago, ill.;new york, n.y.) 1924-1958"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the daily worker (chicago, ill.;new york, n.y.) 1924-1958"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84020097/1933-11-14/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84020097/1933-11-14/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "illinois",
+    "new york (n.y.)",
+    "cook",
+    "united states",
+    "labor unions",
+    "newspapers",
+    "new york",
+    "new york (state)",
+    "communism",
+    "chicago (ill.)",
+    "labor movement",
+    "chicago"
+  ],
+  "timestamp": "2025-05-22T03:16:32.833Z",
+  "title": "Image 6 of The daily worker (Chicago, Ill.;New York, N.Y.), November 14, 1933",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84020097/1933-11-14/ed-1/?sp=6&q=soviet+union",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_fluorite_ver01%2Fdata%2Fsn84020097%2F00332897421%2F1933111401%2F0682.xml&q=soviet+union&relevant_snippet=1"
+}

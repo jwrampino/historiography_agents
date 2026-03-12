@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn90051068/1899-05-06/ed-1/?sp=2"
+  ],
+  "batch": [
+    "cohi_ironton_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/colorado/",
+    "2/united states/colorado/rio grande/",
+    "3/united states/colorado/rio grande/monte vista/"
+  ],
+  "contributor": [
+    "history colorado"
+  ],
+  "date": "1899-05-06",
+  "dates": [
+    "1899-05-06"
+  ],
+  "description": [
+    "THE JOURNAL MONTE VISTA COLORADO The profile of a pretty girl is a sort o sideshow atiraction Even the pessimist can see the bright side of a silver dollar To suffer is the lot of all those who press forward ahead of the wond G Give ud g age and we Teo get the good out of the years we must learn how to live each hour well The theater patron who buys a seat in the front row passes around the hat 4 Mea induige In lots of beauty sleep But they havent much beauty to show for It The charities that soothe and hea and bless lio scattered at the feet of men like flowers See where a road ends before you fake it and te what an acuon leads before yeu begia it But few mea are brave enongh to allew a mind reader to expose their thoughte In the preseace of friende The beauty that addresces itself to the eye is only the spell of the mo meont the eye of the Lody s not al ways that of the seul H music be the peacemakar it s sald to be the soener Unele 3am starts"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-12-27T20:52:33.653Z",
+  "group": [
+    "ndnp/cohi",
+    "history-colorado-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn90051068/1899-05-06/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_ironton_ver01:data:sn90051068:00513680818:1899050601:0394/full/pct:6.25/0/default.jpg#h=332&w=255",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_ironton_ver01:data:sn90051068:00513680818:1899050601:0394/full/pct:12.5/0/default.jpg#h=664&w=511",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/cohi/batch_cohi_ironton_ver01/data/sn90051068/00513680818/1899050601/0394.xml&format=alto_xml"
+  ],
+  "index": 29,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "monte vista",
+    "colorado",
+    "united states",
+    "rio grande"
+  ],
+  "location_city": [
+    "monte vista"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "rio grande"
+  ],
+  "location_state": [
+    "colorado"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "5",
+    "1",
+    "6",
+    "0000000002",
+    "sn90051068",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn90051068"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "3",
+    "6",
+    "8",
+    "0",
+    "8",
+    "1",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Stampede edition"
+  ],
+  "page_id": "sn90051068-1899-05-06-ed-1-0394",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the monte vista journal (monte vista, rio grande county, colo.) 1888-1921"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the monte vista journal (monte vista, rio grande county, colo.) 1888-1921"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn90051068/1899-05-06/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn90051068/1899-05-06/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "colorado",
+    "monte vista",
+    "rio grande"
+  ],
+  "timestamp": "2023-12-28T09:03:36.513Z",
+  "title": "Image 2 of The Monte Vista journal (Monte Vista, Rio Grande County, Colo.), May 6, 1899",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn90051068/1899-05-06/ed-1/?sp=2&q=great+depressiom",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fcohi%2Fbatch_cohi_ironton_ver01%2Fdata%2Fsn90051068%2F00513680818%2F1899050601%2F0394.xml&q=great+depressiom&relevant_snippet=1"
+}

@@ -1,0 +1,223 @@
+{
+  "dataControlGroup": {
+    "groupId": "ou=NREA,ou=groups",
+    "groupCd": "RMKC"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "false",
+  "digitalObjects": [
+    {
+      "objectFilename": "LingLee_001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/9/69/12006909/content/arcmedia/central-plains/kansas-city/6862011/LingLee_001.jpg",
+      "objectFileSize": 2360315,
+      "objectId": "16011121",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "LingLee_002.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/9/69/12006909/content/arcmedia/central-plains/kansas-city/6862011/LingLee_002.jpg",
+      "objectFileSize": 1632715,
+      "objectId": "16011123",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "LingLee_003.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/9/69/12006909/content/arcmedia/central-plains/kansas-city/6862011/LingLee_003.jpg",
+      "objectFileSize": 2835904,
+      "objectId": "16011124",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "LingLee_004.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/9/69/12006909/content/arcmedia/central-plains/kansas-city/6862011/LingLee_004.jpg",
+      "objectFileSize": 1819642,
+      "objectId": "16011125",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "LingLee_005.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/9/69/12006909/content/arcmedia/central-plains/kansas-city/6862011/LingLee_005.jpg",
+      "objectFileSize": 2276655,
+      "objectId": "16011126",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "LingLee_006.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/9/69/12006909/content/arcmedia/central-plains/kansas-city/6862011/LingLee_006.jpg",
+      "objectFileSize": 1703572,
+      "objectId": "16011127",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "LingLee_007.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/9/69/12006909/content/arcmedia/central-plains/kansas-city/6862011/LingLee_007.jpg",
+      "objectFileSize": 2857937,
+      "objectId": "16011129",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "LingLee_008.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/9/69/12006909/content/arcmedia/central-plains/kansas-city/6862011/LingLee_008.jpg",
+      "objectFileSize": 1930611,
+      "objectId": "16011130",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "LingLee_009.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/9/69/12006909/content/arcmedia/central-plains/kansas-city/6862011/LingLee_009.jpg",
+      "objectFileSize": 2346590,
+      "objectId": "16011131",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "LingLee_010.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/9/69/12006909/content/arcmedia/central-plains/kansas-city/6862011/LingLee_010.jpg",
+      "objectFileSize": 1673868,
+      "objectId": "16011133",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "LingLee_011.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/9/69/12006909/content/arcmedia/central-plains/kansas-city/6862011/LingLee_011.jpg",
+      "objectFileSize": 3119161,
+      "objectId": "16011134",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "LingLee_012.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/9/69/12006909/content/arcmedia/central-plains/kansas-city/6862011/LingLee_012.jpg",
+      "objectFileSize": 1882275,
+      "objectId": "16011135",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "LingLee_013.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/9/69/12006909/content/arcmedia/central-plains/kansas-city/6862011/LingLee_013.jpg",
+      "objectFileSize": 2472196,
+      "objectId": "16011136",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "LingLee_014.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/9/69/12006909/content/arcmedia/central-plains/kansas-city/6862011/LingLee_014.jpg",
+      "objectFileSize": 3434906,
+      "objectId": "16011137",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "LingLee_015.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/9/69/12006909/content/arcmedia/central-plains/kansas-city/6862011/LingLee_015.jpg",
+      "objectFileSize": 3176766,
+      "objectId": "16011138",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "LingLee_016.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/9/69/12006909/content/arcmedia/central-plains/kansas-city/6862011/LingLee_016.jpg",
+      "objectFileSize": 2575577,
+      "objectId": "16011140",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "LingLee_017.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/9/69/12006909/content/arcmedia/central-plains/kansas-city/6862011/LingLee_017.jpg",
+      "objectFileSize": 1693946,
+      "objectId": "16011141",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "LingLee.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/9/69/12006909/content/arcmedia/central-plains/kansas-city/6862011/LingLee.pdf",
+      "objectFileSize": 0,
+      "objectId": "16011122",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1685,
+        "logicalDate": "1685-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 21,
+      "inclusiveEndDate": {
+        "year": 2009,
+        "logicalDate": "2009-12-31"
+      },
+      "title": "Records of District Courts of the United States",
+      "naId": 350
+    },
+    {
+      "inclusiveStartDate": {
+        "month": 11,
+        "year": 1900,
+        "day": 14,
+        "logicalDate": "1900-11-14"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "U.S. District Court for the Eastern (St. Louis) Division of the Eastern District of Missouri. 2/28/1887-",
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 2,
+            "year": 1887,
+            "day": 28,
+            "logicalDate": "1887-02-28"
+          },
+          "naId": 10459091
+        }
+      ],
+      "inclusiveEndDate": {
+        "month": 5,
+        "year": 1925,
+        "day": 1,
+        "logicalDate": "1925-05-01"
+      },
+      "title": "Chinese Exclusion Case Files",
+      "naId": 6862011
+    }
+  ],
+  "title": "Chinese Exclusion Case File for Lee Ling",
+  "naId": 12006909,
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Kansas City",
+          "phone": "816-268-8000",
+          "address1": "400 West Pershing Road",
+          "postalCode": "64108",
+          "name": "National Archives at Kansas City",
+          "state": "MO",
+          "fax": "816-268-8038",
+          "email": "kansascity.archives@nara.gov",
+          "mailCode": "RM-KC"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  }
+}

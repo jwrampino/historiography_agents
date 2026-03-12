@@ -1,0 +1,151 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn91059411/1898-12-02/ed-1/?sp=4"
+  ],
+  "batch": [
+    "mnhi_antony_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/minnesota/",
+    "2/united states/minnesota/kanabec/"
+  ],
+  "contributor": [
+    "minnesota historical society; saint paul, mn"
+  ],
+  "date": "1898-12-02",
+  "dates": [
+    "1898-12-02"
+  ],
+  "description": [
+    "ines BY R M POPE PUBLISHED EVERY FRIDAY MORNING FILE EXPENSE ACCOUNT ALL CANDIDATES ELECTED AND DEFEATED MUST COIPLY WITH THE LAW The Following Section of The Elec tion Laws Provide That Ail Candidates Are Compelled to File an Account of Their Election Expenses Every person who shall be a candidate before any caucus or con vention or at any primary election or at any election for the state comity city township district or municipal office or for senator or representative in the legislature of Minnesota or for senator or representative in the congress of the United States shall within thirty clays after the election held to fill such office or place make out and file with the officers empowered by law to issue the cer tificate of election to such office or place and the duplicate thereof with the county auditor for the county in which such candidate resides a state ment in writing which statement shall be subscribed and sworn to by such candidate before an officer authorized to administer oaths set ting forth in detail all sums of money contributed disbursed ex pended or promised by him and to the best of his knowledge and belief by"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-03T22:08:14.748Z",
+  "group": [
+    "ndnp/mnhi",
+    "minnesota-historical-society-saint-paul-mn-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn91059411/1898-12-02/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antony_ver01:data:sn91059411:00517011447:1898120201:0609/full/pct:6.25/0/default.jpg#h=494&w=329",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antony_ver01:data:sn91059411:00517011447:1898120201:0609/full/pct:12.5/0/default.jpg#h=989&w=659",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mnhi/batch_mnhi_antony_ver01/data/sn91059411/00517011447/1898120201/0609.xml&format=alto_xml"
+  ],
+  "index": 94,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "kanabec county",
+    "kanabec",
+    "minnesota"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "kanabec"
+  ],
+  "location_state": [
+    "minnesota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "5",
+    "1",
+    "4",
+    "7",
+    "0000000004",
+    "sn91059411"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn91059411"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "0",
+    "1",
+    "1",
+    "4",
+    "4",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn91059411-1898-12-02-ed-1-0609",
+  "partof": [
+    "chronicling america",
+    "the kanabec county times (mora, mn) 1884-current",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the kanabec county times (mora, mn) 1884-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn91059411/1898-12-02/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn91059411/1898-12-02/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "kanabec county",
+    "newspapers",
+    "kanabec county (minn.)",
+    "kanabec",
+    "minnesota"
+  ],
+  "timestamp": "2024-01-04T05:52:01.657Z",
+  "title": "Image 4 of The Kanabec County times (Mora, MN), December 2, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn91059411/1898-12-02/ed-1/?sp=4&q=phillipines",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmnhi%2Fbatch_mnhi_antony_ver01%2Fdata%2Fsn91059411%2F00517011447%2F1898120201%2F0609.xml&q=phillipines&relevant_snippet=1"
+}

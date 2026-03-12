@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85053305/1932-02-12/ed-1/?sp=1"
+  ],
+  "batch": [
+    "mthi_juniper_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/sheridan/",
+    "3/united states/montana/sheridan/plentywood/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1932-02-12",
+  "dates": [
+    "1932-02-12"
+  ],
+  "description": [
+    "NATIONAL EDITION Gct Subscription For Your Fighting Organ Among Your F armer Neighbors p Mi shed Weekly VOL XIV No 46 Ji Join the United Fanners League _ OFFICIAL ORGAN OF THE UNITED FARMERS LEAGUE _ PLENTYWOOD SHERIDAN COUNTY MONTANA FRIDAY FEBRUARY 12 1932 Price Five Cent Entered as second Class Matter Oe tober 18 1918 at the Post office at Plentywood Montana Unde r the Act of March 8 litt ft T Jap T Wo f y r e i ft Leniency of Minn Rural Credits Means Increased Misery i Demand Aged Farmer Mortgage 1932 Crop and Pay 7 on Delinquencies __ Recently when the Minnesota j Rural Credits pant the destitute farmers of the j moartcrium on their in i Bureau refused to state a Urfst and principal which they could not pay the Bureau promis j ed that it would show them kn Just what this leniency iency of the FarmerLabor Rural Cred it Bureau is can be seen from the following ktkr sent us by a farmer STATE OF MINNESOTA Department of Rural Credit St Paul Jan 25 1932 Mr George Baumann Route 2 Box 54 Bagley Minn Dear Sir Your letter of January 18th re"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:49:16.605Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85053305/1932-02-12/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_juniper_ver01:data:sn85053305:00393341428:1932021201:0257/full/pct:3.125/0/default.jpg#h=294&w=216",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_juniper_ver01:data:sn85053305:00393341428:1932021201:0257/full/pct:6.25/0/default.jpg#h=589&w=433",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_juniper_ver01:data:sn85053305:00393341428:1932021201:0257/full/pct:12.5/0/default.jpg#h=1178&w=867",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_juniper_ver01/data/sn85053305/00393341428/1932021201/0257.xml&format=alto_xml"
+  ],
+  "index": 46,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "sheridan",
+    "montana",
+    "plentywood"
+  ],
+  "location_city": [
+    "plentywood"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "sheridan"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "0000000001",
+    "2",
+    "sn85053305",
+    "8",
+    "3",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85053305"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "9",
+    "3",
+    "3",
+    "4",
+    "1",
+    "4",
+    "2",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85053305-1932-02-12-ed-1-0257",
+  "partof": [
+    "chronicling america",
+    "the producers news (plentywood, mont.) 1918-1937",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the producers news (plentywood, mont.) 1918-1937"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85053305/1932-02-12/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85053305/1932-02-12/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "plentywood (mont.)",
+    "sheridan",
+    "plentywood",
+    "united states",
+    "newspapers",
+    "montana"
+  ],
+  "timestamp": "2023-07-06T08:42:57.912Z",
+  "title": "Image 1 of The producers news (Plentywood, Mont.), February 12, 1932, (COUNTY EDITION)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85053305/1932-02-12/ed-1/?sp=1&q=soviet+union",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_juniper_ver01%2Fdata%2Fsn85053305%2F00393341428%2F1932021201%2F0257.xml&q=soviet+union&relevant_snippet=1"
+}

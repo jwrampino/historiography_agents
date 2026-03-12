@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82015374/1824-07-06/ed-1/?sp=3"
+  ],
+  "batch": [
+    "iune_bismuth_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/illinois/",
+    "2/united states/illinois/madison/",
+    "3/united states/illinois/madison/edwardsville/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1824-07-06",
+  "dates": [
+    "1824-07-06"
+  ],
+  "description": [
+    "MLean Gov Bond the Rev William Kinney Hie late treasurer the auditor the Hon John Reynolds Henry Eddy Esq Sidney Bieese Esqhave these gentlemen declared that shivery cannot be introduced Has Doctor John Todd one of the convention candidates in Ma dison county declared that slavery can not be introduced Has the attorneyge neral declared that slavery cannot be in troduced Have Gen White Gen Har grave Gen Duncan Col Ewing and Judge Will declared that slavery can not be introduced No Not one of these gentlemen has so declared Who then I ask are the literati of die con vention party Nobody except a few unknown irresponsible scribblers who advocate slavery in their private conver sation hut in their writings say that it cannot be introduced or that it is not the object or any thing else which they think will enable them to deceive the unwary As to the literati and every body else Who are opposed to the convention they do say that slavery cannot be legally in troduced but they have never said that it cannot he introduced illegally and in violation of the compact of 1787 Men continue to he free agentsas free as Adam"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:16:59.320Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82015374/1824-07-06/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824070601:0268/full/pct:6.25/0/default.jpg#h=380&w=237",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824070601:0268/full/pct:12.5/0/default.jpg#h=761&w=475",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_bismuth_ver01/data/sn82015374/00332898024/1824070601/0268.xml&format=alto_xml"
+  ],
+  "index": 92,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "madison",
+    "edwardsville",
+    "illinois",
+    "united states"
+  ],
+  "location_city": [
+    "edwardsville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "madison"
+  ],
+  "location_state": [
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000003",
+    "1",
+    "8",
+    "9",
+    "sn82015374",
+    "4",
+    "3",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82015374"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "8",
+    "0",
+    "2",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82015374-1824-07-06-ed-1-0268",
+  "partof": [
+    "serial and government publications division",
+    "edwardsville spectator (edwardsville, ill.) 1819-1826",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "edwardsville spectator (edwardsville, ill.) 1819-1826"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82015374/1824-07-06/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82015374/1824-07-06/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "illinois",
+    "madison",
+    "edwardsville",
+    "newspapers",
+    "antislavery movements",
+    "edwardsville (ill.)"
+  ],
+  "timestamp": "2025-05-21T15:27:17.794Z",
+  "title": "Image 3 of Edwardsville spectator (Edwardsville, Ill.), July 6, 1824",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82015374/1824-07-06/ed-1/?sp=3&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_bismuth_ver01%2Fdata%2Fsn82015374%2F00332898024%2F1824070601%2F0268.xml&q=slavery&relevant_snippet=1"
+}

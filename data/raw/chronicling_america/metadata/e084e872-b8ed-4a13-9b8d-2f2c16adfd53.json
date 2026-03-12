@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn91070618/1960-10-07/ed-1/?sp=6"
+  ],
+  "batch": [
+    "rp_invisiblestalker_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/rhode island/",
+    "2/united states/rhode island/newport/",
+    "3/united states/rhode island/newport/newport/"
+  ],
+  "contributor": [
+    "rhode island digital newspaper project"
+  ],
+  "date": "1960-10-07",
+  "dates": [
+    "1960-10-07"
+  ],
+  "description": [
+    "Fund Shortage Reduces Navy Travel Orders The Navy has sharply curtailed moat forma of travel due to budg etary limitations At present travel funds limitations allocated to fleets aie several million dol lars short of bare minimum re quirement s the Navy has told all installations Secretary of the Navy William B Franke in his message pointed out that all possible efforts will be made to case the burden on operating forces and listed sev eral actions to help the situation Specific Actions Specifically he cited temporary additional duty temporary duty and permanent change of station moves Local screening boards have been asked to look over all orders Involving military or civilian temporary additional duty other actions ordered to curb travel were ill Reduce to a minimum purely administrative travel 2i Make maximum use of military transportation where savings will accrue to the gov ernment i3i Avoid issuing tem porary additional duty orders involving weekend layovers or leave iII Reduce where possible deployed units drawing per diem allowance isi Critically screen individu als selected to fill school quotas as well as review the quotas themselves ifii Cancel confer ence plans which do not promise directly to enhance fleet readi ness"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-04-27T04:22:45.193Z",
+  "group": [
+    "ndnp/rp",
+    "rhode-island-digital-newspaper-project"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn91070618/1960-10-07/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_invisiblestalker_ver01:data:sn91070618:00516991811:1960100701:0241/full/pct:6.25/0/default.jpg#h=346&w=303",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_invisiblestalker_ver01:data:sn91070618:00516991811:1960100701:0241/full/pct:12.5/0/default.jpg#h=692&w=606",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/rp/batch_rp_invisiblestalker_ver01/data/sn91070618/00516991811/1960100701/0241.xml&format=alto_xml"
+  ],
+  "index": 129,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "rhode island",
+    "newport"
+  ],
+  "location_city": [
+    "newport"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "newport"
+  ],
+  "location_state": [
+    "rhode island"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "8",
+    "5",
+    "6",
+    "9",
+    "sn91070618",
+    "0000000006",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn91070618"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "1",
+    "8",
+    "1",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Issues for Jan. 8-Sept. 9, 1988 published as: Navalog"
+  ],
+  "page_id": "sn91070618-1960-10-07-ed-1-0241",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "newport navalog (newport, r.i.) 1944-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "newport navalog (newport, r.i.) 1944-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn91070618/1960-10-07/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn91070618/1960-10-07/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "rhode island",
+    "newspapers",
+    "newport",
+    "newport (r.i.)",
+    "military bases"
+  ],
+  "timestamp": "2025-04-27T04:36:56.828Z",
+  "title": "Image 6 of Newport navalog (Newport, R.I.), October 7, 1960",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn91070618/1960-10-07/ed-1/?sp=6&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Frp%2Fbatch_rp_invisiblestalker_ver01%2Fdata%2Fsn91070618%2F00516991811%2F1960100701%2F0241.xml&q=nuclear&relevant_snippet=1"
+}

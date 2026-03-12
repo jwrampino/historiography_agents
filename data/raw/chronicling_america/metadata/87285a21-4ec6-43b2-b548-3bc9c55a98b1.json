@@ -1,0 +1,136 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2004540423/1916-02-07/ed-1/?sp=194"
+  ],
+  "batch": [
+    "dlc_1uqbar_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1916-02-07",
+  "dates": [
+    "1916-02-07"
+  ],
+  "description": [
+    "OUR FRIEND The Department of Commerce has prepared statistics showing that Englands restrictions upon American exports to Sweden Denmark and Holland caused them to drop 04153433 in the seven months ended with July as com pared with the same period in 1915 Exports to Holland fell off 40990785 to Sweden 34 397 2 75 and to Denmark 18759373 Norways exports showed a gain of about 7000000 Hurrah for the Allies They are the hoysthey rob us with one hand and get our resources and money with the other THE BIG PUSH In eleven weeks of the allied offensive the allied troops have reconquered only 480 square miles of French territory or only 3 per cent of all the French and Belgian territory occupied by the Germans The German holdings in France are estimated at 6720 square miles and in Belgium at 9280 square milesBritish news correspondent But they don t say how many lives they have sacrificed a square mile or how many shells were spent or how much money it cost them Remember dear readers according to the British this is a war of resources yet we are not in formed of the resources spent CARELESSNESS Speaking of Hughes"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-19T00:31:17.325Z",
+  "group": [
+    "sgpww1newspaperclippings/dlc",
+    "wwi-newspaper-clippings"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2004540423/1916-02-07/ed-1/?sp=194",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_1uqbar_ver01:data:2004540423:print00192647897:1916020701:0194/full/pct:6.25/0/default.jpg#h=453&w=342",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_1uqbar_ver01:data:2004540423:print00192647897:1916020701:0194/full/pct:12.5/0/default.jpg#h=907&w=685",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/sgp/sgpbatches/batch_dlc_1uqbar_ver01/data/2004540423/print00192647897/1916020701/0194.xml&format=alto_xml"
+  ],
+  "index": 22,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "germany",
+    "united states",
+    "new york"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "2004540423",
+    "0000000194"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2004540423"
+  ],
+  "number_page": [
+    "0000000194"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2004540423-1916-02-07-ed-1-0194",
+  "partof": [
+    "world war history: newspaper clippings, 1914-1926",
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "world war history: newspaper clippings, 1914-1926"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2004540423/1916-02-07/ed-1/?sp=194"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2004540423/1916-02-07/ed-1/"
+  ],
+  "shelf_id": "194",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "sources",
+    "new york",
+    "germany",
+    "world war",
+    "history",
+    "allied occupation",
+    "armistices"
+  ],
+  "timestamp": "2022-11-09T17:02:33.006Z",
+  "title": "Image 194 of World War history : daily records and comments as appeared in American and foreign newspapers, 1914-1926 (New York), February 7, 1916, (1916 February 7-12)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2004540423/1916-02-07/ed-1/?sp=194&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fsgp%2Fsgpbatches%2Fbatch_dlc_1uqbar_ver01%2Fdata%2F2004540423%2Fprint00192647897%2F1916020701%2F0194.xml&q=manifest+destiny&relevant_snippet=1"
+}

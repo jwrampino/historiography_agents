@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88077226/1949-07-11/ed-1/?sp=2"
+  ],
+  "batch": [
+    "ohi_amaryllis_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/montgomery/",
+    "3/united states/ohio/montgomery/dayton/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1949-07-11",
+  "dates": [
+    "1949-07-11"
+  ],
+  "description": [
+    "tage Two AYMOND I t I jf 4 I The OHIO DAILY EXPRESS Pablished every evtmng except Sunday by Paige H Strickland at 1007 Germantown street Dayton 7 Ohio Phone HEmlock 1076 tAIGE H STRICKLAND Editor and Publisher UBY L TAYLOR Business Manager SWANN Advertising Manager NATIONAL ADVERTISING Interstate United Newspapers Inc 545 Ifth Avenue New York 17 New York Josephine Baker Richard Wright in Fronce Contract Bias in U S PARIS July 11 ANP Musi cal star Josephine Baker and nov elist Richard Wright American Negroes now making their homes in France deplored the bias in the United States and contrasted it the freedom they are finding in France The gave their candid opinions on the topic of bias after reading that Dr Ralph J Bunche refused A post as assistant secretary of state because he would have to undergo the humiliation of jim crow in Washington D C if he accepted At the age of 43 Miss Baker is drawing capacity crowds at the Folies Bergere with her dancing and singing Speaking of her most recent trip to the United States in 1948 Miss Baker declared I had forgotten how things were I hadnt even thought of myself"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:14:12.694Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88077226/1949-07-11/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_amaryllis_ver01:data:sn88077226:00414210399:1949071101:0202/full/pct:6.25/0/default.jpg#h=413&w=293",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_amaryllis_ver01:data:sn88077226:00414210399:1949071101:0202/full/pct:12.5/0/default.jpg#h=827&w=587",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_amaryllis_ver01/data/sn88077226/00414210399/1949071101/0202.xml&format=alto_xml"
+  ],
+  "index": 84,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ohio",
+    "united states",
+    "montgomery county",
+    "montgomery",
+    "dayton"
+  ],
+  "location_city": [
+    "dayton"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "montgomery"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn88077226",
+    "0000000002",
+    "9",
+    "2",
+    "3",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88077226"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "2",
+    "1",
+    "0",
+    "3",
+    "9",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88077226-1949-07-11-ed-1-0202",
+  "partof": [
+    "the ohio daily-express (dayton, ohio) 1946-1950",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the ohio daily-express (dayton, ohio) 1946-1950"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88077226/1949-07-11/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88077226/1949-07-11/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "ohio",
+    "african american",
+    "dayton (ohio)",
+    "united states",
+    "newspapers",
+    "montgomery county",
+    "african americans",
+    "montgomery",
+    "montgomery county (ohio)",
+    "dayton"
+  ],
+  "subject_ethnicity": [
+    "african american"
+  ],
+  "timestamp": "2023-09-04T23:58:04.618Z",
+  "title": "Image 2 of The Ohio daily-express (Dayton, Ohio), July 11, 1949",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88077226/1949-07-11/ed-1/?sp=2&q=civil+rights",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_amaryllis_ver01%2Fdata%2Fsn88077226%2F00414210399%2F1949071101%2F0202.xml&q=civil+rights&relevant_snippet=1"
+}

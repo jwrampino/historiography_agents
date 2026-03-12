@@ -1,0 +1,150 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82016181/1937-02-26/ed-1/?sp=21"
+  ],
+  "batch": [
+    "dlc_capa_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1937-02-26",
+  "dates": [
+    "1937-02-26"
+  ],
+  "description": [
+    "Plain Economics by John T Flynn Bureau of Foreign and Domestic Commerce study of debt problem offers food for serious thought says Flynn LOS ANGELESMany economists believe that debt plays an important part in the production of many of the ills of our economic system Of this there can be no doubt And if this is true there is food for serious thought in a study being made by the Bureau of Foreign and Domestic Commerce of the Department of Commerce As a preliminary to the simple essential facts of this report the following points are offered Our capitalist systems cannot function apparently without credit Credit is the mech anism by which savings funds otherwise removed from active func tioning are returned to the stream That is of expendable income when A saves 1000 he definitely decided not to spend it himself That money will not be spent until B borrows it B in borrowing it spends it But he plans to pay it back in the fu That is to say at some fu ture ture time he plans to set aside enough out of his future income to pay back the debt What he has done therefore is"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-09-28T05:01:35.272Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82016181/1937-02-26/ed-1/?sp=21",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_capa_ver01:data:sn82016181:00516999561:1937022601:1795/full/pct:6.25/0/default.jpg#h=331&w=224",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_capa_ver01:data:sn82016181:00516999561:1937022601:1795/full/pct:12.5/0/default.jpg#h=663&w=449",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_capa_ver01/data/sn82016181/00516999561/1937022601/1795.xml&format=alto_xml"
+  ],
+  "index": 66,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn82016181",
+    "5",
+    "6",
+    "9",
+    "0000000021",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82016181"
+  ],
+  "number_page": [
+    "0000000021"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "9",
+    "5",
+    "6",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82016181-1937-02-26-ed-1-1795",
+  "partof": [
+    "serial and government publications division",
+    "the washington daily news (washington, d.c.) 1921-1972",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington daily news (washington, d.c.) 1921-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82016181/1937-02-26/ed-1/?sp=21"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82016181/1937-02-26/ed-1/"
+  ],
+  "shelf_id": "21",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2025-09-28T05:47:17.604Z",
+  "title": "Image 21 of The Washington daily news (Washington, D.C.), February 26, 1937",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82016181/1937-02-26/ed-1/?sp=21&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_capa_ver01%2Fdata%2Fsn82016181%2F00516999561%2F1937022601%2F1795.xml&q=child+labor&relevant_snippet=1"
+}

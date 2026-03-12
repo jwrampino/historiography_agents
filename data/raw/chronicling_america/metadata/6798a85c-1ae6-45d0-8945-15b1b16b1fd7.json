@@ -1,0 +1,166 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn92053942/1875-03-25/ed-1/?sp=2"
+  ],
+  "batch": [
+    "iune_broadsheet_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/illinois/",
+    "2/united states/illinois/rock island county/",
+    "3/united states/illinois/rock island county/rock island/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1875-03-25",
+  "dates": [
+    "1875-03-25"
+  ],
+  "description": [
+    "xit Ikps Independent in Everything Thursiay March 35 U75 BUTLES 017 CIVIL BIHTS Fuail Oil Adth Hubiti Ckair Still for the White Ku A Warning to Stmio from the congress The following letter emanates Hon Benjamin F Butler late man from the district of Essex in Massa chusetts and will determine some douhtffTovk it over hitherto existing in many intelligent minds as to the exact scope of the famous civil rights act Washixotow March 18 1875 Sib I have the pleasure to acknowl edge receipt ot yours of the 14th contain ing expressions of appreciation of my ef forts in behalf ot the Civil Rights bill for which accept my thanks You further ask Will you be kind enough to inform me if colored men are entitled to the privi leges of saloons and barber shops under its provisions I AN l NENYIED PRIVILEGE To this I answer I understand by saloons you mean drinking saloons and am happy to say that the Civil Bights bill does not give any right to a colored man to go into a drinking saloon without the leave of the proprietor and am very glad that it docs not 1 am willins to concede"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:17:17.486Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn92053942/1875-03-25/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn92053942:00295879865:1875032501:0290/full/pct:3.125/0/default.jpg#h=261&w=194",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn92053942:00295879865:1875032501:0290/full/pct:6.25/0/default.jpg#h=523&w=388",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn92053942:00295879865:1875032501:0290/full/pct:12.5/0/default.jpg#h=1047&w=777",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_broadsheet_ver01/data/sn92053942/00295879865/1875032501/0290.xml&format=alto_xml"
+  ],
+  "index": 136,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "rock island",
+    "moline",
+    "rock island county",
+    "illinois",
+    "united states"
+  ],
+  "location_city": [
+    "rock island"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "rock island county"
+  ],
+  "location_state": [
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "0000000002",
+    "0",
+    "2",
+    "7",
+    "9",
+    "1",
+    "sn92053942",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn92053942"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "5",
+    "8",
+    "7",
+    "9",
+    "8",
+    "6",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Rock Island daily Argus"
+  ],
+  "page_id": "sn92053942-1875-03-25-ed-1-0290",
+  "partof": [
+    "the daily argus (rock island, ill.) 1873-1877",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the daily argus (rock island, ill.) 1873-1877"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn92053942/1875-03-25/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn92053942/1875-03-25/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "rock island (ill.)",
+    "rock island",
+    "moline",
+    "rock island county",
+    "moline (ill.)",
+    "illinois",
+    "united states"
+  ],
+  "timestamp": "2025-05-21T16:30:48.295Z",
+  "title": "Image 2 of The daily Argus (Rock Island, Ill.), March 25, 1875",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn92053942/1875-03-25/ed-1/?sp=2&q=civil+rights",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_broadsheet_ver01%2Fdata%2Fsn92053942%2F00295879865%2F1875032501%2F0290.xml&q=civil+rights&relevant_snippet=1"
+}

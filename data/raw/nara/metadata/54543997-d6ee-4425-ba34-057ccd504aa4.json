@@ -1,0 +1,251 @@
+{
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "note": "Documents in the series that were prepared by officials in the United States Government as part of their official duties are in the public domain. Researchers are advised to consult the copyright law of the United States (Title 17, USC), which governs the making of photocopies or other reproductions of copyrighted materials.",
+    "specificUseRestrictions": [
+      "Copyright"
+    ],
+    "status": "Restricted - Possibly"
+  },
+  "title": "Child Labor",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Little Rock",
+          "phone": "501-244-2877",
+          "address1": "1200 President Clinton Avenue",
+          "postalCode": "72201",
+          "name": "William J. Clinton Library",
+          "state": "AR",
+          "fax": "501-244-2881",
+          "email": "clinton.library@nara.gov",
+          "mailCode": "LP-WJC"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper",
+          "containerId": "9"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "note": "Materials may be closed under restrictions of the Presidential Records Act and the Freedom of Information Act (FOIA). Withdrawal sheets in processed folders will indicate specific closures and restrictions.",
+    "specificAccessRestrictions": [
+      {
+        "restriction": "Freedom of Information Act (FOIA)"
+      },
+      {
+        "restriction": "Presidential Records Act (PRA)"
+      }
+    ],
+    "status": "Restricted - Possibly"
+  },
+  "dataControlGroup": {
+    "groupName": "William J. Clinton Library",
+    "groupId": "PL-WJC",
+    "groupCd": "PL-WJC"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "PL-WJC 2024-0729-S",
+      "type": "FOIA Tracking Number"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "3174884-20240729S-009-001-2025-001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/3174884/3174884-20240729S-009-001-2025/3174884-20240729S-009-001-2025-001.jpg",
+      "objectFileSize": 170925,
+      "objectId": "609051792",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "3174884-20240729S-009-001-2025-002.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/3174884/3174884-20240729S-009-001-2025/3174884-20240729S-009-001-2025-002.jpg",
+      "objectFileSize": 444329,
+      "objectId": "609051793",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "3174884-20240729S-009-001-2025-003.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/3174884/3174884-20240729S-009-001-2025/3174884-20240729S-009-001-2025-003.jpg",
+      "objectFileSize": 454925,
+      "objectId": "609051794",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "3174884-20240729S-009-001-2025-004.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/3174884/3174884-20240729S-009-001-2025/3174884-20240729S-009-001-2025-004.jpg",
+      "objectFileSize": 498288,
+      "objectId": "609051795",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "3174884-20240729S-009-001-2025-005.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/3174884/3174884-20240729S-009-001-2025/3174884-20240729S-009-001-2025-005.jpg",
+      "objectFileSize": 182843,
+      "objectId": "609051796",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "3174884-20240729S-009-001-2025-006.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/3174884/3174884-20240729S-009-001-2025/3174884-20240729S-009-001-2025-006.jpg",
+      "objectFileSize": 494275,
+      "objectId": "609051797",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "3174884-20240729S-009-001-2025-007.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/3174884/3174884-20240729S-009-001-2025/3174884-20240729S-009-001-2025-007.jpg",
+      "objectFileSize": 632584,
+      "objectId": "609051798",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "3174884-20240729S-009-001-2025-008.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/3174884/3174884-20240729S-009-001-2025/3174884-20240729S-009-001-2025-008.jpg",
+      "objectFileSize": 627164,
+      "objectId": "609051799",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "3174884-20240729S-009-001-2025-009.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/3174884/3174884-20240729S-009-001-2025/3174884-20240729S-009-001-2025-009.jpg",
+      "objectFileSize": 331950,
+      "objectId": "609051800",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "3174884-20240729S-009-001-2025-010.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/3174884/3174884-20240729S-009-001-2025/3174884-20240729S-009-001-2025-010.jpg",
+      "objectFileSize": 653731,
+      "objectId": "609051801",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "3174884-20240729S-009-001-2025-011.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/3174884/3174884-20240729S-009-001-2025/3174884-20240729S-009-001-2025-011.jpg",
+      "objectFileSize": 582303,
+      "objectId": "609051802",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "3174884-20240729S-009-001-2025-012.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/3174884/3174884-20240729S-009-001-2025/3174884-20240729S-009-001-2025-012.jpg",
+      "objectFileSize": 675082,
+      "objectId": "609051803",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "3174884-20240729S-009-001-2025-013.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/3174884/3174884-20240729S-009-001-2025/3174884-20240729S-009-001-2025-013.jpg",
+      "objectFileSize": 596650,
+      "objectId": "609051804",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "3174884-20240729S-009-001-2025-014.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/3174884/3174884-20240729S-009-001-2025/3174884-20240729S-009-001-2025-014.jpg",
+      "objectFileSize": 573653,
+      "objectId": "609051805",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "3174884-20240729S-009-001-2025-015.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/3174884/3174884-20240729S-009-001-2025/3174884-20240729S-009-001-2025-015.jpg",
+      "objectFileSize": 338281,
+      "objectId": "609051806",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "3174884-20240729S-009-001-2025-016.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/3174884/3174884-20240729S-009-001-2025/3174884-20240729S-009-001-2025-016.jpg",
+      "objectFileSize": 261128,
+      "objectId": "609051807",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "3174884-20240729S-009-001-2025-017.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/3174884/3174884-20240729S-009-001-2025/3174884-20240729S-009-001-2025-017.jpg",
+      "objectFileSize": 520577,
+      "objectId": "609051808",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "3174884-20240729S-009-001-2025.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/3174884/3174884-20240729S-009-001-2025/3174884-20240729S-009-001-2025.pdf",
+      "objectFileSize": 8355417,
+      "objectId": "609051791",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "otherTitles": [
+    "3174884-20240729S-009-001-2025",
+    "[Subject Files]"
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "WJC-OCS",
+      "inclusiveStartDate": {
+        "year": 1993,
+        "logicalDate": "1993-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "year": 2001,
+        "logicalDate": "2001-12-31"
+      },
+      "title": "Records of the Office of the Chief of Staff (Clinton Administration)",
+      "naId": 2524454
+    },
+    {
+      "inclusiveStartDate": {
+        "dateQualifier": "ca.",
+        "year": 1998,
+        "logicalDate": "1998-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "President (1993-2001 : Clinton). Office of the Chief of Staff. (01/20/1993 - 01/20/2001)",
+          "abolishDate": {
+            "month": 1,
+            "year": 2001,
+            "day": 20,
+            "logicalDate": "2001-01-20"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 1,
+            "year": 1993,
+            "day": 20,
+            "logicalDate": "1993-01-20"
+          },
+          "naId": 10460417
+        }
+      ],
+      "inclusiveEndDate": {
+        "dateQualifier": "ca.",
+        "year": 2001,
+        "logicalDate": "2001-12-31"
+      },
+      "title": "Karen Tramontano's Files",
+      "naId": 3174884
+    }
+  ],
+  "naId": 555645716
+}

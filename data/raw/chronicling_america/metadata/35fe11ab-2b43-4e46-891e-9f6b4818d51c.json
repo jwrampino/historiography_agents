@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82015374/1823-05-24/ed-1/?sp=2"
+  ],
+  "batch": [
+    "iune_bismuth_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/illinois/",
+    "2/united states/illinois/madison/",
+    "3/united states/illinois/madison/edwardsville/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1823-05-24",
+  "dates": [
+    "1823-05-24"
+  ],
+  "description": [
+    "persons whose lands or oilier propert have been struck off 10 the state for taxei shall be and they are hereby permitte to redeem the same at any time befor the first day of January next in the man ner and on the conditions prescribed i the first section of an act entitled Ai act for the reliefof certain persons whosi land bank stock c have been soli for taxes and for other purposes ap proved January 31 182 1 P Sec 29 tie it further enacted Tha if it shall appear to the satisfaction of the auditor that any lands have been through mistake sold to the state at any former tax sale or shall have been at any fu ture tax sale sold to the state for taxes when such lands belonged to ihe United States or were not legally subject to taxation it shall be his duty to erase the record of such sale and such lands shall be considered in the same light and charged with the same taxes as if no Such tale had taken place Sec 30 Bcitjurther enacted That the act entitled An act providing for the valuation of lands and other property"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:16:59.320Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82015374/1823-05-24/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823052401:0061/full/pct:6.25/0/default.jpg#h=379&w=232",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823052401:0061/full/pct:12.5/0/default.jpg#h=758&w=465",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_bismuth_ver01/data/sn82015374/00332898024/1823052401/0061.xml&format=alto_xml"
+  ],
+  "index": 133,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "edwardsville",
+    "united states",
+    "illinois",
+    "madison"
+  ],
+  "location_city": [
+    "edwardsville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "madison"
+  ],
+  "location_state": [
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn82015374",
+    "8",
+    "0000000002",
+    "0",
+    "2",
+    "9",
+    "1",
+    "3",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82015374"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "8",
+    "0",
+    "2",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82015374-1823-05-24-ed-1-0061",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "edwardsville spectator (edwardsville, ill.) 1819-1826"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "edwardsville spectator (edwardsville, ill.) 1819-1826"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82015374/1823-05-24/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82015374/1823-05-24/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "antislavery movements",
+    "madison",
+    "edwardsville (ill.)",
+    "edwardsville",
+    "illinois",
+    "united states"
+  ],
+  "timestamp": "2025-05-21T15:26:34.091Z",
+  "title": "Image 2 of Edwardsville spectator (Edwardsville, Ill.), May 24, 1823",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82015374/1823-05-24/ed-1/?sp=2&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_bismuth_ver01%2Fdata%2Fsn82015374%2F00332898024%2F1823052401%2F0061.xml&q=slavery&relevant_snippet=1"
+}

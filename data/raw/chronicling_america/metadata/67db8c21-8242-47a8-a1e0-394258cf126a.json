@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82014085/1939-04-13/ed-1/?sp=1"
+  ],
+  "batch": [
+    "ct_grasso_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/connecticut/",
+    "2/united states/connecticut/new haven/",
+    "3/united states/connecticut/new haven/waterbury/"
+  ],
+  "contributor": [
+    "connecticut state library, hartford, ct"
+  ],
+  "date": "1939-04-13",
+  "dates": [
+    "1939-04-13"
+  ],
+  "description": [
+    "Britain France Issue Fighting Challenge To Germany Italy The Weather Fair Colder Tonight Friday Fair Warmer rail Weather Report Pape 3 Home Edition Late Sport News 115 Stock Prices ESTABLISHED 1881 VOL LVH NO 86 WATERBUKY CONNECTICUT THURSDAY APRIL 13 1939 TWENTY PAGES PRICE 4 CENTS Mackenzie Doped When He Appeared Before Grand Jury Dictatorships Get Warning To Keep Hands Off Balkans Poland Greece Rumania Others Are Not to Be At tackedGermany Is Angry at PolandMay Decide to Open War Anytime United Press Foreign News Editor BY JOE ALEX MOitKIS Great Britain and France today publicly warned Europes dictatorships that they will fight any military thrust against the independence of the Balkans or the status quo in the Mediterranean Sternly charging Italy with disregarding the 1938 BritishItalian friendship treaty by a suspicious Fascist invasion of Albania Prime Minis ter Neville Chamberlain told the House of Commons that jdhuui wm iigiu wiwi uu ui its power to protect Rumania and Greece from aggression An Italian plan to attack the Greek Island of Corfu had been blocked only by quick and forceful British warnings to Rome The British pledges of assistance against aggressionnow extended to Poland Greece and Rumania were being communicated"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-06-01T13:39:07.766Z",
+  "group": [
+    "ndnp/ct",
+    "connecticut-state-library-hartford-ct-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82014085/1939-04-13/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_grasso_ver02:data:sn82014085:00393347442:1939041301:0691/full/pct:6.25/0/default.jpg#h=444&w=325",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_grasso_ver02:data:sn82014085:00393347442:1939041301:0691/full/pct:12.5/0/default.jpg#h=889&w=651",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ct/batch_ct_grasso_ver02/data/sn82014085/00393347442/1939041301/0691.xml&format=alto_xml"
+  ],
+  "index": 57,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "waterbury",
+    "connecticut",
+    "united states",
+    "new haven"
+  ],
+  "location_city": [
+    "waterbury"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new haven"
+  ],
+  "location_state": [
+    "connecticut"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "3",
+    "4",
+    "2",
+    "1",
+    "7",
+    "sn82014085",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82014085"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "9",
+    "3",
+    "3",
+    "4",
+    "7",
+    "4",
+    "4",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82014085-1939-04-13-ed-1-0691",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the waterbury democrat (waterbury, conn.) 1917-1946"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the waterbury democrat (waterbury, conn.) 1917-1946"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82014085/1939-04-13/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82014085/1939-04-13/ed-1/"
+  ],
+  "shelf_id": "01",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "waterbury",
+    "connecticut",
+    "newspapers",
+    "new haven",
+    "waterbury (conn.)"
+  ],
+  "timestamp": "2023-06-28T17:07:38.461Z",
+  "title": "Image 1 of The Waterbury Democrat (Waterbury, Conn.), April 13, 1939",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82014085/1939-04-13/ed-1/?sp=1&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fct%2Fbatch_ct_grasso_ver02%2Fdata%2Fsn82014085%2F00393347442%2F1939041301%2F0691.xml&q=terrorism&relevant_snippet=1"
+}

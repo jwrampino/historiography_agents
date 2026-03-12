@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86091145/1918-12-19/ed-1/?sp=8"
+  ],
+  "batch": [
+    "idhi_floris_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/idaho/",
+    "2/united states/idaho/gem/",
+    "3/united states/idaho/gem/emmett/",
+    "2/united states/idaho/canyon/",
+    "3/united states/idaho/canyon/emmett/"
+  ],
+  "contributor": [
+    "idaho state historical society"
+  ],
+  "date": "1918-12-19",
+  "dates": [
+    "1918-12-19"
+  ],
+  "description": [
+    "ff W\u00c6s T r jT\u00e9 L K m f 1 r yirZh r\u00c2 x f X ft W\u00c2 y M i 99 J I k f 8 AM t 7 \u00e8 chpistmas OLL CALL v 11C V lloi y s w lA M A a i 1 i M I I X J I I N I 4 p H By courtesy of H C Temple Cleveland Plain Dealer OO GRANPA WE FORGOT SOMPIN WHAT COUNTRY MUST DO FOR ITS DISABLED SOLDIERS Problems of Reconstruction Confront American Red Cross With New Tasks and New Responsibilities f Hiring these Christmases when men In the trenches and on mined seas sing enrols when our country glows to Its uttermost boundaries with the sym r under slinpllclties new will bigness for service come to very many io n and women w heu llic most awhile at Uil ot the Red Cross urthhouiid look for crosses and the st a r h ue standing mst h And as our soldiers and sailors nd strong and singing j 1 Over 1 omo hack crippled and disabled Americans arc seeing mure and more their own part and responsl ditty in reconstruct Ion Tills work means teaching"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-06T12:35:11.370Z",
+  "group": [
+    "ndnp/idhi",
+    "idaho-state-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86091145/1918-12-19/ed-1/?sp=8",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_floris_ver01:data:sn86091145:00414211677:1918121901:1093/full/pct:6.25/0/default.jpg#h=411&w=288",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_floris_ver01:data:sn86091145:00414211677:1918121901:1093/full/pct:12.5/0/default.jpg#h=822&w=576",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/idhi/batch_idhi_floris_ver01/data/sn86091145/00414211677/1918121901/1093.xml&format=alto_xml"
+  ],
+  "index": 185,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "emmett",
+    "gem",
+    "idaho",
+    "canyon"
+  ],
+  "location_city": [
+    "emmett"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "gem",
+    "canyon"
+  ],
+  "location_state": [
+    "idaho"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "sn86091145",
+    "6",
+    "0000000008",
+    "7",
+    "4",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86091145"
+  ],
+  "number_page": [
+    "0000000008"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "2",
+    "1",
+    "1",
+    "6",
+    "7",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86091145-1918-12-19-ed-1-1093",
+  "partof": [
+    "the emmett index (emmett, idaho) 1893-1925",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the emmett index (emmett, idaho) 1893-1925"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86091145/1918-12-19/ed-1/?sp=8"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86091145/1918-12-19/ed-1/"
+  ],
+  "shelf_id": "08",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "emmett",
+    "gem",
+    "idaho",
+    "newspapers",
+    "canyon",
+    "emmett (idaho)"
+  ],
+  "timestamp": "2023-07-06T20:32:06.698Z",
+  "title": "Image 8 of The Emmett index (Emmett, Idaho), December 19, 1918, (Christmas Edition)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86091145/1918-12-19/ed-1/?sp=8&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fidhi%2Fbatch_idhi_floris_ver01%2Fdata%2Fsn86091145%2F00414211677%2F1918121901%2F1093.xml&q=reconstruction&relevant_snippet=1"
+}

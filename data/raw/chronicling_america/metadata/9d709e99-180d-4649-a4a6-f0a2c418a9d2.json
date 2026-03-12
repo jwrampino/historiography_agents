@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88053046/1901-01-24/ed-1/?sp=7"
+  ],
+  "batch": [
+    "deu_horcrux_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/delaware/",
+    "2/united states/delaware/new castle/",
+    "3/united states/delaware/new castle/wilmington/"
+  ],
+  "contributor": [
+    "university of delaware library, newark, de"
+  ],
+  "date": "1901-01-24",
+  "dates": [
+    "1901-01-24"
+  ],
+  "description": [
+    "PETITION OF THE FILIPINOS Remarkable Plea for Liberty and Independence THE ORIGIN OF THE REVOLUTION Plain Facts About the Pending Problem Agulnaldo Is tho Idol of Hie People Flit pi no Are Ready to Fight to the Death A Cogent Argument to Show That No ter Solution Rut Independence Will Ever Eud the Warfure Congressional Record Januar 10th Mr Teller of ColoradoMr Presi dent tin re has been handed to me u petition signed by 2000 inhabitants of the Philippine Islands I have ex amined tho petition and I think I can say it benra tbe evidence of being a buna fide properly signed petition is couched in respectful language to the Congress of the United Stales Jt in volve a question of immense interest not only to the people who signed it but to the people of the United States It is a representative dooument I think of the people of Manila and that immediate region These people are not in hostility to the United States They oannot be called insurgents or bandits or rebels They have submitted to tbe jurisdic tion of the government of the United States They enter their dirsent from the condition existing in those"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-12T17:57:14.919Z",
+  "group": [
+    "ndnp/deu",
+    "university-of-delaware-library-newark-de-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88053046/1901-01-24/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_horcrux_ver01:data:sn88053046:00271741856:1901012401:0047/full/pct:6.25/0/default.jpg#h=338&w=242",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_horcrux_ver01:data:sn88053046:00271741856:1901012401:0047/full/pct:12.5/0/default.jpg#h=676&w=484",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/deu/batch_deu_horcrux_ver01/data/sn88053046/00271741856/1901012401/0047.xml&format=alto_xml"
+  ],
+  "index": 88,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "new castle",
+    "wilmington",
+    "delaware",
+    "united states"
+  ],
+  "location_city": [
+    "wilmington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new castle"
+  ],
+  "location_state": [
+    "delaware"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "2",
+    "0",
+    "7",
+    "1",
+    "sn88053046",
+    "0000000007",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88053046"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "1",
+    "7",
+    "4",
+    "1",
+    "8",
+    "5",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88053046-1901-01-24-ed-1-0047",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "delaware gazette and state journal (wilmington, del.) 1883-1902"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "delaware gazette and state journal (wilmington, del.) 1883-1902"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88053046/1901-01-24/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88053046/1901-01-24/ed-1/"
+  ],
+  "shelf_id": "7",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "new castle",
+    "delaware",
+    "wilmington (del.)",
+    "wilmington",
+    "united states"
+  ],
+  "timestamp": "2023-08-13T06:54:09.103Z",
+  "title": "Image 7 of Delaware gazette and state journal (Wilmington, Del.), January 24, 1901",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88053046/1901-01-24/ed-1/?sp=7&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdeu%2Fbatch_deu_horcrux_ver01%2Fdata%2Fsn88053046%2F00271741856%2F1901012401%2F0047.xml&q=revolution&relevant_snippet=1"
+}

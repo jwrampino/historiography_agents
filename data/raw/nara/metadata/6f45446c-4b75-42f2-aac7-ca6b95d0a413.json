@@ -1,0 +1,127 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "Just Another Mexican Revolution",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "Room 8E, 7th and Pennsylvania Avenue NW",
+          "city": "Washington",
+          "phone": "202-357-5350",
+          "address1": "National Archives Building",
+          "postalCode": "20408",
+          "name": "Center for Legislative Archives",
+          "state": "DC",
+          "fax": "202-357-5911",
+          "email": "legislative.archives@nara.gov",
+          "mailCode": "LL"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupName": "Center for Legislative Archives",
+    "groupId": "RPL",
+    "groupCd": "RPL"
+  },
+  "generalRecordsTypes": [
+    "Photographs and other Graphic Materials"
+  ],
+  "generalNotes": [
+    "Cartoonist Clifford Berryman shows a busy Uncle Sam seated at his desk trying to deal with the important issues of the League of Nations and peace discussions to bring a formal end to World War I. He is interrupted by a Mexican revolution jack-in-the-box. Uncle Sam's comment, \"What? Again!\" and teddy bear's comment, \"Just one after another\" refer to the vexing and unsettled issues and problems presented in U.S. relations with its neighbor to the south. Mexico was in the midst of revolution and not all factions were friendly to the United States and U.S. interests in Mexico."
+  ],
+  "localIdentifier": "V-045",
+  "productionDates": [
+    {
+      "month": 4,
+      "year": 1919,
+      "day": 4,
+      "logicalDate": "1919-04-04"
+    }
+  ],
+  "contributors": [
+    {
+      "heading": "Washington Evening Star",
+      "contributorType": "Publisher",
+      "authorityType": "organization",
+      "naId": 10508457
+    },
+    {
+      "heading": "Berryman, Clifford Kennedy, 1869-1949",
+      "deathDate": {
+        "year": 1949,
+        "logicalDate": "1949-12-31"
+      },
+      "contributorType": "Artist",
+      "authorityType": "person",
+      "birthDate": {
+        "year": 1869,
+        "logicalDate": "1869-01-01"
+      },
+      "naId": 10572594
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "4_4_1919_V-045_46_Berryman.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/59/115/6011559/content/arcmedia/legislative/clifford-berryman/4_4_1919_V-045_46_Berryman.jpg",
+      "objectFileSize": 1967162,
+      "objectId": "14270719",
+      "objectType": "Image (JPG)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1789,
+        "logicalDate": "1789-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 46,
+      "inclusiveEndDate": {
+        "year": 2023,
+        "logicalDate": "2023-12-31"
+      },
+      "title": "Records of the U.S. Senate",
+      "naId": 375
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1896,
+        "logicalDate": "1896-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "U.S. Senate. Office of Senate Curator. (? - )",
+          "authorityType": "organization",
+          "naId": 10468782
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1949,
+        "logicalDate": "1949-12-31"
+      },
+      "title": "Berryman Political Cartoon Collection",
+      "naId": 306080
+    }
+  ],
+  "naId": 6011559
+}

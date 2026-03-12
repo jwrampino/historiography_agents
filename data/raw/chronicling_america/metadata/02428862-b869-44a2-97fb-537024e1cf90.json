@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1939-05-22/ed-1/?sp=3"
+  ],
+  "batch": [
+    "dlc_1noguchi_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1939-05-22",
+  "dates": [
+    "1939-05-22"
+  ],
+  "description": [
+    "Soviet Alliance Plan Reported Prepared by Halifax for Cabinet ThreePoint Proposal Is Expected to Be Offered This Week 1 the Associated Press GENEVA May 22British For eign Secretary Viscount Halifax was reported today to have decided to submit to London a plan for a three point alliance among Britain France and Soviet Russia as the only means of lining up Russia with the British French coalition Informed sources said Lord Halifax would ask the British cabinet on Wednesdaywithout personal com mentto decide whether to accept an alliance drawn along these lines the minimum provisions acceptable to Moscow 1 The three powers to come to each others aid automatically if any one of the three were attacked di rectly 2 If any ftate guaranteed by the signatory pavers were attacked and asked help the three signatories to give immediate aid 3 If any signatory considered an act of agression against a state not guaranteed as affecting its inter ests there should be tripower con aultations to decide if aid would be given and what form it would take The plan may include separate re gional agreements The first point would cover Russias demands the second would take care of Turkey Rumania"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:39:09.473Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1939-05-22/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1noguchi_ver01:data:sn83045462:00280602425:1939052201:0573/full/pct:6.25/0/default.jpg#h=481&w=346",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1noguchi_ver01:data:sn83045462:00280602425:1939052201:0573/full/pct:12.5/0/default.jpg#h=963&w=693",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1noguchi_ver01/data/sn83045462/00280602425/1939052201/0573.xml&format=alto_xml"
+  ],
+  "index": 170,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "district of columbia",
+    "washington d.c.",
+    "washington",
+    "united states"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "0",
+    "2",
+    "sn83045462",
+    "0000000003",
+    "1",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "2",
+    "4",
+    "2",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1939-05-22-ed-1-0573",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1939-05-22/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1939-05-22/ed-1/"
+  ],
+  "shelf_id": "03",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)",
+    "washington",
+    "united states"
+  ],
+  "timestamp": "2022-10-24T22:21:00.654Z",
+  "title": "Image 3 of Evening star (Washington, D.C.), May 22, 1939",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1939-05-22/ed-1/?sp=3&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_1noguchi_ver01%2Fdata%2Fsn83045462%2F00280602425%2F1939052201%2F0573.xml&q=great+war&relevant_snippet=1"
+}

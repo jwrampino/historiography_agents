@@ -1,0 +1,167 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83025010/1900-02-22/ed-1/?sp=1"
+  ],
+  "batch": [
+    "okhi_comanche_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/oklahoma/",
+    "2/united states/oklahoma/craig/",
+    "3/united states/oklahoma/craig/vinita/"
+  ],
+  "contributor": [
+    "oklahoma historical society"
+  ],
+  "date": "1900-02-22",
+  "dates": [
+    "1900-02-22"
+  ],
+  "description": [
+    "r 1 rv THE INDIAN FTAIN CHIEFTAIN PUBLISHING CO VINITA INDIAN TERRITORY THURSDAY FEBRUARY 22 1900 VOL XVIII NO 26 M CHIE THE BURNING QUESTION Graphic Portayal of Existing Territorial Conditions rAa naW ire do lo be sated From m earliest inlancy I have heard this text thundered lroui every pulpit frum the old log country school houe to the mHgni ficent cathedrals of our largest cities by the humblest circuit rider of a country district and the petted pastor in his clerical rohes who numbered his congregation by the thousands In fact from the days of our Savior and his twelve apostles thin question hai been the favorite theme uf all di vines to point tbe straight and narrow path to erring man bj which he might etcspe fr m Satan and his hotts to the land of eter nal bappinrss and peace But in no country on earth and among no people of the millions who have inhabited this mighty globe has this text beeu fraught with so much significance and such tremendous consequence Jrom a worldly governmental standpoint than at this hour the burning question enfolded in this text presents to the people of the Indian Territory"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T14:57:43.295Z",
+  "group": [
+    "ndnp/okhi",
+    "oklahoma-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83025010/1900-02-22/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_comanche_ver01:data:sn83025010:00237284719:1900022201:0345/full/pct:6.25/0/default.jpg#h=498&w=381",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_comanche_ver01:data:sn83025010:00237284719:1900022201:0345/full/pct:12.5/0/default.jpg#h=997&w=763",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/okhi/batch_okhi_comanche_ver01/data/sn83025010/00237284719/1900022201/0345.xml&format=alto_xml"
+  ],
+  "index": 119,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "craig county",
+    "oklahoma",
+    "indian territory",
+    "craig",
+    "united states",
+    "vinita"
+  ],
+  "location_city": [
+    "vinita"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "craig"
+  ],
+  "location_state": [
+    "oklahoma"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "sn83025010",
+    "0000000001",
+    "2",
+    "8",
+    "3",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83025010"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "3",
+    "7",
+    "2",
+    "8",
+    "4",
+    "7",
+    "1",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83025010-1900-02-22-ed-1-0345",
+  "partof": [
+    "chronicling america",
+    "indian chieftain (vinita, indian territory [okla.]) 1882-1902",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "indian chieftain (vinita, indian territory [okla.]) 1882-1902"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83025010/1900-02-22/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83025010/1900-02-22/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "craig county (okla.)",
+    "vinita (okla.)",
+    "craig county",
+    "oklahoma",
+    "indians of north america",
+    "indian territory",
+    "craig",
+    "united states",
+    "newspapers",
+    "vinita"
+  ],
+  "subject_ethnicity": [
+    "indians of north america"
+  ],
+  "timestamp": "2022-11-18T00:55:28.732Z",
+  "title": "Image 1 of Indian chieftain (Vinita, Indian Territory [Okla.]), February 22, 1900",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83025010/1900-02-22/ed-1/?sp=1&q=indian+territory",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fokhi%2Fbatch_okhi_comanche_ver01%2Fdata%2Fsn83025010%2F00237284719%2F1900022201%2F0345.xml&q=indian+territory&relevant_snippet=1"
+}

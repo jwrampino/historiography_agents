@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85042344/1917-04-16/ed-1/?sp=8"
+  ],
+  "batch": [
+    "okhi_caddo_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/oklahoma/",
+    "2/united states/oklahoma/tulsa/",
+    "3/united states/oklahoma/tulsa/tulsa/"
+  ],
+  "contributor": [
+    "oklahoma historical society"
+  ],
+  "date": "1917-04-16",
+  "dates": [
+    "1917-04-16"
+  ],
+  "description": [
+    "TULSA DAILY WORLD MONDAY APRIL 1G 1917 8 HEAVY DAY FOR Conscription Indorsed by the Nations Military Experts Termed Best Course Kl lii lu Ct li Kl Id I In I t i 0 Il St fr St Ill Id In Hi ih u in iJ II lr li do M hi hy ill a r rii id hi u 111 nil hit Mi tin ml tin s Ml tfil ii lii in mi 15 Il In i st in n i fur till eel i lu NAVY RECRUITS rii Miii for Scrviii mi 1 Iliati a Iral V I illaV SEVEN FROM CLEVELAND 1 1 rii I I AnAfr i ii All ijV in Are Avi Mils I II lliJ ti ll i i 1 il I I tl ii I li In litt t It I iii I I in in H If i 1 1 T lorn I Alt V I 1 I 1 li in t Itt vt i I f I nl iIImi I l u ny ami 1 It i ii i honii rnv io hi I Mi on at if h iii wnv Ii io hroitllt hefoii I he I I oillil tt"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T14:56:53.752Z",
+  "group": [
+    "ndnp/okhi",
+    "oklahoma-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85042344/1917-04-16/ed-1/?sp=8",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_caddo_ver01:data:sn85042344:00200295572:1917041601:0778/full/pct:6.25/0/default.jpg#h=403&w=296",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_caddo_ver01:data:sn85042344:00200295572:1917041601:0778/full/pct:12.5/0/default.jpg#h=806&w=592",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/okhi/batch_okhi_caddo_ver01/data/sn85042344/00200295572/1917041601/0778.xml&format=alto_xml"
+  ],
+  "index": 82,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "oklahoma",
+    "tulsa",
+    "tulsa county"
+  ],
+  "location_city": [
+    "tulsa"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "tulsa"
+  ],
+  "location_state": [
+    "oklahoma"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "1",
+    "2",
+    "0",
+    "sn85042344",
+    "7",
+    "9",
+    "0000000008"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85042344"
+  ],
+  "number_page": [
+    "0000000008"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "0",
+    "2",
+    "9",
+    "5",
+    "5",
+    "7",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Tulsa world",
+    "Daily world"
+  ],
+  "page_id": "sn85042344-1917-04-16-ed-1-0778",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "tulsa daily world (tulsa, indian territory [okla.]) 1905-1919"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "tulsa daily world (tulsa, indian territory [okla.]) 1905-1919"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85042344/1917-04-16/ed-1/?sp=8"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85042344/1917-04-16/ed-1/"
+  ],
+  "shelf_id": "8",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "tulsa (okla.)",
+    "tulsa county",
+    "united states",
+    "oklahoma",
+    "tulsa",
+    "tulsa county (okla.)"
+  ],
+  "timestamp": "2022-11-17T23:45:54.187Z",
+  "title": "Image 8 of Tulsa daily world (Tulsa, Indian Territory [Okla.]), April 16, 1917, (MORNING EDITION)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85042344/1917-04-16/ed-1/?sp=8&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fokhi%2Fbatch_okhi_caddo_ver01%2Fdata%2Fsn85042344%2F00200295572%2F1917041601%2F0778.xml&q=revolution&relevant_snippet=1"
+}

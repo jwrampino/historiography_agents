@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1939-10-15/ed-1/?sp=78"
+  ],
+  "batch": [
+    "dlc_1oldenburg_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1939-10-15",
+  "dates": [
+    "1939-10-15"
+  ],
+  "description": [
+    "APARTMENTS UNFURNISHED Continued 1415 OAK ST N W 2 rms kitchen bath porch4250 810 L ST NW 3 rms kitchen bath relc elev 4850 1115 8th ST NW 2 rms kitchen bath_3300 421 4th ST NW 4 rms kitchen bath 4400 P J WALSHE INC 1107 Eye 8 NW National 6468 132129 BELMONT ST NW 1 room dinette kit bath Murphy bed _ 3250 up 2 rooms kit bath 4250 SHANNON LUCHS CO r 1505 H St NW National 2345 MICHIGAN PARK DUPLEX 3904 7th ST NE NO 1 2 rms kit dinette bath with shower screened porch gas heater avail Oct 15 3850 FLOYD E DAVIS CO 733 12th St NW National 0352 7019 GA AVE NW THE DAHLIA t rooms kitchen dinette bath CKO Kfl Inclosed sun porch Living rm din rm 2 bedrms dinette kit bath Inclosed C70 Kfl sun porch Refrigeration on House Current Resident Manager Rand 4630 ABOVE APTS OPEN AND LIGHTED UNTIL 9 PM 4053 GRANT ST NE Apt 13 rooms 2 bedrooms dinette kitchen bath large 37 50 ard 121 19th ST NE Apt 12 rooms kitchen dl CQQ Kfl nette bath porch and yard RefrigerationGas Heat EDW M WILLIS 816 Investment Bldg_Natl"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:39:16.234Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1939-10-15/ed-1/?sp=78",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1oldenburg_ver01:data:sn83045462:00280602097:1939101501:0638/full/pct:6.25/0/default.jpg#h=484&w=346",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1oldenburg_ver01:data:sn83045462:00280602097:1939101501:0638/full/pct:12.5/0/default.jpg#h=969&w=692",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1oldenburg_ver01/data/sn83045462/00280602097/1939101501/0638.xml&format=alto_xml"
+  ],
+  "index": 70,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "9",
+    "7",
+    "sn83045462",
+    "0000000078",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000078"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "2",
+    "0",
+    "9",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1939-10-15-ed-1-0638",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1939-10-15/ed-1/?sp=78"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1939-10-15/ed-1/"
+  ],
+  "shelf_id": "078",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-24T22:39:59.154Z",
+  "title": "Image 78 of Evening star (Washington, D.C.), October 15, 1939",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1939-10-15/ed-1/?sp=78&q=oil",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_1oldenburg_ver01%2Fdata%2Fsn83045462%2F00280602097%2F1939101501%2F0638.xml&q=oil&relevant_snippet=1"
+}

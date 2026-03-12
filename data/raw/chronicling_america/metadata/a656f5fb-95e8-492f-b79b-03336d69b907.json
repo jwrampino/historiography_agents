@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn92066926/1916-05-12/ed-1/?sp=6"
+  ],
+  "batch": [
+    "wyu_afton_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/wyoming/",
+    "2/united states/wyoming/park/"
+  ],
+  "contributor": [
+    "university of wyoming libraries"
+  ],
+  "date": "1916-05-12",
+  "dates": [
+    "1916-05-12"
+  ],
+  "description": [
+    "PAGE SIX SENATOR CLARK GIVES CAMPAIGN KEYNOTE Republican State Convention Fires Initial Artillery Cheyenne May 8 Our democrat ic friends down under the blanket are not proud of the record of the past three years of mistake and misrule aid Senator C D Clark in address ing the Republican state convention here today They are not basing their hopes of success upon their mis j taken and unAmerican foreign poli j cy nor upon the miserable mess in Mexico nor upon the vicious assaultl upon American producers and Ameri can labor in their tariff legislation nor upon the discredited prophecies and broken pledges of the Baltimore platform Upon all these they may plead for votes but from none nor all of them do they in their hearts hope for success Their only real hope and prayer and expectation for vic tory is a divided republican party and for this hope they may as well put on mourning right now The present administration is the result of republican division and while that party makes fool mistakes occasion ally it dont make the same blunder twice running We wrecked the whole business last time but this year we have made different arrange"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-05-31T13:48:25.990Z",
+  "group": [
+    "ndnp/wyu",
+    "university-of-wyoming-libraries"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn92066926/1916-05-12/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_afton_ver01:data:sn92066926:00340588071:1916051201:0142/full/pct:6.25/0/default.jpg#h=349&w=249",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_afton_ver01:data:sn92066926:00340588071:1916051201:0142/full/pct:12.5/0/default.jpg#h=699&w=499",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wyu/batch_wyu_afton_ver01/data/sn92066926/00340588071/1916051201/0142.xml&format=alto_xml"
+  ],
+  "index": 34,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "big horn county",
+    "united states",
+    "park county",
+    "wyoming",
+    "park"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "park"
+  ],
+  "location_state": [
+    "wyoming"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "5",
+    "4",
+    "0000000006",
+    "1",
+    "7",
+    "sn92066926",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn92066926"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "8",
+    "0",
+    "7",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn92066926-1916-05-12-ed-1-0142",
+  "partof": [
+    "chronicling america",
+    "the northern wyoming herald (cody, wyo.) 1916-1924",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the northern wyoming herald (cody, wyo.) 1916-1924"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn92066926/1916-05-12/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn92066926/1916-05-12/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "big horn county",
+    "park county (wyo.)",
+    "united states",
+    "newspapers",
+    "park county",
+    "wyoming",
+    "big horn county (wyo.)",
+    "park"
+  ],
+  "timestamp": "2023-06-28T01:48:30.733Z",
+  "title": "Image 6 of The Northern Wyoming herald (Cody, Wyo.), May 12, 1916",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn92066926/1916-05-12/ed-1/?sp=6&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwyu%2Fbatch_wyu_afton_ver01%2Fdata%2Fsn92066926%2F00340588071%2F1916051201%2F0142.xml&q=manifest+destiny&relevant_snippet=1"
+}

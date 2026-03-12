@@ -1,0 +1,14 @@
+{
+  "creator": "Archive-It",
+  "date": "2011-01-01T00:00:00Z",
+  "description": "recurrence=DAILY, maxDuration=82800, maxDocumentCount=null, isTestCrawl=false, seedCount=12, accountId=351, organizationName=\"American University in Cairo\", collectionId=2358, collectionName=\"2011 Egyptian Revolution\"",
+  "format": [
+    "Item CDX Index",
+    "Metadata",
+    "WARC CDX Index",
+    "Web ARChive GZ"
+  ],
+  "identifier": "ARCHIVEIT-2358-DAILY-VMMRZR-00004",
+  "mediatype": "web",
+  "title": "ARCHIVEIT-2358-DAILY-VMMRZR-20111125070853-00469-crawling205.us.archive.org-6681.warc.gz"
+}

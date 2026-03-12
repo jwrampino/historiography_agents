@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84020558/1898-05-20/ed-1/?sp=1"
+  ],
+  "batch": [
+    "az_elk_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/arizona/",
+    "2/united states/arizona/maricopa/",
+    "3/united states/arizona/maricopa/phoenix/"
+  ],
+  "contributor": [
+    "arizona state library, archives and public records; phoenix, az"
+  ],
+  "date": "1898-05-20",
+  "dates": [
+    "1898-05-20"
+  ],
+  "description": [
+    "THE A1MONA MEPMBMCAN NINTH YEAR PHCENIX ARIZONA FR DAY MORNING MAY 20 18S8 VOL IX NO 2 UNSEEN OBSTACLES Every Day Discovers a Weak Spot in Military Organization WHY CUBAN CAMPAIGN DRAGS The Navy Department Has Signified Its Readiness to Assist in Operations in the West Indies But the Army Has Many Things To Be Done First Washington May 19 With every disposition on the part of the ex ecutive to make the present war short sharp and decisive it is beginning to be realized that the shortcomings of our military service are so many that much work Trill be necessary to put the nation in efficient fighting shape Every day brings forth some weak spot that has to be strengthened ox some hidden defect such as che discovery at this late moment that every regular army officer who accepted a volunteer appointment would forfeit his command in the regulars and so be liable to be let out of the service entirely at the end of the war Few officers cared to risk the future in that way so a rush was made towards congress to secure necessary corrective legislation Again it has been found that the equipment of the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-09T14:49:01.308Z",
+  "group": [
+    "ndnp/az",
+    "arizona-state-university-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84020558/1898-05-20/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elk_ver01:data:sn84020558:00202192634:1898052001:0167/full/pct:6.25/0/default.jpg#h=402&w=287",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elk_ver01:data:sn84020558:00202192634:1898052001:0167/full/pct:12.5/0/default.jpg#h=804&w=574",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/az/batch_az_elk_ver01/data/sn84020558/00202192634/1898052001/0167.xml&format=alto_xml"
+  ],
+  "index": 36,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "phoenix",
+    "maricopa",
+    "maricopa county",
+    "arizona"
+  ],
+  "location_city": [
+    "phoenix"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "maricopa"
+  ],
+  "location_state": [
+    "arizona"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "9",
+    "6",
+    "4",
+    "sn84020558",
+    "3",
+    "2",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84020558"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "2",
+    "1",
+    "9",
+    "2",
+    "6",
+    "3",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Daily republican"
+  ],
+  "page_id": "sn84020558-1898-05-20-ed-1-0167",
+  "partof": [
+    "serial and government publications division",
+    "chronicling america",
+    "arizona republican (phoenix, ariz.) 1890-1930"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "arizona republican (phoenix, ariz.) 1890-1930"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84020558/1898-05-20/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84020558/1898-05-20/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "phoenix",
+    "maricopa county (ariz.)",
+    "phoenix (ariz.)",
+    "maricopa",
+    "newspapers",
+    "maricopa county",
+    "arizona"
+  ],
+  "timestamp": "2024-01-09T22:55:05.867Z",
+  "title": "Image 1 of Arizona republican (Phoenix, Ariz.), May 20, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84020558/1898-05-20/ed-1/?sp=1&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Faz%2Fbatch_az_elk_ver01%2Fdata%2Fsn84020558%2F00202192634%2F1898052001%2F0167.xml&q=cuba&relevant_snippet=1"
+}

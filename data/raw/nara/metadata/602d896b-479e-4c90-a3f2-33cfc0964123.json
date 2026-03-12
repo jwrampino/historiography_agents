@@ -1,0 +1,279 @@
+{
+  "dataControlGroup": {
+    "groupId": "ou=NREA,ou=groups",
+    "groupCd": "RMKC"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "false",
+  "digitalObjects": [
+    {
+      "objectFilename": "Fook_001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/97/68/12006897/content/arcmedia/central-plains/kansas-city/6862011/Fook_001.jpg",
+      "objectFileSize": 2712682,
+      "objectId": "16008886",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Fook_002.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/97/68/12006897/content/arcmedia/central-plains/kansas-city/6862011/Fook_002.jpg",
+      "objectFileSize": 1767681,
+      "objectId": "16008888",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Fook_003.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/97/68/12006897/content/arcmedia/central-plains/kansas-city/6862011/Fook_003.jpg",
+      "objectFileSize": 2358742,
+      "objectId": "16008889",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Fook_004.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/97/68/12006897/content/arcmedia/central-plains/kansas-city/6862011/Fook_004.jpg",
+      "objectFileSize": 668982,
+      "objectId": "16008891",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Fook_005.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/97/68/12006897/content/arcmedia/central-plains/kansas-city/6862011/Fook_005.jpg",
+      "objectFileSize": 518607,
+      "objectId": "16008892",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Fook_006.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/97/68/12006897/content/arcmedia/central-plains/kansas-city/6862011/Fook_006.jpg",
+      "objectFileSize": 656464,
+      "objectId": "16008893",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Fook_007.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/97/68/12006897/content/arcmedia/central-plains/kansas-city/6862011/Fook_007.jpg",
+      "objectFileSize": 630773,
+      "objectId": "16008894",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Fook_008.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/97/68/12006897/content/arcmedia/central-plains/kansas-city/6862011/Fook_008.jpg",
+      "objectFileSize": 1047334,
+      "objectId": "16008895",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Fook_009.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/97/68/12006897/content/arcmedia/central-plains/kansas-city/6862011/Fook_009.jpg",
+      "objectFileSize": 613999,
+      "objectId": "16008896",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Fook_010.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/97/68/12006897/content/arcmedia/central-plains/kansas-city/6862011/Fook_010.jpg",
+      "objectFileSize": 763337,
+      "objectId": "16008897",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Fook_011.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/97/68/12006897/content/arcmedia/central-plains/kansas-city/6862011/Fook_011.jpg",
+      "objectFileSize": 580851,
+      "objectId": "16008898",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Fook_012.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/97/68/12006897/content/arcmedia/central-plains/kansas-city/6862011/Fook_012.jpg",
+      "objectFileSize": 1376751,
+      "objectId": "16008899",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Fook_013.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/97/68/12006897/content/arcmedia/central-plains/kansas-city/6862011/Fook_013.jpg",
+      "objectFileSize": 989972,
+      "objectId": "16008901",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Fook_014.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/97/68/12006897/content/arcmedia/central-plains/kansas-city/6862011/Fook_014.jpg",
+      "objectFileSize": 1738374,
+      "objectId": "16008902",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Fook_015.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/97/68/12006897/content/arcmedia/central-plains/kansas-city/6862011/Fook_015.jpg",
+      "objectFileSize": 1240525,
+      "objectId": "16008903",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Fook_016.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/97/68/12006897/content/arcmedia/central-plains/kansas-city/6862011/Fook_016.jpg",
+      "objectFileSize": 1429805,
+      "objectId": "16008904",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Fook_017.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/97/68/12006897/content/arcmedia/central-plains/kansas-city/6862011/Fook_017.jpg",
+      "objectFileSize": 914839,
+      "objectId": "16008905",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Fook_018.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/97/68/12006897/content/arcmedia/central-plains/kansas-city/6862011/Fook_018.jpg",
+      "objectFileSize": 2003649,
+      "objectId": "16008906",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Fook_019.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/97/68/12006897/content/arcmedia/central-plains/kansas-city/6862011/Fook_019.jpg",
+      "objectFileSize": 1401869,
+      "objectId": "16008907",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Fook_020.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/97/68/12006897/content/arcmedia/central-plains/kansas-city/6862011/Fook_020.jpg",
+      "objectFileSize": 1447970,
+      "objectId": "16008909",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Fook_021.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/97/68/12006897/content/arcmedia/central-plains/kansas-city/6862011/Fook_021.jpg",
+      "objectFileSize": 1388783,
+      "objectId": "16008910",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Fook_022.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/97/68/12006897/content/arcmedia/central-plains/kansas-city/6862011/Fook_022.jpg",
+      "objectFileSize": 1406472,
+      "objectId": "16008911",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Fook_023.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/97/68/12006897/content/arcmedia/central-plains/kansas-city/6862011/Fook_023.jpg",
+      "objectFileSize": 688397,
+      "objectId": "16008912",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Fook_024.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/97/68/12006897/content/arcmedia/central-plains/kansas-city/6862011/Fook_024.jpg",
+      "objectFileSize": 1952315,
+      "objectId": "16008913",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Fook_025.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/97/68/12006897/content/arcmedia/central-plains/kansas-city/6862011/Fook_025.jpg",
+      "objectFileSize": 1455665,
+      "objectId": "16008914",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Fook.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/97/68/12006897/content/arcmedia/central-plains/kansas-city/6862011/Fook.pdf",
+      "objectFileSize": 0,
+      "objectId": "16008887",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1685,
+        "logicalDate": "1685-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 21,
+      "inclusiveEndDate": {
+        "year": 2009,
+        "logicalDate": "2009-12-31"
+      },
+      "title": "Records of District Courts of the United States",
+      "naId": 350
+    },
+    {
+      "inclusiveStartDate": {
+        "month": 11,
+        "year": 1900,
+        "day": 14,
+        "logicalDate": "1900-11-14"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "U.S. District Court for the Eastern (St. Louis) Division of the Eastern District of Missouri. 2/28/1887-",
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 2,
+            "year": 1887,
+            "day": 28,
+            "logicalDate": "1887-02-28"
+          },
+          "naId": 10459091
+        }
+      ],
+      "inclusiveEndDate": {
+        "month": 5,
+        "year": 1925,
+        "day": 1,
+        "logicalDate": "1925-05-01"
+      },
+      "title": "Chinese Exclusion Case Files",
+      "naId": 6862011
+    }
+  ],
+  "title": "Chinese Exclusion Case File for Lung Fook",
+  "naId": 12006897,
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Kansas City",
+          "phone": "816-268-8000",
+          "address1": "400 West Pershing Road",
+          "postalCode": "64108",
+          "name": "National Archives at Kansas City",
+          "state": "MO",
+          "fax": "816-268-8038",
+          "email": "kansascity.archives@nara.gov",
+          "mailCode": "RM-KC"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  }
+}

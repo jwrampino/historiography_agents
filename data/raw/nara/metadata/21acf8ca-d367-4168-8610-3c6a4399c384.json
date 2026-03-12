@@ -1,0 +1,1126 @@
+{
+  "accessionNumbers": [
+    "NN3-127-08-001"
+  ],
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "title": "Vietnam Misc - Vietnam Misc",
+  "physicalOccurrences": [
+    {
+      "extent": "1 Tagged Image File Format (.tif) file with 144 pages",
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-0470",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Electronic Records",
+          "state": "MD",
+          "fax": "301-837-3681",
+          "email": "cer@nara.gov",
+          "mailCode": "RDE"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "specificMediaType": "Magnetic Tape Cartridge"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupId": "ou=NWME,ou=groups",
+    "groupCd": "RDEP"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "generalNotes": [
+    "The Other Title is the file title assigned by the agency."
+  ],
+  "variantControlNumbers": [
+    {
+      "note": "This is file \\VIETNAM MISC\\USMC_CMD_CHRN_07668.tif in Tape Archive (TAR) file USMC_VN_Oth_TAR.",
+      "number": "100589",
+      "type": "XMIS Number"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_001.jpg",
+      "objectFileSize": 187642,
+      "objectId": "331499034",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_002.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_002.jpg",
+      "objectFileSize": 188588,
+      "objectId": "331499037",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_003.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_003.jpg",
+      "objectFileSize": 226709,
+      "objectId": "331499041",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_004.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_004.jpg",
+      "objectFileSize": 227234,
+      "objectId": "331499044",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_005.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_005.jpg",
+      "objectFileSize": 170713,
+      "objectId": "331499047",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_006.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_006.jpg",
+      "objectFileSize": 1203099,
+      "objectId": "331499050",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_007.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_007.jpg",
+      "objectFileSize": 722360,
+      "objectId": "331499053",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_008.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_008.jpg",
+      "objectFileSize": 586254,
+      "objectId": "331499057",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_009.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_009.jpg",
+      "objectFileSize": 599584,
+      "objectId": "331499060",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_010.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_010.jpg",
+      "objectFileSize": 1048259,
+      "objectId": "331499063",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_011.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_011.jpg",
+      "objectFileSize": 1427518,
+      "objectId": "331499065",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_012.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_012.jpg",
+      "objectFileSize": 1702322,
+      "objectId": "331499068",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_013.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_013.jpg",
+      "objectFileSize": 939467,
+      "objectId": "331499071",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_014.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_014.jpg",
+      "objectFileSize": 2284003,
+      "objectId": "331499074",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_015.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_015.jpg",
+      "objectFileSize": 2193573,
+      "objectId": "331499077",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_016.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_016.jpg",
+      "objectFileSize": 1971598,
+      "objectId": "331499081",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_017.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_017.jpg",
+      "objectFileSize": 2080959,
+      "objectId": "331499084",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_018.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_018.jpg",
+      "objectFileSize": 1030990,
+      "objectId": "331499086",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_019.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_019.jpg",
+      "objectFileSize": 784828,
+      "objectId": "331499088",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_020.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_020.jpg",
+      "objectFileSize": 1301634,
+      "objectId": "331499090",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_021.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_021.jpg",
+      "objectFileSize": 1404282,
+      "objectId": "331499093",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_022.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_022.jpg",
+      "objectFileSize": 1260905,
+      "objectId": "331499096",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_023.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_023.jpg",
+      "objectFileSize": 1271807,
+      "objectId": "331499099",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_024.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_024.jpg",
+      "objectFileSize": 1313219,
+      "objectId": "331499102",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_025.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_025.jpg",
+      "objectFileSize": 940492,
+      "objectId": "331499105",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_026.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_026.jpg",
+      "objectFileSize": 1045032,
+      "objectId": "331499108",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_027.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_027.jpg",
+      "objectFileSize": 487172,
+      "objectId": "331499111",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_028.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_028.jpg",
+      "objectFileSize": 930646,
+      "objectId": "331499114",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_029.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_029.jpg",
+      "objectFileSize": 1022534,
+      "objectId": "331499117",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_030.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_030.jpg",
+      "objectFileSize": 1028481,
+      "objectId": "331499120",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_031.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_031.jpg",
+      "objectFileSize": 1080528,
+      "objectId": "331499124",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_032.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_032.jpg",
+      "objectFileSize": 378458,
+      "objectId": "331499127",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_033.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_033.jpg",
+      "objectFileSize": 234341,
+      "objectId": "331499131",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_034.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_034.jpg",
+      "objectFileSize": 2452206,
+      "objectId": "331499134",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_035.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_035.jpg",
+      "objectFileSize": 2455620,
+      "objectId": "331499137",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_036.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_036.jpg",
+      "objectFileSize": 2052059,
+      "objectId": "331499140",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_037.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_037.jpg",
+      "objectFileSize": 2184903,
+      "objectId": "331499142",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_038.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_038.jpg",
+      "objectFileSize": 2310334,
+      "objectId": "331499145",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_039.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_039.jpg",
+      "objectFileSize": 2203756,
+      "objectId": "331499148",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_040.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_040.jpg",
+      "objectFileSize": 2306046,
+      "objectId": "331499151",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_041.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_041.jpg",
+      "objectFileSize": 2282897,
+      "objectId": "331499155",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_042.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_042.jpg",
+      "objectFileSize": 2154513,
+      "objectId": "331499158",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_043.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_043.jpg",
+      "objectFileSize": 2341992,
+      "objectId": "331499161",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_044.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_044.jpg",
+      "objectFileSize": 2006084,
+      "objectId": "331499164",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_045.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_045.jpg",
+      "objectFileSize": 2158579,
+      "objectId": "331499167",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_046.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_046.jpg",
+      "objectFileSize": 284805,
+      "objectId": "331499170",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_047.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_047.jpg",
+      "objectFileSize": 280704,
+      "objectId": "331499173",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_048.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_048.jpg",
+      "objectFileSize": 358113,
+      "objectId": "331499176",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_049.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_049.jpg",
+      "objectFileSize": 695923,
+      "objectId": "331499179",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_050.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_050.jpg",
+      "objectFileSize": 694584,
+      "objectId": "331499181",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_051.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_051.jpg",
+      "objectFileSize": 765216,
+      "objectId": "331499183",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_052.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_052.jpg",
+      "objectFileSize": 2570799,
+      "objectId": "331499186",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_053.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_053.jpg",
+      "objectFileSize": 1107574,
+      "objectId": "331499189",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_054.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_054.jpg",
+      "objectFileSize": 1228044,
+      "objectId": "331499192",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_055.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_055.jpg",
+      "objectFileSize": 1336795,
+      "objectId": "331499195",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_056.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_056.jpg",
+      "objectFileSize": 2045825,
+      "objectId": "331499198",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_057.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_057.jpg",
+      "objectFileSize": 1431356,
+      "objectId": "331499201",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_058.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_058.jpg",
+      "objectFileSize": 1481179,
+      "objectId": "331499204",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_059.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_059.jpg",
+      "objectFileSize": 1984389,
+      "objectId": "331499207",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_060.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_060.jpg",
+      "objectFileSize": 2648649,
+      "objectId": "331499210",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_061.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_061.jpg",
+      "objectFileSize": 1154701,
+      "objectId": "331499213",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_062.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_062.jpg",
+      "objectFileSize": 1254018,
+      "objectId": "331499216",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_063.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_063.jpg",
+      "objectFileSize": 3922161,
+      "objectId": "331499219",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_064.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_064.jpg",
+      "objectFileSize": 1501170,
+      "objectId": "331499222",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_065.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_065.jpg",
+      "objectFileSize": 2031353,
+      "objectId": "331499225",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_066.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_066.jpg",
+      "objectFileSize": 2072624,
+      "objectId": "331499228",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_067.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_067.jpg",
+      "objectFileSize": 827576,
+      "objectId": "331499231",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_068.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_068.jpg",
+      "objectFileSize": 1200067,
+      "objectId": "331499235",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_069.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_069.jpg",
+      "objectFileSize": 308008,
+      "objectId": "331499238",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_070.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_070.jpg",
+      "objectFileSize": 423562,
+      "objectId": "331499240",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_071.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_071.jpg",
+      "objectFileSize": 631918,
+      "objectId": "331499243",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_072.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_072.jpg",
+      "objectFileSize": 279721,
+      "objectId": "331499246",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_073.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_073.jpg",
+      "objectFileSize": 281534,
+      "objectId": "331499249",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_074.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_074.jpg",
+      "objectFileSize": 349071,
+      "objectId": "331499252",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_075.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_075.jpg",
+      "objectFileSize": 696382,
+      "objectId": "331499255",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_076.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_076.jpg",
+      "objectFileSize": 687119,
+      "objectId": "331499258",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_077.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_077.jpg",
+      "objectFileSize": 770353,
+      "objectId": "331499261",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_078.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_078.jpg",
+      "objectFileSize": 509072,
+      "objectId": "331499264",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_079.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_079.jpg",
+      "objectFileSize": 670494,
+      "objectId": "331499267",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_080.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_080.jpg",
+      "objectFileSize": 618878,
+      "objectId": "331499270",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_081.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_081.jpg",
+      "objectFileSize": 154798,
+      "objectId": "331499273",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_082.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_082.jpg",
+      "objectFileSize": 1223397,
+      "objectId": "331499275",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_083.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_083.jpg",
+      "objectFileSize": 1034423,
+      "objectId": "331499277",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_084.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_084.jpg",
+      "objectFileSize": 564034,
+      "objectId": "331499281",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_085.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_085.jpg",
+      "objectFileSize": 409563,
+      "objectId": "331499284",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_086.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_086.jpg",
+      "objectFileSize": 429828,
+      "objectId": "331499287",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_087.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_087.jpg",
+      "objectFileSize": 427405,
+      "objectId": "331499289",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_088.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_088.jpg",
+      "objectFileSize": 370815,
+      "objectId": "331499292",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_089.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_089.jpg",
+      "objectFileSize": 661909,
+      "objectId": "331499295",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_090.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_090.jpg",
+      "objectFileSize": 1432131,
+      "objectId": "331499298",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_091.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_091.jpg",
+      "objectFileSize": 1216514,
+      "objectId": "331499301",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_092.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_092.jpg",
+      "objectFileSize": 685086,
+      "objectId": "331499304",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_093.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_093.jpg",
+      "objectFileSize": 2434827,
+      "objectId": "331499307",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_094.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_094.jpg",
+      "objectFileSize": 3472871,
+      "objectId": "331499310",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_095.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_095.jpg",
+      "objectFileSize": 1657354,
+      "objectId": "331499313",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_096.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_096.jpg",
+      "objectFileSize": 1722667,
+      "objectId": "331499316",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_097.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_097.jpg",
+      "objectFileSize": 1198660,
+      "objectId": "331499319",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_098.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_098.jpg",
+      "objectFileSize": 1346150,
+      "objectId": "331499322",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_099.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_099.jpg",
+      "objectFileSize": 1493049,
+      "objectId": "331499325",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_100.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_100.jpg",
+      "objectFileSize": 1016787,
+      "objectId": "331499328",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_101.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_101.jpg",
+      "objectFileSize": 1606473,
+      "objectId": "331499331",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_102.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_102.jpg",
+      "objectFileSize": 1750488,
+      "objectId": "331499334",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_103.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_103.jpg",
+      "objectFileSize": 1878421,
+      "objectId": "331499337",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_104.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_104.jpg",
+      "objectFileSize": 2219092,
+      "objectId": "331499340",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_105.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_105.jpg",
+      "objectFileSize": 2207134,
+      "objectId": "331499343",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_106.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_106.jpg",
+      "objectFileSize": 1908258,
+      "objectId": "331499346",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_107.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_107.jpg",
+      "objectFileSize": 1928754,
+      "objectId": "331499349",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_108.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_108.jpg",
+      "objectFileSize": 2270959,
+      "objectId": "331499352",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_109.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_109.jpg",
+      "objectFileSize": 2657822,
+      "objectId": "331499355",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_110.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_110.jpg",
+      "objectFileSize": 2597711,
+      "objectId": "331499357",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_111.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_111.jpg",
+      "objectFileSize": 2593704,
+      "objectId": "331499359",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_112.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_112.jpg",
+      "objectFileSize": 2017920,
+      "objectId": "331499362",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_113.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_113.jpg",
+      "objectFileSize": 1858266,
+      "objectId": "331499365",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_114.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_114.jpg",
+      "objectFileSize": 2115501,
+      "objectId": "331499368",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_115.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_115.jpg",
+      "objectFileSize": 1826089,
+      "objectId": "331499371",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_116.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_116.jpg",
+      "objectFileSize": 1912310,
+      "objectId": "331499374",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_117.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_117.jpg",
+      "objectFileSize": 1512803,
+      "objectId": "331499377",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_118.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_118.jpg",
+      "objectFileSize": 381469,
+      "objectId": "331499380",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_119.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_119.jpg",
+      "objectFileSize": 1493193,
+      "objectId": "331499383",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_120.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_120.jpg",
+      "objectFileSize": 161111,
+      "objectId": "331499386",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_121.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_121.jpg",
+      "objectFileSize": 223398,
+      "objectId": "331499389",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_122.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_122.jpg",
+      "objectFileSize": 1532410,
+      "objectId": "331499392",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_123.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_123.jpg",
+      "objectFileSize": 1682456,
+      "objectId": "331499395",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_124.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_124.jpg",
+      "objectFileSize": 1389532,
+      "objectId": "331499398",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_125.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_125.jpg",
+      "objectFileSize": 2137085,
+      "objectId": "331499401",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_126.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_126.jpg",
+      "objectFileSize": 2271664,
+      "objectId": "331499404",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_127.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_127.jpg",
+      "objectFileSize": 1856253,
+      "objectId": "331499407",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_128.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_128.jpg",
+      "objectFileSize": 349967,
+      "objectId": "331499410",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_129.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_129.jpg",
+      "objectFileSize": 606063,
+      "objectId": "331499413",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_130.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_130.jpg",
+      "objectFileSize": 1821771,
+      "objectId": "331499416",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_131.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_131.jpg",
+      "objectFileSize": 955686,
+      "objectId": "331499419",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_132.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_132.jpg",
+      "objectFileSize": 831026,
+      "objectId": "331499422",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_133.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_133.jpg",
+      "objectFileSize": 144762,
+      "objectId": "331499425",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_134.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_134.jpg",
+      "objectFileSize": 162637,
+      "objectId": "331499428",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_135.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_135.jpg",
+      "objectFileSize": 635268,
+      "objectId": "331499431",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_136.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_136.jpg",
+      "objectFileSize": 658514,
+      "objectId": "331499434",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_137.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_137.jpg",
+      "objectFileSize": 622335,
+      "objectId": "331499438",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_138.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_138.jpg",
+      "objectFileSize": 417355,
+      "objectId": "331499440",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_139.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_139.jpg",
+      "objectFileSize": 906072,
+      "objectId": "331499443",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_140.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_140.jpg",
+      "objectFileSize": 823625,
+      "objectId": "331499446",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_141.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_141.jpg",
+      "objectFileSize": 142005,
+      "objectId": "331499449",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_142.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_142.jpg",
+      "objectFileSize": 459041,
+      "objectId": "331499452",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_143.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_143.jpg",
+      "objectFileSize": 462050,
+      "objectId": "331499455",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668_144.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668_144.jpg",
+      "objectFileSize": 228316,
+      "objectId": "331499458",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "USMC_CMD_CHRN_07668.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-127/CC/USMC_CMD_CHRN_07668/USMC_CMD_CHRN_07668.pdf",
+      "objectFileSize": 17604138,
+      "objectId": "331499031",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "otherTitles": [
+    "Vietnam Misc - Vietnam Misc"
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1775,
+        "logicalDate": "1775-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 127,
+      "inclusiveEndDate": {
+        "year": 9999,
+        "logicalDate": "9999-12-31"
+      },
+      "title": "Records of the U.S. Marine Corps",
+      "naId": 456
+    },
+    {
+      "inclusiveStartDate": {
+        "month": 11,
+        "year": 2000,
+        "day": 2,
+        "logicalDate": "2000-11-02"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "Department of Defense. Department of the Navy. U.S. Marine Corps. 9/18/1947-",
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 9,
+            "year": 1947,
+            "day": 18,
+            "logicalDate": "1947-09-18"
+          },
+          "naId": 10476969
+        }
+      ],
+      "inclusiveEndDate": {
+        "month": 5,
+        "year": 2001,
+        "day": 17,
+        "logicalDate": "2001-05-17"
+      },
+      "title": "Vietnam War Era Command Chronologies Files",
+      "naId": 6160409
+    }
+  ],
+  "naId": 6623163
+}

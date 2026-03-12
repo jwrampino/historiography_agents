@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045241/1901-06-22/ed-1/?sp=6"
+  ],
+  "batch": [
+    "in_kokomo_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/indiana/",
+    "2/united states/indiana/marion/",
+    "3/united states/indiana/marion/indianapolis/"
+  ],
+  "contributor": [
+    "indiana state library"
+  ],
+  "date": "1901-06-22",
+  "dates": [
+    "1901-06-22"
+  ],
+  "description": [
+    ""
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-22T13:14:28.731Z",
+  "group": [
+    "ndnp/in",
+    "indiana-state-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045241/1901-06-22/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kokomo_ver02:data:sn83045241:00296029622:1901062201:0594/full/pct:3.125/0/default.jpg#h=301&w=218",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kokomo_ver02:data:sn83045241:00296029622:1901062201:0594/full/pct:6.25/0/default.jpg#h=602&w=436",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/in/batch_in_kokomo_ver02/data/sn83045241/00296029622/1901062201/0594.xml&format=alto_xml"
+  ],
+  "index": 127,
+  "language": [
+    "german"
+  ],
+  "location": [
+    "marion",
+    "united states",
+    "indiana",
+    "indianapolis"
+  ],
+  "location_city": [
+    "indianapolis"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "marion"
+  ],
+  "location_state": [
+    "indiana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "2",
+    "6",
+    "1",
+    "0000000006",
+    "sn83045241"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045241"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "6",
+    "0",
+    "2",
+    "9",
+    "6",
+    "2",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83045241-1901-06-22-ed-1-0594",
+  "partof": [
+    "chronicling america",
+    "indiana trib\u00fcne (indianapolis, ind.) 1878-1907",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "indiana trib\u00fcne (indianapolis, ind.) 1878-1907"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045241/1901-06-22/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045241/1901-06-22/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "marion",
+    "indianapolis (ind.)",
+    "german americans",
+    "indiana",
+    "indianapolis",
+    "germans",
+    "newspapers",
+    "german"
+  ],
+  "subject_ethnicity": [
+    "german"
+  ],
+  "timestamp": "2023-08-23T12:52:28.105Z",
+  "title": "Image 6 of Indiana tribu\u0308ne (Indianapolis, Ind.), June 22, 1901",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045241/1901-06-22/ed-1/?sp=6&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fin%2Fbatch_in_kokomo_ver02%2Fdata%2Fsn83045241%2F00296029622%2F1901062201%2F0594.xml&q=korea&relevant_snippet=1"
+}

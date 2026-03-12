@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1941-01-20/ed-1/?sp=29"
+  ],
+  "batch": [
+    "dlc_1rothko_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1941-01-20",
+  "dates": [
+    "1941-01-20"
+  ],
+  "description": [
+    "Washington News SL Society and General WASHINGTON D C MONDAY JANUARY 20 1941 xx Governors Get Blunt Warning On Defense 0 P M Head Tells Of Crisis Unequaled ln Our Time Amid inaugural eve celebrations Governors of 27 States met with defense chiefs last night to hear blunt warnings of a crisis the like of which none ever experienced in our time and a plea that States gear their efforts to aid in the national rearmament effort The Governors were guests at a dinner in the Carlton Hotel of the Office of Production Management Present were O P M Director Wil liam S Knudsen Secretary of the Navy Knox and Secretary of War Stimson We have had a very full and free discussion of defense progress in the United States and had very inter esting and valuable opinions and suggestions from our guests Secre tary Stimson said at the conclusion of the dinner long after midnight Undersecretary of War Robert P Patterson declared tire response excellent to the expressed need for national unity and industrial pre paredness The chief topics discussed were methods of improving proce dure for subcontracting in the States with the local governments provid ing means of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:39:56.557Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1941-01-20/ed-1/?sp=29",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1rothko_ver02:data:sn83045462:0028060317A:1941012001:0179/full/pct:6.25/0/default.jpg#h=495&w=355",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1rothko_ver02:data:sn83045462:0028060317A:1941012001:0179/full/pct:12.5/0/default.jpg#h=990&w=710",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1rothko_ver02/data/sn83045462/0028060317A/1941012001/0179.xml&format=alto_xml"
+  ],
+  "index": 118,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "district of columbia",
+    "washington d.c.",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "6",
+    "2",
+    "1",
+    "0000000029",
+    "a",
+    "7",
+    "sn83045462",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000029"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "3",
+    "1",
+    "7",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1941-01-20-ed-1-0179",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1941-01-20/ed-1/?sp=29"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1941-01-20/ed-1/"
+  ],
+  "shelf_id": "29",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "washington",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-25T00:25:32.030Z",
+  "title": "Image 29 of Evening star (Washington, D.C.), January 20, 1941",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1941-01-20/ed-1/?sp=29&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_1rothko_ver02%2Fdata%2Fsn83045462%2F0028060317A%2F1941012001%2F0179.xml&q=child+labor&relevant_snippet=1"
+}

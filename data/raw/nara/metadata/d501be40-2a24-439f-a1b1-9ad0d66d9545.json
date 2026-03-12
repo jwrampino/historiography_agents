@@ -1,0 +1,371 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "Report, Analysis of the Soviet Union",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Independence",
+          "phone": "816-268-8272",
+          "address1": "500 West U.S. Highway 24",
+          "postalCode": "64050-1798",
+          "name": "Harry S. Truman Library",
+          "state": "MO",
+          "fax": "816-268-8295",
+          "email": "truman.reference@nara.gov",
+          "mailCode": "PL-HST"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "depth": 0,
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "width": 0,
+          "specificMediaType": "Paper",
+          "height": 0
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupName": "Harry S. Truman Library",
+    "groupId": "PL-HST",
+    "groupCd": "PL-HST"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "productionDates": [
+    {
+      "month": 2,
+      "year": 1951,
+      "logicalDate": "1951-02-01"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "750363-29-001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-001.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875311",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-002.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-002.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875312",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-003.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-003.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875314",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-004.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-004.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875315",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-005.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-005.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875316",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-006.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-006.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875317",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-007.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-007.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875318",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-008.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-008.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875319",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-009.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-009.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875320",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-010.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-010.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875321",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-011.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-011.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875322",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-012.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-012.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875323",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-013.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-013.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875324",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-014.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-014.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875325",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-015.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-015.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875326",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-016.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-016.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875327",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-017.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-017.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875328",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-018.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-018.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875329",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-019.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-019.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875330",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-020.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-020.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875331",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-021.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-021.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875332",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-022.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-022.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875333",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-023.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-023.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875334",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-024.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-024.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875335",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-025.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-025.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875336",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-026.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-026.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875337",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-027.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-027.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875338",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-028.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-028.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875339",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-029.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-029.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875340",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-030.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-030.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875341",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-031.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-031.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875342",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-032.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-032.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875343",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-033.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-033.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875344",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-034.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-034.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875345",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-035.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-035.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875346",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29-036.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29-036.jpg",
+      "objectFileSize": 1234,
+      "objectId": "213875347",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "750363-29.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602191/750363/750363-29.pdf",
+      "objectFileSize": 1234,
+      "objectId": "213875313",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "HST-PSF",
+      "inclusiveStartDate": {
+        "year": 1945,
+        "logicalDate": "1945-01-01"
+      },
+      "distance": 3,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "year": 1960,
+        "logicalDate": "1960-01-01"
+      },
+      "title": "President's Secretary's Files (Truman Administration)",
+      "naId": 1205
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1945,
+        "logicalDate": "1945-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "President (1945-1953 : Truman). Office of the Personal Secretary. (1945 - 1953)",
+          "abolishDate": {
+            "year": 1953,
+            "logicalDate": "1953-01-01"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1945,
+            "logicalDate": "1945-01-01"
+          },
+          "naId": 10467188
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1953,
+        "logicalDate": "1953-01-01"
+      },
+      "title": "Subject Files",
+      "naId": 602191
+    },
+    {
+      "distance": 1,
+      "levelOfDescription": "fileUnit",
+      "title": "Foreign Affairs File, 1940-1953: Russia: General:  1945 - 1948",
+      "naId": 750363
+    }
+  ],
+  "naId": 213875310
+}

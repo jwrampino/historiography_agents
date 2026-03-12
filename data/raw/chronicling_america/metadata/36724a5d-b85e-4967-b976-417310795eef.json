@@ -1,0 +1,154 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82016181/1924-09-26/ed-1/?sp=12"
+  ],
+  "batch": [
+    "dlc_iooss_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1924-09-26",
+  "dates": [
+    "1924-09-26"
+  ],
+  "description": [
+    "MY OWN STORY Senators Vote to Open Now Famous Investil nation Into Oil Scandals By ROBERT M LI FOLLETTE This 1 ghth of i series ol 10 arinles de 4 HI 1 A it I the 111 l t ssidina a Fullette n the last 1 ptita in the MEERA of Congress are not much different from other folks Often it require the dramaticor the melodramatic to engage their attention plain logic Facts and cold and inadiTerent ometimes leave figures and them But hown a mystertot th continent carrying figure kulking across black bag containing 100000 and told that the 100000 is the loan of muiti millionaire oil operator to a member of th Preidents cabinet they leap to the thrill of the chase And we have the present situation in which the government is now endeavoring to recover thru the court the oil land needed for the Navy given away by this cabinet member to the friendly multimillionaire For veial year prior to 1919 the Senate and House had failed to agree mi legi lation dealing with the nil landh in the sixty tilth Congre the Sepate paosp a tun f mineral land by patent dipodng The Hou e"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2026-02-23T22:04:44.479Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82016181/1924-09-26/ed-1/?sp=12",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iooss_ver02:data:sn82016181:00529045736:1924092601:0346/full/pct:6.25/0/default.jpg#h=340&w=229",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iooss_ver02:data:sn82016181:00529045736:1924092601:0346/full/pct:12.5/0/default.jpg#h=680&w=458",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_iooss_ver02/data/sn82016181/00529045736/1924092601/0346.xml&format=alto_xml"
+  ],
+  "index": 156,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "district of columbia",
+    "washington d.c.",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "3",
+    "5",
+    "2",
+    "4",
+    "0000000012",
+    "6",
+    "1",
+    "7",
+    "sn82016181"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82016181"
+  ],
+  "number_page": [
+    "0000000012"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "2",
+    "9",
+    "0",
+    "4",
+    "5",
+    "7",
+    "3",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82016181-1924-09-26-ed-1-0346",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the washington daily news (washington, d.c.) 1921-1972"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington daily news (washington, d.c.) 1921-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82016181/1924-09-26/ed-1/?sp=12"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82016181/1924-09-26/ed-1/"
+  ],
+  "shelf_id": "12",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "washington",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2026-02-24T00:43:50.658Z",
+  "title": "Image 12 of The Washington daily news (Washington, D.C.), September 26, 1924",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82016181/1924-09-26/ed-1/?sp=12&q=oil",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_iooss_ver02%2Fdata%2Fsn82016181%2F00529045736%2F1924092601%2F0346.xml&q=oil&relevant_snippet=1"
+}

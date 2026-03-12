@@ -1,0 +1,190 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "subjects": [
+    {
+      "heading": "Motion pictures",
+      "authorityType": "specificRecordsType",
+      "naId": 10631732
+    }
+  ],
+  "useRestriction": {
+    "note": "All rights were conveyed to the U.S. Government on Nov. 28, 1962. However, proprietary rights  or existing copyright in footage obtained from other sources by Ford Motor Company may exist.",
+    "specificUseRestrictions": [
+      "Copyright"
+    ],
+    "status": "Restricted - Possibly"
+  },
+  "audiovisual": "True",
+  "title": "LANDMARKS OF THE AMERICAN REVOLUTION",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-3540",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Motion Pictures",
+          "state": "MD",
+          "fax": "301-837-3622",
+          "email": "mopix@nara.gov",
+          "mailCode": "RRSM"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "elementNumber": 1,
+          "reelTapeDiscNumber": 1,
+          "format": "Video: U-matic",
+          "specificMediaType": "Video Cassette",
+          "dimension": "3/4 inch"
+        }
+      ],
+      "copyStatus": "Reference"
+    },
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-3540",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Motion Pictures",
+          "state": "MD",
+          "fax": "301-837-3622",
+          "email": "mopix@nara.gov",
+          "mailCode": "RRSM"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "elementNumber": 1,
+          "reelTapeDiscNumber": 1,
+          "color": "Black-and-White",
+          "footage": 750,
+          "format": "Film: FGMS",
+          "specificMediaType": "Film Reel",
+          "dimension": "Film: 35 mm"
+        }
+      ],
+      "copyStatus": "Reproduction"
+    },
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-3540",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Motion Pictures",
+          "state": "MD",
+          "fax": "301-837-3622",
+          "email": "mopix@nara.gov",
+          "mailCode": "RRSM"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "elementNumber": 1,
+          "reelTapeDiscNumber": 1,
+          "color": "Black-and-White",
+          "footage": 725,
+          "format": "Film: DNS",
+          "specificMediaType": "Film Reel",
+          "dimension": "Film: 35 mm"
+        }
+      ],
+      "copyStatus": "Preservation"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupName": "National Archives at College Park \u2013 Motion Pictures",
+    "groupId": "RRAM",
+    "groupCd": "RRAM"
+  },
+  "generalRecordsTypes": [
+    "Moving Images"
+  ],
+  "localIdentifier": "FC-FC-483",
+  "productionDates": [
+    {
+      "year": 1920,
+      "logicalDate": "1920-01-01"
+    }
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "SAMMA File 200-FC-483",
+      "type": "Search Identifier"
+    },
+    {
+      "number": "NWDNM(m)-FC-FC-483",
+      "type": "NAIL Control Number"
+    },
+    {
+      "number": "NWDNM(m)-200-FC-483",
+      "type": "NAIL Control Number"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "fc-fc-483.mp4",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/mopix/fc-fc/fc-fc-483.mp4",
+      "objectFileSize": 134614768,
+      "objectId": "77431435",
+      "objectType": "Audio/Visual File (MP4)"
+    }
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "FC",
+      "inclusiveStartDate": {
+        "dateQualifier": "ca.",
+        "year": 1903,
+        "logicalDate": "1903-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "dateQualifier": "ca.",
+        "year": 1954,
+        "logicalDate": "1954-12-31"
+      },
+      "title": "Ford Motor Company Collection",
+      "naId": 839
+    },
+    {
+      "inclusiveStartDate": {
+        "dateQualifier": "ca.",
+        "year": 1903,
+        "logicalDate": "1903-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "Ford Motor Company.",
+          "authorityType": "organization",
+          "naId": 10468982
+        }
+      ],
+      "inclusiveEndDate": {
+        "dateQualifier": "ca.",
+        "year": 1954,
+        "logicalDate": "1954-12-31"
+      },
+      "title": "Motion Picture Films Relating to the Ford Motor Company, the Henry Ford Family, Noted Personalities, Industry, and Numerous Americana and Other Subjects",
+      "naId": 90439
+    }
+  ],
+  "scopeAndContentNote": "The original catalog description provided by the Ford Motor Company reads as follows:\n\n \u201cConcord, Massachusetts. Best known for its part in the Revolution. The first provincial congress was held here in 1774.\u201d\nStreet in Concord.\n\u201cWright Tavern. Headquarters for Minutemen during the early hours and also the British Headquarters a few hours later.\u201d\nSign, \u2018Wright Tavern, Built 1774\u2019 - two women walking past tavern. \n\u201cConcord River and Old North Bridge. Minuteman in the distance.\u201d\nBridge, statue in background.\n\u201cNorth Bridge, where on Sunday, April 19, 1775 the shot was fired which was \u2018heard round the world.\u2019\u201d\nPeople on bridge - couple in canoe paddling under bridge. \n\u201cThe Concord \u2018Minuteman\u2019 guards \u2018Old North Bridge.\u2019\u201d\nStatue. \n\u201cGraves of British Soldiers.\u201d\nGirl and dog near large stone marker.\n\u201cMonument Square. On this site was the Liberty Pole which the British cut; and here was the powder magazine which did not contain the ammunition they hoped to find.\u201d\nStone monument in square. \n\u201cPhiladelphia, New York, and Mt. Vernon.\u201d\n\u201cPhiladelphia too, was the scene of many vital and stirring events in connection with the War for Independence.\u201d\nMap of Pennsylvania, New Jersey, and Delaware showing location of Delaware and Schuylkill Rivers, Valley Forge, Philadelphia, Germantown, Trenton, and Brandywine. \n\u201cIn Carpenter\u2019s Hall, Washington was declared Commander-in-Chief of the American Army. This building has since been known as \u2018Independence Hall.\u2019 Why?\u201d\nSeveral views of Independence Hall.\n\u201cValley Forge. It was here that the colonists endured privations and distresses of an unusually severe winter so that the cause of liberty should not perish.\u201d\nPanoramic view of Valley Forge. \n\u201cGeneral Washington\u2019s headquarters.\u201d\nTourists entering stone building.\n\u201cAll that remains of Ft. Washington -- New York campaign.\u201d \nCannons at base of flag pole, building in distance. \n\u201cGrave of Benjamin Franklin, scientist and statesman.\u201d\nTourist looking at grave - close-up of headstones. \n\u201cHeroes of the Revolution.\u201d\n\u201cGeorge Washington, born Feb. 22, 1722, at Bridge Creek, Virginia. The first President of the United States, 1789 -- re-elected 1792.\u201d\nPortrait.\n\u201cWashington\u2019s home, Mt. Vernon.\u201d \nViews of house.\n\u201cWashington monument -- Richmond, Va.\u201d\nEquestrian statue.\n\u201cWashington Monument. Washington, D.C., highest in the world 555 ft. Erected by the nation in honor of Geo. Washington.\u201d\nMonument.\n\u201cJohn Adams, born Oct. 30, 1735 at Quincy, Massachusetts. Second President of the United States, 1797. Secured the adoption of the Declaration of Independence after three years\u2019 debate.\u201d\nPortrait.\n\u201cThomas Jefferson, the most conspicuous apostle of democracy in America. Born April 13, 1743, at Shadwell, Va. A bold horseman and hunter; a musician and scholar.\u201d\n\u201cThe Declaration of Independence was the work of his pen. President of the United States for two terms, 1801 - 1809.\u201d\nPortrait.\n\u201cFlags of the Revolution.\u201d\n\u201cIn 1775 the Massachusetts Colony adopted a plain white flag with a pine tree. This flag was flown by our vessels.\u201d\nMassachusetts flag. \n\u201cIn 1776 and 1777 the southern colonies used the snake flag.\u201d\nSnake and \u2018Don\u2019t Tread On Me\u2019 on flag.\n\u201cThe first striped flag was raised at General Washington\u2019s headquarters, Cambridge, Mass., Jan. 2, 1776. It was called the Cambridge flag.\u201d\nFlag.\n\u201cOn June 14, 1777, Betsy Ross made the first flag of thirteen stars and thirteen stripes.\u201d\nFlag. \n\u201cBetsy Ross House where the first flag was made.\u201d\nHouse, flag of original style flying from house.\n\u201cThe gateway to freedom and to the land of opportunity. Statue of Liberty.\u201d\nStatue. \n\u201cThe End.\u201d [1920]",
+  "naId": 91173
+}

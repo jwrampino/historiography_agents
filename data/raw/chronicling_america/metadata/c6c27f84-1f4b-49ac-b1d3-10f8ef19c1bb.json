@@ -1,0 +1,175 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84020097/1930-07-30/ed-1/?sp=1"
+  ],
+  "batch": [
+    "iune_fluorite_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/",
+    "1/united states/illinois/",
+    "2/united states/illinois/cook/",
+    "3/united states/illinois/cook/chicago/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1930-07-30",
+  "dates": [
+    "1930-07-30"
+  ],
+  "description": [
+    "The opposition of Hoover to the embargo on Soviet products fools no one Workers know that behind the scenes war is being prepared and on August First they will rally in the streets for the defense of the Soviet Union Vol VII No 182 MELLON ADMITS MOVE AMOUNTS TO WAR DECLARATION ALL OUT AUGUST Ist DEFEND THE SOVIET UN IN From Trade Embargo to War Rally August First DEVELOPMENTS are taking place rapidly In but a few weeks the situation has changed from general agitation primarily by white guard and fascist elements against the Soviet Union to an actual trade embargo by government agencies against certain Soviet prod ucts with the threat already of a general embargo against all goods produced in the Soviet Union The next step can only be a trade block ade and following that warimperialist war for the overthrow of the first workers government And with the present tempo of development these stages will be rushed through in an extremely short time Already hand in hand with these attacks on Soviet trade goes feverish military preparations The secret antiSoviet agreement reached during the London Naval Disarmament Conference has already borne fruit by the forging of an"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:20:26.285Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84020097/1930-07-30/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_fluorite_ver01:data:sn84020097:00332897664:1930073001:0113/full/pct:3.125/0/default.jpg#h=276&w=213",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_fluorite_ver01:data:sn84020097:00332897664:1930073001:0113/full/pct:6.25/0/default.jpg#h=553&w=426",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_fluorite_ver01:data:sn84020097:00332897664:1930073001:0113/full/pct:12.5/0/default.jpg#h=1107&w=852",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_fluorite_ver01/data/sn84020097/00332897664/1930073001/0113.xml&format=alto_xml"
+  ],
+  "index": 77,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "new york",
+    "chicago",
+    "illinois",
+    "new york city",
+    "cook"
+  ],
+  "location_city": [
+    "new york",
+    "chicago"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york",
+    "cook"
+  ],
+  "location_state": [
+    "new york",
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "9",
+    "6",
+    "7",
+    "4",
+    "3",
+    "sn84020097",
+    "2",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84020097"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "7",
+    "6",
+    "6",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84020097-1930-07-30-ed-1-0113",
+  "partof": [
+    "the daily worker (chicago, ill.;new york, n.y.) 1924-1958",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the daily worker (chicago, ill.;new york, n.y.) 1924-1958"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84020097/1930-07-30/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84020097/1930-07-30/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "new york",
+    "labor unions",
+    "chicago (ill.)",
+    "chicago",
+    "illinois",
+    "labor movement",
+    "new york (state)",
+    "newspapers",
+    "communism",
+    "cook",
+    "new york (n.y.)"
+  ],
+  "timestamp": "2025-05-22T03:37:06.363Z",
+  "title": "Image 1 of The daily worker (Chicago, Ill.;New York, N.Y.), July 30, 1930, (Final City Edition)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84020097/1930-07-30/ed-1/?sp=1&q=soviet+union",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_fluorite_ver01%2Fdata%2Fsn84020097%2F00332897664%2F1930073001%2F0113.xml&q=soviet+union&relevant_snippet=1"
+}

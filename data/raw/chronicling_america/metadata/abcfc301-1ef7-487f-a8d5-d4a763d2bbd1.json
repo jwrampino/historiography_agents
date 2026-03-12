@@ -1,0 +1,141 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83030362/1848-06-18/ed-1/?sp=4"
+  ],
+  "batch": [
+    "dlc_angelou_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1848-06-18",
+  "dates": [
+    "1848-06-18"
+  ],
+  "description": [
+    "BroadwayRide Up BY PROFESSOR BRIEFBODY The shades of night were falling fast As through Manhattans streets there past A youth with Bus who sounded clear His tones upon the evening air Broadway Ride up His hat was smashed his eye below Gleamed lurid red with brandys flow And like an old tin fishhorn rung The accents of that wellknown tongue Broadway Ride up In oyster cells he saw the light Of brandy red and whiskey white Above the gaslight brightly shone And fronj his lips escaped the moan Broadway Ride up Try not the pass an old man said Through this dark hole your road is laid The yawning s wers deep and wide But loud the fishhorn voice replied Broadway Ride up Oh stop a maiden said your bus Till 1 get out and land on Russ He opened half his bloodshot eye And shouted as a man went by Broadway Ride up Beware the dangerous running tide See there one wreck is at your side This was the lackeys last good night A voice replied Go on All right Broadway Ridbup At break of day as home he went A Star on breakfast all intent Was shocked to"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-07T20:29:41.320Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83030362/1848-06-18/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110016:1848061801:0004/full/pct:3.125/0/default.jpg#h=270&w=207",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110016:1848061801:0004/full/pct:6.25/0/default.jpg#h=541&w=415",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110016:1848061801:0004/full/pct:12.5/0/default.jpg#h=1082&w=830",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_angelou_ver01/data/sn83030362/print00211110016/1848061801/0004.xml&format=alto_xml"
+  ],
+  "index": 133,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "new york",
+    "new york county",
+    "new york city",
+    "united states"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn83030362",
+    "0000000004"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83030362"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83030362-1848-06-18-ed-1-0004",
+  "partof": [
+    "sunday dispatch (new york [n.y.]) 1845-1854",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "sunday dispatch (new york [n.y.]) 1845-1854"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83030362/1848-06-18/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83030362/1848-06-18/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "new york (state)",
+    "new york (n.y.)",
+    "new york county",
+    "new york",
+    "new york county (n.y.)",
+    "united states"
+  ],
+  "timestamp": "2023-08-07T22:29:07.516Z",
+  "title": "Image 4 of Sunday dispatch (New York [N.Y.]), June 18, 1848",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83030362/1848-06-18/ed-1/?sp=4&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_angelou_ver01%2Fdata%2Fsn83030362%2Fprint00211110016%2F1848061801%2F0004.xml&q=medicine&relevant_snippet=1"
+}

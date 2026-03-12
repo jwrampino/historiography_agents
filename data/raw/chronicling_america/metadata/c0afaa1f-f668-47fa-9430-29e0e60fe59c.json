@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2010270503/1894-10-24/ed-1/?sp=3"
+  ],
+  "batch": [
+    "nbu_harrison_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nebraska/",
+    "2/united states/nebraska/lincoln/",
+    "3/united states/nebraska/lincoln/north platte/"
+  ],
+  "contributor": [
+    "university of nebraska-lincoln libraries, lincoln, ne"
+  ],
+  "date": "1894-10-24",
+  "dates": [
+    "1894-10-24"
+  ],
+  "description": [
+    "The Totato j Mach of the socalled cognac which is imjiorted into England from France is I the product of the potato Throughout Germany the game uses are common In Poland the manufacture of spirits from the potato is a most extensive trade Stettin brandy well known it commerce is largely imported into England and is sent from thence to many ot her foreign possessions as the product of the grape and is placed on 1 many a table of England as the same while fair ladies perfume themselves j with the spirit of potato under the designation can dc Coloyne But there are other uses which this esculent is turned to abroad After extracting the iarina the pulp is manufactured into or zmuieiital articles such as picture frames biiiitlboxes and several descriptions of i toys and the water that runs from it in the process of manufacture is a most l valuable scourer For perfectly cleans 1 irg woolens and such like articles it is u the housewifes panacea and if the washerwoman happens o hive chilMains the becomes cured by the operation j State or Ohio City or Toledo Livas CoiMv f FS i Fkank J runsEi makes"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:41:10.877Z",
+  "group": [
+    "ndnp/nbu",
+    "university-of-nebraska-of-nebraska-lincoln-libraries-lincoln-ne-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2010270503/1894-10-24/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_harrison_ver01:data:2010270503:00211102500:1894102401:0613/full/pct:3.125/0/default.jpg#h=286&w=212",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_harrison_ver01:data:2010270503:00211102500:1894102401:0613/full/pct:6.25/0/default.jpg#h=573&w=424",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_harrison_ver01:data:2010270503:00211102500:1894102401:0613/full/pct:12.5/0/default.jpg#h=1147&w=849",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nbu/batch_nbu_harrison_ver01/data/2010270503/00211102500/1894102401/0613.xml&format=alto_xml"
+  ],
+  "index": 194,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "lincoln",
+    "north platte",
+    "nebraska",
+    "united states"
+  ],
+  "location_city": [
+    "north platte"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lincoln"
+  ],
+  "location_state": [
+    "nebraska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0",
+    "2",
+    "2010270503",
+    "0000000003",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2010270503"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "1",
+    "1",
+    "0",
+    "2",
+    "5",
+    "0",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2010270503-1894-10-24-ed-1-0613",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the north platte tribune (north platte, neb.) 1890-1894"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the north platte tribune (north platte, neb.) 1890-1894"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2010270503/1894-10-24/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2010270503/1894-10-24/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "north platte",
+    "lincoln",
+    "north platte (neb.)",
+    "nebraska",
+    "united states"
+  ],
+  "timestamp": "2025-12-15T02:39:07.536Z",
+  "title": "Image 3 of The North Platte tribune (North Platte, Neb.), October 24, 1894",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2010270503/1894-10-24/ed-1/?sp=3&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnbu%2Fbatch_nbu_harrison_ver01%2Fdata%2F2010270503%2F00211102500%2F1894102401%2F0613.xml&q=korea&relevant_snippet=1"
+}

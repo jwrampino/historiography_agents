@@ -1,0 +1,172 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85009852/1955-01-13/ed-1/?sp=8"
+  ],
+  "batch": [
+    "ct_carpsurprise_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/connecticut/",
+    "2/united states/connecticut/hartford/",
+    "3/united states/connecticut/hartford/new britain/"
+  ],
+  "contributor": [
+    "connecticut state library, hartford, ct"
+  ],
+  "date": "1955-01-13",
+  "dates": [
+    "1955-01-13"
+  ],
+  "description": [
+    "EAST HARTFORD GAZETTETHURS JAN 13 LIONS CLUB TO MEET The next regular meeting of the East Hartford Lions Club is scheduled for Monday evening January 17 at the Cowshed Inn on Main Street at 630 p m i n w I hows that again Building costs up 50 per cent in three years My home and household goods only half insured Yes Uncle Joe its a fact and there are many more folks like you It will pay you to check your fire insurance now in the light of todays increased values Well be glad to help you with this problemno obligation Call us today James J F Loughlin GENERAL INSURANCE AGENCY 721 MAIN ST HARTFORD Room 419 Office Tel JA 54860 Res AD 21244 THAT Aircraft Trailer Park New Launderette IS THE CHOICE OF THE TOWN YOU ARE CORDIALLY INVITED TO INSPECT HARTFORD AREAS MOST MODERN COMPLETE DRIVEIN LAUNDRY Open Till 9 Monday to Friday Saturday 8 to 6 Owned and Operated By AIRCRAFT TRAILER PARK INC PHONE BU 90265 441 Main Street East Hartford WE GIVE S H GREEN STAMPS III MIG Of Every Description LETTERHEADS BILLHEADS ENVELOPES WEDDING INVITATIONS SHOWER ANNOUNCEMENTS BUSINESS CARDS TICKETS OFFICE FORMS PERSONAL"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-12-15T22:37:46.607Z",
+  "group": [
+    "ndnp/ct",
+    "connecticut-state-library-hartford-ct-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85009852/1955-01-13/ed-1/?sp=8",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_carpsurprise_ver01:data:sn85009852:00517174877:1955011301:0018/full/pct:3.125/0/default.jpg#h=282&w=206",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_carpsurprise_ver01:data:sn85009852:00517174877:1955011301:0018/full/pct:6.25/0/default.jpg#h=564&w=413",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_carpsurprise_ver01:data:sn85009852:00517174877:1955011301:0018/full/pct:12.5/0/default.jpg#h=1129&w=826",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ct/batch_ct_carpsurprise_ver01/data/sn85009852/00517174877/1955011301/0018.xml&format=alto_xml"
+  ],
+  "index": 56,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "hartford",
+    "east windsor",
+    "connecticut",
+    "glastonbury",
+    "east hartford",
+    "south windsor",
+    "new britain",
+    "united states"
+  ],
+  "location_city": [
+    "new britain"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hartford"
+  ],
+  "location_state": [
+    "connecticut"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0000000008",
+    "8",
+    "0",
+    "7",
+    "sn85009852",
+    "1",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85009852"
+  ],
+  "number_page": [
+    "0000000008"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "4",
+    "8",
+    "7",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85009852-1955-01-13-ed-1-0018",
+  "partof": [
+    "the east hartford gazette (east hartford, conn.) 1942-current",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the east hartford gazette (east hartford, conn.) 1942-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85009852/1955-01-13/ed-1/?sp=8"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85009852/1955-01-13/ed-1/"
+  ],
+  "shelf_id": "08",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "hartford",
+    "east windsor",
+    "east windsor (conn.)",
+    "connecticut",
+    "glastonbury",
+    "new britain",
+    "https://id.oclc.org/worldcat/entity/e39pbjvcjhwfvmbcmprmtfyghc",
+    "east hartford",
+    "east hartford (conn.)",
+    "south windsor",
+    "https://id.oclc.org/worldcat/entity/e39pbjpjj38c94hmdm3bxkykjc",
+    "glastonbury (conn.)",
+    "south windsor (conn.)",
+    "https://id.oclc.org/worldcat/entity/e39qbtfrqr6qxbfkkvtp4wjrcp",
+    "united states"
+  ],
+  "timestamp": "2024-12-15T23:00:31.263Z",
+  "title": "Image 8 of The East Hartford gazette (East Hartford, Conn.), January 13, 1955",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85009852/1955-01-13/ed-1/?sp=8&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fct%2Fbatch_ct_carpsurprise_ver01%2Fdata%2Fsn85009852%2F00517174877%2F1955011301%2F0018.xml&q=computers&relevant_snippet=1"
+}

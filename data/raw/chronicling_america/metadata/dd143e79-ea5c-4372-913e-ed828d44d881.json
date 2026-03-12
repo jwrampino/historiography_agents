@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1940-12-01/ed-1/?sp=92"
+  ],
+  "batch": [
+    "dlc_1rothko_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1940-12-01",
+  "dates": [
+    "1940-12-01"
+  ],
+  "description": [
+    "HOUSES UNFURNISHED Continued TAKOMA PARK6 ROOM87BRICK 55 A blk stores and express bus ROBERT E LOHR 811 Cedar St Takoma Park D C _OK 0881_ WELLPLANNED 4BEDRM MODERN home conv to schools and transp 65 Duplex home 5 rms furnished 60 4 rms unfurn incl util 45 6rm modern home oil heat gar 5250 6 rms modern in Clarendon 4750 GEO D RICKER Corner Court House Rd and Wilson Blvd _Oxford 0511 Chestnut 5508_ 627 IRVING ST NW7 R B HWH Frigidatre garage 55 EDMUND M OSULLIVAN 1401 Eye 8tNW_National 7848 3538 10th ST NW 6 rooms bath h wh 4950 55 RANDOLPH PL NW 6 rooms bath oil heat newly dec 5500 3320 19th ST NW 7 rooms bath hwh garage 6000 4918 7th ST NW 6 rooms bath oil heat 6000 711 OTIS PL NW 7 rooms bath hwh 6000 420 CRITTENDEN ST NW 6 rooms bath Inclosed porches gas heat 6500 1406 WEBSTER ST NW 7 rooms bath hwh 6o0 1338 HARVARD ST NW 6 rooms 2 baths gas heat 2car garage 7000 70S ROCK CREEK CHURCH RD NW Desirable 7 large rooms 2 baths garage 500 PLANT GORDON INC 1374 Park Rd NW_CO_OS38__ 70 003419 12th"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:39:56.557Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1940-12-01/ed-1/?sp=92",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1rothko_ver02:data:sn83045462:00280603077:1940120101:0602/full/pct:6.25/0/default.jpg#h=489&w=348",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1rothko_ver02:data:sn83045462:00280603077:1940120101:0602/full/pct:12.5/0/default.jpg#h=978&w=697",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1rothko_ver02/data/sn83045462/00280603077/1940120101/0602.xml&format=alto_xml"
+  ],
+  "index": 105,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "2",
+    "sn83045462",
+    "8",
+    "6",
+    "3",
+    "1",
+    "0000000092",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000092"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "3",
+    "0",
+    "7",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1940-12-01-ed-1-0602",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1940-12-01/ed-1/?sp=92"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1940-12-01/ed-1/"
+  ],
+  "shelf_id": "092",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2022-10-25T00:18:52.440Z",
+  "title": "Image 92 of Evening star (Washington, D.C.), December 1, 1940",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1940-12-01/ed-1/?sp=92&q=oil",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_1rothko_ver02%2Fdata%2Fsn83045462%2F00280603077%2F1940120101%2F0602.xml&q=oil&relevant_snippet=1"
+}

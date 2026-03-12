@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84021917/1962-02-08/ed-1/?sp=6"
+  ],
+  "batch": [
+    "az_campfiregoneout_ver03"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/arizona/",
+    "2/united states/arizona/maricopa/",
+    "3/united states/arizona/maricopa/phoenix/"
+  ],
+  "contributor": [
+    "arizona state library, archives and public records; phoenix, az"
+  ],
+  "date": "1962-02-08",
+  "dates": [
+    "1962-02-08"
+  ],
+  "description": [
+    "Page 6 UL Sun THURSDAY FEBRUARY 81962 PHOENIXEVENING COLLEGE COURSES T Continuing education for adult students is the goal of Phoenix Evening College a self support ing branch of Phoenix College and your community college Hardly a semester begins without a few new courses being added to the program as a result of requests from students or members of the community who wish to become students In this way the Evening College offerings are tailored as nearly as possible to meet the needs of residents of the Phoenix area During the spring semester be ginning January 29 for instance several such new courses are to be offered as a result of needs ex pressed by members of the com munity One such course is Survey of Education required in all Educa tion programs adding one more academic course to the already wide offerings of the Evening Col lege An advanced clothing course taught by Miss Edith Stevens is added to the program this semester in response to the widespread need of many homemakers to know more about dealing with the many new fabrics available today For those who used to know how to type and want to again but are"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-09T14:47:31.909Z",
+  "group": [
+    "ndnp/az",
+    "arizona-state-university-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84021917/1962-02-08/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_campfiregoneout_ver03:data:sn84021917:00414216882:1962020801:0464/full/pct:3.125/0/default.jpg#h=268&w=197",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_campfiregoneout_ver03:data:sn84021917:00414216882:1962020801:0464/full/pct:6.25/0/default.jpg#h=537&w=395",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_campfiregoneout_ver03:data:sn84021917:00414216882:1962020801:0464/full/pct:12.5/0/default.jpg#h=1074&w=790",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/az/batch_az_campfiregoneout_ver03/data/sn84021917/00414216882/1962020801/0464.xml&format=alto_xml"
+  ],
+  "index": 47,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "maricopa",
+    "arizona",
+    "phoenix"
+  ],
+  "location_city": [
+    "phoenix"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "maricopa"
+  ],
+  "location_state": [
+    "arizona"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn84021917",
+    "2",
+    "6",
+    "8",
+    "4",
+    "1",
+    "0000000006"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84021917"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "2",
+    "1",
+    "6",
+    "8",
+    "8",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84021917-1962-02-08-ed-1-0464",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "arizona sun (phoenix, ariz.) 1942-196?"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "arizona sun (phoenix, ariz.) 1942-196?"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84021917/1962-02-08/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84021917/1962-02-08/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "african american",
+    "phoenix",
+    "phoenix (ariz.)",
+    "maricopa",
+    "united states",
+    "newspapers",
+    "arizona",
+    "african americans"
+  ],
+  "subject_ethnicity": [
+    "african american"
+  ],
+  "timestamp": "2024-01-09T18:40:14.830Z",
+  "title": "Image 6 of Arizona sun (Phoenix, Ariz.), February 8, 1962",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84021917/1962-02-08/ed-1/?sp=6&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Faz%2Fbatch_az_campfiregoneout_ver03%2Fdata%2Fsn84021917%2F00414216882%2F1962020801%2F0464.xml&q=computers&relevant_snippet=1"
+}

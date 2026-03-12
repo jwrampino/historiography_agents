@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87062321/1948-04-03/ed-1/?sp=6"
+  ],
+  "batch": [
+    "iune_diamond_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/illinois/",
+    "2/united states/illinois/cook/",
+    "3/united states/illinois/cook/chicago/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1948-04-03",
+  "dates": [
+    "1948-04-03"
+  ],
+  "description": [
+    "6 Column review Landis Send KellyNash and Prendergast machines to Italy THE SunTimes Kenesaw M Landis II lowered himself from the window of his own private Ivory Tower this week andfor a change made with some uncommonly common sense With tongue in check Lan dis wrote As I understand things and I admit I dont the immediate war danger is the free election the Italians are supposed to have on April 13 Usually we are happy about such things But alarming reports have come in that if all votes are honestly counted the Commu nists may win and be en titled to form a government Obviously we cannot allow this to happen After we kicked the Communists out of the Ital ian government last year we cant allow the Italians to vote them back again AND THEN with sarcasm as subtle as a kick in the head Landis continued One of our main handicaps in the Italian election is that very few of us had the fore sight to register and as a re sult the American vote will be light But otherwise we are in good shape We have the Pope on our side and also the Pre mier"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:19:04.342Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87062321/1948-04-03/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_diamond_ver02:data:sn87062321:00332897998:1948040301:1454/full/pct:6.25/0/default.jpg#h=310&w=226",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_diamond_ver02:data:sn87062321:00332897998:1948040301:1454/full/pct:12.5/0/default.jpg#h=621&w=453",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_diamond_ver02/data/sn87062321/00332897998/1948040301/1454.xml&format=alto_xml"
+  ],
+  "index": 64,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "chicago",
+    "cook",
+    "illinois"
+  ],
+  "location_city": [
+    "chicago"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cook"
+  ],
+  "location_state": [
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "9",
+    "0000000006",
+    "7",
+    "sn87062321",
+    "3",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87062321"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "7",
+    "9",
+    "9",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87062321-1948-04-03-ed-1-1454",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the chicago star (chicago, ill.) 1946-1948"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the chicago star (chicago, ill.) 1946-1948"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87062321/1948-04-03/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87062321/1948-04-03/ed-1/"
+  ],
+  "shelf_id": "06",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "working class",
+    "united states",
+    "labor unions",
+    "chicago",
+    "chicago (ill.)",
+    "illinois",
+    "newspapers",
+    "cook"
+  ],
+  "timestamp": "2025-05-21T22:55:07.352Z",
+  "title": "Image 6 of The Chicago star (Chicago, Ill.), April 3, 1948",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87062321/1948-04-03/ed-1/?sp=6&q=civil+rights",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_diamond_ver02%2Fdata%2Fsn87062321%2F00332897998%2F1948040301%2F1454.xml&q=civil+rights&relevant_snippet=1"
+}

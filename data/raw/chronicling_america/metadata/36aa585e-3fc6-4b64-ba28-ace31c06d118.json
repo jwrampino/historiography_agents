@@ -1,0 +1,166 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84024811/1908-01-16/ed-1/?sp=1"
+  ],
+  "batch": [
+    "mthi_ibis_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/lewis and clark/",
+    "3/united states/montana/lewis and clark/helena/",
+    "2/united states/montana/fergus/",
+    "3/united states/montana/fergus/lewistown/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1908-01-16",
+  "dates": [
+    "1908-01-16"
+  ],
+  "description": [
+    "4Ym MONTANANEWS MYTOT SOCIAOBT PAJtTY OF OLft HELENAMONTANA THURSDAY JANUARY 16 tW NO11 Socialisiir andLabor TheBallot and Not Terrorism theOnly Effective Weapon ofthe Working Class AddressDelivered Before GoldfieldMiners Union by Ida CrouchHazlett of Helena Comradesand Brothers Sincewe are just in receipt of thegood news of the acquittal of CharlesMoyer it seems as though it might befitting that bis meeting should be turned into a jubilee to celebrate the exoneration of our comrades from theheinous charge that have been heapedupon them Theverdict of the Boise jury it atestimonial to the fact that the working class is learning to use the capitalist weaponit is learning how tohandle the courts to the utter confusion of its powerful enemies The determination with which the workingclass have raised money employed theablest legal talent obtainable availedthemselves of every legal measure andfollowed up very clue in defense ofthe men through which the employersmeant to stike at the heart of a greatorganization has baffled all the resources that the ruling class has beenable to bring against them Ihave chosen the subject announcedto speak on here tonight because inthis placethe labor union hallandunder these conditionsthe strike ofof a great organization a discourseon such phases as the science and history"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:47:40.777Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84024811/1908-01-16/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_ibis_ver01:data:sn84024811:00294550276:1908011601:0828/full/pct:3.125/0/default.jpg#h=280&w=195",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_ibis_ver01:data:sn84024811:00294550276:1908011601:0828/full/pct:6.25/0/default.jpg#h=560&w=390",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_ibis_ver01:data:sn84024811:00294550276:1908011601:0828/full/pct:12.5/0/default.jpg#h=1120&w=780",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_ibis_ver01/data/sn84024811/00294550276/1908011601/0828.xml&format=alto_xml"
+  ],
+  "index": 97,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "fergus",
+    "helena",
+    "lewis and clark",
+    "united states",
+    "lewistown",
+    "montana"
+  ],
+  "location_city": [
+    "helena",
+    "lewistown"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lewis and clark",
+    "fergus"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn84024811",
+    "9",
+    "0000000001",
+    "2",
+    "6",
+    "5",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84024811"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "4",
+    "5",
+    "5",
+    "0",
+    "2",
+    "7",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84024811-1908-01-16-ed-1-0828",
+  "partof": [
+    "montana news (lewistown, mont.) 1904-191?",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "montana news (lewistown, mont.) 1904-191?"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84024811/1908-01-16/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84024811/1908-01-16/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "fergus",
+    "helena",
+    "lewis and clark",
+    "united states",
+    "lewistown",
+    "montana"
+  ],
+  "timestamp": "2023-07-06T04:59:02.146Z",
+  "title": "Image 1 of Montana news (Lewistown, Mont.), January 16, 1908",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84024811/1908-01-16/ed-1/?sp=1&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_ibis_ver01%2Fdata%2Fsn84024811%2F00294550276%2F1908011601%2F0828.xml&q=terrorism&relevant_snippet=1"
+}

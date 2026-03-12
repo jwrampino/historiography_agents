@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn92053389/1842-04-02/ed-1/?sp=2"
+  ],
+  "batch": [
+    "iune_albatross_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/illinois/",
+    "2/united states/illinois/la salle/",
+    "3/united states/illinois/la salle/lowell/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1842-04-02",
+  "dates": [
+    "1842-04-02"
+  ],
+  "description": [
+    "office la Pennsylvania Hall obnoxious to slaveholders because in ii their majesties are spoken off Let it be burntright public opinion demands it Is the right of petitionthe solemn guaranty of the peo ple of the United Slateswritten in their constitutionunrepealed by them or their authorityis it to be trampled on Let it be done Public opinion sanctions it Are the people of this country to be scan dalized by the existence of slavery and the driving of the slave trade under the caves of their own Capitol Yes Public opinion calls for it Are the Mormons to be robbed bunted down destroyed Yes Public opinion approves it Is a decision of the Supreme Court of Ohio declaring that her constitution enacted by the people for bids slavery to exist within her limitsis this decision to be set aside and the Court brought into contempt Letitbeso pub lic opinion is against it Is the freedom of speech and of the press to bo suppressed when it takes the field against the Goliali of the South Storm the punting offices destroy thb typesdrag the presses in tri umph through the streetscast them into the riverkill those who defend them Its all"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:15:42.216Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn92053389/1842-04-02/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn92053389:00514151179:1842040201:0209/full/pct:6.25/0/default.jpg#h=375&w=242",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn92053389:00514151179:1842040201:0209/full/pct:12.5/0/default.jpg#h=751&w=485",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_albatross_ver01/data/sn92053389/00514151179/1842040201/0209.xml&format=alto_xml"
+  ],
+  "index": 112,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "la salle",
+    "united states",
+    "illinois",
+    "lowell",
+    "la salle county"
+  ],
+  "location_city": [
+    "lowell"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "la salle"
+  ],
+  "location_state": [
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn92053389",
+    "5",
+    "9",
+    "7",
+    "4",
+    "0000000002",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn92053389"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "4",
+    "1",
+    "5",
+    "1",
+    "1",
+    "7",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn92053389-1842-04-02-ed-1-0209",
+  "partof": [
+    "serial and government publications division",
+    "genius of liberty (lowell, la salle county, ill.) 1840-1842",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "genius of liberty (lowell, la salle county, ill.) 1840-1842"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn92053389/1842-04-02/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn92053389/1842-04-02/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "la salle",
+    "la salle county (ill.)",
+    "illinois",
+    "lowell (ill.)",
+    "lowell",
+    "newspapers",
+    "la salle county",
+    "antislavery movements"
+  ],
+  "timestamp": "2025-05-21T11:11:19.577Z",
+  "title": "Image 2 of Genius of liberty (Lowell, La Salle County, Ill.), April 2, 1842",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn92053389/1842-04-02/ed-1/?sp=2&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_albatross_ver01%2Fdata%2Fsn92053389%2F00514151179%2F1842040201%2F0209.xml&q=slavery&relevant_snippet=1"
+}

@@ -1,0 +1,131 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16103/?sp=5"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1805-12-17",
+  "dates": [
+    "1805-12-17"
+  ],
+  "description": [
+    "sb cat ie _ 2 it \u00e9 coe Ea _ SUPPLEMENT TO THE BENGAL HURKARU B v2 mm TUESDAY DECEMBER 17 1805 War and ere he te nt ee en eoeeereceanyetns eiahtistintadbite ate py of a letter from Admiral Villeneuve to the miniffer Z hee ater td wit Copy of 4 Fcpaipiapaat es minifier Sloop Reynard Port Royal famana folicit the honour of notice tu this mott gallant VI That the law of Coofcription fhall only ale a of the Marine Om g a Petfon On board the Admirals hip the Bucentaure in the To WILLIA drhcer apply to tal ors i ta M MARSDEN Esa ae sgth Pro soad of Fort de France the 17th of May Sir si I have the honor fo be c Vil That the export and import duties Tet MonsstGnUts Cc DASHWOOD fhall be regulated in the manner the moft fa tlle spre atk ioe pe Ihave the honor to 1n at aft efhon Your Excellency has been infotmed of my failing jaying athe c pe yor tat af Pe To RearAdmiral Dacres Commanuct vourable to the agriculture and manufactures oad Id from the harbour of Toulon on the goth of March lait g"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16103/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16103:0005/full/pct:6.25/0/default.jpg#h=487&w=328",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16103:0005/full/pct:12.5/0/default.jpg#h=974&w=657",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16103:0005/full/pct:25.0/0/default.jpg#h=1949&w=1315",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16103:0005/full/pct:50.0/0/default.jpg#h=3898&w=2630",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16103:0005/full/pct:100.0/0/default.jpg#h=7796&w=5260",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16103/0005.alto.xml&format=alto_xml"
+  ],
+  "index": 38,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "india",
+    "calcutta"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "sn88063570",
+    "sn88063571",
+    "sn88063569",
+    "2025-08-13t13:59:42.400000",
+    "0000000005"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16103-0005-alto",
+  "partof": [
+    "asian division",
+    "general collections",
+    "world newspapers",
+    "catalog",
+    "south asian digital collection",
+    "serial and government publications division",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "world digital library"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16103/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16103/"
+  ],
+  "shelf_id": "5",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "india",
+    "calcutta"
+  ],
+  "timestamp": "2025-12-12T07:20:14.258Z",
+  "title": "Image 5 of Volume 11, Number 570, Tuesday, December 17, 1805 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16103/?sp=5&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16103%2F0005.alto.xml&q=great+war&relevant_snippet=1"
+}

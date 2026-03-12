@@ -1,0 +1,165 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82007637/1944-08-25/ed-1/?sp=4"
+  ],
+  "batch": [
+    "ohi_kaffirlily_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/lucas/",
+    "3/united states/ohio/lucas/toledo/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1944-08-25",
+  "dates": [
+    "1944-08-25"
+  ],
+  "description": [
+    "k ff Page 4 1 V te 1 TOLEDO UNON JOURNAL I X7TAD WE STAND Published every Friday by Local No 12 UAWCIO 425 Winthrop Street T Toledo Ohio l Member of American Labor Press Association Fditnr Melvin Schulte Mna Editor yJvndni I Advertising Manager Burny Zawodny Board of Trustees Melvin Schult Thomas Burke Randolph Gray SUBSCRIPTION RATES One vear by mail in advance S15 Entered at the Toledo Ohio post office as second class matter under the act of Aug 24 1912 Another Rumi Plan Beardsley Rumi whose work in put ting over the Rumi plan for the payas yougo income tax deduction received high praise from the National Association of Manufacturers has come up with another proposal which must hae the NANI big wigs cheering for him Rumis new plan which is supposed to he a stimulant for production proposes to do away with corporation taxes Unsmil ingly the plan has been given to some congressmen for their study and consid eration If the present congress had not piled yp such a miserable record of favoring the corporations and high bracket income boys for the past 18 months we would be inclined to consider the latest Rumi proposal"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:21:51.792Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82007637/1944-08-25/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kaffirlily_ver01:data:sn82007637:00340580382:1944082501:0657/full/pct:3.125/0/default.jpg#h=284&w=212",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kaffirlily_ver01:data:sn82007637:00340580382:1944082501:0657/full/pct:6.25/0/default.jpg#h=568&w=425",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kaffirlily_ver01:data:sn82007637:00340580382:1944082501:0657/full/pct:12.5/0/default.jpg#h=1137&w=850",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_kaffirlily_ver01/data/sn82007637/00340580382/1944082501/0657.xml&format=alto_xml"
+  ],
+  "index": 169,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ohio",
+    "lucas county",
+    "lucas",
+    "united states",
+    "toledo"
+  ],
+  "location_city": [
+    "toledo"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lucas"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000004",
+    "sn82007637",
+    "2",
+    "8",
+    "3",
+    "5",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82007637"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "0",
+    "3",
+    "8",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82007637-1944-08-25-ed-1-0657",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "toledo union journal (toledo, ohio) 1942-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "toledo union journal (toledo, ohio) 1942-current"
+  ],
+  "publication_frequency": [
+    "biweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82007637/1944-08-25/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82007637/1944-08-25/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "local 12 (toledo, ohio)",
+    "ohio",
+    "labor unions",
+    "lucas county",
+    "lucas",
+    "toledo (ohio)",
+    "united states",
+    "newspapers",
+    "toledo",
+    "lucas county (ohio)",
+    "international union, united automobile workers of america (cio)"
+  ],
+  "timestamp": "2023-09-06T02:29:30.740Z",
+  "title": "Image 4 of Toledo union journal (Toledo, Ohio), August 25, 1944",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82007637/1944-08-25/ed-1/?sp=4&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_kaffirlily_ver01%2Fdata%2Fsn82007637%2F00340580382%2F1944082501%2F0657.xml&q=fascism&relevant_snippet=1"
+}

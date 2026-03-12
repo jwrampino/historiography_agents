@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045012/1924-03-14/ed-1/?sp=1"
+  ],
+  "batch": [
+    "ohi_buttercup_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/butler/",
+    "3/united states/ohio/butler/hamilton/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1924-03-14",
+  "dates": [
+    "1924-03-14"
+  ],
+  "description": [
+    "_f v V n v w fit fc k 0 is i4 iiS K li v VOL XXIII No 48 j li 4 v rt i A ne1 W x v s jM v_ ly f V L v v V L i I V rv vt y V By International Labor News Service Washington D CDevious are the ways of big business and the Cracker business is no exception as witness the ways of the National Bis cuit Company and the LooseWiles Biscuit Company Not content with virtually monopo lizing the biscuit and cracker business of the United States the National Biscuit Company and the LooseWiles Biscuit Company have sought to monopolize the retail selling of bis enits and crackers as well Accord ing to the federal trade commission the two companies have succeeded in their object with the result that many independent retail dealers are finding tit impossible to remain in business The trade commission has ordered the companiess which are the largest biscuit and cracker companies in the United States to discontinue discrim inating in prices between chain stores and cooperative buying associations composed of independent retail gro cers when purchasing similar quan tities of the products"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:15:15.791Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045012/1924-03-14/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_buttercup_ver01:data:sn83045012:00414210284:1924031401:0961/full/pct:3.125/0/default.jpg#h=306&w=225",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_buttercup_ver01:data:sn83045012:00414210284:1924031401:0961/full/pct:6.25/0/default.jpg#h=612&w=450",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_buttercup_ver01/data/sn83045012/00414210284/1924031401/0961.xml&format=alto_xml"
+  ],
+  "index": 85,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ohio",
+    "united states",
+    "butler",
+    "hamilton"
+  ],
+  "location_city": [
+    "hamilton"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "butler"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "4",
+    "sn83045012",
+    "2",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045012"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "2",
+    "1",
+    "0",
+    "2",
+    "8",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83045012-1924-03-14-ed-1-0961",
+  "partof": [
+    "the butler county press (hamilton, ohio) 1900-1946",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the butler county press (hamilton, ohio) 1900-1946"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045012/1924-03-14/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045012/1924-03-14/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "ohio",
+    "united states",
+    "newspapers",
+    "hamilton",
+    "hamilton (ohio)",
+    "butler"
+  ],
+  "timestamp": "2023-09-05T03:58:37.797Z",
+  "title": "Image 1 of The Butler County press (Hamilton, Ohio), March 14, 1924",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045012/1924-03-14/ed-1/?sp=1&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_buttercup_ver01%2Fdata%2Fsn83045012%2F00414210284%2F1924031401%2F0961.xml&q=immigration&relevant_snippet=1"
+}

@@ -1,0 +1,181 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85044791/1959-07-16/ed-1/?sp=3"
+  ],
+  "batch": [
+    "msar_lapis_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/alabama/",
+    "2/united states/alabama/baldwin/",
+    "3/united states/alabama/baldwin/fairhope/",
+    "1/united states/mississippi/",
+    "2/united states/mississippi/forrest/",
+    "3/united states/mississippi/forrest/petal/",
+    "3/united states/mississippi/forrest/hattiesburg/"
+  ],
+  "contributor": [
+    "mississippi department of archives and history"
+  ],
+  "date": "1959-07-16",
+  "dates": [
+    "1959-07-16"
+  ],
+  "description": [
+    "Letters the Germans since his father had deserted a high military post when he could no longer stomach the orders he had to carry out The other was an ordinary refu gee who left when the persecu tion of his religion made such a move wise The first went back to Germany he was not captured but came close to it and was wounded The second feigned ill ness goldbricked and demon strated cowardice in training and was sent to a quartermaster unit in the States The first risked his life for the protection of the sec ond and the protection of some of the most worthless people I have ever known I was born in Virginia so I know quite a few bigots and others not worth fight ing for The second shirked Both were intelligent But where would you be Mr Goldberg if everybody with intelligence left and the battles of WW II were fought by the stupid You and hotheads like myself and people like Mr East who cannot shut their eyes or their mouths or their minds to injustice which can revert to tyranny would all VOTE FOR LELAND kSPEED i Leland Speed is the candidate"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:44:53.044Z",
+  "group": [
+    "ndnp/msar",
+    "mississippi-department-of-archives-and-history"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85044791/1959-07-16/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lapis_ver01:data:sn85044791:00383345066:1959071601:0671/full/pct:6.25/0/default.jpg#h=460&w=298",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lapis_ver01:data:sn85044791:00383345066:1959071601:0671/full/pct:12.5/0/default.jpg#h=920&w=596",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/msar/batch_msar_lapis_ver01/data/sn85044791/00383345066/1959071601/0671.xml&format=alto_xml"
+  ],
+  "index": 178,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "hattiesburg",
+    "petal",
+    "united states",
+    "baldwin county",
+    "mississippi",
+    "fairhope",
+    "alabama",
+    "forrest",
+    "baldwin",
+    "forrest county"
+  ],
+  "location_city": [
+    "fairhope",
+    "petal",
+    "hattiesburg"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "baldwin",
+    "forrest"
+  ],
+  "location_state": [
+    "alabama",
+    "mississippi"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000003",
+    "0",
+    "3",
+    "4",
+    "5",
+    "6",
+    "1",
+    "sn85044791",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85044791"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "8",
+    "3",
+    "3",
+    "4",
+    "5",
+    "0",
+    "6",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85044791-1959-07-16-ed-1-0671",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the petal paper (petal, miss.) 1953-19??"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the petal paper (petal, miss.) 1953-19??"
+  ],
+  "publication_frequency": [
+    "monthly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85044791/1959-07-16/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85044791/1959-07-16/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "hattiesburg",
+    "petal (miss.)",
+    "petal",
+    "united states",
+    "baldwin county",
+    "newspapers",
+    "alabama",
+    "fairhope",
+    "baldwin county (ala.)",
+    "mississippi",
+    "fairhope (ala.)",
+    "hattiesburg (miss.)",
+    "forrest",
+    "baldwin",
+    "forrest county",
+    "forrest county (miss.)"
+  ],
+  "timestamp": "2023-07-06T06:13:00.822Z",
+  "title": "Image 3 of The Petal paper (Petal, Miss.), July 16, 1959",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85044791/1959-07-16/ed-1/?sp=3&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmsar%2Fbatch_msar_lapis_ver01%2Fdata%2Fsn85044791%2F00383345066%2F1959071601%2F0671.xml&q=computers&relevant_snippet=1"
+}

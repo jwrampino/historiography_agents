@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83016244/1961-05-28/ed-1/?sp=20"
+  ],
+  "batch": [
+    "fu_eatonville_ver03"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/florida/",
+    "2/united states/florida/monroe/",
+    "3/united states/florida/monroe/key west/"
+  ],
+  "contributor": [
+    "university of florida"
+  ],
+  "date": "1961-05-28",
+  "dates": [
+    "1961-05-28"
+  ],
+  "description": [
+    "Page 8B THE KEY WEST CITIZEN Sunday May M Il Retirement Incomes In County Above Average SfMcial to to Citizen NEW YORK Larger contri buttons made to social security by Monroe County residents the result of better earnings over the years are now paying off in good measure Pension checks arriving for peo ple in the county are proportion ately bigger than those going to lower income areas the govern ment reports show Beat The Heat Do It Yourselfl LOCAL MANUFACTURER OFFERS FOR A LIMITED TIME ONLY 55 Gallon Drums of Completely Fungus Proof OO 50 White Roof Spray Paint at Per 55 Gallon Drum wA ENOUGH FOR THE AVERAGE HOME F 08 OUR PLANT MONROE MARINA STOCK ISLAND CY 2802 Ask for Fred and Place Your Order Early IF jfuU jnllK M Memorial Day ZBBK A day that a grateful MSB g nation pauses to honor iZ W fll those who have given so much for freedom Ini and a day to reaffirm nl B B the ideals for which W IB B died IB 11 We will transact no BB B B B business Memorial Day BwW\u00dfi May 30th The Florida National Bank At Key West CORNER DUVAL"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2026-01-27T16:59:56.210Z",
+  "group": [
+    "ndnp/fu",
+    "university-of-florida-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83016244/1961-05-28/ed-1/?sp=20",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_eatonville_ver03:data:sn83016244:00517170100:1961052801:0352/full/pct:3.125/0/default.jpg#h=303&w=218",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_eatonville_ver03:data:sn83016244:00517170100:1961052801:0352/full/pct:6.25/0/default.jpg#h=607&w=437",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/fu/batch_fu_eatonville_ver03/data/sn83016244/00517170100/1961052801/0352.xml&format=alto_xml"
+  ],
+  "index": 24,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "monroe",
+    "monroe county",
+    "key west",
+    "florida",
+    "united states"
+  ],
+  "location_city": [
+    "key west"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "monroe"
+  ],
+  "location_state": [
+    "florida"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0",
+    "sn83016244",
+    "7",
+    "0000000020",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83016244"
+  ],
+  "number_page": [
+    "0000000020"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "0",
+    "1",
+    "0",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83016244-1961-05-28-ed-1-0352",
+  "partof": [
+    "the key west citizen (key west, fla.) 1879-current",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the key west citizen (key west, fla.) 1879-current"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83016244/1961-05-28/ed-1/?sp=20"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83016244/1961-05-28/ed-1/"
+  ],
+  "shelf_id": "20",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "key west (fla.)",
+    "monroe",
+    "monroe county",
+    "monroe county (fla.)",
+    "key west",
+    "florida",
+    "united states"
+  ],
+  "timestamp": "2026-01-28T01:09:44.122Z",
+  "title": "Image 20 of The Key West citizen (Key West, Fla.), May 28, 1961",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83016244/1961-05-28/ed-1/?sp=20&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Ffu%2Fbatch_fu_eatonville_ver03%2Fdata%2Fsn83016244%2F00517170100%2F1961052801%2F0352.xml&q=computers&relevant_snippet=1"
+}

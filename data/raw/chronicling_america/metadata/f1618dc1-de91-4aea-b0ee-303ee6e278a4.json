@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2019270505/1948-05-20/ed-1/?sp=3"
+  ],
+  "batch": [
+    "nbu_indescribablebeast_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nebraska/",
+    "2/united states/nebraska/lancaster/",
+    "3/united states/nebraska/lancaster/lincoln/"
+  ],
+  "contributor": [
+    "university of nebraska-lincoln libraries, lincoln, ne"
+  ],
+  "date": "1948-05-20",
+  "dates": [
+    "1948-05-20"
+  ],
+  "description": [
+    "i fkuJuJvLlt _1 Quinn Chapel A M E Church Pth and C Streets Rev R E Handy Pastor 945 a m Sunday School 1100 a m Morning Worship 600 p m Young Peoples Fellowship 730 p m Evening service Tuesday 800 p m Prayer meeting North side Church of God 23rd and T Street Robert La Moody Pastor 1000 a m Cburcb School 1100 a m Morning Worship 730 p m Evening Worship 730 p m Midweek Prayer Meeting 730 p m Friday Bible Study For place cf meeting call 24673 Alloa Chapel Seventhday Adventist Ur ran League20JO T Street frank W Hale Jr Pastor LeCount Butler Associate Pastor 945 a m Sabbath School 1045 a m Missionary Meeting 1100 a m Morn ng Worship 400 p m Young Peoples Society Christ Temple Church of Christ Holiness 2149 U Street Rev T O McWilliams Jr Pastor 5 700 a m Early Morning Prayer 1000 a m Sunday School 1100 a m Morning Worship 500 p m Service at Carver borne 600 p m HYPU Richard McWil liams president 745 p m Evening Service 1st A 3rd Mondays CWWW meets at 800 p rn Mrs Margie Turner president Tuesday Bible Study"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:41:51.171Z",
+  "group": [
+    "ndnp/nbu",
+    "university-of-nebraska-of-nebraska-lincoln-libraries-lincoln-ne-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2019270505/1948-05-20/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indescribablebeast_ver01:data:2019270505:00332899260:1948052001:0502/full/pct:6.25/0/default.jpg#h=436&w=304",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indescribablebeast_ver01:data:2019270505:00332899260:1948052001:0502/full/pct:12.5/0/default.jpg#h=873&w=609",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nbu/batch_nbu_indescribablebeast_ver01/data/2019270505/00332899260/1948052001/0502.xml&format=alto_xml"
+  ],
+  "index": 179,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "lancaster",
+    "lincoln",
+    "nebraska"
+  ],
+  "location_city": [
+    "lincoln"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lancaster"
+  ],
+  "location_state": [
+    "nebraska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000003",
+    "0",
+    "9",
+    "3",
+    "2019270505",
+    "6",
+    "2",
+    "1",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2019270505"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "9",
+    "2",
+    "6",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2019270505-1948-05-20-ed-1-0502",
+  "partof": [
+    "chronicling america",
+    "the voice (lincoln, nebraska) 1946-195?",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the voice (lincoln, nebraska) 1946-195?"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2019270505/1948-05-20/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2019270505/1948-05-20/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "lincoln (neb.)",
+    "lancaster",
+    "lincoln",
+    "newspapers",
+    "african americans",
+    "african american",
+    "african american newspapers",
+    "nebraska"
+  ],
+  "subject_ethnicity": [
+    "african american"
+  ],
+  "timestamp": "2025-12-15T05:07:11.917Z",
+  "title": "Image 3 of The voice (Lincoln, Nebraska), May 20, 1948",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2019270505/1948-05-20/ed-1/?sp=3&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnbu%2Fbatch_nbu_indescribablebeast_ver01%2Fdata%2F2019270505%2F00332899260%2F1948052001%2F0502.xml&q=terrorism&relevant_snippet=1"
+}

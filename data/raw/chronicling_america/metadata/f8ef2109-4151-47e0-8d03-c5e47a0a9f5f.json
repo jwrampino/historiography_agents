@@ -1,0 +1,166 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn81002003/1948-03-01/ed-1/?sp=4"
+  ],
+  "batch": [
+    "nbu_housesparrow_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nebraska/",
+    "2/united states/nebraska/douglas/",
+    "3/united states/nebraska/douglas/omaha/"
+  ],
+  "contributor": [
+    "university of nebraska-lincoln libraries, lincoln, ne"
+  ],
+  "date": "1948-03-01",
+  "dates": [
+    "1948-03-01"
+  ],
+  "description": [
+    "Prezzi Bassissimi con Servizio Dignitoso e Cordialit\u00e09 Eccezionale La Pi\u00f9 Grande ed Elegante Casa di Servizi Mortuari italia na nello Stato del Nebraska Salanitro Mortuary SIN DAL 1925 NEW LOCATION 1234 S 10th Street TEI ATe Ol\u00ecO Per Servirvi RICORDATE IL NOSTRO NUOVO INDIRIZZO 1803 EMMET ST OMAHA The American Citizen rivolge un caldo appello ed una preghiera a tutte le associazioni di mutuo soccorso religiose a dubs sportivi culturali e politici della nostra citt\u00e0 e dello stato del Nebraska di voler comunicare a mezzo telefono od inviando per posta alla direzione di nuesto giornale a tempo opportuno per a pubbicazione della veniente set timana comunicati relazioni ri soluzioni deliberati ordini del giorno o tutto ci\u00f2 che possa ri guardare riflettere od interessa re le attivit\u00e0 delle loro organiz zazioni The American Citizen Sar\u00e0 ben lieto di pubblicare as solutamente gratis tali loro co municazioni promettendo il suo entusiastico appoggio a tutte le buone e progressive inziative dei nostri sodalizii o di tutte le per sone volenterose a ben fare Nel comune interesse ed anche per la maggiore efficacia nella pubblicazione di suddette relazio ni raccomandiamo che i comuni cati che ci vengono rimessi siano brevi chiari sostanziosi e leggi"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:41:47.535Z",
+  "group": [
+    "ndnp/nbu",
+    "university-of-nebraska-of-nebraska-lincoln-libraries-lincoln-ne-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn81002003/1948-03-01/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_housesparrow_ver01:data:sn81002003:00517014175:1948030101:0533/full/pct:6.25/0/default.jpg#h=430&w=318",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_housesparrow_ver01:data:sn81002003:00517014175:1948030101:0533/full/pct:12.5/0/default.jpg#h=861&w=636",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nbu/batch_nbu_housesparrow_ver01/data/sn81002003/00517014175/1948030101/0533.xml&format=alto_xml"
+  ],
+  "index": 142,
+  "language": [
+    "italian",
+    "english"
+  ],
+  "location": [
+    "iowa",
+    "douglas county",
+    "omaha",
+    "douglas",
+    "nebraska",
+    "united states"
+  ],
+  "location_city": [
+    "omaha"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "douglas"
+  ],
+  "location_state": [
+    "nebraska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0000000004",
+    "0",
+    "7",
+    "sn81002003",
+    "1",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn81002003"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "0",
+    "1",
+    "4",
+    "1",
+    "7",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn81002003-1948-03-01-ed-1-0533",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the american citizen (omaha, neb.) 1923-1985"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the american citizen (omaha, neb.) 1923-1985"
+  ],
+  "publication_frequency": [
+    "quarterly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn81002003/1948-03-01/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn81002003/1948-03-01/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "iowa",
+    "italian",
+    "douglas county",
+    "omaha (neb.)",
+    "douglas county (neb.)",
+    "omaha",
+    "douglas",
+    "united states",
+    "nebraska",
+    "italian americans"
+  ],
+  "subject_ethnicity": [
+    "italian"
+  ],
+  "timestamp": "2025-12-15T04:33:25.229Z",
+  "title": "Image 4 of The American citizen (Omaha, Neb.), March 1, 1948",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn81002003/1948-03-01/ed-1/?sp=4&q=civil+rights",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnbu%2Fbatch_nbu_housesparrow_ver01%2Fdata%2Fsn81002003%2F00517014175%2F1948030101%2F0533.xml&q=civil+rights&relevant_snippet=1"
+}

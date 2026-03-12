@@ -1,0 +1,139 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063569_16153/?sp=1"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1834-11-25",
+  "dates": [
+    "1834-11-25"
+  ],
+  "description": [
+    "r THE INDIA GA WITH WHICH IS INCORPORATED PUBLISHED DAILYPRICE EIGHT RUPEES PER MONTH or IF PAID IN ADVANCE TWENTY RUPEES PER QUARTER or SIXTYFOUR RUPEES PER YEAR VOL XIVNo 125NEW SERIES mets to be given in honor of Sir Charles Metcalfe do send to the invitation Committee the names of such Ladies as they may wish to liave Tickets for the Ball and Supper ou the 4th proximo The Ladies ot the family of a Subscriber will be expect ed as a matter of course Town Hall Nov 24 1834 12 83 J Of1C Persons desirous of subscribing to the Enter tainments m honor of Sir Charles Metcalfe are requested to adilress their applications to the Commirrer or Invirarion at the Town Hall Members of the Committee of Invitation Sir Charles Oyly BartCol Dunlop Patrick OHanlon Longueville Clarke and Richard Howe Cockerell Esqrs OTICE is hereby given that agreeably to the 14th Article of the Regulations for the management of the Native Hospitaland its dependant Dispensaries c a gene ral Meeting of the Subscribers to those Institutions will be held at the Hospital house on Saturday the 6th proximo at the hour of ten inthe forenoon for the purpose"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-14",
+    "catalog",
+    "main-catalog-split-14"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063569_16153/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063569_16153:0001/full/pct:3.125/0/default.jpg#h=284&w=212",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063569_16153:0001/full/pct:6.25/0/default.jpg#h=569&w=425",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063569_16153:0001/full/pct:12.5/0/default.jpg#h=1138&w=850",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063569_16153:0001/full/pct:25.0/0/default.jpg#h=2276&w=1700",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063569_16153:0001/full/pct:50.0/0/default.jpg#h=4552&w=3400",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063569_16153:0001/full/pct:100.0/0/default.jpg#h=9105&w=6800",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063569_16153/0001.alto.xml&format=alto_xml"
+  ],
+  "index": 4,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "calcutta",
+    "india",
+    "kolkata"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "sn88063571",
+    "sn88063570",
+    "0000000001",
+    "sn88063569",
+    "2025-08-13t14:01:05.900000",
+    "sn93049213"
+  ],
+  "number_lccn": [
+    "sn88063569"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_preceding_items": [
+    "sn88063570",
+    "sn88063571",
+    "sn93049213"
+  ],
+  "number_source_modified": [
+    "2025-08-13t14:01:05.900000"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Bengal hurkaru"
+  ],
+  "page_id": "gdc-sn88063569_16153-0001-alto",
+  "partof": [
+    "catalog",
+    "world digital library",
+    "asian division",
+    "serial and government publications division",
+    "south asian digital collection",
+    "world newspapers",
+    "the bengal hurkaru and chronicle (calcutta, india) 1828-1836",
+    "general collections"
+  ],
+  "partof_title": [
+    "the bengal hurkaru and chronicle (calcutta, india) 1828-1836"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063569_16153/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063569_16153/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "newspapers",
+    "calcutta",
+    "kolkata",
+    "india",
+    "kolkata (india)"
+  ],
+  "timestamp": "2025-12-12T07:19:02.154Z",
+  "title": "Image 1 of Volume 14, Number 125, Tuesday, November 25, 1834 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063569_16153/?sp=1&q=oil",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063569_16153%2F0001.alto.xml&q=oil&relevant_snippet=1"
+}

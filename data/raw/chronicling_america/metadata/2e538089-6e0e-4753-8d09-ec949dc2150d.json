@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84020662/1946-09-11/ed-1/?sp=3"
+  ],
+  "batch": [
+    "ak_chinooksalmon_ver03"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/alaska/",
+    "2/united states/alaska/nome/",
+    "3/united states/alaska/nome/nome/"
+  ],
+  "contributor": [
+    "alaska state library historical collections"
+  ],
+  "date": "1946-09-11",
+  "dates": [
+    "1946-09-11"
+  ],
+  "description": [
+    "John L Lewis Negotiates With Coal Operators WASHINGTON Sept 11 John L Lewis resumed negotia tions with soft coal operators to day without making any immed iate new demands as a basis for returning the mines from gov ernment to private operation Lewis and his committee of 20 United Mine Workers leaders met for less than 2 hours with the ne gotiating committee of bitumin ous coal operators at the request of Adm Ben Moreell Federal Coal Mines Administrator Moreell offered a basis for reach ing a private contract patterned after but not identical with the governments contract which brought an end to the paralyzing 59day strike last May 29 Lewis told a news conference after the brief session that the miners were waiting for the op erators to make an offer to replace the existing government agree ment NUGGET ADS GET RESULTS ROTARY CLUB OF NOME Thursday Luncheon Bud Harper Pres Andy Anderson Sec HOME MADE CANDIES Made to order 75 pound Call Helen McShan Red 148 Evenings c j icata CMRIES R GRIFFIN CO 107 Cherry St SEATTLE 4 WN Nome Directory y ANVIL LODGE No 140 Meets First and Third Thursday each month DONALD J LYLE W"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-05-22T12:57:41.962Z",
+  "group": [
+    "ndnp/ak",
+    "alaska-state-library-historical-collections-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84020662/1946-09-11/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_chinooksalmon_ver03:data:sn84020662:00414185927:1946091101:0550/full/pct:6.25/0/default.jpg#h=414&w=295",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_chinooksalmon_ver03:data:sn84020662:00414185927:1946091101:0550/full/pct:12.5/0/default.jpg#h=828&w=590",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ak/batch_ak_chinooksalmon_ver03/data/sn84020662/00414185927/1946091101/0550.xml&format=alto_xml"
+  ],
+  "index": 130,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "alaska",
+    "nome"
+  ],
+  "location_city": [
+    "nome"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "nome"
+  ],
+  "location_state": [
+    "alaska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000003",
+    "9",
+    "2",
+    "8",
+    "5",
+    "sn84020662",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84020662"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "1",
+    "8",
+    "5",
+    "9",
+    "2",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Nugget"
+  ],
+  "page_id": "sn84020662-1946-09-11-ed-1-0550",
+  "partof": [
+    "chronicling america",
+    "the nome nugget (nome, alaska) 1938-current",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the nome nugget (nome, alaska) 1938-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84020662/1946-09-11/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84020662/1946-09-11/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "nome",
+    "nome (alaska)",
+    "alaska",
+    "newspapers"
+  ],
+  "timestamp": "2024-05-22T15:44:34.461Z",
+  "title": "Image 3 of The Nome nugget (Nome, Alaska), September 11, 1946",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84020662/1946-09-11/ed-1/?sp=3&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fak%2Fbatch_ak_chinooksalmon_ver03%2Fdata%2Fsn84020662%2F00414185927%2F1946091101%2F0550.xml&q=computers&relevant_snippet=1"
+}

@@ -1,0 +1,154 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85053044/1951-06-22/ed-1/?sp=2"
+  ],
+  "batch": [
+    "mthi_anaconda_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/glacier/",
+    "3/united states/montana/glacier/browning/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1951-06-22",
+  "dates": [
+    "1951-06-22"
+  ],
+  "description": [
+    "SCANNING THE WEEKS NEWS of Main Street and the World Costofliving Index Stabilized For First Time Since June 1950 THAT RISING SPIRAL The governments predictions that prices Would level off as a result of its numerous and sometimes confusing price regulations seemed to be borne out with the announcement that the cost ofliving index has come to a dead stop The bureau of labor statistics put out two sets of figures that indicated the unpward spiral had stopped for the first time since the oubreak of the Korean War last June i o Price Chief DiSalle He told irate farm bloc his beef rollback order was justified reported there have been 72679 non bottle casualties in Korea boosting the total of US casualties in the war to 141955 Bradley told the senators there have been 69276 battle casualties including 10680 dead Of the nonbattle casualties 612 died of such causes aa pneumonia automobile accidents etc Eightyfive per cent of the rest have returned to duty Release of these figures confirms rumors long circulated in the nation that casualties have been more than double those officially announced TRUMAN AND THE HOME TOWN It was evident that President Truman had the home"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:49:31.984Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85053044/1951-06-22/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_anaconda_ver01:data:sn85053044:00517178147:1951062201:0194/full/pct:6.25/0/default.jpg#h=320&w=227",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_anaconda_ver01:data:sn85053044:00517178147:1951062201:0194/full/pct:12.5/0/default.jpg#h=640&w=454",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_anaconda_ver01/data/sn85053044/00517178147/1951062201/0194.xml&format=alto_xml"
+  ],
+  "index": 170,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "montana",
+    "browning",
+    "glacier",
+    "united states"
+  ],
+  "location_city": [
+    "browning"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "glacier"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn85053044",
+    "8",
+    "0000000002",
+    "0",
+    "7",
+    "1",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85053044"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "8",
+    "1",
+    "4",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85053044-1951-06-22-ed-1-0194",
+  "partof": [
+    "chronicling america",
+    "browning chief (browning, mont.) 1941-1953",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "browning chief (browning, mont.) 1941-1953"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85053044/1951-06-22/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85053044/1951-06-22/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "montana",
+    "browning",
+    "glacier",
+    "united states"
+  ],
+  "timestamp": "2023-07-05T14:31:48.032Z",
+  "title": "Image 2 of Browning chief (Browning, Mont.), June 22, 1951",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85053044/1951-06-22/ed-1/?sp=2&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_anaconda_ver01%2Fdata%2Fsn85053044%2F00517178147%2F1951062201%2F0194.xml&q=korea&relevant_snippet=1"
+}

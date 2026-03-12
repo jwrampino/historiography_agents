@@ -1,0 +1,182 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "Oil purification system",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Morrow",
+          "phone": "770-968-2100",
+          "address1": "5780 Jonesboro Road",
+          "postalCode": "30260",
+          "name": "National Archives at Atlanta",
+          "state": "GA",
+          "fax": "770-968-2547",
+          "email": "atlanta.archives@nara.gov",
+          "mailCode": "RE-AT"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Photographic Materials"
+          ],
+          "specificMediaType": "Negative"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupId": "ou=NRCA,ou=groups",
+    "groupCd": "REAT"
+  },
+  "generalRecordsTypes": [
+    "Photographs and other Graphic Materials"
+  ],
+  "productionDates": [
+    {
+      "month": 4,
+      "year": 1940,
+      "day": 30,
+      "logicalDate": "1940-04-30"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "196757762-001-06-G1105.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/atlanta/rg-142/279687/196757762/196757762-001-06-G1105.jpg",
+      "objectFileSize": 1234,
+      "objectId": "200341856",
+      "objectType": "Image (JPG)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1918,
+        "logicalDate": "1918-01-01"
+      },
+      "distance": 3,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 142,
+      "inclusiveEndDate": {
+        "year": 2000,
+        "logicalDate": "2000-12-31"
+      },
+      "title": "Records of the Tennessee Valley Authority",
+      "naId": 471
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1933,
+        "logicalDate": "1933-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Predecessor",
+          "heading": "Tennessee Valley Authority. Office of Engineering, Design and Construction. (9/29/1963 - 1984)",
+          "abolishDate": {
+            "year": 1984,
+            "logicalDate": "1984-12-31"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 9,
+            "year": 1963,
+            "day": 29,
+            "logicalDate": "1963-09-29"
+          },
+          "naId": 10468965
+        },
+        {
+          "creatorType": "Most Recent",
+          "heading": "Tennessee Valley Authority. Office of Nuclear Power. Division of Nuclear Engineering. Engineering Reprographics Services Unit. (1987 ? - 1987 ?)",
+          "abolishDate": {
+            "year": 1987,
+            "logicalDate": "1987-12-31"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1987,
+            "logicalDate": "1987-01-01"
+          },
+          "naId": 83891582
+        },
+        {
+          "creatorType": "Predecessor",
+          "heading": "Tennessee Valley Authority. General Engineering and Geology Division. (10/6/1933 - 9/18/1934)",
+          "abolishDate": {
+            "month": 9,
+            "year": 1934,
+            "day": 18,
+            "logicalDate": "1934-09-18"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 10,
+            "year": 1933,
+            "day": 6,
+            "logicalDate": "1933-10-06"
+          },
+          "naId": 83892001
+        },
+        {
+          "creatorType": "Predecessor",
+          "heading": "Tennessee Valley Authority. Office of Engineering. (6/1/1951 - 9/29/1963)",
+          "abolishDate": {
+            "month": 9,
+            "year": 1963,
+            "day": 29,
+            "logicalDate": "1963-09-29"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 6,
+            "year": 1951,
+            "day": 1,
+            "logicalDate": "1951-06-01"
+          },
+          "naId": 83874317
+        },
+        {
+          "creatorType": "Predecessor",
+          "heading": "Tennessee Valley Authority. Office of Power and Engineering. (1984 - ca. 1986)",
+          "abolishDate": {
+            "year": 1986,
+            "logicalDate": "1986-12-31"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1984,
+            "logicalDate": "1984-01-01"
+          },
+          "naId": 83891591
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1987,
+        "logicalDate": "1987-12-31"
+      },
+      "title": "Construction Progress Negatives",
+      "naId": 279687
+    },
+    {
+      "distance": 1,
+      "levelOfDescription": "fileUnit",
+      "title": "Guntersville Dam Construction Progress Negatives",
+      "naId": 196757762
+    }
+  ],
+  "naId": 200341855
+}

@@ -1,0 +1,150 @@
+{
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "note": "Some or all of the records may be subject to copyright restrictions. Researchers should contact the copyright holder for further information.",
+    "specificUseRestrictions": [
+      "Copyright"
+    ],
+    "status": "Restricted - Possibly"
+  },
+  "title": "Immigration (Portland State 6/98) Immigration and Economics",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Little Rock",
+          "phone": "501-244-2877",
+          "address1": "1200 President Clinton Avenue",
+          "postalCode": "72201",
+          "name": "William J. Clinton Library",
+          "state": "AR",
+          "fax": "501-244-2881",
+          "email": "clinton.library@nara.gov",
+          "mailCode": "LP-WJC"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper",
+          "containerId": "4"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "note": "These records may need to be screened for personal privacy, and law enforcement under 5 U.S.C. 552 (b) prior to public release.",
+    "specificAccessRestrictions": [
+      {
+        "restriction": "FOIA (b)(6) Personal Information"
+      }
+    ],
+    "status": "Restricted - Partly"
+  },
+  "dataControlGroup": {
+    "groupId": "ou=NLWJC,ou=groups",
+    "groupCd": "LPWJC"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "LPWJC 2006-0468-F",
+      "type": "FOIA Tracking Number"
+    },
+    {
+      "number": "LPWJC 2006-0468-F",
+      "type": "FOIA Tracking Number"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "42_t_7431948_20060468F_004_010_2017_Page_001.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/22/4075/17407522/content/presidential-libraries/clinton/foia/2006/2006-0468-F/2006-0468-F-JPG/Box_04/42-t-7431948-20060468F-004-010-2017/42_t_7431948_20060468F_004_010_2017_Page_001.JPG",
+      "objectFileSize": 434176,
+      "objectId": "55963359",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431948_20060468F_004_010_2017_Page_002.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/22/4075/17407522/content/presidential-libraries/clinton/foia/2006/2006-0468-F/2006-0468-F-JPG/Box_04/42-t-7431948-20060468F-004-010-2017/42_t_7431948_20060468F_004_010_2017_Page_002.JPG",
+      "objectFileSize": 1179648,
+      "objectId": "55963360",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431948_20060468F_004_010_2017_Page_003.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/22/4075/17407522/content/presidential-libraries/clinton/foia/2006/2006-0468-F/2006-0468-F-JPG/Box_04/42-t-7431948-20060468F-004-010-2017/42_t_7431948_20060468F_004_010_2017_Page_003.JPG",
+      "objectFileSize": 1064960,
+      "objectId": "55963361",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42-t-7431948-20060468F-004-010-2017.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/22/4075/17407522/content/presidential-libraries/clinton/foia/2006/2006-0468-F/2006-0468-F-PDF/Box_04/42-t-7431948-20060468F-004-010-2017.pdf",
+      "objectFileSize": 0,
+      "objectId": "55963358",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "otherTitles": [
+    "42-t-7431948-20060468F-004-010-2014"
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "WJC-OS",
+      "inclusiveStartDate": {
+        "year": 1993,
+        "logicalDate": "1993-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "year": 2001,
+        "logicalDate": "2001-12-31"
+      },
+      "title": "Records of the Office of Speechwriting (Clinton Administration)",
+      "naId": 2534571
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1997,
+        "logicalDate": "1997-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "President (1993-2001 : Clinton). Office of Speechwriting. 1/20/1993-1/20/2001",
+          "abolishDate": {
+            "month": 1,
+            "year": 2001,
+            "day": 20,
+            "logicalDate": "2001-01-20"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 1,
+            "year": 1993,
+            "day": 20,
+            "logicalDate": "1993-01-20"
+          },
+          "naId": 10514210
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 2000,
+        "logicalDate": "2000-12-31"
+      },
+      "title": "Jordan Tamagni's Files",
+      "naId": 7431948
+    }
+  ],
+  "naId": 17407522
+}

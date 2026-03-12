@@ -1,0 +1,190 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "subjects": [
+    {
+      "heading": "Motion pictures",
+      "authorityType": "specificRecordsType",
+      "naId": 10631732
+    }
+  ],
+  "useRestriction": {
+    "status": "Undetermined"
+  },
+  "editStatus": "Unedited",
+  "audiovisual": "True",
+  "title": "RECONSTRUCTION AT BENGHASI",
+  "productionSeriesTitle": "Army Air Forces -- Combat Subjects",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-3540",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Motion Pictures",
+          "state": "MD",
+          "fax": "301-837-3622",
+          "email": "mopix@nara.gov",
+          "mailCode": "RRSM"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "elementNumber": 1,
+          "reelTapeDiscNumber": 1,
+          "color": "Black-and-White",
+          "footage": 256,
+          "format": "Film: MPS",
+          "specificMediaType": "Film Reel",
+          "dimension": "Film: 35 mm"
+        }
+      ],
+      "copyStatus": "Preservation"
+    },
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-3540",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Motion Pictures",
+          "state": "MD",
+          "fax": "301-837-3622",
+          "email": "mopix@nara.gov",
+          "mailCode": "RRSM"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "elementNumber": 1,
+          "reelTapeDiscNumber": 1,
+          "format": "Video: U-matic",
+          "specificMediaType": "Video Cassette",
+          "dimension": "3/4 inch"
+        }
+      ],
+      "copyStatus": "Reference"
+    },
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-3540",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Motion Pictures",
+          "state": "MD",
+          "fax": "301-837-3622",
+          "email": "mopix@nara.gov",
+          "mailCode": "RRSM"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "elementNumber": 1,
+          "reelTapeDiscNumber": 1,
+          "color": "Black-and-White",
+          "footage": 256,
+          "format": "Film: MPPS",
+          "specificMediaType": "Film Reel",
+          "dimension": "Film: 35 mm"
+        }
+      ],
+      "copyStatus": "Reproduction"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupName": "National Archives at College Park \u2013 Motion Pictures",
+    "groupId": "RRAM",
+    "groupCd": "RRAM"
+  },
+  "generalRecordsTypes": [
+    "Moving Images"
+  ],
+  "localIdentifier": "18-CS-342",
+  "variantControlNumbers": [
+    {
+      "number": "SAMMA File 18-CS-342",
+      "type": "Search Identifier"
+    },
+    {
+      "number": "NWDNM(m)-18-CS-342",
+      "type": "NAIL Control Number"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "18-CS-342.wmv",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/52/31/3152/content/arcmedia/mopix/018/cs/18-CS-342.wmv",
+      "objectFileSize": 35799180,
+      "objectId": "14867137",
+      "objectDescription": "Download this film.",
+      "objectType": "Audio/Visual File (WMV)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "dateQualifier": "ca.",
+        "year": 1902,
+        "logicalDate": "1902-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 18,
+      "inclusiveEndDate": {
+        "year": 1964,
+        "logicalDate": "1964-12-31"
+      },
+      "title": "Records of the Army Air Forces",
+      "naId": 347
+    },
+    {
+      "inclusiveStartDate": {
+        "dateQualifier": "ca.",
+        "year": 1939,
+        "logicalDate": "1939-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "War Department. Army Air Forces. (06/20/1941 - 09/26/1947)",
+          "abolishDate": {
+            "month": 9,
+            "year": 1947,
+            "day": 26,
+            "logicalDate": "1947-09-26"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 6,
+            "year": 1941,
+            "day": 20,
+            "logicalDate": "1941-06-20"
+          },
+          "naId": 10461760
+        }
+      ],
+      "inclusiveEndDate": {
+        "dateQualifier": "ca.",
+        "year": 1945,
+        "logicalDate": "1945-12-31"
+      },
+      "title": "Motion Picture Films from the \"Combat Subjects\" Program Series",
+      "naId": 2905
+    }
+  ],
+  "naId": 3152,
+  "soundType": "Silent"
+}

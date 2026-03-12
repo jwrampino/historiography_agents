@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88086144/1904-10-27/ed-1/?sp=9"
+  ],
+  "batch": [
+    "nbu_kentuckycoffetree_ver03"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nebraska/",
+    "2/united states/nebraska/lancaster/",
+    "3/united states/nebraska/lancaster/lincoln/"
+  ],
+  "contributor": [
+    "university of nebraska-lincoln libraries, lincoln, ne"
+  ],
+  "date": "1904-10-27",
+  "dates": [
+    "1904-10-27"
+  ],
+  "description": [
+    "Ue Nebraska Independent OCTOBER 27 1904 PAGE i the circumstances under which he suc cumbs are a severe reflection but it was his privilege to decline His offence lies in his charge that a vote for any national ticket other than Parker and Davis is at least half a vote in favor of the abandonment of the doctrine of our national life So to hide his servility to Tammany he would attempt to put upon the heads of the millions who will refuse to vole his twin repuolican ticket the respon sibility for the election pf Roosevelt The peoples party would rejoice in the annihilation of both the old rotten plutrocratic parties but if the people of this nation must cnoose between an outandout plutocratic party and a hypocritical makeshift of a party that changes its platform every four years or whenever a varying wind seems to inspire its hungry managers with a hope of partaking of governmental favoritism then let us welcome the open enemy rather than the concealed foe The peoples party is not respon sible for the foisting of either of the common enemies upon the country and it need not bear the blame It may be"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:43:12.921Z",
+  "group": [
+    "ndnp/nbu",
+    "university-of-nebraska-of-nebraska-lincoln-libraries-lincoln-ne-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88086144/1904-10-27/ed-1/?sp=9",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_kentuckycoffetree_ver03:data:sn88086144:00279527835:1904102701:0042/full/pct:6.25/0/default.jpg#h=445&w=275",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_kentuckycoffetree_ver03:data:sn88086144:00279527835:1904102701:0042/full/pct:12.5/0/default.jpg#h=891&w=551",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nbu/batch_nbu_kentuckycoffetree_ver03/data/sn88086144/00279527835/1904102701/0042.xml&format=alto_xml"
+  ],
+  "index": 179,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "lancaster",
+    "lincoln",
+    "lancaster county",
+    "nebraska"
+  ],
+  "location_city": [
+    "lincoln"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lancaster"
+  ],
+  "location_state": [
+    "nebraska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "sn88086144",
+    "8",
+    "9",
+    "5",
+    "0000000009",
+    "7",
+    "3",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88086144"
+  ],
+  "number_page": [
+    "0000000009"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "2",
+    "7",
+    "8",
+    "3",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Nebraska independent"
+  ],
+  "page_id": "sn88086144-1904-10-27-ed-1-0042",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the independent (lincoln, neb.) 1902-1907"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the independent (lincoln, neb.) 1902-1907"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88086144/1904-10-27/ed-1/?sp=9"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88086144/1904-10-27/ed-1/"
+  ],
+  "shelf_id": "09",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "lincoln (neb.)",
+    "lancaster",
+    "lincoln",
+    "lancaster county (neb.)",
+    "lancaster county",
+    "newspapers",
+    "nebraska"
+  ],
+  "timestamp": "2025-12-15T09:59:55.509Z",
+  "title": "Image 9 of The independent (Lincoln, Neb.), October 27, 1904",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88086144/1904-10-27/ed-1/?sp=9&q=phillipines",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnbu%2Fbatch_nbu_kentuckycoffetree_ver03%2Fdata%2Fsn88086144%2F00279527835%2F1904102701%2F0042.xml&q=phillipines&relevant_snippet=1"
+}

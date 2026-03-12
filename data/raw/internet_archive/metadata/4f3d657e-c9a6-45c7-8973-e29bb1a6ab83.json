@@ -1,0 +1,17 @@
+{
+  "creator": "Internet Archive",
+  "date": "2023-01-01T00:00:00Z",
+  "description": "Internet Archive crawldata from feed-driven Wikipedia Outlinks Crawl, captured by crawl897.us.archive.org:wikipedia-eventstream from Sun Jan 22 20:29:07 PST 2023 to Sun Jan 22 15:40:47 PST 2023.",
+  "format": [
+    "Item CDX Index",
+    "Item CDX Meta-Index",
+    "Metadata",
+    "Text",
+    "WARC CDX Index",
+    "Web ARChive GZ"
+  ],
+  "identifier": "WPO-20230122202907-crawl897",
+  "mediatype": "web",
+  "subject": "crawldata",
+  "title": "Webwide Crawldata 2023-01-22T20:29:07PST to 2023-01-22T15:40:47PST"
+}

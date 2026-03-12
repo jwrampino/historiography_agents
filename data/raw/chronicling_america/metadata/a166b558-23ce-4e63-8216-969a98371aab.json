@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn98068377/1953-05-12/ed-1/?sp=7"
+  ],
+  "batch": [
+    "vi_fjord_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/virginia/",
+    "2/united states/virginia/prince edward/",
+    "3/united states/virginia/prince edward/farmville/"
+  ],
+  "contributor": [
+    "library of virginia; richmond, va"
+  ],
+  "date": "1953-05-12",
+  "dates": [
+    "1953-05-12"
+  ],
+  "description": [
+    "The Farmville Herald PUBLISHED EVERY TUESDAY AND FRIDAY J B WALL Owner and Publisher Subscription Rates In Virginia 1 Year By Mail 3 00 6 Months By Mail 1 75 1 Year By Carrier in Farmville 3 50 1 Month By Carrier in Farmville 35 Subscription Rates Outside Virginia 1 Year 4 00 With Comics 475 1 Member Virginia Iress Association Member National Editorial Association All ommunii Kitn and monies should be addressed ro Till 111 HMD Iirnmlle Viru nia Fntered as secondclass matter it the posrnffice at Farms ille Virginia under Avt of C ongress of March IH9 TUESDAY MAY 12 1953 Welcome Home ML l niton States is a welcoming nation There seem to he appropriate ceremonies and welcomes for every occasion ranging from a welcome for a general of the army to the communitys congratulations for the hoy or girl who made good In the city and returns to his hometown This welcoming spirit is not one to he condemned It is more a part of the spirit or general feeling of living in this country We like to welcome greet and present keys and honors with all of the ceremony joy and noise that we can"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-02-06T12:39:26.793Z",
+  "group": [
+    "ndnp/vi",
+    "library-of-virginia-richmond-va-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn98068377/1953-05-12/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fjord_ver01:data:sn98068377:00393348021:1953051201:0488/full/pct:6.25/0/default.jpg#h=433&w=339",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fjord_ver01:data:sn98068377:00393348021:1953051201:0488/full/pct:12.5/0/default.jpg#h=866&w=678",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/vi/batch_vi_fjord_ver01/data/sn98068377/00393348021/1953051201/0488.xml&format=alto_xml"
+  ],
+  "index": 73,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "farmville",
+    "prince edward",
+    "virginia",
+    "united states"
+  ],
+  "location_city": [
+    "farmville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "prince edward"
+  ],
+  "location_state": [
+    "virginia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn98068377",
+    "1",
+    "8",
+    "0",
+    "2",
+    "9",
+    "0000000007",
+    "3",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn98068377"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "9",
+    "3",
+    "3",
+    "4",
+    "8",
+    "0",
+    "2",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn98068377-1953-05-12-ed-1-0488",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the farmville herald and farmer-leader (farmville, va.) 1934-1957"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the farmville herald and farmer-leader (farmville, va.) 1934-1957"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn98068377/1953-05-12/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn98068377/1953-05-12/ed-1/"
+  ],
+  "shelf_id": "07",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "virginia",
+    "farmville (va.)",
+    "farmville",
+    "prince edward",
+    "united states"
+  ],
+  "timestamp": "2024-02-07T05:01:17.412Z",
+  "title": "Image 7 of The Farmville herald and farmer-leader (Farmville, Va.), May 12, 1953",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn98068377/1953-05-12/ed-1/?sp=7&q=vietnam",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fvi%2Fbatch_vi_fjord_ver01%2Fdata%2Fsn98068377%2F00393348021%2F1953051201%2F0488.xml&q=vietnam&relevant_snippet=1"
+}

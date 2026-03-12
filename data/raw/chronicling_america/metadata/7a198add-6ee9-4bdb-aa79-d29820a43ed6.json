@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87065530/1952-12-19/ed-1/?sp=6"
+  ],
+  "batch": [
+    "msar_obsidian_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/mississippi/",
+    "2/united states/mississippi/jackson/",
+    "3/united states/mississippi/jackson/pascagoula/",
+    "3/united states/mississippi/jackson/moss point/"
+  ],
+  "contributor": [
+    "mississippi department of archives and history"
+  ],
+  "date": "1952-12-19",
+  "dates": [
+    "1952-12-19"
+  ],
+  "description": [
+    "Editorials We See It This Way Now Comes Eisenhower Talking Sense The Lee County Bulletin Auburn Ala In the apt words of Tom Stokes Scripps Howard newspaper columnist General Eisen hower went all the way to Korea to make the speech that his defeated opponent Adlai Stevenson made many times during the re cent campaign To put it another way today Ike is talking the same kind of sense about Korea that Gov Stevenson talked six weeks ago During the campaign the general raised the hopes of the voters that his election would bring an early peace in Korea To be sure he never promised flatly that he would wind up the war and bring the boys home in a matter of days But his campaign speeches on Korea and his sensational promise to go to the battle fields electrified millions of Americans in cluding many women voters with the feeling that Ike would settle the issue over there The Republican campaigners all of whom understood the reaction of the people to the GOP oratory did nothing to caution hard headed realistic thinking about Korea All the while Gov Stevenson warned against false hopes of an early and successful conclusion"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:45:28.346Z",
+  "group": [
+    "ndnp/msar",
+    "mississippi-department-of-archives-and-history"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87065530/1952-12-19/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_obsidian_ver01:data:sn87065530:00383345273:1952121901:0722/full/pct:6.25/0/default.jpg#h=436&w=341",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_obsidian_ver01:data:sn87065530:00383345273:1952121901:0722/full/pct:12.5/0/default.jpg#h=873&w=683",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/msar/batch_msar_obsidian_ver01/data/sn87065530/00383345273/1952121901/0722.xml&format=alto_xml"
+  ],
+  "index": 176,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "pascagoula",
+    "mississippi",
+    "moss point",
+    "jackson",
+    "united states"
+  ],
+  "location_city": [
+    "pascagoula",
+    "moss point"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "jackson"
+  ],
+  "location_state": [
+    "mississippi"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "0",
+    "2",
+    "0000000006",
+    "7",
+    "sn87065530",
+    "1",
+    "3",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87065530"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "8",
+    "3",
+    "3",
+    "4",
+    "5",
+    "2",
+    "7",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Pascagoula chronicle-star and Moss Point advertiser"
+  ],
+  "page_id": "sn87065530-1952-12-19-ed-1-0722",
+  "partof": [
+    "the chronicle star the moss point advertiser (pascagoula; moss point, miss.) 1949-1961",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the chronicle star the moss point advertiser (pascagoula; moss point, miss.) 1949-1961"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87065530/1952-12-19/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87065530/1952-12-19/ed-1/"
+  ],
+  "shelf_id": "06",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "pascagoula",
+    "mississippi",
+    "moss point",
+    "united states",
+    "jackson"
+  ],
+  "timestamp": "2023-07-06T08:21:41Z",
+  "title": "Image 6 of The Chronicle star the Moss Point advertiser (Pascagoula; Moss Point, Miss.), December 19, 1952, (SECTION ONE)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87065530/1952-12-19/ed-1/?sp=6&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmsar%2Fbatch_msar_obsidian_ver01%2Fdata%2Fsn87065530%2F00383345273%2F1952121901%2F0722.xml&q=korea&relevant_snippet=1"
+}

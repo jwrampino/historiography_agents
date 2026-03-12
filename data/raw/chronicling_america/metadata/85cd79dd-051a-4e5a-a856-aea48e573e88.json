@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn78003992/1947-04-25/ed-1/?sp=1"
+  ],
+  "batch": [
+    "ohi_alastor_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/summit/",
+    "3/united states/ohio/summit/akron/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1947-04-25",
+  "dates": [
+    "1947-04-25"
+  ],
+  "description": [
+    "So Labor May Know Tihere you go exaggerating said a skeptical friend Congress wants to pass a law restricting unions and Phil Murray Smarts talking of fascism What he said was thatenactment of this legislation would be the first real step toward the development of fascism in the United States I cor rected And he said it very deliberate ly My mind went back to an evening in the winter of 1925 I was working in Berlin at the time and had been invited to a party in the apartment of an American cor respondent there The guests were mostliy Germans several of them Jewish They were liberal and wellinformed people and the ponversation turned at times to tlipossibility of fascism in Germany Mussolini was in power in Italy Trade unionists there were being dos ed wiftr castor oil and beaten up The fascists were hard at work suppress ing the labor movement In Germany a crazy demagogue called Hitler was attracting minor at tention as he organized his gangs But the group at the party were more in terested in certain reactionary trends developing In the normal political life of the country A lawyer expressed what seemed to be"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-03-24T16:08:57.836Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn78003992/1947-04-25/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_alastor_ver02:data:sn78003992:00340580928:1947042501:0656/full/pct:6.25/0/default.jpg#h=426&w=336",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_alastor_ver02:data:sn78003992:00340580928:1947042501:0656/full/pct:12.5/0/default.jpg#h=853&w=673",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_alastor_ver02/data/sn78003992/00340580928/1947042501/0656.xml&format=alto_xml"
+  ],
+  "index": 36,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ohio",
+    "summit county",
+    "summit",
+    "united states",
+    "akron"
+  ],
+  "location_city": [
+    "akron"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "summit"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn78003992",
+    "9",
+    "0000000001",
+    "2",
+    "8",
+    "3",
+    "5",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn78003992"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "0",
+    "9",
+    "2",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn78003992-1947-04-25-ed-1-0656",
+  "partof": [
+    "summit county labor news (akron, ohio) 1923-1976",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "summit county labor news (akron, ohio) 1923-1976"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn78003992/1947-04-25/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn78003992/1947-04-25/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "akron",
+    "ohio",
+    "labor unions",
+    "summit county",
+    "summit",
+    "akron (ohio)",
+    "summit county (ohio)",
+    "newspapers"
+  ],
+  "timestamp": "2025-03-24T16:44:39.017Z",
+  "title": "Image 1 of Summit County labor news (Akron, Ohio), April 25, 1947",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn78003992/1947-04-25/ed-1/?sp=1&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_alastor_ver02%2Fdata%2Fsn78003992%2F00340580928%2F1947042501%2F0656.xml&q=fascism&relevant_snippet=1"
+}

@@ -1,0 +1,179 @@
+{
+  "onlineResources": [
+    {
+      "note": "This file was scanned as part of a collaboration effort between Fold3 and the National Archives.",
+      "description": "Fold3",
+      "url": "http://www.fold3.com/image/6962913"
+    }
+  ],
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "title": "Spanish Morroco, December 1954",
+  "coverageEndDate": {
+    "month": 12,
+    "year": 1954,
+    "logicalDate": "1954-12-31"
+  },
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-3510",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Textual Reference",
+          "state": "MD",
+          "fax": "301-837-1752",
+          "email": "Archives2reference@nara.gov",
+          "mailCode": "RDT2"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "coverageStartDate": {
+    "month": 12,
+    "year": 1954,
+    "logicalDate": "1954-12-01"
+  },
+  "dataControlGroup": {
+    "groupId": "ou=RDTP2,ou=groups",
+    "groupCd": "RDTP2"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "microformPublications": [
+    {
+      "identifier": "T1206",
+      "note": "The start of this file can be found on Roll 22.",
+      "title": "T1206 - Project 'Bluebook.', 1947-1969."
+    }
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "Fold3 2016",
+      "type": "Search Identifier"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "0504.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/94/9605/28960594/content/TB0106/T1206-ProjectBlueBook/T1206_0022/images/0504.jpg",
+      "objectFileSize": 12345678,
+      "objectDesignator": "Fold3 File #6962913",
+      "objectId": "28960595",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0505.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/94/9605/28960594/content/TB0106/T1206-ProjectBlueBook/T1206_0022/images/0505.jpg",
+      "objectFileSize": 12345678,
+      "objectDesignator": "Fold3 File #6962923",
+      "objectId": "28960596",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0506.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/94/9605/28960594/content/TB0106/T1206-ProjectBlueBook/T1206_0022/images/0506.jpg",
+      "objectFileSize": 12345678,
+      "objectDesignator": "Fold3 File #6962933",
+      "objectId": "28960597",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0507.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/94/9605/28960594/content/TB0106/T1206-ProjectBlueBook/T1206_0022/images/0507.jpg",
+      "objectFileSize": 12345678,
+      "objectDesignator": "Fold3 File #6962947",
+      "objectId": "28960598",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1934,
+        "logicalDate": "1934-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 341,
+      "inclusiveEndDate": {
+        "year": 2004,
+        "logicalDate": "2004-12-31"
+      },
+      "title": "Records of Headquarters U.S. Air Force (Air Staff)",
+      "naId": 653
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1947,
+        "logicalDate": "1947-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Predecessor",
+          "heading": "Department of Defense. Department of the Air Force. Air Materiel Command. Intelligence Department. Technical Intelligence Division. (1947 - 1951)",
+          "abolishDate": {
+            "year": 1951,
+            "logicalDate": "1951-12-31"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1947,
+            "logicalDate": "1947-01-01"
+          },
+          "naId": 10462433
+        },
+        {
+          "creatorType": "Most Recent",
+          "heading": "Department of Defense. Department of the Air Force. Air Force Systems Command. Foreign Technology Division. Project Blue Book Office. (7/1/1961 - 12/17/1969)",
+          "abolishDate": {
+            "month": 12,
+            "year": 1969,
+            "day": 17,
+            "logicalDate": "1969-12-17"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 7,
+            "year": 1961,
+            "day": 1,
+            "logicalDate": "1961-07-01"
+          },
+          "naId": 10455222
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1969,
+        "logicalDate": "1969-12-31"
+      },
+      "title": "Sanitized Version of Project Blue Book Case Files on Sightings of Unidentified Flying Objects",
+      "naId": 597821
+    }
+  ],
+  "naId": 28960594
+}

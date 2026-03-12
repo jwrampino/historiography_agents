@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83025121/1907-11-08/ed-1/?sp=4"
+  ],
+  "batch": [
+    "hihouml_cardinal_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/hawaii/",
+    "2/united states/hawaii/honolulu/",
+    "3/united states/hawaii/honolulu/honolulu/"
+  ],
+  "contributor": [
+    "university of hawaii at manoa; honolulu, hi"
+  ],
+  "date": "1907-11-08",
+  "dates": [
+    "1907-11-08"
+  ],
+  "description": [
+    "SounM Oyers ivliat ei III HOVOlW ohinpHBjt orderMw Wm P JHtL ers npf DR 2MV ian BereK luug andM AccKf tlenflB IN T HJr The St P T or C Yo3 tinal Kar saidl pend tionl Brot of penfl appfl at to vl hold R on 1901 caul and not the Anfl the BOl Co Oa II full anfl thi plwm Ja8 Mr EaSSp THE Pacific Commercial Advertsiei A MORNING PAPER WA1TEB Q SMITH I I I I EDITOB FRIDAY NOVEMBER 8 They comment on the lack of progress Once when competition had brought the rate below twentyfive cents a word an arrangement was not long in being made between the competing companies which placed and has since maintained the rate at that figure Marconis rates are ten cents a word for private and five cents for press messages H Meager reports regarding the financial situation jn New York received by way of London and published in Tokio on October 24 created uneasiness on the Japanese capitals bourse which had been in an extremely depressed condition for several months This item shows how closely jointed the world has become in matters of money as well as otherwise through the drawing"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:58:52.187Z",
+  "group": [
+    "ndnp/hihouml",
+    "university-of-hawaii-at-manoa-honolulu-hi-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83025121/1907-11-08/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_cardinal_ver01:data:sn83025121:00294552303:1907110801:0082/full/pct:6.25/0/default.jpg#h=448&w=315",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_cardinal_ver01:data:sn83025121:00294552303:1907110801:0082/full/pct:12.5/0/default.jpg#h=896&w=630",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/hihouml/batch_hihouml_cardinal_ver01/data/sn83025121/00294552303/1907110801/0082.xml&format=alto_xml"
+  ],
+  "index": 46,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "honolulu",
+    "united states",
+    "hawaii"
+  ],
+  "location_city": [
+    "honolulu"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "honolulu"
+  ],
+  "location_state": [
+    "hawaii"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn83025121",
+    "1",
+    "9",
+    "5",
+    "0000000004",
+    "4",
+    "3",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83025121"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "4",
+    "5",
+    "5",
+    "2",
+    "3",
+    "0",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83025121-1907-11-08-ed-1-0082",
+  "partof": [
+    "the hawaiian gazette (honolulu [oahu, hawaii]) 1865-1918",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the hawaiian gazette (honolulu [oahu, hawaii]) 1865-1918"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83025121/1907-11-08/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83025121/1907-11-08/ed-1/"
+  ],
+  "shelf_id": "04",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "honolulu (hawaii)",
+    "united states",
+    "honolulu",
+    "hawaii",
+    "newspapers"
+  ],
+  "timestamp": "2022-11-21T17:39:13.719Z",
+  "title": "Image 4 of The Hawaiian gazette (Honolulu [Oahu, Hawaii]), November 8, 1907",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83025121/1907-11-08/ed-1/?sp=4&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fhihouml%2Fbatch_hihouml_cardinal_ver01%2Fdata%2Fsn83025121%2F00294552303%2F1907110801%2F0082.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

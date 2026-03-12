@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83030213/1857-05-05/ed-1/?sp=4"
+  ],
+  "batch": [
+    "dlc_eggy_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1857-05-05",
+  "dates": [
+    "1857-05-05"
+  ],
+  "description": [
+    "NEWYORK DAILY TRIBUNE TUESDAY MAY 5 1857 Business Notices SPRING IMPORTATIONS 1507 AT Lasy FaLvs Prices Now ou exhibition a large and superior stock of VeLvRTS APESTRY BRUSSELS THRERPLY sud INGKAIN CARPETING Bop ip ow for this Springs trade which until further will be sold at Last Farrs Prices The early bird gets the worm Smit LOUNSBERRY No 45 Broadway near Grandst 5 WILDERS PATENT SALAMANDER SAFE Tur Guar Fine Prooy Sars or THE WorLD WARRANTED FREZ FROM DAMPNESS No 122 Waterst near Wall N X ILDER Co Patentees sud Manufacturers STEARNS MARVINS IMPROVED SALAMANDER SAFES HAVE NEVER FAILED i thelr Powdar proof Lock has never been pic Hmm 9700 of the Safes now in use MOREA YSYs B G 81 NB for oy First oF Mav ACEERMAN MILLER No 101 Nessaust next to The Herald Office Si1GNRBoarDs ALways READY BREVITY 63 Brant y D 0 Nos an roadway Oar Gian Daiy ae 4 631 and 633 Broadway Cheap Fixtures Daily Co Nos 631 and 633 Broad way Cheap verplated Ware Daily Co Nos 631 and 633 Broadway Dimer Set 16 worth 25 Whit Toilet Set 1 worth 2 Cut Glass Goblets tie doz 175 worth 33 ht Chandeliers 7"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-01-08T13:47:28.654Z",
+  "group": [
+    "ndnp/dlc-2011_2013",
+    "library-of-congress-washington-dc-awardee-4"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83030213/1857-05-05/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver02:data:sn83030213:00206530546:1857050501:0244/full/pct:3.125/0/default.jpg#h=344&w=257",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver02:data:sn83030213:00206530546:1857050501:0244/full/pct:6.25/0/default.jpg#h=688&w=514",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_eggy_ver02/data/sn83030213/00206530546/1857050501/0244.xml&format=alto_xml"
+  ],
+  "index": 15,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "new york",
+    "new york county",
+    "new york city"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "6",
+    "5",
+    "0000000004",
+    "4",
+    "sn83030213",
+    "3",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83030213"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "6",
+    "5",
+    "3",
+    "0",
+    "5",
+    "4",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "New-York tribune",
+    "New York tribune"
+  ],
+  "page_id": "sn83030213-1857-05-05-ed-1-0244",
+  "partof": [
+    "serial and government publications division",
+    "chronicling america",
+    "new-york daily tribune (new-york [n.y.]) 1842-1866"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "new-york daily tribune (new-york [n.y.]) 1842-1866"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83030213/1857-05-05/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83030213/1857-05-05/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "new york",
+    "new york county (n.y.)",
+    "https://id.oclc.org/worldcat/entity/e39pbjpj8ktvrv6gp6v6tp7pwc",
+    "new york (state)",
+    "newspapers",
+    "https://id.oclc.org/worldcat/entity/e39qbtfrvqh7864jh4rdgbfdwc",
+    "new york county",
+    "new york (n.y.)"
+  ],
+  "timestamp": "2025-01-08T17:54:31.161Z",
+  "title": "Image 4 of New-York daily tribune (New-York [N.Y.]), May 5, 1857",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83030213/1857-05-05/ed-1/?sp=4&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_eggy_ver02%2Fdata%2Fsn83030213%2F00206530546%2F1857050501%2F0244.xml&q=manifest+destiny&relevant_snippet=1"
+}

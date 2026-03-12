@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86063465/1893-07-27/ed-1/?sp=1"
+  ],
+  "batch": [
+    "mnhi_disco_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/minnesota/",
+    "2/united states/minnesota/washington/",
+    "3/united states/minnesota/washington/stillwater/"
+  ],
+  "contributor": [
+    "minnesota historical society; saint paul, mn"
+  ],
+  "date": "1893-07-27",
+  "dates": [
+    "1893-07-27"
+  ],
+  "description": [
+    "he IDrieon JMtrwr Vol VLNo 51 PURPOSE Look up and not down my brother Faint not neatli the burden of life That you live is a hope for the future Yield not like a coward the strife In the purpose and plan of all being Theres a place and a meaning for you And the thought that can shelter the sparrow Remembers the wanderer too Not an atom that dwells in the mountains Not a tiny stone crystal that glows Not a blush on the cheek of a maiden Not a hue in the heart of a rose Not a ripple that ruffles the river Not a bird song that floats to the sky Not a night wind that kisses the lilies Not a bright star that twinkles on high Not a dewdrop that shines in the meadow Not a flash on the fair dawn above But breathes of the hope of creation And the infinite purpose of love But you who are bowed with your sorrow Regretting the hour of birth Are more than the glory of Nature The splendors of Heaven and Earth For you havd a soul that can suffer A soid that can think and can"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-04T16:58:05.269Z",
+  "group": [
+    "ndnp/mnhi",
+    "minnesota-historical-society-saint-paul-mn-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86063465/1893-07-27/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn86063465:00199919751:1893072701:0539/full/pct:6.25/0/default.jpg#h=459&w=376",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn86063465:00199919751:1893072701:0539/full/pct:12.5/0/default.jpg#h=919&w=752",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mnhi/batch_mnhi_disco_ver01/data/sn86063465/00199919751/1893072701/0539.xml&format=alto_xml"
+  ],
+  "index": 25,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "minnesota",
+    "stillwater",
+    "washington county",
+    "washington",
+    "united states"
+  ],
+  "location_city": [
+    "stillwater"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "washington"
+  ],
+  "location_state": [
+    "minnesota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0",
+    "sn86063465",
+    "7",
+    "9",
+    "1",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86063465"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "1",
+    "9",
+    "9",
+    "9",
+    "1",
+    "9",
+    "7",
+    "5",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86063465-1893-07-27-ed-1-0539",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the prison mirror (stillwater, minn.) 1887-1894"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the prison mirror (stillwater, minn.) 1887-1894"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86063465/1893-07-27/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86063465/1893-07-27/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "minnesota",
+    "washington county (minn.)",
+    "stillwater",
+    "correctional institutions",
+    "stillwater (minn.)",
+    "minnesota state prison (stillwater, minn.)",
+    "washington county",
+    "washington",
+    "united states"
+  ],
+  "timestamp": "2024-01-04T13:10:11.187Z",
+  "title": "Image 1 of The prison mirror (Stillwater, Minn.), July 27, 1893",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86063465/1893-07-27/ed-1/?sp=1&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmnhi%2Fbatch_mnhi_disco_ver01%2Fdata%2Fsn86063465%2F00199919751%2F1893072701%2F0539.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

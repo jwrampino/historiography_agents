@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88071001/1957-08-05/ed-1/?sp=4"
+  ],
+  "batch": [
+    "gu_kraken_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/georgia/",
+    "2/united states/georgia/richmond/",
+    "3/united states/georgia/richmond/augusta/"
+  ],
+  "contributor": [
+    "digital library of georgia, a project of galileo located at the university of georgia libraries"
+  ],
+  "date": "1957-08-05",
+  "dates": [
+    "1957-08-05"
+  ],
+  "description": [
+    "Page Four Lincoln Set Course For Souths Fight On Coorl Ruling Old Abe Refused To Bow To The Ruling Handed Down In Dred Scott Case A defense lawyer in the Clinton Ten nessee trials says Abraham Lincoln set the course for the South to refuse to obey the edict of the Supreme Court of the United States in the segregation cases He is Ross Barnett of Jackson Missis sippi a former President of the Mississippi Bar Association Refers To Bible His statement was made during his argument to the jury in the Clinton trials He said The Bible teaches us to segregate It teaches us not to mix the seed Just be cause the Supreme Court told us to de segregate doesnt mean well live to see it The Constitution is above the Supreme Court Abraham Lincoln set the course when he said he wouldnt abide by a ruling of the Supreme Court in the Dred Scott de cision The 1848 Decision The 1848 decision held that a Negro slave Dred Scott could not base a law suit for his freedom on ground that his master had taken him to nonslave terri tory Abraham Lincoln openly defied the Supreme Courts"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-06-29T05:12:04.131Z",
+  "group": [
+    "ndnp/gu",
+    "digital-library-of-georgia-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88071001/1957-08-05/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_kraken_ver01:data:sn88071001:00529044690:1957080501:0856/full/pct:3.125/0/default.jpg#h=308&w=218",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_kraken_ver01:data:sn88071001:00529044690:1957080501:0856/full/pct:6.25/0/default.jpg#h=617&w=437",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/gu/batch_gu_kraken_ver01/data/sn88071001/00529044690/1957080501/0856.xml&format=alto_xml"
+  ],
+  "index": 192,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "augusta",
+    "richmond",
+    "georgia"
+  ],
+  "location_city": [
+    "augusta"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "richmond"
+  ],
+  "location_state": [
+    "georgia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "5",
+    "9",
+    "6",
+    "0000000004",
+    "4",
+    "sn88071001",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88071001"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "2",
+    "9",
+    "0",
+    "4",
+    "4",
+    "6",
+    "9",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88071001-1957-08-05-ed-1-0856",
+  "partof": [
+    "serial and government publications division",
+    "chronicling america",
+    "the augusta courier (augusta, ga.) 1946-1974"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the augusta courier (augusta, ga.) 1946-1974"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88071001/1957-08-05/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88071001/1957-08-05/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "georgia",
+    "augusta (ga.)",
+    "united states",
+    "since 1945",
+    "augusta",
+    "newspapers",
+    "conservatism",
+    "politics and government",
+    "richmond"
+  ],
+  "timestamp": "2025-06-29T05:43:38.019Z",
+  "title": "Image 4 of The Augusta courier (Augusta, Ga.), August 5, 1957",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88071001/1957-08-05/ed-1/?sp=4&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fgu%2Fbatch_gu_kraken_ver01%2Fdata%2Fsn88071001%2F00529044690%2F1957080501%2F0856.xml&q=reconstruction&relevant_snippet=1"
+}

@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87075269/1893-10-19/ed-1/?sp=4"
+  ],
+  "batch": [
+    "ohi_james_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/guernsey/",
+    "3/united states/ohio/guernsey/cumberland/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1893-10-19",
+  "dates": [
+    "1893-10-19"
+  ],
+  "description": [
+    "THE CUMBERLAND ECHO MAY STRANATHAN Pubr CUMBERLAND OHIO NEWS OF THE WEEK Gathered from All Quarters CONCRESSIONAL IN the senate on the 9th the resolution previ ously offered by Mr Wolcott instructing the finance committee to report a bill to carry out the bimetallic declaration of the Voorhees sub stitute was taken up and Mr Wolcott addressed the senate in advocacy of it Mr Voorhees then took the floor and defended himself from charges of hostility to silver and made an im passioned defense of the pending bill He was replied to by Mr Teller of Colorado At the close of Mr Tellers remarks Mr Wolcotts res olution went to the calendar the repeal bill was takon up and Mr Cockrell of Missouri ad dressed the senate in opposition to it In the house the federal elections repeal bill was tak en up and it being the last day for discussion the speeches were quite animated on both sides of the question The senate on the 10th went into executive session shortly after convening to discuss the resolution of Mr Dolph calling for information as to whether the Chinese government had re quested an extension of time for the registra"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-07-02T21:24:41.585Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87075269/1893-10-19/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_james_ver01:data:sn87075269:00516994095:1893101901:0042/full/pct:6.25/0/default.jpg#h=365&w=242",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_james_ver01:data:sn87075269:00516994095:1893101901:0042/full/pct:12.5/0/default.jpg#h=730&w=484",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_james_ver01/data/sn87075269/00516994095/1893101901/0042.xml&format=alto_xml"
+  ],
+  "index": 91,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ohio",
+    "united states",
+    "cumberland",
+    "guernsey",
+    "guernsey county"
+  ],
+  "location_city": [
+    "cumberland"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "guernsey"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "5",
+    "6",
+    "1",
+    "4",
+    "0000000004",
+    "sn87075269"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87075269"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "4",
+    "0",
+    "9",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87075269-1893-10-19-ed-1-0042",
+  "partof": [
+    "chronicling america",
+    "the cumberland echo (cumberland, o. [ohio]) 1892-1952",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the cumberland echo (cumberland, o. [ohio]) 1892-1952"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87075269/1893-10-19/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87075269/1893-10-19/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "ohio",
+    "cumberland (ohio)",
+    "united states",
+    "newspapers",
+    "cumberland",
+    "guernsey",
+    "guernsey county (ohio)",
+    "guernsey county"
+  ],
+  "timestamp": "2025-07-02T22:00:24.758Z",
+  "title": "Image 4 of The Cumberland echo (Cumberland, O. [Ohio]), October 19, 1893",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87075269/1893-10-19/ed-1/?sp=4&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_james_ver01%2Fdata%2Fsn87075269%2F00516994095%2F1893101901%2F0042.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

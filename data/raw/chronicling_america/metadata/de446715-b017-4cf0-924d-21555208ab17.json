@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1929-02-18/ed-1/?sp=4"
+  ],
+  "batch": [
+    "dlc_lateef_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1929-02-18",
+  "dates": [
+    "1929-02-18"
+  ],
+  "description": [
+    "4 KELLOGG TO SPEAK AT GEORGETOWN Special Exercises to Be Held Tonight Commemorating Foreign Service School Secretary of State Frank B Kellogg 111 make the principal address at the special academic exercises to be held by Georgetown University tonight atB3o oclock in Gaston Hall honoring the tenth anniversary of the founding of its School of Foreign Service A distinguished gathering of diplo mats officials of the Federal and Dis trict Governments and prominent edu cators will be the guests of Dr W Coleman Nevils S J president of the I university on the occasion which marks the completion of a decade in pioneer work of training for the foreign service profession In recognition of Secretary Kelloggs outstanding success in the advancement of the cause of interna tional peace and understanding the university will confer upon him the honorary degree of doctor of laws A similar honor will be bestowed upon Dr William F Notz dean of foreign service j for his services in developing the work of the school Dr Nevils who formerly was regent of the Foreign Service School during a previous term at Georgetown will ex tend felicitations to the youngest de partment of the university which now"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:31:28.211Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1929-02-18/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lateef_ver01:data:sn83045462:00280600118:1929021801:0115/full/pct:3.125/0/default.jpg#h=267&w=202",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lateef_ver01:data:sn83045462:00280600118:1929021801:0115/full/pct:6.25/0/default.jpg#h=535&w=404",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lateef_ver01:data:sn83045462:00280600118:1929021801:0115/full/pct:12.5/0/default.jpg#h=1071&w=809",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_lateef_ver01/data/sn83045462/00280600118/1929021801/0115.xml&format=alto_xml"
+  ],
+  "index": 93,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "0000000004",
+    "sn83045462",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "0",
+    "1",
+    "1",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1929-02-18-ed-1-0115",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1929-02-18/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1929-02-18/ed-1/"
+  ],
+  "shelf_id": "04",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-25T12:24:12.088Z",
+  "title": "Image 4 of Evening star (Washington, D.C.), February 18, 1929",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1929-02-18/ed-1/?sp=4&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_lateef_ver01%2Fdata%2Fsn83045462%2F00280600118%2F1929021801%2F0115.xml&q=immigration&relevant_snippet=1"
+}

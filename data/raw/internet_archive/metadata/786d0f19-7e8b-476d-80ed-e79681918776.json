@@ -1,0 +1,31 @@
+{
+  "description": "Most Popular Books 2019",
+  "format": [
+    "Abbyy GZ",
+    "Archive BitTorrent",
+    "DjVuTXT",
+    "Djvu XML",
+    "EPUB",
+    "Item Tile",
+    "LCP Encrypted EPUB",
+    "Metadata",
+    "OCR Page Index",
+    "OCR Search Text",
+    "Page Numbers JSON",
+    "Scandata",
+    "Single Page Processed JP2 ZIP",
+    "Text PDF",
+    "chOCR",
+    "hOCR"
+  ],
+  "identifier": "diajinmostpopularbooks2019",
+  "language": "English",
+  "mediatype": "texts",
+  "subject": [
+    "book",
+    "books",
+    "ebook",
+    "ebooks"
+  ],
+  "title": "Most Popular Books 2019"
+}

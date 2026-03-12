@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87076554/1943-11-04/ed-1/?sp=2"
+  ],
+  "batch": [
+    "ohi_ivy_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/allen/",
+    "3/united states/ohio/allen/bluffton/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1943-11-04",
+  "dates": [
+    "1943-11-04"
+  ],
+  "description": [
+    "FACE TWO _____________ Dr Rufus D Bowman president of Bethany Biblical seminary Chi cago will speak here twice daily Sunday Nov 14 to Friday Nov 19 in Bluffton Colleges annual week of Bible Lectures Evening and Sunday morning serv ices will be in the First Mennonite church with the other morning meetings in Ramseyer chapel on the campus Dr Rufus Bowman To Open Bluffton College Bible Lectures November 14 With the exception of Sunday morning services will be at 10 a m and the evening lectures at 730 p m The opening days program on Sun day will include a 1030 a m meet ing a vesper service in the after noon and the evening lecture In connection with Bible Lecture week the college also is sponsoring a ministers conference to be held in the Mosiman room at the Musselman library on the campus Thursday and riday Speakers at the conference will in clude Dr Bowman Dr Rollin H Walker professor emeritus at Ohio Wesleyan university who was the Altho global war is taking Amer ican soldiers to all parts of the world this is the safest war in his tory so far as disease and the chance of surviving"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:21:05.518Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87076554/1943-11-04/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ivy_ver01:data:sn87076554:00340580230:1943110401:0713/full/pct:3.125/0/default.jpg#h=307&w=228",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ivy_ver01:data:sn87076554:00340580230:1943110401:0713/full/pct:6.25/0/default.jpg#h=614&w=457",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_ivy_ver01/data/sn87076554/00340580230/1943110401/0713.xml&format=alto_xml"
+  ],
+  "index": 110,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ohio",
+    "united states",
+    "allen",
+    "bluffton"
+  ],
+  "location_city": [
+    "bluffton"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "allen"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "5",
+    "4",
+    "2",
+    "1",
+    "0000000002",
+    "sn87076554",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87076554"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "0",
+    "2",
+    "3",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87076554-1943-11-04-ed-1-0713",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the bluffton news (bluffton, ohio) 1875-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the bluffton news (bluffton, ohio) 1875-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87076554/1943-11-04/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87076554/1943-11-04/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "ohio",
+    "allen",
+    "united states",
+    "newspapers",
+    "bluffton",
+    "bluffton (ohio)",
+    "american newspapers"
+  ],
+  "timestamp": "2023-09-05T23:54:52.884Z",
+  "title": "Image 2 of The Bluffton news (Bluffton, Ohio), November 4, 1943",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87076554/1943-11-04/ed-1/?sp=2&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_ivy_ver01%2Fdata%2Fsn87076554%2F00340580230%2F1943110401%2F0713.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

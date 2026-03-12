@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn92067173/1919-05-23/ed-1/?sp=3"
+  ],
+  "batch": [
+    "wyu_dryad_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/wyoming/",
+    "2/united states/wyoming/hot springs/",
+    "3/united states/wyoming/hot springs/thermopolis/"
+  ],
+  "contributor": [
+    "university of wyoming libraries"
+  ],
+  "date": "1919-05-23",
+  "dates": [
+    "1919-05-23"
+  ],
+  "description": [
+    "PLACES READJUSTMENT DATA AT COMMAND OF THE BUSINESS WORLD Research Div Won of the Council of National Defense Offers All Its FacHties to Aid in Reorganization of Industry and Resumption of TradeBurden of Reconstruc tlon Must Fall on Industry Wnaliluktoa The council of national defense announces Its readiness to place at the command of the business world the Information contained in tbe voluminous collection of data brought together classified indexed and partly digested by its reconstruc tion research division It also offers the services of this division In the procurement of such further special Information as may be desired and which may aid In the reorganization of Induatry and the resumption of trade or which may in any other manner promote progress in the recon struction Just what the Information here of fered consists of may be Indicated best by reference to some of Its sources and by mention of a few subjects under which the material la subclassltled Official Information The division bns undertaken to chart all the fed eral official bodies that have a point of contact with demobilization or re construction and to possess firsthand uptodate information as to accom plishments and plans of each such body"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-09-29T00:13:04.520Z",
+  "group": [
+    "ndnp/wyu",
+    "university-of-wyoming-libraries"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn92067173/1919-05-23/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_dryad_ver01:data:sn92067173:00516998684:1919052301:1714/full/pct:6.25/0/default.jpg#h=326&w=224",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_dryad_ver01:data:sn92067173:00516998684:1919052301:1714/full/pct:12.5/0/default.jpg#h=652&w=449",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wyu/batch_wyu_dryad_ver01/data/sn92067173/00516998684/1919052301/1714.xml&format=alto_xml"
+  ],
+  "index": 88,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "thermopolis",
+    "united states",
+    "hot springs",
+    "hot springs county",
+    "wyoming"
+  ],
+  "location_city": [
+    "thermopolis"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hot springs"
+  ],
+  "location_state": [
+    "wyoming"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "0000000003",
+    "sn92067173",
+    "8",
+    "5",
+    "6",
+    "9",
+    "4",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn92067173"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "8",
+    "6",
+    "8",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn92067173-1919-05-23-ed-1-1714",
+  "partof": [
+    "serial and government publications division",
+    "chronicling america",
+    "the thermopolis independent (thermopolis, wyo.) 1906-1928"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the thermopolis independent (thermopolis, wyo.) 1906-1928"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn92067173/1919-05-23/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn92067173/1919-05-23/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "thermopolis",
+    "united states",
+    "hot springs county (wyo.)",
+    "hot springs",
+    "thermopolis (wyo.)",
+    "newspapers",
+    "wyoming"
+  ],
+  "timestamp": "2024-09-29T00:35:58.915Z",
+  "title": "Image 3 of The Thermopolis independent (Thermopolis, Wyo.), May 23, 1919",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn92067173/1919-05-23/ed-1/?sp=3&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwyu%2Fbatch_wyu_dryad_ver01%2Fdata%2Fsn92067173%2F00516998684%2F1919052301%2F1714.xml&q=reconstruction&relevant_snippet=1"
+}

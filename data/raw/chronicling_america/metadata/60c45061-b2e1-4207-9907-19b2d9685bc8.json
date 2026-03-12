@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn90059182/1901-03-08/ed-1/?sp=8"
+  ],
+  "batch": [
+    "mnhi_hockey_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/minnesota/",
+    "2/united states/minnesota/saint louis/",
+    "3/united states/minnesota/saint louis/ely/"
+  ],
+  "contributor": [
+    "minnesota historical society; saint paul, mn"
+  ],
+  "date": "1901-03-08",
+  "dates": [
+    "1901-03-08"
+  ],
+  "description": [
+    "Ma 1 d ELY MINER Peter Schaefer Publisher ELY MINN Fearing that her sixteen pet cats would have a hard time of it after she was dead Mrs Annie Adamson who died at Piermont N Y a few days ago left instructions that the cats be chloroformed and buried in the cat cemetery upon her premises In consequence of the insufficiency of coaling stations for the Russian menofwar the ministry of marine is having a large steamer constructed for supplying the squadrons with coal A first payment of 50000 has been made on account of the building of the vessel which is to have a dis placement of 7200 tons Machinery in glassblowing fac tories has taken the place of human lungs and hands This change has just taken place and is a wonderful victory in the line of inventions It is also a great blessing as glass blow ing has ruined the lungs of thousands of people Many have died as the re sult of doing the work Doubtless the most unique spot in Europe is the little village of Alten berg where on its border three countries meet It is ruled by no monarchs has no soldiers no"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-04T01:45:21.302Z",
+  "group": [
+    "ndnp/mnhi",
+    "minnesota-historical-society-saint-paul-mn-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn90059182/1901-03-08/ed-1/?sp=8",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hockey_ver01:data:sn90059182:00393341099:1901030801:0082/full/pct:3.125/0/default.jpg#h=276&w=197",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hockey_ver01:data:sn90059182:00393341099:1901030801:0082/full/pct:6.25/0/default.jpg#h=553&w=395",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hockey_ver01:data:sn90059182:00393341099:1901030801:0082/full/pct:12.5/0/default.jpg#h=1107&w=791",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mnhi/batch_mnhi_hockey_ver01/data/sn90059182/00393341099/1901030801/0082.xml&format=alto_xml"
+  ],
+  "index": 49,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "saint louis county",
+    "ely",
+    "minnesota",
+    "saint louis"
+  ],
+  "location_city": [
+    "ely"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "saint louis"
+  ],
+  "location_state": [
+    "minnesota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "9",
+    "sn90059182",
+    "0000000008",
+    "4",
+    "3",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn90059182"
+  ],
+  "number_page": [
+    "0000000008"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "9",
+    "3",
+    "3",
+    "4",
+    "1",
+    "0",
+    "9",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn90059182-1901-03-08-ed-1-0082",
+  "partof": [
+    "serial and government publications division",
+    "chronicling america",
+    "the ely miner (ely, minn.) 1895-1986"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the ely miner (ely, minn.) 1895-1986"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn90059182/1901-03-08/ed-1/?sp=8"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn90059182/1901-03-08/ed-1/"
+  ],
+  "shelf_id": "08",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "saint louis county",
+    "ely (minn.)",
+    "newspapers",
+    "ely",
+    "minnesota",
+    "saint louis county (minn.)",
+    "saint louis"
+  ],
+  "timestamp": "2024-01-04T22:47:59.298Z",
+  "title": "Image 8 of The Ely miner (Ely, Minn.), March 8, 1901",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn90059182/1901-03-08/ed-1/?sp=8&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmnhi%2Fbatch_mnhi_hockey_ver01%2Fdata%2Fsn90059182%2F00393341099%2F1901030801%2F0082.xml&q=cuba&relevant_snippet=1"
+}

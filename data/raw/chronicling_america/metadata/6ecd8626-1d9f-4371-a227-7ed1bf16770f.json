@@ -1,0 +1,131 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16093/?sp=4"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1805-10-08",
+  "dates": [
+    "1805-10-08"
+  ],
+  "description": [
+    "affeftion which is the belt and frongeft motive to alliance 3 and in thofe who are holtile a refpe\u00e9 etating ho lefs frongly ia abatement of their hof tity ae ceastiipeenencelllt 95187 MR TROTTER sThe flatement which has appeared iu one or two of the Papers relative to the funded pro perty of Mr Trotter we are affured is a grofs sifreprefentation af othe fact The fums alluded te lo not appear to be bought either by Mr Trotters own money or that of the public but have been placed urider his management and con troul as a fecurtty againft lofs of money lent by him for fort periods Asi the obje of the profecution meditated agin Mr Trotter does not feem to be generally underftood it may be proper to ftate that it is not for the purpafe of recovering money which has been aftually loft to the Public or even unac counted for none having been loft and every far thing being properly accounted for but for the of acquiring thofe advantages which Mr rotter is fuppofed to have made from the ufe of Balances which muft have remained dormant and ufprodu\u00e9tive had he ated agreeably to the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16093/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16093:0004/full/pct:6.25/0/default.jpg#h=489&w=335",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16093:0004/full/pct:12.5/0/default.jpg#h=979&w=670",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16093:0004/full/pct:25.0/0/default.jpg#h=1959&w=1341",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16093:0004/full/pct:50.0/0/default.jpg#h=3919&w=2683",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16093:0004/full/pct:100.0/0/default.jpg#h=7839&w=5367",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16093/0004.alto.xml&format=alto_xml"
+  ],
+  "index": 95,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "india",
+    "calcutta"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "sn88063570",
+    "0000000004",
+    "sn88063571",
+    "sn88063569",
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16093-0004-alto",
+  "partof": [
+    "asian division",
+    "general collections",
+    "world newspapers",
+    "catalog",
+    "south asian digital collection",
+    "serial and government publications division",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "world digital library"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16093/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16093/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "india",
+    "calcutta"
+  ],
+  "timestamp": "2025-12-12T07:20:06.519Z",
+  "title": "Image 4 of Volume 11, Number 560, Tuesday, October 8, 1805 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16093/?sp=4&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16093%2F0004.alto.xml&q=great+war&relevant_snippet=1"
+}

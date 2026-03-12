@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83026172/1852-12-16/ed-1/?sp=2"
+  ],
+  "batch": [
+    "dlc_custer_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1852-12-16",
+  "dates": [
+    "1852-12-16"
+  ],
+  "description": [
+    "INDIAN AFFAIRS ANNUAL REPORT OF THE INDIAN DEPARTMENT DEPARTMENT of THE Interior Office Indian Affairs Nov 10 1852 Sir Among the errors that abound respecting our Indian relations there is one so injurious to our national reputation that it should not be disregarded The opinion is extensively entertained that our whole course of con duct towards the red men of this country has been marked by injustice and inhumanity An enlightened considera tion of the subject will lead to a different conclusion When civilization and barbarism are brought in such relation that they cannot coexist together it is right that the superiority of the former should be asserted and the latter compelled to give way It is therefore no matter of regret or reproach that so large a portion of our territory has been wrested from its aboriginal inhabitants and made the happy abode of an enlightened and Chris tian people That the means employed to effect this grand result have not always been just or that the con test has been attended by a vast amount of human suffer ing cannot be denied Of the Indians wrongs there is indeed no earthly record But it will not be forgotten"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-04T04:28:49.855Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83026172/1852-12-16/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_custer_ver01:data:sn83026172:00211678173:1852121601:0300/full/pct:3.125/0/default.jpg#h=258&w=200",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_custer_ver01:data:sn83026172:00211678173:1852121601:0300/full/pct:6.25/0/default.jpg#h=516&w=400",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_custer_ver01:data:sn83026172:00211678173:1852121601:0300/full/pct:12.5/0/default.jpg#h=1033&w=800",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_custer_ver01/data/sn83026172/00211678173/1852121601/0300.xml&format=alto_xml"
+  ],
+  "index": 166,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "2",
+    "6",
+    "8",
+    "3",
+    "0000000002",
+    "1",
+    "sn83026172",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83026172"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "1",
+    "6",
+    "7",
+    "8",
+    "1",
+    "7",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Issues for <Aug. 30-Sept. 22, 1814> published as: National intelligencer",
+    "Sunday issues for Jan. 15-Feb. 5, 1865 published as: Sunday national intelligencer"
+  ],
+  "page_id": "sn83026172-1852-12-16-ed-1-0300",
+  "partof": [
+    "chronicling america",
+    "daily national intelligencer (washington city [d.c.]) 1813-1869",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "daily national intelligencer (washington city [d.c.]) 1813-1869"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83026172/1852-12-16/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83026172/1852-12-16/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2025-05-04T08:21:21.610Z",
+  "title": "Image 2 of Daily national intelligencer (Washington City [D.C.]), December 16, 1852",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83026172/1852-12-16/ed-1/?sp=2&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_custer_ver01%2Fdata%2Fsn83026172%2F00211678173%2F1852121601%2F0300.xml&q=manifest+destiny&relevant_snippet=1"
+}

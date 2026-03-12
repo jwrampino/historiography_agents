@@ -1,0 +1,154 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85034438/1896-05-01/ed-1/?sp=1"
+  ],
+  "batch": [
+    "vi_whitesnake_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/virginia/",
+    "3/united states/virginia/richmond/"
+  ],
+  "contributor": [
+    "library of virginia; richmond, va"
+  ],
+  "date": "1896-05-01",
+  "dates": [
+    "1896-05-01"
+  ],
+  "description": [
+    "Lai al ar BR ce c Fi Je vor NEW SERIES NO 71 Sang TT RICHMOND VA FRIDAY MAY 1 1896 PRICE TWO CENTS La oR VOL 10NEW SERIES NO 71 DESCENDARTS OF PATRIOLS a i The Annual ness of the Sons dl burican Revolution MANY DISTIICUISHED YEITORS HERE Proceedings of the Business SessionA Brilliant Banguet at the Jefferson Eloquent Hesponses 0 ToastsFor tieuniting the Two Societies DESCENDAKIS OF PATRIOIS Tho Annual Congress of the Sons of The burican Revolution BANY DISTINGUISHED VISITORS HERE Proceedings of the Business SessionA Brilliant Banguet at the Jefferson Eloquent Hesponses 0 ToastsFor teuniting the Two Societies The seventh annual National Congress and the Triennial Conclave of the Nation al Society of the Sons of the American Revolution was opened yesterday morn ing at the assemblyrooms of ihe Cham ver of Commerce by General Horace Porter the presidentgeneral The hour fixed for tho gathering was 1030 A M but it was considerably later before the delegates arrived In sufficient numbers to enter upon the transgotion of business It was rouuarkable gathering of dls tinguished visitors from all portions ot the United States and the proceedings were characterized by the utmost har mony that prevailed throughout"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-21T08:32:05.697Z",
+  "group": [
+    "ndnp/vi",
+    "library-of-virginia-richmond-va-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85034438/1896-05-01/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_whitesnake_ver02:data:sn85034438:00175049344:1896050101:0237/full/pct:3.125/0/default.jpg#h=350&w=247",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_whitesnake_ver02:data:sn85034438:00175049344:1896050101:0237/full/pct:6.25/0/default.jpg#h=700&w=495",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/vi/batch_vi_whitesnake_ver02/data/sn85034438/00175049344/1896050101/0237.xml&format=alto_xml"
+  ],
+  "index": 150,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "richmond",
+    "virginia",
+    "united states"
+  ],
+  "location_city": [
+    "richmond"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "virginia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn85034438",
+    "0",
+    "3",
+    "7",
+    "9",
+    "1",
+    "0000000001",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85034438"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "1",
+    "7",
+    "5",
+    "0",
+    "4",
+    "9",
+    "3",
+    "4",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Daily times"
+  ],
+  "page_id": "sn85034438-1896-05-01-ed-1-0237",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the times (richmond, va.) 1890-1903"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the times (richmond, va.) 1890-1903"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85034438/1896-05-01/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85034438/1896-05-01/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "virginia",
+    "richmond",
+    "richmond (va.)",
+    "united states"
+  ],
+  "timestamp": "2025-12-21T12:08:05.450Z",
+  "title": "Image 1 of The times (Richmond, Va.), May 1, 1896",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85034438/1896-05-01/ed-1/?sp=1&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fvi%2Fbatch_vi_whitesnake_ver02%2Fdata%2Fsn85034438%2F00175049344%2F1896050101%2F0237.xml&q=revolution&relevant_snippet=1"
+}

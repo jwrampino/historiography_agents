@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83020847/1946-06-06/ed-1/?sp=6"
+  ],
+  "batch": [
+    "mb_basil_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/massachusetts/",
+    "2/united states/massachusetts/hampden/",
+    "3/united states/massachusetts/hampden/springfield/"
+  ],
+  "contributor": [
+    "boston public library"
+  ],
+  "date": "1946-06-06",
+  "dates": [
+    "1946-06-06"
+  ],
+  "description": [
+    "NATIONAL NAVY NOW SEEKING VOLUNTEERS STRIKE OUTLOOK IS BETTER Naval Stations Ordered to List Number of Men Avail able for Sea DutyBoth Sides Make Proposals Washington June 3AP The navy tonight called for volunteers among its inactive personnel for possible duty in the event the threatened maritime strike occurs the 15th An order released by Assistant Secretary W John Kenney for the secretary of the navy directed all naval stations to recruit exservice men to meet the imminent crit ical situation confronting the country caused by the pending merchant marine strike No Active Duty Yet Deck radio and engineering qual ifications are particularly needed Forrestal said in his order He said that nobody should ac tually be recalled to active duty un til further directions Volunteers would be on a standby basis for the present ready to run merchant ships If the CIO maritime strike occurs The navy order was announced just as the CIO maritime leaders and ship operators appeared to be giving ground a little in their bargaining over the length of the workweek for members of the CIO Vatlonal Maritime union The negotiations are being held in the labor department here In a separate order to all"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-04-13T06:26:37.896Z",
+  "group": [
+    "ndnp/mb",
+    "massachusetts-boston-public-library"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83020847/1946-06-06/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_basil_ver01:data:sn83020847:00517170847:1946060601:0314/full/pct:3.125/0/default.jpg#h=271&w=201",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_basil_ver01:data:sn83020847:00517170847:1946060601:0314/full/pct:6.25/0/default.jpg#h=543&w=403",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_basil_ver01:data:sn83020847:00517170847:1946060601:0314/full/pct:12.5/0/default.jpg#h=1086&w=807",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mb/batch_mb_basil_ver01/data/sn83020847/00517170847/1946060601/0314.xml&format=alto_xml"
+  ],
+  "index": 117,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "springfield",
+    "united states",
+    "massachusetts",
+    "hampden"
+  ],
+  "location_city": [
+    "springfield"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hampden"
+  ],
+  "location_state": [
+    "massachusetts"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "sn83020847",
+    "0",
+    "0000000006",
+    "7",
+    "1",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83020847"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "0",
+    "8",
+    "4",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Springfield Republican",
+    "Republican"
+  ],
+  "page_id": "sn83020847-1946-06-06-ed-1-0314",
+  "partof": [
+    "chronicling america",
+    "springfield weekly republican (springfield, mass.) 1851-1946",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "springfield weekly republican (springfield, mass.) 1851-1946"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83020847/1946-06-06/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83020847/1946-06-06/ed-1/"
+  ],
+  "shelf_id": "06",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "massachusetts",
+    "springfield (mass.)",
+    "hampden",
+    "springfield",
+    "united states"
+  ],
+  "timestamp": "2025-04-13T07:27:25.179Z",
+  "title": "Image 6 of Springfield weekly Republican (Springfield, Mass.), June 6, 1946",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83020847/1946-06-06/ed-1/?sp=6&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmb%2Fbatch_mb_basil_ver01%2Fdata%2Fsn83020847%2F00517170847%2F1946060601%2F0314.xml&q=nuclear&relevant_snippet=1"
+}

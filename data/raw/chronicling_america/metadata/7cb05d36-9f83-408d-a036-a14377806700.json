@@ -1,0 +1,166 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn92063852/1955-06-25/ed-1/?sp=7"
+  ],
+  "batch": [
+    "mimtptc_bath_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/michigan/",
+    "2/united states/michigan/wayne/",
+    "3/united states/michigan/wayne/detroit/"
+  ],
+  "contributor": [
+    "central michigan university, clark historical library"
+  ],
+  "date": "1955-06-25",
+  "dates": [
+    "1955-06-25"
+  ],
+  "description": [
+    "And If I Be Lifted Up Continued from Beck Page r oMON PRACTICABLE AND A LIBERATOR FOR THE HUNDREDS OF MILLIONS OF ADAMS AND r rc IN DISTRESS WHO COULD AT ONCE HAVE MUCH OF THAT PEACE OF MINE God WHICH paSSETH ALL UNDERSTANDINGAND EVER SO P MUCH MORE TOOA CONSCIOUS FALIZATION AND POSSESSION OF EVERYWHERE PRESENT HEAVEN AND ETERNAL LIFE rOMPLETELY SATURATING THE ENTIRE universe THEREWITH AND TOTALLY vCLUDING AND DEMONSTRATING THE UTTER UNREALITY AND DESTRUCTIBILITY OF ALL SUPPOSITITIOUS OPPOSITION OF THE MYTHIC A L GHASTLY FARCE OF MATERIAL socalled EXISTENCE p 272 SH PART 5 THE DEVIL HAS DELUDED CS HQ TERRIBLY W ITH THE SUBTLE ARGUMENT THAT WE DONT BEUEVE IN GOING ANY FURTHER WITH THE MONITOR THAN MiS EDDY APPROVED IN 19080910 Bu dear ones surely you see that the recorded high jghti of Mrs Eddys visit with Rev McKenzie completely ihatter the Satanic diabolical sophistry which has per nitted public figures in desperate need of healing to be deprived of the Good Samaritan aid I would have sup ported your loving proffer thereto And remember My to our beloved St Paul The Word of God is UIC k and powerful and sharper than any twoedged"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-16T21:37:40.628Z",
+  "group": [
+    "ndnp/mimtptc",
+    "central-michigan-university-clark-historical-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn92063852/1955-06-25/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_bath_ver01:data:sn92063852:00415668065:1955062501:1247/full/pct:3.125/0/default.jpg#h=275&w=200",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_bath_ver01:data:sn92063852:00415668065:1955062501:1247/full/pct:6.25/0/default.jpg#h=550&w=400",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_bath_ver01:data:sn92063852:00415668065:1955062501:1247/full/pct:12.5/0/default.jpg#h=1101&w=801",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mimtptc/batch_mimtptc_bath_ver01/data/sn92063852/00415668065/1955062501/1247.xml&format=alto_xml"
+  ],
+  "index": 18,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "wayne county",
+    "wayne",
+    "michigan",
+    "detroit",
+    "united states"
+  ],
+  "location_city": [
+    "detroit"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "wayne"
+  ],
+  "location_state": [
+    "michigan"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn92063852",
+    "8",
+    "0",
+    "1",
+    "0000000007",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn92063852"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "6",
+    "8",
+    "0",
+    "6",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn92063852-1955-06-25-ed-1-1247",
+  "partof": [
+    "chronicling america",
+    "the detroit tribune (detroit, mich.) 1935-1966",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the detroit tribune (detroit, mich.) 1935-1966"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn92063852/1955-06-25/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn92063852/1955-06-25/ed-1/"
+  ],
+  "shelf_id": "7",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "african americans",
+    "wayne county",
+    "african american",
+    "wayne",
+    "michigan",
+    "detroit",
+    "detroit (mich.)",
+    "wayne county (mich.)",
+    "united states"
+  ],
+  "subject_ethnicity": [
+    "african american"
+  ],
+  "timestamp": "2024-01-17T00:43:18.242Z",
+  "title": "Image 7 of The Detroit tribune (Detroit, Mich.), June 25, 1955",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn92063852/1955-06-25/ed-1/?sp=7&q=vietnam",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmimtptc%2Fbatch_mimtptc_bath_ver01%2Fdata%2Fsn92063852%2F00415668065%2F1955062501%2F1247.xml&q=vietnam&relevant_snippet=1"
+}

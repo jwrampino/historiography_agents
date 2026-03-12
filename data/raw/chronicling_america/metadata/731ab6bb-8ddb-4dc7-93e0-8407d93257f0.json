@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1946-08-12/ed-1/?sp=18"
+  ],
+  "batch": [
+    "dlc_2boccioni_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1946-08-12",
+  "dates": [
+    "1946-08-12"
+  ],
+  "description": [
+    "Sir James and Lady Grigg Interesting Newcomers Former Residents of India Take House in Georgetown By Elisabeth Maguire Lady Grig wife of Sir James Grigg lives in an enchanting little Georgetown house on Thomas Jefferson street The house is furnished with gemlike pieces of antiques and old glassware and in back two brick circles bordered with flowers and box hedges form a garden of rare charm She has been in this country since the end of May when her husband came here to take over his duties as British executive director of the World Bank From 1942 to 1945 Sir James Grigg served in Churchills government as Secretary of State for War and from 1934 to 1939 as Finance Member Cl MIC V1UC1UJ vuumu ill nuia first under Lord Willtngdon and then Lord Linlithgow On a drawingroom table in their Georgetown house is an auto graphed picture of Field Marshal Montgomery which reads To a great S of S for War from B L Montgomery Field Marshal The marshals visit to this country next month when he will be the guest of Gen and Mrs Eisenhower is an event they especially look forward to Lady Grigg loved her life in"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:41:47.060Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1946-08-12/ed-1/?sp=18",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_2boccioni_ver01:data:sn83045462:0028060480A:1946081201:0569/full/pct:6.25/0/default.jpg#h=500&w=355",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_2boccioni_ver01:data:sn83045462:0028060480A:1946081201:0569/full/pct:12.5/0/default.jpg#h=1001&w=710",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_2boccioni_ver01/data/sn83045462/0028060480A/1946081201/0569.xml&format=alto_xml"
+  ],
+  "index": 194,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "district of columbia",
+    "washington d.c.",
+    "washington",
+    "united states"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "8",
+    "2",
+    "0",
+    "sn83045462",
+    "0000000018",
+    "a",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000018"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "4",
+    "8",
+    "0",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1946-08-12-ed-1-0569",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1946-08-12/ed-1/?sp=18"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1946-08-12/ed-1/"
+  ],
+  "shelf_id": "18",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)",
+    "washington",
+    "united states"
+  ],
+  "timestamp": "2022-10-25T04:51:37.540Z",
+  "title": "Image 18 of Evening star (Washington, D.C.), August 12, 1946",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1946-08-12/ed-1/?sp=18&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_2boccioni_ver01%2Fdata%2Fsn83045462%2F0028060480A%2F1946081201%2F0569.xml&q=great+war&relevant_snippet=1"
+}

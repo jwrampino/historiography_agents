@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86075189/1959-09-04/ed-1/?sp=3"
+  ],
+  "batch": [
+    "mthi_douglasfir_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/lewis and clark/",
+    "3/united states/montana/lewis and clark/helena/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1959-09-04",
+  "dates": [
+    "1959-09-04"
+  ],
+  "description": [
+    "Senator Murray Announces Senate Interior Group To Inspect Soviet HydroElectric Facilities WASHINGTON D C Senator James E Murray D Mont chairman of the Senate Committee on Interior and In sular Affairs Monday announced that a team of nine persons representing the Committee plans to visit the Soviet Union this fall and view Soviet dams and other power facilities The team will consist of Senator Frank E Moss DUtah designated by Murray as acting chair man of the Committee for purposes of this trip Senator Ernest Gruening DAlas ka Vic Reinemer executive secretary to Murray Michael W Strauss former U S Commissioner of Reclamation and Milton C Mapes of the Committee staff Harry A Kuljian president of the Kuljian Corporation which has de signed and engineered more than 80 different power plants Harvey F McPhail manager hydro State Has Ample Continued From Page One merely because such person also re ceives surplus foods under this pro gram Furthermore said Cannon it is important to note that any T erson whether unemployed as a result of a strike or for any other reason is eligible to receive these surplus foods once the person has been properly certified in accordance with the ex"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:45:52.789Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86075189/1959-09-04/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_douglasfir_ver01:data:sn86075189:00414211057:1959090401:0452/full/pct:6.25/0/default.jpg#h=430&w=295",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_douglasfir_ver01:data:sn86075189:00414211057:1959090401:0452/full/pct:12.5/0/default.jpg#h=860&w=590",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_douglasfir_ver01/data/sn86075189/00414211057/1959090401/0452.xml&format=alto_xml"
+  ],
+  "index": 45,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "lewis and clark",
+    "montana",
+    "helena"
+  ],
+  "location_city": [
+    "helena"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lewis and clark"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000003",
+    "sn86075189",
+    "2",
+    "5",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86075189"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "2",
+    "1",
+    "1",
+    "0",
+    "5",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86075189-1959-09-04-ed-1-0452",
+  "partof": [
+    "the people's voice (helena, mont.) 1939-1969",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the people's voice (helena, mont.) 1939-1969"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86075189/1959-09-04/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86075189/1959-09-04/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "history",
+    "helena (mont.)",
+    "helena",
+    "lewis and clark",
+    "united states",
+    "montana"
+  ],
+  "timestamp": "2023-07-05T21:00:13.614Z",
+  "title": "Image 3 of The People's voice (Helena, Mont.), September 4, 1959",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86075189/1959-09-04/ed-1/?sp=3&q=soviet+union",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_douglasfir_ver01%2Fdata%2Fsn86075189%2F00414211057%2F1959090401%2F0452.xml&q=soviet+union&relevant_snippet=1"
+}

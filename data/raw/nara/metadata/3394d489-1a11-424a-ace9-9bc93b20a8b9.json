@@ -1,0 +1,153 @@
+{
+  "dataControlGroup": {
+    "groupId": "ou=NREA,ou=groups",
+    "groupCd": "RMKC"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "false",
+  "digitalObjects": [
+    {
+      "objectFilename": "WahSee_001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/26/69/12006926/content/arcmedia/central-plains/kansas-city/6862011/WahSee_001.jpg",
+      "objectFileSize": 2652467,
+      "objectId": "15844872",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "WahSee_002.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/26/69/12006926/content/arcmedia/central-plains/kansas-city/6862011/WahSee_002.jpg",
+      "objectFileSize": 2408804,
+      "objectId": "15844874",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "WahSee_003.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/26/69/12006926/content/arcmedia/central-plains/kansas-city/6862011/WahSee_003.jpg",
+      "objectFileSize": 1971153,
+      "objectId": "15844876",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "WahSee_004.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/26/69/12006926/content/arcmedia/central-plains/kansas-city/6862011/WahSee_004.jpg",
+      "objectFileSize": 1423375,
+      "objectId": "15844877",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "WahSee_005.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/26/69/12006926/content/arcmedia/central-plains/kansas-city/6862011/WahSee_005.jpg",
+      "objectFileSize": 1066142,
+      "objectId": "15844878",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "WahSee_006.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/26/69/12006926/content/arcmedia/central-plains/kansas-city/6862011/WahSee_006.jpg",
+      "objectFileSize": 2203530,
+      "objectId": "15844879",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "WahSee_007.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/26/69/12006926/content/arcmedia/central-plains/kansas-city/6862011/WahSee_007.jpg",
+      "objectFileSize": 1577237,
+      "objectId": "15844880",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "WahSee.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/26/69/12006926/content/arcmedia/central-plains/kansas-city/6862011/WahSee.pdf",
+      "objectFileSize": 0,
+      "objectId": "15844873",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1685,
+        "logicalDate": "1685-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 21,
+      "inclusiveEndDate": {
+        "year": 2009,
+        "logicalDate": "2009-12-31"
+      },
+      "title": "Records of District Courts of the United States",
+      "naId": 350
+    },
+    {
+      "inclusiveStartDate": {
+        "month": 11,
+        "year": 1900,
+        "day": 14,
+        "logicalDate": "1900-11-14"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "U.S. District Court for the Eastern (St. Louis) Division of the Eastern District of Missouri. 2/28/1887-",
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 2,
+            "year": 1887,
+            "day": 28,
+            "logicalDate": "1887-02-28"
+          },
+          "naId": 10459091
+        }
+      ],
+      "inclusiveEndDate": {
+        "month": 5,
+        "year": 1925,
+        "day": 1,
+        "logicalDate": "1925-05-01"
+      },
+      "title": "Chinese Exclusion Case Files",
+      "naId": 6862011
+    }
+  ],
+  "title": "Chinese Exclusion Case File for See Wah",
+  "naId": 12006926,
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Kansas City",
+          "phone": "816-268-8000",
+          "address1": "400 West Pershing Road",
+          "postalCode": "64108",
+          "name": "National Archives at Kansas City",
+          "state": "MO",
+          "fax": "816-268-8038",
+          "email": "kansascity.archives@nara.gov",
+          "mailCode": "RM-KC"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  }
+}

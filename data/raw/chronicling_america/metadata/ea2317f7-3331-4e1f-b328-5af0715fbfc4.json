@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86063778/1915-03-04/ed-1/?sp=4"
+  ],
+  "batch": [
+    "scu_kershawhogjam_ver03"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/south carolina/",
+    "2/united states/south carolina/york/",
+    "3/united states/south carolina/york/fort mill/"
+  ],
+  "contributor": [
+    "university of south carolina; columbia, sc"
+  ],
+  "date": "1915-03-04",
+  "dates": [
+    "1915-03-04"
+  ],
+  "description": [
+    "THE MEXICAN MOVEMENT HEADED AIMS TO ESTABLIS 7 FORM OF POi The better element In Mexico Is I and integrity and the fact that hs ata not of men The view of th ordinary American citizen in regtuu io Mexico Is that it has become just one Provisional President after another Changes have been so kaleidoscopic and the dally news has been so conflicting that it has become almost Impossible for the man on the street to understand the true situation in the Repub UU IU lilt bUUlii UI UtS HI exasperation has reached that pol where he now dismisses the whole affair with a comment that a lot of bandits seem to be fighting among themselves in Mexico as to who shall be allowed the privilege of looting the country and I reckon Uncle Sam will have to step in one of these days and straighten things out The one significant fact that has served to make Americans believe that possibly behind the present turmoil in Mexico there may be after all something big and serious has been the broad humanitarian view that President Wilson has onnaistentlv taken ill regard to the Mexican revolution A brief history of the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-24T14:42:34.758Z",
+  "group": [
+    "ndnp/scu",
+    "university-of-south-carolina-columbia-sc-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86063778/1915-03-04/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn86063778:00415620263:1915030401:0064/full/pct:6.25/0/default.jpg#h=494&w=364",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn86063778:00415620263:1915030401:0064/full/pct:12.5/0/default.jpg#h=989&w=728",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/scu/batch_scu_kershawhogjam_ver03/data/sn86063778/00415620263/1915030401/0064.xml&format=alto_xml"
+  ],
+  "index": 193,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "fort mill",
+    "york county",
+    "south carolina",
+    "york",
+    "united states"
+  ],
+  "location_city": [
+    "fort mill"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "york"
+  ],
+  "location_state": [
+    "south carolina"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0000000004",
+    "0",
+    "2",
+    "sn86063778",
+    "1",
+    "3",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86063778"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "2",
+    "0",
+    "2",
+    "6",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86063778-1915-03-04-ed-1-0064",
+  "partof": [
+    "chronicling america",
+    "fort mill times (fort mill, s.c.) 1892-current",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "fort mill times (fort mill, s.c.) 1892-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86063778/1915-03-04/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86063778/1915-03-04/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "fort mill (s.c.)",
+    "fort mill",
+    "york county (s.c.)",
+    "south carolina",
+    "york county",
+    "york",
+    "united states"
+  ],
+  "timestamp": "2024-02-04T18:15:34.512Z",
+  "title": "Image 4 of Fort Mill times (Fort Mill, S.C.), March 4, 1915",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86063778/1915-03-04/ed-1/?sp=4&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fscu%2Fbatch_scu_kershawhogjam_ver03%2Fdata%2Fsn86063778%2F00415620263%2F1915030401%2F0064.xml&q=revolution&relevant_snippet=1"
+}

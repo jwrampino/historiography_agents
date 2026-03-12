@@ -1,0 +1,167 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85042303/1902-03-13/ed-1/?sp=1"
+  ],
+  "batch": [
+    "okhi_jackson_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/oklahoma/",
+    "2/united states/oklahoma/carter/",
+    "3/united states/oklahoma/carter/ardmore/"
+  ],
+  "contributor": [
+    "oklahoma historical society"
+  ],
+  "date": "1902-03-13",
+  "dates": [
+    "1902-03-13"
+  ],
+  "description": [
+    "I Jmiln VOLUME IX arVars I P ANDERSON B F FHENSLEY PrOS I1fnt VIm DiMin iC3 PrejIiODt T NATIONAL BANK Ardmore Indian Territory Designated Depository iaf Bankruptcy Funds m Chickasaw Nation Surplus Fund Cash 13500000 Capita Paid Up Cash 6000000 The oldost bank In Indian Territory Accounts of firms and Individuals solicited upon tuo most liberal torms consistent with ood banking i mvvi rii i si m vf up iu amoke The coat is trilling summed up iu words ROBERTS BUY THE BEST Eud The following merchants only are handling Eupion Oil in Ardmore Pettitt Bros APJones WAPayne M F Bomar Dillard Allen V A Davis Skipworth J A McCharen Webster Porter Staples A A Bailey U T Dallas S E JenkinB J A Bodowitz C Crosbv Kendall W C M T Felker P A Laughlin Son Bros Co General Insurance Real Estate and Rental W S Wolverton Son Agents j a X Ardmore Cotton Exchange GUILLOT BROS Managers Oldest Commission House In the Territory OPPOSITE CITY HALL ur stairs COTTON STOCKS GRAIN AND PROVISIONS For Futura or Immedlata Delivery Private wires New York New Orleans Chicago MINIMUM ORDERS ACCEPTED 20 Bales of Cottou 1000 Bushels of Grain 10 Shares"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T15:06:07.681Z",
+  "group": [
+    "ndnp/okhi",
+    "oklahoma-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85042303/1902-03-13/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_jackson_ver01:data:sn85042303:00237281111:1902031301:0718/full/pct:6.25/0/default.jpg#h=404&w=280",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_jackson_ver01:data:sn85042303:00237281111:1902031301:0718/full/pct:12.5/0/default.jpg#h=809&w=561",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/okhi/batch_okhi_jackson_ver01/data/sn85042303/00237281111/1902031301/0718.xml&format=alto_xml"
+  ],
+  "index": 44,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ardmore",
+    "oklahoma",
+    "chickasaw nation",
+    "carter county",
+    "united states",
+    "carter"
+  ],
+  "location_city": [
+    "ardmore"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "carter"
+  ],
+  "location_state": [
+    "oklahoma"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn85042303",
+    "0000000001",
+    "2",
+    "8",
+    "3",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85042303"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "3",
+    "7",
+    "2",
+    "8",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday Ardmoreite-press",
+    "Ardmoreite",
+    "Evening Ardmoreite",
+    "Morning Ardmoreite"
+  ],
+  "page_id": "sn85042303-1902-03-13-ed-1-0718",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the daily ardmoreite (ardmore, okla.) 1893-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the daily ardmoreite (ardmore, okla.) 1893-current"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85042303/1902-03-13/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85042303/1902-03-13/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "carter county (okla.)",
+    "ardmore",
+    "oklahoma",
+    "chickasaw nation, oklahoma",
+    "carter county",
+    "united states",
+    "newspapers",
+    "carter",
+    "ardmore (okla.)"
+  ],
+  "timestamp": "2022-11-18T13:58:13.160Z",
+  "title": "Image 1 of The Daily Ardmoreite (Ardmore, Okla.), March 13, 1902",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85042303/1902-03-13/ed-1/?sp=1&q=indian+territory",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fokhi%2Fbatch_okhi_jackson_ver01%2Fdata%2Fsn85042303%2F00237281111%2F1902031301%2F0718.xml&q=indian+territory&relevant_snippet=1"
+}

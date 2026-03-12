@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87065632/1904-02-12/ed-1/?sp=1"
+  ],
+  "batch": [
+    "msar_chert_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/mississippi/",
+    "2/united states/mississippi/lee/",
+    "3/united states/mississippi/lee/tupelo/"
+  ],
+  "contributor": [
+    "mississippi department of archives and history"
+  ],
+  "date": "1904-02-12",
+  "dates": [
+    "1904-02-12"
+  ],
+  "description": [
+    "THE TUPELO JOURNAL _____ _____________________ ___ 150 per AnnHm BE JXJST AND PEAK NOT 150 per Annum VOL XXXI TUPELO MISSISSIPPI FRIDAY FEBRUARY 152 1904 NUMBER 46 Mail Orders Mail Orders given prompt and careful attention by competent people Express paid on orders of So 00 or more Wholesale and Retail Mens Winter Underwear An immense lot of odds and ends of mens winter underwear in medium weights color blue and brown Regulai 35c garments now 21c Full line of mens tine fleeced underwear in plain colors splendid values at a garment 45c Mens all pure wool scarlet underwear shirts with single or double breasts extra warm sold at 175 and 225 Reduced to 98c and 135 Wens heavy bleached cotton flannel drawers with elastic seams now 45c Ij Mens Percale Negligee Shirts Worth 75c and 100 Our price l now 49c Made of fine quality per i 5 cale nice assortment of figured and striped patterns all light colors with detached cuffs Those shirts are worth 75c at the lowest valua tion and hundreds of other shirts not as good are sold in other stores at 100 Your choice now 49c Ladies 3 50 All Wool Sweaters 165 Nice"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:40:55.637Z",
+  "group": [
+    "ndnp/msar",
+    "mississippi-department-of-archives-and-history"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87065632/1904-02-12/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_chert_ver01:data:sn87065632:00383343884:1904021201:0588/full/pct:6.25/0/default.jpg#h=503&w=369",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_chert_ver01:data:sn87065632:00383343884:1904021201:0588/full/pct:12.5/0/default.jpg#h=1006&w=738",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/msar/batch_msar_chert_ver01/data/sn87065632/00383343884/1904021201/0588.xml&format=alto_xml"
+  ],
+  "index": 22,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "lee",
+    "tupelo",
+    "mississippi",
+    "united states"
+  ],
+  "location_city": [
+    "tupelo"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lee"
+  ],
+  "location_state": [
+    "mississippi"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "8",
+    "0",
+    "3",
+    "sn87065632",
+    "1",
+    "0000000001",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87065632"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "8",
+    "3",
+    "3",
+    "4",
+    "3",
+    "8",
+    "8",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87065632-1904-02-12-ed-1-0588",
+  "partof": [
+    "the tupelo journal (tupelo, miss.) 1876-1924",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the tupelo journal (tupelo, miss.) 1876-1924"
+  ],
+  "publication_frequency": [
+    "other"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87065632/1904-02-12/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87065632/1904-02-12/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "tupelo (miss.)",
+    "mississippi",
+    "tupelo",
+    "lee",
+    "united states"
+  ],
+  "timestamp": "2023-07-05T16:17:16.079Z",
+  "title": "Image 1 of The Tupelo journal (Tupelo, Miss.), February 12, 1904",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87065632/1904-02-12/ed-1/?sp=1&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmsar%2Fbatch_msar_chert_ver01%2Fdata%2Fsn87065632%2F00383343884%2F1904021201%2F0588.xml&q=korea&relevant_snippet=1"
+}

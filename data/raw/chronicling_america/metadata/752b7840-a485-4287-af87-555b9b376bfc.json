@@ -1,0 +1,165 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn90059523/1905-01-22/ed-1/?sp=27"
+  ],
+  "batch": [
+    "mnhi_plymouth_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/minnesota/",
+    "2/united states/minnesota/ramsey/",
+    "3/united states/minnesota/ramsey/saint paul/"
+  ],
+  "contributor": [
+    "minnesota historical society; saint paul, mn"
+  ],
+  "date": "1905-01-22",
+  "dates": [
+    "1905-01-22"
+  ],
+  "description": [
+    "i i i RAMSEY COUNTY BAR ASSOCIATION HONORS MEMORY Of JUDGE CLARK Leading Attorneys of the City Attend Exercises Presided Over by Full BenchC W Bunn Presents Biographical Sketch of the Dead Lawyer C D OBrien and W H Light ner for the Bar and Judge Hascal R Brill for the Bench Pay Professional and Per sonal Tributes The Ramsey County Bar association did formal honor to the memory of the late Judge Greenleaf Clark at a short session of the district court over which the full bench presided JThe attend ance of the members of the association was large Aside from the biographi cal sketch of Judge Clarks life pre sented by C W Bunn general counsel of the Northern Pacific C D OBrien and W H Lightner paid personal and professional tributes to the dead jurist from the view point of the bar and Judge H R Brill from that of the bench The five judges of the court assem bled at 2 oclock ajid the exercises were promptly opened C W Bunn Pays Tribute Mr Bunn read the biography which was in part as follows Greenleaf Clark was born in Rocking ham county New Hampshire Aug 23"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-07-10T23:13:22.377Z",
+  "group": [
+    "ndnp/mnhi",
+    "minnesota-historical-society-saint-paul-mn-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn90059523/1905-01-22/ed-1/?sp=27",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_plymouth_ver01:data:sn90059523:00206537899:1905012201:0319/full/pct:3.125/0/default.jpg#h=282&w=216",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_plymouth_ver01:data:sn90059523:00206537899:1905012201:0319/full/pct:6.25/0/default.jpg#h=564&w=432",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_plymouth_ver01:data:sn90059523:00206537899:1905012201:0319/full/pct:12.5/0/default.jpg#h=1128&w=864",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mnhi/batch_mnhi_plymouth_ver01/data/sn90059523/00206537899/1905012201/0319.xml&format=alto_xml"
+  ],
+  "index": 36,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ramsey",
+    "united states",
+    "saint paul",
+    "minnesota"
+  ],
+  "location_city": [
+    "saint paul"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "ramsey"
+  ],
+  "location_state": [
+    "minnesota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn90059523",
+    "1",
+    "9",
+    "2",
+    "6",
+    "5",
+    "3",
+    "8",
+    "0000000027",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn90059523"
+  ],
+  "number_page": [
+    "0000000027"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "6",
+    "5",
+    "3",
+    "7",
+    "8",
+    "9",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Saint Paul daily globe",
+    "St. Paul globe"
+  ],
+  "page_id": "sn90059523-1905-01-22-ed-1-0319",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the saint paul globe (st. paul, minn.) 1896-1905"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the saint paul globe (st. paul, minn.) 1896-1905"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn90059523/1905-01-22/ed-1/?sp=27"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn90059523/1905-01-22/ed-1/"
+  ],
+  "shelf_id": "27",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "saint paul",
+    "ramsey",
+    "saint paul (minn.)",
+    "united states",
+    "newspapers",
+    "minnesota"
+  ],
+  "timestamp": "2025-07-11T08:18:46.156Z",
+  "title": "Image 27 of The Saint Paul globe (St. Paul, Minn.), January 22, 1905",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn90059523/1905-01-22/ed-1/?sp=27&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmnhi%2Fbatch_mnhi_plymouth_ver01%2Fdata%2Fsn90059523%2F00206537899%2F1905012201%2F0319.xml&q=computers&relevant_snippet=1"
+}

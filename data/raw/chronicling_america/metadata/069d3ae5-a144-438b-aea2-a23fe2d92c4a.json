@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1911-10-16/ed-1/?sp=10"
+  ],
+  "batch": [
+    "dlc_neptunian_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1911-10-16",
+  "dates": [
+    "1911-10-16"
+  ],
+  "description": [
+    "j Gift Store X All the newest and mc t and cut glass arc shown he the price rangebut no m X impressed with the superi Beaut if di 5 We are justly proud of J this collection represent5 lnp as it does the choicA est pieces from Americas A most famous makers I t We desire to call particular a to the desipns contained in 01 j prehensive line of S lverw X Chests So preat is the ran you can purchase a chest conta A few of the most necessary pii an elaborate chest containing t A rect pieces to meet the requi A of the most exacting occasion S The Newest Oe t t y An unusual variety of j pieces representinp the t very newest creations by V the preatest desipners of X the day Our display inX eludes flatware of every A desirable pattern from the A simple colonial effects to the more ornate French patterns I A I Plate T y Quadruple plated i Five piece Tea Sets 1350 to 500 J Coffee Percolators nickel or copper 500 to 125 Chafing Dishes nickel or copper 500 to 150 Artist y A clock is both"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:37:30.455Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1911-10-16/ed-1/?sp=10",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_neptunian_ver01:data:sn83045462:00280657943:1911101601:0529/full/pct:3.125/0/default.jpg#h=295&w=242",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_neptunian_ver01:data:sn83045462:00280657943:1911101601:0529/full/pct:6.25/0/default.jpg#h=590&w=484",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_neptunian_ver01:data:sn83045462:00280657943:1911101601:0529/full/pct:12.5/0/default.jpg#h=1180&w=968",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_neptunian_ver01/data/sn83045462/00280657943/1911101601/0529.xml&format=alto_xml"
+  ],
+  "index": 146,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "district of columbia",
+    "washington d.c.",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "3",
+    "6",
+    "2",
+    "5",
+    "4",
+    "0000000010",
+    "1",
+    "7",
+    "sn83045462",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000010"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "7",
+    "9",
+    "4",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1911-10-16-ed-1-0529",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1911-10-16/ed-1/?sp=10"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1911-10-16/ed-1/"
+  ],
+  "shelf_id": "10",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "washington",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-21T04:29:11.807Z",
+  "title": "Image 10 of Evening star (Washington, D.C.), October 16, 1911",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1911-10-16/ed-1/?sp=10&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_neptunian_ver01%2Fdata%2Fsn83045462%2F00280657943%2F1911101601%2F0529.xml&q=immigration&relevant_snippet=1"
+}

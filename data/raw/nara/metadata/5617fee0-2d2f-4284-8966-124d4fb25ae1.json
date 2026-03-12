@@ -1,0 +1,225 @@
+{
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "false",
+  "title": "Disapproved Pension Application File for Private Indian-Joe, Detachment of Indian Scouts, U.S. Army; Company I, 4th U.S. Infantry Regiment (SO-20509)",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "7th and Pennsylvania Avenue NW",
+          "city": "Washington",
+          "phone": "202-357-5385",
+          "address1": "National Archives Building",
+          "postalCode": "20408",
+          "name": "National Archives at Washington, DC - Textual Reference",
+          "state": "DC",
+          "fax": "202-357-5936",
+          "email": "Archives1reference@nara.gov",
+          "mailCode": "RDT1"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupId": "ou=RDTP1,ou=groups",
+    "groupCd": "RDTP1"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "localIdentifier": "SO-20509",
+  "variantControlNumbers": [
+    {
+      "note": "This is the file number assigned by the Bureau of Pensions.",
+      "number": "SO-20509",
+      "type": "Agency-Assigned Identifier"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "Indian-Joe_Pension_001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0019/Indian-Joe_Pension/Indian-Joe_Pension_001.jpg",
+      "objectFileSize": 6502204,
+      "objectId": "372220615",
+      "objectDescription": "Image courtesy of citizen contributor Ceresa Haney",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Indian-Joe_Pension_002.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0019/Indian-Joe_Pension/Indian-Joe_Pension_002.jpg",
+      "objectFileSize": 2534858,
+      "objectId": "372220616",
+      "objectDescription": "Image courtesy of citizen contributor Ceresa Haney",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Indian-Joe_Pension_003.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0019/Indian-Joe_Pension/Indian-Joe_Pension_003.jpg",
+      "objectFileSize": 3326061,
+      "objectId": "372220617",
+      "objectDescription": "Image courtesy of citizen contributor Ceresa Haney",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Indian-Joe_Pension_004.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0019/Indian-Joe_Pension/Indian-Joe_Pension_004.jpg",
+      "objectFileSize": 1682863,
+      "objectId": "372220618",
+      "objectDescription": "Image courtesy of citizen contributor Ceresa Haney",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Indian-Joe_Pension_005.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0019/Indian-Joe_Pension/Indian-Joe_Pension_005.jpg",
+      "objectFileSize": 2241020,
+      "objectId": "372220619",
+      "objectDescription": "Image courtesy of citizen contributor Ceresa Haney",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Indian-Joe_Pension_006.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0019/Indian-Joe_Pension/Indian-Joe_Pension_006.jpg",
+      "objectFileSize": 4519536,
+      "objectId": "372220620",
+      "objectDescription": "Image courtesy of citizen contributor Ceresa Haney",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Indian-Joe_Pension_007.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0019/Indian-Joe_Pension/Indian-Joe_Pension_007.jpg",
+      "objectFileSize": 5303397,
+      "objectId": "372220621",
+      "objectDescription": "Image courtesy of citizen contributor Ceresa Haney",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Indian-Joe_Pension_008.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0019/Indian-Joe_Pension/Indian-Joe_Pension_008.jpg",
+      "objectFileSize": 1088908,
+      "objectId": "372220622",
+      "objectDescription": "Image courtesy of citizen contributor Ceresa Haney",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Indian-Joe_Pension_009.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0019/Indian-Joe_Pension/Indian-Joe_Pension_009.jpg",
+      "objectFileSize": 1259485,
+      "objectId": "372220623",
+      "objectDescription": "Image courtesy of citizen contributor Ceresa Haney",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Indian-Joe_Pension_010.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0019/Indian-Joe_Pension/Indian-Joe_Pension_010.jpg",
+      "objectFileSize": 986782,
+      "objectId": "372220624",
+      "objectDescription": "Image courtesy of citizen contributor Ceresa Haney",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Indian-Joe_Pension_011.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0019/Indian-Joe_Pension/Indian-Joe_Pension_011.jpg",
+      "objectFileSize": 947612,
+      "objectId": "372220625",
+      "objectDescription": "Image courtesy of citizen contributor Ceresa Haney",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Indian-Joe_Pension_012.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0019/Indian-Joe_Pension/Indian-Joe_Pension_012.jpg",
+      "objectFileSize": 3390994,
+      "objectId": "372220626",
+      "objectDescription": "Image courtesy of citizen contributor Ceresa Haney",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Indian-Joe_Pension_013.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0019/Indian-Joe_Pension/Indian-Joe_Pension_013.jpg",
+      "objectFileSize": 3184600,
+      "objectId": "372220627",
+      "objectDescription": "Image courtesy of citizen contributor Ceresa Haney",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Indian-Joe_Pension_014.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0019/Indian-Joe_Pension/Indian-Joe_Pension_014.jpg",
+      "objectFileSize": 3964144,
+      "objectId": "372220628",
+      "objectDescription": "Image courtesy of citizen contributor Ceresa Haney",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Indian-Joe_Pension.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0019/Indian-Joe_Pension/Indian-Joe_Pension.pdf",
+      "objectFileSize": 6753211,
+      "objectId": "372220614",
+      "objectDescription": "Image courtesy of citizen contributor Ceresa Haney",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1773,
+        "logicalDate": "1773-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 15,
+      "inclusiveEndDate": {
+        "year": 2007,
+        "logicalDate": "2007-12-31"
+      },
+      "title": "Records of the Department of Veterans Affairs",
+      "naId": 344
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1892,
+        "logicalDate": "1892-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "Department of the Interior. Bureau of Pensions. 1849-1930",
+          "abolishDate": {
+            "year": 1930,
+            "logicalDate": "1930-12-31"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1849,
+            "logicalDate": "1849-01-01"
+          },
+          "naId": 10505832
+        }
+      ],
+      "inclusiveEndDate": {
+        "dateQualifier": "ca.",
+        "year": 1926,
+        "logicalDate": "1926-12-31"
+      },
+      "title": "Case Files of Indian Wars Pension Applications",
+      "naId": 1105236
+    }
+  ],
+  "naId": 372220613
+}

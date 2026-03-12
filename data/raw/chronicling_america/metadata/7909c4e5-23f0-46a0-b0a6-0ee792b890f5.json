@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/46032385/1902-11-28/ed-1/?sp=4"
+  ],
+  "batch": [
+    "nbu_carson_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nebraska/",
+    "2/united states/nebraska/lancaster/",
+    "3/united states/nebraska/lancaster/lincoln/"
+  ],
+  "contributor": [
+    "university of nebraska-lincoln libraries, lincoln, ne"
+  ],
+  "date": "1902-11-28",
+  "dates": [
+    "1902-11-28"
+  ],
+  "description": [
+    "W IV fmt WfW VJf JU L M fiWf s MWVlli i flr KEa5ESSn22gS 7 J mm j fwpt f V v I U if r ix r J t b JJ tf 1 t f rev 4F 1 1 jV fc T 1 4 r 1 Im re v v v a i r T Tl i f L V w r i I t K v b The Commoner ISSUED WEEKLY Hntercd nt lie posioffice at Lincoln Nebraska as second class mail mutter c T TURMSPAYABLB IN ADVANCE One Year 100 I Three hontlia a si Clxflontlis 50c J J Single Copy oe Sample Copied Free Foreign Postage 52c Extra SUBSCRIPTIONS can be scut direct to The Commoner They can tilfib be tent through newspapers which have adver Utaed n clubbing rate or through local agents where such agents tiavcbecn appointed All remittances should be sent by post eftlcc money order express order or by bank draft on New York or Chicago Do not send individual check stamps or money RENEVVAL5 The date on your wrapper shows when your subscription will expire Thus Jan 02 means that payment hasbeen received to and including the last Ihmic of January"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:38:00.528Z",
+  "group": [
+    "ndnp/nbu",
+    "university-of-nebraska-of-nebraska-lincoln-libraries-lincoln-ne-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/46032385/1902-11-28/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_carson_ver02:data:46032385:00237284859:1902112801:1210/full/pct:6.25/0/default.jpg#h=402&w=312",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_carson_ver02:data:46032385:00237284859:1902112801:1210/full/pct:12.5/0/default.jpg#h=804&w=625",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nbu/batch_nbu_carson_ver02/data/46032385/00237284859/1902112801/1210.xml&format=alto_xml"
+  ],
+  "index": 83,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "lancaster county",
+    "lancaster",
+    "lincoln",
+    "nebraska"
+  ],
+  "location_city": [
+    "lincoln"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lancaster"
+  ],
+  "location_state": [
+    "nebraska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "9",
+    "4",
+    "2",
+    "5",
+    "1",
+    "7",
+    "0000000004",
+    "46032385",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "46032385"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "3",
+    "7",
+    "2",
+    "8",
+    "4",
+    "8",
+    "5",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "46032385-1902-11-28-ed-1-1210",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the commoner (lincoln, neb.) 1901-1923"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the commoner (lincoln, neb.) 1901-1923"
+  ],
+  "publication_frequency": [
+    "monthly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/46032385/1902-11-28/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/46032385/1902-11-28/ed-1/"
+  ],
+  "shelf_id": "04",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "lancaster county (neb.)",
+    "united states",
+    "lincoln (neb.)",
+    "lancaster county",
+    "lincoln",
+    "newspapers",
+    "lancaster",
+    "politics and government",
+    "nebraska",
+    "middle class"
+  ],
+  "timestamp": "2025-12-14T14:23:07.265Z",
+  "title": "Image 4 of The commoner (Lincoln, Neb.), November 28, 1902",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/46032385/1902-11-28/ed-1/?sp=4&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnbu%2Fbatch_nbu_carson_ver02%2Fdata%2F46032385%2F00237284859%2F1902112801%2F1210.xml&q=manifest+destiny&relevant_snippet=1"
+}

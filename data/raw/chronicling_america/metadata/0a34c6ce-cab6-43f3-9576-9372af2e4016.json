@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn99021999/1909-05-30/ed-1/?sp=16"
+  ],
+  "batch": [
+    "nbu_quarrie_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nebraska/",
+    "2/united states/nebraska/douglas/",
+    "3/united states/nebraska/douglas/omaha/"
+  ],
+  "contributor": [
+    "university of nebraska-lincoln libraries, lincoln, ne"
+  ],
+  "date": "1909-05-30",
+  "dates": [
+    "1909-05-30"
+  ],
+  "description": [
+    "THE OMAHA SUNDAY BEE MAY 10 1000 44 Mailed Fist of the Mikado Tells of Japans Police Work in Korea t i t v s V1 V ft JJ f v V 5 t 4 a j MkV VSJte ft la 4 A tt AWVK these x 1 GENERAL HASEQAWA THE M AILED FIST OF THE MIKADO liV1 Copyright 1900 by Frank Q Carpontpr iiSULL 1909 Special uorrcBponu S ence of The Bee Have you I ever heard of Yongian li Hrrui viiy ill un in ning ThouMndi of workmen are now building It and the structure being erected will when completed coat mHllona It has one palatial residence which 111 be finer than any other building In the fur east outside of that of the crown prince nf Japan It will cost 600000 yen and it could not be built for that many dollars on United States soli This will be the home of the commanderinchief of the Japanese army In Korea and It will be equipped for grand entertainments of every description It will have ftftystx rooms Its dining tables will seat 300 guests at one time and its dancing hall will accommo much the snmo way that"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:44:03.759Z",
+  "group": [
+    "ndnp/nbu",
+    "university-of-nebraska-of-nebraska-lincoln-libraries-lincoln-ne-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn99021999/1909-05-30/ed-1/?sp=16",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_quarrie_ver01:data:sn99021999:00280779040:1909053001:1111/full/pct:6.25/0/default.jpg#h=457&w=349",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_quarrie_ver01:data:sn99021999:00280779040:1909053001:1111/full/pct:12.5/0/default.jpg#h=914&w=699",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nbu/batch_nbu_quarrie_ver01/data/sn99021999/00280779040/1909053001/1111.xml&format=alto_xml"
+  ],
+  "index": 54,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "douglas",
+    "omaha",
+    "nebraska"
+  ],
+  "location_city": [
+    "omaha"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "douglas"
+  ],
+  "location_state": [
+    "nebraska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "sn99021999",
+    "2",
+    "8",
+    "4",
+    "0000000016",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn99021999"
+  ],
+  "number_page": [
+    "0000000016"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "7",
+    "7",
+    "9",
+    "0",
+    "4",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday issues for Aug. 1, 1886-June 11, 1922 have title: Omaha Sunday bee"
+  ],
+  "page_id": "sn99021999-1909-05-30-ed-1-1111",
+  "partof": [
+    "chronicling america",
+    "omaha daily bee (omaha [neb.]) 187?-1922",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "omaha daily bee (omaha [neb.]) 187?-1922"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn99021999/1909-05-30/ed-1/?sp=16"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn99021999/1909-05-30/ed-1/"
+  ],
+  "shelf_id": "16",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "omaha (neb.)",
+    "nebraska",
+    "douglas",
+    "united states",
+    "newspapers",
+    "omaha"
+  ],
+  "timestamp": "2025-12-15T14:37:50.240Z",
+  "title": "Image 16 of Omaha daily bee (Omaha [Neb.]), May 30, 1909, (HALF-TONE)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn99021999/1909-05-30/ed-1/?sp=16&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnbu%2Fbatch_nbu_quarrie_ver01%2Fdata%2Fsn99021999%2F00280779040%2F1909053001%2F1111.xml&q=korea&relevant_snippet=1"
+}

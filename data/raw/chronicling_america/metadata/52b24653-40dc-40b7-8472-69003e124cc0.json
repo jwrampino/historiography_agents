@@ -1,0 +1,165 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83016209/1960-04-14/ed-1/?sp=23"
+  ],
+  "batch": [
+    "mdu_kalmia_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/maryland/",
+    "2/united states/maryland/montgomery/",
+    "3/united states/maryland/montgomery/rockville/",
+    "3/united states/maryland/montgomery/gaithersburg/"
+  ],
+  "contributor": [
+    "university of maryland, college park, md"
+  ],
+  "date": "1960-04-14",
+  "dates": [
+    "1960-04-14"
+  ],
+  "description": [
+    "School Survey Questions Students 9 Leisure Habits By a Staff Reporter Electronic brains are prob ing the leisurehour habits of Montgomery County High School pupils to develop a format for recreational pro grams geared to the wishes and needs of the majority The electronic computers are compiling the results of a sur conducted in the county secondary schools last week when students were asked to reply to questionnaires dealing extensively with their recrea tional habits and desires Some parents have expressed displeasure that the queries went even further and delved into the home lives and eco nomic enviroment of the stu dents but school authorities insist there is no cause for con cern anonymity will cloak the r identity of all participants in JLthe survey The questionnaires were dis tributed by school personnel in cooperation with the Health and Welfare Council of the National Capital Area and the University of Maryland which have teamed up in a research project financed by federal funds Its purpose is to learn more about what the areas youth is doing or would like to do with its spare time to determine what If any effect the social en vironment of a students home might"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-03-01T18:27:43.378Z",
+  "group": [
+    "ndnp/mdu",
+    "university-of-maryland-college-park-college-park-md-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83016209/1960-04-14/ed-1/?sp=23",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kalmia_ver01:data:sn83016209:00383342302:1960041401:0506/full/pct:3.125/0/default.jpg#h=287&w=200",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kalmia_ver01:data:sn83016209:00383342302:1960041401:0506/full/pct:6.25/0/default.jpg#h=575&w=400",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kalmia_ver01:data:sn83016209:00383342302:1960041401:0506/full/pct:12.5/0/default.jpg#h=1151&w=801",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mdu/batch_mdu_kalmia_ver01/data/sn83016209/00383342302/1960041401/0506.xml&format=alto_xml"
+  ],
+  "index": 41,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "rockville",
+    "gaithersburg",
+    "maryland",
+    "montgomery county",
+    "montgomery"
+  ],
+  "location_city": [
+    "rockville",
+    "gaithersburg"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "montgomery"
+  ],
+  "location_state": [
+    "maryland"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000023",
+    "sn83016209",
+    "2",
+    "8",
+    "3",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83016209"
+  ],
+  "number_page": [
+    "0000000023"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "8",
+    "3",
+    "3",
+    "4",
+    "2",
+    "3",
+    "0",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83016209-1960-04-14-ed-1-0506",
+  "partof": [
+    "chronicling america",
+    "montgomery county sentinel (rockville, md.) 1855-1974",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "montgomery county sentinel (rockville, md.) 1855-1974"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83016209/1960-04-14/ed-1/?sp=23"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83016209/1960-04-14/ed-1/"
+  ],
+  "shelf_id": "23",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "rockville (md.)",
+    "montgomery county (md.)",
+    "rockville",
+    "gaithersburg",
+    "maryland",
+    "newspapers",
+    "montgomery county",
+    "montgomery"
+  ],
+  "timestamp": "2023-03-07T23:28:50.056Z",
+  "title": "Image 23 of Montgomery County sentinel (Rockville, Md.), April 14, 1960, (SPORTS AND SOCIETY ARE IN THIS SECTION)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83016209/1960-04-14/ed-1/?sp=23&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmdu%2Fbatch_mdu_kalmia_ver01%2Fdata%2Fsn83016209%2F00383342302%2F1960041401%2F0506.xml&q=computers&relevant_snippet=1"
+}

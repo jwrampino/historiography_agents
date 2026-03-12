@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84026749/1934-10-17/ed-1/?sp=32"
+  ],
+  "batch": [
+    "dlc_eckington_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1934-10-17",
+  "dates": [
+    "1934-10-17"
+  ],
+  "description": [
+    "8 HISTORY OF OIL HEAT FRAUGHT WITH INTEREST Oil was known and prized among the prehistoric peoples There are records of its use for heat and light by the ancient peo ples of Persia Asia Minor China and the Caspian regions In the writings of the Egyp tians Phoenicians and early Arab ians frequent reference is made to the intensive and comforting heat where a number of oil lamps were used to produce light Russian Evolved Idea However it was hundreds of years later that the qualities of oil as a heat producer were first practically applied To a mechanic named Werner employed in a Russian refinery should go the credit for having first suggested that refuse oil which corresponds to our heavy fuel oil be burnt as fuel In 1861 he experimented with numerous devices and finally set tled on a contrivance consisting of a ies of grates or griddles over which the oil trickled and burned It was patented in 1867 and had a wide use American inventive genius did not lag far behind and in 1862 Shaw and Linton patented a fur nace in which oil fuel was con veyed into the interior in a gas eous"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-07T20:31:04.191Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84026749/1934-10-17/ed-1/?sp=32",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eckington_ver01:data:sn84026749:00205696647:1934101701:1214/full/pct:3.125/0/default.jpg#h=299&w=234",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eckington_ver01:data:sn84026749:00205696647:1934101701:1214/full/pct:6.25/0/default.jpg#h=598&w=468",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eckington_ver01:data:sn84026749:00205696647:1934101701:1214/full/pct:12.5/0/default.jpg#h=1196&w=937",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_eckington_ver01/data/sn84026749/00205696647/1934101701/1214.xml&format=alto_xml"
+  ],
+  "index": 79,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn84026749",
+    "0000000032",
+    "9",
+    "2",
+    "6",
+    "5",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84026749"
+  ],
+  "number_page": [
+    "0000000032"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "5",
+    "6",
+    "9",
+    "6",
+    "6",
+    "4",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Washington times herald"
+  ],
+  "page_id": "sn84026749-1934-10-17-ed-1-1214",
+  "partof": [
+    "chronicling america",
+    "the washington times (washington [d.c.]) 1902-1939",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington times (washington [d.c.]) 1902-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84026749/1934-10-17/ed-1/?sp=32"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84026749/1934-10-17/ed-1/"
+  ],
+  "shelf_id": "32",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-08-08T04:25:28.274Z",
+  "title": "Image 32 of The Washington times (Washington [D.C.]), October 17, 1934",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84026749/1934-10-17/ed-1/?sp=32&q=oil",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_eckington_ver01%2Fdata%2Fsn84026749%2F00205696647%2F1934101701%2F1214.xml&q=oil&relevant_snippet=1"
+}

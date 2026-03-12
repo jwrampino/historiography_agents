@@ -1,0 +1,18 @@
+{
+  "description": "The members' magazines of Subterranea Britannica",
+  "format": [
+    "Archive BitTorrent",
+    "Item Image",
+    "Item Tile",
+    "JPEG",
+    "Metadata",
+    "Text"
+  ],
+  "identifier": "subterranea",
+  "mediatype": "collection",
+  "subject": [
+    "Subterranea Britannica",
+    "underground history"
+  ],
+  "title": "Subterranea Britannica"
+}

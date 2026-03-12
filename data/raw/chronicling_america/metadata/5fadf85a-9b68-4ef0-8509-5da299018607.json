@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1929-03-13/ed-1/?sp=20"
+  ],
+  "batch": [
+    "dlc_lateef_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1929-03-13",
+  "dates": [
+    "1929-03-13"
+  ],
+  "description": [
+    "20 CLAYTON INDORSED FOR UTILITIES POST Burleith Citizens Group Plans i Uninstructed Body for Council Election William McK Clayton was indorspci j by the Burleith Citizens Association meeting at Western High School last I night for appointment to the Public j Utilities Commission The associations delegates to the Federation of Citizens Associations were authorized to go uninstructed to the election tor members of the citizens advisory council Appeals from other associations for support of their own candidates for the council were turned over to the delegates with th instruc tion that the delegates use their own judgment in voting for the council members The traffic department was asked to direct contractors working on the sewer construction on Thirtyseventh street to route their trucks by streets instead j of alleys The parks and gardens committee of j the association was authorized to co j operate with the Burleith Garden Club ill developing the Burleith playground I and the executive committee of the as sociation will recommend to the asso ciation at the next meeting an estimat ed appropriation toward the support of the playground The public service corporations com mittee reported that Potomac Electric Power Co officials would resist any move"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:31:28.211Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1929-03-13/ed-1/?sp=20",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lateef_ver01:data:sn83045462:0028060012A:1929031301:0489/full/pct:3.125/0/default.jpg#h=267&w=201",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lateef_ver01:data:sn83045462:0028060012A:1929031301:0489/full/pct:6.25/0/default.jpg#h=535&w=403",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lateef_ver01:data:sn83045462:0028060012A:1929031301:0489/full/pct:12.5/0/default.jpg#h=1071&w=807",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_lateef_ver01/data/sn83045462/0028060012A/1929031301/0489.xml&format=alto_xml"
+  ],
+  "index": 137,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "district of columbia",
+    "washington d.c.",
+    "washington",
+    "united states"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "8",
+    "0",
+    "2",
+    "sn83045462",
+    "a",
+    "0000000020",
+    "1",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000020"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "0",
+    "1",
+    "2",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1929-03-13-ed-1-0489",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1929-03-13/ed-1/?sp=20"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1929-03-13/ed-1/"
+  ],
+  "shelf_id": "20",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)",
+    "washington",
+    "united states"
+  ],
+  "timestamp": "2022-10-25T12:30:11.756Z",
+  "title": "Image 20 of Evening star (Washington, D.C.), March 13, 1929",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1929-03-13/ed-1/?sp=20&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_lateef_ver01%2Fdata%2Fsn83045462%2F0028060012A%2F1929031301%2F0489.xml&q=medicine&relevant_snippet=1"
+}

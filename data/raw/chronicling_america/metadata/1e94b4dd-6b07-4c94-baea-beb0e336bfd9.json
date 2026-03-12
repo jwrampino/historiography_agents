@@ -1,0 +1,174 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84020097/1931-07-06/ed-1/?sp=4"
+  ],
+  "batch": [
+    "iune_fluorite_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/",
+    "1/united states/illinois/",
+    "2/united states/illinois/cook/",
+    "3/united states/illinois/cook/chicago/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1931-07-06",
+  "dates": [
+    "1931-07-06"
+  ],
+  "description": [
+    "Page Four By ALEX BITTELMAN The imperialists all over the world are working overtime to get the farmers to support the next war especially the military intervention against the Soviet Union When we speak of farmers in the United States we dont mean the rich farmers the farmercapitalist This group of farmers who are a small minority of the farming population are exploiters themselves They are part of the same capitalist class whose system is responsible for the crisis and misery of the masses and whose government is preparing for war and military intervention The farmers we speak about are the poor farmers the exploited farmers the farmers who are robbed and ruined by the big landowners the trusts and the banks These are the overwhelming majority of the farming population in the United States And the bulk of these consists of landless tenants whose condition in the southern states is practical serfdom especially that of the Negro tenant farmers Next to the landless ten ants come the large and ever increasing number of bankrupt farmers whose heavily mortgaged land is a burden rather than a help to them Itis precisely these poor and exploited farmers that the imperialists are"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:20:27.453Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84020097/1931-07-06/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_fluorite_ver01:data:sn84020097:00332897688:1931070601:0022/full/pct:3.125/0/default.jpg#h=268&w=209",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_fluorite_ver01:data:sn84020097:00332897688:1931070601:0022/full/pct:6.25/0/default.jpg#h=536&w=419",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_fluorite_ver01:data:sn84020097:00332897688:1931070601:0022/full/pct:12.5/0/default.jpg#h=1072&w=838",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_fluorite_ver01/data/sn84020097/00332897688/1931070601/0022.xml&format=alto_xml"
+  ],
+  "index": 173,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "illinois",
+    "cook",
+    "united states",
+    "new york",
+    "new york city",
+    "chicago"
+  ],
+  "location_city": [
+    "new york",
+    "chicago"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york",
+    "cook"
+  ],
+  "location_state": [
+    "new york",
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "9",
+    "6",
+    "2",
+    "1",
+    "sn84020097",
+    "7",
+    "0000000004",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84020097"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "7",
+    "6",
+    "8",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84020097-1931-07-06-ed-1-0022",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the daily worker (chicago, ill.;new york, n.y.) 1924-1958"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the daily worker (chicago, ill.;new york, n.y.) 1924-1958"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84020097/1931-07-06/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84020097/1931-07-06/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "illinois",
+    "new york (n.y.)",
+    "cook",
+    "united states",
+    "labor unions",
+    "newspapers",
+    "new york",
+    "new york (state)",
+    "communism",
+    "chicago (ill.)",
+    "labor movement",
+    "chicago"
+  ],
+  "timestamp": "2025-05-22T03:42:38.273Z",
+  "title": "Image 4 of The daily worker (Chicago, Ill.;New York, N.Y.), July 6, 1931, (City Edition)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84020097/1931-07-06/ed-1/?sp=4&q=soviet+union",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_fluorite_ver01%2Fdata%2Fsn84020097%2F00332897688%2F1931070601%2F0022.xml&q=soviet+union&relevant_snippet=1"
+}

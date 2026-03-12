@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83030214/1909-02-14/ed-1/?sp=33"
+  ],
+  "batch": [
+    "dlc_haiti_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1909-02-14",
+  "dates": [
+    "1909-02-14"
+  ],
+  "description": [
+    "The Great Weather Factory Medicine Hat t Me ii a Synonym for What We DcVt U nt THE expedition in search of the weather like many other great X undertakings was an inspiration an impulse and in no sense due to any thought of profit or to any en couragement received from either Government or public Henry said I to the Great Traveler one day do you know where the weather comes from From Medicine Hat answered iiesrv trith startling promptitude You are an observing mortal Henry I com neaded you have unquestionably observed the feather reports Bui do you happen to know whether Medicine Hat is a place an article of ap parel a physicians prescription or a summer crinkr I think said Henry that it is the name of the Indian chief who puts the weather up in mis cellaneous packages shuffles the packages and then puts the joke or the Weather Bureau when it tries to select one But you dont know I persisted Hear shook his head But do you know asked o I admitted regretfully I do not Medi ae Hat to me as to most other people is merely a came a mythical source"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-04-11T11:52:39.882Z",
+  "group": [
+    "ndnp/dlc-2007_2008",
+    "library-of-congress-washington-dc-awardee-2"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83030214/1909-02-14/ed-1/?sp=33",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_haiti_ver01:data:sn83030214:00175039466:1909021401:0245/full/pct:6.25/0/default.jpg#h=315&w=223",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_haiti_ver01:data:sn83030214:00175039466:1909021401:0245/full/pct:12.5/0/default.jpg#h=631&w=446",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_haiti_ver01/data/sn83030214/00175039466/1909021401/0245.xml&format=alto_xml"
+  ],
+  "index": 16,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "new york",
+    "united states",
+    "new york county",
+    "new york city"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000033",
+    "sn83030214",
+    "9",
+    "6",
+    "5",
+    "3",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83030214"
+  ],
+  "number_page": [
+    "0000000033"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "1",
+    "7",
+    "5",
+    "0",
+    "3",
+    "9",
+    "4",
+    "6",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Due to strike, published jointly with other newspapers as: Combined New York morning newspapers",
+    "Combined New York Sunday newspapers",
+    "New-York daily tribune"
+  ],
+  "page_id": "sn83030214-1909-02-14-ed-1-0245",
+  "partof": [
+    "new-york tribune (new york [n.y.]) 1866-1924",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "new-york tribune (new york [n.y.]) 1866-1924"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83030214/1909-02-14/ed-1/?sp=33"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83030214/1909-02-14/ed-1/"
+  ],
+  "shelf_id": "33",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "new york",
+    "new york (state)",
+    "united states",
+    "new york county",
+    "new york county (n.y.)",
+    "newspapers",
+    "new york (n.y.)"
+  ],
+  "timestamp": "2025-04-11T17:50:31.456Z",
+  "title": "Image 33 of New-York tribune (New York [N.Y.]), February 14, 1909",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83030214/1909-02-14/ed-1/?sp=33&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_haiti_ver01%2Fdata%2Fsn83030214%2F00175039466%2F1909021401%2F0245.xml&q=medicine&relevant_snippet=1"
+}

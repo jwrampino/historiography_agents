@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87078321/1898-06-08/ed-1/?sp=6"
+  ],
+  "batch": [
+    "pst_hetzel_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/pennsylvania/",
+    "2/united states/pennsylvania/jefferson/",
+    "3/united states/pennsylvania/jefferson/reynoldsville/"
+  ],
+  "contributor": [
+    "penn state university libraries; university park, pa"
+  ],
+  "date": "1898-06-08",
+  "dates": [
+    "1898-06-08"
+  ],
+  "description": [
+    "Diiianrayl SUNK THEIR SHIP Aimlral Btmpita Calls ft Itnn U Bilk Tktlt Lint til 6000 Antrim limits Bittta Tkt Birtn 0ftan4 y BiMlirlt The big American collier Morrlmac now lies In the narrow channel nt San tiago harbor effectually blocking In the Spanish cruisers under Admiral Cervera Everybody Is astounded nt the au dneity of the American vessel This result was accomplished through the heroism of lieutenant Richmond 1 Hobson nnslslnnt nuvnl constructor Daniel MolilnKUe George Chareite J c Murphy iiscnr Dolg nan John l Phillips John Kelly and H Clausen This was not n result of Fpnnish strategy or courage but part of a well defined plan of Admiral Sampson now nt Santlngo dn Cuba The Com modore wlshd to block tho narrow channel at Santiago so the enemy could not escape thus enabling some of the cruisers now about the harbor to bo relieved The Commodore also desired to test the strength of the Spanish torpedoes which filled the har bor Rear Admiral Sampson during Fri day morning decided to close the nar row harbor entrance of Santiago de Cuba by sinking tho collier Merrlmae loaded with coal In the channel He called for volunteers to go to"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-10-08T10:06:07.149Z",
+  "group": [
+    "ndnp/pst",
+    "penn-state-university-libraries-university-park-pa-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87078321/1898-06-08/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn87078321:00280776634:1898060801:0619/full/pct:6.25/0/default.jpg#h=388&w=263",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn87078321:00280776634:1898060801:0619/full/pct:12.5/0/default.jpg#h=777&w=527",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/pst/batch_pst_hetzel_ver01/data/sn87078321/00280776634/1898060801/0619.xml&format=alto_xml"
+  ],
+  "index": 147,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "pennsylvania",
+    "jefferson",
+    "reynoldsville"
+  ],
+  "location_city": [
+    "reynoldsville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "jefferson"
+  ],
+  "location_state": [
+    "pennsylvania"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "sn87078321",
+    "0000000006",
+    "7",
+    "4",
+    "3",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87078321"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "7",
+    "7",
+    "6",
+    "6",
+    "3",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87078321-1898-06-08-ed-1-0619",
+  "partof": [
+    "serial and government publications division",
+    "chronicling america",
+    "the star (reynoldsville, pa.) 1892-1946"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the star (reynoldsville, pa.) 1892-1946"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87078321/1898-06-08/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87078321/1898-06-08/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "reynoldsville",
+    "reynoldsville (pa.)",
+    "newspapers",
+    "pennsylvania",
+    "jefferson"
+  ],
+  "timestamp": "2022-10-28T04:05:23.146Z",
+  "title": "Image 6 of The star (Reynoldsville, Pa.), June 8, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87078321/1898-06-08/ed-1/?sp=6&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fpst%2Fbatch_pst_hetzel_ver01%2Fdata%2Fsn87078321%2F00280776634%2F1898060801%2F0619.xml&q=spanish&relevant_snippet=1"
+}

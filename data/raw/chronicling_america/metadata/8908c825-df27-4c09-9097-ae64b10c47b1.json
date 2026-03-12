@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86075271/1943-04-15/ed-1/?sp=6"
+  ],
+  "batch": [
+    "mthi_kevin_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/roosevelt/",
+    "3/united states/montana/roosevelt/wolf point/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1943-04-15",
+  "dates": [
+    "1943-04-15"
+  ],
+  "description": [
+    "Thursday April 15 1943 With Uncle Sams Armed Forces ADDRESS FOR PRISONER UP WAR GIVEN E H Silva of the Wolf Point division of the Montana State Highway department has given tile HeraldNews some informa tion that we think will be of in terest to many It is the proper way to address a letter to a prisoner of war He received the following letter from the Cas cade County Chapter of the Am erican Red Cross Referring to your inquiry re garding your son Duane our Na tional office advises us that your son is a prisoner of war in the Phillipines Mail may now be sent to him through the regu lar channels addressing same as follows Postage Free Franc de Port Prisoner of War Prisonnier de Guerre Rank Name American Prisoner in the Phillipines co Japanese Red Cross Tokyo Japan via New York N Y Senders name and address should be placed on the back of the envelope _ Duane Silva has been in the service since July 1941 when hr enlisted in the heary artillery A week after he was sworn i he was on his way to the Philli pines from which place he ha"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-11-19T03:15:23.617Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86075271/1943-04-15/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_kevin_ver01:data:sn86075271:00517179255:1943041501:0694/full/pct:6.25/0/default.jpg#h=370&w=265",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_kevin_ver01:data:sn86075271:00517179255:1943041501:0694/full/pct:12.5/0/default.jpg#h=741&w=530",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_kevin_ver01/data/sn86075271/00517179255/1943041501/0694.xml&format=alto_xml"
+  ],
+  "index": 57,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "montana",
+    "roosevelt",
+    "wolf point"
+  ],
+  "location_city": [
+    "wolf point"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "roosevelt"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "5",
+    "0000000006",
+    "1",
+    "2",
+    "7",
+    "sn86075271"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86075271"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "9",
+    "2",
+    "5",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86075271-1943-04-15-ed-1-0694",
+  "partof": [
+    "chronicling america",
+    "the herald-news (wolf point, mont.) 1940-current",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the herald-news (wolf point, mont.) 1940-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86075271/1943-04-15/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86075271/1943-04-15/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "roosevelt",
+    "united states",
+    "newspapers",
+    "montana",
+    "wolf point (mont.)",
+    "wolf point"
+  ],
+  "timestamp": "2023-11-19T03:27:05.890Z",
+  "title": "Image 6 of The Herald-news (Wolf Point, Mont.), April 15, 1943",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86075271/1943-04-15/ed-1/?sp=6&q=phillipines",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_kevin_ver01%2Fdata%2Fsn86075271%2F00517179255%2F1943041501%2F0694.xml&q=phillipines&relevant_snippet=1"
+}

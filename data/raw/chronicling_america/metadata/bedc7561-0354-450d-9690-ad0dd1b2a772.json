@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn91070618/1956-02-24/ed-1/?sp=2"
+  ],
+  "batch": [
+    "rp_hobgoblin_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/rhode island/",
+    "2/united states/rhode island/newport/",
+    "3/united states/rhode island/newport/newport/"
+  ],
+  "contributor": [
+    "rhode island digital newspaper project"
+  ],
+  "date": "1956-02-24",
+  "dates": [
+    "1956-02-24"
+  ],
+  "description": [
+    "CiiAPLAiHf R HC Thv Nature of Patriotium Captain Ablwit Peterson Jr ChC I NN Thin week we have celebrated the birthday of a great Ameri can George Washington he who was first In War first In Peace and first in the hearts of his countrymen Every schoolboy knows of his magnificent leader ship of our forces in the Ameri can Revolution of his fortitude in the dark days at Valley Forge and of his wisdom and Integrity as the first President of our United States If we were within hearing of the twentyone gun salute as it was fired here on our Newport Naval Station at high noon on his birthday in honor of his mem ory our hearts swelled with pride that we too are citizens of this great nation and our lips formed an unspoken prayer of thanks to Almighty God that He has al ways blessed us in days of crisis with men of spiritual stature and moral character such as George Washington What an example of citizen ship he showed us throughout his life One not motivated by love of personal power or prestige or riches but solely by love of God The Navys Oldest Newspaper"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-02-10T14:24:40.023Z",
+  "group": [
+    "ndnp/rp",
+    "rhode-island-digital-newspaper-project"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn91070618/1956-02-24/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_hobgoblin_ver02:data:sn91070618:0051699180A:1956022401:0024/full/pct:6.25/0/default.jpg#h=294&w=248",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_hobgoblin_ver02:data:sn91070618:0051699180A:1956022401:0024/full/pct:12.5/0/default.jpg#h=589&w=496",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_hobgoblin_ver02:data:sn91070618:0051699180A:1956022401:0024/full/pct:25/0/default.jpg#h=1178&w=992",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/rp/batch_rp_hobgoblin_ver02/data/sn91070618/0051699180A/1956022401/0024.xml&format=alto_xml"
+  ],
+  "index": 72,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "newport",
+    "rhode island"
+  ],
+  "location_city": [
+    "newport"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "newport"
+  ],
+  "location_state": [
+    "rhode island"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "6",
+    "5",
+    "1",
+    "a",
+    "sn91070618",
+    "0000000002",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn91070618"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "1",
+    "8",
+    "0",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Issues for Jan. 8-Sept. 9, 1988 published as: Navalog"
+  ],
+  "page_id": "sn91070618-1956-02-24-ed-1-0024",
+  "partof": [
+    "chronicling america",
+    "newport navalog (newport, r.i.) 1944-current",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "newport navalog (newport, r.i.) 1944-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn91070618/1956-02-24/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn91070618/1956-02-24/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "military bases",
+    "newport (r.i.)",
+    "newspapers",
+    "rhode island",
+    "newport"
+  ],
+  "timestamp": "2025-02-10T15:03:54.372Z",
+  "title": "Image 2 of Newport navalog (Newport, R.I.), February 24, 1956",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn91070618/1956-02-24/ed-1/?sp=2&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Frp%2Fbatch_rp_hobgoblin_ver02%2Fdata%2Fsn91070618%2F0051699180A%2F1956022401%2F0024.xml&q=nuclear&relevant_snippet=1"
+}

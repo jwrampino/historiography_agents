@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1916-11-21/ed-1/?sp=14"
+  ],
+  "batch": [
+    "dlc_jabbathehut_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1916-11-21",
+  "dates": [
+    "1916-11-21"
+  ],
+  "description": [
+    "NO UNCERTAINTY About Fine Even Grained f FROST SUGAR Every carton is filled and sealed BY MACHINES at the refinery Theres no chance of the sugar being contaminated by the dozen and one impurities to which sugar is exposed when weighed out from and kept in the opened barrel Jack Frost Sugar is GOOD Sugar and its guaranteed quality purity and weight make it worth buying Its economical in the end THE NATIONAL SUGAR REFINING COMPANY OF N J John H Wilkins Jack Frest Sugar ArmyNavy Football Polo Grounds New York November 25 SPECIAL TRAIN f Steel Coaches Parlor and Restaurant Cars running into Pennsylvania Station one block from ltIt Avenue ami 9th Avenue Elevated lines which run direct to r lo Grounds Lv Washington i Union Sta 700 AM Ar New York iFenna Sta 1230 PM Restaurant Car Service Breakfast a la carte Luncheon table dhote 100 Round 1020 Trip Tickets good goiug on any train November L4 and until and including the 95 AM train November and good to return until November 7 inclusive Special Sleeping Cars on train leang Nw York t Pennsylvania Station AM Sunday November 26 for Washington v ill lie open for occupancyvabout luM"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:23:59.131Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1916-11-21/ed-1/?sp=14",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jabbathehut_ver01:data:sn83045462:00280658935:1916112101:0318/full/pct:6.25/0/default.jpg#h=408&w=327",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jabbathehut_ver01:data:sn83045462:00280658935:1916112101:0318/full/pct:12.5/0/default.jpg#h=816&w=655",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_jabbathehut_ver01/data/sn83045462/00280658935/1916112101/0318.xml&format=alto_xml"
+  ],
+  "index": 92,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "2",
+    "sn83045462",
+    "8",
+    "6",
+    "5",
+    "3",
+    "1",
+    "0000000014"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000014"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "8",
+    "9",
+    "3",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1916-11-21-ed-1-0318",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1916-11-21/ed-1/?sp=14"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1916-11-21/ed-1/"
+  ],
+  "shelf_id": "14",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2022-10-20T20:03:43.532Z",
+  "title": "Image 14 of Evening star (Washington, D.C.), November 21, 1916",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1916-11-21/ed-1/?sp=14&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_jabbathehut_ver01%2Fdata%2Fsn83045462%2F00280658935%2F1916112101%2F0318.xml&q=medicine&relevant_snippet=1"
+}

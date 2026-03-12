@@ -1,0 +1,156 @@
+{
+  "beginCongress": 68,
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "Delaware's Certification of the Child Labor Amendment",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "Room 8E, 7th and Pennsylvania Avenue NW",
+          "city": "Washington",
+          "phone": "202-357-5350",
+          "address1": "National Archives Building",
+          "postalCode": "20408",
+          "name": "Center for Legislative Archives",
+          "state": "DC",
+          "fax": "202-357-5911",
+          "email": "legislative.archives@nara.gov",
+          "mailCode": "LL"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper",
+          "containerId": "246"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "endCongress": 68,
+  "dataControlGroup": {
+    "groupName": "Center for Legislative Archives",
+    "groupId": "RPL",
+    "groupCd": "RPL"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "localIdentifier": "SEN68A-J34",
+  "productionDates": [
+    {
+      "month": 1,
+      "year": 1925,
+      "day": 28,
+      "logicalDate": "1925-01-28"
+    }
+  ],
+  "variantControlNumbers": [
+    {
+      "note": "This is the NARA internal exhibit tracking number.",
+      "number": "27794",
+      "type": "Other Identifier"
+    },
+    {
+      "number": "HF1-188657932",
+      "type": "HMS Record Entry ID"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "27794-2015-001-ac.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/rediscovery/27501-28000/27794-2015-001-ac.jpg",
+      "objectFileSize": 4969542,
+      "objectDesignator": "1",
+      "objectId": "22337779",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "27794-2015-002-ac.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/rediscovery/27501-28000/27794-2015-002-ac.jpg",
+      "objectFileSize": 4536485,
+      "objectDesignator": "2",
+      "objectId": "22337780",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "27794-2015-003-ac.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/rediscovery/27501-28000/27794-2015-003-ac.jpg",
+      "objectFileSize": 4130557,
+      "objectDesignator": "3",
+      "objectId": "22337781",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "27794-2015.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/rediscovery/27501-28000/27794-2015.pdf",
+      "objectFileSize": 3698190,
+      "objectId": "22337782",
+      "objectDescription": "Download the PDF",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1789,
+        "logicalDate": "1789-01-01"
+      },
+      "distance": 3,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 46,
+      "inclusiveEndDate": {
+        "year": 2023,
+        "logicalDate": "2023-12-31"
+      },
+      "title": "Records of the U.S. Senate",
+      "naId": 375
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1816,
+        "logicalDate": "1816-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "U.S. Senate. Committee on the Judiciary. (12/10/1816 - )",
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 12,
+            "year": 1816,
+            "day": 10,
+            "logicalDate": "1816-12-10"
+          },
+          "naId": 10458558
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 2024,
+        "logicalDate": "2024-12-31"
+      },
+      "title": "Committee Papers of the Committee on the Judiciary",
+      "naId": 559828
+    },
+    {
+      "distance": 1,
+      "levelOfDescription": "fileUnit",
+      "title": "Petitions and Memorials, Resolutions of State Legislatures, and Related Documents, which were Referred to the Committee on the Judiciary from the 68th Congress",
+      "naId": 18538142
+    }
+  ],
+  "naId": 19077032
+}

@@ -1,0 +1,170 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88078683/1920-11-06/ed-1/?sp=2"
+  ],
+  "batch": [
+    "ohi_byrd_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/",
+    "1/united states/ohio/",
+    "2/united states/ohio/cuyahoga/",
+    "3/united states/ohio/cuyahoga/cleveland/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1920-11-06",
+  "dates": [
+    "1920-11-06"
+  ],
+  "description": [
+    "PAGE 2 THE TOILER SATURDAY NOV 0 1920 November Seventh By H D Wendell Three years ago the workers soldiers and sailors of Petrograd struck the blow that deliver ed them from bondage Out of the factories came the workers joining with the sailors from Kron stadt and the soldiers from the Garrison of Pet rograd t answer the call of the Bolsheviks for the armed revolt against the Kerensky regime Into this battle they moved in a new spirit sing ing hymns of the revolution and under the impact of their mighty assaults the decaying structure of capitalism tottered and fell to the ground Ke rensky fled The workers revolution was victor ious But this was not all the fall of Kerensky meant but the beginning of the struggle Capital ism was overthrown but there still remained the capitalists plotting and scheming to get back into power The workers knew that until their resist ance was completely broken the revolution was not safe They knew also as they still know that as long as other capitalist governments stand In the world the soviet government is in danger So for the purpose of suppressing with merciless force the counterrevolution at"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:15:28.475Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88078683/1920-11-06/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn88078683:00280774789:1920110601:0357/full/pct:12.5/0/default.jpg#h=489&w=354",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn88078683:00280774789:1920110601:0357/full/pct:25/0/default.jpg#h=978&w=708",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_byrd_ver01/data/sn88078683/00280774789/1920110601/0357.xml&format=alto_xml"
+  ],
+  "index": 57,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "new york",
+    "cleveland",
+    "ohio",
+    "new york city",
+    "cuyahoga",
+    "united states"
+  ],
+  "location_city": [
+    "new york",
+    "cleveland"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york",
+    "cuyahoga"
+  ],
+  "location_state": [
+    "new york",
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "4",
+    "9",
+    "sn88078683",
+    "2",
+    "8",
+    "0000000002",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88078683"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "7",
+    "7",
+    "4",
+    "7",
+    "8",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88078683-1920-11-06-ed-1-0357",
+  "partof": [
+    "the toiler (cleveland, ohio) 1919-1922",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the toiler (cleveland, ohio) 1919-1922"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88078683/1920-11-06/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88078683/1920-11-06/ed-1/"
+  ],
+  "shelf_id": "02",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "new york",
+    "new york (state)",
+    "cleveland",
+    "ohio",
+    "cuyahoga",
+    "communism",
+    "cleveland (ohio)",
+    "labor movement",
+    "united states",
+    "newspapers",
+    "new york (n.y.)"
+  ],
+  "timestamp": "2023-09-05T04:41:40.001Z",
+  "title": "Image 2 of The toiler (Cleveland, Ohio), November 6, 1920",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88078683/1920-11-06/ed-1/?sp=2&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_byrd_ver01%2Fdata%2Fsn88078683%2F00280774789%2F1920110601%2F0357.xml&q=revolution&relevant_snippet=1"
+}

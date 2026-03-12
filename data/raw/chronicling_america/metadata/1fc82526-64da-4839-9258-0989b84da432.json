@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83035337/1914-03-07/ed-1/?sp=3"
+  ],
+  "batch": [
+    "ohi_atticus_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/cuyahoga/",
+    "3/united states/ohio/cuyahoga/cleveland/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1914-03-07",
+  "dates": [
+    "1914-03-07"
+  ],
+  "description": [
+    "Samstag den 7 Marz 1914 MAX GRUBER lUt Vrscxcct \u00c4vc 3 0 Weine Lik\u00f6re und Zigarren mc WdiSkieS vom jvafe nrogen Heister und latter ilvnrt Sit Ir\u00f6rr TiqeSzeit Vtifinrij l\u00fciittf von 11 bi 2 Ur Bell East 3366 1707 Morgan 5ivc Veil Broad 319 Cuy Union 152 US BtaAcrtt Wumim em Bcrfamattxncityftt der demtfche tftr eertr 1 er1etnUMeetihti de deutsche flSMet Bates SU 19 etfetweteesiUlsl bt deutsche ertterUstm tu 183 ttf GEO SCHNEIDER CAFE 7101 Cuttici Ave Cuyahoga Central 7750 SB Attorney and Counselor at Law 507 American Trust Bldg Public Cauare Cleveland Main 8147 Central 416 8t 101 Cdamplain Ave 5 und 10 Cent Labcit Eesch\u00e4ft\u00f6Lunch von 11 bis 2 Uhr 20 Cents Tel Central 807 Mario 4t I 429 Broadway GUSTAV I STOCKEI 137 Superior Arlae cl\u00fcflc dtullche tDaril\u00fcureu eia 2729 \u00c4be A Sheriff ClrMarlt GERMANIA HALLE Ecke Gordon und Clark Ave Cleveland Ohi Sil mtb Stefteertei Boarding House CARL DIETZ WEST SIDE PRIITH5 HOB IfOS West ehr elevel E BIttel eifCKtt Catpboga The Metropolis Wn L hiun Cigciu\u00fcmer 312 Prospect Ave Hanptmtartier und SUrfammhmeSiotel N bereinigten Unions in tleoelanb 0 Beide Telephone Busine\u00df Lunch 15c mit Bier 1706 Stone Ave Ecke W 58 Telephon Main 329 Tent"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:14:34.713Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83035337/1914-03-07/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_atticus_ver01:data:sn83035337:00279556069:1914030701:0184/full/pct:3.125/0/default.jpg#h=272&w=218",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_atticus_ver01:data:sn83035337:00279556069:1914030701:0184/full/pct:6.25/0/default.jpg#h=544&w=436",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_atticus_ver01:data:sn83035337:00279556069:1914030701:0184/full/pct:12.5/0/default.jpg#h=1089&w=873",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_atticus_ver01/data/sn83035337/00279556069/1914030701/0184.xml&format=alto_xml"
+  ],
+  "index": 14,
+  "language": [
+    "german",
+    "english"
+  ],
+  "location": [
+    "united states",
+    "cuyahoga",
+    "cleveland",
+    "ohio"
+  ],
+  "location_city": [
+    "cleveland"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cuyahoga"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000003",
+    "sn83035337",
+    "9",
+    "2",
+    "6",
+    "5",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83035337"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "5",
+    "6",
+    "0",
+    "6",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83035337-1914-03-07-ed-1-0184",
+  "partof": [
+    "chronicling america",
+    "echo : wochenblatt der vereinigten deutschen socialisten clevelands (cleveland, o. [ohio]) 1911-1920",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "echo : wochenblatt der vereinigten deutschen socialisten clevelands (cleveland, o. [ohio]) 1911-1920"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83035337/1914-03-07/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83035337/1914-03-07/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "cleveland",
+    "ohio",
+    "cuyahoga",
+    "cleveland (ohio)",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-09-05T01:22:26.021Z",
+  "title": "Image 3 of Echo : Wochenblatt der Vereinigten Deutschen Socialisten Clevelands (Cleveland, O. [Ohio]), March 7, 1914",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83035337/1914-03-07/ed-1/?sp=3&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_atticus_ver01%2Fdata%2Fsn83035337%2F00279556069%2F1914030701%2F0184.xml&q=revolution&relevant_snippet=1"
+}

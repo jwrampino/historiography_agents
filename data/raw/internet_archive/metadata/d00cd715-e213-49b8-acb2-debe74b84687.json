@@ -1,0 +1,19 @@
+{
+  "description": "A collection of media from Voice of Korea, North Korea's international radio program",
+  "format": [
+    "Archive BitTorrent",
+    "Item Tile",
+    "Metadata",
+    "PNG",
+    "Text"
+  ],
+  "identifier": "vokarchive",
+  "mediatype": "collection",
+  "subject": [
+    "dprk",
+    "voice of korea",
+    "north korea",
+    "democratic people's republic of korea"
+  ],
+  "title": "Voice of Korea Archive"
+}

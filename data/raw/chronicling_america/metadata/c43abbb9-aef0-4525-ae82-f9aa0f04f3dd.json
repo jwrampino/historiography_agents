@@ -1,0 +1,153 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045298/1943-10-16/ed-1/?sp=2"
+  ],
+  "batch": [
+    "ak_killerwhale_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/alaska/",
+    "3/united states/alaska/kodiak/"
+  ],
+  "contributor": [
+    "alaska state library historical collections"
+  ],
+  "date": "1943-10-16",
+  "dates": [
+    "1943-10-16"
+  ],
+  "description": [
+    "FLY WITH ALASKA STAR AIR LINES FOR INFORMATION SEE Agent RAY MARTIN Cafe Opposite OrpheuiH Theatre Henry Kittelson Owner Lloyd Smith Manager I WASHINGTON FfiSH AND OYSTER CO i P RT WILLIAMS AU v V Cold Storage frozen Bait Ice 1otal freezing capacity 20 tons daily MODEST MAIDENS Trademark Registered U S Patent Office Lets just spend a nice quiet evening in a few night clubs A number of potted ivy plants are for sale by the Hospital Guild Plants may be obtained for 50 cents apiece by calling at the home of Mrs A Holmes Johnson any forenoon Those who would like these sturdy attractive house plants are urged to get them before freez ing weather sets in as the plants cannot be protected then A Wayfarers meeting will be held next Wednesday Oct 20 at 8 pm at the Wayfarers club house All members are urged to attend Wives of Rotarian members have been invited to attend the next meeting of the club which will be held in the evening at 8 at the usual meeting place The soecia meeting marks the end of the attendance contest The losing team and their wives will eat beans while the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-05-22T13:01:19.427Z",
+  "group": [
+    "ndnp/ak",
+    "alaska-state-library-historical-collections-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045298/1943-10-16/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_killerwhale_ver01:data:sn83045298:00514159506:1943101601:0116/full/pct:6.25/0/default.jpg#h=323&w=209",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_killerwhale_ver01:data:sn83045298:00514159506:1943101601:0116/full/pct:12.5/0/default.jpg#h=646&w=418",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ak/batch_ak_killerwhale_ver01/data/sn83045298/00514159506/1943101601/0116.xml&format=alto_xml"
+  ],
+  "index": 113,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "kodiak",
+    "united states",
+    "alaska"
+  ],
+  "location_city": [
+    "kodiak"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "alaska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn83045298",
+    "0000000002",
+    "0",
+    "9",
+    "1",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045298"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "4",
+    "1",
+    "5",
+    "9",
+    "5",
+    "0",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Kodiak daily mirror"
+  ],
+  "page_id": "sn83045298-1943-10-16-ed-1-0116",
+  "partof": [
+    "kodiak mirror (kodiak, alaska) 1940-1976",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "kodiak mirror (kodiak, alaska) 1940-1976"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045298/1943-10-16/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045298/1943-10-16/ed-1/"
+  ],
+  "shelf_id": "02",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "alaska",
+    "kodiak (alaska)",
+    "kodiak",
+    "united states"
+  ],
+  "timestamp": "2024-05-22T23:52:22.289Z",
+  "title": "Image 2 of Kodiak mirror (Kodiak, Alaska), October 16, 1943",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045298/1943-10-16/ed-1/?sp=2&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fak%2Fbatch_ak_killerwhale_ver01%2Fdata%2Fsn83045298%2F00514159506%2F1943101601%2F0116.xml&q=computers&relevant_snippet=1"
+}

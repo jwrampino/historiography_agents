@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87057934/1920-02-05/ed-1/?sp=6"
+  ],
+  "batch": [
+    "iahi_kutcher_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/iowa/",
+    "2/united states/iowa/audubon/",
+    "3/united states/iowa/audubon/exira/"
+  ],
+  "contributor": [
+    "state historical society of iowa"
+  ],
+  "date": "1920-02-05",
+  "dates": [
+    "1920-02-05"
+  ],
+  "description": [
+    "rl N __ 7 I 5 1 t S s vhole VJe Al CJf Spouse iii citizen of the United States exclude slavery from Its limits prior to the formation of a state con stitution AnswerIt matters not what way the Supreme court may hereafter decide as to the abstract ques tion whether slavery may or may not go into a territory under the constitution the people have the lawful means to introduce It or exclude It as they please for the reason that slavery cannot exist a day or an hour anywhere unless It is supported by local police regulations Those po lice regulations can only be established by llie local legislature and if the people are opposed to slavery they will elect representatives to that body who will by unfriendly legislation effectually prevent the introduction of it into their midst If on the contrary they are for it their legislation will favor its extension Hence no matter what the decision of the Supreme court may be on that abstract question still the right of the people to make a Slave Territory or a Free Territory is per fect and complete under the Nebraska bill These LincolnDouglas debatessometimes they"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-05-16T11:57:44.945Z",
+  "group": [
+    "ndnp/iahi",
+    "state-historical-society-of-iowa-state-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87057934/1920-02-05/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kutcher_ver01:data:sn87057934:00415622727:1920020501:0088/full/pct:3.125/0/default.jpg#h=274&w=197",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kutcher_ver01:data:sn87057934:00415622727:1920020501:0088/full/pct:6.25/0/default.jpg#h=548&w=394",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kutcher_ver01:data:sn87057934:00415622727:1920020501:0088/full/pct:12.5/0/default.jpg#h=1097&w=789",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iahi/batch_iahi_kutcher_ver01/data/sn87057934/00415622727/1920020501/0088.xml&format=alto_xml"
+  ],
+  "index": 138,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "audubon",
+    "exira",
+    "iowa",
+    "united states"
+  ],
+  "location_city": [
+    "exira"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "audubon"
+  ],
+  "location_state": [
+    "iowa"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn87057934",
+    "0",
+    "2",
+    "0000000006",
+    "7",
+    "1",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87057934"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "2",
+    "2",
+    "7",
+    "2",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87057934-1920-02-05-ed-1-0088",
+  "partof": [
+    "audubon county journal (exira, iowa) 1884-1993",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "audubon county journal (exira, iowa) 1884-1993"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87057934/1920-02-05/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87057934/1920-02-05/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "exira",
+    "iowa",
+    "exira (iowa)",
+    "audubon",
+    "united states"
+  ],
+  "timestamp": "2023-07-04T11:08:45.400Z",
+  "title": "Image 6 of Audubon County journal (Exira, Iowa), February 5, 1920",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87057934/1920-02-05/ed-1/?sp=6&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiahi%2Fbatch_iahi_kutcher_ver01%2Fdata%2Fsn87057934%2F00415622727%2F1920020501%2F0088.xml&q=slavery&relevant_snippet=1"
+}

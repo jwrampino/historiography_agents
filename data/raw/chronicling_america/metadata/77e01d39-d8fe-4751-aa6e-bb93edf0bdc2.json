@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045784/1853-03-12/ed-1/?sp=7"
+  ],
+  "batch": [
+    "dlc_firedrake_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1853-03-12",
+  "dates": [
+    "1853-03-12"
+  ],
+  "description": [
+    "WASHINGTON Liberty and Upton now and forever one and luseparable SATURDAY MARCH 12 1853 THE NEW ADMINISTRATION Until the cbaricteristica of th6 policy of the Ad ministration under our new 1reaideut arc more fully disclosed Uy ito acts we must be content with the general light thrown upon the sublet by his Inaugural Address pronounced in the presence of the Jcuiblod multitude of his fellowcitizens on the occaxion of his taking upon himself the responsibili ties of the great office which the People have con ferred upon him That Address our readers uui verwdly will by the time they receive this paper have had the opportunity of which we have availed ourselves to read over ouce aud again We can now say of it with a confidence which at the first glance at its contents we were unable to do that as a whole it is a production in a high degree creditable to the ability as well as the patriotism of its author aud generally to the principle which he avows and indicates in regard to the domestic institutions and policy of our coun try and to the clearly expressed and wc believe Mnccre determination on his part that"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:08:50.239Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045784/1853-03-12/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853031201:0544/full/pct:3.125/0/default.jpg#h=291&w=226",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853031201:0544/full/pct:6.25/0/default.jpg#h=583&w=453",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853031201:0544/full/pct:12.5/0/default.jpg#h=1167&w=907",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_firedrake_ver01/data/sn83045784/00415661605/1853031201/0544.xml&format=alto_xml"
+  ],
+  "index": 24,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "5",
+    "6",
+    "sn83045784",
+    "4",
+    "0000000007",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045784"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "6",
+    "1",
+    "6",
+    "0",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "National intelligencer",
+    "Weekly intelligencer"
+  ],
+  "page_id": "sn83045784-1853-03-12-ed-1-0544",
+  "partof": [
+    "serial and government publications division",
+    "chronicling america",
+    "weekly national intelligencer (washington [d.c.]) 1841-1869"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "weekly national intelligencer (washington [d.c.]) 1841-1869"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045784/1853-03-12/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045784/1853-03-12/ed-1/"
+  ],
+  "shelf_id": "7",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-20T12:45:04.037Z",
+  "title": "Image 7 of Weekly national intelligencer (Washington [D.C.]), March 12, 1853",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045784/1853-03-12/ed-1/?sp=7&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_firedrake_ver01%2Fdata%2Fsn83045784%2F00415661605%2F1853031201%2F0544.xml&q=manifest+destiny&relevant_snippet=1"
+}

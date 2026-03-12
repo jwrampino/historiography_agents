@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/46032385/1901-03-01/ed-1/?sp=2"
+  ],
+  "batch": [
+    "nbu_carson_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nebraska/",
+    "2/united states/nebraska/lancaster/",
+    "3/united states/nebraska/lancaster/lincoln/"
+  ],
+  "contributor": [
+    "university of nebraska-lincoln libraries, lincoln, ne"
+  ],
+  "date": "1901-03-01",
+  "dates": [
+    "1901-03-01"
+  ],
+  "description": [
+    "miotftHMioWtfMfrimiiiMi iiMiwifivmiiiii itnniiinpt ryti udy f i en ii my 2 I appreciate the patience and forbearance of sub scribers and am correctiuc mistakes and system r atizing the work as rapidly as possible The atenoils will soon bo completed and arranged in alphabetical order and then errors can be more easily detected The circulation exolusive of news stand sales and sample copies now exceeds fifty thousand and I am deeply grateful for the support which has been Given to the paper and for the cordial commendation expressed by newspapers and in dividuals The criticism of the opposition has been mainly directed against the riamo and the size of the paper As to tho first it should be remem bered that in choosing the name the primary ob f ject was not to give measure to republican edit ors noitner was ic oxpeoioa mat tney wouiu con fess their partys opposition to the interests of the common people that is the proposition to be proven and every number of this paper will pre sent evidence in support thereof Ah to the size of tho paper tho reader is re S minded that there are eight pages devoted to read ing"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:38:00.528Z",
+  "group": [
+    "ndnp/nbu",
+    "university-of-nebraska-of-nebraska-lincoln-libraries-lincoln-ne-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/46032385/1901-03-01/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_carson_ver02:data:46032385:00237284859:1901030101:0043/full/pct:6.25/0/default.jpg#h=408&w=290",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_carson_ver02:data:46032385:00237284859:1901030101:0043/full/pct:12.5/0/default.jpg#h=816&w=581",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nbu/batch_nbu_carson_ver02/data/46032385/00237284859/1901030101/0043.xml&format=alto_xml"
+  ],
+  "index": 87,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "lancaster county",
+    "lancaster",
+    "lincoln",
+    "nebraska"
+  ],
+  "location_city": [
+    "lincoln"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lancaster"
+  ],
+  "location_state": [
+    "nebraska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "9",
+    "4",
+    "2",
+    "5",
+    "1",
+    "7",
+    "46032385",
+    "0000000002",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "46032385"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "3",
+    "7",
+    "2",
+    "8",
+    "4",
+    "8",
+    "5",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "46032385-1901-03-01-ed-1-0043",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the commoner (lincoln, neb.) 1901-1923"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the commoner (lincoln, neb.) 1901-1923"
+  ],
+  "publication_frequency": [
+    "monthly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/46032385/1901-03-01/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/46032385/1901-03-01/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "lancaster county (neb.)",
+    "united states",
+    "lincoln (neb.)",
+    "lancaster county",
+    "lincoln",
+    "newspapers",
+    "lancaster",
+    "politics and government",
+    "nebraska",
+    "middle class"
+  ],
+  "timestamp": "2025-12-14T14:21:28.950Z",
+  "title": "Image 2 of The commoner (Lincoln, Neb.), March 1, 1901",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/46032385/1901-03-01/ed-1/?sp=2&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnbu%2Fbatch_nbu_carson_ver02%2Fdata%2F46032385%2F00237284859%2F1901030101%2F0043.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

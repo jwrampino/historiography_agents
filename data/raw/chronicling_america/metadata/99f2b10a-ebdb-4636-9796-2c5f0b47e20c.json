@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn90059523/1899-12-04/ed-1/?sp=4"
+  ],
+  "batch": [
+    "mnhi_nisswa_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/minnesota/",
+    "2/united states/minnesota/ramsey/",
+    "3/united states/minnesota/ramsey/saint paul/"
+  ],
+  "contributor": [
+    "minnesota historical society; saint paul, mn"
+  ],
+  "date": "1899-12-04",
+  "dates": [
+    "1899-12-04"
+  ],
+  "description": [
+    "4 CITY SUBSCRIPTIONS By Carrier I 1 mo 6 moa 12 moa bailyonTjT 40 225 400 Daily and Sunday 60 275 600 Sunday 15 75 160 COUNTRY SUBSCRIPTIONS By Mall l mo Tmos I 1 mod DailTonTy 25 150 Ui Daily and Sunday 35 200 4e0 Sunday 75 1 Weekly 50 IW Entered at PostofHce at St Paul Minn as ecopdClass Matter Address all communications and make all Remit tances payable to THE GLOBE CO St Paul Minn Anonymous communica tions not noticed Rejected manuscripts will not be returned unless accompanied by postage BRANCH OFFICES New York 19 Spruce St Chicago K0m609 No 87 Washington St WEATHER FOR TODAY Mil Fair Monday and Tuesday warmer Tuesday in western portion fresh northerly winds MontanaFair and warmer Monlay Tuesday fair warmer in eastern portion Mills icousin Generally fair Monday c or in northeast portion Tuesday fair con tinued cold fresh to brisk northerly i lowa Fair Monday and Tuesday warm er Tuesday in western portion northerly The Dakotas Fair Monday Tuesday fiir and warmer northerly winds ST PAUL days observations taken by the Ini S weather bureau St Paul F Lyons observer for the twenty four led at 7 oclock last nisrht"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-07-10T22:45:35.489Z",
+  "group": [
+    "ndnp/mnhi",
+    "minnesota-historical-society-saint-paul-mn-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn90059523/1899-12-04/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_nisswa_ver01:data:sn90059523:00206533961:1899120401:0372/full/pct:3.125/0/default.jpg#h=309&w=222",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_nisswa_ver01:data:sn90059523:00206533961:1899120401:0372/full/pct:6.25/0/default.jpg#h=618&w=444",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mnhi/batch_mnhi_nisswa_ver01/data/sn90059523/00206533961/1899120401/0372.xml&format=alto_xml"
+  ],
+  "index": 173,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ramsey",
+    "saint paul",
+    "united states",
+    "minnesota"
+  ],
+  "location_city": [
+    "saint paul"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "ramsey"
+  ],
+  "location_state": [
+    "minnesota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0000000004",
+    "2",
+    "0",
+    "sn90059523",
+    "9",
+    "1",
+    "3",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn90059523"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "6",
+    "5",
+    "3",
+    "3",
+    "9",
+    "6",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Saint Paul daily globe",
+    "St. Paul globe"
+  ],
+  "page_id": "sn90059523-1899-12-04-ed-1-0372",
+  "partof": [
+    "chronicling america",
+    "the saint paul globe (st. paul, minn.) 1896-1905",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the saint paul globe (st. paul, minn.) 1896-1905"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn90059523/1899-12-04/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn90059523/1899-12-04/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "saint paul",
+    "minnesota",
+    "ramsey",
+    "saint paul (minn.)",
+    "united states"
+  ],
+  "timestamp": "2025-07-11T06:41:22.487Z",
+  "title": "Image 4 of The Saint Paul globe (St. Paul, Minn.), December 4, 1899",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn90059523/1899-12-04/ed-1/?sp=4&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmnhi%2Fbatch_mnhi_nisswa_ver01%2Fdata%2Fsn90059523%2F00206533961%2F1899120401%2F0372.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

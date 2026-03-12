@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87060190/1898-05-09/ed-1/?sp=1"
+  ],
+  "batch": [
+    "kyu_bronze_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/kentucky/",
+    "2/united states/kentucky/mason/",
+    "3/united states/kentucky/mason/maysville/"
+  ],
+  "contributor": [
+    "university of kentucky, lexington, ky"
+  ],
+  "date": "1898-05-09",
+  "dates": [
+    "1898-05-09"
+  ],
+  "description": [
+    "WTJ THE EVENING BULLETIN VOLUME XVII MAYSVILLE KY MONDAY MAY 9 1898 NUMBER 142 ITWASACOMPLETEJOB Deweys Victory Without a Pre cedent In History OUR TROUBLESPILING UP Spanish Cabinet Is Certain to Go to Pieces J A VERY REMARKABLE ONE Coolness of Americans Was Some thing Wonderful STOPPED TO EAT BREAKFAST After the Fleet Hail Forced Itself Into Manilla Bay th Men Wero Allowed to Go to ltud Until Morulugr When the lljut Uegau Washington Llay 9 Commodore Dewey has been heard from He re ports that he arrived at Manilla during the night of April 30 and on May day destroyed the Spanish navy there si lenced the forts and landed in Cavite where he took possession of the naval station No Americans were killed and only a few were slightly wounded He does not Icnow the aggregate loss of the Spaniards but on one ship alone 150 were killed Many prisoners were also captured He says he has not taken Manilla be cause be could not spare the men to hold it but he has it at his mercy Ho cut the cable to keep Spaniards from using it The squadron touched first at a point in the Philippine"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-07-21T10:35:14.151Z",
+  "group": [
+    "ndnp/kyu",
+    "university-of-kentucky-lexington-ky-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87060190/1898-05-09/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bronze_ver01:data:sn87060190:00211103942:1898050901:0648/full/pct:6.25/0/default.jpg#h=444&w=283",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bronze_ver01:data:sn87060190:00211103942:1898050901:0648/full/pct:12.5/0/default.jpg#h=889&w=566",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/kyu/batch_kyu_bronze_ver01/data/sn87060190/00211103942/1898050901/0648.xml&format=alto_xml"
+  ],
+  "index": 100,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "mason",
+    "kentucky",
+    "mason county",
+    "maysville",
+    "united states"
+  ],
+  "location_city": [
+    "maysville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "mason"
+  ],
+  "location_state": [
+    "kentucky"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn87060190",
+    "0",
+    "2",
+    "3",
+    "9",
+    "1",
+    "0000000001",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87060190"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "1",
+    "1",
+    "0",
+    "3",
+    "9",
+    "4",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87060190-1898-05-09-ed-1-0648",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the evening bulletin (maysville, ky.) 1887-1905"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the evening bulletin (maysville, ky.) 1887-1905"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87060190/1898-05-09/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87060190/1898-05-09/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "mason",
+    "kentucky",
+    "mason county",
+    "mason county (ky.)",
+    "maysville (ky.)",
+    "maysville",
+    "united states"
+  ],
+  "timestamp": "2025-07-21T14:01:13.137Z",
+  "title": "Image 1 of The evening bulletin (Maysville, Ky.), May 9, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87060190/1898-05-09/ed-1/?sp=1&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fkyu%2Fbatch_kyu_bronze_ver01%2Fdata%2Fsn87060190%2F00211103942%2F1898050901%2F0648.xml&q=spanish&relevant_snippet=1"
+}

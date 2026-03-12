@@ -1,0 +1,373 @@
+{
+  "onlineResources": [
+    {
+      "note": "This file was scanned as part of a collaboration effort between Fold3 and the National Archives.",
+      "description": "Fold3",
+      "url": "https://www.fold3.com/image/25573309"
+    }
+  ],
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "title": "Revolutionary War Pension and Bounty Land Warrant Application File S. 29,372, for Henry Perkins, Massachusetts",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "7th and Pennsylvania Avenue NW",
+          "city": "Washington",
+          "phone": "202-357-5385",
+          "address1": "National Archives Building",
+          "postalCode": "20408",
+          "name": "National Archives at Washington, DC - Textual Reference",
+          "state": "DC",
+          "fax": "202-357-5936",
+          "email": "Archives1reference@nara.gov",
+          "mailCode": "RDT1"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupId": "ou=RDTP1,ou=groups",
+    "groupCd": "RDTP1"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "microformPublications": [
+    {
+      "identifier": "M804",
+      "note": "The start of this file can be found on Roll 1911.",
+      "title": "M804 - Revolutionary War Pension and Bounty-Land Warrant Application Files"
+    }
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "Fold3 2021",
+      "type": "Search Identifier"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "4161779_00110.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/microfilm-publications/M804-RevolutionaryWarPensionAppFiles/0003/export_M804-RevolutionaryWarPensionAppFiles_1911_8481/images/4161779_00110.jpg",
+      "objectFileSize": 646672,
+      "objectDesignator": "Fold3 File #25573309",
+      "objectId": "196380267",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4161779_00112.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/microfilm-publications/M804-RevolutionaryWarPensionAppFiles/0003/export_M804-RevolutionaryWarPensionAppFiles_1911_8481/images/4161779_00112.jpg",
+      "objectFileSize": 454243,
+      "objectDesignator": "Fold3 File #25573311",
+      "objectId": "196380268",
+      "objectDescription": "Names found on this page include: Bassett Taunton; [BLANK] Kempton; Henry Perkins; [BLANK] Claghorn; D D Addison. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4161779_00113.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/microfilm-publications/M804-RevolutionaryWarPensionAppFiles/0003/export_M804-RevolutionaryWarPensionAppFiles_1911_8481/images/4161779_00113.jpg",
+      "objectFileSize": 450348,
+      "objectDesignator": "Fold3 File #25573313",
+      "objectId": "196380269",
+      "objectDescription": "Names found on this page include: J L Hodges; Henry Perkins. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4161779_00114.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/microfilm-publications/M804-RevolutionaryWarPensionAppFiles/0003/export_M804-RevolutionaryWarPensionAppFiles_1911_8481/images/4161779_00114.jpg",
+      "objectFileSize": 455032,
+      "objectDesignator": "Fold3 File #25573315",
+      "objectId": "196380270",
+      "objectDescription": "Names found on this page include: Henry Perkins; Manasseh Kempton. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4161779_00115.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/microfilm-publications/M804-RevolutionaryWarPensionAppFiles/0003/export_M804-RevolutionaryWarPensionAppFiles_1911_8481/images/4161779_00115.jpg",
+      "objectFileSize": 456036,
+      "objectDesignator": "Fold3 File #25573317",
+      "objectId": "196380271",
+      "objectDescription": "Names found on this page include: George Claghorn. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4161779_00116.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/microfilm-publications/M804-RevolutionaryWarPensionAppFiles/0003/export_M804-RevolutionaryWarPensionAppFiles_1911_8481/images/4161779_00116.jpg",
+      "objectFileSize": 455326,
+      "objectDesignator": "Fold3 File #25573319",
+      "objectId": "196380272",
+      "objectDescription": "Names found on this page include: George Claghorn; John Sherman. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4161779_00117.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/microfilm-publications/M804-RevolutionaryWarPensionAppFiles/0003/export_M804-RevolutionaryWarPensionAppFiles_1911_8481/images/4161779_00117.jpg",
+      "objectFileSize": 457261,
+      "objectDesignator": "Fold3 File #25573321",
+      "objectId": "196380273",
+      "objectDescription": "Names found on this page include: Henry Perkins; H Baylies. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4161779_00118.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/microfilm-publications/M804-RevolutionaryWarPensionAppFiles/0003/export_M804-RevolutionaryWarPensionAppFiles_1911_8481/images/4161779_00118.jpg",
+      "objectFileSize": 449434,
+      "objectDesignator": "Fold3 File #25573323",
+      "objectId": "196380274",
+      "objectDescription": "Names found on this page include: David Mitchell; Alden Bradford; Heny Jenny; Henry Perkins. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4161779_00119.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/microfilm-publications/M804-RevolutionaryWarPensionAppFiles/0003/export_M804-RevolutionaryWarPensionAppFiles_1911_8481/images/4161779_00119.jpg",
+      "objectFileSize": 456753,
+      "objectDesignator": "Fold3 File #25573325",
+      "objectId": "196380275",
+      "objectDescription": "Names found on this page include: John Sherman; [BLANK] Claghorn; Henry Perkins. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4161779_00120.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/microfilm-publications/M804-RevolutionaryWarPensionAppFiles/0003/export_M804-RevolutionaryWarPensionAppFiles_1911_8481/images/4161779_00120.jpg",
+      "objectFileSize": 452808,
+      "objectDesignator": "Fold3 File #25573327",
+      "objectId": "196380276",
+      "objectDescription": "Names found on this page include: Jabez Hathaway; John Sherman; Daniel Hicks; Henry Perkins; Alden Bradford. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4161779_00121.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/microfilm-publications/M804-RevolutionaryWarPensionAppFiles/0003/export_M804-RevolutionaryWarPensionAppFiles_1911_8481/images/4161779_00121.jpg",
+      "objectFileSize": 453830,
+      "objectDesignator": "Fold3 File #25573329",
+      "objectId": "196380277",
+      "objectDescription": "Names found on this page include: Daniel Hix; Jabez Hathaway; Alden Bradford; Henry Perkins; Brownell Armsby. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4161779_00122.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/microfilm-publications/M804-RevolutionaryWarPensionAppFiles/0003/export_M804-RevolutionaryWarPensionAppFiles_1911_8481/images/4161779_00122.jpg",
+      "objectFileSize": 454510,
+      "objectDesignator": "Fold3 File #25573331",
+      "objectId": "196380278",
+      "objectDescription": "Names found on this page include: A Bradford; H Perkins. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4161779_00123.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/microfilm-publications/M804-RevolutionaryWarPensionAppFiles/0003/export_M804-RevolutionaryWarPensionAppFiles_1911_8481/images/4161779_00123.jpg",
+      "objectFileSize": 459016,
+      "objectDesignator": "Fold3 File #25573333",
+      "objectId": "196380279",
+      "objectDescription": "Names found on this page include: Henry Perkins; Anselm Bassett; Jabez Hathaway; Daniel Hix; H Baylies. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4161779_00124.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/microfilm-publications/M804-RevolutionaryWarPensionAppFiles/0003/export_M804-RevolutionaryWarPensionAppFiles_1911_8481/images/4161779_00124.jpg",
+      "objectFileSize": 452456,
+      "objectDesignator": "Fold3 File #25573335",
+      "objectId": "196380280",
+      "objectDescription": "Names found on this page include: Alden Bradford; Anselm Bassett. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4161779_00125.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/microfilm-publications/M804-RevolutionaryWarPensionAppFiles/0003/export_M804-RevolutionaryWarPensionAppFiles_1911_8481/images/4161779_00125.jpg",
+      "objectFileSize": 454212,
+      "objectDesignator": "Fold3 File #25573337",
+      "objectId": "196380281",
+      "objectDescription": "Names found on this page include: Henry Perkins; J L Hodges. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4161779_00126.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/microfilm-publications/M804-RevolutionaryWarPensionAppFiles/0003/export_M804-RevolutionaryWarPensionAppFiles_1911_8481/images/4161779_00126.jpg",
+      "objectFileSize": 451186,
+      "objectDesignator": "Fold3 File #25573339",
+      "objectId": "196380282",
+      "objectDescription": "Names found on this page include: [BLANK] Sherman; [BLANK] Claghorn; Henry Perkins; Wm C Easton; [BLANK] Kempton; [BLANK] Hacker. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4161779_00127.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/microfilm-publications/M804-RevolutionaryWarPensionAppFiles/0003/export_M804-RevolutionaryWarPensionAppFiles_1911_8481/images/4161779_00127.jpg",
+      "objectFileSize": 456628,
+      "objectDesignator": "Fold3 File #25573341",
+      "objectId": "196380283",
+      "objectDescription": "Names found on this page include: J J Perkins; Henry Perkins; Earl D Church. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4161779_00128.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/microfilm-publications/M804-RevolutionaryWarPensionAppFiles/0003/export_M804-RevolutionaryWarPensionAppFiles_1911_8481/images/4161779_00128.jpg",
+      "objectFileSize": 455528,
+      "objectDesignator": "Fold3 File #25573345",
+      "objectId": "196380284",
+      "objectDescription": "Names found on this page include: [BLANK] Hacker; John Sherman; Henry Perkins; Manasseh Kempton; George Claghorn. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4161779_00130.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/microfilm-publications/M804-RevolutionaryWarPensionAppFiles/0003/export_M804-RevolutionaryWarPensionAppFiles_1911_8481/images/4161779_00130.jpg",
+      "objectFileSize": 451754,
+      "objectDesignator": "Fold3 File #25573347",
+      "objectId": "196380285",
+      "objectDescription": "Names found on this page include: Abbie E P Budlong; John Pitman; Henry Perkins. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4161779_00131.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/microfilm-publications/M804-RevolutionaryWarPensionAppFiles/0003/export_M804-RevolutionaryWarPensionAppFiles_1911_8481/images/4161779_00131.jpg",
+      "objectFileSize": 455731,
+      "objectDesignator": "Fold3 File #25573349",
+      "objectId": "196380286",
+      "objectDescription": "Names found on this page include: Henry Perkins; Abbie E P Budlong; J J Perkins. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4161779_00132.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/microfilm-publications/M804-RevolutionaryWarPensionAppFiles/0003/export_M804-RevolutionaryWarPensionAppFiles_1911_8481/images/4161779_00132.jpg",
+      "objectFileSize": 450680,
+      "objectDesignator": "Fold3 File #25573351",
+      "objectId": "196380287",
+      "objectDescription": "Names found on this page include: Henry Perkins; [BLANK] Johnson; Lous [BLANK]; J L Hodges; John Olson. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4161779_00133.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/microfilm-publications/M804-RevolutionaryWarPensionAppFiles/0003/export_M804-RevolutionaryWarPensionAppFiles_1911_8481/images/4161779_00133.jpg",
+      "objectFileSize": 456963,
+      "objectDesignator": "Fold3 File #25573353",
+      "objectId": "196380288",
+      "objectDescription": "Names found on this page include: Henry Perkins. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4161779_00134.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/microfilm-publications/M804-RevolutionaryWarPensionAppFiles/0003/export_M804-RevolutionaryWarPensionAppFiles_1911_8481/images/4161779_00134.jpg",
+      "objectFileSize": 448888,
+      "objectDesignator": "Fold3 File #25573355",
+      "objectId": "196380289",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4161779_00135.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/microfilm-publications/M804-RevolutionaryWarPensionAppFiles/0003/export_M804-RevolutionaryWarPensionAppFiles_1911_8481/images/4161779_00135.jpg",
+      "objectFileSize": 453331,
+      "objectDesignator": "Fold3 File #25573357",
+      "objectId": "196380290",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4161779_00136.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/microfilm-publications/M804-RevolutionaryWarPensionAppFiles/0003/export_M804-RevolutionaryWarPensionAppFiles_1911_8481/images/4161779_00136.jpg",
+      "objectFileSize": 450952,
+      "objectDesignator": "Fold3 File #25573363",
+      "objectId": "196380291",
+      "objectDescription": "Names found on this page include: Henry Perkins; [BLANK] Snider; [BLANK] Cullum; [BLANK] Lease; [BLANK] Walker; E W Morgan; J J Perkins. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1773,
+        "logicalDate": "1773-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 15,
+      "inclusiveEndDate": {
+        "year": 2007,
+        "logicalDate": "2007-12-31"
+      },
+      "title": "Records of the Department of Veterans Affairs",
+      "naId": 344
+    },
+    {
+      "inclusiveStartDate": {
+        "dateQualifier": "ca.",
+        "year": 1800,
+        "logicalDate": "1800-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Predecessor",
+          "heading": "War Department. Military Bounty Lands and Pension Branch. ca. 1810-1815",
+          "abolishDate": {
+            "year": 1815,
+            "logicalDate": "1815-12-31"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1810,
+            "logicalDate": "1810-01-01"
+          },
+          "naId": 10447255
+        },
+        {
+          "creatorType": "Predecessor",
+          "heading": "War Department. Office of the Secretary. 1789-9/18/1947",
+          "abolishDate": {
+            "month": 9,
+            "year": 1947,
+            "day": 18,
+            "logicalDate": "1947-09-18"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1789,
+            "logicalDate": "1789-01-01"
+          },
+          "naId": 10450628
+        },
+        {
+          "creatorType": "Most Recent",
+          "heading": "Department of the Interior. Bureau of Pensions. 1849-1930",
+          "abolishDate": {
+            "year": 1930,
+            "logicalDate": "1930-12-31"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1849,
+            "logicalDate": "1849-01-01"
+          },
+          "naId": 10505832
+        }
+      ],
+      "inclusiveEndDate": {
+        "dateQualifier": "ca.",
+        "year": 1912,
+        "logicalDate": "1912-12-31"
+      },
+      "title": "Case Files of Pension and Bounty-Land Warrant Applications Based on Revolutionary War Service",
+      "naId": 300022
+    }
+  ],
+  "scopeAndContentNote": "Veteran's Service: Mass Navy.",
+  "naId": 196380266
+}

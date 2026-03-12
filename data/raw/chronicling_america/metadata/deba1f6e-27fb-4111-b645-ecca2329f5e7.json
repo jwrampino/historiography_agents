@@ -1,0 +1,169 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86063039/1896-03-27/ed-1/?sp=3"
+  ],
+  "batch": [
+    "idhi_galapagos_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/idaho/",
+    "2/united states/idaho/lincoln/",
+    "3/united states/idaho/lincoln/shoshone/",
+    "2/united states/idaho/logan/",
+    "3/united states/idaho/logan/shoshone/",
+    "2/united states/idaho/alturas/",
+    "3/united states/idaho/alturas/shoshone/"
+  ],
+  "contributor": [
+    "idaho state historical society"
+  ],
+  "date": "1896-03-27",
+  "dates": [
+    "1896-03-27"
+  ],
+  "description": [
+    "IT IS UTAHS TURN AT LAST Short Line Reorganization has Been Perfected Headquarter Will be HereA Prom inent boeal Han to Manure ItIn dependent of Other LinesEntire System to be Segregated from the I uion Pacifie and to be Operated in Friendly Both of the Unes East Traffic Relations with Salt Lake March 25 All arrange ments have been completed for the reorganization of the Oregon Short Line Si Utah Northern the separation of the system from the Union Pacific management and the operation of the road as an independent system with its headquarters in Salt Lake City and all its interests centered here It may be said farther that the gen eral manager of the new system will be a Utah man already very prominent in railroad official life He is recognized as one of the most capable officials in the country and an ardent friend of every thing that tends to promote the inter ests of Salt Lake Utah and the inter mountain region It is expected that the entire change will be effected the appointments of officials announced and the headquar ters of the Short Line established in this city within ninety days or by July ist"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-06T12:35:21.759Z",
+  "group": [
+    "ndnp/idhi",
+    "idaho-state-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86063039/1896-03-27/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_galapagos_ver01:data:sn86063039:00414211306:1896032701:0066/full/pct:6.25/0/default.jpg#h=402&w=275",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_galapagos_ver01:data:sn86063039:00414211306:1896032701:0066/full/pct:12.5/0/default.jpg#h=804&w=550",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/idhi/batch_idhi_galapagos_ver01/data/sn86063039/00414211306/1896032701/0066.xml&format=alto_xml"
+  ],
+  "index": 68,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "alturas",
+    "logan",
+    "lincoln",
+    "idaho",
+    "shoshone"
+  ],
+  "location_city": [
+    "shoshone"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lincoln",
+    "logan",
+    "alturas"
+  ],
+  "location_state": [
+    "idaho"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "0000000003",
+    "6",
+    "4",
+    "3",
+    "2",
+    "sn86063039"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86063039"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "2",
+    "1",
+    "1",
+    "3",
+    "0",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Shoshone journal and the southern Idaho Democrat"
+  ],
+  "page_id": "sn86063039-1896-03-27-ed-1-0066",
+  "partof": [
+    "shoshone journal (shoshone, idaho) 1884-1931",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "shoshone journal (shoshone, idaho) 1884-1931"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86063039/1896-03-27/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86063039/1896-03-27/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "logan",
+    "alturas",
+    "shoshone (idaho)",
+    "lincoln",
+    "idaho",
+    "shoshone",
+    "newspapers"
+  ],
+  "timestamp": "2023-07-06T21:03:46.008Z",
+  "title": "Image 3 of Shoshone journal (Shoshone, Idaho), March 27, 1896",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86063039/1896-03-27/ed-1/?sp=3&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fidhi%2Fbatch_idhi_galapagos_ver01%2Fdata%2Fsn86063039%2F00414211306%2F1896032701%2F0066.xml&q=cuba&relevant_snippet=1"
+}

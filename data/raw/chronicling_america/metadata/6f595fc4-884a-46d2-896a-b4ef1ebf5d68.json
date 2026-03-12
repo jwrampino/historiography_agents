@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn89055128/1921-01-14/ed-1/?sp=3"
+  ],
+  "batch": [
+    "idhi_kathmandu_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/idaho/",
+    "2/united states/idaho/latah/",
+    "3/united states/idaho/latah/moscow/"
+  ],
+  "contributor": [
+    "idaho state historical society"
+  ],
+  "date": "1921-01-14",
+  "dates": [
+    "1921-01-14"
+  ],
+  "description": [
+    "1 e jujus COMPANY A NATIONWIDE INSTITUTION J CL PENNET COMPANY A NATIONWIDE INSTITUTION J C PENNEY COMPANYA NATIONWIDE INSTITUTION noua I Putting Our House in Order To Meet New Conditions F 2 s V H A H g w H H X a VF p r Y A if A H V y I A j g s 2 S A r fS A The J C PENSEY CO Operating 312 Department Stores in 27 States will on SATURDAY JANUARY 15th open its doors with Recon struction Prices PrevailingEvery price in our stores is based upon our replacement price REGARDLESS OF PREVIOUS COST g Y\u00eb A g A A 4 H F B ELIEVING the time has arrived when revision of prices is warranted by replacement valuehaving discounted merchandise thousands of dollars in our inventory just completed we therefore give to the public the full benefit of the loss ssutain Remember we have said OUR REPLACEMENT PRICE which should prove doubly attractive Buying for 312 stores doing a yearly business of approximately FIFTY MILLION DOLLARS should be sufficient proof that our replacement price is substantial ly viewer than that of our competitors Do not confuse this with the usual"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-06T12:37:09.687Z",
+  "group": [
+    "ndnp/idhi",
+    "idaho-state-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn89055128/1921-01-14/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_kathmandu_ver02:data:sn89055128:00414211495:1921011401:0046/full/pct:6.25/0/default.jpg#h=445&w=300",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_kathmandu_ver02:data:sn89055128:00414211495:1921011401:0046/full/pct:12.5/0/default.jpg#h=890&w=600",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/idhi/batch_idhi_kathmandu_ver02/data/sn89055128/00414211495/1921011401/0046.xml&format=alto_xml"
+  ],
+  "index": 43,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "idaho",
+    "moscow",
+    "latah"
+  ],
+  "location_city": [
+    "moscow"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "latah"
+  ],
+  "location_state": [
+    "idaho"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000003",
+    "9",
+    "2",
+    "5",
+    "sn89055128",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn89055128"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "2",
+    "1",
+    "1",
+    "4",
+    "9",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Issue for September 3, 1916 has title: Sunday morning star-mirror"
+  ],
+  "page_id": "sn89055128-1921-01-14-ed-1-0046",
+  "partof": [
+    "the daily star-mirror (moscow, idaho) 1911-1939",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the daily star-mirror (moscow, idaho) 1911-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn89055128/1921-01-14/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn89055128/1921-01-14/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "moscow",
+    "idaho",
+    "moscow (idaho)",
+    "latah",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-07-07T02:02:01.102Z",
+  "title": "Image 3 of The daily star-mirror (Moscow, Idaho), January 14, 1921",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn89055128/1921-01-14/ed-1/?sp=3&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fidhi%2Fbatch_idhi_kathmandu_ver02%2Fdata%2Fsn89055128%2F00414211495%2F1921011401%2F0046.xml&q=reconstruction&relevant_snippet=1"
+}

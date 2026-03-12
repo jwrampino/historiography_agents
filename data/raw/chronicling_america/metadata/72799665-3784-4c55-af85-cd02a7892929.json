@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1940-10-13/ed-1/?sp=19"
+  ],
+  "batch": [
+    "dlc_1rothko_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1940-10-13",
+  "dates": [
+    "1940-10-13"
+  ],
+  "description": [
+    "D C Medical Society Will Open Annual Assembly Tuesday CardiovascularRenal Diseases to Be Topic For Discussion Hie annual scientific assembly of the Medical Society of the District of Columbia will open Tuesday at the Mayflower Hotel and continue through Thursday It will center on the subject of cardiovascularrenal diseases which in the last decade have become the most important cause of death in the United States and which are of j apecial significance to Washington physicains because of the somewhat higher age level of the District com pared with that of the country as a whole Space for scientific exhibits has been doubled this year according to Dr John A Reed general chair man A new feature will be the doc tors hobby show in which about 80 physicians will participate Exhibits will include stamp and art collec tions model boats and trains needlepoint paintings and photo graphs A public meeting will be held at 830 pm on Wednesday in the Mayflower ballroom at which the speakers will be Senator William H King of Utah and Dr Harry Stack Sullivan one of the countrys foremost psychiatrists Maj Gen James C Magee of the Army Med ical Corps will discuss the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:39:48.426Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1940-10-13/ed-1/?sp=19",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1rothko_ver02:data:sn83045462:0028060303A:1940101301:0445/full/pct:6.25/0/default.jpg#h=489&w=347",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1rothko_ver02:data:sn83045462:0028060303A:1940101301:0445/full/pct:12.5/0/default.jpg#h=978&w=695",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1rothko_ver02/data/sn83045462/0028060303A/1940101301/0445.xml&format=alto_xml"
+  ],
+  "index": 6,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "a",
+    "2",
+    "sn83045462",
+    "8",
+    "6",
+    "3",
+    "0000000019",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000019"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "3",
+    "0",
+    "3",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1940-10-13-ed-1-0445",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1940-10-13/ed-1/?sp=19"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1940-10-13/ed-1/"
+  ],
+  "shelf_id": "019",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2022-10-25T00:09:56.782Z",
+  "title": "Image 19 of Evening star (Washington, D.C.), October 13, 1940",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1940-10-13/ed-1/?sp=19&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_1rothko_ver02%2Fdata%2Fsn83045462%2F0028060303A%2F1940101301%2F0445.xml&q=medicine&relevant_snippet=1"
+}

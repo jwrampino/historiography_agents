@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1929-05-26/ed-1/?sp=13"
+  ],
+  "batch": [
+    "dlc_lateef_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1929-05-26",
+  "dates": [
+    "1929-05-26"
+  ],
+  "description": [
+    "NYE AND BOX ARGUE NATIONAL ORIGINS North Dakotan Attacks Clause as Texan Defends It in Radio Forum fContinnwt Ftom Flrafr Page immigrants a proportionate iiaenesa of ur present population and population of our country at Its inception back in the colonial days If a given percent age of our whole population traced its ancestry back let us say to Norway then under the national origins plan of immigration quotas the number of im migrants admitted annually from Nor way would be the same percentage of the total number of immigrants to be admitted the total number being fixed at 150000 That wa the theory of the national origins plan Who could enmplain against such a plan None dared to none wanted to Time tr Work Quotas However it was set the time conceded that it would take some little time to work out the quotas on this basis and theory and It was necessary to set up wane temporary machinery no govern quotas until the national origins quotas should be determined It was deter j rained to admit ftom each of the quota countries 2 per cent of the total foreign hem population found in America ftom those quota countrim"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:31:35.304Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1929-05-26/ed-1/?sp=13",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lateef_ver01:data:sn83045462:00280600209:1929052601:0553/full/pct:3.125/0/default.jpg#h=262&w=207",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lateef_ver01:data:sn83045462:00280600209:1929052601:0553/full/pct:6.25/0/default.jpg#h=525&w=414",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lateef_ver01:data:sn83045462:00280600209:1929052601:0553/full/pct:12.5/0/default.jpg#h=1050&w=828",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_lateef_ver01/data/sn83045462/00280600209/1929052601/0553.xml&format=alto_xml"
+  ],
+  "index": 14,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "district of columbia",
+    "washington d.c.",
+    "washington",
+    "united states"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "8",
+    "0",
+    "2",
+    "sn83045462",
+    "9",
+    "1",
+    "0000000013",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000013"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "0",
+    "2",
+    "0",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1929-05-26-ed-1-0553",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1929-05-26/ed-1/?sp=13"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1929-05-26/ed-1/"
+  ],
+  "shelf_id": "013",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)",
+    "washington",
+    "united states"
+  ],
+  "timestamp": "2022-10-25T12:41:08.093Z",
+  "title": "Image 13 of Evening star (Washington, D.C.), May 26, 1929",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1929-05-26/ed-1/?sp=13&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_lateef_ver01%2Fdata%2Fsn83045462%2F00280600209%2F1929052601%2F0553.xml&q=immigration&relevant_snippet=1"
+}

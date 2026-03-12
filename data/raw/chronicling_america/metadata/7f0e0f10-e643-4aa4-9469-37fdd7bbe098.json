@@ -1,0 +1,168 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85042303/1903-03-19/ed-1/?sp=7"
+  ],
+  "batch": [
+    "okhi_jackson_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/oklahoma/",
+    "2/united states/oklahoma/carter/",
+    "3/united states/oklahoma/carter/ardmore/"
+  ],
+  "contributor": [
+    "oklahoma historical society"
+  ],
+  "date": "1903-03-19",
+  "dates": [
+    "1903-03-19"
+  ],
+  "description": [
+    "TO MINE ITS OWN COAL Rock Island Takes Charge of Harts home and Gowen Mines South McAloster I T Mar 18 Tho Hock Island railroad today took charge of tho Choctaw mines at Harts homo and Coven which have hlthor to been mnnngcd for the railroad by tho McAlcstcr Coal Co under a con tract made with tho old owners of tho Choctaw ralroad Ever slnco tho Rock Island bought the Choctaw there havo been rumors of a cancellation of tho contract with tho coal company which was regarded aB ever favorable to tho managers tho railroad bearing all tho expense of mining and tho coal company being paid six cents per ton for coal mined merely for manage ment The contract had six years to run but has been relinquished on tho payment of 20000 In cash and tho assignment of tho leaso to 480 acres of coal land west of Gowen owned by tho railroad Tho Choctaw railroad after some oxperlenco with oporattng Its own mines made tho contract with tho coal company and tho change Indicates that It la tho settled policy of tho Ttock Island to operate Its own mines tho work being under tho chargo"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T15:06:20.917Z",
+  "group": [
+    "ndnp/okhi",
+    "oklahoma-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85042303/1903-03-19/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_jackson_ver01:data:sn85042303:00237281147:1903031901:0951/full/pct:6.25/0/default.jpg#h=402&w=280",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_jackson_ver01:data:sn85042303:00237281147:1903031901:0951/full/pct:12.5/0/default.jpg#h=805&w=561",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/okhi/batch_okhi_jackson_ver01/data/sn85042303/00237281147/1903031901/0951.xml&format=alto_xml"
+  ],
+  "index": 172,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "chickasaw nation",
+    "united states",
+    "oklahoma",
+    "ardmore",
+    "carter",
+    "carter county"
+  ],
+  "location_city": [
+    "ardmore"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "carter"
+  ],
+  "location_state": [
+    "oklahoma"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "0000000007",
+    "2",
+    "1",
+    "4",
+    "7",
+    "sn85042303",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85042303"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "3",
+    "7",
+    "2",
+    "8",
+    "1",
+    "1",
+    "4",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday Ardmoreite-press",
+    "Ardmoreite",
+    "Evening Ardmoreite",
+    "Morning Ardmoreite"
+  ],
+  "page_id": "sn85042303-1903-03-19-ed-1-0951",
+  "partof": [
+    "chronicling america",
+    "the daily ardmoreite (ardmore, okla.) 1893-current",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the daily ardmoreite (ardmore, okla.) 1893-current"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85042303/1903-03-19/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85042303/1903-03-19/ed-1/"
+  ],
+  "shelf_id": "7",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "carter",
+    "united states",
+    "newspapers",
+    "oklahoma",
+    "carter county (okla.)",
+    "ardmore",
+    "chickasaw nation, oklahoma",
+    "carter county",
+    "ardmore (okla.)"
+  ],
+  "timestamp": "2022-11-18T14:14:09.495Z",
+  "title": "Image 7 of The Daily Ardmoreite (Ardmore, Okla.), March 19, 1903",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85042303/1903-03-19/ed-1/?sp=7&q=indian+territory",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fokhi%2Fbatch_okhi_jackson_ver01%2Fdata%2Fsn85042303%2F00237281147%2F1903031901%2F0951.xml&q=indian+territory&relevant_snippet=1"
+}

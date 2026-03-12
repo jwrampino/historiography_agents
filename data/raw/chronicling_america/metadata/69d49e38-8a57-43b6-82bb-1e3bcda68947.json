@@ -1,0 +1,181 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85044791/1959-07-30/ed-1/?sp=3"
+  ],
+  "batch": [
+    "msar_lapis_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/alabama/",
+    "2/united states/alabama/baldwin/",
+    "3/united states/alabama/baldwin/fairhope/",
+    "1/united states/mississippi/",
+    "2/united states/mississippi/forrest/",
+    "3/united states/mississippi/forrest/petal/",
+    "3/united states/mississippi/forrest/hattiesburg/"
+  ],
+  "contributor": [
+    "mississippi department of archives and history"
+  ],
+  "date": "1959-07-30",
+  "dates": [
+    "1959-07-30"
+  ],
+  "description": [
+    "Proposal Sixthly this would be a great inducement to marriage which all wise nations have either en couraged by rewards or enforced by laws and penalties It would increase the care and tenderness of mothers toward their children when they were sure of a settle ment for life to the poor babes provided in some sort by the public to their annual profit in stead of expense We should see an honest emulation among the married women which of them could bring the fattest child to the market men would become as fond of their wives during the time of their pregnancy as they are now of their mares in foal their cows in calf or sows when they are ready to farrow nor offer to beat or kick them as it is too frequent a practice for fear of a miscarriage Many other advantages might be enumerated For instance the addition of some thousand car casses in our exportation of bar reled beef the propagation of swines flesh and improvement in the art of making good bacon so much wanted among us by the great destruction of pigs too fre quent at our tables which are no way comparable"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:44:53.044Z",
+  "group": [
+    "ndnp/msar",
+    "mississippi-department-of-archives-and-history"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85044791/1959-07-30/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lapis_ver01:data:sn85044791:00383345066:1959073001:0679/full/pct:6.25/0/default.jpg#h=461&w=296",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lapis_ver01:data:sn85044791:00383345066:1959073001:0679/full/pct:12.5/0/default.jpg#h=922&w=592",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/msar/batch_msar_lapis_ver01/data/sn85044791/00383345066/1959073001/0679.xml&format=alto_xml"
+  ],
+  "index": 191,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "hattiesburg",
+    "petal",
+    "united states",
+    "baldwin county",
+    "mississippi",
+    "fairhope",
+    "alabama",
+    "forrest",
+    "baldwin",
+    "forrest county"
+  ],
+  "location_city": [
+    "fairhope",
+    "petal",
+    "hattiesburg"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "baldwin",
+    "forrest"
+  ],
+  "location_state": [
+    "alabama",
+    "mississippi"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000003",
+    "0",
+    "3",
+    "4",
+    "5",
+    "6",
+    "1",
+    "sn85044791",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85044791"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "8",
+    "3",
+    "3",
+    "4",
+    "5",
+    "0",
+    "6",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85044791-1959-07-30-ed-1-0679",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the petal paper (petal, miss.) 1953-19??"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the petal paper (petal, miss.) 1953-19??"
+  ],
+  "publication_frequency": [
+    "monthly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85044791/1959-07-30/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85044791/1959-07-30/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "hattiesburg",
+    "petal (miss.)",
+    "petal",
+    "united states",
+    "baldwin county",
+    "newspapers",
+    "alabama",
+    "fairhope",
+    "baldwin county (ala.)",
+    "mississippi",
+    "fairhope (ala.)",
+    "hattiesburg (miss.)",
+    "forrest",
+    "baldwin",
+    "forrest county",
+    "forrest county (miss.)"
+  ],
+  "timestamp": "2023-07-06T06:13:01.971Z",
+  "title": "Image 3 of The Petal paper (Petal, Miss.), July 30, 1959",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85044791/1959-07-30/ed-1/?sp=3&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmsar%2Fbatch_msar_lapis_ver01%2Fdata%2Fsn85044791%2F00383345066%2F1959073001%2F0679.xml&q=computers&relevant_snippet=1"
+}

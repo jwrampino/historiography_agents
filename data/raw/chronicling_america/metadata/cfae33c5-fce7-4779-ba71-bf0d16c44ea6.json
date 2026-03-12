@@ -1,0 +1,131 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16086/?sp=4"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1805-08-27",
+  "dates": [
+    "1805-08-27"
+  ],
+  "description": [
+    "Ss eaten a _ clock in themorning the fleet has loft its princi pal commander in the perfon of Admiral BruikIn _ teftimany of his rare virtues and eminent talents we Rave paid every juft tribute of regret to his memory _ and in partaking in theaffliion which ought to be _ felt by every feaman a friend to his countryhe has left behind hima bright example to imitate _ of the fleet I thall employ every effort in my power zeal and by your courage an defence of ourcountry and the glory of our moft oop threw the difpatches overboard He Writes from 6n board La Neptune the French flag hip that heand his crew are well treated eee We have thepleafure to lay before our rea ders the following letter which confirms the aifertion we havemore than once made with refpectto the falfehood of the Moniteur ac count of the Malta convoy The whole amount of the captures made by the enemy is now roved to be only the Arrow floop Acheron jomb the HervineSinyrna thip and two brigs 4 Minehead 16th March 1805 The brigsJobanna Frederica Michael Frattcig Calafor\u00e9 Mafter from Malaga bound to mbden came to"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16086/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16086:0004/full/pct:6.25/0/default.jpg#h=487&w=336",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16086:0004/full/pct:12.5/0/default.jpg#h=974&w=672",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16086:0004/full/pct:25.0/0/default.jpg#h=1948&w=1345",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16086:0004/full/pct:50.0/0/default.jpg#h=3897&w=2690",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16086:0004/full/pct:100.0/0/default.jpg#h=7794&w=5381",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16086/0004.alto.xml&format=alto_xml"
+  ],
+  "index": 42,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "india",
+    "calcutta"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "sn88063570",
+    "0000000004",
+    "sn88063571",
+    "sn88063569",
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16086-0004-alto",
+  "partof": [
+    "asian division",
+    "general collections",
+    "world newspapers",
+    "catalog",
+    "south asian digital collection",
+    "serial and government publications division",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "world digital library"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16086/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16086/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "india",
+    "calcutta"
+  ],
+  "timestamp": "2025-12-12T07:20:00.836Z",
+  "title": "Image 4 of Volume 11, Number 554, Tuesday, August 27, 1805 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16086/?sp=4&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16086%2F0004.alto.xml&q=great+war&relevant_snippet=1"
+}

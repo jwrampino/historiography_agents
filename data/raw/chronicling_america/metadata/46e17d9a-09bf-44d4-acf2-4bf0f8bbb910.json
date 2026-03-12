@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82015313/1933-06-28/ed-1/?sp=7"
+  ],
+  "batch": [
+    "in_ingersoll_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/indiana/",
+    "2/united states/indiana/marion/",
+    "3/united states/indiana/marion/indianapolis/"
+  ],
+  "contributor": [
+    "indiana state library"
+  ],
+  "date": "1933-06-28",
+  "dates": [
+    "1933-06-28"
+  ],
+  "description": [
+    "JUNE 28 1933 Dietz on Science SCIENCE MARKS VICTORY WEEK AT EXPOSITION World Convention Sees Greater Conquests for Future BY DAVID DIETZ SerlppaHow ard Science Editor CHICAGO June 28 Last week was one of triumph for the world of science In a setting provided by two great universities the Univer sity of Chicago and Northwestern university and with magnificent Century of Progress fair as a back ground savants from two continents have reported victory after victory over problems which had previously baffled them for decadej and in some cases centuries Half a year ago when the Ameri can Association for the Advance ment of Science vas in session at Atlantic City one had rne feeling that the savants were a little be wildered by the wealth of experi mental data that was accumulating in the field of physics chemistry and astronomy At the present meeting of the same association now in session here one feels that in the last six months scientists have found the path out of the tangle and that science is marching forward with rapid strides to greater and great er conquests Forge New Branch Anew branch of science is being forged It deals with the heart"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-22T13:13:20.304Z",
+  "group": [
+    "ndnp/in",
+    "indiana-state-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82015313/1933-06-28/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ingersoll_ver01:data:sn82015313:00383349527:1933062801:0301/full/pct:3.125/0/default.jpg#h=282&w=204",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ingersoll_ver01:data:sn82015313:00383349527:1933062801:0301/full/pct:6.25/0/default.jpg#h=565&w=409",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ingersoll_ver01:data:sn82015313:00383349527:1933062801:0301/full/pct:12.5/0/default.jpg#h=1130&w=819",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/in/batch_in_ingersoll_ver01/data/sn82015313/00383349527/1933062801/0301.xml&format=alto_xml"
+  ],
+  "index": 77,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "indianapolis",
+    "marion county",
+    "marion",
+    "indiana",
+    "united states"
+  ],
+  "location_city": [
+    "indianapolis"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "marion"
+  ],
+  "location_state": [
+    "indiana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "1",
+    "8",
+    "0",
+    "2",
+    "7",
+    "9",
+    "sn82015313",
+    "0000000007",
+    "3",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82015313"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "8",
+    "3",
+    "3",
+    "4",
+    "9",
+    "5",
+    "2",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82015313-1933-06-28-ed-1-0301",
+  "partof": [
+    "the indianapolis times (indianapolis [ind.]) 1922-1965",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the indianapolis times (indianapolis [ind.]) 1922-1965"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82015313/1933-06-28/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82015313/1933-06-28/ed-1/"
+  ],
+  "shelf_id": "07",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "indianapolis (ind.)",
+    "indianapolis",
+    "newspapers",
+    "marion county",
+    "marion county (ind.)",
+    "marion",
+    "indiana",
+    "united states"
+  ],
+  "timestamp": "2023-08-23T07:39:58.113Z",
+  "title": "Image 7 of The Indianapolis times (Indianapolis [Ind.]), June 28, 1933, (Home Edition)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82015313/1933-06-28/ed-1/?sp=7&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fin%2Fbatch_in_ingersoll_ver01%2Fdata%2Fsn82015313%2F00383349527%2F1933062801%2F0301.xml&q=nuclear&relevant_snippet=1"
+}

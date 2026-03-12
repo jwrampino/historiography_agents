@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1937-05-24/ed-1/?sp=6"
+  ],
+  "batch": [
+    "dlc_1johns_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1937-05-24",
+  "dates": [
+    "1937-05-24"
+  ],
+  "description": [
+    "SHUTE IS FAVORED AS P G A STARTS Five Other Golfers Liked as Championship Play Gets Under Way PITTSBURGH FIELD CLUB As pinwall Pa May 24The Twentieth Professional Golfers Association championship started under a bril liant sun at the Field Club this morn ing with six players Including De fending Champion Denny Shute of Boston favored to win The first 18 holes of the 36hole Qualifying round was on todays schedule The second qualifying round will be played tomorrow with the low 63 playeTs and Shute who does not have to qualify advancing into match play The other five betting favorities all at 201 were Sam Snead White Sulphur Springs W Va Johnny Revolta Evanston 111 Harry Cooper and Horton Smith Chicago and Henry Picard Hershey Pa Picards approach was short on the par 4 first and he then threeputted for a 6 The lanky star settled down to par figures for the next five holes Former Champions Gene Sarazen and Tommy Armour were even par for three holes Sarazen laying a pitch still on the second for a birdie 3 to offset the 5 his three putts brought on the first Armour with a 5 on the first evened"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:38:17.629Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1937-05-24/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1johns_ver01:data:sn83045462:00280601949:1937052401:0280/full/pct:6.25/0/default.jpg#h=486&w=344",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1johns_ver01:data:sn83045462:00280601949:1937052401:0280/full/pct:12.5/0/default.jpg#h=973&w=689",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1johns_ver01/data/sn83045462/00280601949/1937052401/0280.xml&format=alto_xml"
+  ],
+  "index": 145,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "9",
+    "0000000006",
+    "4",
+    "sn83045462",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "1",
+    "9",
+    "4",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1937-05-24-ed-1-0280",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1937-05-24/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1937-05-24/ed-1/"
+  ],
+  "shelf_id": "06",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-24T20:30:34.942Z",
+  "title": "Image 6 of Evening star (Washington, D.C.), May 24, 1937",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1937-05-24/ed-1/?sp=6&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_1johns_ver01%2Fdata%2Fsn83045462%2F00280601949%2F1937052401%2F0280.xml&q=child+labor&relevant_snippet=1"
+}

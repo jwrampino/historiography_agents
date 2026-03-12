@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84026355/1898-07-30/ed-1/?sp=1"
+  ],
+  "batch": [
+    "pst_atherton_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/pennsylvania/",
+    "2/united states/pennsylvania/lackawanna/",
+    "3/united states/pennsylvania/lackawanna/scranton/"
+  ],
+  "contributor": [
+    "penn state university libraries; university park, pa"
+  ],
+  "date": "1898-07-30",
+  "dates": [
+    "1898-07-30"
+  ],
+  "description": [
+    "1IJD izffl SSorrleWR TWO CENTS TEW PGES SCR ANTON PA SATURDAY MORNING JULY 30 1898 TEN PAGES TWO CENTS fgSSfiiTiMWRU fwsgag DISAGREEMENT ON PHILIPPINES President and Advisers Unable to Settle on a Course of Action The Other Propositions Regarding a Settlement of War Claims and Questions Meet with No Opposition Span ish Authority Over the West Indian Waters Must Be Removed Washington July 29 Nearly Ave hours earnest discussion by the presi dent nnd his constitutional advisers ot the nature of the response to be made by the government to the Spanish overtures for peace brought no con clusion and the subject necessarily was postponed for further consideration at another meeting of the cabinet to bo held at half past 10 oclock tomorrow morning Such was the formal state ment of the situation made at the con clusion of the days work by each mem ber of the cabinet who was questioned upon the subject A final conclusion however Is much nearer than this statement would seem to Indicate and Indeed there Is little reason to doubt that an agreement has been reached upon all the substantial points at Is sue nnd that what remains to bo done tomorrow Is"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-10-07T22:17:45.838Z",
+  "group": [
+    "ndnp/pst",
+    "penn-state-university-libraries-university-park-pa-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84026355/1898-07-30/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:0021110028A:1898073001:0230/full/pct:6.25/0/default.jpg#h=453&w=337",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:0021110028A:1898073001:0230/full/pct:12.5/0/default.jpg#h=907&w=674",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/pst/batch_pst_atherton_ver01/data/sn84026355/0021110028A/1898073001/0230.xml&format=alto_xml"
+  ],
+  "index": 194,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "scranton",
+    "lackawanna",
+    "lackawanna county",
+    "pennsylvania",
+    "united states"
+  ],
+  "location_city": [
+    "scranton"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lackawanna"
+  ],
+  "location_state": [
+    "pennsylvania"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "8",
+    "0",
+    "2",
+    "a",
+    "sn84026355",
+    "1",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84026355"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "1",
+    "1",
+    "0",
+    "0",
+    "2",
+    "8",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84026355-1898-07-30-ed-1-0230",
+  "partof": [
+    "the scranton tribune (scranton, pa.) 1891-1910",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the scranton tribune (scranton, pa.) 1891-1910"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84026355/1898-07-30/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84026355/1898-07-30/ed-1/"
+  ],
+  "shelf_id": "01",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "scranton",
+    "lackawanna",
+    "lackawanna county (pa.)",
+    "scranton (pa.)",
+    "pennsylvania",
+    "united states"
+  ],
+  "timestamp": "2022-10-27T13:21:15.278Z",
+  "title": "Image 1 of The Scranton tribune (Scranton, Pa.), July 30, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84026355/1898-07-30/ed-1/?sp=1&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fpst%2Fbatch_pst_atherton_ver01%2Fdata%2Fsn84026355%2F0021110028A%2F1898073001%2F0230.xml&q=spanish&relevant_snippet=1"
+}

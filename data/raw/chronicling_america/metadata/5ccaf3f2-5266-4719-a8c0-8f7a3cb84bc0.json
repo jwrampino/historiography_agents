@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83016348/1913-01-04/ed-1/?sp=7"
+  ],
+  "batch": [
+    "mdu_glass_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/maryland/",
+    "2/united states/maryland/cecil/",
+    "3/united states/maryland/cecil/elkton/"
+  ],
+  "contributor": [
+    "university of maryland, college park, md"
+  ],
+  "date": "1913-01-04",
+  "dates": [
+    "1913-01-04"
+  ],
+  "description": [
+    "IMMIGRATION AND LABOR In bis book on Immigration and La bor Dr Houtwioh treats the problems purely as an economist and with accu rate data to support all his statements Xa the Summary Review with which his hook opens Dr Hourwich outlines what he demonstrates In the remainder of the volume Many of the facts will be surprising to the reader It is not generally known for example that there was as much opposition to the Immigra tion of the early part of the nineteenth century as there is to that of today nor that the immigrants then coming from Great Britain and Ireland were not con sidered either financially or otherwise more desirable than those coming at the present time from Southern and Eastern Europe The close relationship between indus trial prosperity and high Immigration and between industrial depression and reduced immigration has often been not ed But it remained for Dr Hourwich to point out the very simple fact which explains this relationship The immi grant comes upon the Invitation of his relative already here When times are good this Invitation is freely extended When times are bad not only is it with held but on the contrary"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-03-01T18:25:50.658Z",
+  "group": [
+    "ndnp/mdu",
+    "university-of-maryland-college-park-college-park-md-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83016348/1913-01-04/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_glass_ver02:data:sn83016348:0041562542A:1913010401:0432/full/pct:3.125/0/default.jpg#h=260&w=180",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_glass_ver02:data:sn83016348:0041562542A:1913010401:0432/full/pct:6.25/0/default.jpg#h=520&w=360",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_glass_ver02:data:sn83016348:0041562542A:1913010401:0432/full/pct:12.5/0/default.jpg#h=1040&w=720",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mdu/batch_mdu_glass_ver02/data/sn83016348/0041562542A/1913010401/0432.xml&format=alto_xml"
+  ],
+  "index": 6,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "cecil county",
+    "elkton",
+    "maryland",
+    "cecil",
+    "united states"
+  ],
+  "location_city": [
+    "elkton"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cecil"
+  ],
+  "location_state": [
+    "maryland"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0",
+    "2",
+    "sn83016348",
+    "a",
+    "1",
+    "0000000007",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83016348"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "2",
+    "5",
+    "4",
+    "2",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83016348-1913-01-04-ed-1-0432",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the cecil whig (elkton, md.) 1841-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the cecil whig (elkton, md.) 1841-current"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83016348/1913-01-04/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83016348/1913-01-04/ed-1/"
+  ],
+  "shelf_id": "7",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "cecil county",
+    "elkton",
+    "maryland",
+    "elkton (md.)",
+    "cecil county (md.)",
+    "cecil",
+    "politics and government",
+    "united states"
+  ],
+  "timestamp": "2023-03-07T15:26:01.971Z",
+  "title": "Image 7 of The Cecil Whig (Elkton, Md.), January 4, 1913",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83016348/1913-01-04/ed-1/?sp=7&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmdu%2Fbatch_mdu_glass_ver02%2Fdata%2Fsn83016348%2F0041562542A%2F1913010401%2F0432.xml&q=immigration&relevant_snippet=1"
+}

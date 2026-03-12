@@ -1,0 +1,169 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85009852/1962-12-31/ed-1/?sp=5"
+  ],
+  "batch": [
+    "ct_dinomayo_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/connecticut/",
+    "2/united states/connecticut/hartford/",
+    "3/united states/connecticut/hartford/new britain/"
+  ],
+  "contributor": [
+    "connecticut state library, hartford, ct"
+  ],
+  "date": "1962-12-31",
+  "dates": [
+    "1962-12-31"
+  ],
+  "description": [
+    "PAGE 5 East Harttord Conn Gazette MONDAY UEcExunEK 31 1962 L AC Continued From Page 1 the nations largest fighter aircraft program since World War 11 Production during the year rose slightly above the level of the year before and con struction of new facilities was undertaken on the east and west coasts Gwinn reported To ensure the companys growth in the years ahead its e search and development teams pursued a broad range of projects on the frontiers of tech nology More than 60000 per sons were employed by United Aircraft at the end of 1962 United added its sixth oper ating division late in the year by assigning autonomous div isional status to United Tech nology Corporation and renam ing it United Technology Cen ter This organization with headquarters in Sunnyvale California had been a subsi diary of United Aircraft since its formation in 1958 UTCs capabilities in solid rocketry demonstrated over a fouryear period of research development and testing con ducted largely with corporate funds led to its being selected by the Air Force to design and build the solid propellant booster motors for the Titan HI a standardized launch for space missions The vehicles first stage"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-01-19T03:42:10.030Z",
+  "group": [
+    "ndnp/ct",
+    "connecticut-state-library-hartford-ct-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85009852/1962-12-31/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_dinomayo_ver02:data:sn85009852:00517174944:1962123101:0621/full/pct:3.125/0/default.jpg#h=295&w=206",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_dinomayo_ver02:data:sn85009852:00517174944:1962123101:0621/full/pct:6.25/0/default.jpg#h=590&w=412",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_dinomayo_ver02:data:sn85009852:00517174944:1962123101:0621/full/pct:12.5/0/default.jpg#h=1180&w=825",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ct/batch_ct_dinomayo_ver02/data/sn85009852/00517174944/1962123101/0621.xml&format=alto_xml"
+  ],
+  "index": 70,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "new britain",
+    "united states",
+    "connecticut",
+    "glastonbury",
+    "east windsor",
+    "east hartford",
+    "south windsor",
+    "hartford"
+  ],
+  "location_city": [
+    "new britain"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hartford"
+  ],
+  "location_state": [
+    "connecticut"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "5",
+    "1",
+    "4",
+    "7",
+    "sn85009852",
+    "0000000005"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85009852"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "4",
+    "9",
+    "4",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85009852-1962-12-31-ed-1-0621",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the east hartford gazette (east hartford, conn.) 1942-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the east hartford gazette (east hartford, conn.) 1942-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85009852/1962-12-31/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85009852/1962-12-31/ed-1/"
+  ],
+  "shelf_id": "5",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "glastonbury (conn.)",
+    "new britain",
+    "united states",
+    "connecticut",
+    "newspapers",
+    "east hartford",
+    "east windsor",
+    "glastonbury",
+    "south windsor",
+    "hartford",
+    "east windsor (conn.)",
+    "east hartford (conn.)",
+    "south windsor (conn.)"
+  ],
+  "timestamp": "2025-01-19T04:24:17.134Z",
+  "title": "Image 5 of The East Hartford gazette (East Hartford, Conn.), December 31, 1962",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85009852/1962-12-31/ed-1/?sp=5&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fct%2Fbatch_ct_dinomayo_ver02%2Fdata%2Fsn85009852%2F00517174944%2F1962123101%2F0621.xml&q=nuclear&relevant_snippet=1"
+}

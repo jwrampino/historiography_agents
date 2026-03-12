@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2019270505/1948-05-27/ed-1/?sp=1"
+  ],
+  "batch": [
+    "nbu_indescribablebeast_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nebraska/",
+    "2/united states/nebraska/lancaster/",
+    "3/united states/nebraska/lancaster/lincoln/"
+  ],
+  "contributor": [
+    "university of nebraska-lincoln libraries, lincoln, ne"
+  ],
+  "date": "1948-05-27",
+  "dates": [
+    "1948-05-27"
+  ],
+  "description": [
+    "Volume 2 Number 33 _Lincoln 3 Nebraska Thursday May 27 1948 DR I A DERBIGNY Administrative dean of Tus kegee institute author of a book General Education in the Negro College published re cently by Stanford University press He has been Tuskegees administrative dean since 1936 He formerly was head of Talla degas chemistry department and also thescience department at Virginia State college Courier Reporter Newsman of Year WASHINGTON ANP Lem uel Graves jr Washington cor respondent for The Pittsburgh Courier was selected newsmens newsman of the year by the Capi tol Press Club His citation was presented by the club president Herbert Hene gan at the clubs annual dinner Fr Flanagan of Boys9 Town9 Dies Rev E J Flanagan founder of Boys Town in Nebraska died after being stricken with a heart ailment in the Army Hospital in Berlin The famed Nebraska priest who would have been 62 years old on July 13 was taken suddenly ill here while on an inspection tour of German youth facilities at the invitation of the U S Army Boys Town on the outskirts of Omaha was founded by Father Flanagan in 1917 and has obtained international recognition with his credo There is"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:41:51.171Z",
+  "group": [
+    "ndnp/nbu",
+    "university-of-nebraska-of-nebraska-lincoln-libraries-lincoln-ne-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2019270505/1948-05-27/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indescribablebeast_ver01:data:2019270505:00332899260:1948052701:0504/full/pct:6.25/0/default.jpg#h=437&w=305",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indescribablebeast_ver01:data:2019270505:00332899260:1948052701:0504/full/pct:12.5/0/default.jpg#h=874&w=610",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nbu/batch_nbu_indescribablebeast_ver01/data/2019270505/00332899260/1948052701/0504.xml&format=alto_xml"
+  ],
+  "index": 106,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "lincoln",
+    "nebraska",
+    "lancaster"
+  ],
+  "location_city": [
+    "lincoln"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lancaster"
+  ],
+  "location_state": [
+    "nebraska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "9",
+    "6",
+    "3",
+    "2019270505",
+    "2",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2019270505"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "9",
+    "2",
+    "6",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2019270505-1948-05-27-ed-1-0504",
+  "partof": [
+    "the voice (lincoln, nebraska) 1946-195?",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the voice (lincoln, nebraska) 1946-195?"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2019270505/1948-05-27/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2019270505/1948-05-27/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "african american newspapers",
+    "lincoln (neb.)",
+    "lancaster",
+    "african american",
+    "lincoln",
+    "newspapers",
+    "african americans",
+    "nebraska"
+  ],
+  "subject_ethnicity": [
+    "african american"
+  ],
+  "timestamp": "2025-12-15T05:07:12.380Z",
+  "title": "Image 1 of The voice (Lincoln, Nebraska), May 27, 1948",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2019270505/1948-05-27/ed-1/?sp=1&q=civil+rights",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnbu%2Fbatch_nbu_indescribablebeast_ver01%2Fdata%2F2019270505%2F00332899260%2F1948052701%2F0504.xml&q=civil+rights&relevant_snippet=1"
+}

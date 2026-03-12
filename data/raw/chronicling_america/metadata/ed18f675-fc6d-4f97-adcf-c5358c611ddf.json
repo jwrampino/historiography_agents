@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84038462/1860-02-23/ed-1/?sp=1"
+  ],
+  "batch": [
+    "iune_albatross_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/illinois/",
+    "2/united states/illinois/bond/",
+    "3/united states/illinois/bond/greenville/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1860-02-23",
+  "dates": [
+    "1860-02-23"
+  ],
+  "description": [
+    "VOLUME III 31 Sfltcckln auriln tlcinspapcr fiikpnibtnf on nil Siibjftti Publisher proprietor iRKKNVILLK BOND COUNTY ILLINOIS FEBRUARY 23 LSi NUMBER 3 Douglas and Popular Sovereignty HPEKCl T DY AIILSCIUKZ OF WISCONSIN VIN HAMPDEN II ALLSIHICSI IILI MASS January 4lh I860 When great political or social prob lems dillicult to solve and impossible to put aside are pressing upon the popu lar mind it is a common thing to see a variety of theories springing up which purport to be unfailing remedies and to el feet a speedy cure Men who look only at the surface of things will like bad physicians pretend to remove the disease itself by palliating its most vio lent symptoms and will astonish the world by their inventive ingenuity no less than by their amusing assurance But a close scrutiny will in most cases show that the remedies offered are but new forms of old mistakes Of all the expedients which have been invented for the settlement of the slave ry question Mr Douglass doctrine of popular sovereignty is certainly the most remarkable not only by apparent novelty of the tiling but by the pompous assurance with winch it was offered to the nation as a"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:15:41.348Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84038462/1860-02-23/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038462:00514151039:1860022301:0424/full/pct:6.25/0/default.jpg#h=367&w=273",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038462:00514151039:1860022301:0424/full/pct:12.5/0/default.jpg#h=735&w=546",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_albatross_ver01/data/sn84038462/00514151039/1860022301/0424.xml&format=alto_xml"
+  ],
+  "index": 49,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "greenville",
+    "bond",
+    "bond county",
+    "illinois",
+    "united states"
+  ],
+  "location_city": [
+    "greenville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "bond"
+  ],
+  "location_state": [
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0",
+    "3",
+    "9",
+    "1",
+    "0000000001",
+    "sn84038462",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84038462"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "4",
+    "1",
+    "5",
+    "1",
+    "0",
+    "3",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84038462-1860-02-23-ed-1-0424",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the greenville advocate (greenville, bond county, ill.) 1858-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the greenville advocate (greenville, bond county, ill.) 1858-current"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84038462/1860-02-23/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84038462/1860-02-23/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "greenville",
+    "bond county (ill.)",
+    "bond",
+    "bond county",
+    "greenville (ill.)",
+    "illinois",
+    "united states"
+  ],
+  "timestamp": "2025-05-21T10:48:58.524Z",
+  "title": "Image 1 of The Greenville advocate (Greenville, Bond County, Ill.), February 23, 1860",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84038462/1860-02-23/ed-1/?sp=1&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_albatross_ver01%2Fdata%2Fsn84038462%2F00514151039%2F1860022301%2F0424.xml&q=slavery&relevant_snippet=1"
+}

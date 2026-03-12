@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86076200/1898-07-23/ed-1/?sp=4"
+  ],
+  "batch": [
+    "nvln_quartz_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nevada/",
+    "2/united states/nevada/eureka/",
+    "3/united states/nevada/eureka/eureka/"
+  ],
+  "contributor": [
+    "university of nevada las vegas university libraries"
+  ],
+  "date": "1898-07-23",
+  "dates": [
+    "1898-07-23"
+  ],
+  "description": [
+    "A rtTH rirMia There ia no profeeeion that bold oot each tempting allnremenU to the youth of today aa that of the metallargiet and mioing expert aaid Mr D O Down of San Franciaco Laet year of the olaaa of about a doxeo who were gradu ated at the echool of mine in th Uei varaity of California at leaet tec bare found excellent aituation with bigaala riee Oar univeraitia cannot toro out expert mining engineer faat enough for the demand When I waa in London laet Summer an Euglib ecientit told me that there would be a atrong demand for year for competent men and added that England kept th United State drained of the beat mining talent They are wanted by South Africa in Autrali New Zealand in fact all over the world and they can get higher pay than doc tor lawyer or any ether ela of pro feealonal men Any young man who i ambition for a career that will lead to fortune if not to faaie and perbape to both if he be indutriou and ateady will make no mitak by qualifying bim eelf in th direction of mineralogy Denver Daily Mining Record nevava iiw"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-06-30T14:56:31.596Z",
+  "group": [
+    "ndnp/nvln",
+    "university-of-nevada-las-vegas-university-libraries-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86076200/1898-07-23/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_quartz_ver01:data:sn86076200:00279554097:1898072301:0530/full/pct:6.25/0/default.jpg#h=405&w=260",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_quartz_ver01:data:sn86076200:00279554097:1898072301:0530/full/pct:12.5/0/default.jpg#h=810&w=520",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nvln/batch_nvln_quartz_ver01/data/sn86076200/00279554097/1898072301/0530.xml&format=alto_xml"
+  ],
+  "index": 115,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "eureka",
+    "nevada"
+  ],
+  "location_city": [
+    "eureka"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "eureka"
+  ],
+  "location_state": [
+    "nevada"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "5",
+    "2",
+    "4",
+    "1",
+    "7",
+    "0000000004",
+    "sn86076200"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86076200"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "5",
+    "4",
+    "0",
+    "9",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86076200-1898-07-23-ed-1-0530",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "eureka weekly sentinel (eureka, nev.) 1887-1902"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "eureka weekly sentinel (eureka, nev.) 1887-1902"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86076200/1898-07-23/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86076200/1898-07-23/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "eureka",
+    "newspapers",
+    "eureka (nev.)",
+    "nevada"
+  ],
+  "timestamp": "2023-07-01T04:55:16.068Z",
+  "title": "Image 4 of Eureka weekly sentinel (Eureka, Nev.), July 23, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86076200/1898-07-23/ed-1/?sp=4&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnvln%2Fbatch_nvln_quartz_ver01%2Fdata%2Fsn86076200%2F00279554097%2F1898072301%2F0530.xml&q=spanish&relevant_snippet=1"
+}

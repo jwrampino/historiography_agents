@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84020064/1933-12-10/ed-1/?sp=10"
+  ],
+  "batch": [
+    "az_jasper_ver03"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/arizona/",
+    "2/united states/arizona/cochise/",
+    "3/united states/arizona/cochise/douglas/"
+  ],
+  "contributor": [
+    "arizona state library, archives and public records; phoenix, az"
+  ],
+  "date": "1933-12-10",
+  "dates": [
+    "1933-12-10"
+  ],
+  "description": [
+    "TEN Work for Engineers Is Offered On Geodetic Survey Program Ordered Started With Dean Butler in Charge TUCSON Dec 9G M But lerTdean of the college of mines at the University of Arizona has been placed in complete charge of the U S coast and geodetic survey work in Arizona and authorized to put 180 Arizona engineers to work in the field it was learned today at the university Dr Butler who also is director of the Arizona bureau of mines said that in order to carry out the program the 160 men will be placed tn the field at various points in the state and seven persons will be put to work in his office Each application for work must be filed with the Pima county re ejnployment office and a copy of the application must be mailed to Dr Butler at the university sta tion Tucson Dr Butler said that the coast and geodetic survey is concerned with giving all other governmental branches exact information on lo cation points and elevatipns in every state and that all surveys are based on monuments exactly placed by it Railroad and high way builders and others who wish to run lines"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-04-13T06:34:16.850Z",
+  "group": [
+    "ndnp/az",
+    "arizona-state-university-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84020064/1933-12-10/ed-1/?sp=10",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_jasper_ver03:data:sn84020064:00529040222:1933121001:0010/full/pct:3.125/0/default.jpg#h=272&w=212",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_jasper_ver03:data:sn84020064:00529040222:1933121001:0010/full/pct:6.25/0/default.jpg#h=545&w=425",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_jasper_ver03:data:sn84020064:00529040222:1933121001:0010/full/pct:12.5/0/default.jpg#h=1090&w=851",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/az/batch_az_jasper_ver03/data/sn84020064/00529040222/1933121001/0010.xml&format=alto_xml"
+  ],
+  "index": 30,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "cochise county",
+    "cochise",
+    "united states",
+    "douglas",
+    "arizona"
+  ],
+  "location_city": [
+    "douglas"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cochise"
+  ],
+  "location_state": [
+    "arizona"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "0000000010",
+    "2",
+    "sn84020064",
+    "5",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84020064"
+  ],
+  "number_page": [
+    "0000000010"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "2",
+    "9",
+    "0",
+    "4",
+    "0",
+    "2",
+    "2",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Douglas dispatch"
+  ],
+  "page_id": "sn84020064-1933-12-10-ed-1-0010",
+  "partof": [
+    "chronicling america",
+    "douglas daily dispatch (douglas, ariz.) 1903-1961",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "douglas daily dispatch (douglas, ariz.) 1903-1961"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84020064/1933-12-10/ed-1/?sp=10"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84020064/1933-12-10/ed-1/"
+  ],
+  "shelf_id": "10",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "cochise county",
+    "cochise county (ariz.)",
+    "douglas (ariz.)",
+    "cochise",
+    "douglas",
+    "united states",
+    "newspapers",
+    "arizona"
+  ],
+  "timestamp": "2025-04-13T07:13:43.076Z",
+  "title": "Image 10 of Douglas daily dispatch (Douglas, Ariz.), December 10, 1933",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84020064/1933-12-10/ed-1/?sp=10&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Faz%2Fbatch_az_jasper_ver03%2Fdata%2Fsn84020064%2F00529040222%2F1933121001%2F0010.xml&q=computers&relevant_snippet=1"
+}

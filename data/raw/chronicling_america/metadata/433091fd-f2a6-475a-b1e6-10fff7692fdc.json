@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/46032385/1904-01-29/ed-1/?sp=11"
+  ],
+  "batch": [
+    "nbu_carson_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nebraska/",
+    "2/united states/nebraska/lancaster/",
+    "3/united states/nebraska/lancaster/lincoln/"
+  ],
+  "contributor": [
+    "university of nebraska-lincoln libraries, lincoln, ne"
+  ],
+  "date": "1904-01-29",
+  "dates": [
+    "1904-01-29"
+  ],
+  "description": [
+    "The Commoner JANUARY 29 1304 A PUBLIC ABATTOIR The high price of meat to the man who buys it from the retail dealer and the low price paid to the cattle dealer and farmer by the packers have re minded consumers and producers again of the advantages of a public abattoir The producers have been driven into a pen or chutes like those the management of the stock yards erect for the cattle Out of these pens there is a wide opening into an alley which rapidly converges Tho cattle unsuspiciously take this wide open ing other animals follow them until the foremost are pushed into double file and then into single file The crowding is uncomfortable but the steor in the lead yields to the pres sure of the push behind and to get more room walks up to the man with the sledge hammer The hammer falls on the stoerr8 temple and he drops dead The object lesson of the stock yards and the slaughter of their four footed occupants has been incorpor ated into the system developed by the packers The farmer and stock raiser has been forced to sell exclusively to the stock yards The retail"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:38:01.384Z",
+  "group": [
+    "ndnp/nbu",
+    "university-of-nebraska-of-nebraska-lincoln-libraries-lincoln-ne-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/46032385/1904-01-29/ed-1/?sp=11",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_carson_ver02:data:46032385:00237284860:1904012901:0873/full/pct:6.25/0/default.jpg#h=396&w=291",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_carson_ver02:data:46032385:00237284860:1904012901:0873/full/pct:12.5/0/default.jpg#h=793&w=582",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nbu/batch_nbu_carson_ver02/data/46032385/00237284860/1904012901/0873.xml&format=alto_xml"
+  ],
+  "index": 39,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "nebraska",
+    "lancaster",
+    "lancaster county",
+    "united states",
+    "lincoln"
+  ],
+  "location_city": [
+    "lincoln"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lancaster"
+  ],
+  "location_state": [
+    "nebraska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000011",
+    "2",
+    "8",
+    "3",
+    "6",
+    "46032385",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "46032385"
+  ],
+  "number_page": [
+    "0000000011"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "3",
+    "7",
+    "2",
+    "8",
+    "4",
+    "8",
+    "6",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "46032385-1904-01-29-ed-1-0873",
+  "partof": [
+    "the commoner (lincoln, neb.) 1901-1923",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the commoner (lincoln, neb.) 1901-1923"
+  ],
+  "publication_frequency": [
+    "monthly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/46032385/1904-01-29/ed-1/?sp=11"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/46032385/1904-01-29/ed-1/"
+  ],
+  "shelf_id": "11",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "middle class",
+    "nebraska",
+    "lancaster county (neb.)",
+    "lancaster",
+    "politics and government",
+    "lancaster county",
+    "lincoln (neb.)",
+    "united states",
+    "newspapers",
+    "lincoln"
+  ],
+  "timestamp": "2025-12-14T14:24:46.720Z",
+  "title": "Image 11 of The commoner (Lincoln, Neb.), January 29, 1904",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/46032385/1904-01-29/ed-1/?sp=11&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnbu%2Fbatch_nbu_carson_ver02%2Fdata%2F46032385%2F00237284860%2F1904012901%2F0873.xml&q=korea&relevant_snippet=1"
+}

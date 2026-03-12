@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn89053283/1899-07-26/ed-1/?sp=5"
+  ],
+  "batch": [
+    "gu_abby_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/georgia/",
+    "2/united states/georgia/terrell/",
+    "3/united states/georgia/terrell/dawson/"
+  ],
+  "contributor": [
+    "digital library of georgia, a project of galileo located at the university of georgia libraries"
+  ],
+  "date": "1899-07-26",
+  "dates": [
+    "1899-07-26"
+  ],
+  "description": [
+    "Rom BAKING ABSOLUTELY PURE IOWDE R Makes the food more delicious and wholesome Designs of a Special Set Pre pared For Cuba 70 BEUSED UNTILISLAND IS FREED The Issue Wwill Consist of One Two Three Five and Ten Cent Stamps cost of Plates and Printing the stamps to He Charged Against Cu ban Revenues The postofiice department at Wash incton is preparing to issue a special soi of stamps for Cuba and the designs have been approved by the postmaster general The issue will consist of 12 3 5 and 10 cent stamps Director Rath bone of the Cuban mail service wishes to have a few stamps of larger denomi nations and the matter is held up pending further information from him The designs were prepared at the pureau of printing and engraving from pictures furnished by the postoffice de partment The 1 cent or 1 centavo gtamp has the word Cuba across the top with a 1 in each of the lower corners In the center is a picture of the statue of Columbus in the court eard of the palace of the captain gen eral in Havana It will be printed in green There are two designs for"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-05-22T12:54:22.166Z",
+  "group": [
+    "ndnp/gu",
+    "digital-library-of-georgia-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn89053283/1899-07-26/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_abby_ver02:data:sn89053283:00517177027:1899072601:0055/full/pct:3.125/0/default.jpg#h=317&w=199",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_abby_ver02:data:sn89053283:00517177027:1899072601:0055/full/pct:6.25/0/default.jpg#h=635&w=398",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/gu/batch_gu_abby_ver02/data/sn89053283/00517177027/1899072601/0055.xml&format=alto_xml"
+  ],
+  "index": 120,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "georgia",
+    "united states",
+    "terrell",
+    "terrell county",
+    "dawson"
+  ],
+  "location_city": [
+    "dawson"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "terrell"
+  ],
+  "location_state": [
+    "georgia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "0000000005",
+    "sn89053283",
+    "5",
+    "7",
+    "2",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn89053283"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "7",
+    "0",
+    "2",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn89053283-1899-07-26-ed-1-0055",
+  "partof": [
+    "the dawson news (dawson, ga.;dawson, georgia) 1889-current",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the dawson news (dawson, ga.;dawson, georgia) 1889-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn89053283/1899-07-26/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn89053283/1899-07-26/ed-1/"
+  ],
+  "shelf_id": "5",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "dawson (ga.)",
+    "georgia",
+    "united states",
+    "terrell county",
+    "terrell",
+    "newspapers",
+    "terrell county (ga.)",
+    "dawson"
+  ],
+  "timestamp": "2024-05-22T13:08:52.060Z",
+  "title": "Image 5 of The Dawson news (Dawson, Ga.;Dawson, Georgia), July 26, 1899",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn89053283/1899-07-26/ed-1/?sp=5&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fgu%2Fbatch_gu_abby_ver02%2Fdata%2Fsn89053283%2F00517177027%2F1899072601%2F0055.xml&q=cuba&relevant_snippet=1"
+}

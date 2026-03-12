@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83030431/1918-09-22/ed-1/?sp=1"
+  ],
+  "batch": [
+    "nn_pielou_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "the new york public library, astor, lenox and tilden foundation"
+  ],
+  "date": "1918-09-22",
+  "dates": [
+    "1918-09-22"
+  ],
+  "description": [
+    "WEATHER FORECAST Fair and continued cool today tomor row falr 811 warmer Higheit temperature yesterday ii lowest 46 Detailed weather report on Kit pit 5 IT SHINES FOP ALL VOL LXXXVI NO 22 NEW YORK SUNDAY SEPTEMBER 1918 Copyripht 1918 oy fe Sui Printing and PublUhinp Allocation 04 PAGES PRICE FIVE CENTS J In Clrr tr ew Yen ALLIES SHELL ST OUENT1N FROM THREE SIDES GERMAN GRIP ON NEW LINE NEARLY BROKEN U S MAKES PLEA TO END RUSSIAN TERRORISM U S SHIPPING BOARD SHO WS HO W AMERICA OUTSTRIPS UBOATS August Building Exceeds German Destruction of Vessels by 1G39 Tons WOULD RECORDS SET This Country Takes First Tlace in Construction of Seagoing Craft FORMERLY A POOR THIRD Has 1020 Ways nnd Employs 886000 Resides 300000 in Allied Industries Special DitpaUK to Tnn Scs Washington Sept 21 United States ship construction alone out trips submarine losses The complete breakdown of the tMwnt campaign ngalnst the Allies nnd the neutrals Is clearly portrayed In a resume of the shipping situation of the world compiled by the Ship ping Hoard Ship construction In tho United States for the month of August sur passed the totnt of submarine de struction by more than"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T13:50:33.445Z",
+  "group": [
+    "ndnp/nn-2011_2013",
+    "the-new-york-public-library-astor-lenox-and-tilden-foundation-awardee-3"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83030431/1918-09-22/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pielou_ver01:data:sn83030431:00200294075:1918092201:0723/full/pct:6.25/0/default.jpg#h=411&w=332",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pielou_ver01:data:sn83030431:00200294075:1918092201:0723/full/pct:12.5/0/default.jpg#h=823&w=664",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nn/batch_nn_pielou_ver01/data/sn83030431/00200294075/1918092201/0723.xml&format=alto_xml"
+  ],
+  "index": 170,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "new york",
+    "united states",
+    "new york county",
+    "new york city"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn83030431",
+    "9",
+    "0000000001",
+    "2",
+    "5",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83030431"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "0",
+    "2",
+    "9",
+    "4",
+    "0",
+    "7",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83030431-1918-09-22-ed-1-0723",
+  "partof": [
+    "the sun (new york [n.y.]) 1916-1920",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the sun (new york [n.y.]) 1916-1920"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83030431/1918-09-22/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83030431/1918-09-22/ed-1/"
+  ],
+  "shelf_id": "01",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "new york",
+    "new york (state)",
+    "united states",
+    "new york county",
+    "new york county (n.y.)",
+    "newspapers",
+    "new york (n.y.)"
+  ],
+  "timestamp": "2022-10-11T17:57:02.314Z",
+  "title": "Image 1 of The sun (New York [N.Y.]), September 22, 1918",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83030431/1918-09-22/ed-1/?sp=1&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnn%2Fbatch_nn_pielou_ver01%2Fdata%2Fsn83030431%2F00200294075%2F1918092201%2F0723.xml&q=terrorism&relevant_snippet=1"
+}

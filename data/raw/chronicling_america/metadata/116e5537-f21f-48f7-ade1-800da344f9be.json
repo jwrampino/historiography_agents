@@ -1,0 +1,165 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88077226/1948-12-07/ed-1/?sp=2"
+  ],
+  "batch": [
+    "ohi_amaryllis_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/montgomery/",
+    "3/united states/ohio/montgomery/dayton/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1948-12-07",
+  "dates": [
+    "1948-12-07"
+  ],
+  "description": [
+    "Pagre Two The OHIO DAILY EXPRESS Published every evening except Sunday by Paige H Strickland at 1007 Germantown etreet Dayton 7 Ohio Phne HEmlock 1076 PAIGE H STRICKLAND Editor and Publisher RAYMOND SWANN Advertising Manager NATIONAL ADVERTISING Interstate United Newspapers Inc 546 Fifth Avenue New York 17 New Yolk Between The Lines By Dean Gordon B Hancock iANPI THE FORTHCOMING FILIBUSTER I The advocates and friends of civil rights as espoused by President Truman may as well reconcile themselves to the fact that the opposition is bound to resort to the filibuster so long the instrument of obstruction of reactionary south erners None but the rashly optimistic has ever imagined that all was over but the shouting as respects the civil rights pro gram The defeated southerners are in a vindictive mood and will resort to many subterfuges and expedients before they finally succumb to the inevitable Negroes must not lose heart there fore if Trumans civil rights program runs into a snag And above all Truman must not be blamed for the spacious tactics that the diehard Dixiecrats are bound to employ Dixiecracy is not dead by a long shot and if it is it does not know it"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:14:12.196Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88077226/1948-12-07/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_amaryllis_ver01:data:sn88077226:00414210387:1948120701:0841/full/pct:6.25/0/default.jpg#h=413&w=316",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_amaryllis_ver01:data:sn88077226:00414210387:1948120701:0841/full/pct:12.5/0/default.jpg#h=827&w=632",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_amaryllis_ver01/data/sn88077226/00414210387/1948120701/0841.xml&format=alto_xml"
+  ],
+  "index": 169,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "montgomery",
+    "montgomery county",
+    "dayton",
+    "ohio",
+    "united states"
+  ],
+  "location_city": [
+    "dayton"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "montgomery"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "8",
+    "0000000002",
+    "2",
+    "0",
+    "7",
+    "1",
+    "3",
+    "4",
+    "sn88077226"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88077226"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "2",
+    "1",
+    "0",
+    "3",
+    "8",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88077226-1948-12-07-ed-1-0841",
+  "partof": [
+    "chronicling america",
+    "the ohio daily-express (dayton, ohio) 1946-1950",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the ohio daily-express (dayton, ohio) 1946-1950"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88077226/1948-12-07/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88077226/1948-12-07/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "montgomery",
+    "african americans",
+    "montgomery county",
+    "african american",
+    "dayton (ohio)",
+    "dayton",
+    "montgomery county (ohio)",
+    "ohio",
+    "united states"
+  ],
+  "subject_ethnicity": [
+    "african american"
+  ],
+  "timestamp": "2023-09-04T23:57:12.352Z",
+  "title": "Image 2 of The Ohio daily-express (Dayton, Ohio), December 7, 1948",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88077226/1948-12-07/ed-1/?sp=2&q=civil+rights",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_amaryllis_ver01%2Fdata%2Fsn88077226%2F00414210387%2F1948120701%2F0841.xml&q=civil+rights&relevant_snippet=1"
+}

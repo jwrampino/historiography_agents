@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86075189/1941-05-21/ed-1/?sp=4"
+  ],
+  "batch": [
+    "mthi_douglasfir_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/lewis and clark/",
+    "3/united states/montana/lewis and clark/helena/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1941-05-21",
+  "dates": [
+    "1941-05-21"
+  ],
+  "description": [
+    "PRIORITIES DU PONTS ET AL Investigation by Senate Com Elicits Information mittee That Priorities Are Fixed by Inter Representatives of ested Industries WASHINGTONPPAt the time that Edward R Stettinius Jr director of the priorities division was telling the country that production facilities for aluminum were more than ample the Aluminum Co of America was unable to fill the orders on its books This admission was wrung out of G R Gibbons senior vice president of the Aluminum company May 14 by Hugh Pulton attorney for the spe cial senate committee investigating the progress of the defense program Fulton also nailed Gibbons down on declaration that the Aluminum withdraw an application for his bookkeeping The letter of the Aluminum com panys attorneys to the FPC said that if the Tennessee alley u y not going to build the North Carolina power plant Mr Holden of the OPM is prepared to suggest that the plant built by the War department and leased under the usual five year clause to the aluminum company with an op tion to purchase In other words it was brought out the hearing after the Aluminum unwilling to comply company permission to construct a 100000 kilo watt power"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:45:48.093Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86075189/1941-05-21/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_douglasfir_ver01:data:sn86075189:00414211008:1941052101:0315/full/pct:6.25/0/default.jpg#h=450&w=343",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_douglasfir_ver01:data:sn86075189:00414211008:1941052101:0315/full/pct:12.5/0/default.jpg#h=900&w=686",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_douglasfir_ver01/data/sn86075189/00414211008/1941052101/0315.xml&format=alto_xml"
+  ],
+  "index": 190,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "helena",
+    "united states",
+    "montana",
+    "lewis and clark"
+  ],
+  "location_city": [
+    "helena"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lewis and clark"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "sn86075189",
+    "8",
+    "0000000004",
+    "4",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86075189"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "2",
+    "1",
+    "1",
+    "0",
+    "0",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86075189-1941-05-21-ed-1-0315",
+  "partof": [
+    "the people's voice (helena, mont.) 1939-1969",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the people's voice (helena, mont.) 1939-1969"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86075189/1941-05-21/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86075189/1941-05-21/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "helena (mont.)",
+    "montana",
+    "history",
+    "helena",
+    "lewis and clark"
+  ],
+  "timestamp": "2023-07-05T20:47:57.743Z",
+  "title": "Image 4 of The People's voice (Helena, Mont.), May 21, 1941",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86075189/1941-05-21/ed-1/?sp=4&q=soviet+union",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_douglasfir_ver01%2Fdata%2Fsn86075189%2F00414211008%2F1941052101%2F0315.xml&q=soviet+union&relevant_snippet=1"
+}

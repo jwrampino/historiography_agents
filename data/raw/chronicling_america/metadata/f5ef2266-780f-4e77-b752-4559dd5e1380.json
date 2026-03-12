@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86090439/1904-02-09/ed-1/?sp=2"
+  ],
+  "batch": [
+    "txdn_grapevine_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/texas/",
+    "2/united states/texas/bexar/",
+    "3/united states/texas/bexar/san antonio/"
+  ],
+  "contributor": [
+    "university of north texas; denton, tx"
+  ],
+  "date": "1904-02-09",
+  "dates": [
+    "1904-02-09"
+  ],
+  "description": [
+    "TWO Will You Write a Postal So a Sick One May Get Well Bend no moneysimply a postal card giving the name of some one Who needs help Tell me the book to hen I will do thisl will arrange with a druggist near him so that he may take six bottles of Dr Shoop s Restorative He may take it a month at my risk if it succeeds the costis SW If it fails the druggist will bill thecost to me That month s test Will show you what the remedy can do It is the easiest wav to convince you It is the only way to induce all who need help to accept it I make this offer to multiply my cures and I am wlllin to trust the cured ones to be fair with me In the past 12 years 1 have furnished my Restorative to hundreds of thou sands of sick ones on Just those terms and 39 out of 40 have paid gladly be cause they got well I pay just as willingly when one says I have failed The remedy is my discovery the re sult of a lifetimes work I have per fected"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-06-05T16:50:40.054Z",
+  "group": [
+    "ndnp/txdn",
+    "university-of-north-texas-denton-tx-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86090439/1904-02-09/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_grapevine_ver01:data:sn86090439:00517175067:1904020901:0351/full/pct:6.25/0/default.jpg#h=418&w=320",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_grapevine_ver01:data:sn86090439:00517175067:1904020901:0351/full/pct:12.5/0/default.jpg#h=836&w=640",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/txdn/batch_txdn_grapevine_ver01/data/sn86090439/00517175067/1904020901/0351.xml&format=alto_xml"
+  ],
+  "index": 151,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "bexar",
+    "bexar county",
+    "texas",
+    "san antonio",
+    "united states"
+  ],
+  "location_city": [
+    "san antonio"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "bexar"
+  ],
+  "location_state": [
+    "texas"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0000000002",
+    "0",
+    "7",
+    "sn86090439",
+    "1",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86090439"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "5",
+    "0",
+    "6",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Daily light",
+    "Sunday Issues for <November 10, 1895> have title: Sunday light"
+  ],
+  "page_id": "sn86090439-1904-02-09-ed-1-0351",
+  "partof": [
+    "san antonio daily light (san antonio, tex.) 1886-1907",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "san antonio daily light (san antonio, tex.) 1886-1907"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86090439/1904-02-09/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86090439/1904-02-09/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "bexar",
+    "san antonio (tex.)",
+    "bexar county",
+    "san antonio",
+    "texas",
+    "bexar county (tex.)",
+    "united states"
+  ],
+  "timestamp": "2025-06-10T16:31:38.039Z",
+  "title": "Image 2 of San Antonio daily light (San Antonio, Tex.), February 9, 1904",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86090439/1904-02-09/ed-1/?sp=2&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Ftxdn%2Fbatch_txdn_grapevine_ver01%2Fdata%2Fsn86090439%2F00517175067%2F1904020901%2F0351.xml&q=korea&relevant_snippet=1"
+}

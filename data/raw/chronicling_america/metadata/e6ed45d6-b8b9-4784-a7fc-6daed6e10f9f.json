@@ -1,0 +1,151 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn96094905/1916-05-03/ed-1/?sp=2"
+  ],
+  "batch": [
+    "ak_dolphin_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/alaska/",
+    "3/united states/alaska/nome/"
+  ],
+  "contributor": [
+    "alaska state library historical collections"
+  ],
+  "date": "1916-05-03",
+  "dates": [
+    "1916-05-03"
+  ],
+  "description": [
+    "0ailg Name Jnbuatrtal Harkpr Published Daily except Sunday Nome Mine Workers Union No 240 Went filtration of Miners Subscription Price One Tear 2000 eix Months 1000 One Month 12 00 To secure to each laborer the whole product of his labor or as early as possible Is a worthy object of any rood government aoranam Lincoln Address all Communications to Daily Nome Industrial Worker Box 210 Nome Alaska Phone Black 134 All changes In standing advertisements must reach this office at six clock each evening to Insure Insertion In the following issue Advertising rateB made known on application Entered as second class matter March 1 1811 at the post office at Horae Alaska under the Act of March 8 187 Nome Alaska May 1 11 1 ft BENEVOLENT ASSIMILATION When the late President MKinley in an unusually inspired moment referred to the American control of the Phillipines as a case of benevo lent assimilation the papers jubil antly delighted in the phrase and repeated it with all the delight of a child with a new toy Writers and speakers ventured to repeat the words with excessive unction and the phrase like charity covered a multitude of the iniquities of imperi"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-05-22T12:58:16.387Z",
+  "group": [
+    "ndnp/ak",
+    "alaska-state-library-historical-collections-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn96094905/1916-05-03/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_dolphin_ver01:data:sn96094905:00514154752:1916050301:0428/full/pct:6.25/0/default.jpg#h=405&w=298",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_dolphin_ver01:data:sn96094905:00514154752:1916050301:0428/full/pct:12.5/0/default.jpg#h=810&w=597",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ak/batch_ak_dolphin_ver01/data/sn96094905/00514154752/1916050301/0428.xml&format=alto_xml"
+  ],
+  "index": 78,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "nome",
+    "alaska",
+    "united states"
+  ],
+  "location_city": [
+    "nome"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "alaska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn96094905",
+    "5",
+    "4",
+    "1",
+    "2",
+    "7",
+    "0000000002"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn96094905"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "4",
+    "1",
+    "5",
+    "4",
+    "7",
+    "5",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn96094905-1916-05-03-ed-1-0428",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the daily nome industrial worker (nome, alaska) 19??-1918"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the daily nome industrial worker (nome, alaska) 19??-1918"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn96094905/1916-05-03/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn96094905/1916-05-03/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "nome",
+    "alaska",
+    "united states",
+    "labor unions",
+    "nome (alaska)",
+    "newspapers"
+  ],
+  "timestamp": "2024-05-22T17:05:16.814Z",
+  "title": "Image 2 of The daily Nome industrial worker (Nome, Alaska), May 3, 1916",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn96094905/1916-05-03/ed-1/?sp=2&q=phillipines",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fak%2Fbatch_ak_dolphin_ver01%2Fdata%2Fsn96094905%2F00514154752%2F1916050301%2F0428.xml&q=phillipines&relevant_snippet=1"
+}

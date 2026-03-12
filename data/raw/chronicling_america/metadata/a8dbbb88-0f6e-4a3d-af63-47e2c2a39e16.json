@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1947-01-16/ed-1/?sp=45"
+  ],
+  "batch": [
+    "dlc_2calder_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1947-01-16",
+  "dates": [
+    "1947-01-16"
+  ],
+  "description": [
+    "HOUSES FOR SALENW Cont Wb RENO BD AND VAN NESSAn at tractively styled semidetached of English design living room dining room den and kitchen on 1st floor 4 bedrooms and 2 baths on 2nd floor with stairway to 3rd floor detached garage fenced lot fine condition prompt possession 17450 r A TWEED CO EM 1290 until 9 pm 17 CHEVY CHASE MD 20950Detached brick with 5 bedrooms 2 Vi baths In ex cellent condition and ready for possession First floor has large living room dining room den and kitchen For a real value in homes it will pay you to see this splendid property today Call us now EM 1290 until 9 pm F A TWEED CO 17 CHEVY CHASE D CA truly wonderful value on Nebraska ave near Connecticut ave under 21000 Beautifully decorated Vacant for immediate possession 3 iarge bedrooms 2 tiled baths large living and dining rooms center entrance oil hwh Builtin garage You should see this home Call EM 1280 until 9 p m F A TWEED CO 17 BROAD BRANCH BD at Livingston st Detached brick only 0 years old near Lafayette School This prewar built home has lovely living room with open fireplace large"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:41:52.935Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1947-01-16/ed-1/?sp=45",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_2calder_ver01:data:sn83045462:00280604719:1947011601:0051/full/pct:6.25/0/default.jpg#h=493&w=346",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_2calder_ver01:data:sn83045462:00280604719:1947011601:0051/full/pct:12.5/0/default.jpg#h=986&w=693",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_2calder_ver01/data/sn83045462/00280604719/1947011601/0051.xml&format=alto_xml"
+  ],
+  "index": 194,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "district of columbia",
+    "washington d.c.",
+    "washington",
+    "united states"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000045",
+    "8",
+    "0",
+    "2",
+    "sn83045462",
+    "7",
+    "9",
+    "1",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000045"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "4",
+    "7",
+    "1",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1947-01-16-ed-1-0051",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1947-01-16/ed-1/?sp=45"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1947-01-16/ed-1/"
+  ],
+  "shelf_id": "45",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)",
+    "washington",
+    "united states"
+  ],
+  "timestamp": "2022-10-25T05:10:00.165Z",
+  "title": "Image 45 of Evening star (Washington, D.C.), January 16, 1947",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1947-01-16/ed-1/?sp=45&q=oil",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_2calder_ver01%2Fdata%2Fsn83045462%2F00280604719%2F1947011601%2F0051.xml&q=oil&relevant_snippet=1"
+}

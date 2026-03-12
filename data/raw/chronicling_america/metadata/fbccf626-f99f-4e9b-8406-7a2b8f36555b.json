@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88071001/1962-04-09/ed-1/?sp=3"
+  ],
+  "batch": [
+    "gu_kraken_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/georgia/",
+    "2/united states/georgia/richmond/",
+    "3/united states/georgia/richmond/augusta/"
+  ],
+  "contributor": [
+    "digital library of georgia, a project of galileo located at the university of georgia libraries"
+  ],
+  "date": "1962-04-09",
+  "dates": [
+    "1962-04-09"
+  ],
+  "description": [
+    "WiirAppointiveUSJudgesTakeOvem Governments People Are Being Stripped Of Their Authority By Order Of Federal Courts The Supreme Court of the United States with a reckless disregard of the terms of the Constitution continues its idiotic course of rule and ruin The Courts decision in the Tennessee reapportionment case is nothing more than the product of plain lunacy Willie B Hartsfield the exMayor of Atlanta even though he didnt intend to properly sized the situation up when he said that the decision is the great est thing thats happened to Georgia since General Sherman Certainly the decision contains pos sibilities of being just as destructive to the people of Georgia and the rest of the people of the nation as old General Sherman was when he marched from the mountains to the sea burning every thing to ashes Another Major Assault Even the mildmannered Dick Rus sell senior United States Senator from Georgia says that it looks like the fed eral courts intend to place legislative bodies and state governments in the hands of a federal receiver Just think of a federal judge who was not elected and could not be elected by a vote of the people taking over and administering"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-06-29T05:13:40.925Z",
+  "group": [
+    "ndnp/gu",
+    "digital-library-of-georgia-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88071001/1962-04-09/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_kraken_ver01:data:sn88071001:00529044707:1962040901:0475/full/pct:3.125/0/default.jpg#h=262&w=189",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_kraken_ver01:data:sn88071001:00529044707:1962040901:0475/full/pct:6.25/0/default.jpg#h=525&w=378",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_kraken_ver01:data:sn88071001:00529044707:1962040901:0475/full/pct:12.5/0/default.jpg#h=1050&w=757",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/gu/batch_gu_kraken_ver01/data/sn88071001/00529044707/1962040901/0475.xml&format=alto_xml"
+  ],
+  "index": 20,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "richmond",
+    "augusta",
+    "georgia",
+    "united states"
+  ],
+  "location_city": [
+    "augusta"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "richmond"
+  ],
+  "location_state": [
+    "georgia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn88071001",
+    "2",
+    "0",
+    "0000000003",
+    "7",
+    "9",
+    "1",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88071001"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "2",
+    "9",
+    "0",
+    "4",
+    "4",
+    "7",
+    "0",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88071001-1962-04-09-ed-1-0475",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the augusta courier (augusta, ga.) 1946-1974"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the augusta courier (augusta, ga.) 1946-1974"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88071001/1962-04-09/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88071001/1962-04-09/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "since 1945",
+    "augusta",
+    "richmond",
+    "politics and government",
+    "conservatism",
+    "united states",
+    "augusta (ga.)",
+    "georgia"
+  ],
+  "timestamp": "2025-06-29T05:45:38.484Z",
+  "title": "Image 3 of The Augusta courier (Augusta, Ga.), April 9, 1962",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88071001/1962-04-09/ed-1/?sp=3&q=vietnam",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fgu%2Fbatch_gu_kraken_ver01%2Fdata%2Fsn88071001%2F00529044707%2F1962040901%2F0475.xml&q=vietnam&relevant_snippet=1"
+}

@@ -1,0 +1,154 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85053044/1951-02-02/ed-1/?sp=6"
+  ],
+  "batch": [
+    "mthi_anaconda_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/glacier/",
+    "3/united states/montana/glacier/browning/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1951-02-02",
+  "dates": [
+    "1951-02-02"
+  ],
+  "description": [
+    "WEEKLY NEWS ANALYSIS Reds Launch Offensive in Korea US Works on Japanese Treaty Army Calls for 80000 Draftees NOTE When opinions pre expressed in these columns they are those of Western Newspaper Unions news analysts and not necessarily of this newspaper NORTH KOREA v El Vid _HAy r o J K H c JsS I v9a2 KSONc I A A t TCc North Korean and Chinese Communist troops concentrated for another blow on U N forces below the 38th parallel Chief concentration points were at Yonchon 1 and northwest of Seoul 2 A Red attack 3 northeast of Kumchon pushed back the South Koreans more than a mile Red patrols were near Kaesong 4 South Korean troops fought a preliminary battle near Hyon 5 Reds were also massed north of Chunchon 6 KOREA The Story Repeated The story of the Korean battle seemed to repeat itself Forced to withdraw from North Korea after pushing the Communists out of South Korea and almost to the Man churian border U N forces re ceived the full force of Chinese and North Korean troops asthey plunged south of the 38th parallel U N troops gave ground and further retreats appear in store for"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:49:31.984Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85053044/1951-02-02/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_anaconda_ver01:data:sn85053044:00517178147:1951020201:0038/full/pct:6.25/0/default.jpg#h=318&w=226",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_anaconda_ver01:data:sn85053044:00517178147:1951020201:0038/full/pct:12.5/0/default.jpg#h=637&w=452",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_anaconda_ver01/data/sn85053044/00517178147/1951020201/0038.xml&format=alto_xml"
+  ],
+  "index": 99,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "browning",
+    "united states",
+    "montana",
+    "glacier"
+  ],
+  "location_city": [
+    "browning"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "glacier"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "8",
+    "5",
+    "sn85053044",
+    "0000000006",
+    "7",
+    "4",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85053044"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "8",
+    "1",
+    "4",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85053044-1951-02-02-ed-1-0038",
+  "partof": [
+    "browning chief (browning, mont.) 1941-1953",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "browning chief (browning, mont.) 1941-1953"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85053044/1951-02-02/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85053044/1951-02-02/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "browning",
+    "united states",
+    "montana",
+    "glacier"
+  ],
+  "timestamp": "2023-07-05T14:31:25.737Z",
+  "title": "Image 6 of Browning chief (Browning, Mont.), February 2, 1951",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85053044/1951-02-02/ed-1/?sp=6&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_anaconda_ver01%2Fdata%2Fsn85053044%2F00517178147%2F1951020201%2F0038.xml&q=korea&relevant_snippet=1"
+}

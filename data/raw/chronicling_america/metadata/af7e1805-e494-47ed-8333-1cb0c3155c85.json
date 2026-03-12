@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84026749/1930-04-10/ed-1/?sp=26"
+  ],
+  "batch": [
+    "dlc_brookland_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1930-04-10",
+  "dates": [
+    "1930-04-10"
+  ],
+  "description": [
+    "26 RICH BROTHERS ROW BARED DOYLESTOWN April 10 A bitter quarrel between two brothers both millionaires was revealed here in a contest over the will of Dr Henry Chapmin Mercer Dr Mercer internationally known ethnologist who died here March 9 harbored a resentment against his brother William H Mercer because the latter tore down the Mercer homestead in Aldie This feeling was described by Owen Wister famous author and lifelong friend of Dr Mercer as a on a beautiful mind and an attitude that was not ra tional Wister told Register of Wills John Nace of the differ ences between the scientist and his brother who now is con testing the will Mercer does not protest the public bequests in the 1000000 estate except the one referring to the residue of the estate On of the codicils revokes the bequest of the 300000 residue to his brother and gave it to the Bucks County Historical So ciety which Dr Mercer headed Another codicil directed his friends in Doylestown and trus tees to fight efforts on the part of my brother or his wife to take possession of Fronthill Dr Herbert T Crough of Doylestown testified Dr Mercer died of Brights"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-07T20:30:09.711Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84026749/1930-04-10/ed-1/?sp=26",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_brookland_ver01:data:sn84026749:00222254693:1930041001:0299/full/pct:3.125/0/default.jpg#h=317&w=253",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_brookland_ver01:data:sn84026749:00222254693:1930041001:0299/full/pct:6.25/0/default.jpg#h=635&w=507",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_brookland_ver01/data/sn84026749/00222254693/1930041001/0299.xml&format=alto_xml"
+  ],
+  "index": 126,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn84026749",
+    "9",
+    "2",
+    "0000000026",
+    "5",
+    "6",
+    "3",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84026749"
+  ],
+  "number_page": [
+    "0000000026"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "2",
+    "2",
+    "2",
+    "5",
+    "4",
+    "6",
+    "9",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Washington times herald"
+  ],
+  "page_id": "sn84026749-1930-04-10-ed-1-0299",
+  "partof": [
+    "chronicling america",
+    "the washington times (washington [d.c.]) 1902-1939",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington times (washington [d.c.]) 1902-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84026749/1930-04-10/ed-1/?sp=26"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84026749/1930-04-10/ed-1/"
+  ],
+  "shelf_id": "26",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-08-08T00:16:21.791Z",
+  "title": "Image 26 of The Washington times (Washington [D.C.]), April 10, 1930",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84026749/1930-04-10/ed-1/?sp=26&q=indian+territory",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_brookland_ver01%2Fdata%2Fsn84026749%2F00222254693%2F1930041001%2F0299.xml&q=indian+territory&relevant_snippet=1"
+}

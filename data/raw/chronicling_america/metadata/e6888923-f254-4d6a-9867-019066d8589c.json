@@ -1,0 +1,153 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn96060044/1961-05-01/ed-1/?sp=6"
+  ],
+  "batch": [
+    "ak_eagle_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/alaska/",
+    "3/united states/alaska/adak/"
+  ],
+  "contributor": [
+    "alaska state library historical collections"
+  ],
+  "date": "1961-05-01",
+  "dates": [
+    "1961-05-01"
+  ],
+  "description": [
+    "Carl D JAY SKI Supply Received from5 USS TORTUGA LSD26 Hometowns Riverside Calif Delbert V CAIN CEWCP Public Wrks Received froms Pt Hueneme Calif Hometowns Austin Texas Charles H LONG Jr BURCP Pub Wrks Received froms Pt Hueneme Calif Hometowns Brewster Ohio Frank L STEELE BULCP Public Wrks Received froms Pt Hueneme Calif Hometowns Milford Mich Edward P WICKLER BULCP Public Wrks Received froms Pt Hueneme Calif Hometowns Palamyra Wisconsin Samuel M NEFF BUHCP Public Wrks Received froms Pt Hueneme Calif Hometowns Wook Lake Calif James P CURTIN BULCP Public Wrks Received from Pt Hueneme Calif Hometown North Reading Mass Roland J WALKER BURCP Public Wrks Received from Pt Hueneme Calif Hometown Bridgeport Conn Henderson C 3ELAMIDE Supply Received from USS ALUDRA AF55 Hometown San Francisco Calif M F MANGOSING TA AdminBOO Received from NTC San Diego Calif Hometown Phillipines Napoleon N AMANCIO SD2 AdminBOQ Received from NavSta Navy 128 Hometown Phillipines Morris H BROOKS CS2 Commissary Received from USS HORNET CVS12 Hometown Boaz Alabama Leonard E FAGG UTACP Public Wrks Received from Pt Hueneme Calif Hometown Alderwood Manor Washington D06S The dogs on Adak are no exception to the general rule in that they are talked about quite frequently"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-05-22T12:58:32.579Z",
+  "group": [
+    "ndnp/ak",
+    "alaska-state-library-historical-collections-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn96060044/1961-05-01/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_eagle_ver01:data:sn96060044:00514154727:1961050101:0219/full/pct:6.25/0/default.jpg#h=263&w=203",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_eagle_ver01:data:sn96060044:00514154727:1961050101:0219/full/pct:12.5/0/default.jpg#h=526&w=407",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_eagle_ver01:data:sn96060044:00514154727:1961050101:0219/full/pct:25/0/default.jpg#h=1053&w=814",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ak/batch_ak_eagle_ver01/data/sn96060044/00514154727/1961050101/0219.xml&format=alto_xml"
+  ],
+  "index": 119,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "adak",
+    "alaska"
+  ],
+  "location_city": [
+    "adak"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "alaska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn96060044",
+    "2",
+    "5",
+    "4",
+    "1",
+    "0000000006",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn96060044"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "4",
+    "1",
+    "5",
+    "4",
+    "7",
+    "2",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn96060044-1961-05-01-ed-1-0219",
+  "partof": [
+    "the adak sun (adak, alaska) 1955-1976",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the adak sun (adak, alaska) 1955-1976"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn96060044/1961-05-01/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn96060044/1961-05-01/ed-1/"
+  ],
+  "shelf_id": "06",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "alaska",
+    "adak (alaska)",
+    "united states",
+    "newspapers",
+    "adak",
+    "military bases"
+  ],
+  "timestamp": "2024-05-22T17:33:34.304Z",
+  "title": "Image 6 of The Adak sun (Adak, Alaska), May 1, 1961",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn96060044/1961-05-01/ed-1/?sp=6&q=phillipines",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fak%2Fbatch_ak_eagle_ver01%2Fdata%2Fsn96060044%2F00514154727%2F1961050101%2F0219.xml&q=phillipines&relevant_snippet=1"
+}

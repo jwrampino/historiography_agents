@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2012218613/1898-07-06/ed-1/?sp=1"
+  ],
+  "batch": [
+    "scu_henryjohnson_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/south carolina/",
+    "2/united states/south carolina/fairfield/",
+    "3/united states/south carolina/fairfield/winnsboro/"
+  ],
+  "contributor": [
+    "university of south carolina; columbia, sc"
+  ],
+  "date": "1898-07-06",
+  "dates": [
+    "1898-07-06"
+  ],
+  "description": [
+    "P 1 1 VOL LIL WINNSBORQ S C WEDNESDAY JULY 6 1898 NO 48 a I PRESSING FORWARD Bp Advance of the American Army W on Saniago THE SPANIARDS COOPED UP Slight Skirmishes Between Spaniards and Cubans Heavy Losses SusvL tained by the Enemy Starvation and atiress in City of Santiago W The American front lias been advanced beyond the first crossing of the Rio Guama about a miie and a tug lies three and a half miles from the Span ish entrenchments at Santiago L General ChaffeeV brigade with three WL thousand Cubans under General Aguirra and several hundred uuderCol Gonzales was skirmishing towards the city W this morniug The Cubans had several slight skirmishes with the Spaniards stationed on the hills on the American right Hank Laud our auxiliaries occupied the blockhouses in that vicinitv which were Bb evacuated before daybreak by the Spau iards The latter retreated towards Santiago de Cuba W General Lawtou General Chaffee and General Wheeler have thoroughly reeonnoiteaed the Spanish position and with the aid of information furnished by the Cubans have very good maps of the roads and defenses o me city Much information has also been bm tained from Spanish pacificos"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-24T14:41:06Z",
+  "group": [
+    "ndnp/scu",
+    "university-of-south-carolina-columbia-sc-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2012218613/1898-07-06/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:2012218613:00237288385:1898070601:0157/full/pct:3.125/0/default.jpg#h=344&w=247",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:2012218613:00237288385:1898070601:0157/full/pct:6.25/0/default.jpg#h=688&w=494",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/scu/batch_scu_henryjohnson_ver01/data/2012218613/00237288385/1898070601/0157.xml&format=alto_xml"
+  ],
+  "index": 80,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "fairfield county",
+    "south carolina",
+    "fairfield",
+    "winnsboro",
+    "united states"
+  ],
+  "location_city": [
+    "winnsboro"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "fairfield"
+  ],
+  "location_state": [
+    "south carolina"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "0",
+    "2",
+    "3",
+    "2012218613",
+    "7",
+    "1",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2012218613"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "3",
+    "7",
+    "2",
+    "8",
+    "8",
+    "3",
+    "8",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "News and herald"
+  ],
+  "page_id": "2012218613-1898-07-06-ed-1-0157",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the fairfield news and herald (winnsboro, s.c.) 1881-1900"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the fairfield news and herald (winnsboro, s.c.) 1881-1900"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2012218613/1898-07-06/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2012218613/1898-07-06/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "fairfield county (s.c.)",
+    "fairfield county",
+    "south carolina",
+    "fairfield",
+    "winnsboro",
+    "united states"
+  ],
+  "timestamp": "2024-02-04T13:31:50.248Z",
+  "title": "Image 1 of The Fairfield news and herald (Winnsboro, S.C.), July 6, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2012218613/1898-07-06/ed-1/?sp=1&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fscu%2Fbatch_scu_henryjohnson_ver01%2Fdata%2F2012218613%2F00237288385%2F1898070601%2F0157.xml&q=spanish&relevant_snippet=1"
+}

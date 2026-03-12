@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1937-03-31/ed-1/?sp=10"
+  ],
+  "batch": [
+    "dlc_1johns_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1937-03-31",
+  "dates": [
+    "1937-03-31"
+  ],
+  "description": [
+    "THE EVENING STAR Wlth Sunday Morning Edition WASHINGTON D C WEDNESDAY_ _March 31 1937 THEODORE W NOYES Editor The Evening Star Newspaper Company ltn St and Pennsylvania Ave New York Office 110 East 42nd St Chicago Office 35 North Michigan Ave Rate by CarrierCity and Suburban Regular Edition The Evenin and Sunday Star 05c per month or 15c per week Bie Evening Star 5c per month or 10c per wpek The Sunday Star_ _5c Der copy Night Final Edition Nlgut PnaJ and Sunday Star_ 7nc per month Night Final Star___65c per month Collection made at thp end of each month or each week Orders may be sent by mail or tele phone National 6000 Rate by MailPayable in Advance Maryland and Virginia Dally snd Sunday_1 yr 1000 1 mo RSc Daily only _ 1 yr 000 l mo 60c Sunday ony 1 yr 100 1 mo 40c All Other Stales and Canada Pally and Sunday 1 yr 1200 1 mo 100 Dally only_ 1 yr soo 1 mo 75c Sunday only1 yr 500 1 mo 50c Member of the Associated Press The Associated Press a exclusively entitled to tie use for republicatlon of all news dispatches credited to It or"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:38:17.629Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1937-03-31/ed-1/?sp=10",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1johns_ver01:data:sn83045462:00280601901:1937033101:0334/full/pct:6.25/0/default.jpg#h=486&w=346",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1johns_ver01:data:sn83045462:00280601901:1937033101:0334/full/pct:12.5/0/default.jpg#h=972&w=693",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1johns_ver01/data/sn83045462/00280601901/1937033101/0334.xml&format=alto_xml"
+  ],
+  "index": 135,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "district of columbia",
+    "washington d.c.",
+    "washington",
+    "united states"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "8",
+    "2",
+    "0",
+    "0000000010",
+    "sn83045462",
+    "9",
+    "1",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000010"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "1",
+    "9",
+    "0",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1937-03-31-ed-1-0334",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1937-03-31/ed-1/?sp=10"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1937-03-31/ed-1/"
+  ],
+  "shelf_id": "10",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)",
+    "washington",
+    "united states"
+  ],
+  "timestamp": "2022-10-24T20:22:18.150Z",
+  "title": "Image 10 of Evening star (Washington, D.C.), March 31, 1937",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1937-03-31/ed-1/?sp=10&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_1johns_ver01%2Fdata%2Fsn83045462%2F00280601901%2F1937033101%2F0334.xml&q=terrorism&relevant_snippet=1"
+}

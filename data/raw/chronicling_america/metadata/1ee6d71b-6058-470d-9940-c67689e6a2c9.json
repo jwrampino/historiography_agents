@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84020355/1898-11-18/ed-1/?sp=2"
+  ],
+  "batch": [
+    "nvln_manhattan_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nevada/",
+    "2/united states/nevada/elko/",
+    "3/united states/nevada/elko/elko/"
+  ],
+  "contributor": [
+    "university of nevada las vegas university libraries"
+  ],
+  "date": "1898-11-18",
+  "dates": [
+    "1898-11-18"
+  ],
+  "description": [
+    "DAILY INDEPENDENT FRIDAY NOV 18 1898 i TIIK IKST1NY CRY A SWINDLE The question of what the United States should do with the Phillipines is attracting the attention of public men everywhere and much is being written and said upon the subject Those who favor the annexation of the islands lay great stress on what they call the manifo6t destiny of the United States Carl Schurz in a speech in New York on the 3d of No vember discusses the de3tiuy cry as follows We are told thatdestiny is push ing us ondestiny the power of which we cannot withstand Mani fest destiny That crj has played a sinister part in the history of the re public before this I remember the time when the slave power talked of extending the area of freedom over Cuba meaning however to fortify itself in Congress by the acquisition of more slave States and thus to strengthen the slave powerof free dom because an irresistible destiny demanded it This was manifest destiny theD When San Domingo vras to be purchased from the hands of its treacherous president ready to sell his country for cash manifest destiny was invoked again as the ir resistible"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-06-30T14:55:33.817Z",
+  "group": [
+    "ndnp/nvln",
+    "university-of-nevada-las-vegas-university-libraries-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84020355/1898-11-18/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554875:1898111801:1088/full/pct:6.25/0/default.jpg#h=473&w=316",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554875:1898111801:1088/full/pct:12.5/0/default.jpg#h=946&w=633",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nvln/batch_nvln_manhattan_ver01/data/sn84020355/00279554875/1898111801/1088.xml&format=alto_xml"
+  ],
+  "index": 17,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "elko",
+    "nevada"
+  ],
+  "location_city": [
+    "elko"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "elko"
+  ],
+  "location_state": [
+    "nevada"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "9",
+    "5",
+    "7",
+    "4",
+    "sn84020355",
+    "0000000002",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84020355"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "5",
+    "4",
+    "8",
+    "7",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Daily Elko independent",
+    "Elko daily independent"
+  ],
+  "page_id": "sn84020355-1898-11-18-ed-1-1088",
+  "partof": [
+    "daily independent (elko, nev.) 188?-1915",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "daily independent (elko, nev.) 188?-1915"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84020355/1898-11-18/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84020355/1898-11-18/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "elko (nev.)",
+    "nevada",
+    "newspapers",
+    "elko"
+  ],
+  "timestamp": "2023-07-01T02:03:45.728Z",
+  "title": "Image 2 of Daily independent (Elko, Nev.), November 18, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84020355/1898-11-18/ed-1/?sp=2&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnvln%2Fbatch_nvln_manhattan_ver01%2Fdata%2Fsn84020355%2F00279554875%2F1898111801%2F1088.xml&q=manifest+destiny&relevant_snippet=1"
+}

@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85042354/1918-12-27/ed-1/?sp=13"
+  ],
+  "batch": [
+    "deu_hockessin_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/delaware/",
+    "2/united states/delaware/new castle/",
+    "3/united states/delaware/new castle/wilmington/"
+  ],
+  "contributor": [
+    "university of delaware library, newark, de"
+  ],
+  "date": "1918-12-27",
+  "dates": [
+    "1918-12-27"
+  ],
+  "description": [
+    "MAas Bolshev sm Whaf Are Soviets An Explanation 1 EDITORS NOTE Whut is Bolshe iKtan sad wbst am Um sovlstsT I lire among the hardest qustiom In tl world to answer today The Uolsh P Ikl refuse to let the Cables or the mall carry out of Russia anything that may prejudice peoples of other countries gainst their theories On the other hand the outside governments in I portatlon refuse to pass uncensored lio things the Bolshevik really want tho world to know Giving ear to trav clcrs from Russia Is tust as bad Those friendly to the Bolshevists tell only that side They are usually ex J ecdlngly strong for them But the traveler who Is against Bolshevism has lonly denunciation good and strong I Newspaper reporters and magazine I writers entering Russia are given every facility and every courtesy If they are found to be at all favorable to the Bol Ihcvlki Bui the writer who refuses Ito pronnse anything until he has seen for himself has no chance He is hounded by spls until nobody will be I seen talking to him I As a result it is next to impossible to Iprint the exact facts In"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-12T17:56:58.321Z",
+  "group": [
+    "ndnp/deu",
+    "university-of-delaware-library-newark-de-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85042354/1918-12-27/ed-1/?sp=13",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_hockessin_ver01:data:sn85042354:00383343033:1918122701:0496/full/pct:6.25/0/default.jpg#h=454&w=331",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_hockessin_ver01:data:sn85042354:00383343033:1918122701:0496/full/pct:12.5/0/default.jpg#h=909&w=663",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/deu/batch_deu_hockessin_ver01/data/sn85042354/00383343033/1918122701/0496.xml&format=alto_xml"
+  ],
+  "index": 59,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "new castle",
+    "wilmington",
+    "delaware"
+  ],
+  "location_city": [
+    "wilmington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new castle"
+  ],
+  "location_state": [
+    "delaware"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "4",
+    "1",
+    "0000000013",
+    "sn85042354",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85042354"
+  ],
+  "number_page": [
+    "0000000013"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "8",
+    "3",
+    "3",
+    "4",
+    "3",
+    "0",
+    "3",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Evening journal and the daily Republican"
+  ],
+  "page_id": "sn85042354-1918-12-27-ed-1-0496",
+  "partof": [
+    "chronicling america",
+    "evening journal (wilmington, del.) 1888-1932",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening journal (wilmington, del.) 1888-1932"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85042354/1918-12-27/ed-1/?sp=13"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85042354/1918-12-27/ed-1/"
+  ],
+  "shelf_id": "13",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "wilmington (del.)",
+    "united states",
+    "newspapers",
+    "wilmington",
+    "delaware",
+    "new castle"
+  ],
+  "timestamp": "2023-08-13T06:23:04.099Z",
+  "title": "Image 13 of Evening journal (Wilmington, Del.), December 27, 1918",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85042354/1918-12-27/ed-1/?sp=13&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdeu%2Fbatch_deu_hockessin_ver01%2Fdata%2Fsn85042354%2F00383343033%2F1918122701%2F0496.xml&q=terrorism&relevant_snippet=1"
+}

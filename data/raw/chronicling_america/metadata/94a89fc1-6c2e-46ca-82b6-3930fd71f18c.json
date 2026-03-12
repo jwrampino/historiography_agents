@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87060190/1898-04-28/ed-1/?sp=1"
+  ],
+  "batch": [
+    "kyu_bronze_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/kentucky/",
+    "2/united states/kentucky/mason/",
+    "3/united states/kentucky/mason/maysville/"
+  ],
+  "contributor": [
+    "university of kentucky, lexington, ky"
+  ],
+  "date": "1898-04-28",
+  "dates": [
+    "1898-04-28"
+  ],
+  "description": [
+    "TTl THE EVENING BULLETIN VOLUME XVII MAYSVILLE KY THURSDAY APRIL 28 1898 NUMBER 133 THE SHORE BATTERIES Of Havana Have Not Yet Been Tumbled Down AUTHORITIES ARE SATISFIED Passive Blockade Seems to Be the Thing Most Desired FLEET WILL NOW REMAIN INTACT It Is Not Iiellevcd That tho Spnnlsh Fleet lias Sailed For American Waters as Declared From Mad rid by Oillclnl There Washington April 2S The blockad ing squadron remains passive before Havana with no present purpose of bombarding or of drawing the Are of the shore batteries The strategic purpose of effective blockade of tho Cuban capital is being accomplished to the entire satisfaction of the authorities here There is no indication that a part of the fleet will be withdrawn for the pur pose of affording additional protection to North Atlantic ports As to the reports of the imminence of a naval battle off the Philippine isl ands the naval authorities here seri ously doubt whether the Spanish fleet will make a stand against the Ameri can ships Their reason for this belief is that the Spanish fleet is very inferior to the American force under Admiral Dewey The department is satisfied that the Spanish fleet will"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-07-21T10:35:14.151Z",
+  "group": [
+    "ndnp/kyu",
+    "university-of-kentucky-lexington-ky-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87060190/1898-04-28/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bronze_ver01:data:sn87060190:00211103942:1898042801:0596/full/pct:6.25/0/default.jpg#h=445&w=286",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bronze_ver01:data:sn87060190:00211103942:1898042801:0596/full/pct:12.5/0/default.jpg#h=891&w=572",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/kyu/batch_kyu_bronze_ver01/data/sn87060190/00211103942/1898042801/0596.xml&format=alto_xml"
+  ],
+  "index": 139,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "mason",
+    "united states",
+    "maysville",
+    "mason county",
+    "kentucky"
+  ],
+  "location_city": [
+    "maysville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "mason"
+  ],
+  "location_state": [
+    "kentucky"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "9",
+    "4",
+    "3",
+    "sn87060190",
+    "2",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87060190"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "1",
+    "1",
+    "0",
+    "3",
+    "9",
+    "4",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87060190-1898-04-28-ed-1-0596",
+  "partof": [
+    "serial and government publications division",
+    "chronicling america",
+    "the evening bulletin (maysville, ky.) 1887-1905"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the evening bulletin (maysville, ky.) 1887-1905"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87060190/1898-04-28/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87060190/1898-04-28/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "mason",
+    "mason county (ky.)",
+    "united states",
+    "maysville (ky.)",
+    "mason county",
+    "maysville",
+    "newspapers",
+    "kentucky"
+  ],
+  "timestamp": "2025-07-21T14:01:07.284Z",
+  "title": "Image 1 of The evening bulletin (Maysville, Ky.), April 28, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87060190/1898-04-28/ed-1/?sp=1&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fkyu%2Fbatch_kyu_bronze_ver01%2Fdata%2Fsn87060190%2F00211103942%2F1898042801%2F0596.xml&q=spanish&relevant_snippet=1"
+}

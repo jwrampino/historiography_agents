@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86090439/1899-10-20/ed-1/?sp=1"
+  ],
+  "batch": [
+    "txdn_frisco_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/texas/",
+    "2/united states/texas/bexar/",
+    "3/united states/texas/bexar/san antonio/"
+  ],
+  "contributor": [
+    "university of north texas; denton, tx"
+  ],
+  "date": "1899-10-20",
+  "dates": [
+    "1899-10-20"
+  ],
+  "description": [
+    "San Antonio Hail VOLUME HUI NO 2728 PAGES ALL KINDS OF SERVICE FOR ALL CLASSES OF PEOPLE The Southwestern Telegraph and Telephone Company is progressive and its popularity is the result of its endeavor to adapt its services to the necessities of its patrons The men of moderate means may enjoy its use in one of its forms as well as his af fluent neighbor The San Antonio International Fair Opens Oct 28 Closes Nov 8 GRAND FESTIVAL Given By the BEETHOVEN MENNERCHOR Friday and Saturday Oct 20 21 See local columns for program BUILDING PERMITS A Big Batch Issued Since Yesterday Morning Since last report City Clerk W W Johnson has issued the following building permits J Sharer permission to erect six room lumber dwelling on Van Ness street ward 6 fo cost lOOO L Wolfson permission to erect brick kitchen addition to store cor ner East and West Commence streets to cost 75 Charles Miller jiermission to erec lumber addition to dwelling at 302 Virginia street ward 7 to cot l5 G Giovanasl permission to erect onestory frame building at the corner of Vera Cruz and Pecos Streets ward 2 to cost l5 John Leasing permission to erect"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-06-05T16:49:50.438Z",
+  "group": [
+    "ndnp/txdn",
+    "university-of-north-texas-denton-tx-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86090439/1899-10-20/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_frisco_ver01:data:sn86090439:00517175092:1899102001:0418/full/pct:6.25/0/default.jpg#h=434&w=289",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_frisco_ver01:data:sn86090439:00517175092:1899102001:0418/full/pct:12.5/0/default.jpg#h=868&w=578",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/txdn/batch_txdn_frisco_ver01/data/sn86090439/00517175092/1899102001/0418.xml&format=alto_xml"
+  ],
+  "index": 109,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "texas",
+    "bexar county",
+    "united states",
+    "san antonio",
+    "bexar"
+  ],
+  "location_city": [
+    "san antonio"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "bexar"
+  ],
+  "location_state": [
+    "texas"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "5",
+    "1",
+    "2",
+    "sn86090439",
+    "7",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86090439"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "5",
+    "0",
+    "9",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Daily light",
+    "Sunday Issues for <November 10, 1895> have title: Sunday light"
+  ],
+  "page_id": "sn86090439-1899-10-20-ed-1-0418",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "san antonio daily light (san antonio, tex.) 1886-1907"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "san antonio daily light (san antonio, tex.) 1886-1907"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86090439/1899-10-20/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86090439/1899-10-20/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "texas",
+    "bexar county",
+    "bexar county (tex.)",
+    "united states",
+    "newspapers",
+    "san antonio",
+    "bexar",
+    "san antonio (tex.)"
+  ],
+  "timestamp": "2025-06-10T13:48:58.380Z",
+  "title": "Image 1 of San Antonio daily light (San Antonio, Tex.), October 20, 1899",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86090439/1899-10-20/ed-1/?sp=1&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Ftxdn%2Fbatch_txdn_frisco_ver01%2Fdata%2Fsn86090439%2F00517175092%2F1899102001%2F0418.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

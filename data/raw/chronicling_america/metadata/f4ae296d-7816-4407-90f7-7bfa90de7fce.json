@@ -1,0 +1,165 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84020109/1860-01-26/ed-1/?sp=1"
+  ],
+  "batch": [
+    "nbu_lee_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nebraska/",
+    "2/united states/nebraska/nemaha/",
+    "3/united states/nebraska/nemaha/auburn/",
+    "3/united states/nebraska/nemaha/brownville/",
+    "3/united states/nebraska/nemaha/calvert/"
+  ],
+  "contributor": [
+    "university of nebraska-lincoln libraries, lincoln, ne"
+  ],
+  "date": "1860-01-26",
+  "dates": [
+    "1860-01-26"
+  ],
+  "description": [
+    "t f T fIJKNAS ANNA gecond Story Iloadleys Elock Main Street IIROITATIUE X T TERMS rj one rer if lai3 ia Jvnce 2 06 if Jaid atxbe endof 6 ruviulif 2 60 tt f 12 Ciub of 12 or wore will bo furnished t JI 60 per Tiiiiim provided tnecali ccuuiiauie tie vrdtr tot L r rinmii iU mwiiW nlfT1 mammu mi imiim m iiiMry 1 I I Miiu i mi mi nimn mull n imiatfimi II 1 1 I1 1 1 I liwn il n i in nil I j I i l 1 1 ul 2 T r fe A 6 TnBiDVEIlTISr 3 Trec Co Fqrni and Hcsalnie All iticlr Mystic InsMntlGrA In io lie Cohstltation of tie United States rates or ADvrrricizras Oa square 13 lineor J5ouiSierli t hjeb ilUitivtiAlinscruoii iwe One squrc c no rrith W lliisino r lrUnf i t I lrp or Itas Cjie rr o vi one Column one year 4 no Oneiialf tohraa one year J5 C One fonrtb Colttsnu ode jeir r 10 UJ Oaeeisiiih C lynn one ye1 2 Oneecliii ix tiiGh Tf s 35 Onahjif Cxlainticix mnnth JJ 01 One fourth Column i rr ith 10 f J One"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:43:31.609Z",
+  "group": [
+    "ndnp/nbu",
+    "university-of-nebraska-of-nebraska-lincoln-libraries-lincoln-ne-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84020109/1860-01-26/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470594:1860012601:0133/full/pct:3.125/0/default.jpg#h=317&w=230",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470594:1860012601:0133/full/pct:6.25/0/default.jpg#h=634&w=460",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nbu/batch_nbu_lee_ver01/data/sn84020109/00212470594/1860012601/0133.xml&format=alto_xml"
+  ],
+  "index": 65,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "calvert",
+    "nebraska",
+    "nemaha",
+    "united states",
+    "auburn",
+    "brownville"
+  ],
+  "location_city": [
+    "auburn",
+    "brownville",
+    "calvert"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "nemaha"
+  ],
+  "location_state": [
+    "nebraska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "0000000001",
+    "sn84020109",
+    "2",
+    "5",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84020109"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "2",
+    "4",
+    "7",
+    "0",
+    "5",
+    "9",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84020109-1860-01-26-ed-1-0133",
+  "partof": [
+    "nebraska advertiser (brownville, nemaha county, n.t. [neb.]) 1856-1882",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "nebraska advertiser (brownville, nemaha county, n.t. [neb.]) 1856-1882"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84020109/1860-01-26/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84020109/1860-01-26/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "calvert",
+    "nebraska",
+    "brownville (neb.)",
+    "nemaha",
+    "united states",
+    "newspapers",
+    "auburn",
+    "brownville"
+  ],
+  "timestamp": "2025-12-15T11:16:25.451Z",
+  "title": "Image 1 of Nebraska advertiser (Brownville, Nemaha County, N.T. [Neb.]), January 26, 1860",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84020109/1860-01-26/ed-1/?sp=1&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnbu%2Fbatch_nbu_lee_ver01%2Fdata%2Fsn84020109%2F00212470594%2F1860012601%2F0133.xml&q=slavery&relevant_snippet=1"
+}

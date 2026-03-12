@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn2001063545/1898-08-12/ed-1/?sp=1"
+  ],
+  "batch": [
+    "sdhi_fennel_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/south dakota/",
+    "2/united states/south dakota/brookings/",
+    "3/united states/south dakota/brookings/brookings/"
+  ],
+  "contributor": [
+    "south dakota state historical society \u2013 state archives"
+  ],
+  "date": "1898-08-12",
+  "dates": [
+    "1898-08-12"
+  ],
+  "description": [
+    "iEzTD H o S FR FRIDAY EDITION m foreign NEWS AHE Zj V 1 1 LjLJL X Ivy IN j you dont oet the news SEMIWEEKLY REGISTER anSsrlisJutl3 1190 SPANISH LOSS m HEAVY Estimated Over a Thousand Were Killed and Wounded Before Manila Attempted Repeatedly to Dis lodge Our Troops but Did Not Succeed VOLUNTEERS FIGHT BRAVELY I Faced the Enemys Fire for Hours Finally Effecting Their Defeat American Casualties Placed at Fifteen Dead and Forty Wounded Cavite Manila Bay Aug 3 ria HI uff Koug Aug 10The first shed Hiug of American blood on Philippine toil took placa Sunday night when 11 ben were killed and 44 wounded dur i GENERAL QUEEN Qg a skirmish at the Malate trenches etween Cavite and Manila Tiie Spanish losses are estimated aq ligli as 30 dead and 1000 wonnded Desultory firing continued Monday nd Tuesday adding somewhat to the Ut of American dead and wonnded Phe killed are Corporal Brown Tenth Pennsylvania Private Brady Tenth Pennsylvania Private Bowkeh First Wyoming Privates Hull Bunton Nosh and itiilwaukn all understood to be of the tenth Pennsylvania j First Sehoeant Just First California Private Dawson lottery K Third rtillery Private McKelrath Battery A Third rtillery"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-06-25T23:47:31.060Z",
+  "group": [
+    "ndnp/sdhi",
+    "south-dakota-state-historical-society-state-archives-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn2001063545/1898-08-12/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_fennel_ver01:data:sn2001063545:00332899831:1898081201:1170/full/pct:3.125/0/default.jpg#h=273&w=169",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_fennel_ver01:data:sn2001063545:00332899831:1898081201:1170/full/pct:6.25/0/default.jpg#h=547&w=339",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_fennel_ver01:data:sn2001063545:00332899831:1898081201:1170/full/pct:12.5/0/default.jpg#h=1095&w=678",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/sdhi/batch_sdhi_fennel_ver01/data/sn2001063545/00332899831/1898081201/1170.xml&format=alto_xml"
+  ],
+  "index": 158,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "brookings",
+    "brookings county",
+    "south dakota"
+  ],
+  "location_city": [
+    "brookings"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "brookings"
+  ],
+  "location_state": [
+    "south dakota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "0000000001",
+    "2",
+    "8",
+    "3",
+    "1",
+    "sn2001063545"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn2001063545"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "9",
+    "8",
+    "3",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn2001063545-1898-08-12-ed-1-1170",
+  "partof": [
+    "semi-weekly register (brookings, brookings co., s.d.) 1894-1898",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "semi-weekly register (brookings, brookings co., s.d.) 1894-1898"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn2001063545/1898-08-12/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn2001063545/1898-08-12/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "brookings (s.d.)",
+    "brookings",
+    "south dakota",
+    "brookings county (s.d.)",
+    "brookings county",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-06-26T07:22:35.802Z",
+  "title": "Image 1 of Semi-weekly register (Brookings, Brookings Co., S.D.), August 12, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn2001063545/1898-08-12/ed-1/?sp=1&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fsdhi%2Fbatch_sdhi_fennel_ver01%2Fdata%2Fsn2001063545%2F00332899831%2F1898081201%2F1170.xml&q=spanish&relevant_snippet=1"
+}

@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn91070618/1959-05-22/ed-1/?sp=3"
+  ],
+  "batch": [
+    "rp_hobgoblin_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/rhode island/",
+    "2/united states/rhode island/newport/",
+    "3/united states/rhode island/newport/newport/"
+  ],
+  "contributor": [
+    "rhode island digital newspaper project"
+  ],
+  "date": "1959-05-22",
+  "dates": [
+    "1959-05-22"
+  ],
+  "description": [
+    "Friday 22 May 1959 Naval Hospital Corner The personnel of the Medical Department U S Navy join the Surgeon Genera in extending congratulations to the Nurse Corps Officers on the occasion of the fiftyfirst anniversary of the establishment of the Nurse Corps as an integral service in the Navy Medical Department Much has been written about the significant contributions Nurse Corps Officers have made to the care of the sick and injured during peacetime and war The general public as well as the personnel in the Navy and com ponent military services are proud of the accomplishments of the members of the Nurse Corps who have served at various peri ods since establishment of the corps on 13 May 1908 Following the advent of nucle NEW CROWS Lloyd W Baldridge left wears his ncu StorrkeHT rating n WAVE France E Welch admires It while having her own Journalist 3C rating attached by Yeoman IC Joseph M Brown of the Naval Station Isgul Office Baldridge is assigned to the Naval Communications station Welch is on the staff of the NAVALOG U S Naval Station Newport R I Menu for Week Starting 25 May 1959 MONDAY TUESDAY WEDNESDAY THURSDAY FRIDAY SATURDAY SUNDAY"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-02-10T14:25:23.255Z",
+  "group": [
+    "ndnp/rp",
+    "rhode-island-digital-newspaper-project"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn91070618/1959-05-22/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_hobgoblin_ver02:data:sn91070618:0051699180A:1959052201:1020/full/pct:6.25/0/default.jpg#h=287&w=244",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_hobgoblin_ver02:data:sn91070618:0051699180A:1959052201:1020/full/pct:12.5/0/default.jpg#h=575&w=489",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_hobgoblin_ver02:data:sn91070618:0051699180A:1959052201:1020/full/pct:25/0/default.jpg#h=1151&w=979",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/rp/batch_rp_hobgoblin_ver02/data/sn91070618/0051699180A/1959052201/1020.xml&format=alto_xml"
+  ],
+  "index": 158,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "rhode island",
+    "newport",
+    "united states"
+  ],
+  "location_city": [
+    "newport"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "newport"
+  ],
+  "location_state": [
+    "rhode island"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn91070618",
+    "8",
+    "0",
+    "a",
+    "0000000003",
+    "9",
+    "1",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn91070618"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "1",
+    "8",
+    "0",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Issues for Jan. 8-Sept. 9, 1988 published as: Navalog"
+  ],
+  "page_id": "sn91070618-1959-05-22-ed-1-1020",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "newport navalog (newport, r.i.) 1944-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "newport navalog (newport, r.i.) 1944-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn91070618/1959-05-22/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn91070618/1959-05-22/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "rhode island",
+    "newspapers",
+    "military bases",
+    "newport (r.i.)",
+    "newport",
+    "united states"
+  ],
+  "timestamp": "2025-02-10T15:05:29.945Z",
+  "title": "Image 3 of Newport navalog (Newport, R.I.), May 22, 1959",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn91070618/1959-05-22/ed-1/?sp=3&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Frp%2Fbatch_rp_hobgoblin_ver02%2Fdata%2Fsn91070618%2F0051699180A%2F1959052201%2F1020.xml&q=nuclear&relevant_snippet=1"
+}

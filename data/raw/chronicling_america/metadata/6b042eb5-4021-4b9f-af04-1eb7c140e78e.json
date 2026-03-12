@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86075271/1946-01-31/ed-1/?sp=7"
+  ],
+  "batch": [
+    "mthi_kevin_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/roosevelt/",
+    "3/united states/montana/roosevelt/wolf point/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1946-01-31",
+  "dates": [
+    "1946-01-31"
+  ],
+  "description": [
+    "Thursday January 31 1946 80000 Koreans Without Clothing Food and Shelter Says Minsoo Pai In Letter Telling of Return to Korea WRITER KNOWN HERE AS MR MINCE PIE CUT OFF FROM FAMILY DUR ING WAR YEARS MR PAI RETURNS TO FIND H I S MOTHER DEAD Rev Minsoo Pai Korean mis sionary well known in the Wolf Point area for his fine talks at the various churches three years ago has sent the following letter to the Rev and Mrs A H Cropp with whom he made his home dur ing his Montana summer visit He jokingly said to call him fMr Mince Pie so his name would not be so hard He had been entirely cut off from his family during the war years not knowing if they were alive or dead and it was great happiness and fear that he left this country last fall to return to his home in Korea The fallowing message to his friends tells of his return and the serious condition of his people and the hard work of rehabilita tion which lies ahead Dear Friends After the excited departure from Penn Station N Y on Soothe your irritated eyes with Murine Biginxted"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-11-19T03:18:02.292Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86075271/1946-01-31/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_kevin_ver01:data:sn86075271:00517179279:1946013101:0045/full/pct:6.25/0/default.jpg#h=375&w=282",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_kevin_ver01:data:sn86075271:00517179279:1946013101:0045/full/pct:12.5/0/default.jpg#h=750&w=565",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_kevin_ver01/data/sn86075271/00517179279/1946013101/0045.xml&format=alto_xml"
+  ],
+  "index": 66,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "wolf point",
+    "montana",
+    "roosevelt"
+  ],
+  "location_city": [
+    "wolf point"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "roosevelt"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn86075271",
+    "0000000007",
+    "9",
+    "2",
+    "5",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86075271"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "9",
+    "2",
+    "7",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86075271-1946-01-31-ed-1-0045",
+  "partof": [
+    "the herald-news (wolf point, mont.) 1940-current",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the herald-news (wolf point, mont.) 1940-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86075271/1946-01-31/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86075271/1946-01-31/ed-1/"
+  ],
+  "shelf_id": "07",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "wolf point",
+    "wolf point (mont.)",
+    "united states",
+    "newspapers",
+    "montana",
+    "roosevelt"
+  ],
+  "timestamp": "2023-11-19T03:29:38.881Z",
+  "title": "Image 7 of The Herald-news (Wolf Point, Mont.), January 31, 1946",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86075271/1946-01-31/ed-1/?sp=7&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_kevin_ver01%2Fdata%2Fsn86075271%2F00517179279%2F1946013101%2F0045.xml&q=korea&relevant_snippet=1"
+}

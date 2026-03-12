@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82007637/1959-12-04/ed-1/?sp=5"
+  ],
+  "batch": [
+    "ohi_goyle_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/lucas/",
+    "3/united states/ohio/lucas/toledo/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1959-12-04",
+  "dates": [
+    "1959-12-04"
+  ],
+  "description": [
+    "Sen Douglas Honored Conference Urges divil Rights Action Sen Paul H Douglas DIll told the Fifth Labor Confer ence on Civil Rights in Chicago that he and 16 other sena tors would push for key civil rights legislation in the coming session of Congress Douglas said 14 Democrats and 3 Republicans will back 1 a Din now lodged in the Judi ciary Committee to empower the AttorneyGeneral to sue school desegregation voting and civil rights cases He told the 500 delegates the bill would arm the voteless with a sword as well as a tri bunal and it can be a power Rul weapon for the good of people who cant fight for themselves In other conference high lights Ladies Garment Workers Vice Pres Morris Bialis urged Pres Eisenhower to convene early in January a White House summit parley on civil rights Robert Johnson director of Auto Workers Region 4 pro sosed a World Human Rights Year patterned after the World Geophysical Year and World Refugee Year Chairman Jacob Siegel of the Jewish Labor Committee of Chicago sponsor of the confer ence scored Vice Pres Richard M Nixon for what he called the vast gulf between Nixons pledge to ban"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-04-13T08:05:43.404Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82007637/1959-12-04/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_goyle_ver01:data:sn82007637:00516993832:1959120401:0933/full/pct:6.25/0/default.jpg#h=418&w=305",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_goyle_ver01:data:sn82007637:00516993832:1959120401:0933/full/pct:12.5/0/default.jpg#h=837&w=611",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_goyle_ver01/data/sn82007637/00516993832/1959120401/0933.xml&format=alto_xml"
+  ],
+  "index": 133,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ohio",
+    "toledo",
+    "lucas county",
+    "lucas",
+    "united states"
+  ],
+  "location_city": [
+    "toledo"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lucas"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0000000005",
+    "sn82007637",
+    "8",
+    "0",
+    "2",
+    "9",
+    "1",
+    "3",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82007637"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "3",
+    "8",
+    "3",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82007637-1959-12-04-ed-1-0933",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "toledo union journal (toledo, ohio) 1942-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "toledo union journal (toledo, ohio) 1942-current"
+  ],
+  "publication_frequency": [
+    "biweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82007637/1959-12-04/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82007637/1959-12-04/ed-1/"
+  ],
+  "shelf_id": "5",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "international union, united automobile workers of america (cio)",
+    "newspapers",
+    "labor unions",
+    "ohio",
+    "toledo",
+    "toledo (ohio)",
+    "lucas county (ohio)",
+    "lucas county",
+    "lucas",
+    "united states",
+    "local 12 (toledo, ohio)"
+  ],
+  "timestamp": "2025-04-13T10:36:17.452Z",
+  "title": "Image 5 of Toledo union journal (Toledo, Ohio), December 4, 1959",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82007637/1959-12-04/ed-1/?sp=5&q=civil+rights",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_goyle_ver01%2Fdata%2Fsn82007637%2F00516993832%2F1959120401%2F0933.xml&q=civil+rights&relevant_snippet=1"
+}

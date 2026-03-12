@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045293/1923-03-21/ed-1/?sp=14"
+  ],
+  "batch": [
+    "whi_feta_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/wisconsin/",
+    "2/united states/wisconsin/milwaukee/",
+    "3/united states/wisconsin/milwaukee/milwaukee/"
+  ],
+  "contributor": [
+    "wisconsin historical society"
+  ],
+  "date": "1923-03-21",
+  "dates": [
+    "1923-03-21"
+  ],
+  "description": [
+    "EDITORIAL PAGE Vol 12No 87 The Milwaukee Leader Entered as secondclass matter August 25 1920 at the a Milwaukee Wisconsin under the Act of March 3 _ Published every evening except Sunday by the Milwaukee Democratic Publishing Company at Chestnut and Sixth s r VICTOR E BERGER Editor ASSOCIATE EDITORS u ftnK E If THOMAS JOHN M AVORK ASSISTANT MANAGER META BERGER 528 Chestnut St Milwaukee W 13 SUBSCRIPTION RATESThe mail editions of The three will be sent to any subscriber In the United States for s ries months 300 for six months 600 for one year In foreign r rhi J 300 for three months 600 for six months 1200 for one y subscription rate includes foreign postage rmnt v The home Edition is delivered by carriers In Milwaukee w for 15c a week or 65c a month Elsewhere by carrier 18c a w a month FOREIGN ADVERTISING REPRESENTATIVE FRALICK BATES v Ave New York Tribune Bldg Chicago 60a N Michlga Atlanta Candler Annex Bldg n Office Hours 8 A M to 6 P M 2Q TeL Grand ooU WHAT WE GET FOR TAXES The Milwaukee Journalalong with the rest of the cap italistic sheetsgi ouches about the rates"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-10-20T02:06:31.302Z",
+  "group": [
+    "ndnp/whi",
+    "wisconsin-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045293/1923-03-21/ed-1/?sp=14",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_feta_ver01:data:sn83045293:00517012804:1923032101:0320/full/pct:3.125/0/default.jpg#h=285&w=222",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_feta_ver01:data:sn83045293:00517012804:1923032101:0320/full/pct:6.25/0/default.jpg#h=570&w=444",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_feta_ver01:data:sn83045293:00517012804:1923032101:0320/full/pct:12.5/0/default.jpg#h=1141&w=889",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/whi/batch_whi_feta_ver01/data/sn83045293/00517012804/1923032101/0320.xml&format=alto_xml"
+  ],
+  "index": 155,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "wisconsin",
+    "milwaukee"
+  ],
+  "location_city": [
+    "milwaukee"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "milwaukee"
+  ],
+  "location_state": [
+    "wisconsin"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn83045293",
+    "2",
+    "8",
+    "5",
+    "4",
+    "1",
+    "7",
+    "0000000014"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045293"
+  ],
+  "number_page": [
+    "0000000014"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "0",
+    "1",
+    "2",
+    "8",
+    "0",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83045293-1923-03-21-ed-1-0320",
+  "partof": [
+    "chronicling america",
+    "the milwaukee leader (milwaukee, wis.) 1911-1938",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the milwaukee leader (milwaukee, wis.) 1911-1938"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045293/1923-03-21/ed-1/?sp=14"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045293/1923-03-21/ed-1/"
+  ],
+  "shelf_id": "14",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "https://id.oclc.org/worldcat/entity/e39pbjj8j7dbwccgbfpvchw3cp",
+    "socialism",
+    "wisconsin",
+    "milwaukee",
+    "united states",
+    "newspapers",
+    "milwaukee (wis.)"
+  ],
+  "timestamp": "2024-10-20T02:50:53.250Z",
+  "title": "Image 14 of The Milwaukee leader (Milwaukee, Wis.), March 21, 1923, (Morning Edition)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045293/1923-03-21/ed-1/?sp=14&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwhi%2Fbatch_whi_feta_ver01%2Fdata%2Fsn83045293%2F00517012804%2F1923032101%2F0320.xml&q=manifest+destiny&relevant_snippet=1"
+}

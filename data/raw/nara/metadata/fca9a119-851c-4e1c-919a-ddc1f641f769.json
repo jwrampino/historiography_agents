@@ -1,0 +1,254 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "shotList": "LS 1917 class BB\"s in Hudson River, N. Y.AV N. Y. City.AV Woolworth Building & bridges across East River.AV 1917 class BB\"s steaning in the water below.MCU Demonstration of fire apparatus before high-ranking Officers at Great Lakes, Illinois.LS Officers & men assembled at station, Great Lakes.MS High-ranking officers inspect men who are lined up.LS Sailors on parade grounds march before high-ranking Officers.",
+  "subjects": [
+    {
+      "heading": "Hudson River (N.Y. and N.J.)",
+      "authorityType": "geographicPlaceName",
+      "naId": 10045427
+    },
+    {
+      "heading": "Motion pictures",
+      "authorityType": "specificRecordsType",
+      "naId": 10631732
+    },
+    {
+      "heading": "Naval officers",
+      "authorityType": "topicalSubject",
+      "naId": 10644508
+    },
+    {
+      "heading": "Buildings",
+      "authorityType": "topicalSubject",
+      "naId": 10640473
+    },
+    {
+      "heading": "Rites and ceremonies",
+      "authorityType": "topicalSubject",
+      "naId": 10643302
+    },
+    {
+      "heading": "Battleships",
+      "authorityType": "topicalSubject",
+      "naId": 10636600
+    },
+    {
+      "heading": "Cities and towns",
+      "authorityType": "topicalSubject",
+      "naId": 10637745
+    },
+    {
+      "heading": "Marching",
+      "authorityType": "topicalSubject",
+      "naId": 10647051
+    },
+    {
+      "heading": "Navy-yards and naval stations",
+      "authorityType": "topicalSubject",
+      "naId": 10640935
+    },
+    {
+      "heading": "Fires",
+      "authorityType": "topicalSubject",
+      "naId": 10636978
+    },
+    {
+      "heading": "Bridges",
+      "authorityType": "topicalSubject",
+      "naId": 10638278
+    },
+    {
+      "heading": "Inspections",
+      "authorityType": "topicalSubject",
+      "naId": 10648261
+    },
+    {
+      "heading": "Rivers",
+      "authorityType": "topicalSubject",
+      "naId": 10643808
+    }
+  ],
+  "useRestriction": {
+    "status": "Undetermined"
+  },
+  "editStatus": "Unedited",
+  "audiovisual": "True",
+  "title": "AERIAL VIEWS OF N. Y. CITY GREAT LAKES TRAINING STATION. Chicago, Illinois",
+  "coverageEndDate": {
+    "dateQualifier": "ca.",
+    "year": 1939,
+    "logicalDate": "1939-12-31"
+  },
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-3540",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Motion Pictures",
+          "state": "MD",
+          "fax": "301-837-3622",
+          "email": "mopix@nara.gov",
+          "mailCode": "RRSM"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "elementNumber": 1,
+          "reelTapeDiscNumber": 1,
+          "color": "Black-and-White",
+          "footage": 928,
+          "format": "Film: FGMS",
+          "specificMediaType": "Film Reel",
+          "dimension": "Film: 35 mm"
+        }
+      ],
+      "copyStatus": "Preservation"
+    },
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-3540",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Motion Pictures",
+          "state": "MD",
+          "fax": "301-837-3622",
+          "email": "mopix@nara.gov",
+          "mailCode": "RRSM"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "elementNumber": 1,
+          "reelTapeDiscNumber": 1,
+          "format": "Video: Digital Betacam",
+          "specificMediaType": "Video Cassette",
+          "dimension": "1/2 inch"
+        }
+      ],
+      "copyStatus": "Reproduction"
+    },
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-3540",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Motion Pictures",
+          "state": "MD",
+          "fax": "301-837-3622",
+          "email": "mopix@nara.gov",
+          "mailCode": "RRSM"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "elementNumber": 1,
+          "reelTapeDiscNumber": 1,
+          "color": "Black-and-White",
+          "footage": 928,
+          "format": "Film: PPS",
+          "specificMediaType": "Film Reel",
+          "dimension": "Film: 35 mm"
+        }
+      ],
+      "copyStatus": "Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "coverageStartDate": {
+    "dateQualifier": "ca.",
+    "year": 1917,
+    "logicalDate": "1917-01-01"
+  },
+  "dataControlGroup": {
+    "groupName": "National Archives at College Park \u2013 Motion Pictures",
+    "groupId": "RRAM",
+    "groupCd": "RRAM"
+  },
+  "generalRecordsTypes": [
+    "Moving Images"
+  ],
+  "generalNotes": [
+    "[PRE-WAR]."
+  ],
+  "localIdentifier": "428-NPC-2892",
+  "variantControlNumbers": [
+    {
+      "number": "NWDNM(m)-428-NPC-2892",
+      "type": "NAIL Control Number"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "428-npc-2892.mp4",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/mopix/428/NPC/428-npc-2892.mp4",
+      "objectFileSize": 253908944,
+      "objectDesignator": "Reel 1 of 1",
+      "objectId": "183895602",
+      "objectType": "Audio/Visual File (MP4)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1941,
+        "logicalDate": "1941-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 428,
+      "inclusiveEndDate": {
+        "year": 2004,
+        "logicalDate": "2004-12-31"
+      },
+      "title": "General Records of the Department of the Navy",
+      "naId": 717
+    },
+    {
+      "inclusiveStartDate": {
+        "dateQualifier": "ca.",
+        "year": 1947,
+        "logicalDate": "1947-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "Department of Defense. Department of the Navy. Naval Photographic Center. (12/01/1959 - ca. 1998)",
+          "abolishDate": {
+            "year": 1998,
+            "logicalDate": "1998-12-31"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 12,
+            "year": 1959,
+            "day": 1,
+            "logicalDate": "1959-12-01"
+          },
+          "naId": 10466012
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1980,
+        "logicalDate": "1980-12-31"
+      },
+      "title": "Moving Images Relating to Military Activities",
+      "naId": 75284
+    }
+  ],
+  "naId": 76578
+}

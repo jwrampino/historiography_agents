@@ -1,0 +1,154 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86075189/1952-03-28/ed-1/?sp=2"
+  ],
+  "batch": [
+    "mthi_douglasfir_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/lewis and clark/",
+    "3/united states/montana/lewis and clark/helena/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1952-03-28",
+  "dates": [
+    "1952-03-28"
+  ],
+  "description": [
+    "PROGRESSIVES MAY ENTER Continued from page one Among its functions will be to choose candidates for various state offices such as railroad commissioner etc MAURY KEYNOTES CONVENTION Although the convention program originally called for three principal speakers Presidential candidate Hal linan was unable to attend because of legal entanglements in San Francisco and OConnell was unable to make the convention rostrum because of illness H Lowndes Maury Butte at torney was there and held the close attention of his audience all during the 30 minutes he spoke Although Mr Maury spoke prin cipally on basic economic conditions of the country of the militarys drive to gain control and the adverse ef fect our foreign policy is having on world opinion he did deviate from his prepared talk to suggest to the delegates that it is within the realm of possibility that a young man such as my friend Jerry OConnell could win the senate race on a platform calling for immediate return of Amer ican troops from Korea and the end of warlike aid to all foreign coun tries Maurys suggestion that OCon nell enter the senate race has a good many political guessing None of them underesti mate OConnells"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:45:50.606Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86075189/1952-03-28/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_douglasfir_ver01:data:sn86075189:00414211021:1952032801:1181/full/pct:6.25/0/default.jpg#h=422&w=288",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_douglasfir_ver01:data:sn86075189:00414211021:1952032801:1181/full/pct:12.5/0/default.jpg#h=844&w=576",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_douglasfir_ver01/data/sn86075189/00414211021/1952032801/1181.xml&format=alto_xml"
+  ],
+  "index": 83,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "helena",
+    "united states",
+    "montana",
+    "lewis and clark"
+  ],
+  "location_city": [
+    "helena"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lewis and clark"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "sn86075189",
+    "4",
+    "0000000002",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86075189"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "2",
+    "1",
+    "1",
+    "0",
+    "2",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86075189-1952-03-28-ed-1-1181",
+  "partof": [
+    "the people's voice (helena, mont.) 1939-1969",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the people's voice (helena, mont.) 1939-1969"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86075189/1952-03-28/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86075189/1952-03-28/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "helena (mont.)",
+    "montana",
+    "history",
+    "helena",
+    "lewis and clark"
+  ],
+  "timestamp": "2023-07-05T20:55:47.762Z",
+  "title": "Image 2 of The People's voice (Helena, Mont.), March 28, 1952",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86075189/1952-03-28/ed-1/?sp=2&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_douglasfir_ver01%2Fdata%2Fsn86075189%2F00414211021%2F1952032801%2F1181.xml&q=korea&relevant_snippet=1"
+}

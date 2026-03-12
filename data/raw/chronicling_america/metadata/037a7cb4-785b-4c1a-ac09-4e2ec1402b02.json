@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86063811/1938-03-02/ed-1/?sp=2"
+  ],
+  "batch": [
+    "ncu_endive_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/north carolina/",
+    "2/united states/north carolina/henderson/",
+    "3/united states/north carolina/henderson/hendersonville/"
+  ],
+  "contributor": [
+    "university of north carolina at chapel hill library, chapel hill, nc"
+  ],
+  "date": "1938-03-02",
+  "dates": [
+    "1938-03-02"
+  ],
+  "description": [
+    "THE TIMESNEWS Hendersonville News Established in 1894 HndarioifiHe Time Established in 1881 Published every afternoon except Sunday at 227 North Main Street Hendersonville N C by The TimesNews Co Inc Owner and Publisher J T FAIN Editor C M OGLE Manafltaf Editor HENRY ATKIN City Editor TELEPHONE 87 SUBSCRIPTION RATES By TimesNews Carrier in Benders on ville or else where per week 12c Due to high pokage rates the subscription price of The TimesNews in sones above No 2 will be based on the cost of postage Entered as second class matter at the post office in Hendersonville N C WEDNESDAY MARCH 2 1938 TAX EXEMPT SECURITIES Is a Contract a Contract asks The Wall Street Journal in an article on the subject of tax exempt securities and pro posals to tax them The Journals position is that govern ment should cease making such contracts but contracts already made should be car ried through A promise made by a gov ernment should be worth something as a promise according to the views of The Journal The newspapers opinion is that to tax securities already issued and sold under tax exemption would be to repudi ate the governments contract with the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-12T17:34:20.438Z",
+  "group": [
+    "ndnp/ncu",
+    "university-of-north-carolina-chapel-hill-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86063811/1938-03-02/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_endive_ver02:data:sn86063811:0027955839A:1938030201:0328/full/pct:3.125/0/default.jpg#h=291&w=206",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_endive_ver02:data:sn86063811:0027955839A:1938030201:0328/full/pct:6.25/0/default.jpg#h=582&w=412",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_endive_ver02:data:sn86063811:0027955839A:1938030201:0328/full/pct:12.5/0/default.jpg#h=1165&w=824",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ncu/batch_ncu_endive_ver02/data/sn86063811/0027955839A/1938030201/0328.xml&format=alto_xml"
+  ],
+  "index": 112,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "hendersonville",
+    "henderson",
+    "north carolina"
+  ],
+  "location_city": [
+    "hendersonville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "henderson"
+  ],
+  "location_state": [
+    "north carolina"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "3",
+    "5",
+    "2",
+    "1",
+    "a",
+    "7",
+    "0000000002",
+    "sn86063811",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86063811"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "5",
+    "8",
+    "3",
+    "9",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86063811-1938-03-02-ed-1-0328",
+  "partof": [
+    "chronicling america",
+    "the times-news (hendersonville, n.c.) 1927-current",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the times-news (hendersonville, n.c.) 1927-current"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86063811/1938-03-02/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86063811/1938-03-02/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "hendersonville (n.c.)",
+    "henderson",
+    "hendersonville",
+    "north carolina"
+  ],
+  "timestamp": "2023-08-13T02:28:22.776Z",
+  "title": "Image 2 of The times-news (Hendersonville, N.C.), March 2, 1938",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86063811/1938-03-02/ed-1/?sp=2&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fncu%2Fbatch_ncu_endive_ver02%2Fdata%2Fsn86063811%2F0027955839A%2F1938030201%2F0328.xml&q=fascism&relevant_snippet=1"
+}

@@ -1,0 +1,131 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16094/?sp=2"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1805-10-15",
+  "dates": [
+    "1805-10-15"
+  ],
+  "description": [
+    "6 eee Sr o Pa ae ee ate THE HURKARU a TUESDAY OCTOBER 15 1805 _ CIVIL APPOINTMENT Mr C H Hoppner ifter and Second Affiftant to the of the Zillah of Bavgulpore Mr John Gilman nate Superintendent re Bareilli Regiment Native Infantry to Scene on furlough on account of his health on furnifhing the prefcribe Department Major James Irwin of the 3 Infantry is per jough onaccoun the prefcribed ative Enfantr is A anes Pan of his health on furnifhing on furlough on acco the prefcribed certificate from the Pay Department Regiment is permitt eventually the exifting Regulations an ject on furnifhing the pre Pay is p\u00e9rmitte fervice and to proce Lieutenant Colonel Jame from furlough by P Court of Directofs t arrived from certificates an pointments for t o the fervice accordingly fels fail ne ee JUDICVAL DEPARTMENT OCTOBER 4 1805 Affiftant to the Re Magiftrate no to gi OCTOBER 4 1805 to the Office of Subordi Vaccine Inoculation at _ GENERAL ORDERS By the Vice Prefident in Council FORT WILLIAM OCTOBER 4 1805 s Maclean of the 27th is permitted to proceed d ertificate from the Pay d Regiment of Native mitted to proceed to Europe on"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16094/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16094:0002/full/pct:6.25/0/default.jpg#h=491&w=336",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16094:0002/full/pct:12.5/0/default.jpg#h=982&w=672",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16094:0002/full/pct:25.0/0/default.jpg#h=1965&w=1345",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16094:0002/full/pct:50.0/0/default.jpg#h=3930&w=2690",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16094:0002/full/pct:100.0/0/default.jpg#h=7860&w=5381",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16094/0002.alto.xml&format=alto_xml"
+  ],
+  "index": 73,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "india",
+    "calcutta"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "sn88063570",
+    "sn88063571",
+    "sn88063569",
+    "2025-08-13t13:59:42.400000",
+    "0000000002"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16094-0002-alto",
+  "partof": [
+    "asian division",
+    "general collections",
+    "world newspapers",
+    "catalog",
+    "south asian digital collection",
+    "serial and government publications division",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "world digital library"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16094/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16094/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "india",
+    "calcutta"
+  ],
+  "timestamp": "2025-12-12T07:20:07.280Z",
+  "title": "Image 2 of Volume 11, Number 561, Tuesday, October 15, 1805 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16094/?sp=2&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16094%2F0002.alto.xml&q=great+war&relevant_snippet=1"
+}

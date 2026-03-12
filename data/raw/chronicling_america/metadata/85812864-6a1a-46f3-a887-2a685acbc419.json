@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045433/1921-04-17/ed-1/?sp=35"
+  ],
+  "batch": [
+    "dlc_frenchbulldog_ver04"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1921-04-17",
+  "dates": [
+    "1921-04-17"
+  ],
+  "description": [
+    "gliegfaat r f DR HERRI yJAB by year Uncle Sam to becoming 1 mpre tad more choosy about the children he adopt and hla latest move la controlling immigration li to create a womana section of tbo bureau and plaea a woman at the head of it Dr Katharine Barring Dr Harriot by profaaaioa a phyafctaa baa loag bean a student of sodal sconomles and for aoma tlma past aba baa dona work In conectlon with the Immigration Service and tba Childrens Bureaa It to no imall taak that the moat tackle inasmuch as sh will be called upon to direct the activities af a large number of women who are to be made fullfledged tnapectora of immigration I found Dr Herring in her olBee at the Department of Labor and our talk began with a Qneation that I aakad regarding the new epaning for wunieiin tba aarrka for up to tba tiiaaint time tbare has bae a rather marked discrimination against the gentler sax ia all ka boalneas eaacted with Immigration Saan women stenographer ware accepted wHh i llurtr before tba war Tba aaaiifthj of tba govarnmeat is to giva better recognition to women in the immigration sen ice"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-01-08T13:47:45.623Z",
+  "group": [
+    "ndnp/dlc-2011_2013",
+    "library-of-congress-washington-dc-awardee-4"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045433/1921-04-17/ed-1/?sp=35",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frenchbulldog_ver04:data:sn83045433:00280764164:1921041701:0196/full/pct:6.25/0/default.jpg#h=382&w=275",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frenchbulldog_ver04:data:sn83045433:00280764164:1921041701:0196/full/pct:12.5/0/default.jpg#h=765&w=551",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_frenchbulldog_ver04/data/sn83045433/00280764164/1921041701/0196.xml&format=alto_xml"
+  ],
+  "index": 17,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "district of columbia",
+    "washington d.c.",
+    "washington",
+    "united states"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000035",
+    "8",
+    "0",
+    "2",
+    "7",
+    "1",
+    "sn83045433",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045433"
+  ],
+  "number_page": [
+    "0000000035"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "7",
+    "6",
+    "4",
+    "1",
+    "6",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Washington times-herald",
+    "Washington herald times"
+  ],
+  "page_id": "sn83045433-1921-04-17-ed-1-0196",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the washington herald (washington, d.c.) 1906-1939"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington herald (washington, d.c.) 1906-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045433/1921-04-17/ed-1/?sp=35"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045433/1921-04-17/ed-1/"
+  ],
+  "shelf_id": "35",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)",
+    "washington",
+    "united states"
+  ],
+  "timestamp": "2025-01-08T19:30:43.182Z",
+  "title": "Image 35 of The Washington herald (Washington, D.C.), April 17, 1921",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045433/1921-04-17/ed-1/?sp=35&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_frenchbulldog_ver04%2Fdata%2Fsn83045433%2F00280764164%2F1921041701%2F0196.xml&q=immigration&relevant_snippet=1"
+}

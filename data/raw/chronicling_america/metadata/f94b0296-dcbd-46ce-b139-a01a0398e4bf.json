@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85053223/1950-08-31/ed-1/?sp=6"
+  ],
+  "batch": [
+    "mthi_dillon_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/sanders/",
+    "3/united states/montana/sanders/hot springs/",
+    "3/united states/montana/sanders/camas/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1950-08-31",
+  "dates": [
+    "1950-08-31"
+  ],
+  "description": [
+    "K _ SOVIET UNIOM MANCHURIA I p sea r OF Pyongyang Q JAPAN C x r 38 PARALLEL SEOUL V yellow j 5254 X C XTAEJON S tacglNCT S PUSAN o Korea juts from Manchuria with one corner bordering the Soviet Union Its total population is over 30 million people with twothirds of them living in South Korea below the 38th parallel LAND of the morning calm Korea Has Struggled for Unity And Independence for 50 Years A great many people in the United States were very vague about the location of Korea until the recent outbreak of fighting in that little country that juts from Manchuria and the Soviet Union not unlike Florida from the southern part of this country It is a rugged land of 30 000000 people with mountain ranges comparable in height to the Appalachians covering virtually all the country Granite hills up to 6300 feet fold the terrains of the United States sponsored Republic of Korea the Indianasized southern three seventh of the peninsular land They form a twisting network of valleys which invaders have always fol lowed So completely do the rugged hills crease the country that rail and highway routes twist fantastically in"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:49:54.726Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85053223/1950-08-31/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_dillon_ver01:data:sn85053223:00517178470:1950083101:0268/full/pct:6.25/0/default.jpg#h=348&w=284",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_dillon_ver01:data:sn85053223:00517178470:1950083101:0268/full/pct:12.5/0/default.jpg#h=696&w=568",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_dillon_ver01/data/sn85053223/00517178470/1950083101/0268.xml&format=alto_xml"
+  ],
+  "index": 5,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "hot springs",
+    "camas",
+    "montana",
+    "sanders",
+    "united states"
+  ],
+  "location_city": [
+    "hot springs",
+    "camas"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "sanders"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn85053223",
+    "8",
+    "0",
+    "0000000006",
+    "7",
+    "1",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85053223"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "8",
+    "4",
+    "7",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85053223-1950-08-31-ed-1-0268",
+  "partof": [
+    "chronicling america",
+    "the camas hot springs exchange (camas, mont.) 1926-1959",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the camas hot springs exchange (camas, mont.) 1926-1959"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85053223/1950-08-31/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85053223/1950-08-31/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "hot springs",
+    "camas",
+    "montana",
+    "sanders",
+    "united states"
+  ],
+  "timestamp": "2023-07-05T19:46:39.404Z",
+  "title": "Image 6 of The Camas Hot Springs exchange (Camas, Mont.), August 31, 1950",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85053223/1950-08-31/ed-1/?sp=6&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_dillon_ver01%2Fdata%2Fsn85053223%2F00517178470%2F1950083101%2F0268.xml&q=korea&relevant_snippet=1"
+}

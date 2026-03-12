@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1923-04-29/ed-1/?sp=31"
+  ],
+  "batch": [
+    "dlc_armstrong_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1923-04-29",
+  "dates": [
+    "1923-04-29"
+  ],
+  "description": [
+    "l K s Western States Oil Corporation Incorporated under the Laws of Delaware 350 Madison Avenue New York City Three Principal Operating Offices Los Angeles California Tulsa Oklahoma Sheridan Wyoming Capital Stock Authorized Shares Ten Dollars 10 all Common 20000000 Capital Stock Issued full paid 4100000 OFFICERS HON J V McCLINTIC President WM E ALLAUN VicePresident C H ROWAN Secretary and Treasurer directors C N HASKELL Chairman of Board of Middle States Oil Corporation J V McCLINTIC and The Southern States Oil Corporation W G WILLIAMS SCOTT FERRIS President of The Southern States Oil Corporation WM E ALLAUN t P D SAKLATVALA President of Middle States Oil Corporation R K STALEY WESTERN STATES OIL CORPORATION was formed for the purpose of conducting the oil fad It is our opinion however that WESTERN STATES OIL CORPORATIONS new development work should pro U1 i c r California duce exceptionally profitable results but even average results in this new development undertaking should add a large and gas producing and marketing business chiefly in the States of Wyoming Montana a QL speculative value over and above the steadygoing substantial value that we feel sure the Companys operations in proven but in acquiring properties it"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:48:04.592Z",
+  "group": [
+    "ndnp/dlc-2017_2017",
+    "library-of-congress-washington-dc-awardee-6"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1923-04-29/ed-1/?sp=31",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_armstrong_ver02:data:sn83045462:0028065730A:1923042901:0549/full/pct:3.125/0/default.jpg#h=261&w=203",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_armstrong_ver02:data:sn83045462:0028065730A:1923042901:0549/full/pct:6.25/0/default.jpg#h=523&w=406",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_armstrong_ver02:data:sn83045462:0028065730A:1923042901:0549/full/pct:12.5/0/default.jpg#h=1046&w=812",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_armstrong_ver02/data/sn83045462/0028065730A/1923042901/0549.xml&format=alto_xml"
+  ],
+  "index": 25,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "district of columbia",
+    "washington d.c.",
+    "washington",
+    "united states"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "1",
+    "8",
+    "2",
+    "0",
+    "sn83045462",
+    "a",
+    "7",
+    "0000000031",
+    "3",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000031"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "7",
+    "3",
+    "0",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1923-04-29-ed-1-0549",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1923-04-29/ed-1/?sp=31"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1923-04-29/ed-1/"
+  ],
+  "shelf_id": "31",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)",
+    "washington",
+    "united states"
+  ],
+  "timestamp": "2022-10-24T15:17:22.817Z",
+  "title": "Image 31 of Evening star (Washington, D.C.), April 29, 1923",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1923-04-29/ed-1/?sp=31&q=oil",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_armstrong_ver02%2Fdata%2Fsn83045462%2F0028065730A%2F1923042901%2F0549.xml&q=oil&relevant_snippet=1"
+}

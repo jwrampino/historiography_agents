@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86063325/1857-02-12/ed-1/?sp=1"
+  ],
+  "batch": [
+    "mohi_henri_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/missouri/",
+    "2/united states/missouri/howard/",
+    "3/united states/missouri/howard/glasgow/"
+  ],
+  "contributor": [
+    "state historical society of missouri; columbia, mo"
+  ],
+  "date": "1857-02-12",
+  "dates": [
+    "1857-02-12"
+  ],
+  "description": [
+    "CLARK II GREEN EDITOR AND PROPRIETOR C ONE DOLLAR PER ANNUM INVARIABLY IN ADVANCE VOL 17 GLASGOW MO THURSDAY MORNING FEBRUARY 12 1857 NO 50 Single copies of Thb Times put up in cents a copy wrappers can always be bad at the ollite at five fPSYenrly advertisers are restricted to their legitimate business Other advertisements will be charged at regular rates JNo charge for Inserting deaths but fifty eents per square will be charged for obituary notices to lie paid in advance JjThe charge for marriage notices is left to the bridegroom and will be acknoledged in the paper rSWhere editorial notice of advertisements is requested 11 win oe given aim cuaigeu iui MISSOURI LEOISLATUEE I Debate in Joint Session pending Hit tlection of Public Printer Mobdat January 25 Tha two Houses on the reception of the Senate having resolved themselves into JOINT SESSION LicutGov Jackson in the Chair vThe President explained the object of the Joint Session to be the election of Pub lic Printer v nominations being Kn lrflptv Mr ZEioLEnMSte Jenevieve Dem Sen1 Tnresentto theJoint Session the i name of Mr Chilton J Corwin Mr Butts of Andrew Dem Rep nominate Mr James Lusk Mr Jones"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T12:02:01.614Z",
+  "group": [
+    "ndnp/mohi",
+    "state-historical-society-of-missouri-columbia-mo-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86063325/1857-02-12/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292479:1857021201:0239/full/pct:6.25/0/default.jpg#h=412&w=332",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292479:1857021201:0239/full/pct:12.5/0/default.jpg#h=825&w=664",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mohi/batch_mohi_henri_ver01/data/sn86063325/00200292479/1857021201/0239.xml&format=alto_xml"
+  ],
+  "index": 62,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "howard",
+    "missouri",
+    "glasgow",
+    "howard county",
+    "united states"
+  ],
+  "location_city": [
+    "glasgow"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "howard"
+  ],
+  "location_state": [
+    "missouri"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn86063325",
+    "9",
+    "0000000001",
+    "2",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86063325"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "0",
+    "2",
+    "9",
+    "2",
+    "4",
+    "7",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86063325-1857-02-12-ed-1-0239",
+  "partof": [
+    "chronicling america",
+    "glasgow weekly times (glasgow, mo.) 1848-1861",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "glasgow weekly times (glasgow, mo.) 1848-1861"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86063325/1857-02-12/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86063325/1857-02-12/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "howard",
+    "missouri",
+    "glasgow",
+    "howard county (mo.)",
+    "glasgow (mo.)",
+    "howard county",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2022-10-17T16:05:36.044Z",
+  "title": "Image 1 of Glasgow weekly times (Glasgow, Mo.), February 12, 1857",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86063325/1857-02-12/ed-1/?sp=1&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmohi%2Fbatch_mohi_henri_ver01%2Fdata%2Fsn86063325%2F00200292479%2F1857021201%2F0239.xml&q=slavery&relevant_snippet=1"
+}

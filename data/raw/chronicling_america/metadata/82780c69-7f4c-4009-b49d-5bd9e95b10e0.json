@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1910-07-17/ed-1/?sp=31"
+  ],
+  "batch": [
+    "dlc_leviathan_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1910-07-17",
+  "dates": [
+    "1910-07-17"
+  ],
+  "description": [
+    "Rf a ttxt n hp JLUi Jl X 111VJ X By Ralph St J Perry Drawing by W Berger SOON after my advent into the inner circles of West African society there came J to me stories of sassywood JM trials This is a hush devil d substitute for judge jury and executioner and absolutely im LI partial in its action killing the E innocent with the same equa Jg nimity and promptness it dis BmWtL j plays in executing the guilty There are no court delays or fE quibblings no attention is paid TBLJSP JbB to evidence judges charges or 1 EHLggiBHS attorneys oratorv and there arc no appeals to higher courts From my native boys I aseer tained that when a man was accused of a major crime he was summoned before the bush devil and in the presence of the as Si sembled multitude was compelled to drink a large calabashful of sassywood tea If he was guilty the draft killed him if he was innocent he threw it up and escaped If he escaped he had the right to demand that his accuser submit to the ordeal As sassywood tea was known to be a most"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:32:40.658Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1910-07-17/ed-1/?sp=31",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leviathan_ver01:data:sn83045462:00280656410:1910071701:0057/full/pct:6.25/0/default.jpg#h=371&w=259",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leviathan_ver01:data:sn83045462:00280656410:1910071701:0057/full/pct:12.5/0/default.jpg#h=743&w=518",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_leviathan_ver01/data/sn83045462/00280656410/1910071701/0057.xml&format=alto_xml"
+  ],
+  "index": 27,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "5",
+    "0000000031",
+    "4",
+    "sn83045462",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000031"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "6",
+    "4",
+    "1",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1910-07-17-ed-1-0057",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1910-07-17/ed-1/?sp=31"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1910-07-17/ed-1/"
+  ],
+  "shelf_id": "31",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-21T01:19:53.641Z",
+  "title": "Image 31 of Evening star (Washington, D.C.), July 17, 1910",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1910-07-17/ed-1/?sp=31&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_leviathan_ver01%2Fdata%2Fsn83045462%2F00280656410%2F1910071701%2F0057.xml&q=medicine&relevant_snippet=1"
+}

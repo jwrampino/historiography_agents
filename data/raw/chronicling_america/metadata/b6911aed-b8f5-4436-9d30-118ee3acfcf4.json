@@ -1,0 +1,165 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86064259/1918-10-25/ed-1/?sp=7"
+  ],
+  "batch": [
+    "tu_frank_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/tennessee/",
+    "2/united states/tennessee/davidson/",
+    "3/united states/tennessee/davidson/nashville/"
+  ],
+  "contributor": [
+    "university of tennessee"
+  ],
+  "date": "1918-10-25",
+  "dates": [
+    "1918-10-25"
+  ],
+  "description": [
+    "NASHVILLE GLOBE FRIDAY OCTOBER 25 1918 J THB RECONSTRUCTION CONGRESS How ihll the peril of the tranat tloa from war to Peace be met Shall Consr regain Its Constitutional powers The next Congress wll be a Recon struction Congress Convening on the fourth of March 1919 it will last until the fourth of March 1921 Without indulging iu prophecy one may say almost to a certainty that his coming Congress will be hat one which will loom out of the history of the United States as the legislative body which first grappled with the vast afterwar problem Who can overestimate the importance of this Reconstruction Congres3in the life of the nation dur ing the coining era This will be true whether or not the war is over Very few lf any believe the war ca last until March 4th 1921 Whether it does or does not the Con gress to be elected on November 5th next will find pressing upon it ever increasingly the almost myriad prob lems of Reconstruction Already even the present Congress has been forced to give a certain amount of attention to Reconstruction This attention as yet has been com paratively superficial despite the fact that"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-10-19T09:57:20.891Z",
+  "group": [
+    "ndnp/tu",
+    "university-of-tennessee-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86064259/1918-10-25/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn86064259:0029602059A:1918102501:0785/full/pct:6.25/0/default.jpg#h=452&w=316",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn86064259:0029602059A:1918102501:0785/full/pct:12.5/0/default.jpg#h=904&w=633",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/tu/batch_tu_frank_ver01/data/sn86064259/0029602059A/1918102501/0785.xml&format=alto_xml"
+  ],
+  "index": 97,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "nashville",
+    "davidson county",
+    "tennessee",
+    "davidson"
+  ],
+  "location_city": [
+    "nashville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "davidson"
+  ],
+  "location_state": [
+    "tennessee"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn86064259",
+    "0",
+    "1",
+    "9",
+    "6",
+    "5",
+    "a",
+    "0000000007",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86064259"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "6",
+    "0",
+    "2",
+    "0",
+    "5",
+    "9",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86064259-1918-10-25-ed-1-0785",
+  "partof": [
+    "serial and government publications division",
+    "the nashville globe (nashville, tenn.) 1906-193?",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the nashville globe (nashville, tenn.) 1906-193?"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86064259/1918-10-25/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86064259/1918-10-25/ed-1/"
+  ],
+  "shelf_id": "7",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "nashville",
+    "united states",
+    "nashville (tenn.)",
+    "davidson county",
+    "african american",
+    "newspapers",
+    "davidson county (tenn.)",
+    "tennessee",
+    "davidson",
+    "african americans"
+  ],
+  "subject_ethnicity": [
+    "african american"
+  ],
+  "timestamp": "2022-10-28T00:07:27.034Z",
+  "title": "Image 7 of The Nashville globe (Nashville, Tenn.), October 25, 1918",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86064259/1918-10-25/ed-1/?sp=7&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Ftu%2Fbatch_tu_frank_ver01%2Fdata%2Fsn86064259%2F0029602059A%2F1918102501%2F0785.xml&q=reconstruction&relevant_snippet=1"
+}

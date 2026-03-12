@@ -1,0 +1,20 @@
+{
+  "description": "This collection consists of thousands of floppy disks primarily for the Apple II and III series of computers, from the collection of the Rhode Island Apple Group (RIAG). RIAG is an Apple Users Group from Providence, RI that was formed in the 1970s for the support of the Apple II. From the site: The Rhode Island Apple Group (RIAG) is the Ocean State's premier support organization for users of ALL Apple and Apple OS computers - Apple II, Apple III, Lisa, Macintosh, and all clones using Apple Operating System software are welcome here. We are a non-profit organization dedicated to sharing and disseminating information about the use of these wonderful machines with our friends and neighbors in southeastern New England. A certain number of these disk images will not boot and will require external booting of the Apple II before being able to read the disk. Some are possibly blank or mislabeled, as they were passed from owner to owner and re-used. In some cases, these disks have been marked as BAD but are left online both to show they were imaged at a time, and for possible information extraction in later times.",
+  "format": [
+    "Archive BitTorrent",
+    "Item Image",
+    "JPEG",
+    "JPEG Thumb",
+    "Metadata"
+  ],
+  "identifier": "riag_floppies_collection",
+  "mediatype": "collection",
+  "subject": [
+    "Apple II",
+    "Floppies",
+    "Emulation",
+    "Rhode Island",
+    "RIAG"
+  ],
+  "title": "Rhode Island Apple Group Floppy Disk Collection"
+}

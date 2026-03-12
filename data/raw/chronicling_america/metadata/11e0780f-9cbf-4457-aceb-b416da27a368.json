@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84020662/1960-07-01/ed-1/?sp=4"
+  ],
+  "batch": [
+    "ak_dungenesscrab_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/alaska/",
+    "2/united states/alaska/nome/",
+    "3/united states/alaska/nome/nome/"
+  ],
+  "contributor": [
+    "alaska state library historical collections"
+  ],
+  "date": "1960-07-01",
+  "dates": [
+    "1960-07-01"
+  ],
+  "description": [
+    "WEATHER FORECAST Fair and warmer today cloudy and fog later tonight Winds west to southwest 18 mph Low temp erature expected tonight 40 the high tomorrow 55 In the past 24 hours highest temp 51 lowest 35 Sunrise 129 am sunset 1040 pm A year ago today the highest temp 52 lowest 38 Extremes on this date since 1907 highest 81 in 1936 lowest 32 in 1932 BANK SUES JOHN McNEES The Miners Merchants Bank filed suit this morning against John McNees for 8350250 for monies due the bank on a pro missory note Attorney for the bank is V Vochoska SUBSCRIBE TO THE NUGGET Eisenhowers Will Vacation For a Month At Newport WASHINGTON UPThe White House announced Thursday that President and Mrs Eisenhower will leave July 7 for at least a months vacation at Newport RI Press Secretary James Hagerty also announced that the Eisen howers will spend the Fourth of July holiday weekend at their Gettysburg farm Mr and Mrs Luther Duobar left today for a months vacation in the States They plan on visit ing their daughter Dr June Dun bar in California before return ing home FOR RENT8 Boom house com pletely furnished No bath Call"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-05-22T12:58:25.805Z",
+  "group": [
+    "ndnp/ak",
+    "alaska-state-library-historical-collections-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84020662/1960-07-01/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_dungenesscrab_ver01:data:sn84020662:00414185484:1960070101:0032/full/pct:6.25/0/default.jpg#h=302&w=215",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_dungenesscrab_ver01:data:sn84020662:00414185484:1960070101:0032/full/pct:12.5/0/default.jpg#h=604&w=430",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ak/batch_ak_dungenesscrab_ver01/data/sn84020662/00414185484/1960070101/0032.xml&format=alto_xml"
+  ],
+  "index": 166,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "nome",
+    "united states",
+    "alaska"
+  ],
+  "location_city": [
+    "nome"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "nome"
+  ],
+  "location_state": [
+    "alaska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0000000004",
+    "8",
+    "0",
+    "1",
+    "sn84020662",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84020662"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "1",
+    "8",
+    "5",
+    "4",
+    "8",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Nugget"
+  ],
+  "page_id": "sn84020662-1960-07-01-ed-1-0032",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the nome nugget (nome, alaska) 1938-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the nome nugget (nome, alaska) 1938-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84020662/1960-07-01/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84020662/1960-07-01/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "nome (alaska)",
+    "alaska",
+    "united states",
+    "nome"
+  ],
+  "timestamp": "2024-05-22T17:24:30.815Z",
+  "title": "Image 4 of The Nome nugget (Nome, Alaska), July 1, 1960",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84020662/1960-07-01/ed-1/?sp=4&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fak%2Fbatch_ak_dungenesscrab_ver01%2Fdata%2Fsn84020662%2F00414185484%2F1960070101%2F0032.xml&q=computers&relevant_snippet=1"
+}

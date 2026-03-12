@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn91070618/1958-11-07/ed-1/?sp=2"
+  ],
+  "batch": [
+    "rp_hobgoblin_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/rhode island/",
+    "2/united states/rhode island/newport/",
+    "3/united states/rhode island/newport/newport/"
+  ],
+  "contributor": [
+    "rhode island digital newspaper project"
+  ],
+  "date": "1958-11-07",
+  "dates": [
+    "1958-11-07"
+  ],
+  "description": [
+    "MAPLAiHf Look At Person Not Pattern By Chaplain Geary While strolling around the base one night enjoying the exhilarat ing freshness of the crisp autumn air a strikingly familiar figure came into view He was a husky young serviceman very much in need of a visit to the barbershop and tailorshop Though the walk seemed steady enough to me he was having some difficulty with unseen ob stacles Hi Chaplain how are you he said as he seized my hand and continued to shake it Passersby were amused at my predicament but such a situation was no longer embarrassing to me As we talked I had put my hand in my pocket ready to deal out some change after the pre liminaries were finished The con versation though disconnected at times went on for many minutes but 1 was in no hurry so I let him ramble on as it was my experience that such a fellow for his own peace of mind needed the buildup more than the hand out Finally he grabbed his wallet TgJnavalog The Navys Oldest Newspaper Established 1001 More than 7000 Headers I S Naval Station Newport R I Commanding Officer CAIT Paul F lleerbrandt"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-02-10T14:25:23.255Z",
+  "group": [
+    "ndnp/rp",
+    "rhode-island-digital-newspaper-project"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn91070618/1958-11-07/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_hobgoblin_ver02:data:sn91070618:0051699180A:1958110701:0856/full/pct:6.25/0/default.jpg#h=285&w=232",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_hobgoblin_ver02:data:sn91070618:0051699180A:1958110701:0856/full/pct:12.5/0/default.jpg#h=571&w=465",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_hobgoblin_ver02:data:sn91070618:0051699180A:1958110701:0856/full/pct:25/0/default.jpg#h=1143&w=931",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/rp/batch_rp_hobgoblin_ver02/data/sn91070618/0051699180A/1958110701/0856.xml&format=alto_xml"
+  ],
+  "index": 36,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "rhode island",
+    "newport"
+  ],
+  "location_city": [
+    "newport"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "newport"
+  ],
+  "location_state": [
+    "rhode island"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "8",
+    "5",
+    "6",
+    "9",
+    "sn91070618",
+    "a",
+    "0000000002",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn91070618"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "1",
+    "8",
+    "0",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Issues for Jan. 8-Sept. 9, 1988 published as: Navalog"
+  ],
+  "page_id": "sn91070618-1958-11-07-ed-1-0856",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "newport navalog (newport, r.i.) 1944-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "newport navalog (newport, r.i.) 1944-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn91070618/1958-11-07/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn91070618/1958-11-07/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "rhode island",
+    "newspapers",
+    "newport",
+    "newport (r.i.)",
+    "military bases"
+  ],
+  "timestamp": "2025-02-10T15:05:16.617Z",
+  "title": "Image 2 of Newport navalog (Newport, R.I.), November 7, 1958",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn91070618/1958-11-07/ed-1/?sp=2&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Frp%2Fbatch_rp_hobgoblin_ver02%2Fdata%2Fsn91070618%2F0051699180A%2F1958110701%2F0856.xml&q=nuclear&relevant_snippet=1"
+}

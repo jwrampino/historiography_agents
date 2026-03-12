@@ -1,0 +1,170 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88078683/1921-04-30/ed-1/?sp=2"
+  ],
+  "batch": [
+    "ohi_byrd_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/",
+    "1/united states/ohio/",
+    "2/united states/ohio/cuyahoga/",
+    "3/united states/ohio/cuyahoga/cleveland/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1921-04-30",
+  "dates": [
+    "1921-04-30"
+  ],
+  "description": [
+    "PAGE 2 THE TO It E R THE PROCEEDINGS OF THE 2nd CONGRESS OF THE 3rd COM MUNIST INTERNATIONAL Moscow 1920 CLRVELANB OHIO SATURDAY APRIL 30 1921 8th Installmsnt DISCUSSION OF COLONIAX AND NA TIONAL POLICY Petrograd Pravda July 30 1920 SITTING OF JULY 28 The debates on the question of colonial and national policy were continued SPEECH OF COMRADE SULTANZADE In the name of the Persian Communist party spoke Comrade SultanZade who cal led attention to the fact that the experiences of the Russian proletariat in Kirgizia Tur kestan and other regions quite undeveloped in a capitalistic sense have proven that the Soviet authority can be organized even in the absence of a developed industrial prole tariat This can be said even more definitely with respect to Persia Egypt and India and with respect to those colonies where ail the aspects of social differentiation and all political tendencies are represented Comrade SultanZade emphasizes the fact that the social revolution in India and Per sia has a broad and solid base in the prole tariat and in the semiproletariat organized there by English trade capital by destroying the native carpet and textile industries The countries of the Orient are passing"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:15:28.475Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88078683/1921-04-30/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn88078683:00280774789:1921043001:0615/full/pct:6.25/0/default.jpg#h=478&w=346",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn88078683:00280774789:1921043001:0615/full/pct:12.5/0/default.jpg#h=957&w=693",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_byrd_ver01/data/sn88078683/00280774789/1921043001/0615.xml&format=alto_xml"
+  ],
+  "index": 8,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "new york",
+    "cleveland",
+    "ohio",
+    "new york city",
+    "cuyahoga",
+    "united states"
+  ],
+  "location_city": [
+    "new york",
+    "cleveland"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york",
+    "cuyahoga"
+  ],
+  "location_state": [
+    "new york",
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "4",
+    "9",
+    "sn88078683",
+    "2",
+    "8",
+    "0000000002",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88078683"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "7",
+    "7",
+    "4",
+    "7",
+    "8",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88078683-1921-04-30-ed-1-0615",
+  "partof": [
+    "the toiler (cleveland, ohio) 1919-1922",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the toiler (cleveland, ohio) 1919-1922"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88078683/1921-04-30/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88078683/1921-04-30/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "new york",
+    "new york (state)",
+    "cleveland",
+    "ohio",
+    "cuyahoga",
+    "communism",
+    "cleveland (ohio)",
+    "labor movement",
+    "united states",
+    "newspapers",
+    "new york (n.y.)"
+  ],
+  "timestamp": "2023-09-05T04:41:58.771Z",
+  "title": "Image 2 of The toiler (Cleveland, Ohio), April 30, 1921",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88078683/1921-04-30/ed-1/?sp=2&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_byrd_ver01%2Fdata%2Fsn88078683%2F00280774789%2F1921043001%2F0615.xml&q=revolution&relevant_snippet=1"
+}

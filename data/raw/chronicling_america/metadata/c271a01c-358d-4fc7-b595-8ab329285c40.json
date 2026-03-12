@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86058226/1918-08-03/ed-1/?sp=12"
+  ],
+  "batch": [
+    "in_fuzzyvandivier_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/indiana/",
+    "2/united states/indiana/wayne/",
+    "3/united states/indiana/wayne/richmond/"
+  ],
+  "contributor": [
+    "indiana state library"
+  ],
+  "date": "1918-08-03",
+  "dates": [
+    "1918-08-03"
+  ],
+  "description": [
+    "PAGE FOURTEEN THE RICHMOND PALLADIUM AND SUNTELEGRAM SATURDAY AUGUST 3 1918 U S OFFICERS TO BE RETURNED TO TRAIN UNITS Allied Instructors Not Re quired Since Americans Reached High Training WASHINGTON Aug 3 The Amer ican forces In France have reached uch a high stage of training in the v jew methods of warfare that they are to furnish instructors for the new units being organized in the United States No additional Instructors from Ihe allied armies will he asked except possibly in special technical cases It was learned officially today that the War Department has ordered a number of officers back from France to command brigades in the 12 new llvisions the formation of which were announced by General March Chief of Staff in the last two weeks V Among the officers known to have received their orders are Brigadier General Douglas MacArthur who is to go to Camp Meade Md and Brig adier General Cornelius Vanderbilt who went overseas as a Colonel of en gineers to Camp Lewis Washington Should the indicated policy of the department to organize six addition al divisions a month be carried out a continual stream of officers who have won their spurs in"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-22T13:12:03.360Z",
+  "group": [
+    "ndnp/in",
+    "indiana-state-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86058226/1918-08-03/ed-1/?sp=12",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fuzzyvandivier_ver01:data:sn86058226:00271745229:1918080301:0143/full/pct:6.25/0/default.jpg#h=477&w=359",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fuzzyvandivier_ver01:data:sn86058226:00271745229:1918080301:0143/full/pct:12.5/0/default.jpg#h=955&w=718",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/in/batch_in_fuzzyvandivier_ver01/data/sn86058226/00271745229/1918080301/0143.xml&format=alto_xml"
+  ],
+  "index": 92,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "richmond",
+    "indiana",
+    "united states",
+    "wayne county",
+    "wayne"
+  ],
+  "location_city": [
+    "richmond"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "wayne"
+  ],
+  "location_state": [
+    "indiana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "2",
+    "sn86058226",
+    "0000000012",
+    "5",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86058226"
+  ],
+  "number_page": [
+    "0000000012"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "1",
+    "7",
+    "4",
+    "5",
+    "2",
+    "2",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86058226-1918-08-03-ed-1-0143",
+  "partof": [
+    "the richmond palladium and sun-telegram (richmond, ind.) 1907-1939",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the richmond palladium and sun-telegram (richmond, ind.) 1907-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86058226/1918-08-03/ed-1/?sp=12"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86058226/1918-08-03/ed-1/"
+  ],
+  "shelf_id": "12",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "wayne county (ind.)",
+    "wayne county",
+    "richmond",
+    "indiana",
+    "richmond (ind.)",
+    "united states",
+    "newspapers",
+    "wayne"
+  ],
+  "timestamp": "2023-08-23T01:44:02.214Z",
+  "title": "Image 12 of The Richmond palladium and sun-telegram (Richmond, Ind.), August 3, 1918",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86058226/1918-08-03/ed-1/?sp=12&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fin%2Fbatch_in_fuzzyvandivier_ver01%2Fdata%2Fsn86058226%2F00271745229%2F1918080301%2F0143.xml&q=terrorism&relevant_snippet=1"
+}

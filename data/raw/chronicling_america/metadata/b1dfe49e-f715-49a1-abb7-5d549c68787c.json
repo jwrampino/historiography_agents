@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84026749/1937-05-24/ed-1/?sp=11"
+  ],
+  "batch": [
+    "dlc_hawthorne_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1937-05-24",
+  "dates": [
+    "1937-05-24"
+  ],
+  "description": [
+    "Text of the Presidents Message on Wages and Hours ROOSEVELT DEMANDS QUICK ACTION BAN ON CHILD LABOR Text of the President met sage to Congress on hours and wages in industry foUows To the Congress of the United States The time has arrived for us to take further action to extend the frontiers of social progress Buch further action initiated by the legislative branch of the Government administered by the executive and sustained by the judicial is within the com mon sense framework and pur pose of our Constitution and re ceives beyond doubt the ap proval of our electorate The overwhelming majority of our population earns its daily bread either in agriculture or in industry Onethird of our pop ulation the overwhelming ma jority of which is in agriculture or industry is illnourished ill clad and illhoused The overwhelming majority of this nation has little patience with that small minority which vociferates today that prosper ity has returned that wages are good that crop prices are high and that Government should take a holiday Why They Fail The truth of the matter of course is that the exponents of the theory of private initiative as the cure for deepseated"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-07T20:32:07.145Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84026749/1937-05-24/ed-1/?sp=11",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hawthorne_ver01:data:sn84026749:00205698206:1937052401:0233/full/pct:3.125/0/default.jpg#h=268&w=211",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hawthorne_ver01:data:sn84026749:00205698206:1937052401:0233/full/pct:6.25/0/default.jpg#h=537&w=422",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hawthorne_ver01:data:sn84026749:00205698206:1937052401:0233/full/pct:12.5/0/default.jpg#h=1075&w=844",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_hawthorne_ver01/data/sn84026749/00205698206/1937052401/0233.xml&format=alto_xml"
+  ],
+  "index": 37,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "5",
+    "6",
+    "9",
+    "sn84026749",
+    "0000000011",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84026749"
+  ],
+  "number_page": [
+    "0000000011"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "5",
+    "6",
+    "9",
+    "8",
+    "2",
+    "0",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Washington times herald"
+  ],
+  "page_id": "sn84026749-1937-05-24-ed-1-0233",
+  "partof": [
+    "serial and government publications division",
+    "the washington times (washington [d.c.]) 1902-1939",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington times (washington [d.c.]) 1902-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84026749/1937-05-24/ed-1/?sp=11"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84026749/1937-05-24/ed-1/"
+  ],
+  "shelf_id": "11",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2023-08-08T09:13:38.872Z",
+  "title": "Image 11 of The Washington times (Washington [D.C.]), May 24, 1937",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84026749/1937-05-24/ed-1/?sp=11&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_hawthorne_ver01%2Fdata%2Fsn84026749%2F00205698206%2F1937052401%2F0233.xml&q=child+labor&relevant_snippet=1"
+}

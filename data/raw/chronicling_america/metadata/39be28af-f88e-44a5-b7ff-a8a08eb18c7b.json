@@ -1,0 +1,165 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83032011/1898-04-28/ed-1/?sp=1"
+  ],
+  "batch": [
+    "pst_hershey_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/pennsylvania/",
+    "2/united states/pennsylvania/columbia/",
+    "3/united states/pennsylvania/columbia/bloomsburg/"
+  ],
+  "contributor": [
+    "penn state university libraries; university park, pa"
+  ],
+  "date": "1898-04-28",
+  "dates": [
+    "1898-04-28"
+  ],
+  "description": [
+    "Wcyi VOL 33 WAR DECLARED Fighting Begins in Grim Earnest OITIZENSOLDIEES RhSPONDING TO THE NATIONS OALL TOR TROOPS Pennsylvania to Furnish Ten Thousand Men to Assist in Driving the Spaniards From the Island of Cuba SEVEN SPANISH SHIPS CAPTURED The spell has broken at last and it will now be seen whether or not the Spanish Government can retain her hold on the island of Cuba Before Minister Woodford had delivered the ultimatum of the United States the Spanish Government handed hup his passports This action on the part of Spain was accepted by the United States as a declaration of war President McKinley has exerted every possible effort to bring about a peaceful settlement but to no avail and henceforth it is to be war But we believe we are in the right We take up arms against the Spaniards in a just cause to battle for the free dom of a downtrodden people and also to protect our own interests on the Island FRIDAY After a Cabinet meeting this after noon the ships of war were ordered on their mission of blood and force It is understood that their destina1 tion is Havana Before many days have passed"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-10-08T09:06:03.505Z",
+  "group": [
+    "ndnp/pst",
+    "penn-state-university-libraries-university-park-pa-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83032011/1898-04-28/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn83032011:00296028423:1898042801:0085/full/pct:6.25/0/default.jpg#h=393&w=279",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn83032011:00296028423:1898042801:0085/full/pct:12.5/0/default.jpg#h=787&w=558",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/pst/batch_pst_hershey_ver01/data/sn83032011/00296028423/1898042801/0085.xml&format=alto_xml"
+  ],
+  "index": 159,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "bloomsburg",
+    "pennsylvania",
+    "columbia county",
+    "columbia",
+    "united states"
+  ],
+  "location_city": [
+    "bloomsburg"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "columbia"
+  ],
+  "location_state": [
+    "pennsylvania"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "0000000001",
+    "2",
+    "6",
+    "8",
+    "3",
+    "sn83032011",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83032011"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "6",
+    "0",
+    "2",
+    "8",
+    "4",
+    "2",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Columbian and democrat",
+    "Columbian and Bloomsburg democrat"
+  ],
+  "page_id": "sn83032011-1898-04-28-ed-1-0085",
+  "partof": [
+    "the columbian (bloomsburg, pa.) 1866-1910",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the columbian (bloomsburg, pa.) 1866-1910"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83032011/1898-04-28/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83032011/1898-04-28/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "columbia county (pa.)",
+    "bloomsburg",
+    "bloomsburg (pa.)",
+    "pennsylvania",
+    "columbia county",
+    "columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2022-10-28T02:45:43.955Z",
+  "title": "Image 1 of The Columbian (Bloomsburg, Pa.), April 28, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83032011/1898-04-28/ed-1/?sp=1&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fpst%2Fbatch_pst_hershey_ver01%2Fdata%2Fsn83032011%2F00296028423%2F1898042801%2F0085.xml&q=spanish&relevant_snippet=1"
+}

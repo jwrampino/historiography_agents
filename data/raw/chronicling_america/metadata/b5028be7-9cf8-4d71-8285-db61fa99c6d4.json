@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88077723/1963-04-25/ed-1/?sp=10"
+  ],
+  "batch": [
+    "ohi_cedric_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/franklin/",
+    "3/united states/ohio/franklin/columbus/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1963-04-25",
+  "dates": [
+    "1963-04-25"
+  ],
+  "description": [
+    "itOM yMr DONALD E AMBERGEB East Side residents between E Mainst Elizabethav Liv ngstonav and Jamesrd have for 9 years seen Donald Am berger delivering mail six mornings each week This is only onethird of the time he has spent in the Postal Serv ice He lives with his wife and child at 647 Elizabethav The Eairmoor Presbyterian Church member also maintains affilia tion with the Station F Club the Schultz Club and the Hampton Towers Swim Club Amberger is a sports enthu siast naming horseshoes bowling camping and sports in general among his inter ests tFRFD Js For Oio Mom Starting Thursday Apr 25 and continuing through midnight Thursday May 9 WRFD will be searching for Ohios sweetest mother The station is asking listeners to send in cards telling in 50 words or less who they think is Ohios sweetest mother and why Winning mother will receive a night on the town with her husband on Mothers Day May 12 which will include a corsage dinner for two at Green Meadows Inn and two tickets to see How The West Was Won at the RKO Grand Theatre The person sending in the winning entry will re ceive a dozen"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-04-13T06:35:10.538Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88077723/1963-04-25/ed-1/?sp=10",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cedric_ver01:data:sn88077723:00516993376:1963042501:0738/full/pct:6.25/0/default.jpg#h=423&w=282",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cedric_ver01:data:sn88077723:00516993376:1963042501:0738/full/pct:12.5/0/default.jpg#h=846&w=565",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_cedric_ver01/data/sn88077723/00516993376/1963042501/0738.xml&format=alto_xml"
+  ],
+  "index": 184,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ohio",
+    "franklin county",
+    "columbus metropolitan area",
+    "franklin",
+    "united states",
+    "columbus"
+  ],
+  "location_city": [
+    "columbus"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "franklin"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "0000000010",
+    "sn88077723",
+    "6",
+    "5",
+    "3",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88077723"
+  ],
+  "number_page": [
+    "0000000010"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "3",
+    "3",
+    "7",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88077723-1963-04-25-ed-1-0738",
+  "partof": [
+    "chronicling america",
+    "eastern review (columbus, ohio) 1958-1964",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "eastern review (columbus, ohio) 1958-1964"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88077723/1963-04-25/ed-1/?sp=10"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88077723/1963-04-25/ed-1/"
+  ],
+  "shelf_id": "10",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "ohio",
+    "franklin county",
+    "columbus metropolitan area",
+    "community newspapers",
+    "franklin",
+    "united states",
+    "newspapers",
+    "columbus (ohio)",
+    "columbus",
+    "franklin county (ohio)"
+  ],
+  "timestamp": "2025-04-13T08:45:27.594Z",
+  "title": "Image 10 of Eastern review (Columbus, Ohio), April 25, 1963",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88077723/1963-04-25/ed-1/?sp=10&q=vietnam",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_cedric_ver01%2Fdata%2Fsn88077723%2F00516993376%2F1963042501%2F0738.xml&q=vietnam&relevant_snippet=1"
+}

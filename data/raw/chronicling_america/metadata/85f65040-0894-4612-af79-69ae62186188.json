@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86072239/1917-01-25/ed-1/?sp=1"
+  ],
+  "batch": [
+    "ak_finwhale_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/alaska/",
+    "3/united states/alaska/cordova/"
+  ],
+  "contributor": [
+    "alaska state library historical collections"
+  ],
+  "date": "1917-01-25",
+  "dates": [
+    "1917-01-25"
+  ],
+  "description": [
+    "The Cordova Daily Times Only Afternoon Paper In Alaska With Associated Press News VOIMKlll NTMBKR 46 _ CORDOVA ALASKA TIHKSD AY JANUARY 251917 PBICKTI V Is GOVERNMENT PETITIONED FOR RAILROAD TO COAL FILL JOHN HOD DIES ON TRIP TO JUNEAU Jan 25 Attorney John I licit died at San Francisco where lie went to appear before the circuit court of appeals and argue the case brought bv the people of southeastern Alaska against the other divisions of the territory to prevent them from receiving a pro rata share of the for estry funds Ileid was a member of the terri torial legislature former Republican national committeeman a large pro perty owner here and the oldest mem ber of the Alaska bar in years of service TEOTON ATTACKS HAVE BEEN PKTROCRAI Jan 25 Savage AMSTERDAM Jan 25 Fifty na tives were killed and two hundred in jured by an earthquake on the island of Hall Malay archipelago Thousands of homes factories and native tern pies were destroyed ENGLISH LABOR PEACE MANCHESTER Tail 25 At the annual meeting of the Labor party a resolution favoring immediate peace offer proposals was rejected by a vote of three to one The convention un animously"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-05-22T12:58:54.084Z",
+  "group": [
+    "ndnp/ak",
+    "alaska-state-library-historical-collections-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86072239/1917-01-25/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_finwhale_ver01:data:sn86072239:00279526612:1917012501:0015/full/pct:6.25/0/default.jpg#h=435&w=317",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_finwhale_ver01:data:sn86072239:00279526612:1917012501:0015/full/pct:12.5/0/default.jpg#h=871&w=634",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ak/batch_ak_finwhale_ver01/data/sn86072239/00279526612/1917012501/0015.xml&format=alto_xml"
+  ],
+  "index": 148,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "cordova",
+    "alaska",
+    "united states"
+  ],
+  "location_city": [
+    "cordova"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "alaska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "9",
+    "5",
+    "6",
+    "sn86072239",
+    "7",
+    "2",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86072239"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "2",
+    "6",
+    "6",
+    "1",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Daily times",
+    "Cordova times"
+  ],
+  "page_id": "sn86072239-1917-01-25-ed-1-0015",
+  "partof": [
+    "serial and government publications division",
+    "the cordova daily times (cordova, alaska) 1914-1947",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the cordova daily times (cordova, alaska) 1914-1947"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86072239/1917-01-25/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86072239/1917-01-25/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "alaska",
+    "newspapers",
+    "cordova",
+    "cordova (alaska)"
+  ],
+  "timestamp": "2024-05-22T18:28:53.837Z",
+  "title": "Image 1 of The Cordova daily times (Cordova, Alaska), January 25, 1917",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86072239/1917-01-25/ed-1/?sp=1&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fak%2Fbatch_ak_finwhale_ver01%2Fdata%2Fsn86072239%2F00279526612%2F1917012501%2F0015.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn91070618/1962-06-29/ed-1/?sp=6"
+  ],
+  "batch": [
+    "rp_invisiblestalker_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/rhode island/",
+    "2/united states/rhode island/newport/",
+    "3/united states/rhode island/newport/newport/"
+  ],
+  "contributor": [
+    "rhode island digital newspaper project"
+  ],
+  "date": "1962-06-29",
+  "dates": [
+    "1962-06-29"
+  ],
+  "description": [
+    "SIX New Polaris Sub Tender Hunley Commissioned USS Hunley the first submarine tender to be built by the Navy ince World War 11 and the first in history to be built from the keel up to service and maintain fleet ballistic missile submarines was commissioned on 16 June New Subs At the same time it was an nounced that three ballistic mis sile submarines USS Ulysses S Grant Stonewall Jackson and Nathanael Green have been nam ed They are the 23rd 24th and 25th Polarisfiring nuclear subs to be named Hunley is capable of making any submarine repair other than a major overhaul including serv icing and maintaining the nuclear power plants of the Polarisfiring subs The new submarine tender is the second ship to bear the name of Hunley The first was a Con federate submarine which became the first submersible to sink another ship the Union sloop USS Housatonic DOD Personnel Tells Airlines Of Weapon Status Military and civilian personnel in the Department of Defense whose duties require them to carry a deadly weapon aboard commercial aircraft are required by a new DOD Directive 55009 to notify an airline official of their possession of the weapon before boarding"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-04-27T04:23:21.471Z",
+  "group": [
+    "ndnp/rp",
+    "rhode-island-digital-newspaper-project"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn91070618/1962-06-29/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_invisiblestalker_ver01:data:sn91070618:00516991811:1962062901:0769/full/pct:6.25/0/default.jpg#h=332&w=277",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_invisiblestalker_ver01:data:sn91070618:00516991811:1962062901:0769/full/pct:12.5/0/default.jpg#h=665&w=554",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/rp/batch_rp_invisiblestalker_ver01/data/sn91070618/00516991811/1962062901/0769.xml&format=alto_xml"
+  ],
+  "index": 101,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "rhode island",
+    "newport",
+    "united states"
+  ],
+  "location_city": [
+    "newport"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "newport"
+  ],
+  "location_state": [
+    "rhode island"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn91070618",
+    "8",
+    "0",
+    "0000000006",
+    "9",
+    "1",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn91070618"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "1",
+    "8",
+    "1",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Issues for Jan. 8-Sept. 9, 1988 published as: Navalog"
+  ],
+  "page_id": "sn91070618-1962-06-29-ed-1-0769",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "newport navalog (newport, r.i.) 1944-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "newport navalog (newport, r.i.) 1944-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn91070618/1962-06-29/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn91070618/1962-06-29/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "rhode island",
+    "newspapers",
+    "military bases",
+    "newport (r.i.)",
+    "newport",
+    "united states"
+  ],
+  "timestamp": "2025-04-27T04:37:44.636Z",
+  "title": "Image 6 of Newport navalog (Newport, R.I.), June 29, 1962",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn91070618/1962-06-29/ed-1/?sp=6&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Frp%2Fbatch_rp_invisiblestalker_ver01%2Fdata%2Fsn91070618%2F00516991811%2F1962062901%2F0769.xml&q=nuclear&relevant_snippet=1"
+}

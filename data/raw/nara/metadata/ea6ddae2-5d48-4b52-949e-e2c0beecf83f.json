@@ -1,0 +1,121 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "Cheyenne Agency (Indian), Dakota Territory",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-3200",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Cartographic",
+          "state": "MD",
+          "fax": "301-837-3622",
+          "email": "carto@nara.gov",
+          "mailCode": "RRSC"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupName": "National Archives at College Park \u2013 Cartographic",
+    "groupId": "RRAC",
+    "groupCd": "RRAC"
+  },
+  "generalRecordsTypes": [
+    "Maps and Charts"
+  ],
+  "localIdentifier": "Cheyenne Agency A 5",
+  "productionDates": [
+    {
+      "month": 8,
+      "year": 1874,
+      "day": 1,
+      "logicalDate": "1874-08-01"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "4693877_005_01.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/cartographic/rg-077/305806/Batch0002/4693877_005_01.jpg",
+      "objectFileSize": 1234,
+      "objectId": "233588449",
+      "objectType": "Image (JPG)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1789,
+        "logicalDate": "1789-01-01"
+      },
+      "distance": 3,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 77,
+      "inclusiveEndDate": {
+        "year": 1999,
+        "logicalDate": "1999-12-31"
+      },
+      "title": "Records of the Office of the Chief of Engineers",
+      "naId": 406
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1840,
+        "logicalDate": "1840-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "War Department. Office of the Chief of Engineers. (1818 - 09/18/1947)",
+          "abolishDate": {
+            "month": 9,
+            "year": 1947,
+            "day": 18,
+            "logicalDate": "1947-09-18"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1818,
+            "logicalDate": "1818-01-01"
+          },
+          "naId": 10504036
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1947,
+        "logicalDate": "1947-12-31"
+      },
+      "title": "Plans of Military Posts in the United States",
+      "naId": 305806
+    },
+    {
+      "distance": 1,
+      "levelOfDescription": "fileUnit",
+      "title": "Records Related to Cheyenne Agency, Dakota Territory",
+      "naId": 4693877
+    }
+  ],
+  "naId": 233588448
+}

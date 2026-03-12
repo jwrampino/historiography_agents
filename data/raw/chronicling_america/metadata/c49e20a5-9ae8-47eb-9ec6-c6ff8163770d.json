@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86076270/1901-07-25/ed-1/?sp=2"
+  ],
+  "batch": [
+    "nvln_gabbs_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nevada/",
+    "2/united states/nevada/lander/",
+    "3/united states/nevada/lander/battle mountain/"
+  ],
+  "contributor": [
+    "university of nevada las vegas university libraries"
+  ],
+  "date": "1901-07-25",
+  "dates": [
+    "1901-07-25"
+  ],
+  "description": [
+    "CENTRAL NEVADAN A R LEMAIRE Proprietor P E WOOLSOCK Editor m t TT 1 rrzrrr Entered at tb pofific at Battle Mountain Nerada aa wviod eliM mail matter NO 6ERTS All mining campaniea operating in this and ad twining districts and all other parties har ing basinets dealings with this paper will please transact the same with a directly a we bare no agents in San Francisco or other places TERMS One year by mail 4 Six months bv ail Oie month ly j Sign the Petitions The Nevadan gives the follow ing letter and petition from the Tnscarora Miners Union which has been received at this office The labor question is one that touches all classes of people Upon the prosperity of those who toil rests the security and per petuity of this government Any thing that benefits them benefits those who live on the wealth they create Labor is the basis of our greatness and glory and anything that tends to deprive the laboring m in of thecomjensation be should reteive for his labor weakens the foundation upon which our government rests me innux or cheap labor from Asiatic countries degrades the laboring men of the United States"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-06-30T14:54:10.878Z",
+  "group": [
+    "ndnp/nvln",
+    "university-of-nevada-las-vegas-university-libraries-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86076270/1901-07-25/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_gabbs_ver01:data:sn86076270:00332891224:1901072501:0201/full/pct:6.25/0/default.jpg#h=409&w=273",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_gabbs_ver01:data:sn86076270:00332891224:1901072501:0201/full/pct:12.5/0/default.jpg#h=818&w=546",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nvln/batch_nvln_gabbs_ver01/data/sn86076270/00332891224/1901072501/0201.xml&format=alto_xml"
+  ],
+  "index": 2,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "lander",
+    "nevada",
+    "battle mountain",
+    "united states"
+  ],
+  "location_city": [
+    "battle mountain"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lander"
+  ],
+  "location_state": [
+    "nevada"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn86076270",
+    "8",
+    "0000000002",
+    "0",
+    "2",
+    "9",
+    "1",
+    "3",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86076270"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "1",
+    "2",
+    "2",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86076270-1901-07-25-ed-1-0201",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the central nevadan (battle mountain, nev.) 1885-1907"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the central nevadan (battle mountain, nev.) 1885-1907"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86076270/1901-07-25/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86076270/1901-07-25/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "lander",
+    "nevada",
+    "battle mountain",
+    "united states"
+  ],
+  "timestamp": "2023-06-30T21:25:12.842Z",
+  "title": "Image 2 of The Central Nevadan (Battle Mountain, Nev.), July 25, 1901",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86076270/1901-07-25/ed-1/?sp=2&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnvln%2Fbatch_nvln_gabbs_ver01%2Fdata%2Fsn86076270%2F00332891224%2F1901072501%2F0201.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

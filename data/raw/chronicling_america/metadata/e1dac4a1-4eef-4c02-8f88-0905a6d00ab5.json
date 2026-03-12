@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87065645/1919-05-10/ed-1/?sp=3"
+  ],
+  "batch": [
+    "msar_emerald_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/mississippi/",
+    "2/united states/mississippi/bolivar/",
+    "3/united states/mississippi/bolivar/rosedale/"
+  ],
+  "contributor": [
+    "mississippi department of archives and history"
+  ],
+  "date": "1919-05-10",
+  "dates": [
+    "1919-05-10"
+  ],
+  "description": [
+    "5 NO SECRET where she got her color Many wo men perhaps your neigh bor will tell you that she got her won derful oolor her vivacious spirits her strength and health by taking a 11 temper ance tonic known as Dr Pierces Fav orite Prea cription ibly no man in America was ever lualificd to successfully treat the peculiar to women than Di 3f Buffalo N V The cases that him run into many thousands him an experience that rarely 3 any one man Dr Pierce found nearly every case there were vegetable growths which rarely o give prompt relief in those disorders fromwhich so many suffer He combined these roots bs into a temperance medicine called Dr Pierces Favorite Pres This medicine is sold in both id tablet form by druggists every V weakly sickly backachy head rvous despondent woman with ir irregular painswith feminine s that come in youth or middle cretty sure to find in Dr Pierces Prescription the exact remedy condition calls for Both Beef and Milk of Phorthorn cows are pro ducing from 8000 to 12000 lbs of milk per year and producing calves that top the beef markets This is the combination that"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:41:57.674Z",
+  "group": [
+    "ndnp/msar",
+    "mississippi-department-of-archives-and-history"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87065645/1919-05-10/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_emerald_ver02:data:sn87065645:00383344347:1919051001:0812/full/pct:6.25/0/default.jpg#h=424&w=305",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_emerald_ver02:data:sn87065645:00383344347:1919051001:0812/full/pct:12.5/0/default.jpg#h=848&w=611",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/msar/batch_msar_emerald_ver02/data/sn87065645/00383344347/1919051001/0812.xml&format=alto_xml"
+  ],
+  "index": 187,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "bolivar",
+    "united states",
+    "rosedale",
+    "mississippi"
+  ],
+  "location_city": [
+    "rosedale"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "bolivar"
+  ],
+  "location_state": [
+    "mississippi"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000003",
+    "1",
+    "8",
+    "sn87065645",
+    "7",
+    "4",
+    "3",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87065645"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "8",
+    "3",
+    "3",
+    "4",
+    "4",
+    "3",
+    "4",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87065645-1919-05-10-ed-1-0812",
+  "partof": [
+    "the bolivar county democrat (rosedale, miss.) 1887-1969",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the bolivar county democrat (rosedale, miss.) 1887-1969"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87065645/1919-05-10/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87065645/1919-05-10/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "rosedale (miss.)",
+    "bolivar",
+    "newspapers",
+    "rosedale",
+    "mississippi"
+  ],
+  "timestamp": "2023-07-05T20:05:16.570Z",
+  "title": "Image 3 of The Bolivar County Democrat (Rosedale, Miss.), May 10, 1919",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87065645/1919-05-10/ed-1/?sp=3&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmsar%2Fbatch_msar_emerald_ver02%2Fdata%2Fsn87065645%2F00383344347%2F1919051001%2F0812.xml&q=reconstruction&relevant_snippet=1"
+}

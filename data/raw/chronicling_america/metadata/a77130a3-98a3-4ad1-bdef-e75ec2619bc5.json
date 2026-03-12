@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn90059523/1900-03-11/ed-1/?sp=14"
+  ],
+  "batch": [
+    "mnhi_nisswa_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/minnesota/",
+    "2/united states/minnesota/ramsey/",
+    "3/united states/minnesota/ramsey/saint paul/"
+  ],
+  "contributor": [
+    "minnesota historical society; saint paul, mn"
+  ],
+  "date": "1900-03-11",
+  "dates": [
+    "1900-03-11"
+  ],
+  "description": [
+    "14 2gC je4dL Znllks for There is a charm about the progressive card party which never grows stale A3 a means of entertaining it is too easy and pleasant to over become oldfashioned All are striving to have a bit of originality prominent at those they conduct Fre quently this desire finds vent in the fai thv are necessary at such affairs In fact the regulation cards with stars to paste upon them and which have rough so much vicissitudes are now seldom seen Cther things have been devised to take tlw Recently at a smart card club bracelets and key rings were made to do service for tallies The idea was quitj Ingenious A goodnatured jeweler bad been taken into the scheme and for the vv mien had simply bent heavy copper wire Into the shape of bracelets At the ends they were twisted in a similar way to hooks any eyes and so fastened about the aim For the men key rings were made also of copper wire somewhat light er In weight When the party began therefore the guests were respectively present d with these trinkets and as the game progressed little bells were passed ah i"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-07-10T22:48:14.527Z",
+  "group": [
+    "ndnp/mnhi",
+    "minnesota-historical-society-saint-paul-mn-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn90059523/1900-03-11/ed-1/?sp=14",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_nisswa_ver01:data:sn90059523:00206533985:1900031101:0112/full/pct:3.125/0/default.jpg#h=309&w=223",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_nisswa_ver01:data:sn90059523:00206533985:1900031101:0112/full/pct:6.25/0/default.jpg#h=619&w=447",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mnhi/batch_mnhi_nisswa_ver01/data/sn90059523/00206533985/1900031101/0112.xml&format=alto_xml"
+  ],
+  "index": 122,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ramsey",
+    "united states",
+    "saint paul",
+    "minnesota"
+  ],
+  "location_city": [
+    "saint paul"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "ramsey"
+  ],
+  "location_state": [
+    "minnesota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "2",
+    "6",
+    "5",
+    "3",
+    "8",
+    "1",
+    "sn90059523",
+    "0000000014"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn90059523"
+  ],
+  "number_page": [
+    "0000000014"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "6",
+    "5",
+    "3",
+    "3",
+    "9",
+    "8",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Saint Paul daily globe",
+    "St. Paul globe"
+  ],
+  "page_id": "sn90059523-1900-03-11-ed-1-0112",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the saint paul globe (st. paul, minn.) 1896-1905"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the saint paul globe (st. paul, minn.) 1896-1905"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn90059523/1900-03-11/ed-1/?sp=14"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn90059523/1900-03-11/ed-1/"
+  ],
+  "shelf_id": "14",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "saint paul",
+    "ramsey",
+    "saint paul (minn.)",
+    "united states",
+    "newspapers",
+    "minnesota"
+  ],
+  "timestamp": "2025-07-11T06:46:41.414Z",
+  "title": "Image 14 of The Saint Paul globe (St. Paul, Minn.), March 11, 1900",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn90059523/1900-03-11/ed-1/?sp=14&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmnhi%2Fbatch_mnhi_nisswa_ver01%2Fdata%2Fsn90059523%2F00206533985%2F1900031101%2F0112.xml&q=manifest+destiny&relevant_snippet=1"
+}

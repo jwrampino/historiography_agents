@@ -1,0 +1,167 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2010270509/1959-01-08/ed-1/?sp=11"
+  ],
+  "batch": [
+    "nbu_equus_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nebraska/",
+    "2/united states/nebraska/holt/",
+    "3/united states/nebraska/holt/o'neill/",
+    "3/united states/nebraska/holt/o'neill city/"
+  ],
+  "contributor": [
+    "university of nebraska-lincoln libraries, lincoln, ne"
+  ],
+  "date": "1959-01-08",
+  "dates": [
+    "1959-01-08"
+  ],
+  "description": [
+    "Alford Joins WOW Loan Department LlilCDoulas G Alford has accepted the position of the mort gage loan department in the Wood man of the World home office in Omaha Mr Alford is a native of Lynch and a graduate of the Lynch schools He holds a bachelor of science degrve in business from the University of Omaha with real estate as his major He also has done graduate work at the Boston Mass university and Wayne Uni versity in Detroit Mich and Notre Dame He has had several years ex perience in real estate appraisal and financing Other Lynch News Mr and Mrs Robert Courtney were Sunday December 28 vis itors at the Leo Kalkowski home Mr and Mrs Albert Kalkowski spent Wednesday evening Decem ber 31 at the George Kalkowski home Mrs Bryan Baines visited Tues day afternoon December 30 with Mrs Wallace Gourtney Mr and Mrs Gene Lechtenberg and family of Butte spent New Years day at the parental Bern ard Webber borne Mr and Mrs Dennis Kube and family spent New Years evening at the Martin Jehorek home Dennis Kube discontinued their telephone this week Mr and Mrs Beryl Moody were New Years day dinner guests at"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:39:35.156Z",
+  "group": [
+    "ndnp/nbu",
+    "university-of-nebraska-of-nebraska-lincoln-libraries-lincoln-ne-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2010270509/1959-01-08/ed-1/?sp=11",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_equus_ver01:data:2010270509:00279527562:1959010801:0822/full/pct:6.25/0/default.jpg#h=494&w=383",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_equus_ver01:data:2010270509:00279527562:1959010801:0822/full/pct:12.5/0/default.jpg#h=989&w=766",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nbu/batch_nbu_equus_ver01/data/2010270509/00279527562/1959010801/0822.xml&format=alto_xml"
+  ],
+  "index": 16,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "holt",
+    "nebraska",
+    "o'neill",
+    "holt county",
+    "united states",
+    "o'neill city"
+  ],
+  "location_city": [
+    "o'neill",
+    "o'neill city"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "holt"
+  ],
+  "location_state": [
+    "nebraska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "2010270509",
+    "0000000011",
+    "9",
+    "2",
+    "6",
+    "5",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2010270509"
+  ],
+  "number_page": [
+    "0000000011"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "2",
+    "7",
+    "5",
+    "6",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Publisher's box title: O'Neill frontier"
+  ],
+  "page_id": "2010270509-1959-01-08-ed-1-0822",
+  "partof": [
+    "the frontier (o'neill city, holt county, neb.) 1880-1965",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the frontier (o'neill city, holt county, neb.) 1880-1965"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2010270509/1959-01-08/ed-1/?sp=11"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2010270509/1959-01-08/ed-1/"
+  ],
+  "shelf_id": "11",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "holt",
+    "nebraska",
+    "o'neill",
+    "o'neill (neb.)",
+    "holt county (neb.)",
+    "holt county",
+    "united states",
+    "newspapers",
+    "o'neill city"
+  ],
+  "timestamp": "2025-12-14T21:21:22.197Z",
+  "title": "Image 11 of The frontier (O'Neill City, Holt County, Neb.), January 8, 1959",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2010270509/1959-01-08/ed-1/?sp=11&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnbu%2Fbatch_nbu_equus_ver01%2Fdata%2F2010270509%2F00279527562%2F1959010801%2F0822.xml&q=nuclear&relevant_snippet=1"
+}

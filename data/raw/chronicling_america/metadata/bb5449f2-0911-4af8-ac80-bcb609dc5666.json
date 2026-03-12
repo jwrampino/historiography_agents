@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84026749/1937-03-25/ed-1/?sp=8"
+  ],
+  "batch": [
+    "dlc_georgetown_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1937-03-25",
+  "dates": [
+    "1937-03-25"
+  ],
+  "description": [
+    "8 2 CHILD LABOR BILLS OFFERED IN SENATE Two proposals designed to curb child labor were submitted to the Senate yesterday One drafted by Senator Borah I R of Idaho was a constituJ tionai amendment authorizing Congress to legislate regarding em1 ployment of children under 14 years of age The second presented by Sena tor Wheeler D of Montana chairman of the Senate Interstate Commerce Committee would sub ject the products of child labor to legislation of States into which they are shipped Though Senator Borah re frained from comment upon his proposal it is designed to meet objections of States which have refused to ratify the pending child labor amendment Objections to the pending amendment have been based on grounds that it pro vides for Federal regulation of em ployment of those under 18 years Declaring his bill will not hinder the child labor amendment Sena tor Wheeler said it was drafted because he is convinced it provides a means within the Constitution i to curb child labor evils He said i Congress should proceed to enact legislation to achieve some of the Presidents objec tives Instead some Administra tion officials act as though they are on a sitdown"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-07T20:31:48.713Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84026749/1937-03-25/ed-1/?sp=8",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_georgetown_ver01:data:sn84026749:00205698188:1937032501:1138/full/pct:3.125/0/default.jpg#h=272&w=214",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_georgetown_ver01:data:sn84026749:00205698188:1937032501:1138/full/pct:6.25/0/default.jpg#h=544&w=428",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_georgetown_ver01:data:sn84026749:00205698188:1937032501:1138/full/pct:12.5/0/default.jpg#h=1088&w=857",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_georgetown_ver01/data/sn84026749/00205698188/1937032501/1138.xml&format=alto_xml"
+  ],
+  "index": 31,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "5",
+    "9",
+    "sn84026749",
+    "0000000008",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84026749"
+  ],
+  "number_page": [
+    "0000000008"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "5",
+    "6",
+    "9",
+    "8",
+    "1",
+    "8",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Washington times herald"
+  ],
+  "page_id": "sn84026749-1937-03-25-ed-1-1138",
+  "partof": [
+    "serial and government publications division",
+    "the washington times (washington [d.c.]) 1902-1939",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington times (washington [d.c.]) 1902-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84026749/1937-03-25/ed-1/?sp=8"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84026749/1937-03-25/ed-1/"
+  ],
+  "shelf_id": "08",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2023-08-08T07:55:15.820Z",
+  "title": "Image 8 of The Washington times (Washington [D.C.]), March 25, 1937",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84026749/1937-03-25/ed-1/?sp=8&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_georgetown_ver01%2Fdata%2Fsn84026749%2F00205698188%2F1937032501%2F1138.xml&q=child+labor&relevant_snippet=1"
+}

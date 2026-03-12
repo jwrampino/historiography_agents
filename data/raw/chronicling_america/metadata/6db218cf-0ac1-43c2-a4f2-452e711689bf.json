@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86076999/1901-09-01/ed-1/?sp=2"
+  ],
+  "batch": [
+    "nvln_hamilton_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nevada/",
+    "2/united states/nevada/ormsby/",
+    "3/united states/nevada/ormsby/carson city/",
+    "2/united states/nevada/carson city/",
+    "3/united states/nevada/carson city/carson city/"
+  ],
+  "contributor": [
+    "university of nevada las vegas university libraries"
+  ],
+  "date": "1901-09-01",
+  "dates": [
+    "1901-09-01"
+  ],
+  "description": [
+    "NEWS OF NEVADAS REPRESENTATIVE ON QUESTIONS OF PUBLIC INTEREST EPRESENTATIVE NEW LANDS has just returned with his family from an European trip which embraced Italy Switzer land and England He is now at his Reno home well pleased to again breathe the Nevada air He reports the heat as extreme in the East and states that he was practically in a Turkish bath from the time he landed until he reached Wyoming A Journal reporter sought an inter view with Mr Newlands regarding matters of current importance includ ing the business condition of the coun try the Chinese question and irriga tion BUSINESS As to business conditions Mr New lands said they were generally good and that they were likely to continue good so long as the increase in the money volume promoted enterprise and production Since 1893 as a re sult of the great increase in the pro duction of gold the United States have increased their money volume nearly onefourth With sitch an increase in the mey volume a quantity of ecr nomic tTors could be made without positive injury The contention of the silver men always was that the world needed more money they sought the free"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-06-30T14:54:31.309Z",
+  "group": [
+    "ndnp/nvln",
+    "university-of-nevada-las-vegas-university-libraries-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86076999/1901-09-01/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_hamilton_ver01:data:sn86076999:00271741005:1901090101:0204/full/pct:6.25/0/default.jpg#h=478&w=345",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_hamilton_ver01:data:sn86076999:00271741005:1901090101:0204/full/pct:12.5/0/default.jpg#h=956&w=690",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nvln/batch_nvln_hamilton_ver01/data/sn86076999/00271741005/1901090101/0204.xml&format=alto_xml"
+  ],
+  "index": 24,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "nevada",
+    "ormsby",
+    "carson city",
+    "united states"
+  ],
+  "location_city": [
+    "carson city"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "ormsby",
+    "carson city"
+  ],
+  "location_state": [
+    "nevada"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0000000002",
+    "0",
+    "2",
+    "7",
+    "1",
+    "sn86076999",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86076999"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "1",
+    "7",
+    "4",
+    "1",
+    "0",
+    "0",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86076999-1901-09-01-ed-1-0204",
+  "partof": [
+    "chronicling america",
+    "morning appeal (carson city, nev.) 1877-1906",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "morning appeal (carson city, nev.) 1877-1906"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86076999/1901-09-01/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86076999/1901-09-01/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "nevada",
+    "carson city",
+    "carson city (nev.)",
+    "ormsby",
+    "united states"
+  ],
+  "timestamp": "2023-06-30T22:02:49.293Z",
+  "title": "Image 2 of Morning appeal (Carson City, Nev.), September 1, 1901",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86076999/1901-09-01/ed-1/?sp=2&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnvln%2Fbatch_nvln_hamilton_ver01%2Fdata%2Fsn86076999%2F00271741005%2F1901090101%2F0204.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

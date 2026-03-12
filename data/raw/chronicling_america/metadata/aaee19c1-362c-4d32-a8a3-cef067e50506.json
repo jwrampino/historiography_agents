@@ -1,0 +1,154 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86074053/1904-03-10/ed-1/?sp=8"
+  ],
+  "batch": [
+    "msar_flint_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/mississippi/",
+    "2/united states/mississippi/rankin/",
+    "3/united states/mississippi/rankin/brandon/"
+  ],
+  "contributor": [
+    "mississippi department of archives and history"
+  ],
+  "date": "1904-03-10",
+  "dates": [
+    "1904-03-10"
+  ],
+  "description": [
+    "DO YOU GET UP WITH A L ME BACK Kidney Trouble Makes You Miserable Almost everybody who reads the news papers is sure to know of the vonderful t_jj rfv cures made by Dr 1 1acrl5 SwampRoot rviuiicy liver and bladder remedy It is the great medi cal triumph of the nine teenth century dis covered after years of scientific research by Dr Kilmer the emi nent kidney and blad der specialist and is wonaerruiiy successtui m promptly curing lame back kidney bladder uric acid trou bles and Brights Disease which is the worst form of kidney trouble Dr Kilmers SwampRoot is not rec ommended for everything but if you have kid ney liver or bladder trouble it will be found just the remedy you need It has been tested in so many ways in hospital work in private practice among the helpless too poor to pur chase relief and has proved so successful in every case that a special arrangement has been made by which all readers of this paper vho have not already tried it may have a sample bottle sent free by mail also a book telling more about SwampRoot and how to find out if you"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:42:17.521Z",
+  "group": [
+    "ndnp/msar",
+    "mississippi-department-of-archives-and-history"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86074053/1904-03-10/ed-1/?sp=8",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_flint_ver01:data:sn86074053:00383344323:1904031001:0535/full/pct:3.125/0/default.jpg#h=330&w=225",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_flint_ver01:data:sn86074053:00383344323:1904031001:0535/full/pct:6.25/0/default.jpg#h=661&w=451",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/msar/batch_msar_flint_ver01/data/sn86074053/00383344323/1904031001/0535.xml&format=alto_xml"
+  ],
+  "index": 48,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "rankin",
+    "brandon",
+    "mississippi"
+  ],
+  "location_city": [
+    "brandon"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "rankin"
+  ],
+  "location_state": [
+    "mississippi"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "2",
+    "0000000008",
+    "8",
+    "3",
+    "4",
+    "1",
+    "sn86074053"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86074053"
+  ],
+  "number_page": [
+    "0000000008"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "8",
+    "3",
+    "3",
+    "4",
+    "4",
+    "3",
+    "2",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86074053-1904-03-10-ed-1-0535",
+  "partof": [
+    "chronicling america",
+    "the brandon news (brandon, miss.) 1892-1961",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the brandon news (brandon, miss.) 1892-1961"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86074053/1904-03-10/ed-1/?sp=8"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86074053/1904-03-10/ed-1/"
+  ],
+  "shelf_id": "8",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "brandon",
+    "united states",
+    "rankin",
+    "mississippi"
+  ],
+  "timestamp": "2023-07-05T21:20:54.288Z",
+  "title": "Image 8 of The Brandon news (Brandon, Miss.), March 10, 1904",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86074053/1904-03-10/ed-1/?sp=8&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmsar%2Fbatch_msar_flint_ver01%2Fdata%2Fsn86074053%2F00383344323%2F1904031001%2F0535.xml&q=korea&relevant_snippet=1"
+}

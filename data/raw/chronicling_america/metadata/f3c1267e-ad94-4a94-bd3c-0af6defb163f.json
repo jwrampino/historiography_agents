@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86075271/1955-10-27/ed-1/?sp=5"
+  ],
+  "batch": [
+    "mthi_kevin_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/roosevelt/",
+    "3/united states/montana/roosevelt/wolf point/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1955-10-27",
+  "dates": [
+    "1955-10-27"
+  ],
+  "description": [
+    "IrHURSOAY OCTOBER 27 1965 TwoWay Street By Mason Rossiter Smith Germany There s Much in this western Europe of H 55 rejuvenated back at work producing rebuilt in part and rebuilding partly rehabilitated Horn the awful afetrmath of war Hid still rehabilitating of which Hmericans may justifiably be Houd For we have had a part in Bese handsome new modern Biddings risen and still rising Bom the terribly devastated Mun Bh of 1945 in the thousands of lew modern cars whizzing by in Be streets and along every high way in the brighter spirits better Health better dress and better tandard of living of the West Ger Bian people It has taken thrift lours of work the average Ger man in almost any job gets there t 8 in the morning and doesnt uit until six with afternoons off pn Saturdays and no time and one pals for overtime enormous sac rifices and immense determination nut it has taken too much in Am erican encouragement in many forms sound U S dollars recog nized American knowhow plus a typically American enthusiasm and inspiration for the job An amaz ing situation indeed for these people just a little over ten years"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-11-19T03:25:11.395Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86075271/1955-10-27/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_kevin_ver01:data:sn86075271:00517179322:1955102701:0579/full/pct:6.25/0/default.jpg#h=463&w=355",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_kevin_ver01:data:sn86075271:00517179322:1955102701:0579/full/pct:12.5/0/default.jpg#h=927&w=711",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_kevin_ver01/data/sn86075271/00517179322/1955102701/0579.xml&format=alto_xml"
+  ],
+  "index": 12,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "wolf point",
+    "roosevelt",
+    "montana"
+  ],
+  "location_city": [
+    "wolf point"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "roosevelt"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "0000000005",
+    "5",
+    "9",
+    "sn86075271",
+    "7",
+    "3",
+    "2",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86075271"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "9",
+    "3",
+    "2",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86075271-1955-10-27-ed-1-0579",
+  "partof": [
+    "serial and government publications division",
+    "the herald-news (wolf point, mont.) 1940-current",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the herald-news (wolf point, mont.) 1940-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86075271/1955-10-27/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86075271/1955-10-27/ed-1/"
+  ],
+  "shelf_id": "05",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "roosevelt",
+    "montana",
+    "wolf point",
+    "wolf point (mont.)",
+    "newspapers"
+  ],
+  "timestamp": "2023-11-19T03:40:30.135Z",
+  "title": "Image 5 of The Herald-news (Wolf Point, Mont.), October 27, 1955",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86075271/1955-10-27/ed-1/?sp=5&q=soviet+union",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_kevin_ver01%2Fdata%2Fsn86075271%2F00517179322%2F1955102701%2F0579.xml&q=soviet+union&relevant_snippet=1"
+}

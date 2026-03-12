@@ -1,0 +1,154 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045293/1917-01-20/ed-1/?sp=6"
+  ],
+  "batch": [
+    "whi_dubliner_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/wisconsin/",
+    "2/united states/wisconsin/milwaukee/",
+    "3/united states/wisconsin/milwaukee/milwaukee/"
+  ],
+  "contributor": [
+    "wisconsin historical society"
+  ],
+  "date": "1917-01-20",
+  "dates": [
+    "1917-01-20"
+  ],
+  "description": [
+    "Editorial Page of The Milwaukee Leader THE MILWAUKEE LEADER Entered an second claim matter December th 1911 at the postoffice at Milwaukee Wisconsin under the Act of March 3 189 Published every venln except Sunday by the Milwaukee SocialDemo era He Publishing Company at Chestnut and Sixth Streets VICTOR L BERGER Editor SUBSCRIPTION RATESThe mail editions of Th Milwaukee Leader will be sent to any subscriber in the United States foreign possessions and Canada for 40 cents per month Sioo for three months92oo for l montnii 9400 for on year In foreign countries 9400 for four months 9600 tor six months 9000 for one year The Home Edition will be delivered In Milwaukee for 10c a week ot 40r a monh The Pint and Sports Editions 9c a copy or 10c a week FOREIGN ADVERTISING REPRESENTATIVE The N M SHEFFIELD Special Agency New York Tribune Bldg Chicago 1701 Heyworth Building OffW Roun 9 a m to p m 10 TEL GRAND 5090 THE NINE LAWYERS HqplHE IDEA that there could be no constitutional government 1 without a supreme court to exercise the veto power has been so thoroughly cultivated by the lawyers that a great many oth erwise intelligent persons"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-04-06T23:41:30.189Z",
+  "group": [
+    "ndnp/whi",
+    "wisconsin-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045293/1917-01-20/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dubliner_ver02:data:sn83045293:00517013031:1917012001:0501/full/pct:3.125/0/default.jpg#h=312&w=226",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dubliner_ver02:data:sn83045293:00517013031:1917012001:0501/full/pct:6.25/0/default.jpg#h=624&w=452",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/whi/batch_whi_dubliner_ver02/data/sn83045293/00517013031/1917012001/0501.xml&format=alto_xml"
+  ],
+  "index": 44,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "wisconsin",
+    "milwaukee"
+  ],
+  "location_city": [
+    "milwaukee"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "milwaukee"
+  ],
+  "location_state": [
+    "wisconsin"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "5",
+    "0000000006",
+    "1",
+    "7",
+    "sn83045293"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045293"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "0",
+    "1",
+    "3",
+    "0",
+    "3",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83045293-1917-01-20-ed-1-0501",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the milwaukee leader (milwaukee, wis.) 1911-1938"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the milwaukee leader (milwaukee, wis.) 1911-1938"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045293/1917-01-20/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045293/1917-01-20/ed-1/"
+  ],
+  "shelf_id": "06",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "milwaukee (wis.)",
+    "milwaukee",
+    "socialism",
+    "wisconsin"
+  ],
+  "timestamp": "2024-04-07T00:26:19.860Z",
+  "title": "Image 6 of The Milwaukee leader (Milwaukee, Wis.), January 20, 1917",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045293/1917-01-20/ed-1/?sp=6&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwhi%2Fbatch_whi_dubliner_ver02%2Fdata%2Fsn83045293%2F00517013031%2F1917012001%2F0501.xml&q=manifest+destiny&relevant_snippet=1"
+}

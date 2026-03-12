@@ -1,0 +1,119 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "Korea \u2013 Republic of Korea \u2013 Marines",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-0561",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Still Pictures",
+          "state": "MD",
+          "fax": "301-837-3621",
+          "email": "stillpix@nara.gov",
+          "mailCode": "RRSS"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Photographic Materials"
+          ],
+          "specificMediaType": "Photographic Print",
+          "containerId": "Box 25, Folder 163"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupName": "National Archives at College Park \u2013 Still Pictures",
+    "groupId": "RRAS",
+    "groupCd": "RRAS"
+  },
+  "generalRecordsTypes": [
+    "Photographs and other Graphic Materials"
+  ],
+  "localIdentifier": "127-GR-163-A156047",
+  "digitalObjects": [
+    {
+      "objectFilename": "127-gr-25-163-A156047_001-ac.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/stillpix/127-gr/Korea-Republic-of-Korea-Marines/127-gr-25-163-A156047_001-ac.jpg",
+      "objectFileSize": 4548695,
+      "objectId": "74248618",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "127-gr-25-163-A156047_002-ac.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/stillpix/127-gr/Korea-Republic-of-Korea-Marines/127-gr-25-163-A156047_002-ac.jpg",
+      "objectFileSize": 14466733,
+      "objectId": "74248619",
+      "objectType": "Image (JPG)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1775,
+        "logicalDate": "1775-01-01"
+      },
+      "distance": 3,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 127,
+      "inclusiveEndDate": {
+        "year": 9999,
+        "logicalDate": "9999-12-31"
+      },
+      "title": "Records of the U.S. Marine Corps",
+      "naId": 456
+    },
+    {
+      "inclusiveStartDate": {
+        "dateQualifier": "ca.",
+        "year": 1940,
+        "logicalDate": "1940-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "Department of Defense. Department of the Navy. U.S. Marine Corps. (09/18/1947 - )",
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 9,
+            "year": 1947,
+            "day": 18,
+            "logicalDate": "1947-09-18"
+          },
+          "naId": 10476969
+        }
+      ],
+      "inclusiveEndDate": {
+        "dateQualifier": "ca.",
+        "year": 1958,
+        "logicalDate": "1958-12-31"
+      },
+      "title": "Photographic Reference File",
+      "naId": 532370
+    },
+    {
+      "distance": 1,
+      "levelOfDescription": "fileUnit",
+      "title": "Korea \u2013 Republic of Korea \u2013 Marines",
+      "naId": 74225237
+    }
+  ],
+  "naId": 74248617
+}

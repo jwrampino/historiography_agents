@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86075189/1944-07-28/ed-1/?sp=3"
+  ],
+  "batch": [
+    "mthi_douglasfir_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/lewis and clark/",
+    "3/united states/montana/lewis and clark/helena/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1944-07-28",
+  "dates": [
+    "1944-07-28"
+  ],
+  "description": [
+    "FULL FACE Herbert Hoover By ROBERT W DUNN and CHARLES J COE To tell the truth Marsh the ambi tion of my life is to crush out Soviet Russia is what Herbert Hoover told Benjamin C Marsh secretary of the Peoples Lobby according to Marshs interview with the San Francisco News published August 13 1931 Even if you starve the women and children asked Marsh who was try ing to raise funds for Russian relief Yes was Hoovers reported reply When Hoover was voted out of of fice in 1932 by the largest margin ever registered up to that time most of us assumed that Hooverism was dead and buried In American political life we have a tradition that once an ex President is out of the race we bury him dead or alive and this tradition has given Hoover a cloak of invisi bility which has greatly aided him in carrying on his political maneuvering and continuing his campaign against the USSR What is the explanation for this mans blind hatred for the Soviet Union Some people believe that his hostility stems from the cancellation of his mining concessions in 1918 which he held in partnership with the Russian"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:45:48.566Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86075189/1944-07-28/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_douglasfir_ver01:data:sn86075189:0041421101A:1944072801:0116/full/pct:6.25/0/default.jpg#h=443&w=338",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_douglasfir_ver01:data:sn86075189:0041421101A:1944072801:0116/full/pct:12.5/0/default.jpg#h=887&w=677",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_douglasfir_ver01/data/sn86075189/0041421101A/1944072801/0116.xml&format=alto_xml"
+  ],
+  "index": 4,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "helena",
+    "united states",
+    "montana",
+    "lewis and clark"
+  ],
+  "location_city": [
+    "helena"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lewis and clark"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "0000000003",
+    "sn86075189",
+    "4",
+    "a",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86075189"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "2",
+    "1",
+    "1",
+    "0",
+    "1",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86075189-1944-07-28-ed-1-0116",
+  "partof": [
+    "the people's voice (helena, mont.) 1939-1969",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the people's voice (helena, mont.) 1939-1969"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86075189/1944-07-28/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86075189/1944-07-28/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "helena (mont.)",
+    "montana",
+    "history",
+    "helena",
+    "lewis and clark"
+  ],
+  "timestamp": "2023-07-05T20:50:37.655Z",
+  "title": "Image 3 of The People's voice (Helena, Mont.), July 28, 1944",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86075189/1944-07-28/ed-1/?sp=3&q=soviet+union",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_douglasfir_ver01%2Fdata%2Fsn86075189%2F0041421101A%2F1944072801%2F0116.xml&q=soviet+union&relevant_snippet=1"
+}

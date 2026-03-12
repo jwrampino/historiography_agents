@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86075250/1950-08-04/ed-1/?sp=2"
+  ],
+  "batch": [
+    "mthi_ismay_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/blaine/",
+    "3/united states/montana/blaine/harlem/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1950-08-04",
+  "dates": [
+    "1950-08-04"
+  ],
+  "description": [
+    "Theres a trick to making gold en brown crisp fried potatoes The trick is to partially cook them about two hours before you need themcook them about five min utes in deep fat at 370 degrees F Then just before serving reheat fat to 390 degrees F and cook potatoes about two minutes or un til brown Drain on absorbent pa per and serve immediately Here are a few simple ways to remove starch without damaging your iron It the iron is hot shake salt on a piece of paper and rub the iron back and forth over the salt until the starch rubs off You can remove starch from a cool iron by scouring it with fine steel wool or a moist cloth dipped in fine scouring powder A storage space that has a tem perature of from 35 to 45 degrees F with a humidity of 85 per cent or more is ideal for conserving egg quality Potatoes are grown on about one and onehalf to two million farms throughout the United States Braisinga process that com bines browning steaming and stewingis a good way to cook the less tender kinds of meat Remember never to boil meat"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-09T22:57:21.165Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86075250/1950-08-04/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_ismay_ver01:data:sn86075250:00517179048:1950080401:0242/full/pct:6.25/0/default.jpg#h=382&w=266",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_ismay_ver01:data:sn86075250:00517179048:1950080401:0242/full/pct:12.5/0/default.jpg#h=764&w=533",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_ismay_ver01/data/sn86075250/00517179048/1950080401/0242.xml&format=alto_xml"
+  ],
+  "index": 25,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "montana",
+    "harlem",
+    "blaine",
+    "united states"
+  ],
+  "location_city": [
+    "harlem"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "blaine"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "0000000002",
+    "0",
+    "sn86075250",
+    "7",
+    "9",
+    "1",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86075250"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "9",
+    "0",
+    "4",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86075250-1950-08-04-ed-1-0242",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the harlem news (harlem, mont.) 1908-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the harlem news (harlem, mont.) 1908-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86075250/1950-08-04/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86075250/1950-08-04/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "montana",
+    "harlem",
+    "blaine",
+    "united states"
+  ],
+  "timestamp": "2023-09-09T23:11:34.349Z",
+  "title": "Image 2 of The Harlem news (Harlem, Mont.), August 4, 1950",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86075250/1950-08-04/ed-1/?sp=2&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_ismay_ver01%2Fdata%2Fsn86075250%2F00517179048%2F1950080401%2F0242.xml&q=korea&relevant_snippet=1"
+}

@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn99021999/1916-10-19/ed-1/?sp=4"
+  ],
+  "batch": [
+    "nbu_azureaster_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nebraska/",
+    "2/united states/nebraska/douglas/",
+    "3/united states/nebraska/douglas/omaha/"
+  ],
+  "contributor": [
+    "university of nebraska-lincoln libraries, lincoln, ne"
+  ],
+  "date": "1916-10-19",
+  "dates": [
+    "1916-10-19"
+  ],
+  "description": [
+    "4 THE BEE QMAHA THURSDAY OCTOBER 19 1916 ARCHBISHOP HARTY WON LOYEAND HONOR New Prelate Who is Coming from Philippines to Omaha is Most Highly Praised HIS SUCESSOE IS NAMED Archbishop Jeremiah J Harty who is to be installed at the new Omaha cathedral is leaving the Phillipine Islands with a wealth of encomiums The Manila Times the leading daily in the New York of the islands prints a stirring eulogy of the archbishop in its editorial columns and acknowl edges with deep appreciation the good work the American churchman has done Bishop ODaugherty formerly sta tioned in Jaro P I has been ap pointed successor to Archbishop Harty according to word received in Omaha The bishop was formerly president of Salamanca college in Spam and since his residence in the Phillipines has been active in civic as well as religious matters Following is the editorial article from the Manila Times The official announcement of the impending departure from tbse islands of the archbishop bf Manila the Very Rev Jeremiah J Harty does no more than confirm the story current for some time past but it makes permissible and appropriate an expression of the deep regret with which in this"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:37:24.913Z",
+  "group": [
+    "ndnp/nbu",
+    "university-of-nebraska-of-nebraska-lincoln-libraries-lincoln-ne-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn99021999/1916-10-19/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_azureaster_ver01:data:sn99021999:00279551138:1916101901:0817/full/pct:6.25/0/default.jpg#h=359&w=250",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_azureaster_ver01:data:sn99021999:00279551138:1916101901:0817/full/pct:12.5/0/default.jpg#h=718&w=501",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nbu/batch_nbu_azureaster_ver01/data/sn99021999/00279551138/1916101901/0817.xml&format=alto_xml"
+  ],
+  "index": 75,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "douglas",
+    "nebraska",
+    "united states",
+    "omaha"
+  ],
+  "location_city": [
+    "omaha"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "douglas"
+  ],
+  "location_state": [
+    "nebraska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "3",
+    "sn99021999",
+    "5",
+    "2",
+    "1",
+    "7",
+    "0000000004",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn99021999"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "5",
+    "1",
+    "1",
+    "3",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday issues for Aug. 1, 1886-June 11, 1922 have title: Omaha Sunday bee"
+  ],
+  "page_id": "sn99021999-1916-10-19-ed-1-0817",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "omaha daily bee (omaha [neb.]) 187?-1922"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "omaha daily bee (omaha [neb.]) 187?-1922"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn99021999/1916-10-19/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn99021999/1916-10-19/ed-1/"
+  ],
+  "shelf_id": "04",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "omaha (neb.)",
+    "douglas",
+    "nebraska",
+    "omaha"
+  ],
+  "timestamp": "2025-12-14T11:39:58.192Z",
+  "title": "Image 4 of Omaha daily bee (Omaha [Neb.]), October 19, 1916",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn99021999/1916-10-19/ed-1/?sp=4&q=phillipines",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnbu%2Fbatch_nbu_azureaster_ver01%2Fdata%2Fsn99021999%2F00279551138%2F1916101901%2F0817.xml&q=phillipines&relevant_snippet=1"
+}

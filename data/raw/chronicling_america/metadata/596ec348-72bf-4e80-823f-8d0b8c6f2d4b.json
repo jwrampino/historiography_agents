@@ -1,0 +1,167 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn93062828/1948-10-03/ed-1/?sp=6"
+  ],
+  "batch": [
+    "nbu_fourtusker_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nebraska/",
+    "2/united states/nebraska/douglas/",
+    "3/united states/nebraska/douglas/omaha/"
+  ],
+  "contributor": [
+    "university of nebraska-lincoln libraries, lincoln, ne"
+  ],
+  "date": "1948-10-03",
+  "dates": [
+    "1948-10-03"
+  ],
+  "description": [
+    "WHY TELL IS SUPPORTING PRESIDENTIAL CANDIDACY OF GOV THOMAS E DEWEY It so happens that this first issue of TELL is being pub lished concurrently with the opening of the Presidential Campaign of 1948 This national event is of such momentous importance that any new publication should and must at the beginning de clare its political faith Unhesitatingly we do so We are here seeking to make plain the fact that our editor ial purpose concerns the interests of American citizens and not alone a race or group After prolonged study of the platforms of thetwo major political parties whose claims are at this time being pre sented to the American people we are led to feel and be lieve that the future of our country will be more completely assured by the election of the candidates nominated by the Republican Party at its convention in Philadelphia last June Because of our blood and tradition we are called upon by force of circumstances to review the records of political parties as they relate to us in the light of their performance rather than by their professions The record of the Republi can Party over the years indisputably more than stands"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:40:21.278Z",
+  "group": [
+    "ndnp/nbu",
+    "university-of-nebraska-of-nebraska-lincoln-libraries-lincoln-ne-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn93062828/1948-10-03/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fourtusker_ver01:data:sn93062828:0033289920A:1948100301:0643/full/pct:6.25/0/default.jpg#h=438&w=314",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fourtusker_ver01:data:sn93062828:0033289920A:1948100301:0643/full/pct:12.5/0/default.jpg#h=877&w=628",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nbu/batch_nbu_fourtusker_ver01/data/sn93062828/0033289920A/1948100301/0643.xml&format=alto_xml"
+  ],
+  "index": 5,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "douglas",
+    "omaha",
+    "nebraska"
+  ],
+  "location_city": [
+    "omaha"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "douglas"
+  ],
+  "location_state": [
+    "nebraska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "a",
+    "9",
+    "2",
+    "8",
+    "3",
+    "1",
+    "0000000006",
+    "sn93062828"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn93062828"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "9",
+    "2",
+    "0",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Guide Omaha",
+    "Greater Omaha guide"
+  ],
+  "page_id": "sn93062828-1948-10-03-ed-1-0643",
+  "partof": [
+    "the omaha guide (omaha, neb.) 1927-19??",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the omaha guide (omaha, neb.) 1927-19??"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn93062828/1948-10-03/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn93062828/1948-10-03/ed-1/"
+  ],
+  "shelf_id": "06",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "omaha (neb.)",
+    "nebraska",
+    "african american newspapers",
+    "omaha",
+    "african american",
+    "douglas",
+    "united states",
+    "newspapers",
+    "african americans"
+  ],
+  "subject_ethnicity": [
+    "african american"
+  ],
+  "timestamp": "2025-12-14T23:37:46.294Z",
+  "title": "Image 6 of The Omaha guide (Omaha, Neb.), October 3, 1948, (City Edition, Magazine Section)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn93062828/1948-10-03/ed-1/?sp=6&q=civil+rights",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnbu%2Fbatch_nbu_fourtusker_ver01%2Fdata%2Fsn93062828%2F0033289920A%2F1948100301%2F0643.xml&q=civil+rights&relevant_snippet=1"
+}

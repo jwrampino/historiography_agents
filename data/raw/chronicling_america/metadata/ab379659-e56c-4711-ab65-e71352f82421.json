@@ -1,0 +1,153 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86091130/1918-09-27/ed-1/?sp=1"
+  ],
+  "batch": [
+    "idhi_kellerman_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/idaho/",
+    "2/united states/idaho/cassia/",
+    "3/united states/idaho/cassia/oakley/"
+  ],
+  "contributor": [
+    "idaho state historical society"
+  ],
+  "date": "1918-09-27",
+  "dates": [
+    "1918-09-27"
+  ],
+  "description": [
+    "t t THE OAKLEY HERALD 1 4 v TOL 22 OAKLEY CASSIA COUNTY IDAHO FRIDAY SEPT 27 198 NUMBER 40 HOT SINGLE TU TAKEN BT KAISER 1 WEEKS FIGHTING RESULTS IN SERIES OF UNBROKEN DE FEATS FOR GERMANS Believed That In Future Huns Will Act Solely on Defensive While Attempting to Open Negotia tions for Peace V With the American Army in France The allies are still forging forward smashing the German lines Field Marshal Haigs troops Sunday night smashed into the German lines at four different points on the battle front The Flanders battle still con tinues with the British making steudy gains American troops made two success ful raids on the German lines north east of St Mlhlel early Sunday morn ing taking prisoners in the region of Haumont and southeast of Charey Both raids were preceded by bar rages General Allenbys forces in Pales tine have taken 18000 Turkish pris ones and have captured 120 guns be sides four airplanes and a large quan tity of uncounted transport This means the virtual annihilation of the Ottoman forces in this region The British losses were surprisingly slight considering the Importance of the advance During the past week gains"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-06T12:37:23.292Z",
+  "group": [
+    "ndnp/idhi",
+    "idaho-state-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86091130/1918-09-27/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_kellerman_ver01:data:sn86091130:00415666767:1918092701:0702/full/pct:6.25/0/default.jpg#h=426&w=306",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_kellerman_ver01:data:sn86091130:00415666767:1918092701:0702/full/pct:12.5/0/default.jpg#h=852&w=613",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/idhi/batch_idhi_kellerman_ver01/data/sn86091130/00415666767/1918092701/0702.xml&format=alto_xml"
+  ],
+  "index": 173,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "oakley",
+    "cassia",
+    "idaho"
+  ],
+  "location_city": [
+    "oakley"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cassia"
+  ],
+  "location_state": [
+    "idaho"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn86091130",
+    "0000000001",
+    "6",
+    "5",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86091130"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "6",
+    "6",
+    "7",
+    "6",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86091130-1918-09-27-ed-1-0702",
+  "partof": [
+    "the oakley herald (oakley, idaho) 1908-1961",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the oakley herald (oakley, idaho) 1908-1961"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86091130/1918-09-27/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86091130/1918-09-27/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "cassia",
+    "idaho",
+    "oakley",
+    "oakley (idaho)",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-07-07T02:21:04.214Z",
+  "title": "Image 1 of The Oakley herald (Oakley, Idaho), September 27, 1918",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86091130/1918-09-27/ed-1/?sp=1&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fidhi%2Fbatch_idhi_kellerman_ver01%2Fdata%2Fsn86091130%2F00415666767%2F1918092701%2F0702.xml&q=terrorism&relevant_snippet=1"
+}

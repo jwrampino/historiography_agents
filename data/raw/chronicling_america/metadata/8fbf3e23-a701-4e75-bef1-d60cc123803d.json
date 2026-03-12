@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87068097/1906-02-09/ed-1/?sp=4"
+  ],
+  "batch": [
+    "njr_illiciumverum_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new jersey/",
+    "2/united states/new jersey/hudson/",
+    "3/united states/new jersey/hudson/jersey city/"
+  ],
+  "contributor": [
+    "rutgers university libraries"
+  ],
+  "date": "1906-02-09",
+  "dates": [
+    "1906-02-09"
+  ],
+  "description": [
+    "BRYAN TO THE FILIPINOS Former Democratic Presi dential Candidate Tells i Them to Save Confidence AMERICANS WISH THEM WELL MEETING OP MB BRYAN WITH BMIWO AGTTINALDO TH 1 LOADER OP THE FILIPINO IN I SUBRECTIONiSTS v WASHINGTON Feb 9 1896 Kept me out of office twice That i the cmfc debt William Jennings Bryan toM the Kifippmw he owed the Republi can party when he wa touring the in land Mad advice from Manila give la detail an account of the great Breners tour the archipelago At the banquet given in has honor in Manila he aid t In two campaigns of cy party I was defeated A majority of the American people voted aoainst me and my party yet I bofleue s firmly in the patriotism of these who voted against me ae I do of those who voted for me I believe that a major tyyes ail ofthe American people without regard to party are sincere well vrofcers of the Filipinos and their coum try and I want you to have as mtuen cradddteoe ts the Republicans in power ms I heave though I have been twice de ttniaA yy them and whoa I say this I sen"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:41:37.224Z",
+  "group": [
+    "ndnp/njr",
+    "rutgers-university-libraries-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87068097/1906-02-09/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_illiciumverum_ver01:data:sn87068097:00383340147:1906020901:0138/full/pct:6.25/0/default.jpg#h=438&w=366",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_illiciumverum_ver01:data:sn87068097:00383340147:1906020901:0138/full/pct:12.5/0/default.jpg#h=877&w=732",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/njr/batch_njr_illiciumverum_ver01/data/sn87068097/00383340147/1906020901/0138.xml&format=alto_xml"
+  ],
+  "index": 195,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "hudson",
+    "united states",
+    "new jersey",
+    "jersey city"
+  ],
+  "location_city": [
+    "jersey city"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hudson"
+  ],
+  "location_state": [
+    "new jersey"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "8",
+    "0000000004",
+    "4",
+    "7",
+    "3",
+    "sn87068097",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87068097"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "8",
+    "3",
+    "3",
+    "4",
+    "0",
+    "1",
+    "4",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87068097-1906-02-09-ed-1-0138",
+  "partof": [
+    "serial and government publications division",
+    "chronicling america",
+    "the jersey city news (jersey city [n.j.]) 1889-1906"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the jersey city news (jersey city [n.j.]) 1889-1906"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87068097/1906-02-09/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87068097/1906-02-09/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "jersey city (n.j.)",
+    "hudson",
+    "newspapers",
+    "new jersey",
+    "jersey city"
+  ],
+  "timestamp": "2025-12-02T04:10:59.908Z",
+  "title": "Image 4 of The Jersey City news (Jersey City [N.J.]), February 9, 1906, (LAST EDITION)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87068097/1906-02-09/ed-1/?sp=4&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnjr%2Fbatch_njr_illiciumverum_ver01%2Fdata%2Fsn87068097%2F00383340147%2F1906020901%2F0138.xml&q=reconstruction&relevant_snippet=1"
+}

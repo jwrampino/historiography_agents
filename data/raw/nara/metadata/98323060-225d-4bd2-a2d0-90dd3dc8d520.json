@@ -1,0 +1,129 @@
+{
+  "beginCongress": 68,
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "Senate Roll Call on Child Labor Amendment",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "Room 8E, 7th and Pennsylvania Avenue NW",
+          "city": "Washington",
+          "phone": "202-357-5350",
+          "address1": "National Archives Building",
+          "postalCode": "20408",
+          "name": "Center for Legislative Archives",
+          "state": "DC",
+          "fax": "202-357-5911",
+          "email": "legislative.archives@nara.gov",
+          "mailCode": "LL"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "endCongress": 68,
+  "dataControlGroup": {
+    "groupName": "Center for Legislative Archives",
+    "groupId": "RPL",
+    "groupCd": "RPL"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "localIdentifier": "Sen 68A-M1",
+  "productionDates": [
+    {
+      "month": 6,
+      "year": 1924,
+      "day": 2,
+      "logicalDate": "1924-06-02"
+    }
+  ],
+  "variantControlNumbers": [
+    {
+      "note": "This is the NARA Internal Exhibit Tracking Number for the Public Vaults exhibit.",
+      "number": "23023",
+      "type": "Other Identifier"
+    },
+    {
+      "number": "Majority Loses",
+      "type": "Search Identifier"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "23023_2010_001_a.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/83/6781/5678183/content/arcmedia/Public_Vaults/23023_2010_001_a.jpg",
+      "objectFileSize": 57954,
+      "objectId": "14500356",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "23023.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/83/6781/5678183/content/arcmedia/Public_Vaults/23023.pdf",
+      "objectFileSize": 1074780,
+      "objectId": "14500357",
+      "objectDescription": "Download PDF",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1789,
+        "logicalDate": "1789-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 46,
+      "inclusiveEndDate": {
+        "year": 2023,
+        "logicalDate": "2023-12-31"
+      },
+      "title": "Records of the U.S. Senate",
+      "naId": 375
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1789,
+        "logicalDate": "1789-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "U.S. Senate. (03/04/1789 - )",
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 3,
+            "year": 1789,
+            "day": 4,
+            "logicalDate": "1789-03-04"
+          },
+          "naId": 10461761
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1982,
+        "logicalDate": "1982-12-31"
+      },
+      "title": "Various Papers",
+      "naId": 559834
+    }
+  ],
+  "naId": 5678183
+}

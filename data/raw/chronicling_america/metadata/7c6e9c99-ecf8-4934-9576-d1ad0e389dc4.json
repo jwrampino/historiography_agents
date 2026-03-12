@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn89066313/1915-02-07/ed-1/?sp=2"
+  ],
+  "batch": [
+    "mohi_carver_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/missouri/",
+    "2/united states/missouri/boone/",
+    "3/united states/missouri/boone/columbia/"
+  ],
+  "contributor": [
+    "state historical society of missouri; columbia, mo"
+  ],
+  "date": "1915-02-07",
+  "dates": [
+    "1915-02-07"
+  ],
+  "description": [
+    "mzm zB 5i rv Page Two TJXIYERSITY HISSOURIAX SUXDAT FEBRUARY 7 1915 4k tri 4 fcv 3 H 8 I ri P i I i is r a if r t I UNIVERSITY MISSOUR1AN Published dally bx tbe itudrnL In the School f Journalism at tbe Dnlrrr itrol MUonrl JOHN V JEWELL Manager university MISSOU RIAN ASSOCIATION Inc Directors Pres ident T 8 Hudson Griffith Carpenter John V Murray Glenn Babb John a Stapel J D Ferguson I H Epper son D D Hosenfelder i iru n ocoop Office Virginia Building Downstairs Entered at the postofflce Columbia Mo as secondclass mall Address nil communications to ONIVEUSITV MISSOURIAN Columbia Missouri Ihones Business 53 News 27 TYPHOID FEVER PREVEXTIOX The United States Army has offered a great opportunity to test the effi ciency of vaccination against ty phold feer Dr M P Ravenel in his address on Vaccination before the Scientific Association told of the value of typhoid vaccination preventative Before vaccination was practiced there was much typhoid fever in our army There were 173 cases in 1909 Sixteen soldiers died In 1913 after vaccination had been introduced there were only three cases in the entire army of more than 90000 en"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T11:51:14.059Z",
+  "group": [
+    "ndnp/mohi",
+    "state-historical-society-of-missouri-columbia-mo-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn89066313/1915-02-07/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_carver_ver01:data:sn89066313:00211109506:1915020701:0154/full/pct:6.25/0/default.jpg#h=426&w=290",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_carver_ver01:data:sn89066313:00211109506:1915020701:0154/full/pct:12.5/0/default.jpg#h=852&w=581",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mohi/batch_mohi_carver_ver01/data/sn89066313/00211109506/1915020701/0154.xml&format=alto_xml"
+  ],
+  "index": 16,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "columbia",
+    "boone",
+    "boone county",
+    "missouri",
+    "united states"
+  ],
+  "location_city": [
+    "columbia"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "boone"
+  ],
+  "location_state": [
+    "missouri"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0000000002",
+    "0",
+    "2",
+    "9",
+    "1",
+    "sn89066313",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn89066313"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "1",
+    "1",
+    "0",
+    "9",
+    "5",
+    "0",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn89066313-1915-02-07-ed-1-0154",
+  "partof": [
+    "university missourian (columbia, mo.) 1908-1916",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "university missourian (columbia, mo.) 1908-1916"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn89066313/1915-02-07/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn89066313/1915-02-07/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "columbia",
+    "boone",
+    "columbia (mo.)",
+    "boone county",
+    "united states",
+    "missouri",
+    "boone county (mo.)"
+  ],
+  "timestamp": "2022-10-17T04:31:01.599Z",
+  "title": "Image 2 of University Missourian (Columbia, Mo.), February 7, 1915",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn89066313/1915-02-07/ed-1/?sp=2&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmohi%2Fbatch_mohi_carver_ver01%2Fdata%2Fsn89066313%2F00211109506%2F1915020701%2F0154.xml&q=computers&relevant_snippet=1"
+}

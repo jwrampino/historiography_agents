@@ -1,0 +1,2857 @@
+{
+  "onlineResources": [
+    {
+      "note": "This file was scanned as part of a collaboration effort between Fold3 and the National Archives.",
+      "description": "Fold3",
+      "url": "https://www.fold3.com/image/41561465"
+    }
+  ],
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "title": "851.5047 - Child Labor",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-3510",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Textual Reference",
+          "state": "MD",
+          "fax": "301-837-1752",
+          "email": "Archives2reference@nara.gov",
+          "mailCode": "RDT2"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupId": "ou=RDTP2,ou=groups",
+    "groupCd": "RDTP2"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "microformPublications": [
+    {
+      "identifier": "M1442",
+      "note": "The start of this file can be found on Roll 31.",
+      "title": "M1442 - Records of the Department of State Relating to Internal Affairs of France, 1930-1939."
+    }
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "Fold3 2017",
+      "type": "Search Identifier"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "0751.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0751.jpg",
+      "objectFileSize": 7151769,
+      "objectDesignator": "Fold3 File #41561465",
+      "objectId": "58013181",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0752.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0752.jpg",
+      "objectFileSize": 8868908,
+      "objectDesignator": "Fold3 File #41561466",
+      "objectId": "58013182",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0753.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0753.jpg",
+      "objectFileSize": 7601460,
+      "objectDesignator": "Fold3 File #41561467",
+      "objectId": "58013183",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0754.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0754.jpg",
+      "objectFileSize": 7760067,
+      "objectDesignator": "Fold3 File #41561468",
+      "objectId": "58013184",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0755.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0755.jpg",
+      "objectFileSize": 7538137,
+      "objectDesignator": "Fold3 File #41561469",
+      "objectId": "58013185",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0757.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0757.jpg",
+      "objectFileSize": 7536695,
+      "objectDesignator": "Fold3 File #41561470",
+      "objectId": "58013186",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0758.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0758.jpg",
+      "objectFileSize": 8922739,
+      "objectDesignator": "Fold3 File #41561471",
+      "objectId": "58013187",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0759.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0759.jpg",
+      "objectFileSize": 7600532,
+      "objectDesignator": "Fold3 File #41561472",
+      "objectId": "58013188",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0760.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0760.jpg",
+      "objectFileSize": 8183833,
+      "objectDesignator": "Fold3 File #41561473",
+      "objectId": "58013189",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0761.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0761.jpg",
+      "objectFileSize": 7376386,
+      "objectDesignator": "Fold3 File #41561474",
+      "objectId": "58013190",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0762.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0762.jpg",
+      "objectFileSize": 7572948,
+      "objectDesignator": "Fold3 File #41561475",
+      "objectId": "58013191",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0763.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0763.jpg",
+      "objectFileSize": 7939141,
+      "objectDesignator": "Fold3 File #41561476",
+      "objectId": "58013192",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0764.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0764.jpg",
+      "objectFileSize": 7940041,
+      "objectDesignator": "Fold3 File #41561477",
+      "objectId": "58013193",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0765.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0765.jpg",
+      "objectFileSize": 7472833,
+      "objectDesignator": "Fold3 File #41561478",
+      "objectId": "58013194",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0766.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0766.jpg",
+      "objectFileSize": 8688755,
+      "objectDesignator": "Fold3 File #41561480",
+      "objectId": "58013195",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0767.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0767.jpg",
+      "objectFileSize": 7772685,
+      "objectDesignator": "Fold3 File #41561481",
+      "objectId": "58013196",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0768.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0768.jpg",
+      "objectFileSize": 7602715,
+      "objectDesignator": "Fold3 File #41561482",
+      "objectId": "58013197",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0769.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0769.jpg",
+      "objectFileSize": 8578847,
+      "objectDesignator": "Fold3 File #41561484",
+      "objectId": "58013198",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0770.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0770.jpg",
+      "objectFileSize": 7762261,
+      "objectDesignator": "Fold3 File #41561486",
+      "objectId": "58013199",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0771.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0771.jpg",
+      "objectFileSize": 7643253,
+      "objectDesignator": "Fold3 File #41561487",
+      "objectId": "58013200",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0772.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0772.jpg",
+      "objectFileSize": 7878009,
+      "objectDesignator": "Fold3 File #41561488",
+      "objectId": "58013201",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0773.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0773.jpg",
+      "objectFileSize": 7738657,
+      "objectDesignator": "Fold3 File #41561489",
+      "objectId": "58013202",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0774.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0774.jpg",
+      "objectFileSize": 7681196,
+      "objectDesignator": "Fold3 File #41561491",
+      "objectId": "58013203",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0775.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0775.jpg",
+      "objectFileSize": 7796228,
+      "objectDesignator": "Fold3 File #41561493",
+      "objectId": "58013204",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0776.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0776.jpg",
+      "objectFileSize": 7766205,
+      "objectDesignator": "Fold3 File #41561495",
+      "objectId": "58013205",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0777.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0777.jpg",
+      "objectFileSize": 7876280,
+      "objectDesignator": "Fold3 File #41561497",
+      "objectId": "58013206",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0778.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0778.jpg",
+      "objectFileSize": 7859228,
+      "objectDesignator": "Fold3 File #41561499",
+      "objectId": "58013207",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0779.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0779.jpg",
+      "objectFileSize": 7641386,
+      "objectDesignator": "Fold3 File #41561501",
+      "objectId": "58013208",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0780.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0780.jpg",
+      "objectFileSize": 7616017,
+      "objectDesignator": "Fold3 File #41561503",
+      "objectId": "58013209",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0781.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0781.jpg",
+      "objectFileSize": 7672692,
+      "objectDesignator": "Fold3 File #41561505",
+      "objectId": "58013210",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0782.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0782.jpg",
+      "objectFileSize": 7751435,
+      "objectDesignator": "Fold3 File #41561507",
+      "objectId": "58013211",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0783.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0783.jpg",
+      "objectFileSize": 7554410,
+      "objectDesignator": "Fold3 File #41561508",
+      "objectId": "58013212",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0784.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0784.jpg",
+      "objectFileSize": 8992008,
+      "objectDesignator": "Fold3 File #41561510",
+      "objectId": "58013213",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0785.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0785.jpg",
+      "objectFileSize": 7543569,
+      "objectDesignator": "Fold3 File #41561513",
+      "objectId": "58013214",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0786.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0786.jpg",
+      "objectFileSize": 7780145,
+      "objectDesignator": "Fold3 File #41561515",
+      "objectId": "58013215",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0787.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0787.jpg",
+      "objectFileSize": 7612293,
+      "objectDesignator": "Fold3 File #41561517",
+      "objectId": "58013216",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0788.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0788.jpg",
+      "objectFileSize": 12169468,
+      "objectDesignator": "Fold3 File #41561519",
+      "objectId": "58013217",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0789.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0789.jpg",
+      "objectFileSize": 12465577,
+      "objectDesignator": "Fold3 File #41561521",
+      "objectId": "58013218",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0790.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0790.jpg",
+      "objectFileSize": 7820883,
+      "objectDesignator": "Fold3 File #41561523",
+      "objectId": "58013219",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0791.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0791.jpg",
+      "objectFileSize": 7558947,
+      "objectDesignator": "Fold3 File #41561526",
+      "objectId": "58013220",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0792.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0792.jpg",
+      "objectFileSize": 7556928,
+      "objectDesignator": "Fold3 File #41561528",
+      "objectId": "58013221",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0793.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0793.jpg",
+      "objectFileSize": 8746938,
+      "objectDesignator": "Fold3 File #41561533",
+      "objectId": "58013222",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0794.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0794.jpg",
+      "objectFileSize": 7491997,
+      "objectDesignator": "Fold3 File #41561535",
+      "objectId": "58013223",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0795.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0795.jpg",
+      "objectFileSize": 9832004,
+      "objectDesignator": "Fold3 File #41561537",
+      "objectId": "58013224",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0796.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0796.jpg",
+      "objectFileSize": 19144022,
+      "objectDesignator": "Fold3 File #41561539",
+      "objectId": "58013225",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0797.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0797.jpg",
+      "objectFileSize": 18830881,
+      "objectDesignator": "Fold3 File #41561541",
+      "objectId": "58013226",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0798.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0798.jpg",
+      "objectFileSize": 18562150,
+      "objectDesignator": "Fold3 File #41561544",
+      "objectId": "58013227",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0799.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0799.jpg",
+      "objectFileSize": 17969236,
+      "objectDesignator": "Fold3 File #41561547",
+      "objectId": "58013228",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0800.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0800.jpg",
+      "objectFileSize": 18951997,
+      "objectDesignator": "Fold3 File #41561549",
+      "objectId": "58013229",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0801.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0801.jpg",
+      "objectFileSize": 18002884,
+      "objectDesignator": "Fold3 File #41561551",
+      "objectId": "58013230",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0802.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0802.jpg",
+      "objectFileSize": 17556291,
+      "objectDesignator": "Fold3 File #41561553",
+      "objectId": "58013231",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0803.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0803.jpg",
+      "objectFileSize": 18999804,
+      "objectDesignator": "Fold3 File #41561556",
+      "objectId": "58013232",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0804.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0804.jpg",
+      "objectFileSize": 17542819,
+      "objectDesignator": "Fold3 File #41561558",
+      "objectId": "58013233",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0805.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0805.jpg",
+      "objectFileSize": 17725619,
+      "objectDesignator": "Fold3 File #41561562",
+      "objectId": "58013234",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0806.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0806.jpg",
+      "objectFileSize": 17982768,
+      "objectDesignator": "Fold3 File #41561564",
+      "objectId": "58013235",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0807.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0807.jpg",
+      "objectFileSize": 19051662,
+      "objectDesignator": "Fold3 File #41561567",
+      "objectId": "58013236",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0808.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0808.jpg",
+      "objectFileSize": 17725067,
+      "objectDesignator": "Fold3 File #41561569",
+      "objectId": "58013237",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0809.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0809.jpg",
+      "objectFileSize": 17742402,
+      "objectDesignator": "Fold3 File #41561572",
+      "objectId": "58013238",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0810.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0810.jpg",
+      "objectFileSize": 17260762,
+      "objectDesignator": "Fold3 File #41561575",
+      "objectId": "58013239",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0811.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0811.jpg",
+      "objectFileSize": 17439938,
+      "objectDesignator": "Fold3 File #41561579",
+      "objectId": "58013240",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0812.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0812.jpg",
+      "objectFileSize": 17632865,
+      "objectDesignator": "Fold3 File #41561582",
+      "objectId": "58013241",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0813.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0813.jpg",
+      "objectFileSize": 17297695,
+      "objectDesignator": "Fold3 File #41561584",
+      "objectId": "58013242",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0814.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0814.jpg",
+      "objectFileSize": 17238533,
+      "objectDesignator": "Fold3 File #41561586",
+      "objectId": "58013243",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0815.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0815.jpg",
+      "objectFileSize": 17230948,
+      "objectDesignator": "Fold3 File #41561589",
+      "objectId": "58013244",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0816.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0816.jpg",
+      "objectFileSize": 17267499,
+      "objectDesignator": "Fold3 File #41561591",
+      "objectId": "58013245",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0817.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0817.jpg",
+      "objectFileSize": 17553259,
+      "objectDesignator": "Fold3 File #41561594",
+      "objectId": "58013246",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0818.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0818.jpg",
+      "objectFileSize": 18593885,
+      "objectDesignator": "Fold3 File #41561596",
+      "objectId": "58013247",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0819.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0819.jpg",
+      "objectFileSize": 18464975,
+      "objectDesignator": "Fold3 File #41561598",
+      "objectId": "58013248",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0820.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0820.jpg",
+      "objectFileSize": 18452912,
+      "objectDesignator": "Fold3 File #41561601",
+      "objectId": "58013249",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0821.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0821.jpg",
+      "objectFileSize": 17621783,
+      "objectDesignator": "Fold3 File #41561603",
+      "objectId": "58013250",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0822.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0822.jpg",
+      "objectFileSize": 17387921,
+      "objectDesignator": "Fold3 File #41561606",
+      "objectId": "58013251",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0823.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0823.jpg",
+      "objectFileSize": 17984274,
+      "objectDesignator": "Fold3 File #41561608",
+      "objectId": "58013252",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0824.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0824.jpg",
+      "objectFileSize": 17897866,
+      "objectDesignator": "Fold3 File #41561611",
+      "objectId": "58013253",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0825.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0825.jpg",
+      "objectFileSize": 17946714,
+      "objectDesignator": "Fold3 File #41561613",
+      "objectId": "58013254",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0826.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0826.jpg",
+      "objectFileSize": 17910805,
+      "objectDesignator": "Fold3 File #41561616",
+      "objectId": "58013255",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0827.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0827.jpg",
+      "objectFileSize": 17995818,
+      "objectDesignator": "Fold3 File #41561618",
+      "objectId": "58013256",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0828.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0828.jpg",
+      "objectFileSize": 18065931,
+      "objectDesignator": "Fold3 File #41561620",
+      "objectId": "58013257",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0829.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0829.jpg",
+      "objectFileSize": 9941354,
+      "objectDesignator": "Fold3 File #41561623",
+      "objectId": "58013258",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0830.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0830.jpg",
+      "objectFileSize": 7640085,
+      "objectDesignator": "Fold3 File #41561625",
+      "objectId": "58013259",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0831.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0831.jpg",
+      "objectFileSize": 7548729,
+      "objectDesignator": "Fold3 File #41561627",
+      "objectId": "58013260",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0832.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0832.jpg",
+      "objectFileSize": 7646386,
+      "objectDesignator": "Fold3 File #41561629",
+      "objectId": "58013261",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0833.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0833.jpg",
+      "objectFileSize": 7902926,
+      "objectDesignator": "Fold3 File #41561630",
+      "objectId": "58013262",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0834.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0834.jpg",
+      "objectFileSize": 8735822,
+      "objectDesignator": "Fold3 File #41561632",
+      "objectId": "58013263",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0835.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0835.jpg",
+      "objectFileSize": 7946740,
+      "objectDesignator": "Fold3 File #41561634",
+      "objectId": "58013264",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0836.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0836.jpg",
+      "objectFileSize": 7699632,
+      "objectDesignator": "Fold3 File #41561636",
+      "objectId": "58013265",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0837.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0837.jpg",
+      "objectFileSize": 7454032,
+      "objectDesignator": "Fold3 File #41561638",
+      "objectId": "58013266",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0838.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0838.jpg",
+      "objectFileSize": 7662743,
+      "objectDesignator": "Fold3 File #41561640",
+      "objectId": "58013267",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0839.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0839.jpg",
+      "objectFileSize": 7424807,
+      "objectDesignator": "Fold3 File #41561642",
+      "objectId": "58013268",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0840.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0840.jpg",
+      "objectFileSize": 9465175,
+      "objectDesignator": "Fold3 File #41561643",
+      "objectId": "58013269",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0841.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0841.jpg",
+      "objectFileSize": 9398814,
+      "objectDesignator": "Fold3 File #41561645",
+      "objectId": "58013270",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0842.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0842.jpg",
+      "objectFileSize": 9401800,
+      "objectDesignator": "Fold3 File #41561647",
+      "objectId": "58013271",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0843.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0843.jpg",
+      "objectFileSize": 10103592,
+      "objectDesignator": "Fold3 File #41561649",
+      "objectId": "58013272",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0844.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0844.jpg",
+      "objectFileSize": 10229665,
+      "objectDesignator": "Fold3 File #41561651",
+      "objectId": "58013273",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0845.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0845.jpg",
+      "objectFileSize": 9206372,
+      "objectDesignator": "Fold3 File #41561653",
+      "objectId": "58013274",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0846.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0846.jpg",
+      "objectFileSize": 9213081,
+      "objectDesignator": "Fold3 File #41561655",
+      "objectId": "58013275",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0847.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0847.jpg",
+      "objectFileSize": 9333166,
+      "objectDesignator": "Fold3 File #41561656",
+      "objectId": "58013276",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0848.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0848.jpg",
+      "objectFileSize": 7827802,
+      "objectDesignator": "Fold3 File #41561657",
+      "objectId": "58013277",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0849.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0849.jpg",
+      "objectFileSize": 8401360,
+      "objectDesignator": "Fold3 File #41561659",
+      "objectId": "58013278",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0850.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0850.jpg",
+      "objectFileSize": 7466551,
+      "objectDesignator": "Fold3 File #41561661",
+      "objectId": "58013279",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0851.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0851.jpg",
+      "objectFileSize": 7581587,
+      "objectDesignator": "Fold3 File #41561662",
+      "objectId": "58013280",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0852.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0852.jpg",
+      "objectFileSize": 9089607,
+      "objectDesignator": "Fold3 File #41561664",
+      "objectId": "58013281",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0853.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0853.jpg",
+      "objectFileSize": 8729154,
+      "objectDesignator": "Fold3 File #41561666",
+      "objectId": "58013282",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0854.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0854.jpg",
+      "objectFileSize": 8799622,
+      "objectDesignator": "Fold3 File #41561668",
+      "objectId": "58013283",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0855.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0855.jpg",
+      "objectFileSize": 9032257,
+      "objectDesignator": "Fold3 File #41561670",
+      "objectId": "58013284",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0856.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0856.jpg",
+      "objectFileSize": 8821721,
+      "objectDesignator": "Fold3 File #41561672",
+      "objectId": "58013285",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0857.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0857.jpg",
+      "objectFileSize": 7491806,
+      "objectDesignator": "Fold3 File #41561673",
+      "objectId": "58013286",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0858.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0858.jpg",
+      "objectFileSize": 7565715,
+      "objectDesignator": "Fold3 File #41561675",
+      "objectId": "58013287",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0859.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0859.jpg",
+      "objectFileSize": 7721526,
+      "objectDesignator": "Fold3 File #41561677",
+      "objectId": "58013288",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0860.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0860.jpg",
+      "objectFileSize": 7288631,
+      "objectDesignator": "Fold3 File #41561679",
+      "objectId": "58013289",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0861.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0861.jpg",
+      "objectFileSize": 9496756,
+      "objectDesignator": "Fold3 File #41561680",
+      "objectId": "58013290",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0862.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0862.jpg",
+      "objectFileSize": 8793581,
+      "objectDesignator": "Fold3 File #41561681",
+      "objectId": "58013291",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0863.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0863.jpg",
+      "objectFileSize": 8775488,
+      "objectDesignator": "Fold3 File #41561683",
+      "objectId": "58013292",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0864.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0864.jpg",
+      "objectFileSize": 9491578,
+      "objectDesignator": "Fold3 File #41561685",
+      "objectId": "58013293",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0865.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0865.jpg",
+      "objectFileSize": 8569990,
+      "objectDesignator": "Fold3 File #41561687",
+      "objectId": "58013294",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0866.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0866.jpg",
+      "objectFileSize": 7394664,
+      "objectDesignator": "Fold3 File #41561689",
+      "objectId": "58013295",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0867.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0867.jpg",
+      "objectFileSize": 7499972,
+      "objectDesignator": "Fold3 File #41561690",
+      "objectId": "58013296",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0868.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0868.jpg",
+      "objectFileSize": 9497645,
+      "objectDesignator": "Fold3 File #41561693",
+      "objectId": "58013297",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0869.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0869.jpg",
+      "objectFileSize": 18679929,
+      "objectDesignator": "Fold3 File #41561697",
+      "objectId": "58013298",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0870.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0870.jpg",
+      "objectFileSize": 9365955,
+      "objectDesignator": "Fold3 File #41561699",
+      "objectId": "58013299",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0871.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0871.jpg",
+      "objectFileSize": 8746794,
+      "objectDesignator": "Fold3 File #41561701",
+      "objectId": "58013300",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0872.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0872.jpg",
+      "objectFileSize": 9831960,
+      "objectDesignator": "Fold3 File #41561704",
+      "objectId": "58013301",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0873.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0873.jpg",
+      "objectFileSize": 8854418,
+      "objectDesignator": "Fold3 File #41561705",
+      "objectId": "58013302",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0874.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0874.jpg",
+      "objectFileSize": 8680821,
+      "objectDesignator": "Fold3 File #41561708",
+      "objectId": "58013303",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0875.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0875.jpg",
+      "objectFileSize": 9711408,
+      "objectDesignator": "Fold3 File #41561710",
+      "objectId": "58013304",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0876.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0876.jpg",
+      "objectFileSize": 9071963,
+      "objectDesignator": "Fold3 File #41561713",
+      "objectId": "58013305",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0877.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0877.jpg",
+      "objectFileSize": 8784810,
+      "objectDesignator": "Fold3 File #41561715",
+      "objectId": "58013306",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0878.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0878.jpg",
+      "objectFileSize": 9124253,
+      "objectDesignator": "Fold3 File #41561716",
+      "objectId": "58013307",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0879.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0879.jpg",
+      "objectFileSize": 9084985,
+      "objectDesignator": "Fold3 File #41561718",
+      "objectId": "58013308",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0880.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0880.jpg",
+      "objectFileSize": 9003267,
+      "objectDesignator": "Fold3 File #41561720",
+      "objectId": "58013309",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0881.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0881.jpg",
+      "objectFileSize": 9006222,
+      "objectDesignator": "Fold3 File #41561723",
+      "objectId": "58013310",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0882.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0882.jpg",
+      "objectFileSize": 8770708,
+      "objectDesignator": "Fold3 File #41561725",
+      "objectId": "58013311",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0883.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0883.jpg",
+      "objectFileSize": 9003631,
+      "objectDesignator": "Fold3 File #41561727",
+      "objectId": "58013312",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0884.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0884.jpg",
+      "objectFileSize": 9683412,
+      "objectDesignator": "Fold3 File #41561728",
+      "objectId": "58013313",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0885.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0885.jpg",
+      "objectFileSize": 9204079,
+      "objectDesignator": "Fold3 File #41561730",
+      "objectId": "58013314",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0886.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0886.jpg",
+      "objectFileSize": 9237445,
+      "objectDesignator": "Fold3 File #41561732",
+      "objectId": "58013315",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0887.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0887.jpg",
+      "objectFileSize": 8796800,
+      "objectDesignator": "Fold3 File #41561734",
+      "objectId": "58013316",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0888.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0888.jpg",
+      "objectFileSize": 8714166,
+      "objectDesignator": "Fold3 File #41561736",
+      "objectId": "58013317",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0889.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0889.jpg",
+      "objectFileSize": 9042427,
+      "objectDesignator": "Fold3 File #41561738",
+      "objectId": "58013318",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0890.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0890.jpg",
+      "objectFileSize": 8834556,
+      "objectDesignator": "Fold3 File #41561740",
+      "objectId": "58013319",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0891.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0891.jpg",
+      "objectFileSize": 9097672,
+      "objectDesignator": "Fold3 File #41561742",
+      "objectId": "58013320",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0892.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0892.jpg",
+      "objectFileSize": 8938314,
+      "objectDesignator": "Fold3 File #41561744",
+      "objectId": "58013321",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0893.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0893.jpg",
+      "objectFileSize": 9442758,
+      "objectDesignator": "Fold3 File #41561745",
+      "objectId": "58013322",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0894.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0894.jpg",
+      "objectFileSize": 9570141,
+      "objectDesignator": "Fold3 File #41561747",
+      "objectId": "58013323",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0895.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0895.jpg",
+      "objectFileSize": 8760008,
+      "objectDesignator": "Fold3 File #41561749",
+      "objectId": "58013324",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0896.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0896.jpg",
+      "objectFileSize": 9073004,
+      "objectDesignator": "Fold3 File #41561751",
+      "objectId": "58013325",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0897.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0897.jpg",
+      "objectFileSize": 9239818,
+      "objectDesignator": "Fold3 File #41561753",
+      "objectId": "58013326",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0898.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0898.jpg",
+      "objectFileSize": 8914726,
+      "objectDesignator": "Fold3 File #41561755",
+      "objectId": "58013327",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0899.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0899.jpg",
+      "objectFileSize": 9426764,
+      "objectDesignator": "Fold3 File #41561757",
+      "objectId": "58013328",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0900.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0900.jpg",
+      "objectFileSize": 9249851,
+      "objectDesignator": "Fold3 File #41561759",
+      "objectId": "58013329",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0901.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0901.jpg",
+      "objectFileSize": 8998685,
+      "objectDesignator": "Fold3 File #41561761",
+      "objectId": "58013330",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0902.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0902.jpg",
+      "objectFileSize": 9303081,
+      "objectDesignator": "Fold3 File #41561763",
+      "objectId": "58013331",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0903.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0903.jpg",
+      "objectFileSize": 8422975,
+      "objectDesignator": "Fold3 File #41561765",
+      "objectId": "58013332",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0904.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0904.jpg",
+      "objectFileSize": 7531079,
+      "objectDesignator": "Fold3 File #41561767",
+      "objectId": "58013333",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0905.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0905.jpg",
+      "objectFileSize": 7347952,
+      "objectDesignator": "Fold3 File #41561769",
+      "objectId": "58013334",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0906.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0906.jpg",
+      "objectFileSize": 8689450,
+      "objectDesignator": "Fold3 File #41561771",
+      "objectId": "58013335",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0907.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0907.jpg",
+      "objectFileSize": 8626057,
+      "objectDesignator": "Fold3 File #41561773",
+      "objectId": "58013336",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0908.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0908.jpg",
+      "objectFileSize": 9451970,
+      "objectDesignator": "Fold3 File #41561774",
+      "objectId": "58013337",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0909.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0909.jpg",
+      "objectFileSize": 9138174,
+      "objectDesignator": "Fold3 File #41561776",
+      "objectId": "58013338",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0910.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0910.jpg",
+      "objectFileSize": 9159779,
+      "objectDesignator": "Fold3 File #41561778",
+      "objectId": "58013339",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0911.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0911.jpg",
+      "objectFileSize": 9065254,
+      "objectDesignator": "Fold3 File #41561780",
+      "objectId": "58013340",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0912.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0912.jpg",
+      "objectFileSize": 8931107,
+      "objectDesignator": "Fold3 File #41561782",
+      "objectId": "58013341",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0913.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0913.jpg",
+      "objectFileSize": 7950846,
+      "objectDesignator": "Fold3 File #41561786",
+      "objectId": "58013342",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0914.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0914.jpg",
+      "objectFileSize": 7513809,
+      "objectDesignator": "Fold3 File #41561787",
+      "objectId": "58013343",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0915.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0915.jpg",
+      "objectFileSize": 8084007,
+      "objectDesignator": "Fold3 File #41561789",
+      "objectId": "58013344",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0916.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0916.jpg",
+      "objectFileSize": 7234846,
+      "objectDesignator": "Fold3 File #41561791",
+      "objectId": "58013345",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0917.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0917.jpg",
+      "objectFileSize": 8100647,
+      "objectDesignator": "Fold3 File #41561793",
+      "objectId": "58013346",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0918.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0918.jpg",
+      "objectFileSize": 7760609,
+      "objectDesignator": "Fold3 File #41561795",
+      "objectId": "58013347",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0919.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0919.jpg",
+      "objectFileSize": 8366905,
+      "objectDesignator": "Fold3 File #41561797",
+      "objectId": "58013348",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0920.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0920.jpg",
+      "objectFileSize": 8544260,
+      "objectDesignator": "Fold3 File #41561799",
+      "objectId": "58013349",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0921.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0921.jpg",
+      "objectFileSize": 7783566,
+      "objectDesignator": "Fold3 File #41561802",
+      "objectId": "58013350",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0922.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0922.jpg",
+      "objectFileSize": 7654292,
+      "objectDesignator": "Fold3 File #41561804",
+      "objectId": "58013351",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0923.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0923.jpg",
+      "objectFileSize": 7915387,
+      "objectDesignator": "Fold3 File #41561806",
+      "objectId": "58013352",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0924.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0924.jpg",
+      "objectFileSize": 8740487,
+      "objectDesignator": "Fold3 File #41561807",
+      "objectId": "58013353",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0925.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0925.jpg",
+      "objectFileSize": 8795752,
+      "objectDesignator": "Fold3 File #41561809",
+      "objectId": "58013354",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0926.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0926.jpg",
+      "objectFileSize": 8756138,
+      "objectDesignator": "Fold3 File #41561811",
+      "objectId": "58013355",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0927.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0927.jpg",
+      "objectFileSize": 8134354,
+      "objectDesignator": "Fold3 File #41561813",
+      "objectId": "58013356",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0928.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0928.jpg",
+      "objectFileSize": 7952402,
+      "objectDesignator": "Fold3 File #41561815",
+      "objectId": "58013357",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0929.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0929.jpg",
+      "objectFileSize": 7570334,
+      "objectDesignator": "Fold3 File #41561817",
+      "objectId": "58013358",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0930.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0930.jpg",
+      "objectFileSize": 7918353,
+      "objectDesignator": "Fold3 File #41561819",
+      "objectId": "58013359",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0931.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0931.jpg",
+      "objectFileSize": 7668686,
+      "objectDesignator": "Fold3 File #41561821",
+      "objectId": "58013360",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0932.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0932.jpg",
+      "objectFileSize": 8090854,
+      "objectDesignator": "Fold3 File #41561823",
+      "objectId": "58013361",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0933.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0933.jpg",
+      "objectFileSize": 7606987,
+      "objectDesignator": "Fold3 File #41561825",
+      "objectId": "58013362",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0934.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0934.jpg",
+      "objectFileSize": 7778136,
+      "objectDesignator": "Fold3 File #41561827",
+      "objectId": "58013363",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0935.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0935.jpg",
+      "objectFileSize": 7567403,
+      "objectDesignator": "Fold3 File #41561829",
+      "objectId": "58013364",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0936.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0936.jpg",
+      "objectFileSize": 8376706,
+      "objectDesignator": "Fold3 File #41561830",
+      "objectId": "58013365",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0937.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0937.jpg",
+      "objectFileSize": 7681699,
+      "objectDesignator": "Fold3 File #41561833",
+      "objectId": "58013366",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0938.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0938.jpg",
+      "objectFileSize": 7510851,
+      "objectDesignator": "Fold3 File #41561835",
+      "objectId": "58013367",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0939.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0939.jpg",
+      "objectFileSize": 9328921,
+      "objectDesignator": "Fold3 File #41561836",
+      "objectId": "58013368",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0940.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0940.jpg",
+      "objectFileSize": 18273499,
+      "objectDesignator": "Fold3 File #41561840",
+      "objectId": "58013369",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0941.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0941.jpg",
+      "objectFileSize": 18356697,
+      "objectDesignator": "Fold3 File #41561842",
+      "objectId": "58013370",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0942.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0942.jpg",
+      "objectFileSize": 18121087,
+      "objectDesignator": "Fold3 File #41561845",
+      "objectId": "58013371",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0943.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0943.jpg",
+      "objectFileSize": 18157193,
+      "objectDesignator": "Fold3 File #41561847",
+      "objectId": "58013372",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0944.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0944.jpg",
+      "objectFileSize": 18107937,
+      "objectDesignator": "Fold3 File #41561850",
+      "objectId": "58013373",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0945.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0945.jpg",
+      "objectFileSize": 17543545,
+      "objectDesignator": "Fold3 File #41561852",
+      "objectId": "58013374",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0946.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0946.jpg",
+      "objectFileSize": 17623007,
+      "objectDesignator": "Fold3 File #41561855",
+      "objectId": "58013375",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0947.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0947.jpg",
+      "objectFileSize": 18154352,
+      "objectDesignator": "Fold3 File #41561858",
+      "objectId": "58013376",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0948.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0948.jpg",
+      "objectFileSize": 17813280,
+      "objectDesignator": "Fold3 File #41561860",
+      "objectId": "58013377",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0949.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0949.jpg",
+      "objectFileSize": 9127849,
+      "objectDesignator": "Fold3 File #41561862",
+      "objectId": "58013378",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0950.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0950.jpg",
+      "objectFileSize": 7422786,
+      "objectDesignator": "Fold3 File #41561864",
+      "objectId": "58013379",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0951.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0951.jpg",
+      "objectFileSize": 7829536,
+      "objectDesignator": "Fold3 File #41561866",
+      "objectId": "58013380",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0952.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0952.jpg",
+      "objectFileSize": 7751379,
+      "objectDesignator": "Fold3 File #41561868",
+      "objectId": "58013381",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0953.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0953.jpg",
+      "objectFileSize": 8071652,
+      "objectDesignator": "Fold3 File #41561870",
+      "objectId": "58013382",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0954.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0954.jpg",
+      "objectFileSize": 8103369,
+      "objectDesignator": "Fold3 File #41561872",
+      "objectId": "58013383",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0955.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0955.jpg",
+      "objectFileSize": 7733661,
+      "objectDesignator": "Fold3 File #41561874",
+      "objectId": "58013384",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0956.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0956.jpg",
+      "objectFileSize": 7443766,
+      "objectDesignator": "Fold3 File #41561875",
+      "objectId": "58013385",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0957.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0957.jpg",
+      "objectFileSize": 8660006,
+      "objectDesignator": "Fold3 File #41561877",
+      "objectId": "58013386",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0958.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0958.jpg",
+      "objectFileSize": 7536158,
+      "objectDesignator": "Fold3 File #41561879",
+      "objectId": "58013387",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0959.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0959.jpg",
+      "objectFileSize": 7529771,
+      "objectDesignator": "Fold3 File #41561881",
+      "objectId": "58013388",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0960.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0960.jpg",
+      "objectFileSize": 7465924,
+      "objectDesignator": "Fold3 File #41561883",
+      "objectId": "58013389",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0961.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0961.jpg",
+      "objectFileSize": 7661882,
+      "objectDesignator": "Fold3 File #41561885",
+      "objectId": "58013390",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0962.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0962.jpg",
+      "objectFileSize": 8108256,
+      "objectDesignator": "Fold3 File #41561887",
+      "objectId": "58013391",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0963.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0963.jpg",
+      "objectFileSize": 9053993,
+      "objectDesignator": "Fold3 File #41561889",
+      "objectId": "58013392",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0964.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0964.jpg",
+      "objectFileSize": 8855347,
+      "objectDesignator": "Fold3 File #41561891",
+      "objectId": "58013393",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0965.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0965.jpg",
+      "objectFileSize": 8988768,
+      "objectDesignator": "Fold3 File #41561893",
+      "objectId": "58013394",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0966.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0966.jpg",
+      "objectFileSize": 9268331,
+      "objectDesignator": "Fold3 File #41561895",
+      "objectId": "58013395",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0967.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0967.jpg",
+      "objectFileSize": 9062638,
+      "objectDesignator": "Fold3 File #41561897",
+      "objectId": "58013396",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0968.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0968.jpg",
+      "objectFileSize": 9052196,
+      "objectDesignator": "Fold3 File #41561899",
+      "objectId": "58013397",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0969.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0969.jpg",
+      "objectFileSize": 9275808,
+      "objectDesignator": "Fold3 File #41561901",
+      "objectId": "58013398",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0970.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0970.jpg",
+      "objectFileSize": 9091814,
+      "objectDesignator": "Fold3 File #41561903",
+      "objectId": "58013399",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0971.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0971.jpg",
+      "objectFileSize": 18420380,
+      "objectDesignator": "Fold3 File #41561906",
+      "objectId": "58013400",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0972.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0972.jpg",
+      "objectFileSize": 18216174,
+      "objectDesignator": "Fold3 File #41561908",
+      "objectId": "58013401",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0973.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0973.jpg",
+      "objectFileSize": 18174634,
+      "objectDesignator": "Fold3 File #41561911",
+      "objectId": "58013402",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0974.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0974.jpg",
+      "objectFileSize": 17178559,
+      "objectDesignator": "Fold3 File #41561913",
+      "objectId": "58013403",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0975.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0975.jpg",
+      "objectFileSize": 17741900,
+      "objectDesignator": "Fold3 File #41561916",
+      "objectId": "58013404",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0976.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0976.jpg",
+      "objectFileSize": 17953869,
+      "objectDesignator": "Fold3 File #41561918",
+      "objectId": "58013405",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0977.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0977.jpg",
+      "objectFileSize": 9177831,
+      "objectDesignator": "Fold3 File #41561920",
+      "objectId": "58013406",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0978.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0978.jpg",
+      "objectFileSize": 8262457,
+      "objectDesignator": "Fold3 File #41561922",
+      "objectId": "58013407",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0979.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0979.jpg",
+      "objectFileSize": 8145829,
+      "objectDesignator": "Fold3 File #41561924",
+      "objectId": "58013408",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0980.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0980.jpg",
+      "objectFileSize": 8997221,
+      "objectDesignator": "Fold3 File #41561926",
+      "objectId": "58013409",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0981.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0981.jpg",
+      "objectFileSize": 8162024,
+      "objectDesignator": "Fold3 File #41561928",
+      "objectId": "58013410",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0982.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0982.jpg",
+      "objectFileSize": 8225229,
+      "objectDesignator": "Fold3 File #41561930",
+      "objectId": "58013411",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0983.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0983.jpg",
+      "objectFileSize": 7943774,
+      "objectDesignator": "Fold3 File #41561931",
+      "objectId": "58013412",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0984.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0984.jpg",
+      "objectFileSize": 9465566,
+      "objectDesignator": "Fold3 File #41561933",
+      "objectId": "58013413",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0985.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0985.jpg",
+      "objectFileSize": 9489342,
+      "objectDesignator": "Fold3 File #41561935",
+      "objectId": "58013414",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0986.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0986.jpg",
+      "objectFileSize": 8115045,
+      "objectDesignator": "Fold3 File #41561937",
+      "objectId": "58013415",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0987.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0987.jpg",
+      "objectFileSize": 9048037,
+      "objectDesignator": "Fold3 File #41561939",
+      "objectId": "58013416",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0988.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0988.jpg",
+      "objectFileSize": 7979392,
+      "objectDesignator": "Fold3 File #41561941",
+      "objectId": "58013417",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0989.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0989.jpg",
+      "objectFileSize": 7675357,
+      "objectDesignator": "Fold3 File #41561943",
+      "objectId": "58013418",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0990.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0990.jpg",
+      "objectFileSize": 8071383,
+      "objectDesignator": "Fold3 File #41561944",
+      "objectId": "58013419",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0991.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0991.jpg",
+      "objectFileSize": 9424065,
+      "objectDesignator": "Fold3 File #41561946",
+      "objectId": "58013420",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0992.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0992.jpg",
+      "objectFileSize": 9439794,
+      "objectDesignator": "Fold3 File #41561948",
+      "objectId": "58013421",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0993.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0993.jpg",
+      "objectFileSize": 7949538,
+      "objectDesignator": "Fold3 File #41561950",
+      "objectId": "58013422",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0994.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0994.jpg",
+      "objectFileSize": 9557763,
+      "objectDesignator": "Fold3 File #41561952",
+      "objectId": "58013423",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0995.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0995.jpg",
+      "objectFileSize": 9454402,
+      "objectDesignator": "Fold3 File #41561954",
+      "objectId": "58013424",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0996.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0996.jpg",
+      "objectFileSize": 9357048,
+      "objectDesignator": "Fold3 File #41561957",
+      "objectId": "58013425",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0997.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0997.jpg",
+      "objectFileSize": 10194433,
+      "objectDesignator": "Fold3 File #41561959",
+      "objectId": "58013426",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0998.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0998.jpg",
+      "objectFileSize": 9652311,
+      "objectDesignator": "Fold3 File #41561960",
+      "objectId": "58013427",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0999.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/0999.jpg",
+      "objectFileSize": 9564483,
+      "objectDesignator": "Fold3 File #41561962",
+      "objectId": "58013428",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1000.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1000.jpg",
+      "objectFileSize": 7644449,
+      "objectDesignator": "Fold3 File #41561964",
+      "objectId": "58013429",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1001.jpg",
+      "objectFileSize": 7649884,
+      "objectDesignator": "Fold3 File #41561966",
+      "objectId": "58013430",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1002.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1002.jpg",
+      "objectFileSize": 7909285,
+      "objectDesignator": "Fold3 File #41561968",
+      "objectId": "58013431",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1003.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1003.jpg",
+      "objectFileSize": 7883661,
+      "objectDesignator": "Fold3 File #41561970",
+      "objectId": "58013432",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1004.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1004.jpg",
+      "objectFileSize": 8645974,
+      "objectDesignator": "Fold3 File #41561972",
+      "objectId": "58013433",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1005.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1005.jpg",
+      "objectFileSize": 7753145,
+      "objectDesignator": "Fold3 File #41561974",
+      "objectId": "58013434",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1006.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1006.jpg",
+      "objectFileSize": 7364771,
+      "objectDesignator": "Fold3 File #41561975",
+      "objectId": "58013435",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1007.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1007.jpg",
+      "objectFileSize": 7504625,
+      "objectDesignator": "Fold3 File #41561977",
+      "objectId": "58013436",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1008.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1008.jpg",
+      "objectFileSize": 7717415,
+      "objectDesignator": "Fold3 File #41561979",
+      "objectId": "58013437",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1009.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1009.jpg",
+      "objectFileSize": 8455256,
+      "objectDesignator": "Fold3 File #41561981",
+      "objectId": "58013438",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1010.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1010.jpg",
+      "objectFileSize": 7352139,
+      "objectDesignator": "Fold3 File #41561983",
+      "objectId": "58013439",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1011.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1011.jpg",
+      "objectFileSize": 8304108,
+      "objectDesignator": "Fold3 File #41561985",
+      "objectId": "58013440",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1012.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1012.jpg",
+      "objectFileSize": 7594506,
+      "objectDesignator": "Fold3 File #41561987",
+      "objectId": "58013441",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1013.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1013.jpg",
+      "objectFileSize": 8651855,
+      "objectDesignator": "Fold3 File #41561989",
+      "objectId": "58013442",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1014.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1014.jpg",
+      "objectFileSize": 7734275,
+      "objectDesignator": "Fold3 File #41561991",
+      "objectId": "58013443",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1015.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1015.jpg",
+      "objectFileSize": 7708858,
+      "objectDesignator": "Fold3 File #41561993",
+      "objectId": "58013444",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1016.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1016.jpg",
+      "objectFileSize": 7489101,
+      "objectDesignator": "Fold3 File #41561995",
+      "objectId": "58013445",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1017.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1017.jpg",
+      "objectFileSize": 7587659,
+      "objectDesignator": "Fold3 File #41561997",
+      "objectId": "58013446",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1018.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1018.jpg",
+      "objectFileSize": 9238614,
+      "objectDesignator": "Fold3 File #41561998",
+      "objectId": "58013447",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1019.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1019.jpg",
+      "objectFileSize": 9257475,
+      "objectDesignator": "Fold3 File #41562000",
+      "objectId": "58013448",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1020.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1020.jpg",
+      "objectFileSize": 7643843,
+      "objectDesignator": "Fold3 File #41562004",
+      "objectId": "58013449",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1021.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1021.jpg",
+      "objectFileSize": 7594328,
+      "objectDesignator": "Fold3 File #41562005",
+      "objectId": "58013450",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1022.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1022.jpg",
+      "objectFileSize": 8118746,
+      "objectDesignator": "Fold3 File #41562007",
+      "objectId": "58013451",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1023.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1023.jpg",
+      "objectFileSize": 7646574,
+      "objectDesignator": "Fold3 File #41562011",
+      "objectId": "58013452",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1024.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1024.jpg",
+      "objectFileSize": 8486309,
+      "objectDesignator": "Fold3 File #41562013",
+      "objectId": "58013453",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1025.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1025.jpg",
+      "objectFileSize": 9299093,
+      "objectDesignator": "Fold3 File #41562015",
+      "objectId": "58013454",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1026.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1026.jpg",
+      "objectFileSize": 8850395,
+      "objectDesignator": "Fold3 File #41562017",
+      "objectId": "58013455",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1027.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1027.jpg",
+      "objectFileSize": 7928493,
+      "objectDesignator": "Fold3 File #41562019",
+      "objectId": "58013456",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1028.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1028.jpg",
+      "objectFileSize": 8076665,
+      "objectDesignator": "Fold3 File #41562021",
+      "objectId": "58013457",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1029.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1029.jpg",
+      "objectFileSize": 7717682,
+      "objectDesignator": "Fold3 File #41562023",
+      "objectId": "58013458",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1030.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1030.jpg",
+      "objectFileSize": 7536265,
+      "objectDesignator": "Fold3 File #41562025",
+      "objectId": "58013459",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1031.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1031.jpg",
+      "objectFileSize": 7792872,
+      "objectDesignator": "Fold3 File #41562027",
+      "objectId": "58013460",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1032.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1032.jpg",
+      "objectFileSize": 7354306,
+      "objectDesignator": "Fold3 File #41562029",
+      "objectId": "58013461",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1033.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1033.jpg",
+      "objectFileSize": 8699557,
+      "objectDesignator": "Fold3 File #41562030",
+      "objectId": "58013462",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1034.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1034.jpg",
+      "objectFileSize": 9073157,
+      "objectDesignator": "Fold3 File #41562031",
+      "objectId": "58013463",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1035.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1035.jpg",
+      "objectFileSize": 7603489,
+      "objectDesignator": "Fold3 File #41562033",
+      "objectId": "58013464",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1036.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1036.jpg",
+      "objectFileSize": 7839369,
+      "objectDesignator": "Fold3 File #41562034",
+      "objectId": "58013465",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1037.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1037.jpg",
+      "objectFileSize": 8575417,
+      "objectDesignator": "Fold3 File #41562037",
+      "objectId": "58013466",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1038.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1038.jpg",
+      "objectFileSize": 7442522,
+      "objectDesignator": "Fold3 File #41562038",
+      "objectId": "58013467",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1039.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1039.jpg",
+      "objectFileSize": 7724813,
+      "objectDesignator": "Fold3 File #41562040",
+      "objectId": "58013468",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1040.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1040.jpg",
+      "objectFileSize": 7575436,
+      "objectDesignator": "Fold3 File #41562042",
+      "objectId": "58013469",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1041.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1041.jpg",
+      "objectFileSize": 9009249,
+      "objectDesignator": "Fold3 File #41562044",
+      "objectId": "58013470",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1042.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1042.jpg",
+      "objectFileSize": 7676559,
+      "objectDesignator": "Fold3 File #41562045",
+      "objectId": "58013471",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1043.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1043.jpg",
+      "objectFileSize": 8031078,
+      "objectDesignator": "Fold3 File #41562047",
+      "objectId": "58013472",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1044.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1044.jpg",
+      "objectFileSize": 7758499,
+      "objectDesignator": "Fold3 File #41562050",
+      "objectId": "58013473",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1045.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1045.jpg",
+      "objectFileSize": 7421940,
+      "objectDesignator": "Fold3 File #41562054",
+      "objectId": "58013474",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1046.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1046.jpg",
+      "objectFileSize": 7552536,
+      "objectDesignator": "Fold3 File #41562056",
+      "objectId": "58013475",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1047.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1047.jpg",
+      "objectFileSize": 9311040,
+      "objectDesignator": "Fold3 File #41562057",
+      "objectId": "58013476",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1048.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1048.jpg",
+      "objectFileSize": 9447077,
+      "objectDesignator": "Fold3 File #41562059",
+      "objectId": "58013477",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1049.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1049.jpg",
+      "objectFileSize": 9449314,
+      "objectDesignator": "Fold3 File #41562061",
+      "objectId": "58013478",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1050.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1050.jpg",
+      "objectFileSize": 9390046,
+      "objectDesignator": "Fold3 File #41562064",
+      "objectId": "58013479",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1051.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1051.jpg",
+      "objectFileSize": 7560341,
+      "objectDesignator": "Fold3 File #41562066",
+      "objectId": "58013480",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1052.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1052.jpg",
+      "objectFileSize": 9133777,
+      "objectDesignator": "Fold3 File #41562068",
+      "objectId": "58013481",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1053.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1053.jpg",
+      "objectFileSize": 9207886,
+      "objectDesignator": "Fold3 File #41562070",
+      "objectId": "58013482",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1054.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1054.jpg",
+      "objectFileSize": 9208076,
+      "objectDesignator": "Fold3 File #41562072",
+      "objectId": "58013483",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1055.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1055.jpg",
+      "objectFileSize": 9202998,
+      "objectDesignator": "Fold3 File #41562074",
+      "objectId": "58013484",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "1056.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/80/131/58013180/content/TB0105/M1442-StateDpt_IntAffairFrance_1930-1939/M1442_0031/images/1056.jpg",
+      "objectFileSize": 7506865,
+      "objectDesignator": "Fold3 File #41562075",
+      "objectId": "58013485",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1763,
+        "logicalDate": "1763-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 59,
+      "inclusiveEndDate": {
+        "year": 2002,
+        "logicalDate": "2002-12-31"
+      },
+      "title": "General Records of the Department of State",
+      "naId": 388
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1910,
+        "logicalDate": "1910-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "Department of State. Office of the Secretary. (9/1789 - )",
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 9,
+            "year": 1789,
+            "logicalDate": "1789-09-01"
+          },
+          "naId": 10501640
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1963,
+        "logicalDate": "1963-12-31"
+      },
+      "title": "Central Decimal Files",
+      "naId": 302021
+    }
+  ],
+  "naId": 58013180
+}

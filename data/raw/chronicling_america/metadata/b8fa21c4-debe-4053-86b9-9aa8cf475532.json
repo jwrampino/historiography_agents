@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87060190/1898-05-18/ed-1/?sp=1"
+  ],
+  "batch": [
+    "kyu_bronze_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/kentucky/",
+    "2/united states/kentucky/mason/",
+    "3/united states/kentucky/mason/maysville/"
+  ],
+  "contributor": [
+    "university of kentucky, lexington, ky"
+  ],
+  "date": "1898-05-18",
+  "dates": [
+    "1898-05-18"
+  ],
+  "description": [
+    "rnm s THE EVENING BULLETIN t t VOLUME XVII MAYSVILLE KY WEDNESDAY MAY 18 1898 NUMBER 150 vS I ft i i REPORT OF A BATTLE It Is Said To Have Occurred Off Isle of Tortuga NO Of FIOIAL INFORMATION All That Is Known Is That Heavy Firing Was Heard MAY HAVE BEEN TARGET FIRING The Cannonading Lasted All Day Snndoy ml the Report of It Cause Quite a Sensation In the Little Island Kepubllo of Haiti Port au Prince May 18 A great Bensatlon was caused here by the ar rival of the military commandant of the Isle of Tortuga off the northwest coast of Haiti and due north of Port de Paix near the entrance to the Windward passage who brought word to the Haitien war department of what is believed to have been a naval engagement on Sunday The com mandant reached Port de Paix from the Isle of Tortuga In a canoe Ho reported to the war office that through out the whole of Sunday a very per sistent cannonading had b2en heard east of the island and that from its duration and intensity there was a Strang presumption that a very seri ous action was"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-07-21T10:35:14.151Z",
+  "group": [
+    "ndnp/kyu",
+    "university-of-kentucky-lexington-ky-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87060190/1898-05-18/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bronze_ver01:data:sn87060190:00211103942:1898051801:0696/full/pct:6.25/0/default.jpg#h=445&w=291",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bronze_ver01:data:sn87060190:00211103942:1898051801:0696/full/pct:12.5/0/default.jpg#h=890&w=582",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/kyu/batch_kyu_bronze_ver01/data/sn87060190/00211103942/1898051801/0696.xml&format=alto_xml"
+  ],
+  "index": 163,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "kentucky",
+    "mason",
+    "maysville",
+    "mason county",
+    "united states"
+  ],
+  "location_city": [
+    "maysville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "mason"
+  ],
+  "location_state": [
+    "kentucky"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn87060190",
+    "9",
+    "0000000001",
+    "2",
+    "3",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87060190"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "1",
+    "1",
+    "0",
+    "3",
+    "9",
+    "4",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87060190-1898-05-18-ed-1-0696",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the evening bulletin (maysville, ky.) 1887-1905"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the evening bulletin (maysville, ky.) 1887-1905"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87060190/1898-05-18/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87060190/1898-05-18/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "kentucky",
+    "mason",
+    "maysville",
+    "mason county",
+    "maysville (ky.)",
+    "mason county (ky.)",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2025-07-21T14:01:18.721Z",
+  "title": "Image 1 of The evening bulletin (Maysville, Ky.), May 18, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87060190/1898-05-18/ed-1/?sp=1&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fkyu%2Fbatch_kyu_bronze_ver01%2Fdata%2Fsn87060190%2F00211103942%2F1898051801%2F0696.xml&q=spanish&relevant_snippet=1"
+}

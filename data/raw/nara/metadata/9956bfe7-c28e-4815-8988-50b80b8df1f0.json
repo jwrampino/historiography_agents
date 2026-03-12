@@ -1,0 +1,149 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "Memorial from American Convention for Promoting the Abolition of Slavery against Introduction of Slavery into the Territory of Louisiana",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "Room 8E, 7th and Pennsylvania Avenue NW",
+          "city": "Washington",
+          "phone": "202-357-5350",
+          "address1": "National Archives Building",
+          "postalCode": "20408",
+          "name": "Center for Legislative Archives",
+          "state": "DC",
+          "fax": "202-357-5911",
+          "email": "legislative.archives@nara.gov",
+          "mailCode": "LL"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupName": "Center for Legislative Archives",
+    "groupId": "RPL",
+    "groupCd": "RPL"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "localIdentifier": "SEN8A-G4",
+  "productionDates": [
+    {
+      "month": 1,
+      "year": 1804,
+      "day": 26,
+      "logicalDate": "1804-01-26"
+    }
+  ],
+  "variantControlNumbers": [
+    {
+      "note": "This is the NARA internal exhibit tracking number.",
+      "number": "17409",
+      "type": "Other Identifier"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "17409-2014-001-ac.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/45/1307/12130745/content/legislative/560271/17409-2014-001-ac.jpg",
+      "objectFileSize": 4149191,
+      "objectDesignator": "1",
+      "objectId": "12659717",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "17409-2014-002-ac.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/45/1307/12130745/content/legislative/560271/17409-2014-002-ac.jpg",
+      "objectFileSize": 3620208,
+      "objectDesignator": "2",
+      "objectId": "12659719",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "17409-2014-003-ac.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/45/1307/12130745/content/legislative/560271/17409-2014-003-ac.jpg",
+      "objectFileSize": 3030841,
+      "objectDesignator": "3",
+      "objectId": "12659720",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "17409-2014.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/45/1307/12130745/content/legislative/560271/17409-2014.pdf",
+      "objectFileSize": 327030,
+      "objectId": "12659718",
+      "objectDescription": "Download the PDF",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1789,
+        "logicalDate": "1789-01-01"
+      },
+      "distance": 3,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 46,
+      "inclusiveEndDate": {
+        "year": 2023,
+        "logicalDate": "2023-12-31"
+      },
+      "title": "Records of the U.S. Senate",
+      "naId": 375
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1789,
+        "logicalDate": "1789-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "U.S. Senate. (03/04/1789 - )",
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 3,
+            "year": 1789,
+            "day": 4,
+            "logicalDate": "1789-03-04"
+          },
+          "naId": 10461761
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1921,
+        "logicalDate": "1921-12-31"
+      },
+      "title": "Records of Early Senate Select Committees",
+      "naId": 560271
+    },
+    {
+      "distance": 1,
+      "levelOfDescription": "fileUnit",
+      "title": "Petitions, Memorials, and Resolutions of State Legislatures Submitted to the 8th Congress",
+      "naId": 7595229
+    }
+  ],
+  "naId": 12130745
+}

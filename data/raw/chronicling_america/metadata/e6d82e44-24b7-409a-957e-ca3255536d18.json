@@ -1,0 +1,153 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85034438/1898-04-01/ed-1/?sp=1"
+  ],
+  "batch": [
+    "vi_metallica_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/virginia/",
+    "3/united states/virginia/richmond/"
+  ],
+  "contributor": [
+    "library of virginia; richmond, va"
+  ],
+  "date": "1898-04-01",
+  "dates": [
+    "1898-04-01"
+  ],
+  "description": [
+    "YOL 13 NO 42 RICHMOND VA FRIDAY APRIL 1 1898 ar 2 Gn XC Nng4 57 i 4 Es 2 PRICE TWO CENTS VOL 13 ANXIOCS WAITING pit I Spairs Reply Will Bring Itfoa Crisis EE N NE N FRANK With Congressional Committee and Action is Deferred BOT ONLY UNTIL HONDA Spain Ma kes Fresh Pro posalsto Washington THEIR NATURE NOT DISCLOSED A Declaration of War is Now ully Ex pected by Monday or Tuesday as Spain is Not Expected to Comply With DemandsShe Would Have Honorable Prece dent for Such Action Germany Has a Grievance in Regard to Cuba ANKIOS ATG BUT ONLY UNTIL MONDAY Spain Makes Fresh Pro posalsto Washington THEIR NATURE NOT DISCLOSED A Declaration of War is Now Fully Ex pected by Monday or Tuesday as Spain is Not Expected to Comply With DemandsShe Would Have Honorable Prece dent for Such Action Germany Has a Grievance in Regard to Cuba WASHINGTON March 2LThis has been a day of anxions waiting for Spains reply to the demands of the United States contemplating the termination of the war in Cuba and the independence of the island On that reply it was universally believed the issue between peace or"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-11-23T05:56:45.488Z",
+  "group": [
+    "ndnp/vi",
+    "library-of-virginia-richmond-va-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85034438/1898-04-01/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_metallica_ver02:data:sn85034438:00175049459:1898040101:0009/full/pct:3.125/0/default.jpg#h=362&w=252",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_metallica_ver02:data:sn85034438:00175049459:1898040101:0009/full/pct:6.25/0/default.jpg#h=725&w=504",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/vi/batch_vi_metallica_ver02/data/sn85034438/00175049459/1898040101/0009.xml&format=alto_xml"
+  ],
+  "index": 186,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "richmond",
+    "virginia"
+  ],
+  "location_city": [
+    "richmond"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "virginia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "sn85034438",
+    "1",
+    "5",
+    "4",
+    "7",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85034438"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "1",
+    "7",
+    "5",
+    "0",
+    "4",
+    "9",
+    "4",
+    "5",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Daily times"
+  ],
+  "page_id": "sn85034438-1898-04-01-ed-1-0009",
+  "partof": [
+    "chronicling america",
+    "the times (richmond, va.) 1890-1903",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the times (richmond, va.) 1890-1903"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85034438/1898-04-01/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85034438/1898-04-01/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "richmond",
+    "richmond (va.)",
+    "virginia"
+  ],
+  "timestamp": "2025-11-23T07:12:49.630Z",
+  "title": "Image 1 of The times (Richmond, Va.), April 1, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85034438/1898-04-01/ed-1/?sp=1&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fvi%2Fbatch_vi_metallica_ver02%2Fdata%2Fsn85034438%2F00175049459%2F1898040101%2F0009.xml&q=cuba&relevant_snippet=1"
+}

@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045366/1906-08-26/ed-1/?sp=2"
+  ],
+  "batch": [
+    "mnhi_dunbar_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/minnesota/",
+    "2/united states/minnesota/hennepin/",
+    "3/united states/minnesota/hennepin/minneapolis/"
+  ],
+  "contributor": [
+    "minnesota historical society; saint paul, mn"
+  ],
+  "date": "1906-08-26",
+  "dates": [
+    "1906-08-26"
+  ],
+  "description": [
+    "5r HILL PUNS BIG COUP STOCKHOLDERS BOON Vast Ore Land Deal Said to Be Contemplated by the Rail way Magnate Special to The Journal Boston Aug 25It is stated here today that a big Hill railroad coup is coming shortly that will bring 150 000000 to 200000000 profit to Great Northern stockholders and also a big profit to Northern Pacific The report is persistent that Great Northern will form a new holding company to take over its ore lands and issue a stock bonus to Great Northern stockholders which are al ready being operated to a large extent by the Great Northerns subsidiary the Lake Superior company limited The big pronts of this company piled tip for several years past have never been distributed to Great Northern stockholders and best opinion is that thru this concern the Great Northern melon is soon to come Men in close touch with the situation Bay that Mr Hill intends to purchase for Great Northern the Northern Pa cific equity in the Burlington as soon as the ore deal is completed This will mean an enormous profit for Northern Pacific and explains much of the late bull talk on that stock BISKS HIS OWN"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-04T16:58:28.331Z",
+  "group": [
+    "ndnp/mnhi",
+    "minnesota-historical-society-saint-paul-mn-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045366/1906-08-26/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83045366:00206538405:1906082601:0233/full/pct:3.125/0/default.jpg#h=300&w=225",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83045366:00206538405:1906082601:0233/full/pct:6.25/0/default.jpg#h=600&w=450",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mnhi/batch_mnhi_dunbar_ver01/data/sn83045366/00206538405/1906082601/0233.xml&format=alto_xml"
+  ],
+  "index": 76,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "minneapolis",
+    "hennepin",
+    "united states",
+    "minnesota"
+  ],
+  "location_city": [
+    "minneapolis"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hennepin"
+  ],
+  "location_state": [
+    "minnesota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "0000000002",
+    "0",
+    "2",
+    "1",
+    "3",
+    "sn83045366",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045366"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "6",
+    "5",
+    "3",
+    "8",
+    "4",
+    "0",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday journal",
+    "Journal junior",
+    "Evening journal",
+    "Minneapolis evening journal"
+  ],
+  "page_id": "sn83045366-1906-08-26-ed-1-0233",
+  "partof": [
+    "chronicling america",
+    "the minneapolis journal (minneapolis, minn.) 1888-1939",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the minneapolis journal (minneapolis, minn.) 1888-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045366/1906-08-26/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045366/1906-08-26/ed-1/"
+  ],
+  "shelf_id": "02",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "minneapolis",
+    "minnesota",
+    "minneapolis (minn.)",
+    "hennepin",
+    "united states"
+  ],
+  "timestamp": "2024-01-04T14:27:26.965Z",
+  "title": "Image 2 of The Minneapolis journal (Minneapolis, Minn.), August 26, 1906, (Part I, News Section)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045366/1906-08-26/ed-1/?sp=2&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmnhi%2Fbatch_mnhi_dunbar_ver01%2Fdata%2Fsn83045366%2F00206538405%2F1906082601%2F0233.xml&q=cuba&relevant_snippet=1"
+}

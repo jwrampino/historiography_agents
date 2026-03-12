@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88085733/1935-03-15/ed-1/?sp=1"
+  ],
+  "batch": [
+    "wa_ivorygull_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/washington/",
+    "2/united states/washington/king/",
+    "3/united states/washington/king/seattle/"
+  ],
+  "contributor": [
+    "washington state library; olympia, wa"
+  ],
+  "date": "1935-03-15",
+  "dates": [
+    "1935-03-15"
+  ],
+  "description": [
+    "2000 DRIVE WILL BE EXTENDED TO MAY DAY See Page Four VOLUME 2 Unions Elect Delegates to NW Congress Against Fascism CITY COUNCIL GRANTS UCL CIVIC AUDITORIUN UCL Dance For April 6 or Apnl 6 Voice of Action March 30 Costume Ball Cancelled Affairs To Be Combined SEATTLE March 14Chalking up the bigest soeial event in the history of the Northwests organ ized unemployed movement the Unemployed Citizens League will take over the Civie Auditorium Saturday April 6 for an alldny bazaar winding up with a grand ball on the citys largest dance floor The Civie Auditorium will be furnished the UCL free by spe eial ordinance of the eity council The Voice of Action official UCL spokesman is jointly in charge of promotion and arrange ments and has cancelled its plans for an international costume ball set for March 30 to wind up the S2OOO drive in order to make the UCL bazaar and ball the more suecessful Wind Rush Strike Still Solid SEATTLE March 14 The strike on the SS Windrush Shep perd line is in its second week Seamen are determined to forece the company to recognize the un ion for collective bargaining to ship through the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-04-26T11:27:40.248Z",
+  "group": [
+    "ndnp/wa",
+    "washington-state-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88085733/1935-03-15/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_ivorygull_ver01:data:sn88085733:00414189945:1935031501:0967/full/pct:6.25/0/default.jpg#h=407&w=309",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_ivorygull_ver01:data:sn88085733:00414189945:1935031501:0967/full/pct:12.5/0/default.jpg#h=815&w=619",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wa/batch_wa_ivorygull_ver01/data/sn88085733/00414189945/1935031501/0967.xml&format=alto_xml"
+  ],
+  "index": 6,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "king",
+    "washington",
+    "seattle",
+    "united states"
+  ],
+  "location_city": [
+    "seattle"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "king"
+  ],
+  "location_state": [
+    "washington"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "0000000001",
+    "sn88085733",
+    "8",
+    "5",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88085733"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "1",
+    "8",
+    "9",
+    "9",
+    "4",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88085733-1935-03-15-ed-1-0967",
+  "partof": [
+    "voice of action (seattle, wash.) 1933-1936",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "voice of action (seattle, wash.) 1933-1936"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88085733/1935-03-15/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88085733/1935-03-15/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "seattle (wash.)",
+    "washington (state)",
+    "king",
+    "seattle",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2024-04-27T04:09:47.836Z",
+  "title": "Image 1 of Voice of action (Seattle, Wash.), March 15, 1935",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88085733/1935-03-15/ed-1/?sp=1&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwa%2Fbatch_wa_ivorygull_ver01%2Fdata%2Fsn88085733%2F00414189945%2F1935031501%2F0967.xml&q=fascism&relevant_snippet=1"
+}

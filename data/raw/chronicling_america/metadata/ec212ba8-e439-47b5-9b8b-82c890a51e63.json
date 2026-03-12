@@ -1,0 +1,136 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2004540423/1919-11-01/ed-1/?sp=74"
+  ],
+  "batch": [
+    "dlc_2lakewobegon_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1919-11-01",
+  "dates": [
+    "1919-11-01"
+  ],
+  "description": [
+    "Smtfw J THE TWO PILLARS Behind the murderous activities of the Bolsheviki in Russia and Eastern Europe j there is a certain definite criminal philoso phy which the civilized world can hardly believe or understand We get occasional ly however a revelation of what that so called new order means when a statesman of the caliber of Senator Oscar Under wood discusses it as he did in his speech in Mobile to the Confederate veterans The Senator is somewhat concerned over the problems of reconstruction which Europe must now face as the world now readjusts itself The greatest f these problems of course is anarchy the red terror which broke out in the defeated countries when order and government went down in the crash of military defeat In the United States we shall in all probabil ity escape this greatest problem yet as the Alabama Senator points out anarchy has defiantly raised its head in certain American cities of which we can say with some pride none are Southern cities There are he said two pillais of civilization Remove or destroy one of them and the whole structure must come crashing down One of them is respect of property and"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-19T00:31:37.557Z",
+  "group": [
+    "sgpww1newspaperclippings/dlc",
+    "wwi-newspaper-clippings"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2004540423/1919-11-01/ed-1/?sp=74",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_2lakewobegon_ver01:data:2004540423:print00209542638:1919110101:0074/full/pct:6.25/0/default.jpg#h=458&w=342",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_2lakewobegon_ver01:data:2004540423:print00209542638:1919110101:0074/full/pct:12.5/0/default.jpg#h=917&w=684",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/sgp/sgpbatches/batch_dlc_2lakewobegon_ver01/data/2004540423/print00209542638/1919110101/0074.xml&format=alto_xml"
+  ],
+  "index": 130,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "new york",
+    "united states",
+    "germany"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "2004540423",
+    "1",
+    "0000000074"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2004540423"
+  ],
+  "number_page": [
+    "0000000074"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2004540423-1919-11-01-ed-1-0074",
+  "partof": [
+    "world war history: newspaper clippings, 1914-1926",
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "world war history: newspaper clippings, 1914-1926"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2004540423/1919-11-01/ed-1/?sp=74"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2004540423/1919-11-01/ed-1/"
+  ],
+  "shelf_id": "074",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "new york",
+    "history",
+    "armistices",
+    "allied occupation",
+    "united states",
+    "sources",
+    "germany",
+    "world war"
+  ],
+  "timestamp": "2022-11-09T18:35:04.374Z",
+  "title": "Image 74 of World War history : daily records and comments as appeared in American and foreign newspapers, 1914-1926 (New York), November 1, 1919, (1919 November 1-30)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2004540423/1919-11-01/ed-1/?sp=74&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fsgp%2Fsgpbatches%2Fbatch_dlc_2lakewobegon_ver01%2Fdata%2F2004540423%2Fprint00209542638%2F1919110101%2F0074.xml&q=reconstruction&relevant_snippet=1"
+}

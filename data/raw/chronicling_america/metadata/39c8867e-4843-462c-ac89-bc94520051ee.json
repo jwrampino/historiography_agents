@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85042373/1910-08-29/ed-1/?sp=1"
+  ],
+  "batch": [
+    "ndhi_deering_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/north dakota/",
+    "2/united states/north dakota/grand forks/",
+    "3/united states/north dakota/grand forks/grand forks/"
+  ],
+  "contributor": [
+    "state historical society of north dakota"
+  ],
+  "date": "1910-08-29",
+  "dates": [
+    "1910-08-29"
+  ],
+  "description": [
+    "4 I 1 fl 1 1 VOL 5 NO E 1 BY SUITES IS ITJFFECIIVE Problems Are Too Large to be Limited by the State Boundaries CDMSEMRIMON is PROPER USE OF RESOORGESWITHOUT DESHCTHM Former President Declares Should be So Utilised That They Would Be Fassed to the Coming Generations Unimpaired Denver Aug 29The rear of artil lery booming out salute of twentyone guns greeted Theodore Roosevelt at the train bringing him from Cheyeene into the oity limits of Denver this morning and told the expectant thou sands packed before the railway sta tion and along the line of march of the Spanish veterans parade that the wests hero statesman soldier and bully good fellow Is in the Colorado capital It was a soldier that Denver first geeted the former president Upon his arrival at 1040 this morning he entered a carriage and lead the pa rade of his old comrades in arms the veterans of the Spanish war who are holding the national reunion this week Among them are many of the colonels famous rough riders and there was a strong personal element in the greeting which he received in Denver today A great crowd had gathered at the Station"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-25T19:25:44.923Z",
+  "group": [
+    "ndnp/ndhi",
+    "state-histrorical-society-of-north-dakota-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85042373/1910-08-29/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_deering_ver01:data:sn85042373:00212475865:1910082901:0479/full/pct:6.25/0/default.jpg#h=498&w=395",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_deering_ver01:data:sn85042373:00212475865:1910082901:0479/full/pct:12.5/0/default.jpg#h=997&w=791",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ndhi/batch_ndhi_deering_ver01/data/sn85042373/00212475865/1910082901/0479.xml&format=alto_xml"
+  ],
+  "index": 80,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "north dakota",
+    "united states",
+    "grand forks"
+  ],
+  "location_city": [
+    "grand forks"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "grand forks"
+  ],
+  "location_state": [
+    "north dakota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "5",
+    "6",
+    "7",
+    "4",
+    "sn85042373",
+    "2",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85042373"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "2",
+    "4",
+    "7",
+    "5",
+    "8",
+    "6",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85042373-1910-08-29-ed-1-0479",
+  "partof": [
+    "the evening times (grand forks, n.d.) 1906-1914",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the evening times (grand forks, n.d.) 1906-1914"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85042373/1910-08-29/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85042373/1910-08-29/ed-1/"
+  ],
+  "shelf_id": "01",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "grand forks (n.d.)",
+    "north dakota",
+    "grand forks"
+  ],
+  "timestamp": "2023-08-26T01:10:48.790Z",
+  "title": "Image 1 of The evening times (Grand Forks, N.D.), August 29, 1910",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85042373/1910-08-29/ed-1/?sp=1&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fndhi%2Fbatch_ndhi_deering_ver01%2Fdata%2Fsn85042373%2F00212475865%2F1910082901%2F0479.xml&q=korea&relevant_snippet=1"
+}

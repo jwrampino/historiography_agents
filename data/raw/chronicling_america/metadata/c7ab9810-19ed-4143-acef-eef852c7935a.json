@@ -1,0 +1,165 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045313/1953-11-02/ed-1/?sp=2"
+  ],
+  "batch": [
+    "me_journaux_ver04"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/maine/",
+    "2/united states/maine/androscoggin/",
+    "3/united states/maine/androscoggin/lewiston/"
+  ],
+  "contributor": [
+    "maine state library"
+  ],
+  "date": "1953-11-02",
+  "dates": [
+    "1953-11-02"
+  ],
+  "description": [
+    "WHILE THEY LAST centraiAmaine powcrIVcompanv for OVER 40 YEARS QUALITY APPLIANCES DEPENDABLE APPLIANCE SERVICING FUNERAILLES V Georges E Martel La service de M George Etien ae Martel a\u00e9ra chant\u00e9 aaardl na tta \u00e0 hait feearee et \u00e0 l\u00e9lUe aintPierre M Georges K Martel Le corps art expos\u00e9 au salons 4a r\u00e9tablissement Piaette 17 ras Barttett Les visiteurs sont ad mis d l\u00e9 heures la matla \u00e0 l\u00e9 heures la salr APC Bernard J Burpee Le service de lariatenr de pre mi\u00e8re classe Bernard J Burpee a\u00e9ra chant\u00e9 mardi matin h hait heures A l\u00e9glise Sainte Fa mille Le corps est expos\u00e9 au salons de l\u00e9tablissement Finette 7 ras Barttett FUNERAILLES H Gr\u00e9goire Pratt La service de h Gr\u00e9goire Pratt a \u00e9t\u00e9 chant\u00e9 lundi matin A neut heures A l\u00e9glise StPierre par le K P Jean Mare La pointe assist\u00e9 des BS PP Therriault et Paul Morin Les porteurs \u00e9taient MM Lar Ty Groleau Edmond Benoit L\u00e9o Lama Richard Lafontaine L\u00e9o Gastonguay et A Bearegard Le chant a \u00e9t\u00e9 rendu par MM Roland Pineau Asarias Beau dette et Alphonse Lechance M Bernard Pieh\u00e9 touchait lorgue On remarquait la d\u00e9l\u00e9gation mirante dee Forestiers MM T Caron Fortunat Laverdi\u00e8re Jo seph Landry et"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-04-13T06:19:38.630Z",
+  "group": [
+    "ndnp/me",
+    "maine-state-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045313/1953-11-02/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_journaux_ver04:data:sn83045313:00542861095:1953110201:0005/full/pct:6.25/0/default.jpg#h=321&w=213",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_journaux_ver04:data:sn83045313:00542861095:1953110201:0005/full/pct:12.5/0/default.jpg#h=643&w=427",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/me/batch_me_journaux_ver04/data/sn83045313/00542861095/1953110201/0005.xml&format=alto_xml"
+  ],
+  "index": 47,
+  "language": [
+    "english",
+    "french"
+  ],
+  "location": [
+    "united states",
+    "maine",
+    "lewiston",
+    "androscoggin"
+  ],
+  "location_city": [
+    "lewiston"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "androscoggin"
+  ],
+  "location_state": [
+    "maine"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "5",
+    "2",
+    "4",
+    "6",
+    "1",
+    "sn83045313",
+    "0000000002",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045313"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "2",
+    "8",
+    "6",
+    "1",
+    "0",
+    "9",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83045313-1953-11-02-ed-1-0005",
+  "partof": [
+    "chronicling america",
+    "le messager (lewiston, me.) 1880-1966",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "le messager (lewiston, me.) 1880-1966"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045313/1953-11-02/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045313/1953-11-02/ed-1/"
+  ],
+  "shelf_id": "02",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "french americans",
+    "lewiston",
+    "united states",
+    "french",
+    "maine",
+    "newspapers",
+    "lewiston (me.)",
+    "androscoggin",
+    "french-canadians"
+  ],
+  "subject_ethnicity": [
+    "french"
+  ],
+  "timestamp": "2025-04-13T06:33:31.647Z",
+  "title": "Image 2 of Le messager (Lewiston, Me.), November 2, 1953",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045313/1953-11-02/ed-1/?sp=2&q=vietnam",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fme%2Fbatch_me_journaux_ver04%2Fdata%2Fsn83045313%2F00542861095%2F1953110201%2F0005.xml&q=vietnam&relevant_snippet=1"
+}

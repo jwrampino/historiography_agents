@@ -1,0 +1,165 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87058348/1860-10-09/ed-1/?sp=1"
+  ],
+  "batch": [
+    "iahi_electabuzz_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/iowa/",
+    "2/united states/iowa/buchanan/",
+    "3/united states/iowa/buchanan/independence/"
+  ],
+  "contributor": [
+    "state historical society of iowa"
+  ],
+  "date": "1860-10-09",
+  "dates": [
+    "1860-10-09"
+  ],
+  "description": [
+    "U VOL IV AVI 11 GUARDIAN 4 RU RUSHED EVERY THURSDAY Y I O A N tfK in Wilcox Brick Block Second Flotr Terms 150 per Annum in Advance RATES OF ADVKRTI8I2TO One square 12 lines or less I insertion 100 Saoli subsequent insertion 50 One square three months six months one year One column one year Half column one year Quarter column one year Business eurN of 5 lines 1 yenr Marrn Xnfirey BUSINESS CARDS JOON HKXAFP H L STOUT A TAINTKIT T B WILSON Knapp Stent Co MANUFACTURERS OF Ulimber Shingles Lath PICKETS ScO Menominee Dunn Connty Wis RETAIL RRANCHESDubutjue cor 8th And Washington sts Fort Madison INDE PENDENCE Iowa JESUP Iowa Manches Mr Iowa Heeds Landing Minnesota July 17 18G0 3m DR H H HUNT OFFERS HIS PROFESSIONAL SERV ices to the citizens of Independence and surrounding country Office 011 Main Street Union Block with W C Morris where or at his Residence on Court Street opKsite 3 F Leavittslie will answer calls at all hours of the day or night api459ly W O DONNAN A TTORNEY fc COUNSELOR AT LAW jt Land and General ALf lit and Notary Public Treasurer A Recorders Office Indepen dence Iowa"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-05-16T11:54:29.909Z",
+  "group": [
+    "ndnp/iahi",
+    "state-historical-society-of-iowa-state-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87058348/1860-10-09/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1860100901:0478/full/pct:3.125/0/default.jpg#h=292&w=226",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1860100901:0478/full/pct:6.25/0/default.jpg#h=585&w=452",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1860100901:0478/full/pct:12.5/0/default.jpg#h=1171&w=904",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iahi/batch_iahi_electabuzz_ver01/data/sn87058348/00279529376/1860100901/0478.xml&format=alto_xml"
+  ],
+  "index": 53,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "independence",
+    "buchanan",
+    "buchanan county",
+    "iowa",
+    "united states"
+  ],
+  "location_city": [
+    "independence"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "buchanan"
+  ],
+  "location_state": [
+    "iowa"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn87058348",
+    "9",
+    "0000000001",
+    "2",
+    "6",
+    "5",
+    "3",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87058348"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "2",
+    "9",
+    "3",
+    "7",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Buchanan guardian"
+  ],
+  "page_id": "sn87058348-1860-10-09-ed-1-0478",
+  "partof": [
+    "chronicling america",
+    "the buchanan county guardian (independence, buchanan county, iowa) 1858-1864",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the buchanan county guardian (independence, buchanan county, iowa) 1858-1864"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87058348/1860-10-09/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87058348/1860-10-09/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "independence",
+    "buchanan",
+    "buchanan county",
+    "buchanan county (iowa)",
+    "iowa",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-07-03T21:34:09.229Z",
+  "title": "Image 1 of The Buchanan County guardian (Independence, Buchanan County, Iowa), October 9, 1860",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87058348/1860-10-09/ed-1/?sp=1&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiahi%2Fbatch_iahi_electabuzz_ver01%2Fdata%2Fsn87058348%2F00279529376%2F1860100901%2F0478.xml&q=slavery&relevant_snippet=1"
+}

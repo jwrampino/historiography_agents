@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87062224/1956-06-29/ed-1/?sp=2"
+  ],
+  "batch": [
+    "deu_groot_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/delaware/",
+    "2/united states/delaware/sussex/",
+    "3/united states/delaware/sussex/milford/"
+  ],
+  "contributor": [
+    "university of delaware library, newark, de"
+  ],
+  "date": "1956-06-29",
+  "dates": [
+    "1956-06-29"
+  ],
+  "description": [
+    "CHURCHES IN MILFORD Avenue Methodist Church Rev Robert E Green Pastor SUNDAY JULY 1 INDEPENDENCE SUNDAY JULY 1 1956 The Liberty Bell Rings Again On This Independence Sunday For One Nation Under God With Lib erty And Justice For All 845 a m Nursery Hostesses Mrs Robert Wall Miss Gerry Wall Pa rents attending the 845 a m service may leave their small children in the nursery 845 a m The Divine Worship The pastor will speak on Let Freedom Ring The Cherub Choir with 45 voices will sing Our Liv ing Bible by Brock Soprano so loist sing as the Offertory Solo Two words were added recently to our oath of allegience Under God His tory teaches that a nation may flout ish only as it marches to greatness Under God Light the lives of the members of your fam ily with a strong faith Bring them to worship this Sunday 900930 a in Methodist Mens Broadcast WKSB 945 a n Church School Wil son Sock rider superintendent Tom Faix assistant superintendent with Miss Ruth Benoit Director of Christian Education supervis ing Classes for all ages Our School provides trained teachers Bible bases graded lesson series excellent equipment classrooms"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-12T17:56:50.151Z",
+  "group": [
+    "ndnp/deu",
+    "university-of-delaware-library-newark-de-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87062224/1956-06-29/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_groot_ver01:data:sn87062224:00514156864:1956062901:0262/full/pct:3.125/0/default.jpg#h=264&w=214",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_groot_ver01:data:sn87062224:00514156864:1956062901:0262/full/pct:6.25/0/default.jpg#h=529&w=429",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_groot_ver01:data:sn87062224:00514156864:1956062901:0262/full/pct:12.5/0/default.jpg#h=1058&w=858",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/deu/batch_deu_groot_ver01/data/sn87062224/00514156864/1956062901/0262.xml&format=alto_xml"
+  ],
+  "index": 166,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "milford",
+    "united states",
+    "sussex",
+    "delaware"
+  ],
+  "location_city": [
+    "milford"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "sussex"
+  ],
+  "location_state": [
+    "delaware"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "4",
+    "6",
+    "5",
+    "8",
+    "0000000002",
+    "1",
+    "sn87062224"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87062224"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "4",
+    "1",
+    "5",
+    "6",
+    "8",
+    "6",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87062224-1956-06-29-ed-1-0262",
+  "partof": [
+    "milford chronicle (milford, del.) 1878-1974",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "milford chronicle (milford, del.) 1878-1974"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87062224/1956-06-29/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87062224/1956-06-29/ed-1/"
+  ],
+  "shelf_id": "02",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "milford (del.)",
+    "sussex",
+    "delaware",
+    "milford",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-08-13T05:38:12.478Z",
+  "title": "Image 2 of Milford chronicle (Milford, Del.), June 29, 1956",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87062224/1956-06-29/ed-1/?sp=2&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdeu%2Fbatch_deu_groot_ver01%2Fdata%2Fsn87062224%2F00514156864%2F1956062901%2F0262.xml&q=reconstruction&relevant_snippet=1"
+}

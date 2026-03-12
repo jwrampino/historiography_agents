@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86063952/1903-12-17/ed-1/?sp=6"
+  ],
+  "batch": [
+    "okhi_delaware_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/oklahoma/",
+    "2/united states/oklahoma/logan/",
+    "3/united states/oklahoma/logan/guthrie/"
+  ],
+  "contributor": [
+    "oklahoma historical society"
+  ],
+  "date": "1903-12-17",
+  "dates": [
+    "1903-12-17"
+  ],
+  "description": [
+    "D PAGE SIX THE LEADHR QUTHRIE OKLAHOMA THURSDAY DECEMBER 17 1803 i DONT Want Us Governors Issue Memorial Bureau of The Leader 1413 0 St N W Washington D C Dec 17 The governors of nil of the Ave nations of Indian territory havt joined in a iremorlal to congremi vhlrh ha Just been submitted to the housp and senate by Secretary Hitchcock praying congress to refrain lrom aiiriini any portion of Indian territory to Oklahoma when the latter is admitted n a state and to permit at the print time the crea tion of a state out of Indian territory This memorial is In tin form of reso lutions adopted by various tribes The Choctaw nation has also sub mitted n separate memorial in which reasons why th people of Indian ter ritory are advocating separate state hood are set forth in detail as fol lows The Indians desire a state formed out of the Indian torritory at the ex plmion of their several tribal gov ernments in order thut they may in corporate in the constitution prohibit ing the sale of Intoxicating liquors A prohibition clause couM not bo embod ied in a constitution for a state formed"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T14:58:04.059Z",
+  "group": [
+    "ndnp/okhi",
+    "oklahoma-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86063952/1903-12-17/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_delaware_ver01:data:sn86063952:00237284276:1903121701:0992/full/pct:6.25/0/default.jpg#h=408&w=284",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_delaware_ver01:data:sn86063952:00237284276:1903121701:0992/full/pct:12.5/0/default.jpg#h=816&w=569",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/okhi/batch_okhi_delaware_ver01/data/sn86063952/00237284276/1903121701/0992.xml&format=alto_xml"
+  ],
+  "index": 55,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "guthrie",
+    "united states",
+    "logan county",
+    "logan",
+    "oklahoma"
+  ],
+  "location_city": [
+    "guthrie"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "logan"
+  ],
+  "location_state": [
+    "oklahoma"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "sn86063952",
+    "0000000006",
+    "7",
+    "4",
+    "3",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86063952"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "3",
+    "7",
+    "2",
+    "8",
+    "4",
+    "2",
+    "7",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Leader"
+  ],
+  "page_id": "sn86063952-1903-12-17-ed-1-0992",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the guthrie daily leader (guthrie, okla.) 1893-1996"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the guthrie daily leader (guthrie, okla.) 1893-1996"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86063952/1903-12-17/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86063952/1903-12-17/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "guthrie",
+    "united states",
+    "logan county",
+    "logan",
+    "guthrie (okla.)",
+    "newspapers",
+    "logan county (okla.)",
+    "oklahoma"
+  ],
+  "timestamp": "2022-11-18T01:23:09.960Z",
+  "title": "Image 6 of The Guthrie daily leader (Guthrie, Okla.), December 17, 1903",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86063952/1903-12-17/ed-1/?sp=6&q=indian+territory",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fokhi%2Fbatch_okhi_delaware_ver01%2Fdata%2Fsn86063952%2F00237284276%2F1903121701%2F0992.xml&q=indian+territory&relevant_snippet=1"
+}

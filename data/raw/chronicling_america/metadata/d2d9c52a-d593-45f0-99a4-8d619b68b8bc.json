@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82014327/1850-03-07/ed-1/?sp=1"
+  ],
+  "batch": [
+    "iahi_abra_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/iowa/",
+    "2/united states/iowa/des moines/",
+    "3/united states/iowa/des moines/burlington/"
+  ],
+  "contributor": [
+    "state historical society of iowa"
+  ],
+  "date": "1850-03-07",
+  "dates": [
+    "1850-03-07"
+  ],
+  "description": [
+    "ft A BS5 v VOL XI w __ yjHtl Q KPWARPS 55uuB6i 2 u IAL JAMES M HJIOADWELL Lauraza jV ii Paklltkei every Thursday ifT Maia Street near the Market House 3 ilDWAUDS 2s BOADWBLL fif TKRMS OF SUBSCRIPTION tuft tf m DOLLAHSper year to be paid in advance flr5fW MOUTHSone dollar and twentyfive cents til iWCxKRMS Of ADVERTISING 10 lines ot less one insertion 1 00 js each additional insertion 50 jri month 2 00 three months 7 00 ine year 14 00 flMtossional Cardsunder 6 lines per annum 5 00 Merchants advertising by the year will be en titled to half a column for 86 00 AA extra charge will be made for all over fealft column LA BO case will the price of subscription to iflffe paper be included in the above charges jitent medicines half column one year one column 30 00 60 00 if UBurlinton is the seat of justice for Des Moines SBuntjimil contain about 4300 inhabitants His situated on the west bank of the Mississippiabout miles above St Iouis ilas A Hudson TIN Cupper aua Sheet Iron Manufacturer Trimmer of Stoves etc Jefferson streetone dooraboveJ GFootesIron StoreBurlington Jolin Foolc KALER in Irn Steel"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-05-16T11:52:34.643Z",
+  "group": [
+    "ndnp/iahi",
+    "state-historical-society-of-iowa-state-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82014327/1850-03-07/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1850030701:0271/full/pct:3.125/0/default.jpg#h=291&w=218",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1850030701:0271/full/pct:6.25/0/default.jpg#h=582&w=436",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1850030701:0271/full/pct:12.5/0/default.jpg#h=1164&w=872",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iahi/batch_iahi_abra_ver01/data/sn82014327/00415668867/1850030701/0271.xml&format=alto_xml"
+  ],
+  "index": 19,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "iowa",
+    "united states",
+    "des moines",
+    "burlington"
+  ],
+  "location_city": [
+    "burlington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "des moines"
+  ],
+  "location_state": [
+    "iowa"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn82014327",
+    "0000000001",
+    "6",
+    "5",
+    "8",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82014327"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "6",
+    "8",
+    "8",
+    "6",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hawk-eye"
+  ],
+  "page_id": "sn82014327-1850-03-07-ed-1-0271",
+  "partof": [
+    "chronicling america",
+    "burlington hawk-eye (burlington, iowa) 1845-185?",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "burlington hawk-eye (burlington, iowa) 1845-185?"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82014327/1850-03-07/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82014327/1850-03-07/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "burlington (iowa)",
+    "burlington",
+    "des moines",
+    "iowa",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-07-03T13:17:59.951Z",
+  "title": "Image 1 of Burlington hawk-eye (Burlington, Iowa), March 7, 1850",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82014327/1850-03-07/ed-1/?sp=1&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiahi%2Fbatch_iahi_abra_ver01%2Fdata%2Fsn82014327%2F00415668867%2F1850030701%2F0271.xml&q=slavery&relevant_snippet=1"
+}

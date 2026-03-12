@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88065202/1954-04-22/ed-1/?sp=10"
+  ],
+  "batch": [
+    "mdu_bufflehead_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/maryland/",
+    "2/united states/maryland/garrett/",
+    "3/united states/maryland/garrett/oakland/"
+  ],
+  "contributor": [
+    "university of maryland, college park, md"
+  ],
+  "date": "1954-04-22",
+  "dates": [
+    "1954-04-22"
+  ],
+  "description": [
+    "PAGE TEN RentATool You can now rent tools to do the job rightand easfer Ask for our list of tools available Help us increase our line by suggesting the tool yvou might want in the future No obliga tion 79 Liberty Street Dial Oakland 22681 i i i m L BIGGEST ASSET Good health is most important to accomplish your goals in life When health ails with loss of earning power life insurance goes to work to provide food shelter and other necessities While you now enjoy good health you should provide for the time when you may be ill or disabled Theres no better way to provide for emergencies or for your old age than a safe sound legal reserve Woodmen life insurance certificate Ask a Woodmen representative to help you select the type of certificate that best meets your needs He will explain too the frater nal and social benefits you will enjoy as a Woodman SPENCER GRAHAM State Mgr JAS P HUTCHINSON Dist Mgr 185 Fourth Street 185 Fourth Street OAKLAND MARYLAND OAKLAND MARYLAND TARLETON HUMBERSON THOMAS D KIGHT Field Rep District Manager HAZELTON W VA OAKLAND MARYLAND RATE oA PA Worlds Financially Strongest Fraternal Benefit Society"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-03-01T18:28:02.975Z",
+  "group": [
+    "ndnp/mdu",
+    "university-of-maryland-college-park-college-park-md-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88065202/1954-04-22/ed-1/?sp=10",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_bufflehead_ver01:data:sn88065202:00340588356:1954042201:0227/full/pct:6.25/0/default.jpg#h=421&w=336",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_bufflehead_ver01:data:sn88065202:00340588356:1954042201:0227/full/pct:12.5/0/default.jpg#h=842&w=673",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mdu/batch_mdu_bufflehead_ver01/data/sn88065202/00340588356/1954042201/0227.xml&format=alto_xml"
+  ],
+  "index": 32,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "garrett county",
+    "garrett",
+    "oakland",
+    "maryland",
+    "united states"
+  ],
+  "location_city": [
+    "oakland"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "garrett"
+  ],
+  "location_state": [
+    "maryland"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000010",
+    "8",
+    "5",
+    "3",
+    "6",
+    "4",
+    "sn88065202",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88065202"
+  ],
+  "number_page": [
+    "0000000010"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "8",
+    "3",
+    "5",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Oakland Republican"
+  ],
+  "page_id": "sn88065202-1954-04-22-ed-1-0227",
+  "partof": [
+    "the republican (oakland, md.) 1877-current",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the republican (oakland, md.) 1877-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88065202/1954-04-22/ed-1/?sp=10"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88065202/1954-04-22/ed-1/"
+  ],
+  "shelf_id": "10",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "garrett",
+    "oakland",
+    "oakland (garrett county)",
+    "oakland (garrett county, md.)",
+    "maryland",
+    "newspapers"
+  ],
+  "timestamp": "2023-03-07T02:17:41.877Z",
+  "title": "Image 10 of The Republican (Oakland, Md.), April 22, 1954",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88065202/1954-04-22/ed-1/?sp=10&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmdu%2Fbatch_mdu_bufflehead_ver01%2Fdata%2Fsn88065202%2F00340588356%2F1954042201%2F0227.xml&q=revolution&relevant_snippet=1"
+}

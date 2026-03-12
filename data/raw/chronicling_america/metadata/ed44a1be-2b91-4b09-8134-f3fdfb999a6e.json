@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83002748/1918-09-12/ed-1/?sp=2"
+  ],
+  "batch": [
+    "wyu_etna_ver03"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/wyoming/",
+    "2/united states/wyoming/carbon/",
+    "3/united states/wyoming/carbon/saratoga/"
+  ],
+  "contributor": [
+    "university of wyoming libraries"
+  ],
+  "date": "1918-09-12",
+  "dates": [
+    "1918-09-12"
+  ],
+  "description": [
+    "READY TO REMAKE ra AMERICAN WOUNDED E photo jg Or Reconstruction Work HasAlready Begun in a Number of Large and Well Equipped Hospitals Sjfr iMdflT HE problem of putting the crip pled or disabled soldier or sailor back into selfsupport ing civil life is one with which all the European belligerent na tions have been struggling for nearly four years with only partial success in its solution Based upon the combined ex perience of the allies and the rri central powers studied at first hand by a corps of specialists and supplemented by cooperative research under the direction of the Red Cross Institute for Crippled and Disabled Men and the National Association of Manufacturers a pro gramme has been worked out by the surgeon gen erals office of the army which is calculated to insure to every soldier of the United States who comes back from over there minus an arm or a leg blind deaf or otherwise handicapped a better chance of reinstatement as a useful mem ber of society than was afforded to any of the soldiers of the allies in the first two or three years of the war Germany alone the only nation that was pre"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-05-31T13:49:04.338Z",
+  "group": [
+    "ndnp/wyu",
+    "university-of-wyoming-libraries"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83002748/1918-09-12/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_etna_ver03:data:sn83002748:00514150205:1918091201:0108/full/pct:6.25/0/default.jpg#h=326&w=242",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_etna_ver03:data:sn83002748:00514150205:1918091201:0108/full/pct:12.5/0/default.jpg#h=652&w=485",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wyu/batch_wyu_etna_ver03/data/sn83002748/00514150205/1918091201/0108.xml&format=alto_xml"
+  ],
+  "index": 135,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "saratoga",
+    "united states",
+    "carbon county",
+    "carbon",
+    "wyoming"
+  ],
+  "location_city": [
+    "saratoga"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "carbon"
+  ],
+  "location_state": [
+    "wyoming"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "4",
+    "sn83002748",
+    "2",
+    "5",
+    "0000000002",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83002748"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "4",
+    "1",
+    "5",
+    "0",
+    "2",
+    "0",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sun"
+  ],
+  "page_id": "sn83002748-1918-09-12-ed-1-0108",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the saratoga sun (saratoga, carbon county, wyo.) 1891-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the saratoga sun (saratoga, carbon county, wyo.) 1891-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83002748/1918-09-12/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83002748/1918-09-12/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "saratoga (wyo.)",
+    "saratoga",
+    "united states",
+    "newspapers",
+    "carbon",
+    "carbon county (wyo.)",
+    "wyoming"
+  ],
+  "timestamp": "2023-06-28T05:54:57.382Z",
+  "title": "Image 2 of The Saratoga sun (Saratoga, Carbon County, Wyo.), September 12, 1918",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83002748/1918-09-12/ed-1/?sp=2&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwyu%2Fbatch_wyu_etna_ver03%2Fdata%2Fsn83002748%2F00514150205%2F1918091201%2F0108.xml&q=reconstruction&relevant_snippet=1"
+}

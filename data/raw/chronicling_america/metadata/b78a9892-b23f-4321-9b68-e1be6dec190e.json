@@ -1,0 +1,166 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn78002169/1943-07-30/ed-1/?sp=4"
+  ],
+  "batch": [
+    "ncu_grape_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/north carolina/",
+    "2/united states/north carolina/new hanover/",
+    "3/united states/north carolina/new hanover/wilmington/"
+  ],
+  "contributor": [
+    "university of north carolina at chapel hill library, chapel hill, nc"
+  ],
+  "date": "1943-07-30",
+  "dates": [
+    "1943-07-30"
+  ],
+  "description": [
+    "mtlmittgtmt morning tar North Carolina Oldest Daily Newspaper Published Daily Except Sunday By The Wilmington StarNews At The Murchison Building K B Page Owner and Publisher Telephone All Departments DIAL 23311 Entered as Second Class Matter at Wilming ton N C Postoffice Under Act of Congress ef March 2 1879 SUBSCRIPTION RATES BY CARRIER Payable Weekly Or In Advance Combina Xime Star News tion 1 Week 25 20 40 1 Month 110 90 175 2 Months 325 260 520 New rates entitle subscriber to Sunday issue of StarNews BY MAIL Payable Strictly In Advance Combina Tim Star News tion 1 Month I 75 50 90 3 Months 200 150 275 9 Months 400 300 550 1 Year 800 600 1000 1 Year 1300 1040 2080 6 Months 650 520 1040 New rates entitle subscriber to Sunday issue of StarNews Card of Thanks charged for at the rate of 25 cents per line Count five words to line THE ASSOCIATED PRESS Is entitled to the exclusive use of all news stories appearing in The Wilmington Star FRIDAY JULY 30 1943 With confidence in our armed forces with the unbounding de termination of our peoplewe will gain the inevitable triumph so help"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-12T17:35:19.559Z",
+  "group": [
+    "ndnp/ncu",
+    "university-of-north-carolina-chapel-hill-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn78002169/1943-07-30/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grape_ver01:data:sn78002169:0027955873A:1943073001:0318/full/pct:6.25/0/default.jpg#h=424&w=321",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grape_ver01:data:sn78002169:0027955873A:1943073001:0318/full/pct:12.5/0/default.jpg#h=848&w=643",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ncu/batch_ncu_grape_ver01/data/sn78002169/0027955873A/1943073001/0318.xml&format=alto_xml"
+  ],
+  "index": 19,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "wilmington",
+    "new hanover county",
+    "new hanover",
+    "north carolina"
+  ],
+  "location_city": [
+    "wilmington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new hanover"
+  ],
+  "location_state": [
+    "north carolina"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000004",
+    "a",
+    "9",
+    "2",
+    "8",
+    "5",
+    "3",
+    "sn78002169",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn78002169"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "5",
+    "8",
+    "7",
+    "3",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star-news",
+    "Morning star"
+  ],
+  "page_id": "sn78002169-1943-07-30-ed-1-0318",
+  "partof": [
+    "chronicling america",
+    "the wilmington morning star (wilmington, n.c.) 1909-1990",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the wilmington morning star (wilmington, n.c.) 1909-1990"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn78002169/1943-07-30/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn78002169/1943-07-30/ed-1/"
+  ],
+  "shelf_id": "04",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "wilmington",
+    "new hanover county (n.c.)",
+    "wilmington (n.c.)",
+    "new hanover",
+    "new hanover county",
+    "united states",
+    "newspapers",
+    "north carolina"
+  ],
+  "timestamp": "2023-08-13T05:23:19.237Z",
+  "title": "Image 4 of The Wilmington morning star (Wilmington, N.C.), July 30, 1943, (FINAL EDITION)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn78002169/1943-07-30/ed-1/?sp=4&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fncu%2Fbatch_ncu_grape_ver01%2Fdata%2Fsn78002169%2F0027955873A%2F1943073001%2F0318.xml&q=fascism&relevant_snippet=1"
+}

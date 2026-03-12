@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1914-01-08/ed-1/?sp=13"
+  ],
+  "batch": [
+    "dlc_quarren_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1914-01-08",
+  "dates": [
+    "1914-01-08"
+  ],
+  "description": [
+    "GOOD ROADS IA National Problem By Frederic J Haskin Perhaps no single factor in American life is of greater social and economic importance to the people of this country than is that of good roads The factor mint given priority I Jut granting the contention production falls Hat if it be deprived of the aid of adequate transportation Small benefit is it to the farmers to produce bountiful crops if impossible roads prevent them lrom getting the yield of their laboriously tilled acres to the right markets at the right time This is but one phase of our national life dependent upon good roads There is the social side wherein the farmer and his family have adequate or inadequate facilities for neighborly com munication and necessary schools ac cording to the condition of the high ays Good roads mean increased church attendance improvement of rural free delivery service more and bet ter schools happier social intercourse and a higher moral tone generally throughout tlie countryside These de sirable conditions also react favorably on the business side by causing diversi fied farming enhancement of rural prop erty and an increase of tourist travel Official United States government I statistics show that"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:42:44.639Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1914-01-08/ed-1/?sp=13",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_quarren_ver01:data:sn83045462:00280658868:1914010801:0150/full/pct:6.25/0/default.jpg#h=411&w=331",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_quarren_ver01:data:sn83045462:00280658868:1914010801:0150/full/pct:12.5/0/default.jpg#h=822&w=662",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_quarren_ver01/data/sn83045462/00280658868/1914010801/0150.xml&format=alto_xml"
+  ],
+  "index": 105,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "district of columbia",
+    "washington d.c.",
+    "washington",
+    "united states"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "0",
+    "2",
+    "sn83045462",
+    "1",
+    "0000000013",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000013"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "8",
+    "8",
+    "6",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1914-01-08-ed-1-0150",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1914-01-08/ed-1/?sp=13"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1914-01-08/ed-1/"
+  ],
+  "shelf_id": "13",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)",
+    "washington",
+    "united states"
+  ],
+  "timestamp": "2022-10-21T08:45:03.216Z",
+  "title": "Image 13 of Evening star (Washington, D.C.), January 8, 1914",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1914-01-08/ed-1/?sp=13&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_quarren_ver01%2Fdata%2Fsn83045462%2F00280658868%2F1914010801%2F0150.xml&q=immigration&relevant_snippet=1"
+}

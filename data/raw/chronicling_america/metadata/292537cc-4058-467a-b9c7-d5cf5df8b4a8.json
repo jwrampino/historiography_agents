@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045774/1920-10-24/ed-1/?sp=49"
+  ],
+  "batch": [
+    "dlc_quercitron_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1920-10-24",
+  "dates": [
+    "1920-10-24"
+  ],
+  "description": [
+    "f Few Ser f These children of different n gration by a staff photographer of pictured here are young enoughH Facing the cameraHis first ordeal after arriving from Spain Skilled Labor Arriv ing and Larger Amounts of Money Are Being Brought Showing Alien Influx Is Better Than in Other Years By JOHN WALKER HARRINGTON MORE to the future of these United States than has ever been conveyed before in immigration may be seen these days in the new human tide which eddies past Ellis Island With the stoppage of the alien flood which came with the great World War the peoples of the lands beyond the sea have undergone many changes which have afTected the character and the nature of the material now being added to the body politic The greater number of children the addition of more women immigrants the improved status of all the larger purses which the arrivals bring are all indications of the essentially different components of what in the opinion of experts seems destined to be the largest influx of immigration this country has ever known In these days when more stress than ever is put on Americanization the increased volume of immigration gives pause"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:42:53.518Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045774/1920-10-24/ed-1/?sp=49",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_quercitron_ver01:data:sn83045774:00271744092:1920102401:0804/full/pct:6.25/0/default.jpg#h=475&w=367",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_quercitron_ver01:data:sn83045774:00271744092:1920102401:0804/full/pct:12.5/0/default.jpg#h=950&w=734",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_quercitron_ver01/data/sn83045774/00271744092/1920102401/0804.xml&format=alto_xml"
+  ],
+  "index": 66,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "new york county",
+    "new york city",
+    "new york"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "1",
+    "2",
+    "4",
+    "7",
+    "0000000049",
+    "sn83045774"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045774"
+  ],
+  "number_page": [
+    "0000000049"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "1",
+    "7",
+    "4",
+    "4",
+    "0",
+    "9",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Combined New York morning newspapers",
+    "Combined New York Sunday newspapers"
+  ],
+  "page_id": "sn83045774-1920-10-24-ed-1-0804",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the new york herald (new york, n.y.) 1920-1924"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the new york herald (new york, n.y.) 1920-1924"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045774/1920-10-24/ed-1/?sp=49"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045774/1920-10-24/ed-1/"
+  ],
+  "shelf_id": "49",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "new york (n.y.)",
+    "united states",
+    "newspapers",
+    "new york",
+    "new york (state)",
+    "new york county",
+    "new york county (n.y.)"
+  ],
+  "timestamp": "2022-10-21T08:55:08.517Z",
+  "title": "Image 49 of The New York herald (New York, N.Y.), October 24, 1920, (SECTION FOUR)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045774/1920-10-24/ed-1/?sp=49&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_quercitron_ver01%2Fdata%2Fsn83045774%2F00271744092%2F1920102401%2F0804.xml&q=immigration&relevant_snippet=1"
+}

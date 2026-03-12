@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84027398/1860-06-28/ed-1/?sp=1"
+  ],
+  "batch": [
+    "iahi_charizard_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/iowa/",
+    "2/united states/iowa/cedar/",
+    "3/united states/iowa/cedar/tipton/"
+  ],
+  "contributor": [
+    "state historical society of iowa"
+  ],
+  "date": "1860-06-28",
+  "dates": [
+    "1860-06-28"
+  ],
+  "description": [
+    "TUB DRBD SCOTT CAHB AN ADDRESS BY BtN WM N TUTHIiL Delivered at the request of the Cedar County Republican Club at the Court Home Tipton Iowa June hia understanding 8th I860 Kate some singular ana startling the subject of mse to make n few cursory remarks f J t Dose i The subject upon which I am expect ed to make a few remarks this evening fTT for I can scarcely dignify it with the y V JA name of a lectureis the Drei SOTT DECISION or uiore properly Bpcaking the opinion of the Supreme Court of the Irod Scott ease docs not decide that wliito men of Anglo8axon descent are slaves or can be made slaves and that there is nothing in the whole decision to prevent or restrain any citizen of the United States from reasoning and com menting on any matter they may see arc privileges too vitally important to bs Man is endowed by his teator with certain corporeal moral aud intellectual faculties composing what we call his nature and this is the ground wurk of alt his social duties lie has senses for the perception of physical objects the capacity and instinct for observation"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-05-16T11:53:40.488Z",
+  "group": [
+    "ndnp/iahi",
+    "state-historical-society-of-iowa-state-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84027398/1860-06-28/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/full/pct:3.125/0/default.jpg#h=264&w=197",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/full/pct:6.25/0/default.jpg#h=528&w=394",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/full/pct:12.5/0/default.jpg#h=1056&w=789",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iahi/batch_iahi_charizard_ver01/data/sn84027398/00279529406/1860062801/0200.xml&format=alto_xml"
+  ],
+  "index": 194,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "tipton",
+    "united states",
+    "cedar",
+    "iowa"
+  ],
+  "location_city": [
+    "tipton"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cedar"
+  ],
+  "location_state": [
+    "iowa"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "9",
+    "5",
+    "6",
+    "sn84027398",
+    "7",
+    "4",
+    "2",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84027398"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "2",
+    "9",
+    "4",
+    "0",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84027398-1860-06-28-ed-1-0200",
+  "partof": [
+    "serial and government publications division",
+    "chronicling america",
+    "the tipton advertiser (tipton, cedar co., iowa) 1856-1962"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the tipton advertiser (tipton, cedar co., iowa) 1856-1962"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84027398/1860-06-28/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84027398/1860-06-28/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "iowa",
+    "tipton",
+    "cedar",
+    "tipton (iowa)",
+    "newspapers"
+  ],
+  "timestamp": "2023-07-03T18:23:46.474Z",
+  "title": "Image 1 of The Tipton advertiser (Tipton, Cedar Co., Iowa), June 28, 1860",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84027398/1860-06-28/ed-1/?sp=1&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiahi%2Fbatch_iahi_charizard_ver01%2Fdata%2Fsn84027398%2F00279529406%2F1860062801%2F0200.xml&q=slavery&relevant_snippet=1"
+}

@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84026749/1921-07-09/ed-1/?sp=6"
+  ],
+  "batch": [
+    "dlc_bordercollie_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1921-07-09",
+  "dates": [
+    "1921-07-09"
+  ],
+  "description": [
+    "OUT 01 SYM FAULTS IN AUTOS TrouM With Various Methods and Remedies Ar Set Forth There are three types of iltg systems nw is general tgethe eM stant level splash system the corn bined force feed nd splash systen and the full fore fted system in the constant level splash system the Ingram in Automobile Dedler 4n pump and forced to toughe unda each cylinder wnere it overfiows Into the sump again writes 34ward 3 Iigram in Automobilo Dealer and Repairer Spoons or splashers on the ends of the onnecting rods dip into the oil In these troughs and splash It to all parts of the engine The combined force feed and splabh system differs from the constarit level splash system mainly in that I to forced directly to the main eraik shaft bearings and in some cases LU one or two other points such as the timing gears The reit of the parts are lubricated by splash In the full force feed system no oil troughs Are provided the oil being forced direT ly to both the main and connectn rod bearings and in some cases to he samshaft bearings and other point In this type the trankshaft is"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-01-08T13:47:03.370Z",
+  "group": [
+    "ndnp/dlc-2011_2013",
+    "library-of-congress-washington-dc-awardee-4"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84026749/1921-07-09/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bordercollie_ver02:data:sn84026749:00280764772:1921070901:0822/full/pct:6.25/0/default.jpg#h=429&w=365",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bordercollie_ver02:data:sn84026749:00280764772:1921070901:0822/full/pct:12.5/0/default.jpg#h=858&w=731",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_bordercollie_ver02/data/sn84026749/00280764772/1921070901/0822.xml&format=alto_xml"
+  ],
+  "index": 50,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "district of columbia",
+    "washington d.c.",
+    "washington",
+    "united states"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "8",
+    "0",
+    "2",
+    "0000000006",
+    "7",
+    "1",
+    "sn84026749",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84026749"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "7",
+    "6",
+    "4",
+    "7",
+    "7",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Washington times herald"
+  ],
+  "page_id": "sn84026749-1921-07-09-ed-1-0822",
+  "partof": [
+    "chronicling america",
+    "the washington times (washington [d.c.]) 1902-1939",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington times (washington [d.c.]) 1902-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84026749/1921-07-09/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84026749/1921-07-09/ed-1/"
+  ],
+  "shelf_id": "06",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)",
+    "https://id.oclc.org/worldcat/entity/e39pbjfcwcmmjdpvk8h8hpkccp",
+    "washington",
+    "united states"
+  ],
+  "timestamp": "2025-01-08T14:59:44.759Z",
+  "title": "Image 6 of The Washington times (Washington [D.C.]), July 9, 1921, (FINAL EDITION)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84026749/1921-07-09/ed-1/?sp=6&q=oil",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_bordercollie_ver02%2Fdata%2Fsn84026749%2F00280764772%2F1921070901%2F0822.xml&q=oil&relevant_snippet=1"
+}

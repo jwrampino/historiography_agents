@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84026853/1889-05-01/ed-1/?sp=2"
+  ],
+  "batch": [
+    "scu_joshwhite_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/south carolina/",
+    "2/united states/south carolina/abbeville/",
+    "3/united states/south carolina/abbeville/abbeville/"
+  ],
+  "contributor": [
+    "university of south carolina; columbia, sc"
+  ],
+  "date": "1889-05-01",
+  "dates": [
+    "1889-05-01"
+  ],
+  "description": [
+    "THE FRIENDS WHO WEHE AND THE FRIENDS WHO ARE My world is peopled not alone By those its daily life who share The loved whom other years have known Descend from their diviner air As one might come from over sea Or down the street to sit with mo And make the fairest morn more fair And mine are earth and sun and star With friends who were and friends who are They are the same as when they went Tender and true and still my own But rarer beauty heaven has lent As if some wind of God had blown All trace of doubt and care and dole From each serene enfranchised soul And they could never more make moan Yet my unlikeness cannot bar From friends who were and riends who are O pure and blessed Presences That enter noiseless as the light Prom your celestial pleasances What welcome waits you dawn or night And in the sweetness the repose My common room a temple grows All rosy bloom and stainless white Where I commune no fear to mar With friends who were and friends who are Yet not to outward sight they come A finer sense their"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-24T14:42:16.837Z",
+  "group": [
+    "ndnp/scu",
+    "university-of-south-carolina-columbia-sc-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84026853/1889-05-01/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287289:1889050101:0258/full/pct:3.125/0/default.jpg#h=291&w=199",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287289:1889050101:0258/full/pct:6.25/0/default.jpg#h=583&w=398",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287289:1889050101:0258/full/pct:12.5/0/default.jpg#h=1167&w=796",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/scu/batch_scu_joshwhite_ver01/data/sn84026853/00237287289/1889050101/0258.xml&format=alto_xml"
+  ],
+  "index": 25,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "south carolina",
+    "abbeville",
+    "abbeville county"
+  ],
+  "location_city": [
+    "abbeville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "abbeville"
+  ],
+  "location_state": [
+    "south carolina"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn84026853",
+    "3",
+    "9",
+    "1",
+    "2",
+    "7",
+    "0000000002",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84026853"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "3",
+    "7",
+    "2",
+    "8",
+    "7",
+    "2",
+    "8",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Issues for Sept. 9-Oct. 23, 1912 have caption title: Press and banner"
+  ],
+  "page_id": "sn84026853-1889-05-01-ed-1-0258",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the abbeville press and banner (abbeville, s.c.) 1869-1924"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the abbeville press and banner (abbeville, s.c.) 1869-1924"
+  ],
+  "publication_frequency": [
+    "triweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84026853/1889-05-01/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84026853/1889-05-01/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "south carolina",
+    "united states",
+    "abbeville county (s.c.)",
+    "abbeville (s.c.)",
+    "newspapers",
+    "abbeville",
+    "abbeville county"
+  ],
+  "timestamp": "2024-02-04T17:09:10.660Z",
+  "title": "Image 2 of The Abbeville press and banner (Abbeville, S.C.), May 1, 1889",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84026853/1889-05-01/ed-1/?sp=2&q=great+depressiom",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fscu%2Fbatch_scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F00237287289%2F1889050101%2F0258.xml&q=great+depressiom&relevant_snippet=1"
+}

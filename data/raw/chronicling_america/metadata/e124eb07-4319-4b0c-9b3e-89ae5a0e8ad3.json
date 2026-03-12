@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn2001063112/1898-05-13/ed-1/?sp=6"
+  ],
+  "batch": [
+    "sdhi_goshawk_ver03"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/south dakota/",
+    "2/united states/south dakota/davison/",
+    "3/united states/south dakota/davison/mitchell/"
+  ],
+  "contributor": [
+    "south dakota state historical society \u2013 state archives"
+  ],
+  "date": "1898-05-13",
+  "dates": [
+    "1898-05-13"
+  ],
+  "description": [
+    "GOT A FRENCH SHIP Ihe LaFayette Fooled Aronnd Onr Blockade and Was Captured Devey Bombards Manila and the Insurgents Also Took a Hand Capt Sampson is Reported to Have Made an Attack on Canary Islands FRENCH SHIP CAUGHT Attempted to Run the Blockade and Was Captured Key West May 6 910 a in The French liner LaFayette after many warnings attempted to run the Havana blockade and was captured She was taken to Key West MAY RAISE QUESTION France May Question the Cap ture of Her Ship Washington May 6 945 a mNo news was received from Admiral Dewey up to 940 a m It is thought that France may raise some question as to the cap ture of the LaFayette Four warships thought to be Captain Sampsons fleet was sighted off Porto de Banes eastern Cuba DEWEY AFTER MANILA The Insurgents Take a Hand Against the Town Shanghai via Formosa May 6 1029 a mAdmiral Dewey has bombarded the city of Manila The city was fired on by insur gents A great many Spaniards are reported to have been killed DEWEY WAS TRAPPED Reported by Spaniards That Dewey Was Caught London May 6 1127 a m Spanish authorities intimate"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-06-25T23:47:38.356Z",
+  "group": [
+    "ndnp/sdhi",
+    "south-dakota-state-historical-society-state-archives-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn2001063112/1898-05-13/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624657:1898051301:0846/full/pct:6.25/0/default.jpg#h=478&w=338",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624657:1898051301:0846/full/pct:12.5/0/default.jpg#h=956&w=677",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/sdhi/batch_sdhi_goshawk_ver03/data/sn2001063112/00415624657/1898051301/0846.xml&format=alto_xml"
+  ],
+  "index": 7,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "davison",
+    "south dakota",
+    "davison county",
+    "united states",
+    "mitchell"
+  ],
+  "location_city": [
+    "mitchell"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "davison"
+  ],
+  "location_state": [
+    "south dakota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn2001063112",
+    "2",
+    "6",
+    "5",
+    "4",
+    "1",
+    "0000000006",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn2001063112"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "2",
+    "4",
+    "6",
+    "5",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn2001063112-1898-05-13-ed-1-0846",
+  "partof": [
+    "the mitchell capital (mitchell, dakota [s.d.]) 1879-1918",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the mitchell capital (mitchell, dakota [s.d.]) 1879-1918"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn2001063112/1898-05-13/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn2001063112/1898-05-13/ed-1/"
+  ],
+  "shelf_id": "06",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "mitchell (s.d.)",
+    "davison county (s.d.)",
+    "davison",
+    "south dakota",
+    "davison county",
+    "united states",
+    "newspapers",
+    "mitchell"
+  ],
+  "timestamp": "2023-06-26T07:52:32.048Z",
+  "title": "Image 6 of The Mitchell capital (Mitchell, Dakota [S.D.]), May 13, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn2001063112/1898-05-13/ed-1/?sp=6&q=phillipines",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fsdhi%2Fbatch_sdhi_goshawk_ver03%2Fdata%2Fsn2001063112%2F00415624657%2F1898051301%2F0846.xml&q=phillipines&relevant_snippet=1"
+}

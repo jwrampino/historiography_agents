@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1932-07-24/ed-1/?sp=58"
+  ],
+  "batch": [
+    "dlc_1bernal_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1932-07-24",
+  "dates": [
+    "1932-07-24"
+  ],
+  "description": [
+    "parentage It is forgotten too by some of those who still demand removal of immigration restrictions that even in the years of boom and prosperity new mechanical equipment and improved machinery were steadily reducing the need for labor cutting dovm jobs on rail roads in factories and even in telephone operation On the farms too not nearly bo many hands were required as farm machinery developed IMMIGRATION restriction came not as a matter of prejudice but as a matter of ial national selfdefense defense of the jobs and opportunities of our workers It came undoubtedly some what too late to be of the greatest use fulness but the condition of the United States today would be incalculably worse were it not for the immigration barriers As this is written there is nearing New York City a whole trainload of immi grantsoutward bound The train started in sections at San Francisco and Los Angeles It grew steadily as the con tinent was crossed and to it were added cars that came up from the Southwest and down from the North From all parts of the country big cities and little towns that train is drawing passengers aliens who have no right"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:36:47.012Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1932-07-24/ed-1/?sp=58",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1bernal_ver01:data:sn83045462:00280601123:1932072401:0540/full/pct:6.25/0/default.jpg#h=371&w=244",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1bernal_ver01:data:sn83045462:00280601123:1932072401:0540/full/pct:12.5/0/default.jpg#h=743&w=488",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1bernal_ver01/data/sn83045462/00280601123/1932072401/0540.xml&format=alto_xml"
+  ],
+  "index": 199,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "2",
+    "sn83045462",
+    "8",
+    "6",
+    "3",
+    "0000000058",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000058"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "1",
+    "1",
+    "2",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1932-07-24-ed-1-0540",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1932-07-24/ed-1/?sp=58"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1932-07-24/ed-1/"
+  ],
+  "shelf_id": "58",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2022-10-24T15:55:36.240Z",
+  "title": "Image 58 of Evening star (Washington, D.C.), July 24, 1932",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1932-07-24/ed-1/?sp=58&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_1bernal_ver01%2Fdata%2Fsn83045462%2F00280601123%2F1932072401%2F0540.xml&q=immigration&relevant_snippet=1"
+}

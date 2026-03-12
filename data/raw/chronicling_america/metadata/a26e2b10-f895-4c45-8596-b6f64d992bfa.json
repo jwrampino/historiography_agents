@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87065258/1963-10-05/ed-1/?sp=7"
+  ],
+  "batch": [
+    "msar_lapis_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/mississippi/",
+    "2/united states/mississippi/hinds/",
+    "3/united states/mississippi/hinds/jackson/"
+  ],
+  "contributor": [
+    "mississippi department of archives and history"
+  ],
+  "date": "1963-10-05",
+  "dates": [
+    "1963-10-05"
+  ],
+  "description": [
+    "FDR JR ADDRESSES BUSINESS LEAGUES AWARDS DINNER Franklin D Roosevelt Jr under secretary U S Department of Commerce was the principal speaker at the awards dinner of the National Business League which held its annual convention in Atlanta Georgia The Detroit affiliate of NBL and four outstanding leaders in business government and civic affairs were honored at a banquet which was hosted for the Atlanta Business League by the Moss H Kendrix Organization Washington D C Atlanta Georgia based public relations firm In upper left photo MHKOs head Moss H Kendrix welcomes the dinner guests Seated from left are A G Gaston Birmingham Alabama former NBL president Dr F D Patterson NBL board chairman New York City and Mr Roosevelt Following Mr Roosevelts address the Commerce Department official is applauded in right upper photo Dr Andrew Brimmer Commerce Depart ment aide Berkeley G Burrell NBL president and B Doyle Mitchell president National Bankers Association all of Washington D C At lower left E M Martin i president and secretary Atlanta Life Insurance Company receives Bmunessman of the Year award In center Mr Gaston and Mr K A M Gaston Award to Edward Davis Detroit who received me n Mo in"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:45:00.631Z",
+  "group": [
+    "ndnp/msar",
+    "mississippi-department-of-archives-and-history"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87065258/1963-10-05/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lapis_ver01:data:sn87065258:00383345121:1963100501:0624/full/pct:3.125/0/default.jpg#h=324&w=222",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lapis_ver01:data:sn87065258:00383345121:1963100501:0624/full/pct:6.25/0/default.jpg#h=649&w=445",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/msar/batch_msar_lapis_ver01/data/sn87065258/00383345121/1963100501/0624.xml&format=alto_xml"
+  ],
+  "index": 163,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "jackson",
+    "hinds",
+    "mississippi",
+    "united states"
+  ],
+  "location_city": [
+    "jackson"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hinds"
+  ],
+  "location_state": [
+    "mississippi"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "0",
+    "2",
+    "1",
+    "3",
+    "sn87065258",
+    "0000000007",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87065258"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "8",
+    "3",
+    "3",
+    "4",
+    "5",
+    "1",
+    "2",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87065258-1963-10-05-ed-1-0624",
+  "partof": [
+    "the mississippi enterprise (jackson, miss.) 1938-current",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the mississippi enterprise (jackson, miss.) 1938-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87065258/1963-10-05/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87065258/1963-10-05/ed-1/"
+  ],
+  "shelf_id": "7",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "jackson (miss.)",
+    "african americans",
+    "mississippi",
+    "african american",
+    "united states",
+    "hinds",
+    "jackson"
+  ],
+  "subject_ethnicity": [
+    "african american"
+  ],
+  "timestamp": "2023-07-06T06:33:04.875Z",
+  "title": "Image 7 of The Mississippi enterprise (Jackson, Miss.), October 5, 1963",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87065258/1963-10-05/ed-1/?sp=7&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmsar%2Fbatch_msar_lapis_ver01%2Fdata%2Fsn87065258%2F00383345121%2F1963100501%2F0624.xml&q=computers&relevant_snippet=1"
+}

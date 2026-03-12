@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87068097/1906-01-25/ed-1/?sp=4"
+  ],
+  "batch": [
+    "njr_illiciumverum_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new jersey/",
+    "2/united states/new jersey/hudson/",
+    "3/united states/new jersey/hudson/jersey city/"
+  ],
+  "contributor": [
+    "rutgers university libraries"
+  ],
+  "date": "1906-01-25",
+  "dates": [
+    "1906-01-25"
+  ],
+  "description": [
+    "PROPOSED BANK LAW Pi EASES y V iffiiHi New Jersey Fii ancUl Insti tutions Hail the Ridgely Suggestions As Eeneficial PURE FOOD BILL ADVOCATED HARRIET B MEAD OF JERSEY CITY WANTS SENATOR KEAN TO BEFRIEND THE U S MAID WAGON HORSES WASHINGTON Jan 35 1906 Senator Kean has introduced a bill to correct the military record of W illiam 3 Morris William H Hamilton has been ap pointed postmaster at Ocean Grove Seuator Dryue has been notified that the War Department will be prepared in a few days to turn over to the Historical Society the patent or deed for the por tion of the Gloucester battlefield which Congress voted last year to be set aside for memorial purposes Both New Jersey Senators have filed resolutions from citizens of Elizabeth asking for the passage of the pending pure food bill also resolutions from the Commercial Daw League of America asking for the passage of the Lode bill for the reorganization of the consular service also resolutions from the Amer ican Mining Congress of Denver asking for the establishment of a national de partment of mines and mining the chief officer of which shall be a member of the Presidents Oabjuet"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:41:37.224Z",
+  "group": [
+    "ndnp/njr",
+    "rutgers-university-libraries-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87068097/1906-01-25/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_illiciumverum_ver01:data:sn87068097:00383340147:1906012501:0086/full/pct:6.25/0/default.jpg#h=438&w=363",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_illiciumverum_ver01:data:sn87068097:00383340147:1906012501:0086/full/pct:12.5/0/default.jpg#h=877&w=727",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/njr/batch_njr_illiciumverum_ver01/data/sn87068097/00383340147/1906012501/0086.xml&format=alto_xml"
+  ],
+  "index": 196,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "hudson",
+    "united states",
+    "new jersey",
+    "jersey city"
+  ],
+  "location_city": [
+    "jersey city"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hudson"
+  ],
+  "location_state": [
+    "new jersey"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "8",
+    "0000000004",
+    "4",
+    "7",
+    "3",
+    "sn87068097",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87068097"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "8",
+    "3",
+    "3",
+    "4",
+    "0",
+    "1",
+    "4",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87068097-1906-01-25-ed-1-0086",
+  "partof": [
+    "serial and government publications division",
+    "chronicling america",
+    "the jersey city news (jersey city [n.j.]) 1889-1906"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the jersey city news (jersey city [n.j.]) 1889-1906"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87068097/1906-01-25/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87068097/1906-01-25/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "jersey city (n.j.)",
+    "hudson",
+    "newspapers",
+    "new jersey",
+    "jersey city"
+  ],
+  "timestamp": "2025-12-02T04:10:46.159Z",
+  "title": "Image 4 of The Jersey City news (Jersey City [N.J.]), January 25, 1906, (LAST EDITION)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87068097/1906-01-25/ed-1/?sp=4&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnjr%2Fbatch_njr_illiciumverum_ver01%2Fdata%2Fsn87068097%2F00383340147%2F1906012501%2F0086.xml&q=reconstruction&relevant_snippet=1"
+}

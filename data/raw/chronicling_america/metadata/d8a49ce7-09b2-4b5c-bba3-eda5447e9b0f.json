@@ -1,0 +1,154 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn91059411/1902-04-04/ed-1/?sp=7"
+  ],
+  "batch": [
+    "mnhi_antony_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/minnesota/",
+    "2/united states/minnesota/kanabec/"
+  ],
+  "contributor": [
+    "minnesota historical society; saint paul, mn"
+  ],
+  "date": "1902-04-04",
+  "dates": [
+    "1902-04-04"
+  ],
+  "description": [
+    "MESSAGE OF PRESIDENT REGARDING DIPLOMATIC RELATIONS WITH CUBA Washington March 28 The presi dent Thursday afternoon sent to congress the following message rec ommending the provision for diplo matic and consular representation in Cuba To the Congress of the United States I commend to the congress timely consid eration of measures for maintaining di plomatic and consular representatives in Cuba and for carrying out the provisions of the act making appropriation for the support of the army for the fiscal year end ing June Thirtieth Nineteen Hundred and Two approved March Two Nineteen Hun dred and One reading as follows IL re the president enumerates the con ditions insisted upon by the United States and already incorporated in the constitu tion adopted by Cuba concerning the rela tions to exist between the two govern ments Article 1 provides that the government of Cuba shall never enter into any treaty or other compact with any foreign power cr powers which will impair or tend to im pair the independence of Cuba Article 2 rovides that said government shall r t assume or contract any public debt beyond power of Cuba to meet Article 3 provides that the government of Cuba consents"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-03T22:10:55.915Z",
+  "group": [
+    "ndnp/mnhi",
+    "minnesota-historical-society-saint-paul-mn-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn91059411/1902-04-04/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antony_ver01:data:sn91059411:00517011484:1902040401:0106/full/pct:3.125/0/default.jpg#h=280&w=209",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antony_ver01:data:sn91059411:00517011484:1902040401:0106/full/pct:6.25/0/default.jpg#h=560&w=418",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antony_ver01:data:sn91059411:00517011484:1902040401:0106/full/pct:12.5/0/default.jpg#h=1121&w=836",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mnhi/batch_mnhi_antony_ver01/data/sn91059411/00517011484/1902040401/0106.xml&format=alto_xml"
+  ],
+  "index": 179,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "kanabec county",
+    "kanabec",
+    "minnesota"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "kanabec"
+  ],
+  "location_state": [
+    "minnesota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "5",
+    "0000000007",
+    "1",
+    "4",
+    "7",
+    "sn91059411",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn91059411"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "0",
+    "1",
+    "1",
+    "4",
+    "8",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn91059411-1902-04-04-ed-1-0106",
+  "partof": [
+    "chronicling america",
+    "the kanabec county times (mora, mn) 1884-current",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the kanabec county times (mora, mn) 1884-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn91059411/1902-04-04/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn91059411/1902-04-04/ed-1/"
+  ],
+  "shelf_id": "7",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "kanabec county",
+    "newspapers",
+    "kanabec county (minn.)",
+    "kanabec",
+    "minnesota"
+  ],
+  "timestamp": "2024-01-04T05:55:45.886Z",
+  "title": "Image 7 of The Kanabec County times (Mora, MN), April 4, 1902",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn91059411/1902-04-04/ed-1/?sp=7&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmnhi%2Fbatch_mnhi_antony_ver01%2Fdata%2Fsn91059411%2F00517011484%2F1902040401%2F0106.xml&q=cuba&relevant_snippet=1"
+}

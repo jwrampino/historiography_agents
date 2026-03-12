@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn89064914/1937-12-23/ed-1/?sp=4"
+  ],
+  "batch": [
+    "mnhi_judo_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/minnesota/",
+    "2/united states/minnesota/pine/",
+    "3/united states/minnesota/pine/askov/"
+  ],
+  "contributor": [
+    "minnesota historical society; saint paul, mn"
+  ],
+  "date": "1937-12-23",
+  "dates": [
+    "1937-12-23"
+  ],
+  "description": [
+    "Page 4 AN INDEPENDENT NEWSPAPER Published every Thursday at Askov Minnesota by AMERICAN PUBLISHING CO Hjalmar Petersen President Svend Petersen SecretaryTreasurer Paul N Froker Vice President A W Conaway Managing Editor Subscription Price 150 Per Year Outside of Minnesota and the First and Second Zones 200 Per Year Entered as second class matter Sep tember 17 1914 at the post office at Askov Minnesota under the Act of March 3 1879 Notice to Subscribers Subscriptions are cash in advance Want column rates are 1c per word for each insertion minimum 25 cents Card of Thanks SIOO Display adver tising rates made known on application Road Aid According to an announcement in late news sources the beginning yes terday of distribution of 214000000 in federal road aid to the various states by the Federal Bureau of Pub lic Roads Minnesota will be assured of a continuance of its highway con struction program next year and at the same time 10000 highway work ers can look for a summers work The probable Minnesota allotment from the fund will be 5538000 and that will finance 10000 manjobs next summer as compared to 4000 if con gress had withdrawn the allotment as had been"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-04T03:14:40.461Z",
+  "group": [
+    "ndnp/mnhi",
+    "minnesota-historical-society-saint-paul-mn-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn89064914/1937-12-23/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_judo_ver02:data:sn89064914:0039334152A:1937122301:0496/full/pct:3.125/0/default.jpg#h=273&w=221",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_judo_ver02:data:sn89064914:0039334152A:1937122301:0496/full/pct:6.25/0/default.jpg#h=547&w=442",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_judo_ver02:data:sn89064914:0039334152A:1937122301:0496/full/pct:12.5/0/default.jpg#h=1095&w=885",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mnhi/batch_mnhi_judo_ver02/data/sn89064914/0039334152A/1937122301/0496.xml&format=alto_xml"
+  ],
+  "index": 161,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "askov",
+    "pine county",
+    "united states",
+    "minnesota",
+    "pine"
+  ],
+  "location_city": [
+    "askov"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "pine"
+  ],
+  "location_state": [
+    "minnesota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000004",
+    "a",
+    "sn89064914",
+    "9",
+    "2",
+    "3",
+    "5",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn89064914"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "9",
+    "3",
+    "3",
+    "4",
+    "1",
+    "5",
+    "2",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn89064914-1937-12-23-ed-1-0496",
+  "partof": [
+    "askov american (askov, pine county, minn.) 1914-2022",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "askov american (askov, pine county, minn.) 1914-2022"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn89064914/1937-12-23/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn89064914/1937-12-23/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "askov",
+    "united states",
+    "pine county (minn.)",
+    "pine county",
+    "askov (minn.)",
+    "newspapers",
+    "minnesota",
+    "pine"
+  ],
+  "timestamp": "2024-01-05T04:06:23.720Z",
+  "title": "Image 4 of Askov American (Askov, Pine County, Minn.), December 23, 1937",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn89064914/1937-12-23/ed-1/?sp=4&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmnhi%2Fbatch_mnhi_judo_ver02%2Fdata%2Fsn89064914%2F0039334152A%2F1937122301%2F0496.xml&q=fascism&relevant_snippet=1"
+}

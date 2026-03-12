@@ -1,0 +1,165 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87065526/1962-02-27/ed-1/?sp=9"
+  ],
+  "batch": [
+    "msar_obsidian_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/mississippi/",
+    "2/united states/mississippi/jackson/",
+    "3/united states/mississippi/jackson/pascagoula/",
+    "3/united states/mississippi/jackson/moss point/"
+  ],
+  "contributor": [
+    "mississippi department of archives and history"
+  ],
+  "date": "1962-02-27",
+  "dates": [
+    "1962-02-27"
+  ],
+  "description": [
+    "SM ________ ___ lH r rr Party Saturday fetes Miss Gandy at Murray home By Emily Hughes Womans Editor The house and grounds of the John S Howkins home on River Road between Moss Point and Pascagoula were toured Sunday during the late j afternoon and early evening i hours by about 150 Pascagoula and Moss Point guests Arrangements of spring flowers appointed the various rooms through which friends were conducted by their hosts and the Howkinses daughter Betsy Another daughter Mary Alice presided at the guest register Mrs Howkins sister Mrs James Harvey and their moth er Mrs Chester Lyons both of Moss Point alternated in pour ing at the silver coffee service A cutglass compote held an arrangement of cut flowers in mass arrangement centering the refreshment table Mesdames H H Nelson Dal las Biggers Rupert Cirlot and R W Head all of Moss Point assisted in serving party deli cicies Miss Peggy Gandy of Pas cagoula who will leave for Minneapolis for training as an airline stewardess was honor ed Saturday by Kay Murray Daughter of the Francis Mur days The Murray home on Lafay ette Street was scene of a patio party attended by Shirley Carlson"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:45:24.726Z",
+  "group": [
+    "ndnp/msar",
+    "mississippi-department-of-archives-and-history"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87065526/1962-02-27/ed-1/?sp=9",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_obsidian_ver01:data:sn87065526:00383345327:1962022701:0408/full/pct:3.125/0/default.jpg#h=295&w=207",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_obsidian_ver01:data:sn87065526:00383345327:1962022701:0408/full/pct:6.25/0/default.jpg#h=590&w=414",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_obsidian_ver01:data:sn87065526:00383345327:1962022701:0408/full/pct:12.5/0/default.jpg#h=1180&w=828",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/msar/batch_msar_obsidian_ver01/data/sn87065526/00383345327/1962022701/0408.xml&format=alto_xml"
+  ],
+  "index": 78,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "pascagoula",
+    "mississippi",
+    "moss point",
+    "jackson",
+    "united states"
+  ],
+  "location_city": [
+    "pascagoula",
+    "moss point"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "jackson"
+  ],
+  "location_state": [
+    "mississippi"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000009",
+    "5",
+    "8",
+    "0",
+    "2",
+    "7",
+    "1",
+    "3",
+    "sn87065526",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87065526"
+  ],
+  "number_page": [
+    "0000000009"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "8",
+    "3",
+    "3",
+    "4",
+    "5",
+    "3",
+    "2",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Pascagoula chronicle-star and Moss Point advertiser"
+  ],
+  "page_id": "sn87065526-1962-02-27-ed-1-0408",
+  "partof": [
+    "chronicling america",
+    "the chronicle (pascagoula, miss.) 1961-1966",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the chronicle (pascagoula, miss.) 1961-1966"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87065526/1962-02-27/ed-1/?sp=9"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87065526/1962-02-27/ed-1/"
+  ],
+  "shelf_id": "09",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "pascagoula",
+    "mississippi",
+    "moss point",
+    "united states",
+    "jackson"
+  ],
+  "timestamp": "2023-07-06T07:59:24.174Z",
+  "title": "Image 9 of The Chronicle (Pascagoula, Miss.), February 27, 1962, (SECTION TWO)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87065526/1962-02-27/ed-1/?sp=9&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmsar%2Fbatch_msar_obsidian_ver01%2Fdata%2Fsn87065526%2F00383345327%2F1962022701%2F0408.xml&q=computers&relevant_snippet=1"
+}

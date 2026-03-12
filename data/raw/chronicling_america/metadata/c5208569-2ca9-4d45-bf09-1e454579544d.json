@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn97071110/1921-01-06/ed-1/?sp=6"
+  ],
+  "batch": [
+    "oru_fort_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/oregon/",
+    "2/united states/oregon/hood river/",
+    "3/united states/oregon/hood river/hood river/"
+  ],
+  "contributor": [
+    "university of oregon libraries; eugene, or"
+  ],
+  "date": "1921-01-06",
+  "dates": [
+    "1921-01-06"
+  ],
+  "description": [
+    "HOOD RIVER GLACIER THURSDAY JANUARY fl 1021 T J G Penney Company A NationWide Institution J C Penney Company A NationWide Institution J C Penney Company A NationWide Institution PUTTING OUR HOUSE IN OR c o p a 3 C TO MEET NEW CONDITIO O o 5 o 0 3 fr ee z 4 NS c X a o U a c On C O a 0 T3 C o C a S o d 0 Oh d o V C 0 T3 I C o 03 c o c ii o 3 c T3 I C C n C 1 z U c c it I BELIEVING the time has arrived when revision of prices is warranted by replacement value having discounted our merchandise thousands of dollars in our inventory just completed we therefore give to the public the full benefit of the loss we sustain Remember we have said Our Replacement Price which should prove doubly attractive Buying for 297 Stores doing a yearly business of approximately Fifty Million Dollars should be sufficient proof that our replacement price i substantially lower than that of our competitors Outing Flannel 27in light and dark patterns heavy weight Reconstruction Price per"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-07-15T14:38:32.621Z",
+  "group": [
+    "ndnp/oru",
+    "university-of-oregon-libraries-eugene-or-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn97071110/1921-01-06/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_fort_ver01:data:sn97071110:00295868260:1921010601:0463/full/pct:6.25/0/default.jpg#h=496&w=360",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_fort_ver01:data:sn97071110:00295868260:1921010601:0463/full/pct:12.5/0/default.jpg#h=992&w=721",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/oru/batch_oru_fort_ver01/data/sn97071110/00295868260/1921010601/0463.xml&format=alto_xml"
+  ],
+  "index": 15,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "hood river",
+    "oregon",
+    "united states"
+  ],
+  "location_city": [
+    "hood river"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hood river"
+  ],
+  "location_state": [
+    "oregon"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "5",
+    "2",
+    "0000000006",
+    "6",
+    "1",
+    "sn97071110",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn97071110"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "5",
+    "8",
+    "6",
+    "8",
+    "2",
+    "6",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn97071110-1921-01-06-ed-1-0463",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the hood river glacier (hood river, or.) 1889-1933"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the hood river glacier (hood river, or.) 1889-1933"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn97071110/1921-01-06/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn97071110/1921-01-06/ed-1/"
+  ],
+  "shelf_id": "06",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "hood river",
+    "united states",
+    "newspapers",
+    "oregon",
+    "hood river (or.)"
+  ],
+  "timestamp": "2024-07-15T20:17:31.469Z",
+  "title": "Image 6 of The Hood River glacier (Hood River, Or.), January 6, 1921",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn97071110/1921-01-06/ed-1/?sp=6&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Foru%2Fbatch_oru_fort_ver01%2Fdata%2Fsn97071110%2F00295868260%2F1921010601%2F0463.xml&q=reconstruction&relevant_snippet=1"
+}

@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn90061663/1904-03-03/ed-1/?sp=2"
+  ],
+  "batch": [
+    "mohi_jerome_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/missouri/",
+    "2/united states/missouri/bates/",
+    "3/united states/missouri/bates/rich hill/"
+  ],
+  "contributor": [
+    "state historical society of missouri; columbia, mo"
+  ],
+  "date": "1904-03-03",
+  "dates": [
+    "1904-03-03"
+  ],
+  "description": [
+    "THE TRIBUNE rich hill MISSOCHI Tbe Duchess rf Norfolk Is receiving no congratulations from American heiresses la the case of an important dispatch thervj is always room at the top for tbe headline Riitjvr U repotted firm on th Cli Jcago produce exchange Doubtless aonie of it la strong also Mr Schwabs visit to Europe will not cost the newspapers nearly no much in cablo lolls this time I0ten Lyne the famous jockey is lng to become a doctor of medicine Hasnt he la enough killings Tsl An with a war in the neighbor hood act a new automobile is cms of the most worried people In the Ori ent A Louis XV pronounced Cans muff box has been purchased for JiO 000 Now wouldnt that make you sneeze A western railroad has ordered ita tnployes to take physical exercise dally Does this include the baggage smashers A man 80 years old has Just been admitted to the bar With fair hick be hopes in time to be able to build tip m good practice Koreas emperor has hundreds of wives almost as foolish as Solomon who was wise enough until he acquir ed the marrying mania Japan will practice"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T12:05:37.080Z",
+  "group": [
+    "ndnp/mohi",
+    "state-historical-society-of-missouri-columbia-mo-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn90061663/1904-03-03/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn90061663:00280779672:1904030301:0592/full/pct:6.25/0/default.jpg#h=398&w=277",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn90061663:00280779672:1904030301:0592/full/pct:12.5/0/default.jpg#h=797&w=554",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mohi/batch_mohi_jerome_ver01/data/sn90061663/00280779672/1904030301/0592.xml&format=alto_xml"
+  ],
+  "index": 88,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "bates",
+    "bates county",
+    "rich hill",
+    "missouri"
+  ],
+  "location_city": [
+    "rich hill"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "bates"
+  ],
+  "location_state": [
+    "missouri"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "sn90061663",
+    "8",
+    "9",
+    "6",
+    "7",
+    "0000000002",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn90061663"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "7",
+    "7",
+    "9",
+    "6",
+    "7",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn90061663-1904-03-03-ed-1-0592",
+  "partof": [
+    "serial and government publications division",
+    "chronicling america",
+    "the rich hill tribune (rich hill, mo.) 1903-1911"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the rich hill tribune (rich hill, mo.) 1903-1911"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn90061663/1904-03-03/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn90061663/1904-03-03/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "bates county (mo.)",
+    "united states",
+    "bates",
+    "bates county",
+    "rich hill",
+    "newspapers",
+    "rich hill (mo.)",
+    "missouri"
+  ],
+  "timestamp": "2022-10-17T19:57:00.486Z",
+  "title": "Image 2 of The Rich Hill tribune (Rich Hill, Mo.), March 3, 1904",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn90061663/1904-03-03/ed-1/?sp=2&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmohi%2Fbatch_mohi_jerome_ver01%2Fdata%2Fsn90061663%2F00280779672%2F1904030301%2F0592.xml&q=korea&relevant_snippet=1"
+}

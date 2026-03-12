@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88077226/1949-12-19/ed-1/?sp=2"
+  ],
+  "batch": [
+    "ohi_amaryllis_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/montgomery/",
+    "3/united states/ohio/montgomery/dayton/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1949-12-19",
+  "dates": [
+    "1949-12-19"
+  ],
+  "description": [
+    "J VIM r M tmz1 Two JxH ifiesau The OHIO DAILY EXPRESS Published every Evening except Sunday by Paige H Strickland til 1007 Germantown street Dayton 7 Ohio Phone HEmlock 1076 BAIGE H STRICKLAND_ Editor and Publisher RUBY L BLANKS Business Manager NATIONAL ADVERTISING Interstate United Newspapers laci 646 Fifth Avenue New York 17 New York Special bterests Laying For Margarine Bill By Albert Anderson WASHINGTON ANP The first order of business for the Sen ate when Congress returns in Jan uary is H R 2023 the bill repeal ing the federal antimargarine laws and a measure which Negro organizations strongly supported iBJthe last session of Congres H R 2023 passed the House during the first session of the 81st Congress by a vote of 287 to 89 and has been reported favorably by the Senate finance committee Consequently only Senate action is necessary to send the measure to the White House for signature by the President who has said he would approve it Among the groups which sup farted H R 2023 at the last session were the National Council of Negro Women and the Nation al Fraternity Council of Negro Starches The NAACP did not testify for H"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:14:13.212Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88077226/1949-12-19/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_amaryllis_ver01:data:sn88077226:00414210399:1949121901:0692/full/pct:6.25/0/default.jpg#h=413&w=317",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_amaryllis_ver01:data:sn88077226:00414210399:1949121901:0692/full/pct:12.5/0/default.jpg#h=827&w=634",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_amaryllis_ver01/data/sn88077226/00414210399/1949121901/0692.xml&format=alto_xml"
+  ],
+  "index": 58,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ohio",
+    "united states",
+    "montgomery",
+    "dayton",
+    "montgomery county"
+  ],
+  "location_city": [
+    "dayton"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "montgomery"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn88077226",
+    "1",
+    "9",
+    "4",
+    "3",
+    "0000000002",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88077226"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "2",
+    "1",
+    "0",
+    "3",
+    "9",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88077226-1949-12-19-ed-1-0692",
+  "partof": [
+    "the ohio daily-express (dayton, ohio) 1946-1950",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the ohio daily-express (dayton, ohio) 1946-1950"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88077226/1949-12-19/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88077226/1949-12-19/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "ohio",
+    "dayton (ohio)",
+    "united states",
+    "montgomery",
+    "african american",
+    "montgomery county (ohio)",
+    "newspapers",
+    "dayton",
+    "montgomery county",
+    "african americans"
+  ],
+  "subject_ethnicity": [
+    "african american"
+  ],
+  "timestamp": "2023-09-04T23:59:13.166Z",
+  "title": "Image 2 of The Ohio daily-express (Dayton, Ohio), December 19, 1949",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88077226/1949-12-19/ed-1/?sp=2&q=civil+rights",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_amaryllis_ver01%2Fdata%2Fsn88077226%2F00414210399%2F1949121901%2F0692.xml&q=civil+rights&relevant_snippet=1"
+}

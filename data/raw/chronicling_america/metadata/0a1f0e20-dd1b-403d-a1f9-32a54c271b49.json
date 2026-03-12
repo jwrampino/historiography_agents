@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87068192/1898-04-14/ed-1/?sp=6"
+  ],
+  "batch": [
+    "njr_ketchup_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new jersey/",
+    "2/united states/new jersey/cumberland/",
+    "3/united states/new jersey/cumberland/bridgeton/"
+  ],
+  "contributor": [
+    "rutgers university libraries"
+  ],
+  "date": "1898-04-14",
+  "dates": [
+    "1898-04-14"
+  ],
+  "description": [
+    "His Views on the Situation In Cuba and the Maine Disaster Washington April 11The president today sent tho following message to con gress The Congress of the United States Obedient to that precept of the consti tution which commands the president to give from time to time to the congress in formation of the state of tho Union and to recommend to their consideration such measures as ho shall judge necessary and expedient it becomes my duty now to ad dress your body with regard to the grave crisis that has arisen in the relations of the United States to Spain by reason of tho warfare that for more than three years has raged in the neighboring island of Cuba I do so becausoof the intimate con nection of the Cuban question with the state of our own Union and the grave re lation tho course which it is now incum bent upon the nation to adopt must needs boar to the traditional policy of our gov ernment if it is to accord with tho pre cepts laid down by the founders of the re public and religiously observed by suc ceeding administrations to the present day The present revolution"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:42:23.074Z",
+  "group": [
+    "ndnp/njr",
+    "rutgers-university-libraries-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87068192/1898-04-14/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529698:1898041401:0120/full/pct:6.25/0/default.jpg#h=403&w=286",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529698:1898041401:0120/full/pct:12.5/0/default.jpg#h=806&w=572",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/njr/batch_njr_ketchup_ver01/data/sn87068192/00279529698/1898041401/0120.xml&format=alto_xml"
+  ],
+  "index": 148,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "cumberland",
+    "bridgeton",
+    "new jersey",
+    "united states"
+  ],
+  "location_city": [
+    "bridgeton"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cumberland"
+  ],
+  "location_state": [
+    "new jersey"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "0",
+    "2",
+    "0000000006",
+    "7",
+    "sn87068192",
+    "9",
+    "1",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87068192"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "2",
+    "9",
+    "6",
+    "9",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87068192-1898-04-14-ed-1-0120",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "bridgeton pioneer (bridgeton, n.j.) 1884-1919"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "bridgeton pioneer (bridgeton, n.j.) 1884-1919"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87068192/1898-04-14/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87068192/1898-04-14/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "bridgeton (n.j.)",
+    "cumberland",
+    "bridgeton",
+    "new jersey",
+    "united states"
+  ],
+  "timestamp": "2025-12-02T07:53:57.118Z",
+  "title": "Image 6 of Bridgeton pioneer (Bridgeton, N.J.), April 14, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87068192/1898-04-14/ed-1/?sp=6&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnjr%2Fbatch_njr_ketchup_ver01%2Fdata%2Fsn87068192%2F00279529698%2F1898041401%2F0120.xml&q=cuba&relevant_snippet=1"
+}

@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84038462/1858-08-19/ed-1/?sp=4"
+  ],
+  "batch": [
+    "iune_albatross_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/illinois/",
+    "2/united states/illinois/bond/",
+    "3/united states/illinois/bond/greenville/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1858-08-19",
+  "dates": [
+    "1858-08-19"
+  ],
+  "description": [
+    "JUST PUBLISHED THE PHOOHESS OF SLAVERY IN THE BW83_8a93 BY GEORGE M WESTON 312 paget Bound in muslin Price 1 TABLE OF CONTENTS Chap IComparative statements of tJjea vaacc of the free and slave States in pop lation Gain of the free States steady but not rapid Comparative statements of th advance of the free and slave States in area Causes of the superior success and aptitude of the slave States in acquiring territory 8Iavery as e firmly maintained in the northern tier of the slave States Th pol itical power of the slave States still tuna idable Chan 11Considerations rendering it prob able tha slavery will cease to exist in Mis souri Connection between slavery and th price of land Missouri at present moie inviting to the free emigrant than Virginia Commanding position of Missouri Chap IIIConsiderations rendering it prob able that the emigration from the free States hitherto moving westward mu hereafter tend southward to Maiylami Virginia and Kentucky Accumulated power of the population of the free States No apology for slavery in the northern slav States The right of emigration between the States Chap IVSlave society stationary Irnpos tioility of improvement of the nonslave i holding whiles"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:15:40.901Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84038462/1858-08-19/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038462:00514151039:1858081901:0115/full/pct:6.25/0/default.jpg#h=364&w=273",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038462:00514151039:1858081901:0115/full/pct:12.5/0/default.jpg#h=728&w=547",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_albatross_ver01/data/sn84038462/00514151039/1858081901/0115.xml&format=alto_xml"
+  ],
+  "index": 197,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "bond county",
+    "greenville",
+    "illinois",
+    "bond"
+  ],
+  "location_city": [
+    "greenville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "bond"
+  ],
+  "location_state": [
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn84038462",
+    "5",
+    "9",
+    "0000000004",
+    "4",
+    "3",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84038462"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "4",
+    "1",
+    "5",
+    "1",
+    "0",
+    "3",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84038462-1858-08-19-ed-1-0115",
+  "partof": [
+    "the greenville advocate (greenville, bond county, ill.) 1858-current",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the greenville advocate (greenville, bond county, ill.) 1858-current"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84038462/1858-08-19/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84038462/1858-08-19/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "bond county (ill.)",
+    "united states",
+    "bond county",
+    "greenville",
+    "illinois",
+    "newspapers",
+    "greenville (ill.)",
+    "bond"
+  ],
+  "timestamp": "2025-05-21T10:47:28.446Z",
+  "title": "Image 4 of The Greenville advocate (Greenville, Bond County, Ill.), August 19, 1858",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84038462/1858-08-19/ed-1/?sp=4&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_albatross_ver01%2Fdata%2Fsn84038462%2F00514151039%2F1858081901%2F0115.xml&q=slavery&relevant_snippet=1"
+}

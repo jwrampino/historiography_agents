@@ -1,0 +1,172 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85009852/1955-05-19/ed-1/?sp=1"
+  ],
+  "batch": [
+    "ct_carpsurprise_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/connecticut/",
+    "2/united states/connecticut/hartford/",
+    "3/united states/connecticut/hartford/new britain/"
+  ],
+  "contributor": [
+    "connecticut state library, hartford, ct"
+  ],
+  "date": "1955-05-19",
+  "dates": [
+    "1955-05-19"
+  ],
+  "description": [
+    "Serving The People Of East Hartford For Over 1 Years No 20 Seventyfirst Year Town Will Witness Four Flights Of Modern War Planes Saturday Four flights of modern war planes will zoom over Hartford County on Saturday afternoon from 2 pm to 4 pm while open house is being held at three mil itary installations to mark the end of Armed Forces Week The new Army Reserve Train ing Center at 700 S Quaker Lane West Hartford will be open Sat urday from 10 am to 5 pm ac cording to Col George L Foy commanding officer At the Naval Reserve Training Center on Airport Road Hart ford spectators will see Marines Coast Guardsmen and sailors snowing off displays of the latest nautical gear Jets will be flying all day at Air National Guard Headquarters Bradley Field Windsor Locks where Brig General George Stan ley is in charge From 9 am to 430 pm the public is invited to see free movies airplanes sur vival equipment and firefighting Flyovers will begin in Great er Hartford at 209 pm weather permitting when six Navy F9F6 jet Cougars will flash across the skies at a mere 3000 feet The planes are based"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-12-15T22:37:46.607Z",
+  "group": [
+    "ndnp/ct",
+    "connecticut-state-library-hartford-ct-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85009852/1955-05-19/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_carpsurprise_ver01:data:sn85009852:00517174877:1955051901:0231/full/pct:3.125/0/default.jpg#h=281&w=205",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_carpsurprise_ver01:data:sn85009852:00517174877:1955051901:0231/full/pct:6.25/0/default.jpg#h=562&w=411",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_carpsurprise_ver01:data:sn85009852:00517174877:1955051901:0231/full/pct:12.5/0/default.jpg#h=1125&w=823",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ct/batch_ct_carpsurprise_ver01/data/sn85009852/00517174877/1955051901/0231.xml&format=alto_xml"
+  ],
+  "index": 168,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "hartford",
+    "east windsor",
+    "connecticut",
+    "glastonbury",
+    "east hartford",
+    "south windsor",
+    "new britain",
+    "united states"
+  ],
+  "location_city": [
+    "new britain"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hartford"
+  ],
+  "location_state": [
+    "connecticut"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "0",
+    "7",
+    "sn85009852",
+    "1",
+    "0000000001",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85009852"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "4",
+    "8",
+    "7",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85009852-1955-05-19-ed-1-0231",
+  "partof": [
+    "the east hartford gazette (east hartford, conn.) 1942-current",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the east hartford gazette (east hartford, conn.) 1942-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85009852/1955-05-19/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85009852/1955-05-19/ed-1/"
+  ],
+  "shelf_id": "01",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "hartford",
+    "east windsor",
+    "east windsor (conn.)",
+    "connecticut",
+    "glastonbury",
+    "new britain",
+    "https://id.oclc.org/worldcat/entity/e39pbjvcjhwfvmbcmprmtfyghc",
+    "east hartford",
+    "east hartford (conn.)",
+    "south windsor",
+    "https://id.oclc.org/worldcat/entity/e39pbjpjj38c94hmdm3bxkykjc",
+    "glastonbury (conn.)",
+    "south windsor (conn.)",
+    "https://id.oclc.org/worldcat/entity/e39qbtfrqr6qxbfkkvtp4wjrcp",
+    "united states"
+  ],
+  "timestamp": "2024-12-15T23:01:04.728Z",
+  "title": "Image 1 of The East Hartford gazette (East Hartford, Conn.), May 19, 1955",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85009852/1955-05-19/ed-1/?sp=1&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fct%2Fbatch_ct_carpsurprise_ver01%2Fdata%2Fsn85009852%2F00517174877%2F1955051901%2F0231.xml&q=nuclear&relevant_snippet=1"
+}

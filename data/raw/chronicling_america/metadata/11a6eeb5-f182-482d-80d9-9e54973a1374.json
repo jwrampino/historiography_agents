@@ -1,0 +1,174 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn91069201/1947-09-06/ed-1/?sp=5"
+  ],
+  "batch": [
+    "ohi_carrie_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/meigs/",
+    "3/united states/ohio/meigs/pomeroy/",
+    "2/united states/ohio/franklin/",
+    "3/united states/ohio/franklin/columbus/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1947-09-06",
+  "dates": [
+    "1947-09-06"
+  ],
+  "description": [
+    "WOLFRAMS LAXATIV CAPSULES PreiS 200 per Box Vorrat fttt 2 bis 3 Monate 3 Boxes f\u00fcr 500 Porto extra 36 i e 36 I 36 36 II 922 24 Victoria Ave REGINA SASK CANADA Septsmter ieshauser sondern auch die Friedh\u00f6fe mit den Mr\u00e4bern ihrer Eltern und Voreltern genommen wurden Wir berufen uns dabei auf das christliche Sittengesetz welches nicht nur den Einzelnen sondern auch V\u00f6l kern und Staaten Ha\u00df und Rache Ge walttat und Raub verbietet f Wir berufen uns dabei auf die Menschlichkeit da durch das was hu matte Aussiedlung genannt wurde die nat\u00fcrlichen Lebensgemeinschaften der Familie der Nachbarschaft und des Berufes grausam zerrissen die Ver triebenen in unvorstellbares Elend ge st\u00fcrmt wurden und sie in dem so weit gehend zerst\u00f6rten RestTeutschland aus Mangel an Wohnraum Arbeits m\u00f6glichkeit und Nahrung nicht men schenw\u00fcrdig leben k\u00f6nnen und der Verzweiflung und Anarchie in die Ar me getrieben werden Wir berufen uns dabei auf die unverlierbaren Menschenrechte die fluch einem besiegten Volke noch zu kommen Wir erbitten die R\u00fcckgabe unserer Heimat im Interesse eines wahren und dauerhaften Friedens in Europa weil dieser nie aus einem solch schreien den Unrecht wie es die Vertreibung von vierzehn Millionen Menschen aus der Heimat ist zustande"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:15:37.574Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn91069201/1947-09-06/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_carrie_ver01:data:sn91069201:00279556239:1947090601:0667/full/pct:3.125/0/default.jpg#h=279&w=195",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_carrie_ver01:data:sn91069201:00279556239:1947090601:0667/full/pct:6.25/0/default.jpg#h=558&w=390",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_carrie_ver01:data:sn91069201:00279556239:1947090601:0667/full/pct:12.5/0/default.jpg#h=1116&w=780",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_carrie_ver01/data/sn91069201/00279556239/1947090601/0667.xml&format=alto_xml"
+  ],
+  "index": 61,
+  "language": [
+    "german",
+    "english"
+  ],
+  "location": [
+    "ohio",
+    "meigs",
+    "pomeroy",
+    "franklin",
+    "united states",
+    "columbus"
+  ],
+  "location_city": [
+    "pomeroy",
+    "columbus"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "meigs",
+    "franklin"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn91069201",
+    "9",
+    "2",
+    "6",
+    "5",
+    "3",
+    "1",
+    "7",
+    "0000000005"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn91069201"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "5",
+    "6",
+    "2",
+    "3",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn91069201-1947-09-06-ed-1-0667",
+  "partof": [
+    "ohio waisenfreund (pomeroy, o. [ohio]) 1874-1953",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "ohio waisenfreund (pomeroy, o. [ohio]) 1874-1953"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn91069201/1947-09-06/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn91069201/1947-09-06/ed-1/"
+  ],
+  "shelf_id": "5",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "ohio",
+    "meigs",
+    "german americans",
+    "german",
+    "pomeroy",
+    "franklin",
+    "catholics",
+    "newspapers",
+    "columbus"
+  ],
+  "subject_ethnicity": [
+    "german"
+  ],
+  "timestamp": "2023-09-05T05:07:45.115Z",
+  "title": "Image 5 of Ohio Waisenfreund (Pomeroy, O. [Ohio]), September 6, 1947, (Ausgabe der 'Wanderer')",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn91069201/1947-09-06/ed-1/?sp=5&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_carrie_ver01%2Fdata%2Fsn91069201%2F00279556239%2F1947090601%2F0667.xml&q=revolution&relevant_snippet=1"
+}

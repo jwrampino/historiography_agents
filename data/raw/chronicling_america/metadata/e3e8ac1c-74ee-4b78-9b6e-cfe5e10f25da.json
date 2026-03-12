@@ -1,0 +1,170 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88078683/1920-11-20/ed-1/?sp=15"
+  ],
+  "batch": [
+    "ohi_byrd_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/",
+    "1/united states/ohio/",
+    "2/united states/ohio/cuyahoga/",
+    "3/united states/ohio/cuyahoga/cleveland/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1920-11-20",
+  "dates": [
+    "1920-11-20"
+  ],
+  "description": [
+    "4 SATURDAY NOV 20th 1920 THE TOILER PAGE 15 Buy Your Books of The Toiler Book Department About Russia Cloth Bound Books 75c Each LENIN THE MAN AND HIS WORK By Albert Rhys Williams 150 RUSSIA IN 1919 By Arthur Ransome 160 RAYMOND ROBINS OWN 8TORY By William Hard 200 Ten Day that Shook the World Reed 200 Six Red Months in Russia Bryant 50 Soviet Russia Williams 10c Radek and Ransome on Russia 5c Russia and the League of Nations Lenin 5c Manifesto of the Third International 10c Constitution of 8oviet Russia 10e Labor Laws and Protection of Labor in Soviet Russia 25 Structure of Soviet Russia Humphries 10e Scientific Classics Landmarks of Scientific Socialism Engels 125 Socialism and Modern Science Perri 125 Philosophical Essays Dietzgen 150 Positive Outcome of Philosophy Dietzgen 150 Physical Basis of Mind and Morals Fitch 125 Ancient Society Morgan 150 Ancient Lowly Ward 2 vols each 250 Essays On Materialistic Conception of History Labrioli 125 The Universal Kinship Moore 125 Savage Survivals Moore LM Woman Under Socialism Bebel M3 Economic Determinism Parce L25 Educational Pamphlets Nicolai Lenin His Life and Work Zinovicff 252 Communism and The Family Kollontay 10c 8cialism and Religion By B"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:15:28.475Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88078683/1920-11-20/ed-1/?sp=15",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn88078683:00280774789:1920112001:0404/full/pct:12.5/0/default.jpg#h=485&w=357",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn88078683:00280774789:1920112001:0404/full/pct:25/0/default.jpg#h=971&w=714",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_byrd_ver01/data/sn88078683/00280774789/1920112001/0404.xml&format=alto_xml"
+  ],
+  "index": 137,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "cuyahoga",
+    "cleveland",
+    "ohio",
+    "new york",
+    "new york city",
+    "united states"
+  ],
+  "location_city": [
+    "new york",
+    "cleveland"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york",
+    "cuyahoga"
+  ],
+  "location_state": [
+    "new york",
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "8",
+    "0",
+    "2",
+    "0000000015",
+    "sn88078683",
+    "7",
+    "9",
+    "1",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88078683"
+  ],
+  "number_page": [
+    "0000000015"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "7",
+    "7",
+    "4",
+    "7",
+    "8",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88078683-1920-11-20-ed-1-0404",
+  "partof": [
+    "the toiler (cleveland, ohio) 1919-1922",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the toiler (cleveland, ohio) 1919-1922"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88078683/1920-11-20/ed-1/?sp=15"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88078683/1920-11-20/ed-1/"
+  ],
+  "shelf_id": "15",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "new york (state)",
+    "cuyahoga",
+    "cleveland",
+    "labor movement",
+    "new york (n.y.)",
+    "ohio",
+    "cleveland (ohio)",
+    "new york",
+    "communism",
+    "united states"
+  ],
+  "timestamp": "2023-09-05T04:41:41.828Z",
+  "title": "Image 15 of The toiler (Cleveland, Ohio), November 20, 1920",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88078683/1920-11-20/ed-1/?sp=15&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_byrd_ver01%2Fdata%2Fsn88078683%2F00280774789%2F1920112001%2F0404.xml&q=revolution&relevant_snippet=1"
+}

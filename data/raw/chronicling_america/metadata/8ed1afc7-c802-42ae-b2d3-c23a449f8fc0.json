@@ -1,0 +1,131 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16083/?sp=22"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1805-08-06",
+  "dates": [
+    "1805-08-06"
+  ],
+  "description": [
+    "IMPERIAL PARLIAMENT HOUSE OF COMMONS rFEB 276 Mr Grey rofe and after alluding to a notice of an Honourable Friend of his Mr Kinnaird then abfent from town refpe\u00e9ting certain additional papers conceruing Sir Home Popham obferved that there were feveral ather papers wanting He therefore moved for An aeeount of all Repairs c of the Rom ney when fitted out in September and Oftober 1809 and the expence attending the fame After a few words from Mr W Dickenfon the motion was agreed to Mr Grey then moved for An account of all Repairs or Alterations of the Mafts and Hull of the Romney in the Months of Offober November and December 18e0 together with the expenfes of the fameAgreed to He next moved for The lateft report of the Survey or Examina tion of the Senfible and the Expence of the Repairs of 1800 with the Amonnt of the Stores furnifhed to the fame fhipAgreed to Alfo An account of all Repairs done to the Romney and Senfible sud other thips under the Command of Sir Home Popham and of all Stores furnifhed to the faid fhipst particularizing the fe parcte expences of each fhip and amount of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16083/?sp=22",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16083:0022/full/pct:6.25/0/default.jpg#h=487&w=332",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16083:0022/full/pct:12.5/0/default.jpg#h=975&w=665",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16083:0022/full/pct:25.0/0/default.jpg#h=1951&w=1331",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16083:0022/full/pct:50.0/0/default.jpg#h=3903&w=2663",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16083:0022/full/pct:100.0/0/default.jpg#h=7806&w=5327",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16083/0022.alto.xml&format=alto_xml"
+  ],
+  "index": 111,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "calcutta",
+    "india"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "0000000022",
+    "sn88063571",
+    "2025-08-13t13:59:42.400000",
+    "sn88063570",
+    "sn88063569"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000022"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16083-0022-alto",
+  "partof": [
+    "catalog",
+    "world digital library",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "asian division",
+    "serial and government publications division",
+    "south asian digital collection",
+    "world newspapers",
+    "general collections"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16083/?sp=22"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16083/"
+  ],
+  "shelf_id": "22",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "calcutta",
+    "india"
+  ],
+  "timestamp": "2025-12-12T07:19:57.894Z",
+  "title": "Image 22 of Volume 11, Number 551, Tuesday, August 6, 1805 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16083/?sp=22&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16083%2F0022.alto.xml&q=great+war&relevant_snippet=1"
+}

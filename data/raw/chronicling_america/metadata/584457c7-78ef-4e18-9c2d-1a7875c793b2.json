@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84025891/1901-09-14/ed-1/?sp=5"
+  ],
+  "batch": [
+    "dlc_golf_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1901-09-14",
+  "dates": [
+    "1901-09-14"
+  ],
+  "description": [
+    "e c II J Tt T 1 I N 1 1ttlE iU ttlE W 2 EBIL to lsa e K i rJW r J V Lyons has returned relurnedI returnee returneeltV ltV I t Iai ail a to go o to Lake View Mon Monrjfr MonL Monurd L urd orH rjfr r rheatham left for North Northluunltsi NorthlL Northii tl r luunltsi lL ii un last Saturday Saturdayoeitrude Saturdaytertrude Saturdayt oeitrude t etrude Smith Thorn buried buriecVt buriedt Vt t I horn urn a son Saturday SaturdayTemle SaturdayItnpl SaturdayTeuihle Temle started off with yith the ther thefur fur r lit Sunday morning mornmga 1 ale a cle View 1 tew Park next Monday MondayU ille U 11 wClinkscals V CHnkscales has h s re retetter reatr reo reotcf tetter atr tcf spending sometime sometime in In the tlus theera thet thet t s t c era ra Williamson Will B1son of 4th Stree Streee Hicks at Nor NoiMarie Nors s e tu j a t tVane ut Mr Ir James Marie fe Vadewho W de who has been on OI s sr 3 3U ar r r U i a returned pleased will willihoiius w1thI I r 1 ihoiius huntu"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:13:41.899Z",
+  "group": [
+    "ndnp/dlc-2004_2006",
+    "library-of-congress-washington-dc-awardee-1"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84025891/1901-09-14/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_golf_ver01:data:sn84025891:100493731:1901091401:0160/full/pct:3.125/0/default.jpg#h=283&w=190",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_golf_ver01:data:sn84025891:100493731:1901091401:0160/full/pct:6.25/0/default.jpg#h=566&w=380",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_golf_ver01:data:sn84025891:100493731:1901091401:0160/full/pct:12.5/0/default.jpg#h=1133&w=761",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_golf_ver01/data/sn84025891/100493731/1901091401/0160.xml&format=alto_xml"
+  ],
+  "index": 113,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "sn84025891",
+    "3",
+    "4",
+    "1",
+    "7",
+    "0000000005"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84025891"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "1",
+    "0",
+    "0",
+    "4",
+    "9",
+    "3",
+    "7",
+    "3",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Bee"
+  ],
+  "page_id": "sn84025891-1901-09-14-ed-1-0160",
+  "partof": [
+    "the washington bee (washington, d.c.) 1884-1922",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington bee (washington, d.c.) 1884-1922"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84025891/1901-09-14/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84025891/1901-09-14/ed-1/"
+  ],
+  "shelf_id": "5",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "african american newspapers",
+    "african american",
+    "district of columbia",
+    "united states",
+    "newspapers",
+    "african americans"
+  ],
+  "subject_ethnicity": [
+    "african american"
+  ],
+  "timestamp": "2022-10-11T22:44:08.832Z",
+  "title": "Image 5 of The Washington bee (Washington, D.C.), September 14, 1901",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84025891/1901-09-14/ed-1/?sp=5&q=phillipines",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_golf_ver01%2Fdata%2Fsn84025891%2F100493731%2F1901091401%2F0160.xml&q=phillipines&relevant_snippet=1"
+}

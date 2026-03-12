@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85066387/1901-11-20/ed-1/?sp=4"
+  ],
+  "batch": [
+    "curiv_quincy_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/california/",
+    "2/united states/california/san francisco/",
+    "3/united states/california/san francisco/san francisco/"
+  ],
+  "contributor": [
+    "university of california, riverside; riverside, ca"
+  ],
+  "date": "1901-11-20",
+  "dates": [
+    "1901-11-20"
+  ],
+  "description": [
+    "4 TACOMA BANK FAILS TO OPEN Scared Depositors Begin a Run on the Met ropolitan George Vanderbilt Loses in Financial Operations on the Sound Special Dispatch to The Call TACOMA Nov 19 The Metropolitan Bank failed to open for business this morning The bank experienced a heavy run yesterday caused by a suit brought for the appointment of a receiver for the Metropolitan Savings Bank which went into liquidation in May 1898 Small stock holders confused the names of the two banks and believed that legal trouble threatened the Metropolitan Some began g their funds on Saturday and rday the run became general Be d 90000 and 90000 was paid out dur ing the day to small depositors Business firms did not become aiarmed because they were assured by President Caesar that the bank had sufficient convertible ta to provide funds for any ordinary c xigency The clearinghouse banks yesterday provided the Metropolitan with 50000 In pold taking in return its best securities The clearinghouse met last night and de cided not to supply further funds unless the bank itself could obtain a certain sum by this mornings President Caesar is a nephew of William K and George Vanderbilt and"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-09-02T13:59:40.898Z",
+  "group": [
+    "ndnp/curiv",
+    "university-of-california-riverside-riverside-ca-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85066387/1901-11-20/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_quincy_ver01:data:sn85066387:00100478676:1901112001:0353/full/pct:3.125/0/default.jpg#h=271&w=202",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_quincy_ver01:data:sn85066387:00100478676:1901112001:0353/full/pct:6.25/0/default.jpg#h=543&w=405",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_quincy_ver01:data:sn85066387:00100478676:1901112001:0353/full/pct:12.5/0/default.jpg#h=1086&w=811",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/curiv/batch_curiv_quincy_ver01/data/sn85066387/00100478676/1901112001/0353.xml&format=alto_xml"
+  ],
+  "index": 152,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "san francisco bay area",
+    "california",
+    "united states",
+    "san francisco"
+  ],
+  "location_city": [
+    "san francisco"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "san francisco"
+  ],
+  "location_state": [
+    "california"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000004",
+    "8",
+    "0",
+    "7",
+    "1",
+    "sn85066387",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85066387"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "4",
+    "7",
+    "8",
+    "6",
+    "7",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sometimes published as: Call",
+    "Sunday issues published as: Sunday call",
+    "Joint issue published as: Call-chronicle-examiner"
+  ],
+  "page_id": "sn85066387-1901-11-20-ed-1-0353",
+  "partof": [
+    "the san francisco call (san francisco [calif.]) 1895-1913",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the san francisco call (san francisco [calif.]) 1895-1913"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85066387/1901-11-20/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85066387/1901-11-20/ed-1/"
+  ],
+  "shelf_id": "04",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "san francisco bay area (calif.)",
+    "san francisco bay area",
+    "san francisco (calif.)",
+    "san francisco",
+    "united states",
+    "california"
+  ],
+  "timestamp": "2025-09-29T08:10:59.860Z",
+  "title": "Image 4 of The San Francisco call (San Francisco [Calif.]), November 20, 1901",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85066387/1901-11-20/ed-1/?sp=4&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fcuriv%2Fbatch_curiv_quincy_ver01%2Fdata%2Fsn85066387%2F00100478676%2F1901112001%2F0353.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045293/1928-07-31/ed-1/?sp=3"
+  ],
+  "batch": [
+    "whi_italico_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/wisconsin/",
+    "2/united states/wisconsin/milwaukee/",
+    "3/united states/wisconsin/milwaukee/milwaukee/"
+  ],
+  "contributor": [
+    "wisconsin historical society"
+  ],
+  "date": "1928-07-31",
+  "dates": [
+    "1928-07-31"
+  ],
+  "description": [
+    "riiKEE Indict British Imperialism in India LABOR ENVOYS WRITE BOOKLET ON CONDITIONS Problem for Trade Unions Sat Pur cell Hallsworth Leader Special Service LONDON Purcell and Halls worth who spent some time in East India on behalf of the British trade union congress and Labor party have written a booklet explaining the conditions of the Indian work ing classes which is a bitter indict ment of British imperialism This booklet supplements a hook written by two German Socialists Furtwaengler and Schrader who also studied conditions in East India and who recommended the worlds labor movement to take an Interest in the Indian workers Should Take Action The European trade union move ment cannot afford to let foreign imperialists hold down the workers of India to the present starvation level is the conclusion of Purcell and Hallsworth At present about six or eight workers of India to gether receive in wages only what one of the lowest paid workers of England gets Such countries as India which formerly were mainly customers of England are now developing into competitors of European and Amer ican capitalism They seek to de velop their own industries use their own natural raw materials instead of exporting"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-09-29T00:04:20.935Z",
+  "group": [
+    "ndnp/whi",
+    "wisconsin-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045293/1928-07-31/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_italico_ver01:data:sn83045293:00542869069:1928073101:0057/full/pct:3.125/0/default.jpg#h=306&w=225",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_italico_ver01:data:sn83045293:00542869069:1928073101:0057/full/pct:6.25/0/default.jpg#h=612&w=451",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/whi/batch_whi_italico_ver01/data/sn83045293/00542869069/1928073101/0057.xml&format=alto_xml"
+  ],
+  "index": 87,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "wisconsin",
+    "milwaukee"
+  ],
+  "location_city": [
+    "milwaukee"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "milwaukee"
+  ],
+  "location_state": [
+    "wisconsin"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000003",
+    "0",
+    "9",
+    "sn83045293",
+    "5",
+    "2",
+    "4",
+    "6",
+    "1",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045293"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "2",
+    "8",
+    "6",
+    "9",
+    "0",
+    "6",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83045293-1928-07-31-ed-1-0057",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the milwaukee leader (milwaukee, wis.) 1911-1938"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the milwaukee leader (milwaukee, wis.) 1911-1938"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045293/1928-07-31/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045293/1928-07-31/ed-1/"
+  ],
+  "shelf_id": "03",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "https://id.oclc.org/worldcat/entity/e39pbjj8j7dbwccgbfpvchw3cp",
+    "milwaukee (wis.)",
+    "milwaukee",
+    "socialism",
+    "wisconsin"
+  ],
+  "timestamp": "2024-09-29T00:21:35.176Z",
+  "title": "Image 3 of The Milwaukee leader (Milwaukee, Wis.), July 31, 1928, (Mail Edition)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045293/1928-07-31/ed-1/?sp=3&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwhi%2Fbatch_whi_italico_ver01%2Fdata%2Fsn83045293%2F00542869069%2F1928073101%2F0057.xml&q=fascism&relevant_snippet=1"
+}

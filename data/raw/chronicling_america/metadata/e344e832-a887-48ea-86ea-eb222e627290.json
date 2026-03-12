@@ -1,0 +1,167 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045227/1904-03-10/ed-1/?sp=2"
+  ],
+  "batch": [
+    "txdn_irion_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/texas/",
+    "2/united states/texas/bexar/",
+    "3/united states/texas/bexar/san antonio/"
+  ],
+  "contributor": [
+    "university of north texas; denton, tx"
+  ],
+  "date": "1904-03-10",
+  "dates": [
+    "1904-03-10"
+  ],
+  "description": [
+    ""
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-06-05T16:52:26.851Z",
+  "group": [
+    "ndnp/txdn",
+    "university-of-north-texas-denton-tx-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045227/1904-03-10/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_irion_ver01:data:sn83045227:0027952018A:1904031001:0240/full/pct:6.25/0/default.jpg#h=442&w=332",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_irion_ver01:data:sn83045227:0027952018A:1904031001:0240/full/pct:12.5/0/default.jpg#h=884&w=665",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/txdn/batch_txdn_irion_ver01/data/sn83045227/0027952018A/1904031001/0240.xml&format=alto_xml"
+  ],
+  "index": 200,
+  "language": [
+    "german"
+  ],
+  "location": [
+    "bexar",
+    "texas",
+    "san antonio",
+    "united states"
+  ],
+  "location_city": [
+    "san antonio"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "bexar"
+  ],
+  "location_state": [
+    "texas"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "sn83045227",
+    "0",
+    "2",
+    "0000000002",
+    "a",
+    "7",
+    "9",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045227"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "2",
+    "0",
+    "1",
+    "8",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Free press for Texas"
+  ],
+  "page_id": "sn83045227-1904-03-10-ed-1-0240",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "freie presse f\u00fcr texas (san antonio, tex.) 1865-1945"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "freie presse f\u00fcr texas (san antonio, tex.) 1865-1945"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045227/1904-03-10/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045227/1904-03-10/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "bexar",
+    "german",
+    "san antonio (tex.)",
+    "germans",
+    "german americans",
+    "texas",
+    "san antonio",
+    "united states"
+  ],
+  "subject_ethnicity": [
+    "german"
+  ],
+  "timestamp": "2025-06-11T00:34:41.507Z",
+  "title": "Image 2 of Freie Presse fu\u0308r Texas (San Antonio, Tex.), March 10, 1904",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045227/1904-03-10/ed-1/?sp=2&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Ftxdn%2Fbatch_txdn_irion_ver01%2Fdata%2Fsn83045227%2F0027952018A%2F1904031001%2F0240.xml&q=korea&relevant_snippet=1"
+}

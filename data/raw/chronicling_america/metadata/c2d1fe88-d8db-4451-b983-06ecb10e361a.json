@@ -1,0 +1,136 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85026213/1862-11-16/ed-1/?sp=3"
+  ],
+  "batch": [
+    "dlc_dunbar_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1862-11-16",
+  "dates": [
+    "1862-11-16"
+  ],
+  "description": [
+    "TARRANTS EFFERVESCENT SELTZER APERIENT This valuable and popular Medicine prepared In conform ity with the analysis of the water of Seltzer Spring in Germany in a most cpnvjiwnl and portable form has universally received the most favorable recommendations ot the Medical profession and a Discerning Public as the MOST EFFICIENT AND AGREEABLE SALINE APE Fl SENT in use and as being entitled to special reference over the many Mineral Spring Waters Seldlitz Powders and other similar articles both from its eompactnesi and greater efficacy It may be used with the best eflect In all BILIOUS AND FEBRILE DISEASES SICK HEADACHE ROSS OF APPETITE INDI GESTION AND ALL SIMILAR COM PLAINTS PECULIARLY INCIDENT TO THE SPRilfi AMD SIHILER SEASONS It is particularly adapted to the wants of Travelers by Sea and Land Residents in hot climates i arsons of Sedentary Habits Invalids and Convales cents Captains of Vessels and 1 hinders vvill find it a valuable addition to their Medicine chests With those who have used it It has high favor and h deemed indispensable IN A TORPID STATE OF THE LIVERIt renders trreat service in restoring healthy action IN GOUT AND RHEUMATISMIt gives the bt satis faction allaying all inflammatory"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-07T20:30:59.309Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85026213/1862-11-16/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026213:print00211110119:1862111601:0003/full/pct:6.25/0/default.jpg#h=468&w=342",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026213:print00211110119:1862111601:0003/full/pct:12.5/0/default.jpg#h=936&w=685",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_dunbar_ver01/data/sn85026213/print00211110119/1862111601/0003.xml&format=alto_xml"
+  ],
+  "index": 181,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "new york",
+    "new york city"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn85026213",
+    "0000000003"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85026213"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85026213-1862-11-16-ed-1-0003",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "sunday dispatch (new york [n.y.]) 1861-1863"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "sunday dispatch (new york [n.y.]) 1861-1863"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85026213/1862-11-16/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85026213/1862-11-16/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "new york",
+    "new york (state)",
+    "newspapers",
+    "new york (n.y.)"
+  ],
+  "timestamp": "2023-08-08T03:55:14.939Z",
+  "title": "Image 3 of Sunday dispatch (New York [N.Y.]), November 16, 1862",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85026213/1862-11-16/ed-1/?sp=3&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_dunbar_ver01%2Fdata%2Fsn85026213%2Fprint00211110119%2F1862111601%2F0003.xml&q=medicine&relevant_snippet=1"
+}

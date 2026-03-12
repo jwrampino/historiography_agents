@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1935-10-13/ed-1/?sp=86"
+  ],
+  "batch": [
+    "dlc_1guston_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1935-10-13",
+  "dates": [
+    "1935-10-13"
+  ],
+  "description": [
+    "The prisoners are tied to the posts as hostages Everytowns dictator scans the flaming sky Things to Come Pfew York Boston Philadelphia Ufew Orleans dusty ruins a hundred years from now t Can civilization be revived if a second great war lays waste the worldf THE STORY SO FAR A merica broken into hundreds of little independent states under military dic tators Half our people killed by war and by pes tilence spread deliberately Half our buildings wrecked by air raids industries destroyed No railroads runningNo factories open Science and invention at a standstill Chaos of the Middle Ages again That is what H G Wells predicts may happen not only to America but to most of the civilized world if there is a second Great War In this startling new serial he brings his prophecy to life by foretelling the history of Everytown for the next hundred years as revealed in the lives of a particular group of people The Great War began in 1940 This install ment shows Everytown in 1970 It has been bombed gassed and sprayed with disease germs Life is hopeless and precarious rapidly Part three of a startling new serial by H G Wells"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:37:45.102Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1935-10-13/ed-1/?sp=86",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1guston_ver01:data:sn83045462:00280602589:1935101301:0268/full/pct:6.25/0/default.jpg#h=331&w=220",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1guston_ver01:data:sn83045462:00280602589:1935101301:0268/full/pct:12.5/0/default.jpg#h=663&w=440",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1guston_ver01/data/sn83045462/00280602589/1935101301/0268.xml&format=alto_xml"
+  ],
+  "index": 185,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "district of columbia",
+    "washington d.c.",
+    "washington",
+    "united states"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "0",
+    "2",
+    "sn83045462",
+    "9",
+    "1",
+    "0000000086",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000086"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "2",
+    "5",
+    "8",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1935-10-13-ed-1-0268",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1935-10-13/ed-1/?sp=86"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1935-10-13/ed-1/"
+  ],
+  "shelf_id": "086",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)",
+    "washington",
+    "united states"
+  ],
+  "timestamp": "2022-10-24T18:57:07.496Z",
+  "title": "Image 86 of Evening star (Washington, D.C.), October 13, 1935",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1935-10-13/ed-1/?sp=86&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_1guston_ver01%2Fdata%2Fsn83045462%2F00280602589%2F1935101301%2F0268.xml&q=great+war&relevant_snippet=1"
+}

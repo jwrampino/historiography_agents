@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn94051341/1898-12-03/ed-1/?sp=9"
+  ],
+  "batch": [
+    "az_acacia_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/arizona/",
+    "2/united states/arizona/navajo/",
+    "3/united states/arizona/navajo/holbrook/"
+  ],
+  "contributor": [
+    "arizona state library, archives and public records; phoenix, az"
+  ],
+  "date": "1898-12-03",
+  "dates": [
+    "1898-12-03"
+  ],
+  "description": [
+    "f vrv 5 V SUPPLEM ENT TO THE ARGUS IT S \u00ed\u00ed V v u\u00ed 2 PRESIDENTS MESSAGE McKinley Retells the Great Story of the Late War Interesting Review of the Momentous Events of the Year CAUSES PROGRESS AM CONCLUSION OF THE tR REVIEWED The Necessity for Insuring the Speedy Building of the Nicaragua Canal Urged Strongly Upon Congress Increase of the Regular Army to 100000 Recommended Washington Following ia the full test of the message To the Senate and House of Repre setatives Notwithstanding the added burdens rendered necessary by thewai our people rejoice in a very satisfactory and steadily increasing degree of pros perity evidenced by the largest volume of business ever recorded Every man factory has been productive agricul tural pursuits have yielded abundant returnB labor in the fields of industry is better rewarded revenue legislation passed by the present Congress has in creased the treasurys receipts to the amount estimated by its authorities the finances of the Government have been successfully administered and its credit advanced to the first rank while its currency has been maintained at the worlds highest standard Military service under a common flag and for a righteous cause has strengthened the national"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-09T14:46:16.556Z",
+  "group": [
+    "ndnp/az",
+    "arizona-state-university-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn94051341/1898-12-03/ed-1/?sp=9",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_acacia_ver01:data:sn94051341:00212476444:1898120301:0522/full/pct:6.25/0/default.jpg#h=417&w=301",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_acacia_ver01:data:sn94051341:00212476444:1898120301:0522/full/pct:12.5/0/default.jpg#h=835&w=603",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/az/batch_az_acacia_ver01/data/sn94051341/00212476444/1898120301/0522.xml&format=alto_xml"
+  ],
+  "index": 97,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "navajo county",
+    "holbrook",
+    "arizona",
+    "navajo",
+    "united states"
+  ],
+  "location_city": [
+    "holbrook"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "navajo"
+  ],
+  "location_state": [
+    "arizona"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000009",
+    "sn94051341",
+    "0",
+    "2",
+    "7",
+    "1",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn94051341"
+  ],
+  "number_page": [
+    "0000000009"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "2",
+    "4",
+    "7",
+    "6",
+    "4",
+    "4",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn94051341-1898-12-03-ed-1-0522",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the argus (holbrook, ariz.) 1895-1900"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the argus (holbrook, ariz.) 1895-1900"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn94051341/1898-12-03/ed-1/?sp=9"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn94051341/1898-12-03/ed-1/"
+  ],
+  "shelf_id": "09",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "navajo county (ariz.)",
+    "navajo county",
+    "holbrook (ariz.)",
+    "holbrook",
+    "arizona",
+    "navajo",
+    "united states"
+  ],
+  "timestamp": "2024-01-09T15:02:29.226Z",
+  "title": "Image 9 of The argus (Holbrook, Ariz.), December 3, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn94051341/1898-12-03/ed-1/?sp=9&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Faz%2Fbatch_az_acacia_ver01%2Fdata%2Fsn94051341%2F00212476444%2F1898120301%2F0522.xml&q=cuba&relevant_snippet=1"
+}

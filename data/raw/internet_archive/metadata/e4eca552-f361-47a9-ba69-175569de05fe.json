@@ -1,0 +1,33 @@
+{
+  "creator": "NASA",
+  "description": "The Apollo 11 mission. Digitized, cataloged and archived by the Houston Audio Control Room, at the NASA Johnson Space Center.",
+  "format": [
+    "Abbyy GZ",
+    "Columbia Peaks",
+    "DjVu",
+    "DjVuTXT",
+    "Djvu XML",
+    "Flac",
+    "Item Tile",
+    "Metadata",
+    "Ogg Vorbis",
+    "PNG",
+    "Scandata",
+    "Single Page Processed JP2 ZIP",
+    "Spectrogram",
+    "Text",
+    "Text PDF",
+    "VBR MP3",
+    "WAVE",
+    "ZIP"
+  ],
+  "identifier": "Apollo11Audio",
+  "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "mediatype": "audio",
+  "subject": [
+    "NASA",
+    "Apollo 11",
+    "Apollo 11 MOCR ACR Collection"
+  ],
+  "title": "Apollo 11"
+}

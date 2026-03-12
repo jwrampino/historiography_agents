@@ -1,0 +1,144 @@
+{
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "note": "Some or all of the records may be subject to copyright restrictions. Researchers should contact the copyright holder for further information.",
+    "specificUseRestrictions": [
+      "Copyright"
+    ],
+    "status": "Restricted - Possibly"
+  },
+  "title": "Korea: Korea [2]",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Little Rock",
+          "phone": "501-244-2877",
+          "address1": "1200 President Clinton Avenue",
+          "postalCode": "72201",
+          "name": "William J. Clinton Library",
+          "state": "AR",
+          "fax": "501-244-2881",
+          "email": "clinton.library@nara.gov",
+          "mailCode": "LP-WJC"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper",
+          "containerId": "12"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "note": "Some records may need to be screened for personal privacy, and law enforcement under 5 U.S.C. 552 (b) prior to public release.",
+    "specificAccessRestrictions": [
+      {
+        "securityClassification": "Top Secret",
+        "restriction": "FOIA (b)(1) National Security"
+      },
+      {
+        "restriction": "FOIA (b)(3) Statute"
+      },
+      {
+        "restriction": "FOIA (b)(4) Trade Secrets and Commercial or Financial Information"
+      },
+      {
+        "restriction": "FOIA (b)(6) Personal Information"
+      },
+      {
+        "restriction": "FOIA (b)(7c) Law Enforcement"
+      },
+      {
+        "restriction": "FOIA (b)(7e) Law Enforcement"
+      },
+      {
+        "restriction": "FOIA (b)(7f) Law Enforcement"
+      }
+    ],
+    "status": "Restricted - Partly"
+  },
+  "dataControlGroup": {
+    "groupId": "ou=NLWJC,ou=groups",
+    "groupCd": "LPWJC"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "LPWJC 2009-0528-F (Seg 1)",
+      "type": "FOIA Tracking Number"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "7585591-20090528F-Seg1-012-001-2016.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/foia/2016/Batch0001/7585591-20090528F-Seg1-012-001-2016.pdf",
+      "objectFileSize": 1234,
+      "objectId": "286274039",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "otherTitles": [
+    "7585591-20090528F-Seg1-012-001-2016"
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "WJC-NSCIE",
+      "inclusiveStartDate": {
+        "dateQualifier": "ca.",
+        "year": 1993,
+        "logicalDate": "1993-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "dateQualifier": "ca.",
+        "year": 2001,
+        "logicalDate": "2001-12-31"
+      },
+      "title": "Records of the National Security Council International Economic Affairs Office (Clinton Administration)",
+      "naId": 7387655
+    },
+    {
+      "inclusiveStartDate": {
+        "dateQualifier": "ca.",
+        "year": 1993,
+        "logicalDate": "1993-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "President (1993-2001 : Clinton). National Security Council. (1993 - 2001)",
+          "abolishDate": {
+            "year": 2001,
+            "logicalDate": "2001-12-31"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1993,
+            "logicalDate": "1993-01-01"
+          },
+          "naId": 10500730
+        }
+      ],
+      "inclusiveEndDate": {
+        "dateQualifier": "ca.",
+        "year": 1997,
+        "logicalDate": "1997-12-31"
+      },
+      "title": "Helen Walsh's Files",
+      "naId": 7585591
+    }
+  ],
+  "naId": 286274038
+}

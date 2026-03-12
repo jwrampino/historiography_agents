@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86063034/1899-04-16/ed-1/?sp=13"
+  ],
+  "batch": [
+    "gu_fletcher_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/georgia/",
+    "2/united states/georgia/chatham/",
+    "3/united states/georgia/chatham/savannah/"
+  ],
+  "contributor": [
+    "digital library of georgia, a project of galileo located at the university of georgia libraries"
+  ],
+  "date": "1899-04-16",
+  "dates": [
+    "1899-04-16"
+  ],
+  "description": [
+    "WHAT TO DO WITH CUBA EMINENT AMERICANS GIVE THEIR VIEWS ON THE SUBJECT Gtu M C Butler of the Evacuation Commission Speaks for the Army Ilishop Hotter for the Clergy T Estrada Palma of the Cuban Jun ta for the Cubans Henry Clews lor Wall Street Senator Chandler and evGovernor C H Grosvenor lor Congress Edward Atkinson for the ntilmperlalists Booker T Washington for the Southern Ne jo and W J Bryan for the West New York April 161n order to obtain the opinion of a number of eminent Amer icans on the disposition of Cuba the fol ding questions were propounded to them 1 What do you think of the alleged purpose of continuing the military occu pation of Cuba until the Cubans in de spair ask for annexation 2 Is annexation desired by the Ameri can people Or by the Cubans 3 Should the Cubans be permitted to tnjoy recognized independence before the question of annexation is agitated 4 When and how should Cuba be evac uated Gen Butler Speaks Gen I C Butler of South Carolina who was a member of the evacuation commission and who is thoroughly in formed on Cuban afTairs writes as fol lows"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-05-22T12:56:32.878Z",
+  "group": [
+    "ndnp/gu",
+    "digital-library-of-georgia-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86063034/1899-04-16/ed-1/?sp=13",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182264:1899041601:1163/full/pct:6.25/0/default.jpg#h=412&w=323",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182264:1899041601:1163/full/pct:12.5/0/default.jpg#h=824&w=647",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/gu/batch_gu_fletcher_ver01/data/sn86063034/00414182264/1899041601/1163.xml&format=alto_xml"
+  ],
+  "index": 50,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "georgia",
+    "united states",
+    "savannah",
+    "chatham county",
+    "chatham"
+  ],
+  "location_city": [
+    "savannah"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "chatham"
+  ],
+  "location_state": [
+    "georgia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "8",
+    "6",
+    "sn86063034",
+    "0000000013",
+    "4",
+    "2",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86063034"
+  ],
+  "number_page": [
+    "0000000013"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "1",
+    "8",
+    "2",
+    "2",
+    "6",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Savannah morning news",
+    "Sunday issue may sometimes be known as: Sunday news",
+    "Sunday issue may sometimes be known as: Sunday morning news"
+  ],
+  "page_id": "sn86063034-1899-04-16-ed-1-1163",
+  "partof": [
+    "the morning news (savannah, ga.) 1887-1900",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the morning news (savannah, ga.) 1887-1900"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86063034/1899-04-16/ed-1/?sp=13"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86063034/1899-04-16/ed-1/"
+  ],
+  "shelf_id": "13",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "georgia",
+    "united states",
+    "savannah",
+    "savannah (ga.)",
+    "newspapers",
+    "chatham county",
+    "chatham county (ga.)",
+    "chatham"
+  ],
+  "timestamp": "2024-05-22T21:35:00.188Z",
+  "title": "Image 13 of The morning news (Savannah, Ga.), April 16, 1899",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86063034/1899-04-16/ed-1/?sp=13&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fgu%2Fbatch_gu_fletcher_ver01%2Fdata%2Fsn86063034%2F00414182264%2F1899041601%2F1163.xml&q=cuba&relevant_snippet=1"
+}

@@ -1,0 +1,167 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85058130/1898-06-24/ed-1/?sp=1"
+  ],
+  "batch": [
+    "uuml_collins_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/utah/",
+    "2/united states/utah/salt lake/",
+    "3/united states/utah/salt lake/salt lake city/"
+  ],
+  "contributor": [
+    "university of utah, marriott library"
+  ],
+  "date": "1898-06-24",
+  "dates": [
+    "1898-06-24"
+  ],
+  "description": [
+    "it I TIlE SALT LAKE HERALD i TWENTYEIGHTH YEAR SALT LAKE CITY UTJIH FRIDAY JUNE 24 1898 NU1BER 109 SPANIARDS ERE f ROUTED AND SIXTY WfRf KLLEO First Engagement Between American Land Forces and the Enemy In Cuba DETACHMENT OF SHAFTERS ARMY PUT 450 SPANIARDS TO FLIGHT Spanish Reports Admit It Was a Bloody Engagement and They Were Forced to Retreat r New York June 23The first offi cial cablegram received by the Cuban junta from their government since the breaking out of the war was received here today by Senor T Estrada Palma It was as follows Playa del Este June 22We are at Guantanamo Position taken from the nemy at Playa del Este Fought with 200 Americans and 50 Cubans against 450 Spaniards Complete rout Ene mys flight was shameful We captured 18 prisoners one officer Sixty of the enemy are dead and 16 wounded Two officers were killed On our part we had two killed and three wounded We captured 2S Mau ser rifles and 3000 cartridges Today the forces of General Rabi and Brigadier Castillo took Baiquiri with the aid of the American vessels Spaniards set fire to the town on re treating Sixteen thousand American"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T15:54:36.014Z",
+  "group": [
+    "ndnp/uuml",
+    "university-of-utah-marriott-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85058130/1898-06-24/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:00206534771:1898062401:0545/full/pct:3.125/0/default.jpg#h=281&w=199",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:00206534771:1898062401:0545/full/pct:6.25/0/default.jpg#h=562&w=399",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:00206534771:1898062401:0545/full/pct:12.5/0/default.jpg#h=1125&w=799",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/uuml/batch_uuml_collins_ver01/data/sn85058130/00206534771/1898062401/0545.xml&format=alto_xml"
+  ],
+  "index": 116,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "utah",
+    "salt lake county",
+    "united states",
+    "salt lake city",
+    "salt lake"
+  ],
+  "location_city": [
+    "salt lake city"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "salt lake"
+  ],
+  "location_state": [
+    "utah"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000001",
+    "2",
+    "6",
+    "5",
+    "3",
+    "sn85058130",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85058130"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "6",
+    "5",
+    "3",
+    "4",
+    "7",
+    "7",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Salt Lake daily herald",
+    "Sunday herald"
+  ],
+  "page_id": "sn85058130-1898-06-24-ed-1-0545",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the salt lake herald (salt lake city [utah]) 1870-1909"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the salt lake herald (salt lake city [utah]) 1870-1909"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85058130/1898-06-24/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85058130/1898-06-24/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "salt lake county (utah)",
+    "utah",
+    "salt lake county",
+    "salt lake city (utah)",
+    "united states",
+    "newspapers",
+    "salt lake city",
+    "salt lake"
+  ],
+  "timestamp": "2022-11-28T02:20:43.937Z",
+  "title": "Image 1 of The Salt Lake herald (Salt Lake City [Utah]), June 24, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85058130/1898-06-24/ed-1/?sp=1&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fuuml%2Fbatch_uuml_collins_ver01%2Fdata%2Fsn85058130%2F00206534771%2F1898062401%2F0545.xml&q=manifest+destiny&relevant_snippet=1"
+}

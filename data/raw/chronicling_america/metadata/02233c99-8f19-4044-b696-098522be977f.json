@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85038153/1898-11-18/ed-1/?sp=1"
+  ],
+  "batch": [
+    "ohi_odoric_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/logan/",
+    "3/united states/ohio/logan/bellefontaine/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1898-11-18",
+  "dates": [
+    "1898-11-18"
+  ],
+  "description": [
+    "Oetthe Republican To Do Your PRINTING Official Paper Of the City VOLUME XLIV BELLEFONTAINE LOGAN COUNTY OHIO FRIDAY NOVEMBER 18 1898 NUMBER 92 W whose house is conspicuously clean whose work worries her least whose leisure time is greatest how she manages The chances are ten to one she will answer I do all my cleaning with i Sold by all grocers Largest package greatest economy THE N K FAIRBANK COMPANY Chicago BU Louis New York Boston Philadelphia GO TO BARTHAMS IF YOU WANT A Fall Suit A Single Garment Fashionable Goods and A Meat Fit WEST COLUMBUS AV BELLEFONTAINE September 23 1898 THE SAMPSON REPORT Inside Story of the Bottling of Cerveras Fleet ALLEGED SLOWHESS OP BOHLET Remained at Clenfueeos Long After the K11T7 Department Had Locat ed Cfnera In Santiago Enemy Had a Chance to Coal and Escape Schleys Proposed Return to Key West at a Critical Time Sampson Versns Shatter Secretary Lone has made public the report submitted by Bear Admiral Sampson covering the conduct of the north Altantio fleet in its operations ending with the destruction of the Spanish sqnadron This report is one of the appendices to the report of Captain A S Crowninshield chief"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:23:21.728Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85038153/1898-11-18/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038153:00415665830:1898111801:0091/full/pct:6.25/0/default.jpg#h=460&w=392",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038153:00415665830:1898111801:0091/full/pct:12.5/0/default.jpg#h=921&w=784",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_odoric_ver01/data/sn85038153/00415665830/1898111801/0091.xml&format=alto_xml"
+  ],
+  "index": 48,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "logan",
+    "ohio",
+    "bellefontaine",
+    "united states"
+  ],
+  "location_city": [
+    "bellefontaine"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "logan"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "0",
+    "3",
+    "1",
+    "0000000001",
+    "sn85038153",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85038153"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "6",
+    "5",
+    "8",
+    "3",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85038153-1898-11-18-ed-1-0091",
+  "partof": [
+    "the bellefontaine republican (bellefontaine, logan county, ohio) 1855-1905",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the bellefontaine republican (bellefontaine, logan county, ohio) 1855-1905"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85038153/1898-11-18/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85038153/1898-11-18/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "bellefontaine (ohio)",
+    "ohio",
+    "bellefontaine",
+    "logan",
+    "united states"
+  ],
+  "timestamp": "2023-09-06T07:08:12.252Z",
+  "title": "Image 1 of The Bellefontaine Republican (Bellefontaine, Logan County, Ohio), November 18, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85038153/1898-11-18/ed-1/?sp=1&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_odoric_ver01%2Fdata%2Fsn85038153%2F00415665830%2F1898111801%2F0091.xml&q=spanish&relevant_snippet=1"
+}

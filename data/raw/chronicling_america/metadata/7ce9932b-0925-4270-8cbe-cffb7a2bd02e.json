@@ -1,0 +1,167 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83030214/1922-10-08/ed-1/?sp=68"
+  ],
+  "batch": [
+    "dlc_jones_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1922-10-08",
+  "dates": [
+    "1922-10-08"
+  ],
+  "description": [
+    "SIR THOMAS LIPTON speaking from New ark endeavors to get London on the radio phone but is unsuccessful although a cable from the other side reported the London sta tion as picking up the broadcast musical numbers The famous sportsman saya he is going to keep on trying until London does hear him through the ether xadet 4 Harbart THE EIGHTEENTH GREEN AT GREENBRIER A picturesque view of the clubhouse and final green at White Sulphur Springs W Va during the playing of the womans national golf championship last week snapped dur ing the sensational third round match between Miss Alexa Stirling of At lanta and Mrs W A Gavin of Eng land which was won by the latter t up when she laid the New York bond saleswoman a stymie on the eighteenth green jvick GOVERNOR OP THE PHILLIPINES Major General Leonard Wood pictured demonstrating with the aid of an accom modating friend his profi ciency in the manly art of selfdefense The Gover nor an adept at boxinjr ever since his old days at West Point is encourag ing the use of the padded gloves among the Filipin os as he claims it tends toward creating a strong"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-12-09T13:44:49.657Z",
+  "group": [
+    "ndnp/dlc-2009_2010",
+    "library-of-congress-washington-dc-awardee-3"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83030214/1922-10-08/ed-1/?sp=68",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jones_ver01:data:sn83030214:00206532798:1922100801:0302/full/pct:6.25/0/default.jpg#h=498&w=380",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jones_ver01:data:sn83030214:00206532798:1922100801:0302/full/pct:12.5/0/default.jpg#h=997&w=761",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_jones_ver01/data/sn83030214/00206532798/1922100801/0302.xml&format=alto_xml"
+  ],
+  "index": 58,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "new york county",
+    "new york city",
+    "new york"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "9",
+    "5",
+    "6",
+    "2",
+    "0000000068",
+    "1",
+    "sn83030214",
+    "7",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83030214"
+  ],
+  "number_page": [
+    "0000000068"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "6",
+    "5",
+    "3",
+    "2",
+    "7",
+    "9",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Due to strike, published jointly with other newspapers as: Combined New York morning newspapers",
+    "Combined New York Sunday newspapers",
+    "New-York daily tribune"
+  ],
+  "page_id": "sn83030214-1922-10-08-ed-1-0302",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "new-york tribune (new york [n.y.]) 1866-1924"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "new-york tribune (new york [n.y.]) 1866-1924"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83030214/1922-10-08/ed-1/?sp=68"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83030214/1922-10-08/ed-1/"
+  ],
+  "shelf_id": "068",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "https://id.oclc.org/worldcat/entity/e39pbjpj8ktvrv6gp6v6tp7pwc",
+    "new york (n.y.)",
+    "united states",
+    "newspapers",
+    "new york",
+    "new york (state)",
+    "https://id.oclc.org/worldcat/entity/e39qbtfrvqh7864jh4rdgbfdwc",
+    "new york county",
+    "new york county (n.y.)"
+  ],
+  "timestamp": "2024-12-10T11:15:32.399Z",
+  "title": "Image 68 of New-York tribune (New York [N.Y.]), October 8, 1922",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83030214/1922-10-08/ed-1/?sp=68&q=phillipines",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_jones_ver01%2Fdata%2Fsn83030214%2F00206532798%2F1922100801%2F0302.xml&q=phillipines&relevant_snippet=1"
+}

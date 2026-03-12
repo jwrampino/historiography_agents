@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85047084/1904-11-20/ed-1/?sp=4"
+  ],
+  "batch": [
+    "hihouml_ferdinand_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/hawaii/",
+    "2/united states/hawaii/honolulu/",
+    "3/united states/hawaii/honolulu/honolulu/"
+  ],
+  "contributor": [
+    "university of hawaii at manoa; honolulu, hi"
+  ],
+  "date": "1904-11-20",
+  "dates": [
+    "1904-11-20"
+  ],
+  "description": [
+    "SUNDAY unday Advertiser WALTER G SMITH EDITOR SUNDAY NOVEMBER so THE MYSTERIOUS COMMISSION We have received the following letter from a citizen of Olaa who has been conspicuous in his efforts for many years past to apply American ideas to the Hawaiian land policy always a task of difficulty Mountain View Hawaii November 18 1904 Editor Advertiser Although I am a squatter an ignorant squatter if you please I appreciate your efforts to show that there is room for something besides the planer and the coolie m this Tern Through the columns of the Advertiser we were enabled to find out something about The Pinkham Commission but not as much as we would like to know f The members of that commission were driven by team from Hilo to the Volcano House in one daya distance of thirtyone miles up hill and no one about here knew who they were or what they were 7 here for 0 They passed by such fine farms as those of Peter Lee Dr Kussel v Itens Junkins and others without inquiry and seemed to have been trying to avoid information rather than trying to gain it Will you kindly inform the public who"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T08:02:55.753Z",
+  "group": [
+    "ndnp/hihouml",
+    "university-of-hawaii-at-manoa-honolulu-hi-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85047084/1904-11-20/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ferdinand_ver01:data:sn85047084:00294557398:1904112001:0197/full/pct:3.125/0/default.jpg#h=259&w=187",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ferdinand_ver01:data:sn85047084:00294557398:1904112001:0197/full/pct:6.25/0/default.jpg#h=518&w=375",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ferdinand_ver01:data:sn85047084:00294557398:1904112001:0197/full/pct:12.5/0/default.jpg#h=1037&w=750",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/hihouml/batch_hihouml_ferdinand_ver01/data/sn85047084/00294557398/1904112001/0197.xml&format=alto_xml"
+  ],
+  "index": 168,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "honolulu",
+    "united states",
+    "hawaii"
+  ],
+  "location_city": [
+    "honolulu"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "honolulu"
+  ],
+  "location_state": [
+    "hawaii"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn85047084",
+    "0000000004",
+    "9",
+    "2",
+    "8",
+    "5",
+    "3",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85047084"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "4",
+    "5",
+    "5",
+    "7",
+    "3",
+    "9",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Daily Pacific commercial advertiser",
+    "Sunday advertiser"
+  ],
+  "page_id": "sn85047084-1904-11-20-ed-1-0197",
+  "partof": [
+    "the pacific commercial advertiser (honolulu, hawaiian islands) 1885-1921",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the pacific commercial advertiser (honolulu, hawaiian islands) 1885-1921"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85047084/1904-11-20/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85047084/1904-11-20/ed-1/"
+  ],
+  "shelf_id": "04",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "honolulu",
+    "honolulu (hawaii)",
+    "united states",
+    "newspapers",
+    "hawaii"
+  ],
+  "timestamp": "2022-11-21T21:31:01.661Z",
+  "title": "Image 4 of The Pacific commercial advertiser (Honolulu, Hawaiian Islands), November 20, 1904, (Sunday Edition)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85047084/1904-11-20/ed-1/?sp=4&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fhihouml%2Fbatch_hihouml_ferdinand_ver01%2Fdata%2Fsn85047084%2F00294557398%2F1904112001%2F0197.xml&q=manifest+destiny&relevant_snippet=1"
+}

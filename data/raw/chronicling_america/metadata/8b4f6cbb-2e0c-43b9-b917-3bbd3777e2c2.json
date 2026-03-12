@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86075141/1950-07-13/ed-1/?sp=1"
+  ],
+  "batch": [
+    "mthi_horsetail_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/silver bow/",
+    "3/united states/montana/silver bow/butte/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1950-07-13",
+  "dates": [
+    "1950-07-13"
+  ],
+  "description": [
+    "r Tuesday July 18 th Prim ary Election D ayTe Montana Labor News a VOTE YOUR DUTY YOUR DUTY VOTE PUBLISHED WEEKLY IN THE INTEHESTS OF OKANIZEI LA BOH rMISER JK Bl i I I Ml 1 ST VS V TH 2 VOI IMIi XXVI Korean War Holds Mansfield In Washington t filialviiiii Mik Mansfield vvi ml lu aille in return tu Montana election according I I Sullivan who ar Snllivan to the primary hi icretary tiled in Until reeentl It i the t aigre man luted to the tail for the 1 j intention to come elei ti ii Inil due to the tact tin ike primary I re i War Korean dent Truman ha a keil him to lay in aliinl ai dnniig the crisis 1 i Man field wide km nil l nl the v aiw dgc iar eastern aiiair I lie Ilt Vldeill I ailed t oltgi i I I t I Mailfield to the While House irai time during the lal tin day e _Tth President Truman el hi 1m ailed Mansfield to il in at a uli the Joint I liiei ol SlaiI ud other advisor 1 the President It was the the President"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:47:29.733Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86075141/1950-07-13/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_horsetail_ver01:data:sn86075141:00340581945:1950071301:0358/full/pct:6.25/0/default.jpg#h=472&w=345",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_horsetail_ver01:data:sn86075141:00340581945:1950071301:0358/full/pct:12.5/0/default.jpg#h=945&w=691",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_horsetail_ver01/data/sn86075141/00340581945/1950071301/0358.xml&format=alto_xml"
+  ],
+  "index": 91,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "butte",
+    "montana",
+    "silver bow"
+  ],
+  "location_city": [
+    "butte"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "silver bow"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "8",
+    "5",
+    "9",
+    "4",
+    "sn86075141",
+    "3",
+    "0",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86075141"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "1",
+    "9",
+    "4",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86075141-1950-07-13-ed-1-0358",
+  "partof": [
+    "montana labor news (butte, mont.) 19??-1951",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "montana labor news (butte, mont.) 19??-1951"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86075141/1950-07-13/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86075141/1950-07-13/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "montana",
+    "butte",
+    "silver bow"
+  ],
+  "timestamp": "2023-07-06T04:17:08.940Z",
+  "title": "Image 1 of Montana labor news (Butte, Mont.), July 13, 1950",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86075141/1950-07-13/ed-1/?sp=1&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_horsetail_ver01%2Fdata%2Fsn86075141%2F00340581945%2F1950071301%2F0358.xml&q=korea&relevant_snippet=1"
+}

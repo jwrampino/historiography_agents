@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045293/1918-09-19/ed-1/?sp=2"
+  ],
+  "batch": [
+    "whi_dubliner_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/wisconsin/",
+    "2/united states/wisconsin/milwaukee/",
+    "3/united states/wisconsin/milwaukee/milwaukee/"
+  ],
+  "contributor": [
+    "wisconsin historical society"
+  ],
+  "date": "1918-09-19",
+  "dates": [
+    "1918-09-19"
+  ],
+  "description": [
+    "TWO Draft Roundup In New Y ork Likened to Zabern Incident No Event in Entire Period of War Has so Aroused Senate as Arrest of Some 60000 Per sons in Metropolis THE LEADERS WASHINGTON BUREAU WASHINGTON Socialist newspa peny so long as they are permitted by the postmaster general to be pub lished may print direct quotations from The Congressional Record Under that legal safeguard it is possible for readers in Milwaukee to learn that the wholesale arrest of citizens in New York city suspected of being within the draft ages and having no proof to the contrary and no registration cards on their per sons was bitterly denounced in the senate of the United States Senator Sherman Illinois went so far as to liken the New York affair to the Zabern incident Johnson California described it as a reign of terrorism STANDPATS ARE ANGRY No event of the entire war period within the United States has so aroused the senate as the arrest of some 60000 persons in New York city in three days on suspicion of their being evaders of the draft Po litical reactionaries such as Calder New York Brandegee Connecticut Sherman Smoot Utah and Fall New"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-04-06T23:51:52.821Z",
+  "group": [
+    "ndnp/whi",
+    "wisconsin-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045293/1918-09-19/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dubliner_ver02:data:sn83045293:00517012440:1918091901:0290/full/pct:3.125/0/default.jpg#h=307&w=222",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dubliner_ver02:data:sn83045293:00517012440:1918091901:0290/full/pct:6.25/0/default.jpg#h=614&w=444",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/whi/batch_whi_dubliner_ver02/data/sn83045293/00517012440/1918091901/0290.xml&format=alto_xml"
+  ],
+  "index": 53,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "wisconsin",
+    "milwaukee"
+  ],
+  "location_city": [
+    "milwaukee"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "milwaukee"
+  ],
+  "location_state": [
+    "wisconsin"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "5",
+    "1",
+    "2",
+    "4",
+    "7",
+    "0000000002",
+    "sn83045293"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045293"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "0",
+    "1",
+    "2",
+    "4",
+    "4",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83045293-1918-09-19-ed-1-0290",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the milwaukee leader (milwaukee, wis.) 1911-1938"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the milwaukee leader (milwaukee, wis.) 1911-1938"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045293/1918-09-19/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045293/1918-09-19/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "milwaukee (wis.)",
+    "milwaukee",
+    "socialism",
+    "wisconsin"
+  ],
+  "timestamp": "2024-04-07T00:04:05.399Z",
+  "title": "Image 2 of The Milwaukee leader (Milwaukee, Wis.), September 19, 1918",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045293/1918-09-19/ed-1/?sp=2&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwhi%2Fbatch_whi_dubliner_ver02%2Fdata%2Fsn83045293%2F00517012440%2F1918091901%2F0290.xml&q=terrorism&relevant_snippet=1"
+}

@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn90059228/1898-04-21/ed-1/?sp=2"
+  ],
+  "batch": [
+    "mnhi_orr_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/minnesota/",
+    "2/united states/minnesota/marshall/",
+    "3/united states/minnesota/marshall/warren/"
+  ],
+  "contributor": [
+    "minnesota historical society; saint paul, mn"
+  ],
+  "date": "1898-04-21",
+  "dates": [
+    "1898-04-21"
+  ],
+  "description": [
+    "fyfi JonN P MATTSON Editor and Prop WARREN MINN APRIL1898 Sun Mon Tue Wed Thur O Fri 12 Sat 8 1 3 24 J4 21 28F J8 25 IS 22 26 TTX FT 16 20 27 23 F29 5 FT FTT 5 30 Happenings of the Past Seven Days in Brief ROUND ABOUT THE WORLD Casualties and Fires Personal and Po litical Notes Business Failures and Resumptions Weather Eecord INTELLIGENCE FROM ALL PARTS CONGRESSIONAL Proceedings of First Regular Session A joint resolution was introduced in the senate on the 13th demanding the freedom of Cuba from Spanush rule and authorizing the pi evident to use the entire land and naval forces of the United States to ac complish this lesult A minority resolu tion recognizes the present republic of Cuba Action was deteired for one day In the house a joint lesolution providing for im mediate aimed intervention to secure an indeperdert governmert for Cuba was passed a vote of 322 to 19 A minority resolution fav ors recognizing the Cuban republic During the debate excited mem bers passed tne lie and a fight was narrow ly averted The senate had under consideration on the 14th the resolution favoring immediate"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-04T17:05:03.348Z",
+  "group": [
+    "ndnp/mnhi",
+    "minnesota-historical-society-saint-paul-mn-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn90059228/1898-04-21/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:00280766458:1898042101:0139/full/pct:3.125/0/default.jpg#h=256&w=170",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:00280766458:1898042101:0139/full/pct:6.25/0/default.jpg#h=513&w=340",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:00280766458:1898042101:0139/full/pct:12.5/0/default.jpg#h=1026&w=681",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mnhi/batch_mnhi_orr_ver01/data/sn90059228/00280766458/1898042101/0139.xml&format=alto_xml"
+  ],
+  "index": 66,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "warren",
+    "marshall",
+    "minnesota"
+  ],
+  "location_city": [
+    "warren"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "marshall"
+  ],
+  "location_state": [
+    "minnesota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "5",
+    "7",
+    "4",
+    "sn90059228",
+    "0000000002",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn90059228"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "7",
+    "6",
+    "6",
+    "4",
+    "5",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn90059228-1898-04-21-ed-1-0139",
+  "partof": [
+    "warren sheaf (warren, marshall county, minn.) 1880-current",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "warren sheaf (warren, marshall county, minn.) 1880-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn90059228/1898-04-21/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn90059228/1898-04-21/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "warren (minn.)",
+    "newspapers",
+    "marshall",
+    "minnesota",
+    "warren"
+  ],
+  "timestamp": "2024-01-05T11:53:56.087Z",
+  "title": "Image 2 of Warren sheaf (Warren, Marshall County, Minn.), April 21, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn90059228/1898-04-21/ed-1/?sp=2&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmnhi%2Fbatch_mnhi_orr_ver01%2Fdata%2Fsn90059228%2F00280766458%2F1898042101%2F0139.xml&q=cuba&relevant_snippet=1"
+}

@@ -1,0 +1,873 @@
+{
+  "dataControlGroup": {
+    "groupId": "ou=RDTP1,ou=groups",
+    "groupCd": "RDTP1"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "digitalObjects": [
+    {
+      "objectFilename": "RG-19-1688027_035_061_001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_001.jpg",
+      "objectFileSize": 769108,
+      "objectId": "134900708",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_002.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_002.jpg",
+      "objectFileSize": 756440,
+      "objectId": "134900709",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_003.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_003.jpg",
+      "objectFileSize": 806825,
+      "objectId": "134900710",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_004.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_004.jpg",
+      "objectFileSize": 847968,
+      "objectId": "134900711",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_005.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_005.jpg",
+      "objectFileSize": 743824,
+      "objectId": "134900712",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_006.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_006.jpg",
+      "objectFileSize": 831116,
+      "objectId": "134900713",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_007.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_007.jpg",
+      "objectFileSize": 817224,
+      "objectId": "134900714",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_008.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_008.jpg",
+      "objectFileSize": 910332,
+      "objectId": "134900715",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_009.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_009.jpg",
+      "objectFileSize": 844672,
+      "objectId": "134900716",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_010.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_010.jpg",
+      "objectFileSize": 771612,
+      "objectId": "134900717",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_011.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_011.jpg",
+      "objectFileSize": 967824,
+      "objectId": "134900718",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_012.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_012.jpg",
+      "objectFileSize": 934916,
+      "objectId": "134900719",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_013.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_013.jpg",
+      "objectFileSize": 861170,
+      "objectId": "134900720",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_014.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_014.jpg",
+      "objectFileSize": 928366,
+      "objectId": "134900721",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_015.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_015.jpg",
+      "objectFileSize": 862912,
+      "objectId": "134900722",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_016.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_016.jpg",
+      "objectFileSize": 940210,
+      "objectId": "134900723",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_017.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_017.jpg",
+      "objectFileSize": 1043272,
+      "objectId": "134900724",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_018.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_018.jpg",
+      "objectFileSize": 1001075,
+      "objectId": "134900725",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_019.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_019.jpg",
+      "objectFileSize": 1045141,
+      "objectId": "134900726",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_020.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_020.jpg",
+      "objectFileSize": 921624,
+      "objectId": "134900727",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_021.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_021.jpg",
+      "objectFileSize": 869838,
+      "objectId": "134900728",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_022.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_022.jpg",
+      "objectFileSize": 872302,
+      "objectId": "134900729",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_023.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_023.jpg",
+      "objectFileSize": 1038695,
+      "objectId": "134900730",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_024.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_024.jpg",
+      "objectFileSize": 1014725,
+      "objectId": "134900731",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_025.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_025.jpg",
+      "objectFileSize": 1017543,
+      "objectId": "134900732",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_026.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_026.jpg",
+      "objectFileSize": 893465,
+      "objectId": "134900733",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_027.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_027.jpg",
+      "objectFileSize": 928418,
+      "objectId": "134900734",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_028.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_028.jpg",
+      "objectFileSize": 858290,
+      "objectId": "134900735",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_029.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_029.jpg",
+      "objectFileSize": 1023436,
+      "objectId": "134900736",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_030.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_030.jpg",
+      "objectFileSize": 1008760,
+      "objectId": "134900737",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_031.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_031.jpg",
+      "objectFileSize": 938040,
+      "objectId": "134900738",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_032.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_032.jpg",
+      "objectFileSize": 839120,
+      "objectId": "134900739",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_033.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_033.jpg",
+      "objectFileSize": 792992,
+      "objectId": "134900740",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_034.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_034.jpg",
+      "objectFileSize": 919824,
+      "objectId": "134900741",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_035.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_035.jpg",
+      "objectFileSize": 921676,
+      "objectId": "134900742",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_036.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_036.jpg",
+      "objectFileSize": 942059,
+      "objectId": "134900743",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_037.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_037.jpg",
+      "objectFileSize": 865340,
+      "objectId": "134900744",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_038.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_038.jpg",
+      "objectFileSize": 1063957,
+      "objectId": "134900745",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_039.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_039.jpg",
+      "objectFileSize": 979613,
+      "objectId": "134900746",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_040.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_040.jpg",
+      "objectFileSize": 1003877,
+      "objectId": "134900747",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_041.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_041.jpg",
+      "objectFileSize": 849742,
+      "objectId": "134900748",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_042.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_042.jpg",
+      "objectFileSize": 826935,
+      "objectId": "134900749",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_043.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_043.jpg",
+      "objectFileSize": 863036,
+      "objectId": "134900750",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_044.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_044.jpg",
+      "objectFileSize": 966985,
+      "objectId": "134900751",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_045.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_045.jpg",
+      "objectFileSize": 733683,
+      "objectId": "134900752",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_046.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_046.jpg",
+      "objectFileSize": 914647,
+      "objectId": "134900753",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_047.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_047.jpg",
+      "objectFileSize": 1062632,
+      "objectId": "134900754",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_048.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_048.jpg",
+      "objectFileSize": 1022035,
+      "objectId": "134900755",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_049.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_049.jpg",
+      "objectFileSize": 967081,
+      "objectId": "134900756",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_050.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_050.jpg",
+      "objectFileSize": 1019291,
+      "objectId": "134900757",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_051.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_051.jpg",
+      "objectFileSize": 1050044,
+      "objectId": "134900758",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_052.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_052.jpg",
+      "objectFileSize": 1055792,
+      "objectId": "134900759",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_053.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_053.jpg",
+      "objectFileSize": 932537,
+      "objectId": "134900760",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_054.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_054.jpg",
+      "objectFileSize": 1018150,
+      "objectId": "134900761",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_055.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_055.jpg",
+      "objectFileSize": 819327,
+      "objectId": "134900762",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_056.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_056.jpg",
+      "objectFileSize": 816117,
+      "objectId": "134900763",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_057.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_057.jpg",
+      "objectFileSize": 842377,
+      "objectId": "134900764",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_058.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_058.jpg",
+      "objectFileSize": 777543,
+      "objectId": "134900765",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_059.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_059.jpg",
+      "objectFileSize": 930515,
+      "objectId": "134900766",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_060.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_060.jpg",
+      "objectFileSize": 889452,
+      "objectId": "134900767",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_061.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_061.jpg",
+      "objectFileSize": 958561,
+      "objectId": "134900768",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_062.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_062.jpg",
+      "objectFileSize": 923776,
+      "objectId": "134900769",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_063.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_063.jpg",
+      "objectFileSize": 964224,
+      "objectId": "134900770",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_064.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_064.jpg",
+      "objectFileSize": 992077,
+      "objectId": "134900771",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_065.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_065.jpg",
+      "objectFileSize": 963655,
+      "objectId": "134900772",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_066.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_066.jpg",
+      "objectFileSize": 897280,
+      "objectId": "134900773",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_067.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_067.jpg",
+      "objectFileSize": 1041970,
+      "objectId": "134900774",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_068.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_068.jpg",
+      "objectFileSize": 862912,
+      "objectId": "134900775",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_069.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_069.jpg",
+      "objectFileSize": 1002843,
+      "objectId": "134900776",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_070.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_070.jpg",
+      "objectFileSize": 1006444,
+      "objectId": "134900777",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_071.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_071.jpg",
+      "objectFileSize": 884770,
+      "objectId": "134900778",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_072.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_072.jpg",
+      "objectFileSize": 994429,
+      "objectId": "134900779",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_073.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_073.jpg",
+      "objectFileSize": 957121,
+      "objectId": "134900780",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_074.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_074.jpg",
+      "objectFileSize": 1062569,
+      "objectId": "134900781",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_075.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_075.jpg",
+      "objectFileSize": 1035640,
+      "objectId": "134900782",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_076.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_076.jpg",
+      "objectFileSize": 1111274,
+      "objectId": "134900783",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_077.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_077.jpg",
+      "objectFileSize": 1004617,
+      "objectId": "134900784",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_078.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_078.jpg",
+      "objectFileSize": 1067636,
+      "objectId": "134900785",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_079.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_079.jpg",
+      "objectFileSize": 869795,
+      "objectId": "134900786",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_080.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_080.jpg",
+      "objectFileSize": 977309,
+      "objectId": "134900787",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_081.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_081.jpg",
+      "objectFileSize": 967244,
+      "objectId": "134900788",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_082.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_082.jpg",
+      "objectFileSize": 869749,
+      "objectId": "134900789",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_083.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_083.jpg",
+      "objectFileSize": 935190,
+      "objectId": "134900790",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_084.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_084.jpg",
+      "objectFileSize": 852242,
+      "objectId": "134900791",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_085.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_085.jpg",
+      "objectFileSize": 974464,
+      "objectId": "134900792",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_086.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_086.jpg",
+      "objectFileSize": 942542,
+      "objectId": "134900793",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_087.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_087.jpg",
+      "objectFileSize": 1086885,
+      "objectId": "134900794",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_088.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_088.jpg",
+      "objectFileSize": 975342,
+      "objectId": "134900795",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_089.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_089.jpg",
+      "objectFileSize": 976540,
+      "objectId": "134900796",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_090.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_090.jpg",
+      "objectFileSize": 949844,
+      "objectId": "134900797",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_091.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_091.jpg",
+      "objectFileSize": 938658,
+      "objectId": "134900798",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_092.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_092.jpg",
+      "objectFileSize": 821006,
+      "objectId": "134900799",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_093.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_093.jpg",
+      "objectFileSize": 1006139,
+      "objectId": "134900800",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_094.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_094.jpg",
+      "objectFileSize": 958893,
+      "objectId": "134900801",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_095.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_095.jpg",
+      "objectFileSize": 894709,
+      "objectId": "134900802",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_096.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_096.jpg",
+      "objectFileSize": 909506,
+      "objectId": "134900803",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_097.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_097.jpg",
+      "objectFileSize": 850866,
+      "objectId": "134900804",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_098.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_098.jpg",
+      "objectFileSize": 936956,
+      "objectId": "134900805",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_099.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_099.jpg",
+      "objectFileSize": 951662,
+      "objectId": "134900806",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_100.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_100.jpg",
+      "objectFileSize": 842022,
+      "objectId": "134900807",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_101.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_101.jpg",
+      "objectFileSize": 877625,
+      "objectId": "134900808",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_102.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_102.jpg",
+      "objectFileSize": 842528,
+      "objectId": "134900809",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_103.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_103.jpg",
+      "objectFileSize": 1003260,
+      "objectId": "134900810",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_104.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_104.jpg",
+      "objectFileSize": 843178,
+      "objectId": "134900811",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_105.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_105.jpg",
+      "objectFileSize": 1000474,
+      "objectId": "134900812",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_106.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_106.jpg",
+      "objectFileSize": 251747,
+      "objectId": "134900813",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_107.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_107.jpg",
+      "objectFileSize": 802768,
+      "objectId": "134900814",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_108.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_108.jpg",
+      "objectFileSize": 443539,
+      "objectId": "134900815",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_109.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_109.jpg",
+      "objectFileSize": 841244,
+      "objectId": "134900816",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061_110.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061_110.jpg",
+      "objectFileSize": 459417,
+      "objectId": "134900817",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "RG-19-1688027_035_061.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-019/1688027/RG-19-1688027_035_061/RG-19-1688027_035_061.pdf",
+      "objectFileSize": 18280018,
+      "objectId": "134900707",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1940,
+        "logicalDate": "1940-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 19,
+      "inclusiveEndDate": {
+        "year": 1966,
+        "logicalDate": "1966-12-31"
+      },
+      "title": "Records of the Bureau of Ships",
+      "naId": 348
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1911,
+        "logicalDate": "1911-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "Department of the Navy. Bureau of Engineering. 1920-1940",
+          "abolishDate": {
+            "year": 1940,
+            "logicalDate": "1940-12-31"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1920,
+            "logicalDate": "1920-01-01"
+          },
+          "naId": 10476477
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1922,
+        "logicalDate": "1922-12-31"
+      },
+      "title": "Indexes to Correspondence",
+      "naId": 1688027
+    }
+  ],
+  "title": "General Subject: Indicators, Engine Revolution",
+  "naId": 134900706,
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "7th and Pennsylvania Avenue NW",
+          "city": "Washington",
+          "phone": "202-357-5385",
+          "address1": "National Archives Building",
+          "postalCode": "20408",
+          "name": "National Archives at Washington, DC - Textual Reference",
+          "state": "DC",
+          "fax": "202-357-5936",
+          "email": "Archives1reference@nara.gov",
+          "mailCode": "RDT1"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper",
+          "containerId": "35"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82016187/1898-01-06/ed-1/?sp=12"
+  ],
+  "batch": [
+    "dlc_harry_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1898-01-06",
+  "dates": [
+    "1898-01-06"
+  ],
+  "description": [
+    "jv jv V WW sjf sSSSBSSSSHi raigrj45s 5rcn fc THE NATIONAL TRIBUNE SUPPLEMENT WASHINGTON D 0 THURSDAY JANUARY 6 1898 How With a pair of shears cut tip this page along the clotted lines You will then have six very nice circulars all alike Sign your name on the line near the top of each of them Then hand one circular 10 six different comrades who ought to subscribe When they send in their subscriptions your name being on the circulars we will credit you on a premium account in this way you may secure a very handsome premium But whether you want premium or not we think under the present circumstances we may venture to ask you to cut out these circulars and distribute them where they will do the most good The soldiers of the civil war need an outspoken champion of vast circulation in the face of the malignant attacks now filling the columns of the metropolitan press j ii c o fiet i ft i r at Vi fs M v l t tt rv 1 f f r HESE TWO GREAT WAR BOOKS Absolutely Free and Postpaid to Every Subscriber New or Old who sends"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-12-09T13:43:59.088Z",
+  "group": [
+    "ndnp/dlc-2009_2010",
+    "library-of-congress-washington-dc-awardee-3"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82016187/1898-01-06/ed-1/?sp=12",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn82016187:00211102366:1898010601:0092/full/pct:3.125/0/default.jpg#h=314&w=236",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn82016187:00211102366:1898010601:0092/full/pct:6.25/0/default.jpg#h=628&w=472",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_harry_ver01/data/sn82016187/00211102366/1898010601/0092.xml&format=alto_xml"
+  ],
+  "index": 133,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn82016187",
+    "2",
+    "6",
+    "3",
+    "0000000012",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82016187"
+  ],
+  "number_page": [
+    "0000000012"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "1",
+    "1",
+    "0",
+    "2",
+    "3",
+    "6",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "United States national tribune"
+  ],
+  "page_id": "sn82016187-1898-01-06-ed-1-0092",
+  "partof": [
+    "chronicling america",
+    "the national tribune (washington, d.c.) 1877-1917",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the national tribune (washington, d.c.) 1877-1917"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82016187/1898-01-06/ed-1/?sp=12"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82016187/1898-01-06/ed-1/"
+  ],
+  "shelf_id": "12",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "https://id.oclc.org/worldcat/entity/e39pbjfcwcmmjdpvk8h8hpkccp",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2024-12-10T06:38:26.479Z",
+  "title": "Image 12 of The National tribune (Washington, D.C.), January 6, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82016187/1898-01-06/ed-1/?sp=12&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_harry_ver01%2Fdata%2Fsn82016187%2F00211102366%2F1898010601%2F0092.xml&q=great+war&relevant_snippet=1"
+}

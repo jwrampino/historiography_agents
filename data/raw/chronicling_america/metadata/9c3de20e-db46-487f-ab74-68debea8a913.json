@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84027008/1865-11-30/ed-1/?sp=1"
+  ],
+  "batch": [
+    "scu_alexiavalentine_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/south carolina/",
+    "2/united states/south carolina/richland/",
+    "3/united states/south carolina/richland/columbia/"
+  ],
+  "contributor": [
+    "university of south carolina; columbia, sc"
+  ],
+  "date": "1865-11-30",
+  "dates": [
+    "1865-11-30"
+  ],
+  "description": [
+    "THE DAILY Daily Paper 10 a Year Let our Just Censure IIl K M X Attend the True Event TriWeekly 7 a Year BY J A SELBY COLUMBIA S C THURSDAY MORNING NOVEMBER 30 1865 VOL INO 209 rtK FHONIX PUBLISHED DAILT AND TRIWEEKLY BY JULIAN A SELBY TERMSIN ADVANCE SUBSCRIPTION Dailv Paper six months5 00 TriWeckly 3 50 ADVERTISEMENTS Inserted at 1 per square for the first in sertion and 75 cents for each subsequent S Special notices 15 cents a line Manifest Destiny The waters of American enterprise and energy seem to be overflowing everywhere While the boundaries of the great West still remain un attained and the stream of popula tion still sets in that direction new and attractive fields aro being opened j for our daring and adventurous people Mexico and Brazil have both j thrown their gates wide open and I are inviting and welcoming American emigrants with every demonstration of hospitality Never before did the old and popular doctrine of 1 Manifest Destiny seem so likely of fulfillment as it does now with this universal j extension of Americans and their ideas all over this continent Wher ever the American goes and settles like"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-24T14:37:21.237Z",
+  "group": [
+    "ndnp/scu",
+    "university-of-south-carolina-columbia-sc-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84027008/1865-11-30/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551645:1865113001:0281/full/pct:6.25/0/default.jpg#h=385&w=279",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551645:1865113001:0281/full/pct:12.5/0/default.jpg#h=771&w=559",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/scu/batch_scu_alexiavalentine_ver01/data/sn84027008/00294551645/1865113001/0281.xml&format=alto_xml"
+  ],
+  "index": 142,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "south carolina",
+    "columbia",
+    "united states",
+    "richland",
+    "richland county"
+  ],
+  "location_city": [
+    "columbia"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "richland"
+  ],
+  "location_state": [
+    "south carolina"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "0000000001",
+    "2",
+    "6",
+    "5",
+    "sn84027008",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84027008"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "4",
+    "5",
+    "5",
+    "1",
+    "6",
+    "4",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Phoenix"
+  ],
+  "page_id": "sn84027008-1865-11-30-ed-1-0281",
+  "partof": [
+    "chronicling america",
+    "the daily phoenix (columbia, s.c.) 1865-1878",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the daily phoenix (columbia, s.c.) 1865-1878"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84027008/1865-11-30/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84027008/1865-11-30/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "south carolina",
+    "columbia (s.c.)",
+    "columbia",
+    "richland county (s.c.)",
+    "united states",
+    "newspapers",
+    "richland",
+    "richland county"
+  ],
+  "timestamp": "2024-02-04T02:25:19.571Z",
+  "title": "Image 1 of The daily phoenix (Columbia, S.C.), November 30, 1865",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84027008/1865-11-30/ed-1/?sp=1&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fscu%2Fbatch_scu_alexiavalentine_ver01%2Fdata%2Fsn84027008%2F00294551645%2F1865113001%2F0281.xml&q=manifest+destiny&relevant_snippet=1"
+}

@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1925-01-29/ed-1/?sp=26"
+  ],
+  "batch": [
+    "dlc_dorsey_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1925-01-29",
+  "dates": [
+    "1925-01-29"
+  ],
+  "description": [
+    "26 BACKERS TO PRESS i CHILD H FIGHT Claim Amendment Will Pass i Despite Adverse Votes Recorded My th Associated Press NEW YORK January 29The fight for a ohU labor amendment to tho Constitution will be continued even though 13 States or more than one quarter of the necessary rhree fourths have refused to ratify it said a statement issued here yesterday by the National child labor committee organized in 1907 The adverse vote of the legisla tures is not final according to the fatement and the amendment has not been defeated or shelved The committee expects six of the thirteen States to reverse their ac tion and go on record in favor of the captain when they discover that the present scare of a supersocialism is groundless These six States are Ohio Okla homa Kansas North and South Da kota and Massachusetts All of these States it was said now have child labor laws Of the legislatures that have voted adversely the statement pointed out only eight registered action in both Houses In South Dakota North Dakota Delaware and Wyoming only one House rejected Favorable ac tion by the other House will bring immediate reconsideration Further unfavorable action will"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:59:49.112Z",
+  "group": [
+    "ndnp/dlc-2017_2017",
+    "library-of-congress-washington-dc-awardee-6"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1925-01-29/ed-1/?sp=26",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dorsey_ver02:data:sn83045462:00280657670:1925012901:0571/full/pct:3.125/0/default.jpg#h=261&w=203",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dorsey_ver02:data:sn83045462:00280657670:1925012901:0571/full/pct:6.25/0/default.jpg#h=522&w=406",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dorsey_ver02:data:sn83045462:00280657670:1925012901:0571/full/pct:12.5/0/default.jpg#h=1044&w=813",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_dorsey_ver02/data/sn83045462/00280657670/1925012901/0571.xml&format=alto_xml"
+  ],
+  "index": 104,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "district of columbia",
+    "washington d.c.",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "6",
+    "2",
+    "5",
+    "1",
+    "7",
+    "0000000026",
+    "sn83045462",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000026"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "7",
+    "6",
+    "7",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1925-01-29-ed-1-0571",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1925-01-29/ed-1/?sp=26"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1925-01-29/ed-1/"
+  ],
+  "shelf_id": "26",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "washington",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-24T17:31:31.832Z",
+  "title": "Image 26 of Evening star (Washington, D.C.), January 29, 1925",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1925-01-29/ed-1/?sp=26&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_dorsey_ver02%2Fdata%2Fsn83045462%2F00280657670%2F1925012901%2F0571.xml&q=child+labor&relevant_snippet=1"
+}

@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88053055/1898-05-09/ed-1/?sp=1"
+  ],
+  "batch": [
+    "deu_fidelius_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/delaware/",
+    "2/united states/delaware/new castle/",
+    "3/united states/delaware/new castle/wilmington/"
+  ],
+  "contributor": [
+    "university of delaware library, newark, de"
+  ],
+  "date": "1898-05-09",
+  "dates": [
+    "1898-05-09"
+  ],
+  "description": [
+    "THE WILMINGTON DAILY REPUBLICAN ONE CENT WILMINGTON DELAWARE MONDAY MAY 9 1898 ONE CENT REAR ADMIRAL DEWEY 4 Bill Introduced in the House Which Will Elevate the Hero of Manila Now Acting Rear Admiral Washington May 9The Instruc tions width resulted in Commodore velous victory at Manila were general in character and It can be stated on authority that they di Deweys at e to rooted him to sle Philippines and capture and destroy the vessels of the Spanish fleet before at tempting to engage in operations against the fortifications But it was Admiral Deweys p to enter the harbor in the gray of the the engage half sed him ning that brought ment when the Spaniards asleep In wiring to Admiral Dewey inform ing him that the president had pro moted him to be an acting admiral and that ho would recommend a vote of thanks by congress Secretary Long evidently meant acting rear admiral There is no authority In law for the appointment o admiral rear admiral being the highest grade recognized acting admiral there fore Admiral Dewey will not drty the pay of that grade that being prohib ited by law will get out of his act"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-12T17:56:03.870Z",
+  "group": [
+    "ndnp/deu",
+    "university-of-delaware-library-newark-de-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88053055/1898-05-09/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_fidelius_ver01:data:sn88053055:00271741212:1898050901:0453/full/pct:6.25/0/default.jpg#h=388&w=284",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_fidelius_ver01:data:sn88053055:00271741212:1898050901:0453/full/pct:12.5/0/default.jpg#h=776&w=568",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/deu/batch_deu_fidelius_ver01/data/sn88053055/00271741212/1898050901/0453.xml&format=alto_xml"
+  ],
+  "index": 136,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "wilmington",
+    "delaware",
+    "united states",
+    "new castle"
+  ],
+  "location_city": [
+    "wilmington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new castle"
+  ],
+  "location_state": [
+    "delaware"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn88053055",
+    "0",
+    "1",
+    "7",
+    "4",
+    "2",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88053055"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "1",
+    "7",
+    "4",
+    "1",
+    "2",
+    "1",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88053055-1898-05-09-ed-1-0453",
+  "partof": [
+    "the wilmington daily republican (wilmington, del.) 1890-1902",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the wilmington daily republican (wilmington, del.) 1890-1902"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88053055/1898-05-09/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88053055/1898-05-09/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "delaware",
+    "wilmington",
+    "newspapers",
+    "wilmington (del.)",
+    "new castle"
+  ],
+  "timestamp": "2023-08-13T03:28:37.043Z",
+  "title": "Image 1 of The Wilmington daily Republican (Wilmington, Del.), May 9, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88053055/1898-05-09/ed-1/?sp=1&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdeu%2Fbatch_deu_fidelius_ver01%2Fdata%2Fsn88053055%2F00271741212%2F1898050901%2F0453.xml&q=spanish&relevant_snippet=1"
+}

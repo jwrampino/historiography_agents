@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87065501/1904-05-28/ed-1/?sp=6"
+  ],
+  "batch": [
+    "msar_garnet_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/mississippi/",
+    "2/united states/mississippi/yalobusha/",
+    "3/united states/mississippi/yalobusha/water valley/"
+  ],
+  "contributor": [
+    "mississippi department of archives and history"
+  ],
+  "date": "1904-05-28",
+  "dates": [
+    "1904-05-28"
+  ],
+  "description": [
+    "AN EASY JOB He continuing the narrativeIt took me but a moment to collect my scattered wits SheI shouldnt Imagine it would take you longN Y Daily News The Necessary Part It Isnt the thing you do That brings success to you Its the way you advertise it Though your work is the bet on earth Tou must whoop for ail youre worth To Induct the worldto prize it Chicago RecordHerald Not Breakable Clarence WillyboyI have come to consult you in regard to breaking my uncles will Bill Conkey lawyerHow much did he leave Clarence WillyboyFive thousand dollars Bill ConkeyBreak a fivethousand dollar will Wy say young feller five thousand dollars wouldnt last Jong enough to make a dent in it Judge QUESTION OE INDISCRETION r i HusbandWould you have married vme if Id been a poor man But pr aps that is rather an indiscreet question WifeQuestions are never indiscreet dear answers sometimes areAlly iJicper Parodied for Present Use Truthcrushed to earth will rise again And cut another cherry tree I5ut error on the baseball field Gets jumped on most unmercifly N Y Herald_ The Scare That Failed EdgarThere are 30000000 microbes 5n one plate of ice cream EthelOh"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:42:44.467Z",
+  "group": [
+    "ndnp/msar",
+    "mississippi-department-of-archives-and-history"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87065501/1904-05-28/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_garnet_ver01:data:sn87065501:00383344499:1904052801:0347/full/pct:6.25/0/default.jpg#h=472&w=315",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_garnet_ver01:data:sn87065501:00383344499:1904052801:0347/full/pct:12.5/0/default.jpg#h=944&w=630",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/msar/batch_msar_garnet_ver01/data/sn87065501/00383344499/1904052801/0347.xml&format=alto_xml"
+  ],
+  "index": 96,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "water valley",
+    "yalobusha",
+    "united states",
+    "mississippi"
+  ],
+  "location_city": [
+    "water valley"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "yalobusha"
+  ],
+  "location_state": [
+    "mississippi"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn87065501",
+    "1",
+    "8",
+    "9",
+    "0000000006",
+    "4",
+    "3",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87065501"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "8",
+    "3",
+    "3",
+    "4",
+    "4",
+    "4",
+    "9",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87065501-1904-05-28-ed-1-0347",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "water valley progress (water valley, miss.) 1882-1918"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "water valley progress (water valley, miss.) 1882-1918"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87065501/1904-05-28/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87065501/1904-05-28/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "water valley",
+    "yalobusha",
+    "newspapers",
+    "water valley (miss.)",
+    "mississippi"
+  ],
+  "timestamp": "2023-07-05T22:42:31.398Z",
+  "title": "Image 6 of Water Valley progress (Water Valley, Miss.), May 28, 1904",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87065501/1904-05-28/ed-1/?sp=6&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmsar%2Fbatch_msar_garnet_ver01%2Fdata%2Fsn87065501%2F00383344499%2F1904052801%2F0347.xml&q=korea&relevant_snippet=1"
+}

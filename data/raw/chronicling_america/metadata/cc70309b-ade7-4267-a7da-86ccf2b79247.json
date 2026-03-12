@@ -1,0 +1,151 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82016181/1937-06-09/ed-1/?sp=19"
+  ],
+  "batch": [
+    "dlc_capa_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1937-06-09",
+  "dates": [
+    "1937-06-09"
+  ],
+  "description": [
+    "Plain Economics by John T Flynn Investment made impossible by speculation in stocks and theres talk that steps may be taken to end gambling practice N EW YORKAt intervals Wallst gets the jitters over rumors that one of these days margin trading is going to be done away with by the Federal Reserve Board and that those who speculate in stocks will have to do so with their own money It is now concerned over such a possibility more than ever A leading brokerage firm has announced that hereafter it will accept no accounts save lor casn unless UrC ueuiv vain ance of the customer is at least It has done this because 25000 it insists there is no money in the small accounts and also because it does not care to continue longer in what looks like a rather shaky gam bling game Besides there actually has been talk in official quarters of putting an end to the practice of trading on borrowed money Gambling is a pretty widespread human practice But the stock market is about the only place a man can go and gamble on bor rowed money You cannot get into a crap game on borrowed"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-09-28T05:01:35.272Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82016181/1937-06-09/ed-1/?sp=19",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_capa_ver01:data:sn82016181:00516999585:1937060901:1356/full/pct:6.25/0/default.jpg#h=330&w=227",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_capa_ver01:data:sn82016181:00516999585:1937060901:1356/full/pct:12.5/0/default.jpg#h=660&w=454",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_capa_ver01/data/sn82016181/00516999585/1937060901/1356.xml&format=alto_xml"
+  ],
+  "index": 75,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn82016181",
+    "8",
+    "5",
+    "6",
+    "9",
+    "0000000019",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82016181"
+  ],
+  "number_page": [
+    "0000000019"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "9",
+    "5",
+    "8",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82016181-1937-06-09-ed-1-1356",
+  "partof": [
+    "serial and government publications division",
+    "the washington daily news (washington, d.c.) 1921-1972",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington daily news (washington, d.c.) 1921-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82016181/1937-06-09/ed-1/?sp=19"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82016181/1937-06-09/ed-1/"
+  ],
+  "shelf_id": "19",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2025-09-28T05:49:09.936Z",
+  "title": "Image 19 of The Washington daily news (Washington, D.C.), June 9, 1937",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82016181/1937-06-09/ed-1/?sp=19&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_capa_ver01%2Fdata%2Fsn82016181%2F00516999585%2F1937060901%2F1356.xml&q=child+labor&relevant_snippet=1"
+}

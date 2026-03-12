@@ -1,0 +1,240 @@
+{
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "title": "12-GR-1418 Reconstruction Finance Corporation",
+  "coverageEndDate": {
+    "year": 1944,
+    "logicalDate": "1944-12-31"
+  },
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Perris",
+          "phone": "951-956-2000",
+          "address1": "23123 Cajalco Rd",
+          "postalCode": "92570",
+          "name": "National Archives at Riverside",
+          "state": "CA",
+          "fax": "951-956-2049",
+          "email": "riverside.archives@nara.gov",
+          "mailCode": "RW-RS"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper",
+          "containerId": "6"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "coverageStartDate": {
+    "year": 1944,
+    "logicalDate": "1944-01-01"
+  },
+  "dataControlGroup": {
+    "groupId": "ou=NRHAR,ou=groups",
+    "groupCd": "RWRS"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "12000827-6-40-001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/riverside/rg-228/12000827/12000827-6-40-001.jpg",
+      "objectFileSize": 1234,
+      "objectId": "234909599",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000827-6-40-002.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/riverside/rg-228/12000827/12000827-6-40-002.jpg",
+      "objectFileSize": 1234,
+      "objectId": "234909601",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000827-6-40-003.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/riverside/rg-228/12000827/12000827-6-40-003.jpg",
+      "objectFileSize": 1234,
+      "objectId": "234909603",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000827-6-40-004.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/riverside/rg-228/12000827/12000827-6-40-004.jpg",
+      "objectFileSize": 1234,
+      "objectId": "234909605",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000827-6-40-005.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/riverside/rg-228/12000827/12000827-6-40-005.jpg",
+      "objectFileSize": 1234,
+      "objectId": "234909607",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000827-6-40-006.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/riverside/rg-228/12000827/12000827-6-40-006.jpg",
+      "objectFileSize": 1234,
+      "objectId": "234909609",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000827-6-40-007.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/riverside/rg-228/12000827/12000827-6-40-007.jpg",
+      "objectFileSize": 1234,
+      "objectId": "234909611",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000827-6-40-008.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/riverside/rg-228/12000827/12000827-6-40-008.jpg",
+      "objectFileSize": 1234,
+      "objectId": "234909613",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000827-6-40-009.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/riverside/rg-228/12000827/12000827-6-40-009.jpg",
+      "objectFileSize": 1234,
+      "objectId": "234909615",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000827-6-40-010.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/riverside/rg-228/12000827/12000827-6-40-010.jpg",
+      "objectFileSize": 1234,
+      "objectId": "234909617",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000827-6-40-011.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/riverside/rg-228/12000827/12000827-6-40-011.jpg",
+      "objectFileSize": 1234,
+      "objectId": "234909619",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000827-6-40-012.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/riverside/rg-228/12000827/12000827-6-40-012.jpg",
+      "objectFileSize": 1234,
+      "objectId": "234909620",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000827-6-40-013.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/riverside/rg-228/12000827/12000827-6-40-013.jpg",
+      "objectFileSize": 1234,
+      "objectId": "234909621",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000827-6-40-014.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/riverside/rg-228/12000827/12000827-6-40-014.jpg",
+      "objectFileSize": 1234,
+      "objectId": "234909623",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000827-6-40-015.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/riverside/rg-228/12000827/12000827-6-40-015.jpg",
+      "objectFileSize": 1234,
+      "objectId": "234909625",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000827-6-40-016.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/riverside/rg-228/12000827/12000827-6-40-016.jpg",
+      "objectFileSize": 1234,
+      "objectId": "234909627",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000827-6-40-017.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/riverside/rg-228/12000827/12000827-6-40-017.jpg",
+      "objectFileSize": 1234,
+      "objectId": "234909629",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000827-6-40-018.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/riverside/rg-228/12000827/12000827-6-40-018.jpg",
+      "objectFileSize": 1234,
+      "objectId": "234909631",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000827-6-40.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/riverside/rg-228/12000827/12000827-6-40.pdf",
+      "objectFileSize": 1234,
+      "objectId": "234909597",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1940,
+        "logicalDate": "1940-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 228,
+      "inclusiveEndDate": {
+        "year": 1946,
+        "logicalDate": "1946-12-31"
+      },
+      "title": "Records of the Committee on Fair Employment Practice",
+      "naId": 555
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1943,
+        "logicalDate": "1943-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "Office for Emergency Management. Committee on Fair Employment Practice. Division of Field Operations. Region XII. Los Angeles Sub-Office. (9/16/1943 - 12/15/1945)",
+          "abolishDate": {
+            "month": 12,
+            "year": 1945,
+            "day": 15,
+            "logicalDate": "1945-12-15"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 9,
+            "year": 1943,
+            "day": 16,
+            "logicalDate": "1943-09-16"
+          },
+          "naId": 12000628
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1945,
+        "logicalDate": "1945-12-31"
+      },
+      "title": "Closed Case Files",
+      "naId": 12000827
+    }
+  ],
+  "naId": 169612897
+}

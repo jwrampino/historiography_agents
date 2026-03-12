@@ -1,0 +1,131 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16115/?sp=4"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1819-05-11",
+  "dates": [
+    "1819-05-11"
+  ],
+  "description": [
+    "HR BENGAL HURKARU Salop Stafford and Norwich The MajorGeueras head monstrances were ao strong from HeadQuarters that al quarters remain at Pontefract fepresentations of the intolerable burthen on the country were insufficient nor could he succeed in procuring the reduction to stop even at the 96th as the three higher re The accounts from Frankfort state that the intended giments the Olt 92nd and 93rd were Scots with loca army of the Germanic confederation is to consist Of ten corps influeace and Ean high auspices It will probably be the first second and third amounting to 94522 men te bel fognd on accurate and minute inyestigatien that the forage by Anal Re Tenet ig tl tiga whole reduction will not prodacean immediate saving of o to consist entirely aus the seventh to th be formed of Bavarians in number 35600 the eight corps a a than one million por anquemt is to be made np by the kingdom of Saxony 13000 Wur temberg 23955 Baden 10000 Hohenzollern 501 Lichten stein 55 all 36511 the ninth corps is to consist of many con tingents viz Electoral Hesse 5400 the Grand Duchy o Hesse 6195 Luxemburg 9141 Nassau 3028 Saxe Wey mar"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16115/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16115:0004/full/pct:6.25/0/default.jpg#h=346&w=269",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16115:0004/full/pct:12.5/0/default.jpg#h=693&w=539",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16115:0004/full/pct:25.0/0/default.jpg#h=1386&w=1079",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16115:0004/full/pct:50.0/0/default.jpg#h=2773&w=2158",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16115:0004/full/pct:100.0/0/default.jpg#h=5546&w=4316",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16115/0004.alto.xml&format=alto_xml"
+  ],
+  "index": 10,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "calcutta",
+    "india"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "0000000004",
+    "sn88063571",
+    "2025-08-13t13:59:42.400000",
+    "sn88063570",
+    "sn88063569"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16115-0004-alto",
+  "partof": [
+    "catalog",
+    "world digital library",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "asian division",
+    "serial and government publications division",
+    "south asian digital collection",
+    "world newspapers",
+    "general collections"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16115/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16115/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "calcutta",
+    "india"
+  ],
+  "timestamp": "2025-12-12T07:20:23.527Z",
+  "title": "Image 4 of Volume 29, Number 1274, Tuesday, May 11, 1819 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16115/?sp=4&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16115%2F0004.alto.xml&q=spanish&relevant_snippet=1"
+}

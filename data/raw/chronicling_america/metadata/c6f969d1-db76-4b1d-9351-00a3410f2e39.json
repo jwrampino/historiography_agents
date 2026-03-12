@@ -1,0 +1,137 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2004540423/1917-03-16/ed-1/?sp=7"
+  ],
+  "batch": [
+    "dlc_1brainania_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1917-03-16",
+  "dates": [
+    "1917-03-16"
+  ],
+  "description": [
+    "Petrograd knew that he was to be re moved and the Grand Duke Nicholas knew it himself 1 The general orders had not been made i outl but when his corps commanders came to consult him they would always \ufb01nd the Grand Duke redeyed and sometimes weeping and sometimes iced ilng the more or leSs sacred pigeons But the circumstances foreshadowing his removal were patent to every sol dier Very little snialbarm ammunition and no shells were bein\u00e9r sent forward land the corps commanders knew what this meant They are being saved up said one to me so that when the Czar takes command and the Czare v_itch comes with him for his baptism 01 fire he will be received with a blaze of glory that will radiate victory And subsequent events seemed to prove that this malicious interpretation or ex isting conditions was not wholly un founded I had my last talk With Prince Lvoff within a few hours of starting across Siberia to China I asked_him for a few words in regard to the Situa tion and I spent the whole afternoon with him in the little hotel room which he had occupied years before_during the stormy days"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-19T00:31:09.109Z",
+  "group": [
+    "sgpww1newspaperclippings/dlc",
+    "wwi-newspaper-clippings"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2004540423/1917-03-16/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_1brainania_ver01:data:2004540423:print0019251132A:1917031601:0007/full/pct:6.25/0/default.jpg#h=452&w=344",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_1brainania_ver01:data:2004540423:print0019251132A:1917031601:0007/full/pct:12.5/0/default.jpg#h=905&w=688",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/sgp/sgpbatches/batch_dlc_1brainania_ver01/data/2004540423/print0019251132A/1917031601/0007.xml&format=alto_xml"
+  ],
+  "index": 69,
+  "language": [
+    "german",
+    "english"
+  ],
+  "location": [
+    "new york",
+    "united states",
+    "germany"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000007",
+    "1",
+    "2004540423"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2004540423"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2004540423-1917-03-16-ed-1-0007",
+  "partof": [
+    "world war history: newspaper clippings, 1914-1926",
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "world war history: newspaper clippings, 1914-1926"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2004540423/1917-03-16/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2004540423/1917-03-16/ed-1/"
+  ],
+  "shelf_id": "007",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "new york",
+    "history",
+    "armistices",
+    "allied occupation",
+    "united states",
+    "sources",
+    "germany",
+    "world war"
+  ],
+  "timestamp": "2022-11-09T15:09:33.755Z",
+  "title": "Image 7 of World War history : daily records and comments as appeared in American and foreign newspapers, 1914-1926 (New York), March 16, 1917, (1917 March 16-21)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2004540423/1917-03-16/ed-1/?sp=7&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fsgp%2Fsgpbatches%2Fbatch_dlc_1brainania_ver01%2Fdata%2F2004540423%2Fprint0019251132A%2F1917031601%2F0007.xml&q=revolution&relevant_snippet=1"
+}

@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83026172/1846-01-05/ed-1/?sp=2"
+  ],
+  "batch": [
+    "dlc_custer_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1846-01-05",
+  "dates": [
+    "1846-01-05"
+  ],
+  "description": [
+    "My venerable colleague Mr ADAMs too from whom I al ways differ with great regret but differing from whom on the present occasion I conform not more to my own conscientious judgment than to the opinions of my constituents as I under stand themhe too I am sure even in that very torrent of eloquent indignation which cost us for a moment the order and dignity of the House could have had nothing but the peace of the country at heart So far as peace then is concerned it seems that we are all agreed Only it must be an hon orable peace that I think is the stereotyped phrase of the day and all our differences are thus reduced to the question What constitutes an honorable peace Undoubtedly Mr Speaker the answer to this question must depend upon the peculiar circumstances of the case to which it is applied Yet I will not pass to the consideration of that case without put ting the burden of proof where it belongs Peace sir in it self in its own nature and of its own original essence is hon orable No individual no nation can lay a higher claim to the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-04T04:00:43.327Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83026172/1846-01-05/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_custer_ver01:data:sn83026172:00211678045:1846010501:0419/full/pct:3.125/0/default.jpg#h=261&w=199",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_custer_ver01:data:sn83026172:00211678045:1846010501:0419/full/pct:6.25/0/default.jpg#h=523&w=399",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_custer_ver01:data:sn83026172:00211678045:1846010501:0419/full/pct:12.5/0/default.jpg#h=1047&w=798",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_custer_ver01/data/sn83026172/00211678045/1846010501/0419.xml&format=alto_xml"
+  ],
+  "index": 59,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "4",
+    "2",
+    "6",
+    "8",
+    "5",
+    "0000000002",
+    "1",
+    "sn83026172",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83026172"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "1",
+    "6",
+    "7",
+    "8",
+    "0",
+    "4",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Issues for <Aug. 30-Sept. 22, 1814> published as: National intelligencer",
+    "Sunday issues for Jan. 15-Feb. 5, 1865 published as: Sunday national intelligencer"
+  ],
+  "page_id": "sn83026172-1846-01-05-ed-1-0419",
+  "partof": [
+    "chronicling america",
+    "daily national intelligencer (washington city [d.c.]) 1813-1869",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "daily national intelligencer (washington city [d.c.]) 1813-1869"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83026172/1846-01-05/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83026172/1846-01-05/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2025-05-04T07:27:45.636Z",
+  "title": "Image 2 of Daily national intelligencer (Washington City [D.C.]), January 5, 1846",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83026172/1846-01-05/ed-1/?sp=2&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_custer_ver01%2Fdata%2Fsn83026172%2F00211678045%2F1846010501%2F0419.xml&q=manifest+destiny&relevant_snippet=1"
+}

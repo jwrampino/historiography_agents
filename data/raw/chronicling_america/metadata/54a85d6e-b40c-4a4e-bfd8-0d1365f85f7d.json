@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86091349/1919-05-09/ed-1/?sp=3"
+  ],
+  "batch": [
+    "nvln_dayton_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nevada/",
+    "2/united states/nevada/lincoln/",
+    "3/united states/nevada/lincoln/pioche/"
+  ],
+  "contributor": [
+    "university of nevada las vegas university libraries"
+  ],
+  "date": "1919-05-09",
+  "dates": [
+    "1919-05-09"
+  ],
+  "description": [
+    "rriday May 9 1919 THE PIOCHE RECORD 0 S M AWARDS ARE NOT TOO II UrlERQUS AMERICAN GOVERNMENT MUCH MORE NIGGARDLY IN GIVING OUT HONORS THAN FRANCE LATEST LIST FROM PERSHING Public Will Never Know Adequately About the Remarkable Accomplish ments of Such Men a General J ad win and Colonel Wilmer By EDWARD B CLARK Washington General Pershing hai transmitted to the war department a list of the most recent awards of dis tinguished service medals made by the military board of the American expe ditionary force which decides on mat ters of merit There Is a long list of the men who hereafter will wear the ribbon of dis tinguished service but long though It umy be It Is brevity Itself compared with the list of awards made by the French military authorities to their own men and to Individual soldiers of the allies who have won French re jru anu recognition i Someone In the city of Washington recently said that distinguished serv ice medals are getting common This in way beside the truth The Amer ican government Is rather niggardly In giving out Its honors If 1000 dis tinguished service medals are award ed what does"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-06-30T14:53:02.406Z",
+  "group": [
+    "ndnp/nvln",
+    "university-of-nevada-las-vegas-university-libraries-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86091349/1919-05-09/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn86091349:00415627270:1919050901:0053/full/pct:6.25/0/default.jpg#h=432&w=287",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn86091349:00415627270:1919050901:0053/full/pct:12.5/0/default.jpg#h=865&w=574",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nvln/batch_nvln_dayton_ver01/data/sn86091349/00415627270/1919050901/0053.xml&format=alto_xml"
+  ],
+  "index": 108,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "nevada",
+    "pioche",
+    "lincoln"
+  ],
+  "location_city": [
+    "pioche"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lincoln"
+  ],
+  "location_state": [
+    "nevada"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000003",
+    "sn86091349",
+    "2",
+    "6",
+    "5",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86091349"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "2",
+    "7",
+    "2",
+    "7",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86091349-1919-05-09-ed-1-0053",
+  "partof": [
+    "chronicling america",
+    "the pioche record (pioche, nev.) 1908-1925",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the pioche record (pioche, nev.) 1908-1925"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86091349/1919-05-09/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86091349/1919-05-09/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "pioche (nev.)",
+    "nevada",
+    "pioche",
+    "united states",
+    "newspapers",
+    "lincoln"
+  ],
+  "timestamp": "2023-06-30T18:46:06.602Z",
+  "title": "Image 3 of The Pioche record (Pioche, Nev.), May 9, 1919",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86091349/1919-05-09/ed-1/?sp=3&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnvln%2Fbatch_nvln_dayton_ver01%2Fdata%2Fsn86091349%2F00415627270%2F1919050901%2F0053.xml&q=reconstruction&relevant_snippet=1"
+}

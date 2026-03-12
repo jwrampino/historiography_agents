@@ -1,0 +1,167 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn81002003/1955-05-09/ed-1/?sp=2"
+  ],
+  "batch": [
+    "nbu_housesparrow_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nebraska/",
+    "2/united states/nebraska/douglas/",
+    "3/united states/nebraska/douglas/omaha/"
+  ],
+  "contributor": [
+    "university of nebraska-lincoln libraries, lincoln, ne"
+  ],
+  "date": "1955-05-09",
+  "dates": [
+    "1955-05-09"
+  ],
+  "description": [
+    "PEOPLE WE KNOW Persone di Nostra Conoscenza LAMBASCIATORE DITALIA S E MANLIO BROSIO A ST LOUIS MO IL 27 28 MAGGIO La grande citt\u00e0 di St Louis Mo ospiter\u00e0 per due giorni lAmba sciatore dItalia S E Manlio Bro sio e gli italoamericani di quel la metropoli sono orgogliosi ed entusiasti di avere lonore della visit\u00e0 della pi\u00f9 alta autorit\u00e0 della Repubblica dItalia negli Stati U niti e si preparano con appropria te festivit\u00e0 ed offrire un banchet to la sera del 28 Maggio Sarebbe molto appropriato che in Omaha si organizzasse un grup po di italoamericani che siano di sposti a rappresentare la nostra comunit\u00e0 e questo importante ed epieo evento Noi della stampa siamo ben disposti a partecipare Gli interessati possono chiamarci al telefono e potremo subito for mulare un programma per leffet tuazione della nostra partecipar ione in rappresentanza della co munit\u00e0 di Omaha E per\u00f2 neces sario prendere eon sollecitudine gli accordi necessari I CADETTI CHE ASPIRANO DI ANDARE A WEST POINT r DEBBONO SCRIVERE A C T CURTIS Il Senatore degli Stati Uniti Cari T Curtis informa i giovani ehe siano interessati di frequenta re 1Accademia Militare di West Point ad Annapolis di scrivere a"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:41:49.357Z",
+  "group": [
+    "ndnp/nbu",
+    "university-of-nebraska-of-nebraska-lincoln-libraries-lincoln-ne-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn81002003/1955-05-09/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_housesparrow_ver01:data:sn81002003:00517014217:1955050901:0117/full/pct:6.25/0/default.jpg#h=380&w=293",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_housesparrow_ver01:data:sn81002003:00517014217:1955050901:0117/full/pct:12.5/0/default.jpg#h=761&w=586",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nbu/batch_nbu_housesparrow_ver01/data/sn81002003/00517014217/1955050901/0117.xml&format=alto_xml"
+  ],
+  "index": 10,
+  "language": [
+    "italian",
+    "english"
+  ],
+  "location": [
+    "nebraska",
+    "douglas county",
+    "iowa",
+    "united states",
+    "douglas",
+    "omaha"
+  ],
+  "location_city": [
+    "omaha"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "douglas"
+  ],
+  "location_state": [
+    "nebraska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000002",
+    "2",
+    "sn81002003",
+    "5",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn81002003"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "0",
+    "1",
+    "4",
+    "2",
+    "1",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn81002003-1955-05-09-ed-1-0117",
+  "partof": [
+    "the american citizen (omaha, neb.) 1923-1985",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the american citizen (omaha, neb.) 1923-1985"
+  ],
+  "publication_frequency": [
+    "quarterly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn81002003/1955-05-09/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn81002003/1955-05-09/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "omaha (neb.)",
+    "douglas",
+    "nebraska",
+    "douglas county",
+    "italian",
+    "iowa",
+    "united states",
+    "newspapers",
+    "italian americans",
+    "omaha",
+    "douglas county (neb.)"
+  ],
+  "subject_ethnicity": [
+    "italian"
+  ],
+  "timestamp": "2025-12-15T04:37:52.394Z",
+  "title": "Image 2 of The American citizen (Omaha, Neb.), May 9, 1955",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn81002003/1955-05-09/ed-1/?sp=2&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnbu%2Fbatch_nbu_housesparrow_ver01%2Fdata%2Fsn81002003%2F00517014217%2F1955050901%2F0117.xml&q=nuclear&relevant_snippet=1"
+}

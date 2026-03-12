@@ -1,0 +1,166 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86063034/1897-05-18/ed-1/?sp=1"
+  ],
+  "batch": [
+    "gu_endeavour_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/georgia/",
+    "2/united states/georgia/chatham/",
+    "3/united states/georgia/chatham/savannah/"
+  ],
+  "contributor": [
+    "digital library of georgia, a project of galileo located at the university of georgia libraries"
+  ],
+  "date": "1897-05-18",
+  "dates": [
+    "1897-05-18"
+  ],
+  "description": [
+    "THE MORNING NEWS 1 Established 1350 Incorporated 1888 V j J H ESTILL President dire disaster at domokos the TlliKS ISFLICT A CRUSHING DEFEAT ON THE GREEKS sironK Probability That They Have Cot Between tlie Greek rmica and Cut Off the Retreut of rnwn Prince Constautlne The Turkish Army of Attack 35000 trong no ll the Town Completely Surrounded Before It Capture Intense Excitement at Athens Over the News Headquarters of the Greek Army Do mokos May 17 4 p mThe Turkish at tack on the Greek right wing began at 2 oclock this morning but the flank at tacks are considered to be feints and it is believed the main attack of the Turks will be made upon the Greek center where Crown Prince Constantine is in command Two Greek cannons are doing great ex ecution on the principal Turkish column which is advancing through the hills The Turkish infantry at several points is In contact with the Greeks It is be lieved here that the attack on Gen Smo lensk near Almyro is only a strategic operation and that the Turks will endeav or to cut between the two Greek armies occupy the road leading to the Othry"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-05-22T12:56:19.756Z",
+  "group": [
+    "ndnp/gu",
+    "digital-library-of-georgia-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86063034/1897-05-18/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182215:1897051801:0179/full/pct:3.125/0/default.jpg#h=283&w=222",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182215:1897051801:0179/full/pct:6.25/0/default.jpg#h=567&w=444",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182215:1897051801:0179/full/pct:12.5/0/default.jpg#h=1135&w=888",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/gu/batch_gu_endeavour_ver01/data/sn86063034/00414182215/1897051801/0179.xml&format=alto_xml"
+  ],
+  "index": 87,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "chatham",
+    "savannah",
+    "chatham county",
+    "georgia",
+    "united states"
+  ],
+  "location_city": [
+    "savannah"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "chatham"
+  ],
+  "location_state": [
+    "georgia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn86063034",
+    "8",
+    "0",
+    "2",
+    "1",
+    "0000000001",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86063034"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "1",
+    "8",
+    "2",
+    "2",
+    "1",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Savannah morning news",
+    "Sunday issue may sometimes be known as: Sunday news",
+    "Sunday issue may sometimes be known as: Sunday morning news"
+  ],
+  "page_id": "sn86063034-1897-05-18-ed-1-0179",
+  "partof": [
+    "the morning news (savannah, ga.) 1887-1900",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the morning news (savannah, ga.) 1887-1900"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86063034/1897-05-18/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86063034/1897-05-18/ed-1/"
+  ],
+  "shelf_id": "01",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "chatham county (ga.)",
+    "chatham",
+    "savannah",
+    "savannah (ga.)",
+    "chatham county",
+    "united states",
+    "georgia"
+  ],
+  "timestamp": "2024-05-22T20:43:01.193Z",
+  "title": "Image 1 of The morning news (Savannah, Ga.), May 18, 1897",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86063034/1897-05-18/ed-1/?sp=1&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fgu%2Fbatch_gu_endeavour_ver01%2Fdata%2Fsn86063034%2F00414182215%2F1897051801%2F0179.xml&q=cuba&relevant_snippet=1"
+}

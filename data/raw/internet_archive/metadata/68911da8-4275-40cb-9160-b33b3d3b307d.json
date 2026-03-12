@@ -1,0 +1,18 @@
+{
+  "description": "All of the SWF-format Flash games I was able to archive from ArmorGames.com using WinHTTrack on more-or-less default settings and a computer generated list of URLs. ArmorGames allows access to their games just by visiting \"https://armorgames.com/(a number)\" so I simply used the latest game published on the site as a base and downloaded every page from 1 to that, with attached SWF file, in order. SWF-format Flash games and animations are a massive cornerstone of internet culture after the turn of the millenium, and it would be a shame to lose it all - this is the first part of an effort by me to get as much of it as possible. SWF files are provided as is; can't guarantee they'll work without some kind of futzing as certain flash games did like to lock themself to one website, although a handful of files I tried in the standalone Flash player on Windows 10 did work as expected. This archive was taken on Boxing Day, 2017.",
+  "format": [
+    "Metadata",
+    "Shockwave Flash"
+  ],
+  "identifier": "armorgames",
+  "mediatype": "software",
+  "subject": [
+    "games",
+    "flash",
+    "flash games",
+    "swf",
+    "armor games",
+    "armorgames"
+  ],
+  "title": "ArmorGames SWF archive"
+}

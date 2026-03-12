@@ -1,0 +1,152 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85025715/1896-02-28/ed-1/?sp=1"
+  ],
+  "batch": [
+    "vi_orange_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/virginia/",
+    "3/united states/virginia/norfolk/"
+  ],
+  "contributor": [
+    "library of virginia; richmond, va"
+  ],
+  "date": "1896-02-28",
+  "dates": [
+    "1896-02-28"
+  ],
+  "description": [
+    "yol lino es NORFOLK va FRIDAY FEBRUARY 28 189a The circulation of the Virgin ian Is so great that no dv User can afford to stay out Few try PRICE 2 CENTS SPAINS HOLD ON CUBA Thg Toothless Old Wolf Can Never Retain Her Single Remaining Gub of Cuba SENATOR VESTS IMPASSIONED PLEA Vim Munt Help Cltbn lu Her Hour or SeedSpains Attrmpt lo Suppress ibo Insurrection Absolutely Hope less Spain Cauuof Hold CuOaThe Coast Ueleuse Committee Washington Fob 27A resolution this reported from the Committee on Contingent Expenses to authorize the Committee on const Defenses to take testimony and to vlsil Hiieh places as may be hecesnary This provision was objected to by Mr Cochrnll on the ground that il would give a roving commission Id the Com mil lee on Coast Defences The chairman of thut com mittee however Mr Squire said that the committee might desire to examine the defences of New York city and he was willing to have that limitation put In the resolution The resolution was nmemlcd in that way and was agreed to The subject of the sea const defences of the country was elaborately treated lu n speech by Senator Proctor Rep"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-02-06T12:46:26.071Z",
+  "group": [
+    "ndnp/vi",
+    "library-of-virginia-richmond-va-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85025715/1896-02-28/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_orange_ver01:data:sn85025715:00175031510:1896022801:0873/full/pct:6.25/0/default.jpg#h=402&w=349",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_orange_ver01:data:sn85025715:00175031510:1896022801:0873/full/pct:12.5/0/default.jpg#h=804&w=699",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/vi/batch_vi_orange_ver01/data/sn85025715/00175031510/1896022801/0873.xml&format=alto_xml"
+  ],
+  "index": 170,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "norfolk",
+    "united states",
+    "virginia"
+  ],
+  "location_city": [
+    "norfolk"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "virginia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn85025715",
+    "0000000001",
+    "5",
+    "3",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85025715"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "1",
+    "7",
+    "5",
+    "0",
+    "3",
+    "1",
+    "5",
+    "1",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Daily Norfolk Virginian"
+  ],
+  "page_id": "sn85025715-1896-02-28-ed-1-0873",
+  "partof": [
+    "the norfolk virginian (norfolk, va.) 186?-189?",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the norfolk virginian (norfolk, va.) 186?-189?"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85025715/1896-02-28/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85025715/1896-02-28/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "virginia",
+    "norfolk",
+    "united states",
+    "newspapers",
+    "norfolk (va.)"
+  ],
+  "timestamp": "2024-02-08T03:23:56.852Z",
+  "title": "Image 1 of The Norfolk Virginian (Norfolk, Va.), February 28, 1896",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85025715/1896-02-28/ed-1/?sp=1&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fvi%2Fbatch_vi_orange_ver01%2Fdata%2Fsn85025715%2F00175031510%2F1896022801%2F0873.xml&q=cuba&relevant_snippet=1"
+}

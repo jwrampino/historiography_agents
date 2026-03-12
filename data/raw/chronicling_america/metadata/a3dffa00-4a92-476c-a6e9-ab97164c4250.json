@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86086068/1920-02-12/ed-1/?sp=7"
+  ],
+  "batch": [
+    "whi_lethifold_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/wisconsin/",
+    "2/united states/wisconsin/sauk/",
+    "3/united states/wisconsin/sauk/baraboo/"
+  ],
+  "contributor": [
+    "wisconsin historical society"
+  ],
+  "date": "1920-02-12",
+  "dates": [
+    "1920-02-12"
+  ],
+  "description": [
+    "Obituary Robert Attridge Robert Attridge died Friday even ing about 930 at his home on Tenth street at the age of 77 years He was born in Rochester New York and came to Fairfield when a young man where he lived the remainder of his life with the exception of three years spent in this city Mr Attridge was a prominent man in the town of Fair field He was a member of the county board for a number of years and also held other town and county offices during his life Deceased leaves a wife two daugh ters Miss Maude of Madison Wis Miss Clara at home and three sons Har vey Helena Montana Arthur of Greenfield and Frank of Fairfield All the children except Maude were present at the time of death and she arrived soon after Mrs Henry Gattwinkel Mrs Henry Gattwinkel nee Sieidt xnann was born in Eulau Province Saxony Germany in 1835 She ern migrated to America with her parents in 1849 The greater portion of the first two years in America she spent with her parents on a small farm in the township of Merrimac Sauk Coun ty Wis At the age of seventeen"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-22T16:22:14.452Z",
+  "group": [
+    "ndnp/whi",
+    "wisconsin-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86086068/1920-02-12/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lethifold_ver01:data:sn86086068:00414214964:1920021201:0307/full/pct:3.125/0/default.jpg#h=323&w=227",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lethifold_ver01:data:sn86086068:00414214964:1920021201:0307/full/pct:6.25/0/default.jpg#h=646&w=454",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/whi/batch_whi_lethifold_ver01/data/sn86086068/00414214964/1920021201/0307.xml&format=alto_xml"
+  ],
+  "index": 13,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "baraboo",
+    "united states",
+    "wisconsin",
+    "sauk"
+  ],
+  "location_city": [
+    "baraboo"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "sauk"
+  ],
+  "location_state": [
+    "wisconsin"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000007",
+    "9",
+    "2",
+    "6",
+    "4",
+    "sn86086068",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86086068"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "2",
+    "1",
+    "4",
+    "9",
+    "6",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86086068-1920-02-12-ed-1-0307",
+  "partof": [
+    "chronicling america",
+    "baraboo weekly news (baraboo, wis.) 1912-197?",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "baraboo weekly news (baraboo, wis.) 1912-197?"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86086068/1920-02-12/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86086068/1920-02-12/ed-1/"
+  ],
+  "shelf_id": "7",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "sauk",
+    "wisconsin",
+    "baraboo",
+    "baraboo (wis.)",
+    "newspapers"
+  ],
+  "timestamp": "2023-08-23T11:13:18.040Z",
+  "title": "Image 7 of Baraboo weekly news (Baraboo, Wis.), February 12, 1920",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86086068/1920-02-12/ed-1/?sp=7&q=phillipines",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwhi%2Fbatch_whi_lethifold_ver01%2Fdata%2Fsn86086068%2F00414214964%2F1920021201%2F0307.xml&q=phillipines&relevant_snippet=1"
+}

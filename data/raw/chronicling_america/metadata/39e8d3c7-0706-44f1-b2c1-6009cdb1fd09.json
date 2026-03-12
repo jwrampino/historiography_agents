@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87065333/1962-10-18/ed-1/?sp=12"
+  ],
+  "batch": [
+    "msar_kaolin_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/mississippi/",
+    "2/united states/mississippi/holmes/",
+    "3/united states/mississippi/holmes/lexington/"
+  ],
+  "contributor": [
+    "mississippi department of archives and history"
+  ],
+  "date": "1962-10-18",
+  "dates": [
+    "1962-10-18"
+  ],
+  "description": [
+    "Heritage Club Meets In Pickens The Heritage Ouft met Tuesday October 9th with Mrs H L Gowan Mrs Mor ris Ginn and Mrs Otoe Dan Patton as i0hrtesses The meeting was called to order by Mrs Hugh Gowan president and the collec t read After reports from officers Mrs Red Browning was no minated as vicepresident by the nominating committee Mrs Bill Presley Mrs Wil liam Cook and Mrs Ed Elli son There were no nomina tions from the floor and Mrs Browning was unanimously voted in by the club members The devotional which was on major religions of the world was given by Mrs John Presley The program committee composed of Mrs Norris Mrs Ginn and Mrs H L Gowan presented films on Yosemite Monterey Tahoe and Car mel Mrs Gowan made many informative and interesting comments as the film was shown Among them was a quote from Robert Louis Ste venson on Carmel Mr Ste venson said It is the finest meeting place between land and water in existence After the meeting adjourn ed the members enjoyed a brief social period A delicious salad plate was served by the hostesses WMU To Meet In Durant District VIII of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:44:33.896Z",
+  "group": [
+    "ndnp/msar",
+    "mississippi-department-of-archives-and-history"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87065333/1962-10-18/ed-1/?sp=12",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kaolin_ver01:data:sn87065333:00383344918:1962101801:0602/full/pct:3.125/0/default.jpg#h=287&w=203",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kaolin_ver01:data:sn87065333:00383344918:1962101801:0602/full/pct:6.25/0/default.jpg#h=575&w=406",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kaolin_ver01:data:sn87065333:00383344918:1962101801:0602/full/pct:12.5/0/default.jpg#h=1150&w=812",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/msar/batch_msar_kaolin_ver01/data/sn87065333/00383344918/1962101801/0602.xml&format=alto_xml"
+  ],
+  "index": 51,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "mississippi",
+    "lexington",
+    "holmes"
+  ],
+  "location_city": [
+    "lexington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "holmes"
+  ],
+  "location_state": [
+    "mississippi"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "9",
+    "4",
+    "1",
+    "0000000012",
+    "sn87065333",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87065333"
+  ],
+  "number_page": [
+    "0000000012"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "8",
+    "3",
+    "3",
+    "4",
+    "4",
+    "9",
+    "1",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87065333-1962-10-18-ed-1-0602",
+  "partof": [
+    "holmes county herald (lexington, miss.) 1959-current",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "holmes county herald (lexington, miss.) 1959-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87065333/1962-10-18/ed-1/?sp=12"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87065333/1962-10-18/ed-1/"
+  ],
+  "shelf_id": "12",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "holmes",
+    "lexington",
+    "mississippi"
+  ],
+  "timestamp": "2023-07-06T05:01:42.829Z",
+  "title": "Image 12 of Holmes County herald (Lexington, Miss.), October 18, 1962",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87065333/1962-10-18/ed-1/?sp=12&q=phillipines",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmsar%2Fbatch_msar_kaolin_ver01%2Fdata%2Fsn87065333%2F00383344918%2F1962101801%2F0602.xml&q=phillipines&relevant_snippet=1"
+}

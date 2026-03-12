@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn91070618/1958-08-08/ed-1/?sp=2"
+  ],
+  "batch": [
+    "rp_hobgoblin_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/rhode island/",
+    "2/united states/rhode island/newport/",
+    "3/united states/rhode island/newport/newport/"
+  ],
+  "contributor": [
+    "rhode island digital newspaper project"
+  ],
+  "date": "1958-08-08",
+  "dates": [
+    "1958-08-08"
+  ],
+  "description": [
+    "MAP LAI Happy Marriage Itv Chaplain David 1 Casazxa Happy marriages are not made in Heaven They are made on earth by facing downtoearth realities They arc made by part ners who set out to learn slowly how to build their lives together More than any other earthly vo cation married life is a labor of love and married love is a love of giving It is within the reach of all those who do not reject Cods grace deny His assistance abandon His love and degrade their own There are two philosophies therefore that govern the suc cess or failure of marriages one is that philosophy by which mar ried couples live their lives ac cording to the rule Is it fun These people shun anything and everything that is difficult and dull In the other attitude to wards marriage lives are regu lated by the rule What is Gotts will Those who base their lives on the first of these principles will be inevitably unhappily married But those who pattern their lives according to Gods plan will raise their marriage to the heights of the sublime and beau The Navys Oldest Newspaper Established 1901 More than OOO Keadcrs"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-02-10T14:25:23.255Z",
+  "group": [
+    "ndnp/rp",
+    "rhode-island-digital-newspaper-project"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn91070618/1958-08-08/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_hobgoblin_ver02:data:sn91070618:0051699180A:1958080801:0778/full/pct:6.25/0/default.jpg#h=287&w=226",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_hobgoblin_ver02:data:sn91070618:0051699180A:1958080801:0778/full/pct:12.5/0/default.jpg#h=575&w=453",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_hobgoblin_ver02:data:sn91070618:0051699180A:1958080801:0778/full/pct:25/0/default.jpg#h=1150&w=907",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/rp/batch_rp_hobgoblin_ver02/data/sn91070618/0051699180A/1958080801/0778.xml&format=alto_xml"
+  ],
+  "index": 21,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "newport",
+    "rhode island"
+  ],
+  "location_city": [
+    "newport"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "newport"
+  ],
+  "location_state": [
+    "rhode island"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "a",
+    "sn91070618",
+    "9",
+    "6",
+    "5",
+    "8",
+    "0000000002",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn91070618"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "1",
+    "8",
+    "0",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Issues for Jan. 8-Sept. 9, 1988 published as: Navalog"
+  ],
+  "page_id": "sn91070618-1958-08-08-ed-1-0778",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "newport navalog (newport, r.i.) 1944-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "newport navalog (newport, r.i.) 1944-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn91070618/1958-08-08/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn91070618/1958-08-08/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newport",
+    "newport (r.i.)",
+    "rhode island",
+    "newspapers",
+    "military bases"
+  ],
+  "timestamp": "2025-02-10T15:05:09.679Z",
+  "title": "Image 2 of Newport navalog (Newport, R.I.), August 8, 1958",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn91070618/1958-08-08/ed-1/?sp=2&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Frp%2Fbatch_rp_hobgoblin_ver02%2Fdata%2Fsn91070618%2F0051699180A%2F1958080801%2F0778.xml&q=nuclear&relevant_snippet=1"
+}

@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87078321/1898-05-04/ed-1/?sp=6"
+  ],
+  "batch": [
+    "pst_hetzel_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/pennsylvania/",
+    "2/united states/pennsylvania/jefferson/",
+    "3/united states/pennsylvania/jefferson/reynoldsville/"
+  ],
+  "contributor": [
+    "penn state university libraries; university park, pa"
+  ],
+  "date": "1898-05-04",
+  "dates": [
+    "1898-05-04"
+  ],
+  "description": [
+    "ADMIRAL DEWEY REMEMBERS THE II Blows Up a Spanish War Ship and Burns Two to the Waters Edge ASIATIC FLEET WINS A VICTORY Spanlih Admiral Compelled to Detert Hit FlagshipAmerican Vetiolt Fight No bly Being Attacked by tend and Be at the Fhlltplno Iilanda Sunday morning Commodore Dew eys Asiatic fleet of United State war ships appeared before Manila the capital of the Philippine Inland The Commodore hnd been forced to retire from Astatic port because of neutrality declaration of Oriental Power Dew ey had either to fight the Spanish ships at Manila and thus secure a coaling station In Asiatic water or return to Ban Francisco Inspired by the mem ory of the Maine disaster he directed hla ships and trained hla nuns toward the Philippine Inlands He fought a great battle and destroyed three of Spains largest vessels Aa the porta of Manila and Cnvlte hove Into sight the guns of the two ad vance American cruiser were trained on the battery of Manila and fired an elhtlnch projectile each The first two shots fell ahort of the mark Not so however the next two The Ameri can gunners aim aent them with un erring accuracy against the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-10-08T10:06:07.149Z",
+  "group": [
+    "ndnp/pst",
+    "penn-state-university-libraries-university-park-pa-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87078321/1898-05-04/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn87078321:00280776634:1898050401:0578/full/pct:6.25/0/default.jpg#h=383&w=266",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn87078321:00280776634:1898050401:0578/full/pct:12.5/0/default.jpg#h=767&w=533",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/pst/batch_pst_hetzel_ver01/data/sn87078321/00280776634/1898050401/0578.xml&format=alto_xml"
+  ],
+  "index": 193,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "jefferson",
+    "united states",
+    "pennsylvania",
+    "reynoldsville"
+  ],
+  "location_city": [
+    "reynoldsville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "jefferson"
+  ],
+  "location_state": [
+    "pennsylvania"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn87078321",
+    "8",
+    "0",
+    "2",
+    "0000000006",
+    "7",
+    "1",
+    "3",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87078321"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "7",
+    "7",
+    "6",
+    "6",
+    "3",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87078321-1898-05-04-ed-1-0578",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the star (reynoldsville, pa.) 1892-1946"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the star (reynoldsville, pa.) 1892-1946"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87078321/1898-05-04/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87078321/1898-05-04/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "reynoldsville",
+    "reynoldsville (pa.)",
+    "jefferson",
+    "pennsylvania",
+    "united states"
+  ],
+  "timestamp": "2022-10-28T04:05:16.207Z",
+  "title": "Image 6 of The star (Reynoldsville, Pa.), May 4, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87078321/1898-05-04/ed-1/?sp=6&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fpst%2Fbatch_pst_hetzel_ver01%2Fdata%2Fsn87078321%2F00280776634%2F1898050401%2F0578.xml&q=spanish&relevant_snippet=1"
+}

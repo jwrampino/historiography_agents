@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn91070618/1961-06-16/ed-1/?sp=3"
+  ],
+  "batch": [
+    "rp_invisiblestalker_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/rhode island/",
+    "2/united states/rhode island/newport/",
+    "3/united states/rhode island/newport/newport/"
+  ],
+  "contributor": [
+    "rhode island digital newspaper project"
+  ],
+  "date": "1961-06-16",
+  "dates": [
+    "1961-06-16"
+  ],
+  "description": [
+    "Friday 16 June 1961 Newport Chosen As Site For Destroyer School Newport has been selected as the site for a Destroyer School which will be designed to give officers a broad professional back ground which will enable them to qualify for assignment as head of any line department in a de stroyer type vessel The school approved by Sec Nav will be located in Bldg 138 which currently houses the Des Afloat Engineering School and Limited Dutv Officer School Requirements Carefully screened and selected destroyer officers who have ap proximately 18 months service will be trained and drilled for 24 weeks at the school This training will include three weeks of in tensive atsea exercises and prac tical drills Upon completion of the course officers will be re quired to serve two years in a destroyer billet Officers with more than 18 months service will also be con sidered for the first class sched 35 Storekeepers Graduated From Supply Schools Thirtyfive students comprising Class SlO61 Storekeeper Class A School will receive their cer tificates in graduation ceremonies this afternoon at 1300 at the Supply School Today s gradua tion marks the end of 12 weeks of intensive studies in the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-04-27T04:23:21.471Z",
+  "group": [
+    "ndnp/rp",
+    "rhode-island-digital-newspaper-project"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn91070618/1961-06-16/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_invisiblestalker_ver01:data:sn91070618:00516991811:1961061601:0448/full/pct:6.25/0/default.jpg#h=338&w=288",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_invisiblestalker_ver01:data:sn91070618:00516991811:1961061601:0448/full/pct:12.5/0/default.jpg#h=677&w=576",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/rp/batch_rp_invisiblestalker_ver01/data/sn91070618/00516991811/1961061601/0448.xml&format=alto_xml"
+  ],
+  "index": 168,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "rhode island",
+    "newport",
+    "united states"
+  ],
+  "location_city": [
+    "newport"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "newport"
+  ],
+  "location_state": [
+    "rhode island"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn91070618",
+    "8",
+    "0",
+    "0000000003",
+    "9",
+    "1",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn91070618"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "1",
+    "8",
+    "1",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Issues for Jan. 8-Sept. 9, 1988 published as: Navalog"
+  ],
+  "page_id": "sn91070618-1961-06-16-ed-1-0448",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "newport navalog (newport, r.i.) 1944-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "newport navalog (newport, r.i.) 1944-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn91070618/1961-06-16/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn91070618/1961-06-16/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "rhode island",
+    "newspapers",
+    "military bases",
+    "newport (r.i.)",
+    "newport",
+    "united states"
+  ],
+  "timestamp": "2025-04-27T04:37:19.297Z",
+  "title": "Image 3 of Newport navalog (Newport, R.I.), June 16, 1961",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn91070618/1961-06-16/ed-1/?sp=3&q=vietnam",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Frp%2Fbatch_rp_invisiblestalker_ver01%2Fdata%2Fsn91070618%2F00516991811%2F1961061601%2F0448.xml&q=vietnam&relevant_snippet=1"
+}

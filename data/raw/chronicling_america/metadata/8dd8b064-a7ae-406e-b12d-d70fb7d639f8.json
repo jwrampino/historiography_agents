@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2019270505/1949-06-30/ed-1/?sp=1"
+  ],
+  "batch": [
+    "nbu_indescribablebeast_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nebraska/",
+    "2/united states/nebraska/lancaster/",
+    "3/united states/nebraska/lancaster/lincoln/"
+  ],
+  "contributor": [
+    "university of nebraska-lincoln libraries, lincoln, ne"
+  ],
+  "date": "1949-06-30",
+  "dates": [
+    "1949-06-30"
+  ],
+  "description": [
+    "V i July 4th the nation will celebrate the 173rd anniversary of the signing of one of the worlds greatest documents and certainly the most fundamental American expression of what America wants to be We hold these truths to be self evident that all men are created equal that they are endowed by their Creator with certain unalienable Rights that among these are Life Liberty and the pur suit of Happiness Today the interpretations of these famous lines are varied a great deal What is American or Democratic or Reactionary or Communistic is often used as a hook for our likes and dislikes Happily some American leaders are sincerely trying to write the spirit of the Declaration of Independence into law Every day some body else in Nebraska tries to put it into practice but at the same time there are a lot of people who are afraid to try and even against trying it We celebrate the signing of this great statement that all may share in its spirit to build an even greater America where every man shall have the same opportunity to pursue happiness To this end all Americans should rededicate themselves PSTwo of the signers of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:41:51.703Z",
+  "group": [
+    "ndnp/nbu",
+    "university-of-nebraska-of-nebraska-lincoln-libraries-lincoln-ne-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2019270505/1949-06-30/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indescribablebeast_ver01:data:2019270505:00332899284:1949063001:0063/full/pct:6.25/0/default.jpg#h=437&w=307",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indescribablebeast_ver01:data:2019270505:00332899284:1949063001:0063/full/pct:12.5/0/default.jpg#h=874&w=615",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nbu/batch_nbu_indescribablebeast_ver01/data/2019270505/00332899284/1949063001/0063.xml&format=alto_xml"
+  ],
+  "index": 4,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "lancaster",
+    "lincoln",
+    "nebraska"
+  ],
+  "location_city": [
+    "lincoln"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lancaster"
+  ],
+  "location_state": [
+    "nebraska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "0000000001",
+    "2",
+    "2019270505",
+    "8",
+    "3",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2019270505"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "9",
+    "2",
+    "8",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2019270505-1949-06-30-ed-1-0063",
+  "partof": [
+    "chronicling america",
+    "the voice (lincoln, nebraska) 1946-195?",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the voice (lincoln, nebraska) 1946-195?"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2019270505/1949-06-30/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2019270505/1949-06-30/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "nebraska",
+    "lancaster",
+    "african american newspapers",
+    "african american",
+    "lincoln (neb.)",
+    "united states",
+    "newspapers",
+    "african americans",
+    "lincoln"
+  ],
+  "subject_ethnicity": [
+    "african american"
+  ],
+  "timestamp": "2025-12-15T05:07:45.882Z",
+  "title": "Image 1 of The voice (Lincoln, Nebraska), June 30, 1949",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2019270505/1949-06-30/ed-1/?sp=1&q=civil+rights",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnbu%2Fbatch_nbu_indescribablebeast_ver01%2Fdata%2F2019270505%2F00332899284%2F1949063001%2F0063.xml&q=civil+rights&relevant_snippet=1"
+}

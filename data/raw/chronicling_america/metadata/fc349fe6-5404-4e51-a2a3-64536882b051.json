@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045293/1930-02-14/ed-1/?sp=4"
+  ],
+  "batch": [
+    "whi_italico_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/wisconsin/",
+    "2/united states/wisconsin/milwaukee/",
+    "3/united states/wisconsin/milwaukee/milwaukee/"
+  ],
+  "contributor": [
+    "wisconsin historical society"
+  ],
+  "date": "1930-02-14",
+  "dates": [
+    "1930-02-14"
+  ],
+  "description": [
+    "Page Four 1000 JOBLESS PAY VISIT TO COORTHOUSE About 1000 unemployed men led by heads of the Communist party Including Norman Satir and Leo Fischer paraded through Milwau kees downtown district yesetrday Gathering in front of Communist headquarters at Sixth st and Ju neau ave the band of GOO men gathered recruits as it marched down Sixth st Wisconsin ave and Jackson st to the courthouse County Clerk Absent While a committee of eight went into the county clerks office to read its grievances the army waited in courthouse square Since County Clerk William J Cary was away from his office be cause of illness the leaders picked out an official in the office to whom they could read their speech Promise Big Parade The official explained he was powerless to act or speak in any of ficial capacity and recommended they present resolutions at the county board meeting Tuesday but the leaders accused him of passing the buck After leaving the courthouse the parade went down East Wells st to East Water st and East Kilbourn ave to the public employment office One speaker from California an nounced that Feb 26 is the day on which Communists from all"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-09-29T00:15:48.962Z",
+  "group": [
+    "ndnp/whi",
+    "wisconsin-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045293/1930-02-14/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_italico_ver01:data:sn83045293:00542869288:1930021401:0208/full/pct:3.125/0/default.jpg#h=306&w=225",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_italico_ver01:data:sn83045293:00542869288:1930021401:0208/full/pct:6.25/0/default.jpg#h=613&w=451",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/whi/batch_whi_italico_ver01/data/sn83045293/00542869288/1930021401/0208.xml&format=alto_xml"
+  ],
+  "index": 114,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "wisconsin",
+    "milwaukee"
+  ],
+  "location_city": [
+    "milwaukee"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "milwaukee"
+  ],
+  "location_state": [
+    "wisconsin"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "sn83045293",
+    "5",
+    "2",
+    "4",
+    "6",
+    "1",
+    "0000000004",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045293"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "2",
+    "8",
+    "6",
+    "9",
+    "2",
+    "8",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83045293-1930-02-14-ed-1-0208",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the milwaukee leader (milwaukee, wis.) 1911-1938"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the milwaukee leader (milwaukee, wis.) 1911-1938"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045293/1930-02-14/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045293/1930-02-14/ed-1/"
+  ],
+  "shelf_id": "04",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "https://id.oclc.org/worldcat/entity/e39pbjj8j7dbwccgbfpvchw3cp",
+    "milwaukee (wis.)",
+    "milwaukee",
+    "socialism",
+    "wisconsin"
+  ],
+  "timestamp": "2024-09-29T00:39:51.768Z",
+  "title": "Image 4 of The Milwaukee leader (Milwaukee, Wis.), February 14, 1930, (Home Edition)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045293/1930-02-14/ed-1/?sp=4&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwhi%2Fbatch_whi_italico_ver01%2Fdata%2Fsn83045293%2F00542869288%2F1930021401%2F0208.xml&q=fascism&relevant_snippet=1"
+}

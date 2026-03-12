@@ -1,0 +1,133 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16106/?sp=1"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1819-04-24",
+  "dates": [
+    "1819-04-24"
+  ],
+  "description": [
+    "rSan 6 SS Eurovean Cr tracts As ali the Members of the Holy Alliance or their Representatives are Low assemiiled at AixelaChapelle it is to be hoped that te solemn business of the Congress will be opewed with the becoming formality which should attend the proceedings of Porentates and tatesmen who are not only met to gether but actually leagted to preserve the peace of Europe aud plomote her moral regeneration \u00e9 tis new mete than half a century stace this town was bhououred With similar visitors professing equally pore and laudable objects fi then contained Plenjivotentiaries from England fiom Maria Theresa Queens of Hungary aud Bohemia from Louis XV of France from the King of Sardinia from Spain from the United Provinces from the Republic of Genoa vow no more and from the Duke of Modena hese Powers com prising the great Arbitrators of the destinies of furope held long and weighty nego tiations which terminated in October 1748 in the celebrated Yreaty of AixlaChapelle the chief articles of which breathe such a spirit of pure philanthropy a d benevolence that we transcribe them verbatim ou the present occasion when it is highly pros bable they will furnish ihe"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16106/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16106:0001/full/pct:3.125/0/default.jpg#h=258&w=171",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16106:0001/full/pct:6.25/0/default.jpg#h=517&w=342",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16106:0001/full/pct:12.5/0/default.jpg#h=1034&w=685",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16106:0001/full/pct:25.0/0/default.jpg#h=2068&w=1370",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16106:0001/full/pct:50.0/0/default.jpg#h=4137&w=2741",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16106:0001/full/pct:100.0/0/default.jpg#h=8275&w=5482",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16106/0001.alto.xml&format=alto_xml"
+  ],
+  "index": 21,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "calcutta",
+    "india"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "sn88063571",
+    "2025-08-13t13:59:42.400000",
+    "sn88063570",
+    "0000000001",
+    "sn88063569"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16106-0001-alto",
+  "partof": [
+    "catalog",
+    "world digital library",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "asian division",
+    "serial and government publications division",
+    "south asian digital collection",
+    "world newspapers",
+    "general collections"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16106/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16106/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "calcutta",
+    "india"
+  ],
+  "timestamp": "2025-12-12T07:20:16.953Z",
+  "title": "Image 1 of Supplement. Calcutta, Saturday, April 24, 1819 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16106/?sp=1&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16106%2F0001.alto.xml&q=great+war&relevant_snippet=1"
+}

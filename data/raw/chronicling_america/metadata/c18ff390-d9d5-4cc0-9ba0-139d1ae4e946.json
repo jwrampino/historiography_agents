@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88085733/1934-09-21/ed-1/?sp=3"
+  ],
+  "batch": [
+    "wa_ivorygull_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/washington/",
+    "2/united states/washington/king/",
+    "3/united states/washington/king/seattle/"
+  ],
+  "contributor": [
+    "washington state library; olympia, wa"
+  ],
+  "date": "1934-09-21",
+  "dates": [
+    "1934-09-21"
+  ],
+  "description": [
+    "Fuiday Sept 21 193 AFL ADVOCATES INDUSTRIAL UNIONS TO DEFEAT WORKERS SEATTLE Sept 20The Lum ber Code Authority has turned over the Administration of the Lumber Code into the hands of the larger lumber operators Phis manouver gives these greedy patasites full reign and with gov ernment sanction to dispose of the code as they see fit to in crease their profits The small lumber operator can no longer compete with the larger operators and are now handing together to defy the Lumber Code The Westcoast Lumber Mens Assn states they will erack down on anyone vio lating the sacred price that has been enforced Thus resulting in warfare between the little oper ators and the monopolists of the lamber industry for a ilfe and death struggle 1 With this econdition existing among the lumber operators makes a very favorable situation for the lumber workers to take advantage and start immediate organization to force these oper ators to grant higher wages and abolish the speedup Although we are not bewail ing the fate of the small mill owners but when we have the enemy fighting among them selves gives the lumber workers an opportunity to hit them while the iron"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-04-26T11:27:40.248Z",
+  "group": [
+    "ndnp/wa",
+    "washington-state-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88085733/1934-09-21/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_ivorygull_ver01:data:sn88085733:00414189945:1934092101:0869/full/pct:6.25/0/default.jpg#h=404&w=309",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_ivorygull_ver01:data:sn88085733:00414189945:1934092101:0869/full/pct:12.5/0/default.jpg#h=809&w=619",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wa/batch_wa_ivorygull_ver01/data/sn88085733/00414189945/1934092101/0869.xml&format=alto_xml"
+  ],
+  "index": 94,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "seattle",
+    "king",
+    "washington"
+  ],
+  "location_city": [
+    "seattle"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "king"
+  ],
+  "location_state": [
+    "washington"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000003",
+    "0",
+    "9",
+    "sn88085733",
+    "4",
+    "1",
+    "5",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88085733"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "1",
+    "8",
+    "9",
+    "9",
+    "4",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88085733-1934-09-21-ed-1-0869",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "voice of action (seattle, wash.) 1933-1936"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "voice of action (seattle, wash.) 1933-1936"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88085733/1934-09-21/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88085733/1934-09-21/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington (state)",
+    "united states",
+    "seattle (wash.)",
+    "newspapers",
+    "seattle",
+    "washington",
+    "king"
+  ],
+  "timestamp": "2024-04-27T04:09:29.405Z",
+  "title": "Image 3 of Voice of action (Seattle, Wash.), September 21, 1934",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88085733/1934-09-21/ed-1/?sp=3&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwa%2Fbatch_wa_ivorygull_ver01%2Fdata%2Fsn88085733%2F00414189945%2F1934092101%2F0869.xml&q=fascism&relevant_snippet=1"
+}

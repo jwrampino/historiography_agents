@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88085733/1934-07-13/ed-1/?sp=2"
+  ],
+  "batch": [
+    "wa_ivorygull_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/washington/",
+    "2/united states/washington/king/",
+    "3/united states/washington/king/seattle/"
+  ],
+  "contributor": [
+    "washington state library; olympia, wa"
+  ],
+  "date": "1934-07-13",
+  "dates": [
+    "1934-07-13"
+  ],
+  "description": [
+    "2 which is combined THE THURS NOON OUTLOOK Published every k in Seattle by thesVoice of Action ditor offices 302 Maritime Building Telephone MAdn 152 es of addressUndeliverable copies hould be returned to 302 Maritime bldg Subseription rates s\ufb01ery_tas_llor six months Entered at the Post Office in Seattle Washington as second class matter un der the act of March 5 1879 Union Label Applied For e Ouwr Next Move Among initiative petitions not filed before the State of Washingtons deadline a week was Number 75 the Workers Unemployment Insurance Bill Similar fate has met the Oregon \ufb01uure What then are we to do At every step the initiatives were fought by all of capitalisms forces But even gO the signatures could have been obtained Lack of consistent campaign by the unem h\ufb02d organizations by the unions and by Voice of Actionto this we must attri bute the getting of but 35000 signatures in Washingon where 50000 were needed 10000 in Portland no report from the rest of Oregon instead of 25000 Workers were willing enough to sign A W Andrews of the UCLs Waterfront loeal in Seattle alone got the signatures of 4800 voters But what are we to do"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-04-26T11:27:39.718Z",
+  "group": [
+    "ndnp/wa",
+    "washington-state-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88085733/1934-07-13/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_ivorygull_ver01:data:sn88085733:00414189945:1934071301:0828/full/pct:6.25/0/default.jpg#h=406&w=306",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_ivorygull_ver01:data:sn88085733:00414189945:1934071301:0828/full/pct:12.5/0/default.jpg#h=812&w=613",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wa/batch_wa_ivorygull_ver01/data/sn88085733/00414189945/1934071301/0828.xml&format=alto_xml"
+  ],
+  "index": 176,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "seattle",
+    "king",
+    "washington",
+    "united states"
+  ],
+  "location_city": [
+    "seattle"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "king"
+  ],
+  "location_state": [
+    "washington"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn88085733",
+    "8",
+    "0000000002",
+    "0",
+    "9",
+    "1",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88085733"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "1",
+    "8",
+    "9",
+    "9",
+    "4",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88085733-1934-07-13-ed-1-0828",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "voice of action (seattle, wash.) 1933-1936"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "voice of action (seattle, wash.) 1933-1936"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88085733/1934-07-13/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88085733/1934-07-13/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "washington (state)",
+    "seattle (wash.)",
+    "king",
+    "seattle",
+    "washington",
+    "united states"
+  ],
+  "timestamp": "2024-04-27T04:08:58.276Z",
+  "title": "Image 2 of Voice of action (Seattle, Wash.), July 13, 1934",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88085733/1934-07-13/ed-1/?sp=2&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwa%2Fbatch_wa_ivorygull_ver01%2Fdata%2Fsn88085733%2F00414189945%2F1934071301%2F0828.xml&q=fascism&relevant_snippet=1"
+}

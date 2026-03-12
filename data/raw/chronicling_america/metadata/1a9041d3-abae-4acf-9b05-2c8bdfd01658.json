@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn95047216/1907-02-02/ed-1/?sp=3"
+  ],
+  "batch": [
+    "dlc_aricia_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/florida/",
+    "2/united states/florida/leon/",
+    "3/united states/florida/leon/tallahassee/",
+    "2/united states/florida/duval/",
+    "3/united states/florida/duval/jacksonville/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1907-02-02",
+  "dates": [
+    "1907-02-02"
+  ],
+  "description": [
+    "FLORIDA NEEDS IMMIGRATION Aliens not WantedImportant Work not Done Because Resources are not Provided All questions of importance should be carefully considered Trite as it may appear the truth remains that many matters of moment are en tered into without that forethought which in sures safety of action Some of Kloridas sister States are making much noise about immigration but none of them have gone about getting immigration in the same manner If nothing else were adducible to indi cate the perplexity of the question it would be the diverseness with which the matter is being treated in the different States Last year the Southern States received only 4 per cent of the immigrants brought to this coun try Many were ticketed through to the North west many others stopped in the large cities Intlmigrants have developed the great North west Immigrants have increased the percentage of illiteracy and crime in the great Northern and Eastern cities What is wanted in Florida Florida contains more area than any State east of the Mississippi except Georgia Florida has a population of about 11 to the square mile New York has a population of about 152 to the square mile There is"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2026-02-23T20:46:33.918Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn95047216/1907-02-02/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_aricia_ver01:data:sn95047216:print:1907020201:0023/full/pct:6.25/0/default.jpg#h=279&w=212",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_aricia_ver01:data:sn95047216:print:1907020201:0023/full/pct:12.5/0/default.jpg#h=559&w=424",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_aricia_ver01:data:sn95047216:print:1907020201:0023/full/pct:25/0/default.jpg#h=1118&w=848",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_aricia_ver01/data/sn95047216/print/1907020201/0023.xml&format=alto_xml"
+  ],
+  "index": 7,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "duval",
+    "leon",
+    "jacksonville",
+    "leon county",
+    "tallahassee",
+    "duval county",
+    "florida",
+    "united states"
+  ],
+  "location_city": [
+    "tallahassee",
+    "jacksonville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "leon",
+    "duval"
+  ],
+  "location_state": [
+    "florida"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000003",
+    "sn95047216",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn95047216"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn95047216-1907-02-02-ed-1-0023",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the sun (jacksonville, fla.) 1905-1908"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the sun (jacksonville, fla.) 1905-1908"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn95047216/1907-02-02/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn95047216/1907-02-02/ed-1/"
+  ],
+  "shelf_id": "03",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "duval",
+    "jacksonville (fla.)",
+    "tallahassee (fla.)",
+    "leon",
+    "leon county (fla.)",
+    "jacksonville",
+    "leon county",
+    "tallahassee",
+    "duval county",
+    "florida",
+    "united states",
+    "duval county (fla.)"
+  ],
+  "timestamp": "2026-02-23T22:56:48.460Z",
+  "title": "Image 3 of The sun (Jacksonville, Fla.), February 2, 1907",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn95047216/1907-02-02/ed-1/?sp=3&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_aricia_ver01%2Fdata%2Fsn95047216%2Fprint%2F1907020201%2F0023.xml&q=immigration&relevant_snippet=1"
+}

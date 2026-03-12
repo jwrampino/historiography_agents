@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1915-01-03/ed-1/?sp=12"
+  ],
+  "batch": [
+    "dlc_fordprefect_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1915-01-03",
+  "dates": [
+    "1915-01-03"
+  ],
+  "description": [
+    "CHILDRENS LABOR CONFERENCE TOPIC National Organization to Meet in Washington Tuesday and Wednesday BOTH MEN AND WOMEN ON PROGRAM FOR TALKS Dr George M Xober Chairman for District to Preside at First Afternoon Session Child Labor a National Problem is to be the general topic of the eleventh annual conference of the national child labor committee Tuesday and Wednesday at the New Willard The session is to open Tuesday morning at 1030 oclock with Dr Felix Adler of New York the chairman presiding Owen R Love joy of New York general secretary of the committee is to make an address on State Legisla tive Program for 1914191 An experience meeting is to be held in which addresses of ten minutes each are to be made by Lewis W Hine staff photographer national child labor committee Harry M Bremer special agent national child labor committee Herschel H Jones specilal agent national child labor committee Josephine J Eschenbrenner membership secretary national child labor committee Anna Rochester publication secretary national child labor committee Mrs W L Murdoch Birmingham chairman Alabama child labor committee Mrs J W McGriff Jacksonville secretary Florida child labor committee Richard K Conant Boston secretary Massachusetts child labor committee W"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:10:09.739Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1915-01-03/ed-1/?sp=12",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fordprefect_ver01:data:sn83045462:00280658595:1915010301:0352/full/pct:6.25/0/default.jpg#h=407&w=328",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fordprefect_ver01:data:sn83045462:00280658595:1915010301:0352/full/pct:12.5/0/default.jpg#h=815&w=656",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_fordprefect_ver01/data/sn83045462/00280658595/1915010301/0352.xml&format=alto_xml"
+  ],
+  "index": 4,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "district of columbia",
+    "washington d.c.",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "6",
+    "2",
+    "5",
+    "0000000012",
+    "1",
+    "sn83045462",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000012"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "8",
+    "5",
+    "9",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1915-01-03-ed-1-0352",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1915-01-03/ed-1/?sp=12"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1915-01-03/ed-1/"
+  ],
+  "shelf_id": "12",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "washington",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-20T13:47:32.305Z",
+  "title": "Image 12 of Evening star (Washington, D.C.), January 3, 1915",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1915-01-03/ed-1/?sp=12&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_fordprefect_ver01%2Fdata%2Fsn83045462%2F00280658595%2F1915010301%2F0352.xml&q=child+labor&relevant_snippet=1"
+}

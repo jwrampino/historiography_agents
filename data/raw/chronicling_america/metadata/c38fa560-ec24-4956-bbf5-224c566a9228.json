@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84024221/1944-11-13/ed-1/?sp=3"
+  ],
+  "batch": [
+    "ohi_foxglove_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/montgomery/",
+    "3/united states/ohio/montgomery/dayton/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1944-11-13",
+  "dates": [
+    "1944-11-13"
+  ],
+  "description": [
+    "50 NATIONS ASKED TO LIBERATE BELGIAN CONGO CHICAGO Nov 10 ANP The problem of world aviation was not the sole problem before the In ternational aviation conference which brought together here rep resentatives of 50 of the leading nations Dr Joe T Thomas a De troit physician added the prob lem of liberating Africas Congo area from Belgium After being technically denied admission to th historical air con clave which met to make inter national postwar plans Dr Thomas who said he was presi dent of the exiled Provisional Gov ernment of the Congo Free State of West Africa submitted a reso lution to the body in behalf of his government The resolution read Resolved that by all civilized moral and legal practices of civil ized nations the territory of the Congo Free State now known as the Belgian Congo belongs to the native Congeloso and to American Negroes We did not sell our land to Belgium we did not give our territory to Belgium and Belgium did not acquire our territory by conquest Belgium was appointed our ad ministrator by the Berlin Confer ence 18841885 composed of the following great powers Great Brit ian France the United States of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:18:05.723Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84024221/1944-11-13/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_foxglove_ver01:data:sn84024221:00340580072:1944111301:0272/full/pct:6.25/0/default.jpg#h=403&w=273",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_foxglove_ver01:data:sn84024221:00340580072:1944111301:0272/full/pct:12.5/0/default.jpg#h=807&w=547",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_foxglove_ver01/data/sn84024221/00340580072/1944111301/0272.xml&format=alto_xml"
+  ],
+  "index": 96,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "montgomery",
+    "ohio",
+    "dayton"
+  ],
+  "location_city": [
+    "dayton"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "montgomery"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000003",
+    "sn84024221",
+    "2",
+    "8",
+    "3",
+    "5",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84024221"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "0",
+    "0",
+    "7",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84024221-1944-11-13-ed-1-0272",
+  "partof": [
+    "chronicling america",
+    "the daily bulletin (dayton, ohio) 1942-1946",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the daily bulletin (dayton, ohio) 1942-1946"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84024221/1944-11-13/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84024221/1944-11-13/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "ohio",
+    "african american",
+    "dayton (ohio)",
+    "united states",
+    "newspapers",
+    "african americans",
+    "montgomery",
+    "dayton"
+  ],
+  "subject_ethnicity": [
+    "african american"
+  ],
+  "timestamp": "2023-09-05T13:41:59.543Z",
+  "title": "Image 3 of The daily bulletin (Dayton, Ohio), November 13, 1944",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84024221/1944-11-13/ed-1/?sp=3&q=civil+rights",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_foxglove_ver01%2Fdata%2Fsn84024221%2F00340580072%2F1944111301%2F0272.xml&q=civil+rights&relevant_snippet=1"
+}

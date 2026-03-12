@@ -1,0 +1,137 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2004540423/1918-11-14/ed-1/?sp=114"
+  ],
+  "batch": [
+    "dlc_1melmac_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1918-11-14",
+  "dates": [
+    "1918-11-14"
+  ],
+  "description": [
+    "VOL LXVIIINO 222 UTILITIES CONTROL CENTRE OFATTACK BY REPUBLICANS 0 ILv y 7 Senators in Caucus Warn Ad ministration of United Front on Reconstruction CONGRESS TO BE ASSERTIVE Ownership of Railroads Tele graphs and Cables Chief Point of Contention FACTIONS DISPLAYHARMONY Unexpected Accord Reigns in Cau cus but Fight on Penrose Is Likely to be Renewed Special to The NewTori Times WASHINGTON Nov 19Unexpected accord reigned today at a caucus of regular and progressive Republican Senators at the Capitol to map out a campaign for legislation at the regular Session in December touching upon re construction problems Whatever plans the progressives may have as to in fluencing control of the next Congress did not appear This however does not mean that the DodgeWarrenPenrose assignment of committees has been abandoned This s to come up later and in the meantime the Progressive Republican will watch developments The caucus at which forty Senators Were present adopted as a general policy a resolution which If carried out tn the Senate will mean the absolute control by the combined majority of legislation looking to reconstruction This resolution adopted by unanimous Vote sounds a note of warfare upon any attempt by the Democrats to undertake"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-19T00:31:17.325Z",
+  "group": [
+    "sgpww1newspaperclippings/dlc",
+    "wwi-newspaper-clippings"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2004540423/1918-11-14/ed-1/?sp=114",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_1melmac_ver01:data:2004540423:print00209542079:1918111401:0114/full/pct:6.25/0/default.jpg#h=451&w=339",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_1melmac_ver01:data:2004540423:print00209542079:1918111401:0114/full/pct:12.5/0/default.jpg#h=903&w=679",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/sgp/sgpbatches/batch_dlc_1melmac_ver01/data/2004540423/print00209542079/1918111401/0114.xml&format=alto_xml"
+  ],
+  "index": 100,
+  "language": [
+    "german",
+    "english"
+  ],
+  "location": [
+    "germany",
+    "united states",
+    "new york"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000114",
+    "2004540423",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2004540423"
+  ],
+  "number_page": [
+    "0000000114"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2004540423-1918-11-14-ed-1-0114",
+  "partof": [
+    "world war history: newspaper clippings, 1914-1926",
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "world war history: newspaper clippings, 1914-1926"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2004540423/1918-11-14/ed-1/?sp=114"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2004540423/1918-11-14/ed-1/"
+  ],
+  "shelf_id": "114",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "sources",
+    "new york",
+    "germany",
+    "world war",
+    "history",
+    "allied occupation",
+    "armistices"
+  ],
+  "timestamp": "2022-11-09T16:17:14.492Z",
+  "title": "Image 114 of World War history : daily records and comments as appeared in American and foreign newspapers, 1914-1926 (New York), November 14, 1918, (1918 November 14-23)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2004540423/1918-11-14/ed-1/?sp=114&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fsgp%2Fsgpbatches%2Fbatch_dlc_1melmac_ver01%2Fdata%2F2004540423%2Fprint00209542079%2F1918111401%2F0114.xml&q=reconstruction&relevant_snippet=1"
+}

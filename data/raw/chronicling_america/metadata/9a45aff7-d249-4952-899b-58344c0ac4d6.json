@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85060004/1935-07-18/ed-1/?sp=23"
+  ],
+  "batch": [
+    "txdn_heron_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/texas/",
+    "2/united states/texas/bexar/",
+    "3/united states/texas/bexar/san antonio/"
+  ],
+  "contributor": [
+    "university of north texas; denton, tx"
+  ],
+  "date": "1935-07-18",
+  "dates": [
+    "1935-07-18"
+  ],
+  "description": [
+    "JULY 18 1938 Big League Box Scores NATIONAL LEAGUE e AgTSt LBgIllB 2 BOSTON 1 Louis Boston AB R H 0 Ql g\ufb02mruut 3b 3 1 0 0 x ompson cf 0 1 4 0 Jordan 1 4 0 111 O Lee If g 00 20 Mowry 1f ce0e 01 31 Whitney 2b e 3 0 0 0 2 Urbanski ss 4 0 0 0 5 Snohrer e0000 3 0 0 4 1 Brandt p e00 4 0 1 1 1 Totals 32 1 4 25x11 et Louis AB R H O A dartin 3b 4 0 1 2 2 Jrsatti rf 3 0 0 3 0 Rothrock rf 0 0 0 0 0 Whitehead 2b 4 0 1 2 5 pdwick If 3 0 0 2 J Collins th 3 0 012 0 Davis 4 0 2 1 0 T Maore cf ope 4 1 2 2 0 surocher ss 00 3 0 0 3 3 Hallahan p eee 3 0 0 0 1 zFrisch 0py 1 1 1 0 0 Totals 32 2 727 11 7zBatted for Orsatti in eighth By Innings Boston 000 000 0101 8t Louis 000 000 0112 Summary Errors Spahrer Martin Whiteheu Durocher runs"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-10-26T03:52:04.977Z",
+  "group": [
+    "ndnp/txdn",
+    "university-of-north-texas-denton-tx-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85060004/1935-07-18/ed-1/?sp=23",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_heron_ver01:data:sn85060004:00516994472:1935071801:0520/full/pct:6.25/0/default.jpg#h=327&w=257",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_heron_ver01:data:sn85060004:00516994472:1935071801:0520/full/pct:12.5/0/default.jpg#h=654&w=515",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/txdn/batch_txdn_heron_ver01/data/sn85060004/00516994472/1935071801/0520.xml&format=alto_xml"
+  ],
+  "index": 55,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "texas",
+    "bexar",
+    "san antonio"
+  ],
+  "location_city": [
+    "san antonio"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "bexar"
+  ],
+  "location_state": [
+    "texas"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000023",
+    "9",
+    "2",
+    "6",
+    "5",
+    "4",
+    "1",
+    "sn85060004",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85060004"
+  ],
+  "number_page": [
+    "0000000023"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "4",
+    "4",
+    "7",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "San Antonio Sunday light"
+  ],
+  "page_id": "sn85060004-1935-07-18-ed-1-0520",
+  "partof": [
+    "san antonio light (san antonio, tex.) 1911-1993",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "san antonio light (san antonio, tex.) 1911-1993"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85060004/1935-07-18/ed-1/?sp=23"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85060004/1935-07-18/ed-1/"
+  ],
+  "shelf_id": "23",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "texas",
+    "san antonio (tex.)",
+    "bexar",
+    "san antonio",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2025-10-26T04:05:11.048Z",
+  "title": "Image 23 of San Antonio light (San Antonio, Tex.), July 18, 1935, (HOME EDITION)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85060004/1935-07-18/ed-1/?sp=23&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Ftxdn%2Fbatch_txdn_heron_ver01%2Fdata%2Fsn85060004%2F00516994472%2F1935071801%2F0520.xml&q=manifest+destiny&relevant_snippet=1"
+}

@@ -1,0 +1,175 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84020097/1932-06-11/ed-1/?sp=1"
+  ],
+  "batch": [
+    "iune_fluorite_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/",
+    "1/united states/illinois/",
+    "2/united states/illinois/cook/",
+    "3/united states/illinois/cook/chicago/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1932-06-11",
+  "dates": [
+    "1932-06-11"
+  ],
+  "description": [
+    "VOTE COMMUNIST FOE 1 Unemployment and Social Insurance at the ex pense of the state and employers 2 Against Hoovers wagecutting policy 3 Emergency relief for the poor fanners without restrictions by the government and banks ex emption of poor fanners from taxes and no forced collection of rents or debts Vol IX No 139 Welcome Home CIXTEEN American workers delegates to the Soviet Union will be re turning this Sunday These delegates were sent by the American working class to see at first hand the tremendous achievements in so cialist construction in the land where the workers rule They were elected by workers in American shops and factories The American workers delegates were welcomed by the Soviet masses and their government in the spirit of Comrade Stalins declaration at the First AllRussian Conference of Workers in Socialist industry The working class in the USSR is a part of the working class of the world We have achieved victory not only through the efforts of the working class of the USSR but also through the support of the world proletariat Without that support wc would have been torn to shreds long ago They were given every facility to acquaint themselves"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:20:29.292Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84020097/1932-06-11/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_fluorite_ver01:data:sn84020097:0033289769A:1932061101:0613/full/pct:3.125/0/default.jpg#h=268&w=210",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_fluorite_ver01:data:sn84020097:0033289769A:1932061101:0613/full/pct:6.25/0/default.jpg#h=537&w=420",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_fluorite_ver01:data:sn84020097:0033289769A:1932061101:0613/full/pct:12.5/0/default.jpg#h=1075&w=840",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_fluorite_ver01/data/sn84020097/0033289769A/1932061101/0613.xml&format=alto_xml"
+  ],
+  "index": 106,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "chicago",
+    "new york",
+    "new york city",
+    "cook",
+    "illinois",
+    "united states"
+  ],
+  "location_city": [
+    "new york",
+    "chicago"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york",
+    "cook"
+  ],
+  "location_state": [
+    "new york",
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn84020097",
+    "1",
+    "8",
+    "0",
+    "2",
+    "3",
+    "7",
+    "9",
+    "a",
+    "0000000001",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84020097"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "7",
+    "6",
+    "9",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84020097-1932-06-11-ed-1-0613",
+  "partof": [
+    "chronicling america",
+    "the daily worker (chicago, ill.;new york, n.y.) 1924-1958",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the daily worker (chicago, ill.;new york, n.y.) 1924-1958"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84020097/1932-06-11/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84020097/1932-06-11/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "new york (state)",
+    "labor unions",
+    "chicago",
+    "labor movement",
+    "new york (n.y.)",
+    "chicago (ill.)",
+    "new york",
+    "communism",
+    "cook",
+    "illinois",
+    "united states"
+  ],
+  "timestamp": "2025-05-22T03:48:03.223Z",
+  "title": "Image 1 of The daily worker (Chicago, Ill.;New York, N.Y.), June 11, 1932, (City Edition)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84020097/1932-06-11/ed-1/?sp=1&q=soviet+union",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_fluorite_ver01%2Fdata%2Fsn84020097%2F0033289769A%2F1932061101%2F0613.xml&q=soviet+union&relevant_snippet=1"
+}

@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88056159/1921-02-02/ed-1/?sp=4"
+  ],
+  "batch": [
+    "idhi_eliot_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/idaho/",
+    "2/united states/idaho/custer/",
+    "3/united states/idaho/custer/challis/"
+  ],
+  "contributor": [
+    "idaho state historical society"
+  ],
+  "date": "1921-02-02",
+  "dates": [
+    "1921-02-02"
+  ],
+  "description": [
+    "TH CHALL\u00cfS MESSENGER CHALLIS IDAHO P\u00fcttino our House lit 0 To M O W ffl The JC PENNEY CO Operating 312 Department Stores in 27 States on THURSDAY JANUARY 20th opened its doors with Recon struction Prices prevailing Every price in our Stores is b sed upon our Replacement Price REGARDLESS OF PREVIOUS COSTI Believing that the time has arrived when the revision of prices is warranted by re placement valuehaving discounted our merchandise thousands of dollars in our in ventory just completedwe therefore give the public the full benefit of the loss we sustain Remember we have said Our Replacement Price which should prove doubly attractive Buying for 312 stores doing a yearly business of approximately Fifty Million Dollars should be sufficient proof that our replacement price is substantially lower than that of our competitors Do not confuse this with the usual mark up and mark down special sale commonly held b r other merchants The J C Penney Company never has nor does it now be lieve in special sales Remember every article will remain as priced until sold or for ced by market conditions to change Many items are limited in quantity many may prove underpriced hence"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-06T12:34:23.149Z",
+  "group": [
+    "ndnp/idhi",
+    "idaho-state-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88056159/1921-02-02/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_eliot_ver01:data:sn88056159:00295868107:1921020201:0340/full/pct:6.25/0/default.jpg#h=408&w=299",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_eliot_ver01:data:sn88056159:00295868107:1921020201:0340/full/pct:12.5/0/default.jpg#h=816&w=598",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/idhi/batch_idhi_eliot_ver01/data/sn88056159/00295868107/1921020201/0340.xml&format=alto_xml"
+  ],
+  "index": 34,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "challis",
+    "united states",
+    "idaho",
+    "custer"
+  ],
+  "location_city": [
+    "challis"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "custer"
+  ],
+  "location_state": [
+    "idaho"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000004",
+    "sn88056159",
+    "9",
+    "2",
+    "8",
+    "5",
+    "6",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88056159"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "5",
+    "8",
+    "6",
+    "8",
+    "1",
+    "0",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88056159-1921-02-02-ed-1-0340",
+  "partof": [
+    "the challis messenger (challis, idaho) 1912-current",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the challis messenger (challis, idaho) 1912-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88056159/1921-02-02/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88056159/1921-02-02/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "idaho",
+    "custer",
+    "challis",
+    "united states",
+    "newspapers",
+    "challis (idaho)"
+  ],
+  "timestamp": "2023-07-06T18:41:45.277Z",
+  "title": "Image 4 of The Challis messenger (Challis, Idaho), February 2, 1921",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88056159/1921-02-02/ed-1/?sp=4&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fidhi%2Fbatch_idhi_eliot_ver01%2Fdata%2Fsn88056159%2F00295868107%2F1921020201%2F0340.xml&q=reconstruction&relevant_snippet=1"
+}

@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn78003992/1948-03-05/ed-1/?sp=1"
+  ],
+  "batch": [
+    "ohi_alastor_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/summit/",
+    "3/united states/ohio/summit/akron/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1948-03-05",
+  "dates": [
+    "1948-03-05"
+  ],
+  "description": [
+    "So Labor May Know The controversy over President Tru mans civil rights program for all Americans should not be permitted to degenerate into another struggle be tween the damn Yankees of the North and the rebels of the South It could become just that unless our politicians and writers start shedding tmlore light and less heat on the subject Our contribution sub will be an attempt to explain why the folks down in Dixie start squealing like stuck pigs when Notherters try to impose some more outside interference on them Theyre just plain opposed to to much help from the outside and not entirely without justification Much of the industry in the South has been owned or controlled for years by Northern interests which adopted the Southern policy of paying sub standard wages and shipped their prof its back to the North and East The region has long been burdeped by the Southern freight rate differen Akron CIO Council The next regular business meet ing of Akron CIO Council is sched uled to be held in the Councils auditorium in the Wilmer Tate Memorial Home 672 South Main St on Monday night March 8th The meeting will be called to"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-03-24T16:10:12.421Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn78003992/1948-03-05/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_alastor_ver02:data:sn78003992:00340580928:1948030501:0840/full/pct:6.25/0/default.jpg#h=423&w=337",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_alastor_ver02:data:sn78003992:00340580928:1948030501:0840/full/pct:12.5/0/default.jpg#h=847&w=675",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_alastor_ver02/data/sn78003992/00340580928/1948030501/0840.xml&format=alto_xml"
+  ],
+  "index": 150,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "summit county",
+    "akron",
+    "ohio",
+    "summit",
+    "united states"
+  ],
+  "location_city": [
+    "akron"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "summit"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn78003992",
+    "8",
+    "0",
+    "2",
+    "3",
+    "9",
+    "1",
+    "0000000001",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn78003992"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "0",
+    "9",
+    "2",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn78003992-1948-03-05-ed-1-0840",
+  "partof": [
+    "chronicling america",
+    "summit county labor news (akron, ohio) 1923-1976",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "summit county labor news (akron, ohio) 1923-1976"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn78003992/1948-03-05/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn78003992/1948-03-05/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "summit",
+    "labor unions",
+    "akron",
+    "ohio",
+    "akron (ohio)",
+    "summit county (ohio)",
+    "summit county",
+    "united states"
+  ],
+  "timestamp": "2025-03-24T16:45:08.260Z",
+  "title": "Image 1 of Summit County labor news (Akron, Ohio), March 5, 1948",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn78003992/1948-03-05/ed-1/?sp=1&q=civil+rights",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_alastor_ver02%2Fdata%2Fsn78003992%2F00340580928%2F1948030501%2F0840.xml&q=civil+rights&relevant_snippet=1"
+}

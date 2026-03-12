@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83009653/1904-02-02/ed-1/?sp=2"
+  ],
+  "batch": [
+    "me_baxter_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/maine/",
+    "2/united states/maine/oxford/",
+    "3/united states/maine/oxford/paris/",
+    "3/united states/maine/oxford/south paris/"
+  ],
+  "contributor": [
+    "maine state library"
+  ],
+  "date": "1904-02-02",
+  "dates": [
+    "1904-02-02"
+  ],
+  "description": [
+    "ESTA BL1SUED lJ \u00efhc sfotrd llcmocrat I99UKD TIT\u00cf9DAT9 SOUTH PARIS MAINE FEB 2 1904 A \u03a4 WOOD A FORBES Editor u4 Proprietor jEOKOB M ATWIXJL A E FoKBlA \u0393 \u03ba KM 11M it year If paid etrU tly lu advance illifrwW ti0U year Single copie 4 rente AiVinrnmiNT All lexal advertisement are xlvvn threw connective lueertlone for 1AD per loch lu length of column Special coutract with local transient anl yearly advertl ere Job \u03a1iustimo New type faut presse steam twer experience workmen and low price combine to make this department of our buel nee complete and popular Coming Events Fab Oxford Pomona Orange Bryant Pond NEW ADVERTISEMENTS Attention Farmer Muslin InderweAr Sale Cut Price Sale Hanfunl Balsam of Myrrh Cough and Cold Cured Queen Quality Slelxh for Safe statement of Commercial Culon Assurance Company lloel for Divorce Creditor Petitlou In Bankruptcy Johns Letter V A Kit \u03c5 IHUOSOlHY FROM SKLIINO SlOAH TO MANIFEST DESTINY Heading a sermon of Minot J Savage sharpened our appetite for something more of his and we went to the library in quest of it We found one book Life Questious While many work of fiction wear the marks of much usage this one seems"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T14:05:45.576Z",
+  "group": [
+    "ndnp/me",
+    "maine-state-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83009653/1904-02-02/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524184:1904020201:0024/full/pct:3.125/0/default.jpg#h=321&w=244",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524184:1904020201:0024/full/pct:6.25/0/default.jpg#h=642&w=489",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/me/batch_me_baxter_ver01/data/sn83009653/00279524184/1904020201/0024.xml&format=alto_xml"
+  ],
+  "index": 149,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "south paris",
+    "paris",
+    "maine",
+    "united states",
+    "oxford"
+  ],
+  "location_city": [
+    "paris",
+    "south paris"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "oxford"
+  ],
+  "location_state": [
+    "maine"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "4",
+    "9",
+    "2",
+    "sn83009653",
+    "8",
+    "5",
+    "0000000002",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83009653"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "2",
+    "4",
+    "1",
+    "8",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83009653-1904-02-02-ed-1-0024",
+  "partof": [
+    "oxford democrat (paris, me.) 1833-1933",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "oxford democrat (paris, me.) 1833-1933"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83009653/1904-02-02/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83009653/1904-02-02/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "south paris",
+    "south paris (me.)",
+    "paris (me.)",
+    "paris",
+    "maine",
+    "united states",
+    "newspapers",
+    "oxford"
+  ],
+  "timestamp": "2023-07-05T17:04:54.113Z",
+  "title": "Image 2 of Oxford Democrat (Paris, Me.), February 2, 1904",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83009653/1904-02-02/ed-1/?sp=2&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fme%2Fbatch_me_baxter_ver01%2Fdata%2Fsn83009653%2F00279524184%2F1904020201%2F0024.xml&q=manifest+destiny&relevant_snippet=1"
+}

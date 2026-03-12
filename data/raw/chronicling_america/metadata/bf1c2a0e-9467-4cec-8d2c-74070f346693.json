@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1937-02-25/ed-1/?sp=13"
+  ],
+  "batch": [
+    "dlc_1johns_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1937-02-25",
+  "dates": [
+    "1937-02-25"
+  ],
+  "description": [
+    "Court Quarrel Blockades Laws Liberal Proposals Tied Up as Capitol Hill Talks Issue BY DAVID LAWRENCE OUTSIDE of the National Capi tal the controversy that has arisen here over the Supreme Court may seem to be just another one of those Washington wars of words but here it has become all pervasive as an influence upon the whole legislative and political sit uation Virtually no progress is being made toward the solution of the larger problems of the present day because in one way or another the Supreme Court issue touches every sin gle one of them Thus the Pres idents splendid plan looking David Lawrence toward a reorganization of the execu tive agencies of the Federal Govern ment has been dealt a body blow by the furor that has arisen over reor ganizing the judiciary Likewise no legislation to clarify the Wagner labor relations law so as to make it fair and effective is being brought forward be cause of a belief that when the 8upreme Court decides the pending cases the whole labor problem will become wrapped up in the controversy over the size of the court Even the proposals for the recapture of the worthwhile things in"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:38:09.984Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1937-02-25/ed-1/?sp=13",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1johns_ver01:data:sn83045462:00280601883:1937022501:0119/full/pct:6.25/0/default.jpg#h=484&w=344",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1johns_ver01:data:sn83045462:00280601883:1937022501:0119/full/pct:12.5/0/default.jpg#h=968&w=689",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1johns_ver01/data/sn83045462/00280601883/1937022501/0119.xml&format=alto_xml"
+  ],
+  "index": 181,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "0000000013",
+    "3",
+    "sn83045462",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000013"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "1",
+    "8",
+    "8",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1937-02-25-ed-1-0119",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1937-02-25/ed-1/?sp=13"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1937-02-25/ed-1/"
+  ],
+  "shelf_id": "13",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-24T20:13:59.930Z",
+  "title": "Image 13 of Evening star (Washington, D.C.), February 25, 1937",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1937-02-25/ed-1/?sp=13&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_1johns_ver01%2Fdata%2Fsn83045462%2F00280601883%2F1937022501%2F0119.xml&q=child+labor&relevant_snippet=1"
+}

@@ -1,0 +1,131 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16080/?sp=11"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1805-07-16",
+  "dates": [
+    "1805-07-16"
+  ],
+  "description": [
+    "General Orders by His Excellency the Moft Noble the Governor General in Council FORT WILLIAM JULY 4 1805 His Excellency the Mot Noble the Governor General in Couneil is pleafed to appoint Major General C Green to the Staff of this Prefidency Major General C Green is appointed to officiate as Vice Prefident of the Military Board during the of the Right Honorable the Commander in ief The Governor General in Council appoint Captain Charles Hutchinfon of Artillery to be a Commiffary of Ordnance and to the charge of the Expenfe Magazine in Fort William Captain Lieutenant R Brown wil continue in charge of the Expenfe Magazine orders conformably to the General Orders of His Excellency in Council of the 25th of Odober laf His Excellency in Council is alfo pleafed to ap point Captain John Nelly of Artillery to be a Commiffary of Ordnance and to the charge of the Magazine at Allahabad Lieutenant William Forreft of the 2d Regiment of Native Infantry is appointed Fort Adjutant and Barrack Mafter at Agra Lieutenant Forrefts ap pointment is to take effe from the 16th of May 1805 the date on which he was nominated to the is pleafed to Oifice"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16080/?sp=11",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16080:0011/full/pct:6.25/0/default.jpg#h=486&w=328",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16080:0011/full/pct:12.5/0/default.jpg#h=972&w=657",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16080:0011/full/pct:25.0/0/default.jpg#h=1945&w=1315",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16080:0011/full/pct:50.0/0/default.jpg#h=3891&w=2631",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16080:0011/full/pct:100.0/0/default.jpg#h=7782&w=5263",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16080/0011.alto.xml&format=alto_xml"
+  ],
+  "index": 16,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "calcutta",
+    "india"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "0000000011",
+    "sn88063571",
+    "2025-08-13t13:59:42.400000",
+    "sn88063570",
+    "sn88063569"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000011"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16080-0011-alto",
+  "partof": [
+    "catalog",
+    "world digital library",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "asian division",
+    "serial and government publications division",
+    "south asian digital collection",
+    "world newspapers",
+    "general collections"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16080/?sp=11"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16080/"
+  ],
+  "shelf_id": "11",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "calcutta",
+    "india"
+  ],
+  "timestamp": "2025-12-12T07:19:55.493Z",
+  "title": "Image 11 of Volume 11, Number 548, Tuesday, July 16, 1805 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16080/?sp=11&q=oil",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16080%2F0011.alto.xml&q=oil&relevant_snippet=1"
+}

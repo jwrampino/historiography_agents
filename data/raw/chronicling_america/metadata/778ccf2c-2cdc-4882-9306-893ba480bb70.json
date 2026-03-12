@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86063952/1903-10-23/ed-1/?sp=3"
+  ],
+  "batch": [
+    "okhi_delaware_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/oklahoma/",
+    "2/united states/oklahoma/logan/",
+    "3/united states/oklahoma/logan/guthrie/"
+  ],
+  "contributor": [
+    "oklahoma historical society"
+  ],
+  "date": "1903-10-23",
+  "dates": [
+    "1903-10-23"
+  ],
+  "description": [
+    "THE LEADER GUTHRIE OKLAHOMA FRIDAY OCTOBER 23 1903 PAQE THREE rjiiBWBWBstuicwwMtMiriiiiiir lima vvwtmmfifseimmtmtmaini K V to JS t f mill nimiauttwtf KiMMgwiJ Mm umwpwwyw Some Pabulum motttand Maine Oklahoma and In dian territory produced more bushels of wheat than these above named stales The value of tho wheat produce 1 wa greutsr than that raised In the stUe of Idaho Nevada Utah Arlio na New Mexico Colorado Wyoming I Montana Iowa Wisconsin Kentucky West Virginia Tennesseo Arkansas Texas Mississippi Alabama Georgia Soulit Carolina North Carolina Vir ginia Maryland Delaware Now Jer sey Now York Vermont and Maine Oklahoma and Indian territory ship ped out of the counties where grown more wheat than did the states of Oregon Idaho Nevada Utah Aricona New Mexico Colorado Wyoming Mon tana Iowa Wisconsin Michigan Ken tucky West Virginia Tennessee Ar kansas Texas Mississippi Alabama Georgia South Carolina North Caro lina Virginia Maryland Delaware Pennsylvania New Jersey and New York The twverago yielJi per acre of win ter wheat in Oklahoma was 111 bush els per acre In Indian territory 12 H The yield was greater than in Califor nia Kansns Kentucky West Virginia Tennessee Arkansas Texas Mississ ippi Alabama Georgia South Caro lina North"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T14:58:04.059Z",
+  "group": [
+    "ndnp/okhi",
+    "oklahoma-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86063952/1903-10-23/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_delaware_ver01:data:sn86063952:00237284276:1903102301:0593/full/pct:6.25/0/default.jpg#h=406&w=283",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_delaware_ver01:data:sn86063952:00237284276:1903102301:0593/full/pct:12.5/0/default.jpg#h=813&w=567",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/okhi/batch_okhi_delaware_ver01/data/sn86063952/00237284276/1903102301/0593.xml&format=alto_xml"
+  ],
+  "index": 14,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "guthrie",
+    "logan county",
+    "oklahoma",
+    "logan",
+    "united states"
+  ],
+  "location_city": [
+    "guthrie"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "logan"
+  ],
+  "location_state": [
+    "oklahoma"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn86063952",
+    "8",
+    "0",
+    "2",
+    "0000000003",
+    "7",
+    "1",
+    "3",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86063952"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "3",
+    "7",
+    "2",
+    "8",
+    "4",
+    "2",
+    "7",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Leader"
+  ],
+  "page_id": "sn86063952-1903-10-23-ed-1-0593",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the guthrie daily leader (guthrie, okla.) 1893-1996"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the guthrie daily leader (guthrie, okla.) 1893-1996"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86063952/1903-10-23/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86063952/1903-10-23/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "guthrie",
+    "logan county",
+    "logan",
+    "logan county (okla.)",
+    "guthrie (okla.)",
+    "oklahoma",
+    "united states"
+  ],
+  "timestamp": "2022-11-18T01:21:24.461Z",
+  "title": "Image 3 of The Guthrie daily leader (Guthrie, Okla.), October 23, 1903",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86063952/1903-10-23/ed-1/?sp=3&q=indian+territory",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fokhi%2Fbatch_okhi_delaware_ver01%2Fdata%2Fsn86063952%2F00237284276%2F1903102301%2F0593.xml&q=indian+territory&relevant_snippet=1"
+}

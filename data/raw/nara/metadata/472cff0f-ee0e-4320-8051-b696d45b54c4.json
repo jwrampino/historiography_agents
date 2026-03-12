@@ -1,0 +1,201 @@
+{
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "note": "Some or all of the records may be subject to copyright restrictions. Researchers should contact the publisher for further information.",
+    "specificUseRestrictions": [
+      "Copyright"
+    ],
+    "status": "Restricted - Possibly"
+  },
+  "title": "PIR [President\u2019s Initiative on Race] \u2013 Slavery/Apology",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Little Rock",
+          "phone": "501-244-2877",
+          "address1": "1200 President Clinton Avenue",
+          "postalCode": "72201",
+          "name": "William J. Clinton Library",
+          "state": "AR",
+          "fax": "501-244-2881",
+          "email": "clinton.library@nara.gov",
+          "mailCode": "LP-WJC"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper",
+          "containerId": "27"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "note": "These records may need to be screened for personal privacy, and law enforcement under 5 U.S.C. 552 (b) prior to public release.",
+    "specificAccessRestrictions": [
+      {
+        "restriction": "FOIA (b)(3) Statute"
+      },
+      {
+        "restriction": "FOIA (b)(6) Personal Information"
+      },
+      {
+        "restriction": "FOIA (b)(7c) Law Enforcement"
+      },
+      {
+        "restriction": "FOIA (b)(7e) Law Enforcement"
+      },
+      {
+        "restriction": "FOIA (b)(7f) Law Enforcement"
+      },
+      {
+        "restriction": "PRM - Personal Record Misfile"
+      }
+    ],
+    "status": "Restricted - Partly"
+  },
+  "dataControlGroup": {
+    "groupId": "ou=NLWJC,ou=groups",
+    "groupCd": "LPWJC"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "LPWJC 2009-0541-F",
+      "type": "FOIA Tracking Number"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "42_t_5757370_20090541F_027_006_2016_Page_001.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/41/4995/27499541/content/presidential-libraries/clinton/foia/2009/2009-0541-F/2009-0541-F-JPG/Box_27/42-t-5757370-20090541F-027-006-2016/42_t_5757370_20090541F_027_006_2016_Page_001.JPG",
+      "objectFileSize": 319488,
+      "objectId": "65046506",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_5757370_20090541F_027_006_2016_Page_002.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/41/4995/27499541/content/presidential-libraries/clinton/foia/2009/2009-0541-F/2009-0541-F-JPG/Box_27/42-t-5757370-20090541F-027-006-2016/42_t_5757370_20090541F_027_006_2016_Page_002.JPG",
+      "objectFileSize": 983040,
+      "objectId": "65046507",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_5757370_20090541F_027_006_2016_Page_003.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/41/4995/27499541/content/presidential-libraries/clinton/foia/2009/2009-0541-F/2009-0541-F-JPG/Box_27/42-t-5757370-20090541F-027-006-2016/42_t_5757370_20090541F_027_006_2016_Page_003.JPG",
+      "objectFileSize": 991232,
+      "objectId": "65046508",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_5757370_20090541F_027_006_2016_Page_004.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/41/4995/27499541/content/presidential-libraries/clinton/foia/2009/2009-0541-F/2009-0541-F-JPG/Box_27/42-t-5757370-20090541F-027-006-2016/42_t_5757370_20090541F_027_006_2016_Page_004.JPG",
+      "objectFileSize": 1605632,
+      "objectId": "65046509",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_5757370_20090541F_027_006_2016_Page_005.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/41/4995/27499541/content/presidential-libraries/clinton/foia/2009/2009-0541-F/2009-0541-F-JPG/Box_27/42-t-5757370-20090541F-027-006-2016/42_t_5757370_20090541F_027_006_2016_Page_005.JPG",
+      "objectFileSize": 2023424,
+      "objectId": "65046510",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_5757370_20090541F_027_006_2016_Page_006.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/41/4995/27499541/content/presidential-libraries/clinton/foia/2009/2009-0541-F/2009-0541-F-JPG/Box_27/42-t-5757370-20090541F-027-006-2016/42_t_5757370_20090541F_027_006_2016_Page_006.JPG",
+      "objectFileSize": 1843200,
+      "objectId": "65046511",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_5757370_20090541F_027_006_2016_Page_007.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/41/4995/27499541/content/presidential-libraries/clinton/foia/2009/2009-0541-F/2009-0541-F-JPG/Box_27/42-t-5757370-20090541F-027-006-2016/42_t_5757370_20090541F_027_006_2016_Page_007.JPG",
+      "objectFileSize": 1884160,
+      "objectId": "65046512",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_5757370_20090541F_027_006_2016_Page_008.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/41/4995/27499541/content/presidential-libraries/clinton/foia/2009/2009-0541-F/2009-0541-F-JPG/Box_27/42-t-5757370-20090541F-027-006-2016/42_t_5757370_20090541F_027_006_2016_Page_008.JPG",
+      "objectFileSize": 1769472,
+      "objectId": "65046513",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_5757370_20090541F_027_006_2016_Page_009.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/41/4995/27499541/content/presidential-libraries/clinton/foia/2009/2009-0541-F/2009-0541-F-JPG/Box_27/42-t-5757370-20090541F-027-006-2016/42_t_5757370_20090541F_027_006_2016_Page_009.JPG",
+      "objectFileSize": 1302528,
+      "objectId": "65046514",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42-t-5757370-20090541F-027-006-2016.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/41/4995/27499541/content/presidential-libraries/clinton/foia/2009/2009-0541-F/2009-0541-F-PDF/Box_27/42-t-5757370-20090541F-027-006-2016.pdf",
+      "objectFileSize": 1198892,
+      "objectId": "65046505",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "otherTitles": [
+    "42-t-5757370-20090541S-027-006-2016"
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "WJC-OPL",
+      "inclusiveStartDate": {
+        "year": 1993,
+        "logicalDate": "1993-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "year": 2001,
+        "logicalDate": "2001-12-31"
+      },
+      "title": "Records of the Office of the Public Liaison (Clinton Administration)",
+      "naId": 2525059
+    },
+    {
+      "inclusiveStartDate": {
+        "dateQualifier": "ca.",
+        "year": 1997,
+        "logicalDate": "1997-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "President (1993-2001 : Clinton). Office of Public Liaison. 1993-2001",
+          "abolishDate": {
+            "year": 2001,
+            "logicalDate": "2001-12-31"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1993,
+            "logicalDate": "1993-01-01"
+          },
+          "naId": 10501559
+        }
+      ],
+      "inclusiveEndDate": {
+        "dateQualifier": "ca.",
+        "year": 1998,
+        "logicalDate": "1998-12-31"
+      },
+      "title": "Maria Echaveste's Files",
+      "naId": 5757370
+    }
+  ],
+  "naId": 27499541
+}

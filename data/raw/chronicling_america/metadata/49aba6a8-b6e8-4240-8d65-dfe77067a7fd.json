@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87058078/1904-03-11/ed-1/?sp=4"
+  ],
+  "batch": [
+    "iahi_hariyama_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/iowa/",
+    "2/united states/iowa/woodbury/",
+    "3/united states/iowa/woodbury/sioux city/"
+  ],
+  "contributor": [
+    "state historical society of iowa"
+  ],
+  "date": "1904-03-11",
+  "dates": [
+    "1904-03-11"
+  ],
+  "description": [
+    "1 I A ft t nT En i Fortsightly Review 4 nyligen inf\u00f6rd artikel af Alfred Stead har till uppgift att f\u00f6r of fentligheten framl\u00e4gga Japans politiska ideer Hvad s\u00e4ga japaneserna sjelfva om sina afsigter i det fjerran \u00f6 stern 4 fr\u00e5gar Mr Stead och sva rar med de uttalanden som af gifvits af \u00f6rikets ledande stats m\u00e4n Telephone 426 J S Wadhams Grocery 923 Fourth Street Telefon 436 Gulfport Miss The Great Southern hotel i Gulfport Miss vid mexikanska viken har 250 rum med eller utan bad \u00c5ugv\u00e4rme elektrisk ljus varmt och kallt vatten samt telefon ihvarje rum St\u00e5r i f\u00f6rbindelse med Memphis och Illinois Centrals snabba morgont\u00e5g med sof buffet och biblio teksvagnar med ett enda ombyte p\u00e5 sam ma t\u00e5g i Memphis i genomg\u00e5ende sofvag nar till Gulfport S\u00e4nd f\u00f6r illustrerad folder med beskrifning at Gulfport och hotellet IJL i 1 fri Svenska Monitoren THE SWEDISH MONITOR Published every Friday at 110111034th Street Sioux City lowa by Otto E Jacobson Subscription Price One year f 160 One half year 075 One year to Sweden 200 Observera Prenumerationer m\u00e5ste \u00e5tf\u00f6ljas af kontant liqvid Bref mo aey orders vexlar och v\u00e4rdef\u00f6rs\u00e4ndel ser adresseras till SVENSKA MONITOREN 11011103 Fourth Street"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-05-16T11:55:58.679Z",
+  "group": [
+    "ndnp/iahi",
+    "state-historical-society-of-iowa-state-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87058078/1904-03-11/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hariyama_ver01:data:sn87058078:00340584831:1904031101:0086/full/pct:3.125/0/default.jpg#h=292&w=211",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hariyama_ver01:data:sn87058078:00340584831:1904031101:0086/full/pct:6.25/0/default.jpg#h=584&w=422",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hariyama_ver01:data:sn87058078:00340584831:1904031101:0086/full/pct:12.5/0/default.jpg#h=1168&w=844",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iahi/batch_iahi_hariyama_ver01/data/sn87058078/00340584831/1904031101/0086.xml&format=alto_xml"
+  ],
+  "index": 199,
+  "language": [
+    "swedish",
+    "english"
+  ],
+  "location": [
+    "woodbury",
+    "sioux city",
+    "iowa",
+    "united states"
+  ],
+  "location_city": [
+    "sioux city"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "woodbury"
+  ],
+  "location_state": [
+    "iowa"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0000000004",
+    "8",
+    "0",
+    "sn87058078",
+    "1",
+    "3",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87058078"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "4",
+    "8",
+    "3",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87058078-1904-03-11-ed-1-0086",
+  "partof": [
+    "chronicling america",
+    "svenska monitoren (sioux city, iowa) 18??-1939",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "svenska monitoren (sioux city, iowa) 18??-1939"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87058078/1904-03-11/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87058078/1904-03-11/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "iowa",
+    "swedish",
+    "woodbury",
+    "sioux city (iowa)",
+    "swedish americans",
+    "sioux city",
+    "united states"
+  ],
+  "subject_ethnicity": [
+    "swedish"
+  ],
+  "timestamp": "2023-07-04T03:52:56.986Z",
+  "title": "Image 4 of Svenska monitoren (Sioux City, Iowa), March 11, 1904",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87058078/1904-03-11/ed-1/?sp=4&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiahi%2Fbatch_iahi_hariyama_ver01%2Fdata%2Fsn87058078%2F00340584831%2F1904031101%2F0086.xml&q=korea&relevant_snippet=1"
+}

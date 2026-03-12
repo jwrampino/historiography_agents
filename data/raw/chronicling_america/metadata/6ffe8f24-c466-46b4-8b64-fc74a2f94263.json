@@ -1,0 +1,165 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn89053204/1919-12-22/ed-1/?sp=6"
+  ],
+  "batch": [
+    "gu_corvus_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/georgia/",
+    "2/united states/georgia/sumter/",
+    "3/united states/georgia/sumter/americus/"
+  ],
+  "contributor": [
+    "digital library of georgia, a project of galileo located at the university of georgia libraries"
+  ],
+  "date": "1919-12-22",
+  "dates": [
+    "1919-12-22"
+  ],
+  "description": [
+    "PAGE SIX The Americus TimesRecorder ESTABLISHED 1879 Published By THE TIMESRECORDER CO Inc Arthur Lucas President Lovelace Eve Secretary W S Kirkpatrick Treasurer Published every afternoon except Saturday every Sun morning and as a weekly every Thursday WM S KIRKPATRICK Editor LOVELACE EVE Business Manager OFFICIAL ORGAN FOR City of Americus Sumter County Bailroad Commission of Georgia for Third Congressional District U S Court Southern District of Georgia Subscription Rates Daily and Sunday 6 a year in advance 65 cents a Month Entered as SecondClass Matter at the Postoffice at Americus Georgia according to the Act of Congress National Advertising Representatives FROST LANDIS KOHN Brunswick Bldg Peoples Gas Bldg Candler Bldg New York Chicago Atlanta MEMBER ASSOCIATED PRESS The Associated Press is exclusively entitled to the use for publication f all news dispatches credited to it or not otherwise I credited in this paper and also the local news published herein All right of republication of special dispatches herejn contained are also reserved MERELY CIGARETTE MONEY The following is a part of an editorial in the current number of the Saturday Evening Post writ ten by George Horace Lorimer and is herewith re printed because of its illuminating treatment of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-05-22T12:55:39.830Z",
+  "group": [
+    "ndnp/gu",
+    "digital-library-of-georgia-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn89053204/1919-12-22/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_corvus_ver01:data:sn89053204:00393344465:1919122201:1212/full/pct:3.125/0/default.jpg#h=281&w=216",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_corvus_ver01:data:sn89053204:00393344465:1919122201:1212/full/pct:6.25/0/default.jpg#h=563&w=433",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_corvus_ver01:data:sn89053204:00393344465:1919122201:1212/full/pct:12.5/0/default.jpg#h=1127&w=866",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/gu/batch_gu_corvus_ver01/data/sn89053204/00393344465/1919122201/1212.xml&format=alto_xml"
+  ],
+  "index": 117,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "sumter",
+    "americus",
+    "sumter county",
+    "georgia",
+    "united states"
+  ],
+  "location_city": [
+    "americus"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "sumter"
+  ],
+  "location_state": [
+    "georgia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn89053204",
+    "9",
+    "6",
+    "3",
+    "5",
+    "4",
+    "1",
+    "0000000006"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn89053204"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "9",
+    "3",
+    "3",
+    "4",
+    "4",
+    "4",
+    "6",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Americus daily times-recorder"
+  ],
+  "page_id": "sn89053204-1919-12-22-ed-1-1212",
+  "partof": [
+    "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "americus times-recorder (americus, ga.;[americus, ga.?]) 1891-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn89053204/1919-12-22/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn89053204/1919-12-22/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "sumter",
+    "americus",
+    "sumter county (ga.)",
+    "americus (ga.)",
+    "georgia",
+    "sumter county",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2024-05-22T18:05:00.396Z",
+  "title": "Image 6 of Americus times-recorder (Americus, Ga.;[Americus, Ga.?]), December 22, 1919",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn89053204/1919-12-22/ed-1/?sp=6&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fgu%2Fbatch_gu_corvus_ver01%2Fdata%2Fsn89053204%2F00393344465%2F1919122201%2F1212.xml&q=reconstruction&relevant_snippet=1"
+}

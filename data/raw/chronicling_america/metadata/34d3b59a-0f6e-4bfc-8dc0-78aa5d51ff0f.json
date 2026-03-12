@@ -1,0 +1,131 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16094/?sp=1"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1805-10-15",
+  "dates": [
+    "1805-10-15"
+  ],
+  "description": [
+    "gy ne Sasa cnn oanipet te et 2 TUESDAY OCTOBER 45 1805 EUROPEBREED GREY HOUNDS AND TERRIERS a JOSEPH TAYLOR HAS FOR SALE ON COMMISSION THE FOLLOWING DOG Ss y PINCHER Vixen Europebred Ter riers or Foxhounds hunts extremely well hard mouthed and OCTOBER 1 2 805 3 Wyte fentiments of the deepeit forrow and regret the Govern ssh a ment announces the deceafe of the Moft Honorable Cizaxies 4 MarouvCoknwattis Knight of the Moft Noble Order of the ts fy Garte Governor General of the Eaft India Companys poffeffions a Ei and Commander in Chief of His Majeftys and the Honorable Com mee panys Land Forces in the Eaft Indies a SISTANRAUPERS shi 3Mecesie A wakes 300 Tom and Fanny are the Pups of Ld Pincher are only one year old 200 Fly isacapital Europebred Bitch boat Laths ween ou Pd This Afflicting and greatlytobe deplored event took place on a pa Saturday the 5th Inftant at Ghazeepore inthe Province of Benares is maj Where His Lordfhip had arrived in his progrefs to join andte affume 9 Pathe perfonal Command of the Army in the Field as well as for the purpofe of accomplifhing other important objects intimately connel"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16094/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16094:0001/full/pct:6.25/0/default.jpg#h=484&w=327",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16094:0001/full/pct:12.5/0/default.jpg#h=968&w=655",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16094:0001/full/pct:25.0/0/default.jpg#h=1937&w=1311",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16094:0001/full/pct:50.0/0/default.jpg#h=3874&w=2623",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16094:0001/full/pct:100.0/0/default.jpg#h=7748&w=5246",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16094/0001.alto.xml&format=alto_xml"
+  ],
+  "index": 93,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "india",
+    "calcutta"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "sn88063570",
+    "sn88063571",
+    "0000000001",
+    "sn88063569",
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16094-0001-alto",
+  "partof": [
+    "asian division",
+    "general collections",
+    "world newspapers",
+    "catalog",
+    "south asian digital collection",
+    "serial and government publications division",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "world digital library"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16094/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16094/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "india",
+    "calcutta"
+  ],
+  "timestamp": "2025-12-12T07:20:07.280Z",
+  "title": "Image 1 of Volume 11, Number 561, Tuesday, October 15, 1805 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16094/?sp=1&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16094%2F0001.alto.xml&q=great+war&relevant_snippet=1"
+}

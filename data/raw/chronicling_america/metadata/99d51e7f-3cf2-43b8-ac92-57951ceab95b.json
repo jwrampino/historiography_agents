@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn91050109/1945-01-01/ed-1/?sp=4"
+  ],
+  "batch": [
+    "arhi_ilmenite_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/arkansas/",
+    "2/united states/arkansas/saline/",
+    "3/united states/arkansas/saline/bauxite/"
+  ],
+  "contributor": [
+    "arkansas state archives"
+  ],
+  "date": "1945-01-01",
+  "dates": [
+    "1945-01-01"
+  ],
+  "description": [
+    "Edward E Downs PVT 1c EDWARD EARL DOWNS son of Tom Downs our Diesel operator went into the Army in July 1943 and took his basic training at Camp Carson in Colorado He sail ed for England in May 1944 and was wounded in action in France on July 29 He has been return ed to a military hospital in Jack Mississippi son where he is rap idly recovering His wife the former Miss Mary Ellen Freeman is now living in Jackson Earl left our mines department to enlist William E Downs PVT WILLIAM ERNEST DOWNS brother of Edward E above was in ducted into the Army in April 1944 and had his basic training at Camp Robinson Arkan sas He went overseas from Ft Meade in Mary land in Septem ber The cold weather and mud at the front gave him a bad case of trenchfoot which resulted in his be ing hospitalized in England His wife and their two chil dren reside at their former home near Benton Ernest was one of our trans portation men before enlisting Charles A Avery SLIM AVERY S 2c left our Mill No 1 to enter the Navy in March 1944 He"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-06-01T02:41:44.375Z",
+  "group": [
+    "ndnp/arhi",
+    "arkansas-state-archives-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn91050109/1945-01-01/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_ilmenite_ver01:data:sn91050109:0054286980A:1945010101:0097/full/pct:6.25/0/default.jpg#h=364&w=276",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_ilmenite_ver01:data:sn91050109:0054286980A:1945010101:0097/full/pct:12.5/0/default.jpg#h=729&w=552",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/arhi/batch_arhi_ilmenite_ver01/data/sn91050109/0054286980A/1945010101/0097.xml&format=alto_xml"
+  ],
+  "index": 182,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "bauxite",
+    "saline",
+    "arkansas"
+  ],
+  "location_city": [
+    "bauxite"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "saline"
+  ],
+  "location_state": [
+    "arkansas"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "5",
+    "6",
+    "9",
+    "sn91050109",
+    "0000000004",
+    "4",
+    "a",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn91050109"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "2",
+    "8",
+    "6",
+    "9",
+    "8",
+    "0",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn91050109-1945-01-01-ed-1-0097",
+  "partof": [
+    "pick and shovel (bauxite, ark.) 1944-1958",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "pick and shovel (bauxite, ark.) 1944-1958"
+  ],
+  "publication_frequency": [
+    "monthly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn91050109/1945-01-01/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn91050109/1945-01-01/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "mines and mineral resources",
+    "arkansas",
+    "aluminum industry and trade",
+    "newspapers",
+    "bauxite",
+    "saline"
+  ],
+  "timestamp": "2025-06-01T04:10:19.976Z",
+  "title": "Image 4 of Pick and shovel (Bauxite, Ark.), January 1, 1945",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn91050109/1945-01-01/ed-1/?sp=4&q=phillipines",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Farhi%2Fbatch_arhi_ilmenite_ver01%2Fdata%2Fsn91050109%2F0054286980A%2F1945010101%2F0097.xml&q=phillipines&relevant_snippet=1"
+}

@@ -1,0 +1,12 @@
+{
+  "description": "A crawl of web sites about/from North Korea",
+  "format": [
+    "GZIP",
+    "Item CDX Index",
+    "Item Tile",
+    "Metadata"
+  ],
+  "identifier": "ArchiveIt-Collection-6777",
+  "mediatype": "collection",
+  "title": "North Korea"
+}

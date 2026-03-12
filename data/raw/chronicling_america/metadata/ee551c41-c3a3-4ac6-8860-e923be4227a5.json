@@ -1,0 +1,166 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn89064526/1898-04-15/ed-1/?sp=3"
+  ],
+  "batch": [
+    "mnhi_neon_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/minnesota/",
+    "2/united states/minnesota/morrison/",
+    "3/united states/minnesota/morrison/little falls/"
+  ],
+  "contributor": [
+    "minnesota historical society; saint paul, mn"
+  ],
+  "date": "1898-04-15",
+  "dates": [
+    "1898-04-15"
+  ],
+  "description": [
+    "President Asks Authority f Congress to Terminate Hos tilities In Cuba Does Not Believe It Wise or Prudent to Recognize Inde pendence Now GRANTING AN ARMISTICE Spains Latest Move Submitted for J ust and Deliberate Consideration Maine Disaster an Illustration of the Inability to Pre serve Order WAOOXOTOV April 12Tho presi ient sent the following message to the congress of tli United States Obedient to the precepts of the constltu tlpn whloh oommanda the president to give from time to time to congress the in formation of the state of the Union and to recommend to their consideration such measures as he shall judge necessary and expedient it becomes my duty now to ad dress your body with regard to the grave crisis that has arisen in the relations of the United States to Spain by reason of the warfare that for more than three years IIM raged in the neighboring islaud of Cuba I do so because of the Intimate re lation of the Cuban question with the tate of our own union and the grave re lation the course which it is now incum bent upon the nation to adopt must needs bear to the traditional policy of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-04T17:04:34.258Z",
+  "group": [
+    "ndnp/mnhi",
+    "minnesota-historical-society-saint-paul-mn-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn89064526/1898-04-15/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_neon_ver01:data:sn89064526:00212479275:1898041501:0848/full/pct:3.125/0/default.jpg#h=271&w=187",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_neon_ver01:data:sn89064526:00212479275:1898041501:0848/full/pct:6.25/0/default.jpg#h=542&w=375",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_neon_ver01:data:sn89064526:00212479275:1898041501:0848/full/pct:12.5/0/default.jpg#h=1085&w=751",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mnhi/batch_mnhi_neon_ver01/data/sn89064526/00212479275/1898041501/0848.xml&format=alto_xml"
+  ],
+  "index": 125,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "little falls",
+    "morrison county",
+    "morrison",
+    "minnesota"
+  ],
+  "location_city": [
+    "little falls"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "morrison"
+  ],
+  "location_state": [
+    "minnesota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "0000000003",
+    "9",
+    "5",
+    "sn89064526",
+    "7",
+    "4",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn89064526"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "2",
+    "4",
+    "7",
+    "9",
+    "2",
+    "7",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Little Falls transcript",
+    "Weekly transcript"
+  ],
+  "page_id": "sn89064526-1898-04-15-ed-1-0848",
+  "partof": [
+    "little falls weekly transcript (little falls, morrison co., minn.) 1894-19??",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "little falls weekly transcript (little falls, morrison co., minn.) 1894-19??"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn89064526/1898-04-15/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn89064526/1898-04-15/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "little falls",
+    "morrison county (minn.)",
+    "morrison county",
+    "little falls (minn.)",
+    "newspapers",
+    "morrison",
+    "minnesota"
+  ],
+  "timestamp": "2024-01-05T10:17:42.373Z",
+  "title": "Image 3 of Little Falls weekly transcript (Little Falls, Morrison Co., Minn.), April 15, 1898, (REGULAR FRIDAY EDITION)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn89064526/1898-04-15/ed-1/?sp=3&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmnhi%2Fbatch_mnhi_neon_ver01%2Fdata%2Fsn89064526%2F00212479275%2F1898041501%2F0848.xml&q=cuba&relevant_snippet=1"
+}

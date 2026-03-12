@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045085/1919-07-28/ed-1/?sp=5"
+  ],
+  "batch": [
+    "mthi_moose_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/silver bow/",
+    "3/united states/montana/silver bow/butte/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1919-07-28",
+  "dates": [
+    "1919-07-28"
+  ],
+  "description": [
+    "sport N ews GOSSIP NOTES STIANINGS OF THE CLUBSI NATIONAI LEAGUE Von Lost Pet New York 5 2 24 G84 Cincinnati 54 27 667 Chicago 46 36 561 Brooklyn 41 40 506 Pittsburg 40 42 488 Bloston 30 51 37 5 Philadelphia 2 6 51 38 AMIEi CAN LEAGUE Won Lost Pet Chicago 55 31 640 Cleveland 49 37 570 Detroit 48 37 565 New York 46 36 561 St Louis 45 39 536 Boston 36 46 439 W ashington 37 51 446 Philadelphi 22 61 265 AMEIIIAN ASSOCIATION Won Lost Pet S1 Paul 52 33 612 Indianapolis 49 36 576 Louisville 48 40 545 Colum bus 44 41 518 Kansas City 42 42 500 Minneapolis 44 488 Milwaukee 3 53 398 Toledo 32 55 168 COAST IEAGLE Won Lost Pet Vernon 64 43 598 Los Angeles 63 45 5833 Salt Lake 5 46 545 San Francisco 58 50 537 Sacramento 48 54 471 Portland 46 57 447 Oakland 48 60 441 Ralt h 37 64 360 Yesterdays Games NATIONA I IEAG C I New York 72 Chicago 74 Cincinnati 6 4 Philadelphia 65 Iittsburg 5 5 Brooklyn 4 6 lioslon 40 7 St Louis 2S AMERICAN LEAGE Detroit 134"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:48:55.175Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045085/1919-07-28/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_moose_ver01:data:sn83045085:00212476900:1919072801:0162/full/pct:6.25/0/default.jpg#h=427&w=338",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_moose_ver01:data:sn83045085:00212476900:1919072801:0162/full/pct:12.5/0/default.jpg#h=855&w=676",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_moose_ver01/data/sn83045085/00212476900/1919072801/0162.xml&format=alto_xml"
+  ],
+  "index": 114,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "montana",
+    "silver bow",
+    "butte"
+  ],
+  "location_city": [
+    "butte"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "silver bow"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "sn83045085",
+    "1",
+    "2",
+    "4",
+    "6",
+    "7",
+    "0000000005"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045085"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "2",
+    "4",
+    "7",
+    "6",
+    "9",
+    "0",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83045085-1919-07-28-ed-1-0162",
+  "partof": [
+    "chronicling america",
+    "the butte daily bulletin (butte, mont.) 1918-1921",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the butte daily bulletin (butte, mont.) 1918-1921"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045085/1919-07-28/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045085/1919-07-28/ed-1/"
+  ],
+  "shelf_id": "5",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "working class",
+    "newspapers",
+    "butte",
+    "montana",
+    "labor",
+    "silver bow"
+  ],
+  "timestamp": "2023-07-06T11:24:14.537Z",
+  "title": "Image 5 of The Butte daily bulletin (Butte, Mont.), July 28, 1919",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045085/1919-07-28/ed-1/?sp=5&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_moose_ver01%2Fdata%2Fsn83045085%2F00212476900%2F1919072801%2F0162.xml&q=korea&relevant_snippet=1"
+}

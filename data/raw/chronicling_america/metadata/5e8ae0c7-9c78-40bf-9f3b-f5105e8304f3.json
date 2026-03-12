@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84024827/1921-01-14/ed-1/?sp=5"
+  ],
+  "batch": [
+    "az_kitfox_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/arizona/",
+    "2/united states/arizona/cochise/",
+    "3/united states/arizona/cochise/bisbee/"
+  ],
+  "contributor": [
+    "arizona state library, archives and public records; phoenix, az"
+  ],
+  "date": "1921-01-14",
+  "dates": [
+    "1921-01-14"
+  ],
+  "description": [
+    "Friday Morning January 14 1921 THE BISBEE DAILY REVIEW Page Five h C PENNEY COMPANY A NATIONWIDE INSTITUTION J C PENNEY COMPANY A NATIONWIDE INSTITUTION J C PENNEY COMPANY A NATIONWIDE INSTITUTION Mir Mom 2 O P P w CoEadliitionii it o Me N 5 n o 2 Z Ld Q O I o O 2 O B p o I 8 cu 2 O P 2 ui a I o 2 I The J C PENNEY CO operating 312 Department Stores in 27 States will on FRIDAY JANUARY 14th open its doors with Reconstruction Prices prevailing Every price in our store is based upon our replacement price REGARDLESS OF PREVIOUS COST Believing the time has arrived when revision of prices is warranted by replacement value having discounted our merchandise thousands of dollars in our inventory just com pleted we therefore give to the public the full benefit of the loss we sustain Remember we have said Our Replacement Price which should prove doubly attractive Buying for 312 stores doing a yearly business of approximately Fifty Million Dollars should be sufficient proof that our replacement price is substantially lower than that of our com petitors Do not confuse this with"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-09T14:52:14.515Z",
+  "group": [
+    "ndnp/az",
+    "arizona-state-university-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84024827/1921-01-14/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_kitfox_ver01:data:sn84024827:00211106475:1921011401:0051/full/pct:6.25/0/default.jpg#h=461&w=375",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_kitfox_ver01:data:sn84024827:00211106475:1921011401:0051/full/pct:12.5/0/default.jpg#h=923&w=751",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/az/batch_az_kitfox_ver01/data/sn84024827/00211106475/1921011401/0051.xml&format=alto_xml"
+  ],
+  "index": 58,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "cochise county",
+    "bisbee",
+    "cochise",
+    "united states",
+    "arizona"
+  ],
+  "location_city": [
+    "bisbee"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cochise"
+  ],
+  "location_state": [
+    "arizona"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn84024827",
+    "2",
+    "6",
+    "5",
+    "4",
+    "1",
+    "7",
+    "0000000005"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84024827"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "1",
+    "1",
+    "0",
+    "6",
+    "4",
+    "7",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Bisbee Sunday review",
+    "Daily review"
+  ],
+  "page_id": "sn84024827-1921-01-14-ed-1-0051",
+  "partof": [
+    "chronicling america",
+    "bisbee daily review (bisbee, ariz.) 1901-1971",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "bisbee daily review (bisbee, ariz.) 1901-1971"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84024827/1921-01-14/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84024827/1921-01-14/ed-1/"
+  ],
+  "shelf_id": "5",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "cochise county",
+    "bisbee (ariz.)",
+    "bisbee",
+    "cochise county (ariz.)",
+    "cochise",
+    "united states",
+    "newspapers",
+    "arizona"
+  ],
+  "timestamp": "2024-01-10T07:49:04.519Z",
+  "title": "Image 5 of Bisbee daily review (Bisbee, Ariz.), January 14, 1921",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84024827/1921-01-14/ed-1/?sp=5&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Faz%2Fbatch_az_kitfox_ver01%2Fdata%2Fsn84024827%2F00211106475%2F1921011401%2F0051.xml&q=reconstruction&relevant_snippet=1"
+}

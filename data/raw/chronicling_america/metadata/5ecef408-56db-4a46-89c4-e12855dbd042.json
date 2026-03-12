@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85026192/1854-01-16/ed-1/?sp=3"
+  ],
+  "batch": [
+    "ohi_cobweb_ver04"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/wood/",
+    "3/united states/ohio/wood/perrysburg/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1854-01-16",
+  "dates": [
+    "1854-01-16"
+  ],
+  "description": [
+    "THE PERRYSBURG JOURNAL 355 The Governors Message This document has been perused by our rvadcrs and we ure not disposed to devote much space or time to its review The Message has been prepared with much care and labor and gives d full and elabo rate statement of the condition of Ohio As a general thing we are pleased with it Coming as it does from an extreme politi cian it is as free from party bias as could bo expected Laying aside Gov Med ills undue anxiety to laud the New Constitu tion and hisglaring unfairness in treating upon that lVature of Vhe Constitution out of which grew that unjust statute familiarly known as the crowbar law we see but little to criticise us a whole there is much more to admire than to condemn So far as the Governors laudation of the New Constitution is concerned it should Ixi borne in mind that Mr Med ill was the President of the Convention which framed it and therefore it is pardonable in him if in anybody to hold up its good points and keep out of view it bad ones The matter of the clause in the New Con"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:15:59.169Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85026192/1854-01-16/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026192:00280775770:1854011601:0011/full/pct:6.25/0/default.jpg#h=363&w=274",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026192:00280775770:1854011601:0011/full/pct:12.5/0/default.jpg#h=726&w=549",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_cobweb_ver04/data/sn85026192/00280775770/1854011601/0011.xml&format=alto_xml"
+  ],
+  "index": 130,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ohio",
+    "wood county",
+    "perrysburg",
+    "united states",
+    "wood"
+  ],
+  "location_city": [
+    "perrysburg"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "wood"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000003",
+    "2",
+    "sn85026192",
+    "8",
+    "5",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85026192"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "7",
+    "7",
+    "5",
+    "7",
+    "7",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85026192-1854-01-16-ed-1-0011",
+  "partof": [
+    "chronicling america",
+    "the perrysburg journal (perrysburg, ohio) 1853-1861",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the perrysburg journal (perrysburg, ohio) 1853-1861"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85026192/1854-01-16/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85026192/1854-01-16/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "ohio",
+    "wood county (ohio)",
+    "wood county",
+    "perrysburg (ohio)",
+    "perrysburg",
+    "united states",
+    "newspapers",
+    "wood"
+  ],
+  "timestamp": "2023-09-05T06:17:29.383Z",
+  "title": "Image 3 of The Perrysburg journal (Perrysburg, Ohio), January 16, 1854",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85026192/1854-01-16/ed-1/?sp=3&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_cobweb_ver04%2Fdata%2Fsn85026192%2F00280775770%2F1854011601%2F0011.xml&q=manifest+destiny&relevant_snippet=1"
+}

@@ -1,0 +1,151 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82016181/1938-05-31/ed-1/?sp=25"
+  ],
+  "batch": [
+    "dlc_capa_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1938-05-31",
+  "dates": [
+    "1938-05-31"
+  ],
+  "description": [
+    "U S in Fifth Fight to Stop Child Labor By HERBERT LITTLE A fifth major effort by the Federal Government to stop child labor was assured today but House and Senate conferees on the wagehour bill have yet to decide what method to use Trade Treaty Slowed LONDON May 31 Complicated problems which have arisen during discussions for a trade agreement with the United States necessarily are prolonging negotiations Oliver Stanley president of the Board of Trade said in the House of Commons i today He said there was no serious hitch in the negotiations but was unable to set a date when a report would be male Second U SSupervised Savings and Loan Opens The Northwestern Federal Savings i Loan Association will open temor row in the Colorado Building as the second Federal savings and loan as sociation here The new organization is the result of the conversion of the Northwestern Savings Loan Association of Takoma Park Md from state to Federal charter It will have a branch office at 107 Carrollst Takoma Park The new associations charter is identical with the one granted the First Federal Savings Loan Association Geutinqm EelOtee COMMERCIAL OFFICE FURNITURE CO 800 E ST"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-09-28T05:06:13.899Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82016181/1938-05-31/ed-1/?sp=25",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_capa_ver01:data:sn82016181:00516999640:1938053101:1005/full/pct:6.25/0/default.jpg#h=329&w=222",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_capa_ver01:data:sn82016181:00516999640:1938053101:1005/full/pct:12.5/0/default.jpg#h=659&w=445",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_capa_ver01/data/sn82016181/00516999640/1938053101/1005.xml&format=alto_xml"
+  ],
+  "index": 8,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "district of columbia",
+    "washington d.c.",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "6",
+    "5",
+    "1",
+    "4",
+    "sn82016181",
+    "0000000025"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82016181"
+  ],
+  "number_page": [
+    "0000000025"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "9",
+    "6",
+    "4",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82016181-1938-05-31-ed-1-1005",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the washington daily news (washington, d.c.) 1921-1972"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington daily news (washington, d.c.) 1921-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82016181/1938-05-31/ed-1/?sp=25"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82016181/1938-05-31/ed-1/"
+  ],
+  "shelf_id": "25",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "washington",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2025-09-28T05:52:11.438Z",
+  "title": "Image 25 of The Washington daily news (Washington, D.C.), May 31, 1938",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82016181/1938-05-31/ed-1/?sp=25&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_capa_ver01%2Fdata%2Fsn82016181%2F00516999640%2F1938053101%2F1005.xml&q=child+labor&relevant_snippet=1"
+}

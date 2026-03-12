@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85060004/1934-07-22/ed-1/?sp=1"
+  ],
+  "batch": [
+    "txdn_gull_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/texas/",
+    "2/united states/texas/bexar/",
+    "3/united states/texas/bexar/san antonio/"
+  ],
+  "contributor": [
+    "university of north texas; denton, tx"
+  ],
+  "date": "1934-07-22",
+  "dates": [
+    "1934-07-22"
+  ],
+  "description": [
+    "LRy ey TRl F s el l 5 e Arbitration the Solution Poor Old World One Governor Too Many Holding Up the Army By Arthur Brisbane C1934 by King Feas Syn Inc The defeat of the San Francisco eneral strike was absolutely neces ary and inevitable as Mr William reen has made clear in his address o the workers However premier efeat of one unwise general strike ould have settled nothing The hope of better conditions specially for all engaged in shipping ork employers and employed omes with the broadgauge offer f arbitration by the waterfront em loyers They agree to submit all oints at issue in the maritime strike 0 arbitration and to abide by the esulr if the longshoremens union ill agree to submit all differences imilarly to the presidents board for rbitration To every intelligent workman and mployer it is clear that prosperity annot return nor labor or industry lourish on a basis of censtant trikes harmful to both sides and ettling nothing That the waterfront employers ex vess willingness to substitute arbi ration for miniature civil war is xtremely encouraging And that he longshore workers will cooper te in submitting their demands d complaints to impartial"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-10-19T03:53:23.198Z",
+  "group": [
+    "ndnp/txdn",
+    "university-of-north-texas-denton-tx-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85060004/1934-07-22/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_gull_ver01:data:sn85060004:00516994356:1934072201:0656/full/pct:6.25/0/default.jpg#h=328&w=257",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_gull_ver01:data:sn85060004:00516994356:1934072201:0656/full/pct:12.5/0/default.jpg#h=656&w=514",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/txdn/batch_txdn_gull_ver01/data/sn85060004/00516994356/1934072201/0656.xml&format=alto_xml"
+  ],
+  "index": 101,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "san antonio",
+    "bexar",
+    "texas"
+  ],
+  "location_city": [
+    "san antonio"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "bexar"
+  ],
+  "location_state": [
+    "texas"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "5",
+    "6",
+    "9",
+    "sn85060004",
+    "4",
+    "3",
+    "0",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85060004"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "4",
+    "3",
+    "5",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "San Antonio Sunday light"
+  ],
+  "page_id": "sn85060004-1934-07-22-ed-1-0656",
+  "partof": [
+    "san antonio light (san antonio, tex.) 1911-1993",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "san antonio light (san antonio, tex.) 1911-1993"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85060004/1934-07-22/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85060004/1934-07-22/ed-1/"
+  ],
+  "shelf_id": "01",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "san antonio",
+    "newspapers",
+    "san antonio (tex.)",
+    "texas",
+    "bexar"
+  ],
+  "timestamp": "2025-10-19T04:06:09.559Z",
+  "title": "Image 1 of San Antonio light (San Antonio, Tex.), July 22, 1934, (LATE MORNING)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85060004/1934-07-22/ed-1/?sp=1&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Ftxdn%2Fbatch_txdn_gull_ver01%2Fdata%2Fsn85060004%2F00516994356%2F1934072201%2F0656.xml&q=terrorism&relevant_snippet=1"
+}

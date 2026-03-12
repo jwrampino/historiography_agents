@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045784/1854-11-18/ed-1/?sp=4"
+  ],
+  "batch": [
+    "dlc_firedrake_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1854-11-18",
+  "dates": [
+    "1854-11-18"
+  ],
+  "description": [
+    "NATIONAL INTELLIGENCER MANIFEST DESTINY Our readers to are sure will have notioed a fact to which alhision has heretofore been made in this journal concerning the marked decline of that filibustering spirit which has more than onco been unhappily prevalent in certain sections of the coun try Wo are not insensible of the various causes which have contributed to this result among which we find a pleasure in mentioniug the firmness with which the Executive Head of the Government de nounced by his official proclamation these disorgan izing schemes as being no less a violation of our own laws than an infringement of those which bind together the commonwealth of nations in a commu nity of rights and correlative duties It is no less grateful to us to rccall the disapprobation with which the popular branch of Congress received the illadvised proposition to repeal with respect to a European Power with whom we are still in relations of ostensible peace and amity those Neutrality Laws with which the legislation of Congress has sanctioned and ratified the Common Law of Na tions And we may allude to the fidelity and rigor with which the Judiciary has applied the princi ples of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:08:53.352Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045784/1854-11-18/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854111801:0347/full/pct:3.125/0/default.jpg#h=281&w=219",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854111801:0347/full/pct:6.25/0/default.jpg#h=562&w=439",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854111801:0347/full/pct:12.5/0/default.jpg#h=1124&w=879",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_firedrake_ver01/data/sn83045784/00415661617/1854111801/0347.xml&format=alto_xml"
+  ],
+  "index": 16,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "5",
+    "6",
+    "sn83045784",
+    "0000000004",
+    "4",
+    "7",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045784"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "6",
+    "1",
+    "6",
+    "1",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "National intelligencer",
+    "Weekly intelligencer"
+  ],
+  "page_id": "sn83045784-1854-11-18-ed-1-0347",
+  "partof": [
+    "serial and government publications division",
+    "chronicling america",
+    "weekly national intelligencer (washington [d.c.]) 1841-1869"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "weekly national intelligencer (washington [d.c.]) 1841-1869"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045784/1854-11-18/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045784/1854-11-18/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-20T12:48:53.358Z",
+  "title": "Image 4 of Weekly national intelligencer (Washington [D.C.]), November 18, 1854",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045784/1854-11-18/ed-1/?sp=4&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_firedrake_ver01%2Fdata%2Fsn83045784%2F00415661617%2F1854111801%2F0347.xml&q=manifest+destiny&relevant_snippet=1"
+}

@@ -1,0 +1,130 @@
+{
+  "accessionNumbers": [
+    "1970-NLF-326"
+  ],
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "subjects": [
+    {
+      "heading": "Nuclear energy",
+      "authorityType": "topicalSubject",
+      "naId": 10641714
+    }
+  ],
+  "useRestriction": {
+    "note": "Some or all of the records may be subject to copyright restrictions. Researchers should contact the publisher for further information.",
+    "status": "Restricted - Possibly"
+  },
+  "audiovisual": "false",
+  "title": "Nuclear",
+  "coverageEndDate": {
+    "month": 7,
+    "year": 1975,
+    "logicalDate": "1975-07-01"
+  },
+  "physicalOccurrences": [
+    {
+      "extent": "34 pages",
+      "referenceUnits": [
+        {
+          "city": "Ann Arbor",
+          "phone": "734-205-0555",
+          "address1": "1000 Beal Avenue",
+          "postalCode": "48109-2114",
+          "name": "Gerald R. Ford Library",
+          "state": "MI",
+          "fax": "734-205-0571",
+          "email": "ford.library@nara.gov",
+          "mailCode": "PL-GRF"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "depth": 0,
+          "width": 0,
+          "specificMediaType": "Paper",
+          "containerId": "120",
+          "reproductionCount": 40,
+          "height": 0
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "note": "Some material may have been removed due to donor or other restrictions.",
+    "status": "Restricted - Possibly"
+  },
+  "coverageStartDate": {
+    "month": 1,
+    "year": 1975,
+    "logicalDate": "1975-01-01"
+  },
+  "dataControlGroup": {
+    "groupName": "Gerald R. Ford Library",
+    "groupId": "PL-GRF",
+    "groupCd": "PL-GRF"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "020400786",
+      "type": "PRESNET Number"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "1512975.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/75/5129/1512975/content/library/document/0204/1512975.pdf",
+      "objectFileSize": 648724,
+      "objectId": "25343634",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "GRF-0204",
+      "inclusiveStartDate": {
+        "year": 1974,
+        "logicalDate": "1974-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "year": 2009,
+        "logicalDate": "2009-01-01"
+      },
+      "title": "Ron Nessen Papers",
+      "naId": 648696
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1974,
+        "logicalDate": "1974-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "Nessen, Ron, 1934-",
+          "authorityType": "person",
+          "birthDate": {
+            "year": 1934,
+            "logicalDate": "1934-01-01"
+          },
+          "naId": 10581314
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1977,
+        "logicalDate": "1977-01-01"
+      },
+      "title": "Domestic Guidance for Press Briefings Files",
+      "naId": 648724
+    }
+  ],
+  "naId": 1512975
+}

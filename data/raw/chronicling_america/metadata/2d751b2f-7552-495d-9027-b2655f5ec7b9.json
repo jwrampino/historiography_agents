@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1931-10-04/ed-1/?sp=36"
+  ],
+  "batch": [
+    "dlc_quinne_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1931-10-04",
+  "dates": [
+    "1931-10-04"
+  ],
+  "description": [
+    "6 MEXICAN OFFICIAL URGES 1 PUBLIC WORKS PROGRAM Secretary of Communications Holds Country Is in Fortunate Economic Position Mr the Associated Press SALTILLO Mexico October S Mexico is In a fortunate economic po sition as compared to other countries and should view the future with op timism Gen Juan Andreu Almazan secretary of communications said in a speech at the inauguration of a link in the MatamorosMazatlan Highway here yesterday He said he country has been able to find places for thousands of Mex icans returning from the Uhited State during the last year without serious injury to its condition She has an abundance of corn wheat and other I food supplies on hand in his opinion Arguing for continuation of public works he said officials who suspend such activity on account of the exist ing financial depression are merely taking advantage of an excuse to hide their incompetence The inaugurated road connects Sal tillo with Cuesta de los Muertos on the border of the State of Nuevo Leon PUBLIC LIBRARY Immigration In connection with the present in terest in the smuggling of aliens into the United States since the present im migration restrictions went into effect i and the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:43:16.672Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1931-10-04/ed-1/?sp=36",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_quinne_ver01:data:sn83045462:00280600726:1931100401:0189/full/pct:3.125/0/default.jpg#h=261&w=201",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_quinne_ver01:data:sn83045462:00280600726:1931100401:0189/full/pct:6.25/0/default.jpg#h=523&w=403",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_quinne_ver01:data:sn83045462:00280600726:1931100401:0189/full/pct:12.5/0/default.jpg#h=1046&w=806",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_quinne_ver01/data/sn83045462/00280600726/1931100401/0189.xml&format=alto_xml"
+  ],
+  "index": 2,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "district of columbia",
+    "washington d.c.",
+    "washington",
+    "united states"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "8",
+    "0",
+    "2",
+    "0000000036",
+    "sn83045462",
+    "7",
+    "1",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000036"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "0",
+    "7",
+    "2",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1931-10-04-ed-1-0189",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1931-10-04/ed-1/?sp=36"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1931-10-04/ed-1/"
+  ],
+  "shelf_id": "036",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)",
+    "washington",
+    "united states"
+  ],
+  "timestamp": "2022-10-25T15:00:36.120Z",
+  "title": "Image 36 of Evening star (Washington, D.C.), October 4, 1931",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1931-10-04/ed-1/?sp=36&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_quinne_ver01%2Fdata%2Fsn83045462%2F00280600726%2F1931100401%2F0189.xml&q=immigration&relevant_snippet=1"
+}

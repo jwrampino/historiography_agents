@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84020422/1960-02-04/ed-1/?sp=3"
+  ],
+  "batch": [
+    "deu_ironman_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/delaware/",
+    "2/united states/delaware/kent/",
+    "3/united states/delaware/kent/smyrna/"
+  ],
+  "contributor": [
+    "university of delaware library, newark, de"
+  ],
+  "date": "1960-02-04",
+  "dates": [
+    "1960-02-04"
+  ],
+  "description": [
+    "it EDUCATION IN THE SOVIET UNION Russian Educational Program Found Not Producing Superior Students By DR GEORGE V KIRK 11 This is i i i j 1 It emphasizes the academ ic subjects such as algebra ge ometry trigonometry physics chemistry astronomy biology and foreign languages 2 Most of the students in the Soviet Union take at least one foreign language in addition to their native language many take three as a result of the fact that there are more than 60 native languages in the Soviet Union in addition to Russian 3 The Soviet boy or girl goes to school six days a week Mon day thru Saturday In grades 1 2 and 3 there are about 24 hours per week of schooling in creasing to a total of 34 hours per week of schooling in grades EDITORS NOTE the fourth in a series of art icles written especially for this paper by Dr Kirk su perintendent of Smyrna Special Schools on his re cent trip to the Soviet Un ion Questions addressed to the author concerning the trip people living condi tions etc behind the Iron Curtain may be sent to The Smyrna Times Kirk Pro ject 2527"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-12T17:57:47.802Z",
+  "group": [
+    "ndnp/deu",
+    "university-of-delaware-library-newark-de-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84020422/1960-02-04/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_ironman_ver02:data:sn84020422:00513684459:1960020401:0053/full/pct:6.25/0/default.jpg#h=416&w=295",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_ironman_ver02:data:sn84020422:00513684459:1960020401:0053/full/pct:12.5/0/default.jpg#h=833&w=591",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/deu/batch_deu_ironman_ver02/data/sn84020422/00513684459/1960020401/0053.xml&format=alto_xml"
+  ],
+  "index": 39,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "kent",
+    "smyrna",
+    "delaware"
+  ],
+  "location_city": [
+    "smyrna"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "kent"
+  ],
+  "location_state": [
+    "delaware"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000003",
+    "sn84020422",
+    "9",
+    "6",
+    "3",
+    "5",
+    "8",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84020422"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "3",
+    "6",
+    "8",
+    "4",
+    "4",
+    "5",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84020422-1960-02-04-ed-1-0053",
+  "partof": [
+    "smyrna times (smyrna, del.) 1854-1987",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "smyrna times (smyrna, del.) 1854-1987"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84020422/1960-02-04/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84020422/1960-02-04/ed-1/"
+  ],
+  "shelf_id": "03",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "kent",
+    "smyrna (del.)",
+    "delaware",
+    "smyrna",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-08-13T08:32:18.103Z",
+  "title": "Image 3 of Smyrna times (Smyrna, Del.), February 4, 1960",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84020422/1960-02-04/ed-1/?sp=3&q=soviet+union",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdeu%2Fbatch_deu_ironman_ver02%2Fdata%2Fsn84020422%2F00513684459%2F1960020401%2F0053.xml&q=soviet+union&relevant_snippet=1"
+}

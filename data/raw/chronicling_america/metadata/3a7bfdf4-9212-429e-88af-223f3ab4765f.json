@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn92064025/1906-01-20/ed-1/?sp=4"
+  ],
+  "batch": [
+    "rp_annishag_ver04"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/rhode island/",
+    "2/united states/rhode island/providence/",
+    "3/united states/rhode island/providence/providence/"
+  ],
+  "contributor": [
+    "rhode island digital newspaper project"
+  ],
+  "date": "1906-01-20",
+  "dates": [
+    "1906-01-20"
+  ],
+  "description": [
+    "NOTICE When You go to Providence try my New Restaorant and Oyster Honse AT 125 WEYBOSSET ST Opp Narragansett Hotel VICTOR GELB Anmuw R CHAOK Marble and Granite Works Adjoining Rays Block Wntobcmokeh East Providence R I Marble an Granite Monuments Headstones Tab lets and Curbing Marble Wash Bowl Slabs Shelves eto ONARLES E FRANKLAND Dealer in IRON AND METALS Paper Stock Manilla Rope and Cauvas Bot ties fz and Domohns Telephone m South Water 2t Cor Cent St vidence R I Residence 4 Guruey 8 East Providenoce JOHN B McCUINNESS R E Mortgages and asurance Pare and Rental of Foperty a Specialsy 92 Westminster St Providence R L JAMES E KAY PRACTICAL HORSE SHHOEING Light and Heavy Hand Made Shoes New Wagons and Buggies bullt to order All Jobbing done in a satisfactory maaner ot short notiee SEEKONKE MASS SEND ITEMS SUBSCRIPTIONS EAG I Broadway Six Corners EAST PROVIDENCE G M MUNROE Baled Hay at lowest yrices 527 Caand street Providence R L GOLD In Goid The New EnglandandNew York Building Exchanges and R l Contractors Directory Special Edition for Metropoli tan Districis ROBERT A HUESTON MANDOLINIST fo 337 Pine SL PROYIDENCE R L H F MASON Conrractor and"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-05-12T00:27:13.718Z",
+  "group": [
+    "ndnp/rp",
+    "rhode-island-digital-newspaper-project"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn92064025/1906-01-20/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_annishag_ver04:data:sn92064025:0051415353A:1906012001:0049/full/pct:3.125/0/default.jpg#h=378&w=297",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_annishag_ver04:data:sn92064025:0051415353A:1906012001:0049/full/pct:6.25/0/default.jpg#h=757&w=595",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/rp/batch_rp_annishag_ver04/data/sn92064025/0051415353A/1906012001/0049.xml&format=alto_xml"
+  ],
+  "index": 22,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "providence",
+    "east providence",
+    "rhode island"
+  ],
+  "location_city": [
+    "providence"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "providence"
+  ],
+  "location_state": [
+    "rhode island"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "5",
+    "4",
+    "1",
+    "a",
+    "0000000004",
+    "sn92064025"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn92064025"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "4",
+    "1",
+    "5",
+    "3",
+    "5",
+    "3",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn92064025-1906-01-20-ed-1-0049",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "east providence eagle (east providence, r.i.) 1882-191?"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "east providence eagle (east providence, r.i.) 1882-191?"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn92064025/1906-01-20/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn92064025/1906-01-20/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "providence",
+    "east providence (r.i.)",
+    "united states",
+    "newspapers",
+    "rhode island"
+  ],
+  "timestamp": "2024-05-12T00:40:05.790Z",
+  "title": "Image 4 of East Providence eagle (East Providence, R.I.), January 20, 1906",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn92064025/1906-01-20/ed-1/?sp=4&q=great+depressiom",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Frp%2Fbatch_rp_annishag_ver04%2Fdata%2Fsn92064025%2F0051415353A%2F1906012001%2F0049.xml&q=great+depressiom&relevant_snippet=1"
+}

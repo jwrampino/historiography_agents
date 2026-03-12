@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83025730/1852-08-07/ed-1/?sp=1"
+  ],
+  "batch": [
+    "txdn_eastland_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/texas/",
+    "2/united states/texas/harrison/",
+    "3/united states/texas/harrison/marshall/"
+  ],
+  "contributor": [
+    "university of north texas; denton, tx"
+  ],
+  "date": "1852-08-07",
+  "dates": [
+    "1852-08-07"
+  ],
+  "description": [
+    "flit fexus vol iv mTrsh allTtex asT Etpublifflii SATURDAY AUGUST7 1 852 NO 6 Jilt I lAAN KKPUKMCAIM llT Tw Dalian ill Hair a Tear I W TTo I U H E R V DITOft AND rnofmiroi T ERMH iHtTftai RrsesLira iisied wklv at TWO b 14HS 4l A llAlP per annum if raid in fnr if paid Within II mnth Thro IfcHara mi h delaved until aft r ilir ait month t f Will s F Dollar hint If rnptoa f n Lvrlimet HI f I mr Mnar of ton lino or I so rent r ilr f evrry iihrnnt inwrtion I liberal luronnt mad r yearly advert irmenta Announcement of randidal Ten Dollar Iweve fr ent will b charged on adterliaementJ pN I in advenre Letter addreed to this OfTrc nml ha jrrt laiciatiii fPurc bj tka Aballtiailiti ronuncmmrnto of the atimul Era Tht Record of hit Volet lha Natonal Era the Ahrlition paper at Wash mgton i iy J igjfs Pierce entered Congress in 1833 mday February 2d IH35 the House of preservatives proceeded to the consider in of several petitions and memorials ti sundry citiens of the State of New rk one of which was signed"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-06-05T16:48:22.251Z",
+  "group": [
+    "ndnp/txdn",
+    "university-of-north-texas-denton-tx-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83025730/1852-08-07/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1852080701:0627/full/pct:6.25/0/default.jpg#h=387&w=272",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1852080701:0627/full/pct:12.5/0/default.jpg#h=774&w=544",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/txdn/batch_txdn_eastland_ver01/data/sn83025730/00279559836/1852080701/0627.xml&format=alto_xml"
+  ],
+  "index": 74,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "marshall",
+    "texas",
+    "harrison",
+    "harrison county",
+    "united states"
+  ],
+  "location_city": [
+    "marshall"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "harrison"
+  ],
+  "location_state": [
+    "texas"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "0000000001",
+    "2",
+    "8",
+    "5",
+    "3",
+    "6",
+    "sn83025730",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83025730"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "5",
+    "9",
+    "8",
+    "3",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83025730-1852-08-07-ed-1-0627",
+  "partof": [
+    "chronicling america",
+    "the texas republican (marshall, tex.) 1849-1869",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the texas republican (marshall, tex.) 1849-1869"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83025730/1852-08-07/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83025730/1852-08-07/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "marshall",
+    "texas",
+    "harrison",
+    "harrison county",
+    "harrison county (tex.)",
+    "united states",
+    "newspapers",
+    "marshall (tex.)"
+  ],
+  "timestamp": "2025-06-10T07:50:58.657Z",
+  "title": "Image 1 of The Texas Republican (Marshall, Tex.), August 7, 1852",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83025730/1852-08-07/ed-1/?sp=1&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Ftxdn%2Fbatch_txdn_eastland_ver01%2Fdata%2Fsn83025730%2F00279559836%2F1852080701%2F0627.xml&q=slavery&relevant_snippet=1"
+}

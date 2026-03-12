@@ -1,0 +1,170 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn92070146/1935-11-08/ed-1/?sp=7"
+  ],
+  "batch": [
+    "curiv_quailbush_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/california/",
+    "2/united states/california/imperial/",
+    "3/united states/california/imperial/el centro/"
+  ],
+  "contributor": [
+    "university of california, riverside; riverside, ca"
+  ],
+  "date": "1935-11-08",
+  "dates": [
+    "1935-11-08"
+  ],
+  "description": [
+    "FRIDAY NOVEMBER 81935 FRANCE TO ASK DEATH FOR SIX REGICIDES ASSASSINS OF ALEXANDER ON TRIAL SOON PARIS Nov 8 URThe terror ism behind Sarajevo which lias brought constant upheavals in tur bulent central Europe since the war will hold world attention when six of the plotters of King Alexanders assassination go on trial in the lit tle southern town of AixenPro vence The case is due to be opened by midNovember The word Oustachis dreaded Croatian terrorist societywas scar cely known outside the Balkans until Oct 9 1934 On that day as throngs lined the beflagged streets of Mar seilles cheering the smiling and gor geouslj uniformed King of Yugo slavia and Louis Barthou Frances aged foreign minister a man dashed from the curb leaped onto the run ning board of the slowly moving limousine and pumped bullets into their bodies Almost before the smiles faded from the lips of Barthou and Alexander the assassin was struck down by sabers shot by guards and killed by the crowd This man was a member of the Oustachis named Petrus Kelemen Three of his accomplices in France were rounded up They will be tried for their lives at Aix Locked in an"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-09-02T13:59:30.578Z",
+  "group": [
+    "ndnp/curiv",
+    "university-of-california-riverside-riverside-ca-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn92070146/1935-11-08/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_quailbush_ver02:data:sn92070146:00414188795:1935110801:0281/full/pct:6.25/0/default.jpg#h=458&w=358",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_quailbush_ver02:data:sn92070146:00414188795:1935110801:0281/full/pct:12.5/0/default.jpg#h=916&w=717",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/curiv/batch_curiv_quailbush_ver02/data/sn92070146/00414188795/1935110801/0281.xml&format=alto_xml"
+  ],
+  "index": 183,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "san diego county",
+    "united states",
+    "california",
+    "imperial county",
+    "imperial",
+    "el centro"
+  ],
+  "location_city": [
+    "el centro"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "imperial"
+  ],
+  "location_state": [
+    "california"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "0000000007",
+    "4",
+    "1",
+    "5",
+    "7",
+    "sn92070146",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn92070146"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "1",
+    "8",
+    "8",
+    "7",
+    "9",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Imperial Valley press and El Centro progress",
+    "Post-press",
+    "Imperial Valley news-press",
+    "Imperial Valley press/Brawley news",
+    "Morning post-Imperial Valley press",
+    "At head of title: Extra Imperial Valley press"
+  ],
+  "page_id": "sn92070146-1935-11-08-ed-1-0281",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "imperial valley press (el centro, calif.) 1907-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "imperial valley press (el centro, calif.) 1907-current"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn92070146/1935-11-08/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn92070146/1935-11-08/ed-1/"
+  ],
+  "shelf_id": "07",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "san diego county",
+    "united states",
+    "imperial county (calif.)",
+    "san diego county (calif.)",
+    "newspapers",
+    "california",
+    "imperial county",
+    "imperial",
+    "el centro"
+  ],
+  "timestamp": "2025-09-29T07:34:39.496Z",
+  "title": "Image 7 of Imperial Valley press (El Centro, Calif.), November 8, 1935",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn92070146/1935-11-08/ed-1/?sp=7&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fcuriv%2Fbatch_curiv_quailbush_ver02%2Fdata%2Fsn92070146%2F00414188795%2F1935110801%2F0281.xml&q=terrorism&relevant_snippet=1"
+}

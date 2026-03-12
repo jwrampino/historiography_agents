@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn91068761/1963-06-19/ed-1/?sp=9"
+  ],
+  "batch": [
+    "ncu_cotton_ver04"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/north carolina/",
+    "2/united states/north carolina/columbus/",
+    "3/united states/north carolina/columbus/tabor city/"
+  ],
+  "contributor": [
+    "university of north carolina at chapel hill library, chapel hill, nc"
+  ],
+  "date": "1963-06-19",
+  "dates": [
+    "1963-06-19"
+  ],
+  "description": [
+    "Civil Defense Offers Adult Education Class Under the supervision of the State Board or Education and the Civil Defense Department a Civil Defense Adult Educa tion Course will be taught in Wnminctcw in the Board Hoom of Hemingway Hall on June 17 through June 21 front 830 \u03b7 to U30 am each day that nrkJ5yunned insrctors ap Nine Students from this Junty are scheduled to take1 I this course They are Mrs Alice W Keller Cerro Gordo Mrs Lois W Gerald Chad1 bourn Paul H Rberry Whitevllle Mrs Mary Floyd Whitevllle Frank A Pallone Riegelwood Marshall White Riegelwood Mrs Mary C Wil liamson Wananiah Mrs Nina Collier Whitevllle Mrs Ruth P Powell Whiteville Requirements students must meet is to have a college de gree and have a North Caro line Teaching Certificate Any class organized after they have received their r j tif irate from the N C Educa tion Department they wtU be paid at the nie of 900 for a IS hr course However these courses wil lhave to be ap proved by the Department of Education in Raleigh and it will be the responsibility oi j the instructor to organize the classes with a minimum of 30"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-12T17:32:35.010Z",
+  "group": [
+    "ndnp/ncu",
+    "university-of-north-carolina-chapel-hill-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn91068761/1963-06-19/ed-1/?sp=9",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_cotton_ver04:data:sn91068761:00279559204:1963061901:0793/full/pct:6.25/0/default.jpg#h=455&w=347",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_cotton_ver04:data:sn91068761:00279559204:1963061901:0793/full/pct:12.5/0/default.jpg#h=910&w=695",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ncu/batch_ncu_cotton_ver04/data/sn91068761/00279559204/1963061901/0793.xml&format=alto_xml"
+  ],
+  "index": 42,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "columbus",
+    "tabor city",
+    "north carolina"
+  ],
+  "location_city": [
+    "tabor city"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "columbus"
+  ],
+  "location_state": [
+    "north carolina"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "0000000009",
+    "2",
+    "5",
+    "4",
+    "1",
+    "sn91068761",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn91068761"
+  ],
+  "number_page": [
+    "0000000009"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "5",
+    "9",
+    "2",
+    "0",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn91068761-1963-06-19-ed-1-0793",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "tabor city tribune (tabor city, n.c.) 1946-1991"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "tabor city tribune (tabor city, n.c.) 1946-1991"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn91068761/1963-06-19/ed-1/?sp=9"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn91068761/1963-06-19/ed-1/"
+  ],
+  "shelf_id": "09",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "tabor city (n.c.)",
+    "tabor city",
+    "columbus",
+    "north carolina"
+  ],
+  "timestamp": "2023-08-12T23:04:04.926Z",
+  "title": "Image 9 of Tabor City tribune (Tabor City, N.C.), June 19, 1963",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn91068761/1963-06-19/ed-1/?sp=9&q=vietnam",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fncu%2Fbatch_ncu_cotton_ver04%2Fdata%2Fsn91068761%2F00279559204%2F1963061901%2F0793.xml&q=vietnam&relevant_snippet=1"
+}

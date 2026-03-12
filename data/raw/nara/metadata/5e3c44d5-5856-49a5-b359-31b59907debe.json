@@ -1,0 +1,264 @@
+{
+  "onlineResources": [
+    {
+      "note": "This file was scanned as part of a collaboration effort between Fold3 and the National Archives.",
+      "description": "Fold3",
+      "url": "https://www.fold3.com/image/22089103"
+    }
+  ],
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "title": "Revolutionary War Pension and Bounty Land Warrant Application File S. 8602, Nicholas Gratt, Penn.",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "7th and Pennsylvania Avenue NW",
+          "city": "Washington",
+          "phone": "202-357-5385",
+          "address1": "National Archives Building",
+          "postalCode": "20408",
+          "name": "National Archives at Washington, DC - Textual Reference",
+          "state": "DC",
+          "fax": "202-357-5936",
+          "email": "Archives1reference@nara.gov",
+          "mailCode": "RDT1"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupId": "ou=RDTP1,ou=groups",
+    "groupCd": "RDTP1"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "microformPublications": [
+    {
+      "identifier": "M804",
+      "note": "The start of this file can be found on Roll 1110.",
+      "title": "M804 - Revolutionary War Pension and Bounty-Land Warrant Application Files"
+    }
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "Fold3 2016",
+      "type": "Search Identifier"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "4159085_00375.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/6/7093/54709306/content/23_b/M804-RevolutionaryWarPensionAppFiles_b/M804_1110/images/4159085_00375.jpg",
+      "objectFileSize": 5231310,
+      "objectDesignator": "Fold3 File #22089103",
+      "objectId": "54709307",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4159085_00376.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/6/7093/54709306/content/23_b/M804-RevolutionaryWarPensionAppFiles_b/M804_1110/images/4159085_00376.jpg",
+      "objectFileSize": 3055348,
+      "objectDesignator": "Fold3 File #22089104",
+      "objectId": "54709308",
+      "objectDescription": "Additional names: May, Haller, Nicholas Gratt, George M Keim, D Brown. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4159085_00377.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/6/7093/54709306/content/23_b/M804-RevolutionaryWarPensionAppFiles_b/M804_1110/images/4159085_00377.jpg",
+      "objectFileSize": 3060952,
+      "objectDesignator": "Fold3 File #22089105",
+      "objectId": "54709309",
+      "objectDescription": "Additional names: Nicholas Gratt. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4159085_00378.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/6/7093/54709306/content/23_b/M804-RevolutionaryWarPensionAppFiles_b/M804_1110/images/4159085_00378.jpg",
+      "objectFileSize": 3906730,
+      "objectDesignator": "Fold3 File #22089106",
+      "objectId": "54709310",
+      "objectDescription": "Additional names: Nicholas Great, Nicholas Great, Jacob Shartle, Philip Reeves, Henry Haller, Philip Reeves, Nicholas Great, Matthias S Richards, John George Faslet, Nicholas Great. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4159085_00379.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/6/7093/54709306/content/23_b/M804-RevolutionaryWarPensionAppFiles_b/M804_1110/images/4159085_00379.jpg",
+      "objectFileSize": 3877254,
+      "objectDesignator": "Fold3 File #22089107",
+      "objectId": "54709311",
+      "objectDescription": "Additional names: Nicolaus Geatt, Matthias S Richards, May, Jacob Shertle, Michael Lindermuth, Nicholas Great, Henry Haller. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4159085_00380.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/6/7093/54709306/content/23_b/M804-RevolutionaryWarPensionAppFiles_b/M804_1110/images/4159085_00380.jpg",
+      "objectFileSize": 3794028,
+      "objectDesignator": "Fold3 File #22089108",
+      "objectId": "54709312",
+      "objectDescription": "Additional names: Philip Rieras, Nicholas Great, Susanah Hoyt, Jacob Shertle, Geo May, Matthias S Richards, Baltzar Gales, Nicholas Grate, Matthias S Richards, Michael Lindermuth, John George Faslet, Nicholas Great, Nicholas Great, Benjamin Tyson, Matthias S Richards, Benjamin Tyson. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4159085_00381.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/6/7093/54709306/content/23_b/M804-RevolutionaryWarPensionAppFiles_b/M804_1110/images/4159085_00381.jpg",
+      "objectFileSize": 3073877,
+      "objectDesignator": "Fold3 File #22089109",
+      "objectId": "54709313",
+      "objectDescription": "Additional names: J L Edwards. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4159085_00382.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/6/7093/54709306/content/23_b/M804-RevolutionaryWarPensionAppFiles_b/M804_1110/images/4159085_00382.jpg",
+      "objectFileSize": 3101267,
+      "objectDesignator": "Fold3 File #22089110",
+      "objectId": "54709314",
+      "objectDescription": "Additional names: J L Edwards, Nicholas Greth, Geo M Keim. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4159085_00383.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/6/7093/54709306/content/23_b/M804-RevolutionaryWarPensionAppFiles_b/M804_1110/images/4159085_00383.jpg",
+      "objectFileSize": 3051901,
+      "objectDesignator": "Fold3 File #22089111",
+      "objectId": "54709315",
+      "objectDescription": "Additional names: George M Keim, Nicholas Gratt, Haller. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4159085_00384.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/6/7093/54709306/content/23_b/M804-RevolutionaryWarPensionAppFiles_b/M804_1110/images/4159085_00384.jpg",
+      "objectFileSize": 3009430,
+      "objectDesignator": "Fold3 File #22089112",
+      "objectId": "54709316",
+      "objectDescription": "Additional names: Nicholas Gratt. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4159085_00385.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/6/7093/54709306/content/23_b/M804-RevolutionaryWarPensionAppFiles_b/M804_1110/images/4159085_00385.jpg",
+      "objectFileSize": 3064206,
+      "objectDesignator": "Fold3 File #22089113",
+      "objectId": "54709317",
+      "objectDescription": "Additional names: G M Keim, J L Edwards. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4159085_00386.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/6/7093/54709306/content/23_b/M804-RevolutionaryWarPensionAppFiles_b/M804_1110/images/4159085_00386.jpg",
+      "objectFileSize": 3056349,
+      "objectDesignator": "Fold3 File #22089114",
+      "objectId": "54709318",
+      "objectDescription": "Additional names: J L Edwards, G M Keim. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4159085_00387.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/6/7093/54709306/content/23_b/M804-RevolutionaryWarPensionAppFiles_b/M804_1110/images/4159085_00387.jpg",
+      "objectFileSize": 3044750,
+      "objectDesignator": "Fold3 File #22089115",
+      "objectId": "54709319",
+      "objectDescription": "Additional names: Geo M Keim, Greth. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1773,
+        "logicalDate": "1773-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 15,
+      "inclusiveEndDate": {
+        "year": 2007,
+        "logicalDate": "2007-12-31"
+      },
+      "title": "Records of the Department of Veterans Affairs",
+      "naId": 344
+    },
+    {
+      "inclusiveStartDate": {
+        "dateQualifier": "ca.",
+        "year": 1800,
+        "logicalDate": "1800-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Predecessor",
+          "heading": "War Department. Military Bounty Lands and Pension Branch. ca. 1810-1815",
+          "abolishDate": {
+            "year": 1815,
+            "logicalDate": "1815-12-31"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1810,
+            "logicalDate": "1810-01-01"
+          },
+          "naId": 10447255
+        },
+        {
+          "creatorType": "Predecessor",
+          "heading": "War Department. Office of the Secretary. 1789-9/18/1947",
+          "abolishDate": {
+            "month": 9,
+            "year": 1947,
+            "day": 18,
+            "logicalDate": "1947-09-18"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1789,
+            "logicalDate": "1789-01-01"
+          },
+          "naId": 10450628
+        },
+        {
+          "creatorType": "Most Recent",
+          "heading": "Department of the Interior. Bureau of Pensions. 1849-1930",
+          "abolishDate": {
+            "year": 1930,
+            "logicalDate": "1930-12-31"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1849,
+            "logicalDate": "1849-01-01"
+          },
+          "naId": 10505832
+        }
+      ],
+      "inclusiveEndDate": {
+        "dateQualifier": "ca.",
+        "year": 1912,
+        "logicalDate": "1912-12-31"
+      },
+      "title": "Case Files of Pension and Bounty-Land Warrant Applications Based on Revolutionary War Service",
+      "naId": 300022
+    }
+  ],
+  "naId": 54709306
+}

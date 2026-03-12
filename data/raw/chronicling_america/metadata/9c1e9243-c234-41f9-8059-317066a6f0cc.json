@@ -1,0 +1,154 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1941-03-30/ed-1/?sp=31"
+  ],
+  "batch": [
+    "dlc_1stella_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1941-03-30",
+  "dates": [
+    "1941-03-30"
+  ],
+  "description": [
+    "36 Eye Specialists To Speak at G W U Sessions in April Annual Postgraduate Ophthalmology Course Included in Program Latest methods in diagnosis medical and surgical treatment of eye diseases will be the subjects of lectures and demonstrations of 35 of the countrys leading eye specialists at the George Washing ton University School of Medicine April 719 The program will include the universitys fifth annual sixday postgraduate course In ophthalm ology from April 7 to 12 followed by a sixday practical course in surgery pathology and orthoptics The practical course is limited to 25 participants Lecturers will include 29 guest speakers and seven resident mem bers of the stall of the department of ophthalmology at the university school of medicine Dr William Thornuall Davis head of the de partment is in charge of the pro gram Lecturers Listed Eye specialists from most of the States Canada Newfoundland and Puerto Rico will attend More than 200 registered last year Eminent ophthalmologists who will lecture in the sixday postgraduate course together with their subjects are Dr James H Allen assistant pro fessor of ophthalmology State Uni versity of Iowa College of Medi cine Practical Bacteriology of the Eve and Staphylococci Infections of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:39:56.557Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1941-03-30/ed-1/?sp=31",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1stella_ver01:data:sn83045462:00280602826:1941033001:0076/full/pct:6.25/0/default.jpg#h=496&w=355",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1stella_ver01:data:sn83045462:00280602826:1941033001:0076/full/pct:12.5/0/default.jpg#h=993&w=711",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1stella_ver01/data/sn83045462/00280602826/1941033001/0076.xml&format=alto_xml"
+  ],
+  "index": 130,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "district of columbia",
+    "washington d.c.",
+    "washington",
+    "united states"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "8",
+    "2",
+    "0",
+    "sn83045462",
+    "0000000031",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000031"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "2",
+    "8",
+    "2",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1941-03-30-ed-1-0076",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1941-03-30/ed-1/?sp=31"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1941-03-30/ed-1/"
+  ],
+  "shelf_id": "031",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)",
+    "washington",
+    "united states"
+  ],
+  "timestamp": "2022-10-25T00:27:04.697Z",
+  "title": "Image 31 of Evening star (Washington, D.C.), March 30, 1941",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1941-03-30/ed-1/?sp=31&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_1stella_ver01%2Fdata%2Fsn83045462%2F00280602826%2F1941033001%2F0076.xml&q=medicine&relevant_snippet=1"
+}

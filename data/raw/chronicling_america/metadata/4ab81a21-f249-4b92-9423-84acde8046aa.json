@@ -1,0 +1,138 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83016025/1904-02-25/ed-1/?sp=2"
+  ],
+  "batch": [
+    "me_jemptland_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/maine/",
+    "2/united states/maine/cumberland/",
+    "3/united states/maine/cumberland/portland/"
+  ],
+  "contributor": [
+    "maine state library"
+  ],
+  "date": "1904-02-25",
+  "dates": [
+    "1904-02-25"
+  ],
+  "description": [
+    "Moved The tight was burning in the room The dining room adjoins this front room and in it when OfHcer Foss and Mr Beii arrived were the two iittie chiidren of the woman One of them was a boy 14 years of age and the other was a glri 11 years oid Mrs Laubrich has been married twice and these two chiidren were by the ilrst husband Benjamin Adams The boy is Louis Adams and the giri is Lizzie Adams The chiidren were panic stricken by what had happened aimost before their very eyes They were ai so taken to the house of tapt Ciark where they remained for the night Nervous and excited they were questioned but very iittie The iittie giri said that Laubrich had kissed her during the evening and had toid her she wouid never see him aiive again There seems to be no doubt that this crime was the direct resuit of a drunken debauch Laubrich has iong been known as a hard drinkor and as a man who has constantiy abused his wife One night seven or eight months ago a compiaint was made to OfHcer Foss that Laubrich had been beating the woman"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T14:09:36.890Z",
+  "group": [
+    "ndnp/me",
+    "maine-state-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83016025/1904-02-25/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jemptland_ver01:data:sn83016025:print:1904022501:0598/full/pct:6.25/0/default.jpg#h=408&w=335",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jemptland_ver01:data:sn83016025:print:1904022501:0598/full/pct:12.5/0/default.jpg#h=816&w=670",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/me/batch_me_jemptland_ver01/data/sn83016025/print/1904022501/0598.xml&format=alto_xml"
+  ],
+  "index": 93,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "cumberland",
+    "portland",
+    "maine",
+    "united states"
+  ],
+  "location_city": [
+    "portland"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cumberland"
+  ],
+  "location_state": [
+    "maine"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn83016025",
+    "1",
+    "0000000002"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83016025"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83016025-1904-02-25-ed-1-0598",
+  "partof": [
+    "the portland daily press (portland, me.) 1862-1921",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the portland daily press (portland, me.) 1862-1921"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83016025/1904-02-25/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83016025/1904-02-25/ed-1/"
+  ],
+  "shelf_id": "02",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "cumberland",
+    "maine",
+    "portland",
+    "portland (me.)",
+    "newspapers"
+  ],
+  "timestamp": "2023-07-06T13:07:02.648Z",
+  "title": "Image 2 of The Portland daily press (Portland, Me.), February 25, 1904",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83016025/1904-02-25/ed-1/?sp=2&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fme%2Fbatch_me_jemptland_ver01%2Fdata%2Fsn83016025%2Fprint%2F1904022501%2F0598.xml&q=korea&relevant_snippet=1"
+}

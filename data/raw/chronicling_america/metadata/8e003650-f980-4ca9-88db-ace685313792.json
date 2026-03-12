@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045774/1921-01-21/ed-1/?sp=6"
+  ],
+  "batch": [
+    "dlc_ambrosia_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1921-01-21",
+  "dates": [
+    "1921-01-21"
+  ],
+  "description": [
+    "F 6 GILLIES U 0i iireco IDFFEE A Cotter of Established Eterllrme SAVE KKTAII Eli W PROFIT BV niVIMlf B M A TO lli VIl ICTEKs M 1 Direct from t I Wholesaler f I X 11_ In Vtb Int mare JLjl R beau or ground Kor over SO ears ve have specialized in tile roasting nnrt blinding of highgrade toffees Delivered In livater Xew York 97 l and within 00 miles at Satisfaction Guaranteed or Money Back GILLIES COFFEE CO 3321 Washington street Netv tork Between Park Place and Barclay Street Two blocks from Washington Market Phone Barclay 08 Est 81 Years TRIMO THE WORD THAT STANDS FOR Superior Pipe Wrenches AND MonkeyWrenches FOR SHOPHOMEandFARM Trimo Wrenches for sale everywhere with Steel Frames that will not break Nut Guards that prevent accidental turning of the nut in close quarters for sale by all dealers TR1M0NT MFG CO01 LNX STFactory ROXBURV BOSTON MASS i ORDER j e iueEr i E UinbRHLL AN OUTSTANDING NOVEL among the books of the past year LEE WILSON DODDS Book of Susan should be on your list of hooks lor early enjoyment S200 If not in your local bookstore this book can be had from"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:47:21.916Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045774/1921-01-21/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83045774:00271744122:1921012101:0662/full/pct:6.25/0/default.jpg#h=508&w=409",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83045774:00271744122:1921012101:0662/full/pct:12.5/0/default.jpg#h=1016&w=819",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_ambrosia_ver01/data/sn83045774/00271744122/1921012101/0662.xml&format=alto_xml"
+  ],
+  "index": 80,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "new york",
+    "new york county",
+    "new york city"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "0000000006",
+    "7",
+    "4",
+    "sn83045774",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045774"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "1",
+    "7",
+    "4",
+    "4",
+    "1",
+    "2",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Combined New York morning newspapers",
+    "Combined New York Sunday newspapers"
+  ],
+  "page_id": "sn83045774-1921-01-21-ed-1-0662",
+  "partof": [
+    "serial and government publications division",
+    "the new york herald (new york, n.y.) 1920-1924",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the new york herald (new york, n.y.) 1920-1924"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045774/1921-01-21/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045774/1921-01-21/ed-1/"
+  ],
+  "shelf_id": "06",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "new york",
+    "new york county (n.y.)",
+    "new york (state)",
+    "newspapers",
+    "new york county",
+    "new york (n.y.)"
+  ],
+  "timestamp": "2022-10-19T23:23:28.785Z",
+  "title": "Image 6 of The New York herald (New York, N.Y.), January 21, 1921",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045774/1921-01-21/ed-1/?sp=6&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_ambrosia_ver01%2Fdata%2Fsn83045774%2F00271744122%2F1921012101%2F0662.xml&q=immigration&relevant_snippet=1"
+}

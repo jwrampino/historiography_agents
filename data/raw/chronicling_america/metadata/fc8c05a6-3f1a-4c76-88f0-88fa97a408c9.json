@@ -1,0 +1,169 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85009852/1962-04-05/ed-1/?sp=12"
+  ],
+  "batch": [
+    "ct_dinomayo_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/connecticut/",
+    "2/united states/connecticut/hartford/",
+    "3/united states/connecticut/hartford/new britain/"
+  ],
+  "contributor": [
+    "connecticut state library, hartford, ct"
+  ],
+  "date": "1962-04-05",
+  "dates": [
+    "1962-04-05"
+  ],
+  "description": [
+    "PAGE 12 Eut Hartford Conn Gazette THTRSDAT APRIL S 1982 Paid Subscribers are lnvited t 0 ma ke free use of these classified col umns to sell or buy any item to get that job or what have you There is no charge until a transaction is completed and the ad can run free until It la Then you pay 1 tor the insertion that brought results This is our way of guaranteeing action for our readers Please run this ad 20 words or less Name _____________________ Address ________________________________ Tele No ______ Offer Not Open To People in A Regular Business Of Buying Or Selling Deadline Tuesday at 430 pm Business Services a M SALES COMPANY 349 Main Street East Hartford Specializing in Repairs and Sales of Aluminum comb windows screen doors Aluminum sidings Jalousie windows and doors Carpentry work all types Ceilings Kitchen dormers Attics Garages Porches etc Sold Installed Guaranteed By One Company Gne Stop Moderniz ing 5286327 TFN KLEENTIME will take care of your house and office cleaning Walls washed or waxU Floors washed waxed polished and buff ed Reasonable price Satisfaction guaranteed by skilled experts Insured Free estimates Cail 528 8562 1110 WAXING AND POLISHING floors"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-01-19T03:42:10.030Z",
+  "group": [
+    "ndnp/ct",
+    "connecticut-state-library-hartford-ct-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85009852/1962-04-05/ed-1/?sp=12",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_dinomayo_ver02:data:sn85009852:00517174944:1962040501:0160/full/pct:3.125/0/default.jpg#h=295&w=205",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_dinomayo_ver02:data:sn85009852:00517174944:1962040501:0160/full/pct:6.25/0/default.jpg#h=591&w=410",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_dinomayo_ver02:data:sn85009852:00517174944:1962040501:0160/full/pct:12.5/0/default.jpg#h=1182&w=820",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ct/batch_ct_dinomayo_ver02/data/sn85009852/00517174944/1962040501/0160.xml&format=alto_xml"
+  ],
+  "index": 107,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "hartford",
+    "east windsor",
+    "connecticut",
+    "glastonbury",
+    "east hartford",
+    "south windsor",
+    "new britain",
+    "united states"
+  ],
+  "location_city": [
+    "new britain"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hartford"
+  ],
+  "location_state": [
+    "connecticut"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0",
+    "7",
+    "sn85009852",
+    "9",
+    "1",
+    "0000000012",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85009852"
+  ],
+  "number_page": [
+    "0000000012"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "4",
+    "9",
+    "4",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85009852-1962-04-05-ed-1-0160",
+  "partof": [
+    "the east hartford gazette (east hartford, conn.) 1942-current",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the east hartford gazette (east hartford, conn.) 1942-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85009852/1962-04-05/ed-1/?sp=12"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85009852/1962-04-05/ed-1/"
+  ],
+  "shelf_id": "12",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "hartford",
+    "east windsor",
+    "east windsor (conn.)",
+    "connecticut",
+    "glastonbury",
+    "new britain",
+    "east hartford",
+    "east hartford (conn.)",
+    "south windsor",
+    "glastonbury (conn.)",
+    "south windsor (conn.)",
+    "united states"
+  ],
+  "timestamp": "2025-01-19T04:23:28.730Z",
+  "title": "Image 12 of The East Hartford gazette (East Hartford, Conn.), April 5, 1962",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85009852/1962-04-05/ed-1/?sp=12&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fct%2Fbatch_ct_dinomayo_ver02%2Fdata%2Fsn85009852%2F00517174944%2F1962040501%2F0160.xml&q=nuclear&relevant_snippet=1"
+}

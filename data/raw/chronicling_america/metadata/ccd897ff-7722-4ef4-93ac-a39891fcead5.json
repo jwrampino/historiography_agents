@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86075250/1950-10-06/ed-1/?sp=3"
+  ],
+  "batch": [
+    "mthi_ismay_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/blaine/",
+    "3/united states/montana/blaine/harlem/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1950-10-06",
+  "dates": [
+    "1950-10-06"
+  ],
+  "description": [
+    "WEEKLY NfWS ANALYSIS UNJarces Surprise Comminkh With Amphibious Attack at Inchon Ministers Plan European Defenses EDITORS NOTES Wk avl\u00dflaaa are Marana la ttaaa aalaaua tkay ar tkaaa at Waiters Nawaaaaar Ualaaa aawa aaalyaia aa net aaaanarUv at Ufa aawaaapar yPu W 3l w Robert Schuman of France Dean Acheson of the U S and Ernest Bevin of Great Britain left to right open the Big Three foreign ministers conference at the WaldorfAstoria in New York Main topic of conversation was the defense of Europe against Com munist Aggression KOREA Now the Offensive With unexpected and dramatic suddenness the war in Korea turned from the defensive to the offensive It was sudden in that the Ameri can people were surprised that United Nations forces could be mustered to launch an offensive And it was dramatic in its concep tion and execution by Gen Douglas MacArthur From June 25 when the Com munist struck with surprising force and generalship the people of America watched one continual withdrawal They heard of one Communist advance after another and the fall of such cities as Seoul Suwan Kumsan and Taejon Fur ther and further the Communists ad vanced until UN forces held a beachhead in"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-09T22:57:21.165Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86075250/1950-10-06/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_ismay_ver01:data:sn86075250:00517179048:1950100601:0315/full/pct:6.25/0/default.jpg#h=382&w=270",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_ismay_ver01:data:sn86075250:00517179048:1950100601:0315/full/pct:12.5/0/default.jpg#h=765&w=541",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_ismay_ver01/data/sn86075250/00517179048/1950100601/0315.xml&format=alto_xml"
+  ],
+  "index": 97,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "harlem",
+    "montana",
+    "blaine"
+  ],
+  "location_city": [
+    "harlem"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "blaine"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "0000000003",
+    "sn86075250",
+    "8",
+    "5",
+    "9",
+    "7",
+    "4",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86075250"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "9",
+    "0",
+    "4",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86075250-1950-10-06-ed-1-0315",
+  "partof": [
+    "the harlem news (harlem, mont.) 1908-current",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the harlem news (harlem, mont.) 1908-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86075250/1950-10-06/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86075250/1950-10-06/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "montana",
+    "harlem",
+    "blaine"
+  ],
+  "timestamp": "2023-09-09T23:11:42.824Z",
+  "title": "Image 3 of The Harlem news (Harlem, Mont.), October 6, 1950",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86075250/1950-10-06/ed-1/?sp=3&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_ismay_ver01%2Fdata%2Fsn86075250%2F00517179048%2F1950100601%2F0315.xml&q=korea&relevant_snippet=1"
+}

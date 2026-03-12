@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87068097/1906-01-26/ed-1/?sp=4"
+  ],
+  "batch": [
+    "njr_illiciumverum_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new jersey/",
+    "2/united states/new jersey/hudson/",
+    "3/united states/new jersey/hudson/jersey city/"
+  ],
+  "contributor": [
+    "rutgers university libraries"
+  ],
+  "date": "1906-01-26",
+  "dates": [
+    "1906-01-26"
+  ],
+  "description": [
+    "Civil SERVICE SOCIETV_ELECTS At a Meeting This Week In Newark the State Organi zation Chooses Everett Colby for President MANY VICEPRESIDENTS GROVER CLEVELAND HEADS THE LIST WITH MANOR FAGAN SECONDPROPOSED LAW FOR CITIES AND LARGE TOWNS Organization was affected by tbe New Jersey Civil Service Reform Association in the headquarters of the Republican Committee for Equal Taxation and Lim ited Franchises in the Scheuer Building Newark this week The meeting was at tended by a nuuibeir of men interested in the principle of civil service reform and prominent in the movement to start a society in this State A constitution and bylaws were adopted and officers chosen Senator Everett Colby was elected president ForinerkPresident Grover Cleveland of Princeton Mayor Mark M Fagan of Jersey City Mayor Charles A Reed of Morristown Mayor Charles S Ellis of Camden former Mayor Edward H Pierce ofPerth Amboy S Carman Har riot of Harrington Park E Everett Phillips of Jersey City and Henry Hahn of Newark were chosen vice presidents All of these men have not been consulted as yet but it ishoped that all or most of them will consent to serve on account of their wellknown in terest in civil service reform"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:41:37.224Z",
+  "group": [
+    "ndnp/njr",
+    "rutgers-university-libraries-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87068097/1906-01-26/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_illiciumverum_ver01:data:sn87068097:00383340147:1906012601:0090/full/pct:6.25/0/default.jpg#h=440&w=367",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_illiciumverum_ver01:data:sn87068097:00383340147:1906012601:0090/full/pct:12.5/0/default.jpg#h=880&w=734",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/njr/batch_njr_illiciumverum_ver01/data/sn87068097/00383340147/1906012601/0090.xml&format=alto_xml"
+  ],
+  "index": 197,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "hudson",
+    "united states",
+    "new jersey",
+    "jersey city"
+  ],
+  "location_city": [
+    "jersey city"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hudson"
+  ],
+  "location_state": [
+    "new jersey"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "8",
+    "0000000004",
+    "4",
+    "7",
+    "3",
+    "sn87068097",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87068097"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "8",
+    "3",
+    "3",
+    "4",
+    "0",
+    "1",
+    "4",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87068097-1906-01-26-ed-1-0090",
+  "partof": [
+    "serial and government publications division",
+    "chronicling america",
+    "the jersey city news (jersey city [n.j.]) 1889-1906"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the jersey city news (jersey city [n.j.]) 1889-1906"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87068097/1906-01-26/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87068097/1906-01-26/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "jersey city (n.j.)",
+    "hudson",
+    "newspapers",
+    "new jersey",
+    "jersey city"
+  ],
+  "timestamp": "2025-12-02T04:10:47.256Z",
+  "title": "Image 4 of The Jersey City news (Jersey City [N.J.]), January 26, 1906, (LAST EDITION)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87068097/1906-01-26/ed-1/?sp=4&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnjr%2Fbatch_njr_illiciumverum_ver01%2Fdata%2Fsn87068097%2F00383340147%2F1906012601%2F0090.xml&q=reconstruction&relevant_snippet=1"
+}

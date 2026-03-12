@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88077225/1952-02-14/ed-1/?sp=2"
+  ],
+  "batch": [
+    "ohi_amaryllis_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/montgomery/",
+    "3/united states/ohio/montgomery/dayton/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1952-02-14",
+  "dates": [
+    "1952-02-14"
+  ],
+  "description": [
+    "Page Two The UillO D Ul A It is human nature PD mum EXPRESS Published every Evening except Sunday by Paige H Strickland at 1007 Germantown street Dayton 7 Ohio Phone Michigan 7634 PAIGE H STRICKLAND Editor and Publisher NATIONAL ADVERTISING Interstate United Newspapers Inc 545 Fifth Avenue New York 17 New York MEMBER OF NEGRO NEWSPAPER PUBLISHERS ASSN GN1TY tot people to throw off the bonds of oppression as they see itland to seek reprisal wherever it is forthcoming Thus in the recent unrest in Egypt we see the na tives clamoring for British dismissal even to the extent of seeking aid from Russia We have no doubt that aid from Russia would lead to greater enslavement than is practiced presently by the British but the fact that the people of Kgypt would even consider such a proposal points up the fact that tyranny in any form is no longer acceptable to humans anywhere in the world Unlike Shakespeares Hamlet the Egyptian people apparently would rather fly to evils they know not of than suixer longer under the British yoke With the readvent of Winston Churchill and the Tories to power in England and his penchant for preserv ing"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:14:09.101Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88077225/1952-02-14/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_amaryllis_ver01:data:sn88077225:00414210235:1952021401:0154/full/pct:6.25/0/default.jpg#h=410&w=308",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_amaryllis_ver01:data:sn88077225:00414210235:1952021401:0154/full/pct:12.5/0/default.jpg#h=821&w=617",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_amaryllis_ver01/data/sn88077225/00414210235/1952021401/0154.xml&format=alto_xml"
+  ],
+  "index": 128,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "montgomery",
+    "montgomery county",
+    "dayton",
+    "ohio",
+    "united states"
+  ],
+  "location_city": [
+    "dayton"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "montgomery"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn88077225",
+    "0000000002",
+    "2",
+    "0",
+    "1",
+    "3",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88077225"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "2",
+    "1",
+    "0",
+    "2",
+    "3",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88077225-1952-02-14-ed-1-0154",
+  "partof": [
+    "chronicling america",
+    "the daily express (dayton, ohio) 1950-1955",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the daily express (dayton, ohio) 1950-1955"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88077225/1952-02-14/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88077225/1952-02-14/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "montgomery",
+    "african americans",
+    "montgomery county",
+    "african american",
+    "dayton (ohio)",
+    "dayton",
+    "montgomery county (ohio)",
+    "ohio",
+    "united states"
+  ],
+  "subject_ethnicity": [
+    "african american"
+  ],
+  "timestamp": "2023-09-04T23:53:33.831Z",
+  "title": "Image 2 of The daily express (Dayton, Ohio), February 14, 1952",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88077225/1952-02-14/ed-1/?sp=2&q=civil+rights",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_amaryllis_ver01%2Fdata%2Fsn88077225%2F00414210235%2F1952021401%2F0154.xml&q=civil+rights&relevant_snippet=1"
+}

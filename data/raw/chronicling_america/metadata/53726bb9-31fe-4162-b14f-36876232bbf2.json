@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85042002/1856-04-10/ed-1/?sp=4"
+  ],
+  "batch": [
+    "dlc_alicanto_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1856-04-10",
+  "dates": [
+    "1856-04-10"
+  ],
+  "description": [
+    "AMERICAN ORGAN Florence Nightingale BT CHARLK8 SWAl Theres a name by mothers spoken In the lonely hour of prayer Theres a namein accents broken Utter dand by lips of care Sisters in their tears bare breathed it Hearts have sobbed that spoke the word Soldiers mm in pride theyre wreathed it Praised the hoar that nnuie was heard While the wintry midnight falleth And the Western star grows pale England on that one name calltth Nightingale dear Nightingale 1 From the couch where wealth reclineth To the camp where anguish lies Where the bleeding warrior pineth Where the urave heart sinks and dies Seeking finding the neglected Pouring oomfort ofcr the heart Onward moves the Ooddirectcd Godassisted for her part As the wintir midnight falleth And the Western star grows pale Britain on that one name calletli Nightingale dear Nightingale Other names shall Fame be pealing Other names may upward start Not like thine to last while feeling Throbs within a human heart Not like thinewhateer the station Nothing can that name efface If forgotten by the nation What could hide its deep disgrace While the sand of centuries falleth While the stars of years grow pale Time shall bear"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:46:23.833Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85042002/1856-04-10/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415661009:1856041001:0417/full/pct:3.125/0/default.jpg#h=283&w=205",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415661009:1856041001:0417/full/pct:6.25/0/default.jpg#h=566&w=410",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415661009:1856041001:0417/full/pct:12.5/0/default.jpg#h=1132&w=821",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_alicanto_ver02/data/sn85042002/00415661009/1856041001/0417.xml&format=alto_xml"
+  ],
+  "index": 126,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "district of columbia",
+    "washington d.c.",
+    "washington",
+    "united states"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0000000004",
+    "sn85042002",
+    "0",
+    "9",
+    "1",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85042002"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "6",
+    "1",
+    "0",
+    "0",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "American organ"
+  ],
+  "page_id": "sn85042002-1856-04-10-ed-1-0417",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "daily american organ (washington, d.c.) 1854-1856"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "daily american organ (washington, d.c.) 1854-1856"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85042002/1856-04-10/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85042002/1856-04-10/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)",
+    "washington",
+    "united states"
+  ],
+  "timestamp": "2022-10-19T22:33:30.262Z",
+  "title": "Image 4 of Daily American organ (Washington, D.C.), April 10, 1856",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85042002/1856-04-10/ed-1/?sp=4&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_alicanto_ver02%2Fdata%2Fsn85042002%2F00415661009%2F1856041001%2F0417.xml&q=medicine&relevant_snippet=1"
+}

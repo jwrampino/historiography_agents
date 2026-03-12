@@ -1,0 +1,13 @@
+{
+  "description": "This is a wide and variant collection of CD-ROM based software, that is, software that came on a CD-ROM for installation on computers, or played in consoles. Ranging from applications and games to gatherings of public-domain software or clip art, the heyday of the CD-ROM is roughly 1989 to 2001. In all cases, the capacity of the CD-ROM stayed steady at 640-700mb a side, although some used tricks to claim they had more (due to compression, or adding up both sides of two-sided CD-ROMs). Most are in .ISO format, which can be read as if it were a plastic CD-ROM by most operating systems. They can also be burned onto read-write CD-ROMs.",
+  "format": [
+    "Archive BitTorrent",
+    "Item Image",
+    "JPEG",
+    "JPEG Thumb",
+    "Metadata"
+  ],
+  "identifier": "cdromsoftware",
+  "mediatype": "collection",
+  "title": "CD-ROM Software Library"
+}

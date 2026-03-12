@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84028490/1883-04-18/ed-1/?sp=1"
+  ],
+  "batch": [
+    "ohi_jaques_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/stark/",
+    "3/united states/ohio/stark/canton/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1883-04-18",
+  "dates": [
+    "1883-04-18"
+  ],
+  "description": [
+    "VOL 49 NO 46 CANTON OHIO WEDNESDAY APRIL 181883 SEMIWEEKLY TRUE DEMOCRACY A Great Gathering of Statesmen and Leaders at Chicago Senator onOur Country Editor Hurlbut on the Tariff and Col Brackenridge on Manifest Destiny Chicago April IS A banquet waa given at the v aimer House in mis city tonight to mark the anniversary of the birth of Thomas Jefferson by the Iro quois Club one of the leading politico social organizations of the elty to which were Invited many of the leading Democrats of the country a number bar ing national prominence being Includ ed among those named as speakers This Is the second event of the character and had its incipieney mainly to give those prominent in the party councils oppor tunity to Toloe the sentiments of the Democracy Among those who had con fidently been expected to be present as speakers Henry Watterson of Kentucky and exGovernor Palmer of Illinois were detained by unforeseen circum stances The gentlemen from abroad were the particular guests of the Iro quois Club and were handsomely enter tained during their stay An Informal reception occurred at the Palmer dur ing the forenoon and a great number called to pay their"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:21:22.016Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84028490/1883-04-18/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280774856:1883041801:0693/full/pct:6.25/0/default.jpg#h=417&w=342",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280774856:1883041801:0693/full/pct:12.5/0/default.jpg#h=834&w=684",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_jaques_ver01/data/sn84028490/00280774856/1883041801/0693.xml&format=alto_xml"
+  ],
+  "index": 173,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "canton",
+    "ohio",
+    "stark"
+  ],
+  "location_city": [
+    "canton"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "stark"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000001",
+    "2",
+    "8",
+    "5",
+    "6",
+    "sn84028490",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84028490"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "7",
+    "7",
+    "4",
+    "8",
+    "5",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Stark Democrat"
+  ],
+  "page_id": "sn84028490-1883-04-18-ed-1-0693",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the stark county democrat (canton, ohio) 1833-1912"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the stark county democrat (canton, ohio) 1833-1912"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84028490/1883-04-18/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84028490/1883-04-18/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "ohio",
+    "canton (ohio)",
+    "stark",
+    "united states",
+    "newspapers",
+    "canton"
+  ],
+  "timestamp": "2023-09-06T00:23:57.647Z",
+  "title": "Image 1 of The Stark County Democrat (Canton, Ohio), April 18, 1883",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84028490/1883-04-18/ed-1/?sp=1&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_jaques_ver01%2Fdata%2Fsn84028490%2F00280774856%2F1883041801%2F0693.xml&q=manifest+destiny&relevant_snippet=1"
+}

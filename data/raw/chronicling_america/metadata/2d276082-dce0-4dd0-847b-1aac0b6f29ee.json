@@ -1,0 +1,165 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn89051168/1893-10-24/ed-1/?sp=4"
+  ],
+  "batch": [
+    "arhi_elvis_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/arkansas/",
+    "2/united states/arkansas/jefferson/",
+    "3/united states/arkansas/jefferson/pine bluff/"
+  ],
+  "contributor": [
+    "arkansas state archives"
+  ],
+  "date": "1893-10-24",
+  "dates": [
+    "1893-10-24"
+  ],
+  "description": [
+    "PINE BLUFF DAILY GRAPHIC PROF L R QUINN City Editor PERSONAL AND SOCIAL Mr Geo B Allis of Little Rock Is In the city Mr A tV Hunt of Now Gascony was in the city yesterday Judge Frank 811 voraian has been sick for several days but Is rapidly recovering hs usual vigor Mr AhKnox lias been very sick for several days but is improving rapidly Col Sam T Mallory returned homo Satur day night from Chicago and Louisville Ivy Mrs JJr Jordon has been sick for a week with slow fever She is much Iieter today Misses Sella and Mantle Garrett of Lake Deck were In the city yesterday shopping Mrs S M McGhee will leave for Los An geles on the 1st of next month where she will spend the winter with Major McGhee Mr Frank McGhee of Double Wells i in 1 ho city Fancy pickles cntemps and relishes at E L Taylors School books in all varieties at W L Dewoody Cos Merchants buy your blank books at Dewoody Cos Fresh krout Dill vinegar und mixed pickles at Goldsmiths tf The pay car on the Cotton Belt is expected about Saturday This week is a bargain"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-12-02T21:19:29.574Z",
+  "group": [
+    "ndnp/arhi",
+    "arkansas-state-archives-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn89051168/1893-10-24/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn89051168:00393343023:1893102401:0086/full/pct:6.25/0/default.jpg#h=454&w=308",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn89051168:00393343023:1893102401:0086/full/pct:12.5/0/default.jpg#h=909&w=617",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/arhi/batch_arhi_elvis_ver01/data/sn89051168/00393343023/1893102401/0086.xml&format=alto_xml"
+  ],
+  "index": 104,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "jefferson",
+    "jefferson county",
+    "pine bluff",
+    "arkansas",
+    "united states"
+  ],
+  "location_city": [
+    "pine bluff"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "jefferson"
+  ],
+  "location_state": [
+    "arkansas"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000004",
+    "sn89051168",
+    "9",
+    "2",
+    "3",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn89051168"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "9",
+    "3",
+    "3",
+    "4",
+    "3",
+    "0",
+    "2",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday morning graphic",
+    "Graphic"
+  ],
+  "page_id": "sn89051168-1893-10-24-ed-1-0086",
+  "partof": [
+    "pine bluff daily graphic (pine bluff, ark.) 1893-1942",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "pine bluff daily graphic (pine bluff, ark.) 1893-1942"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn89051168/1893-10-24/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn89051168/1893-10-24/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "jefferson county (ark.)",
+    "https://id.oclc.org/worldcat/entity/e39pbjjt34ykpvxydcwh3wkmt3",
+    "jefferson",
+    "jefferson county",
+    "pine bluff (ark.)",
+    "arkansas",
+    "pine bluff",
+    "newspapers",
+    "https://id.oclc.org/worldcat/entity/e39pbjxgtmbhxdmvvyyqkycrkd"
+  ],
+  "timestamp": "2024-12-03T10:24:59.655Z",
+  "title": "Image 4 of Pine Bluff daily graphic (Pine Bluff, Ark.), October 24, 1893",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn89051168/1893-10-24/ed-1/?sp=4&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Farhi%2Fbatch_arhi_elvis_ver01%2Fdata%2Fsn89051168%2F00393343023%2F1893102401%2F0086.xml&q=manifest+destiny&relevant_snippet=1"
+}

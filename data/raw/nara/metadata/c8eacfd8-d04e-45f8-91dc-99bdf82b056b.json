@@ -1,0 +1,118 @@
+{
+  "dataControlGroup": {
+    "groupName": "George Bush Library",
+    "groupId": "PL-GB",
+    "groupCd": "PL-GB"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "localIdentifier": "12844-004",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "digitalObjects": [
+    {
+      "objectFilename": "41-bpr-apts_sch-dd-12_06_90-12844-004_415890971.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_06_90-12844-004_415890971.pdf",
+      "objectFileSize": 17505680,
+      "objectId": "498165295",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "GB-WHASF",
+      "inclusiveStartDate": {
+        "year": 1989,
+        "logicalDate": "1989-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "year": 1993,
+        "logicalDate": "1993-12-31"
+      },
+      "title": "White House Office of Appointments and Scheduling Files",
+      "naId": 1081
+    },
+    {
+      "inclusiveStartDate": {
+        "month": 1,
+        "year": 1989,
+        "day": 20,
+        "logicalDate": "1989-01-20"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "President (1989-1993 : Bush). Office of Appointments and Scheduling. (1989 - 1993)",
+          "abolishDate": {
+            "year": 1993,
+            "logicalDate": "1993-12-31"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1989,
+            "logicalDate": "1989-01-01"
+          },
+          "naId": 10448387
+        }
+      ],
+      "inclusiveEndDate": {
+        "month": 1,
+        "year": 1993,
+        "day": 20,
+        "logicalDate": "1993-01-20"
+      },
+      "title": "Presidential Daily Diary and Presidential Daily Backup Materials",
+      "naId": 186322
+    }
+  ],
+  "title": "[Presidential Daily Backup] 12/6/1990",
+  "naId": 415890971,
+  "physicalOccurrences": [
+    {
+      "extent": "One Legal File Folder",
+      "referenceUnits": [
+        {
+          "city": "College Station",
+          "phone": "979-691-4000",
+          "address1": "1000 George Bush Drive West",
+          "postalCode": "77845",
+          "name": "George Bush Library",
+          "state": "TX",
+          "fax": "979-691-4050",
+          "email": "bush.library@nara.gov",
+          "mailCode": "PL-GB"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper",
+          "containerId": "12844"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "note": "Records may be closed under exemptions of the Presidential Records Act (PRA) and the Freedom of Information Act (FOIA). Withdrawal sheets in processed folders will indicate specific restrictions.",
+    "specificAccessRestrictions": [
+      {
+        "restriction": "Freedom of Information Act (FOIA)"
+      },
+      {
+        "restriction": "Presidential Records Act (PRA)"
+      }
+    ],
+    "status": "Restricted - Possibly"
+  }
+}

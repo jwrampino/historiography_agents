@@ -1,0 +1,151 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82016181/1923-04-30/ed-2/?sp=8"
+  ],
+  "batch": [
+    "dlc_erwitt_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1923-04-30",
+  "dates": [
+    "1923-04-30"
+  ],
+  "description": [
+    "Western States Oil Corporation Incorporated under the Laws of Delaware 350 Madison Avenue New York City Three Principal Operating Offices Los Angeles California Tulsa Oklahoma Sheridan Wyoming Capital Stock Authorized Shares Ten Dollars 10 all Common 20000000 Capital Stock Issued full paid 4100000 b HON J V McCLINTIC President OFFICERS WM E ALLAUN VicePresident DIRECTORS C H ROWAN Secretary and Treasurer C N HASKELL Chairman of Board of Middle States Oil Corporation and The Southern States Oil Corporation SCOTT FERRIS President of The Southern States Oil Corporation P D SAKLATVALA President of Middle States Oil Corporation WESTERN STATES OIL CORPORATION was formed for the purpose of conducting the oil and gas producing and marketing business chiefly in the States of Wyoming Montana and California but in acquiring properties it has included valuable acreage and production in the MidContinent Field as well The policy of acquiring developed and producing acreage equipment and things appertaining thereto to the extent of at least seventyfive percent 75 of available capital at all times is favored by the Company management and these acquisitions usually include areas of undeveloped acreage In pursuance of this policy the following acquisitions have been madewherein the WESTERN STATES OIL CORPORATION"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2026-02-23T21:13:59.764Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82016181/1923-04-30/ed-2/?sp=8",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_erwitt_ver01:data:sn82016181:00529045566:1923043002:1038/full/pct:6.25/0/default.jpg#h=220&w=339",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_erwitt_ver01:data:sn82016181:00529045566:1923043002:1038/full/pct:12.5/0/default.jpg#h=441&w=679",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_erwitt_ver01/data/sn82016181/00529045566/1923043002/1038.xml&format=alto_xml"
+  ],
+  "index": 151,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "district of columbia",
+    "washington d.c.",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "5",
+    "2",
+    "4",
+    "6",
+    "0000000008",
+    "sn82016181"
+  ],
+  "number_edition": [
+    "2"
+  ],
+  "number_lccn": [
+    "sn82016181"
+  ],
+  "number_page": [
+    "0000000008"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "2",
+    "9",
+    "0",
+    "4",
+    "5",
+    "5",
+    "6",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82016181-1923-04-30-ed-2-1038",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the washington daily news (washington, d.c.) 1921-1972"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington daily news (washington, d.c.) 1921-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82016181/1923-04-30/ed-2/?sp=8"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82016181/1923-04-30/ed-2/"
+  ],
+  "shelf_id": "08",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "washington",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2026-02-23T23:31:38.083Z",
+  "title": "Image 8 of The Washington daily news (Washington, D.C.), April 30, 1923",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82016181/1923-04-30/ed-2/?sp=8&q=oil",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_erwitt_ver01%2Fdata%2Fsn82016181%2F00529045566%2F1923043002%2F1038.xml&q=oil&relevant_snippet=1"
+}

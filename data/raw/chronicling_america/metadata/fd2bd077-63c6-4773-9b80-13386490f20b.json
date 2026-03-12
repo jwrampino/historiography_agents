@@ -1,0 +1,154 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86075189/1950-09-08/ed-1/?sp=3"
+  ],
+  "batch": [
+    "mthi_douglasfir_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/lewis and clark/",
+    "3/united states/montana/lewis and clark/helena/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1950-09-08",
+  "dates": [
+    "1950-09-08"
+  ],
+  "description": [
+    "TT If voie mt MONTANA ONlVCT\u00c0TEWIDE INDEPENDENT NEWSPAPER H S BRUCE Founder Published weekly by The Peoples Voice Publishing Co at 1205 Lockey Street Helena Montana HARRY L BILLINGS Managing Editor Phone 26I P O Box 838 COOP PUBLISHING A t f S CO HELENA MONT Entered asi Second Class Matter December 7 1939 at the Post Office at Helena Montana under the Act of March 3 179 EH 18 Subscription Price 200 Year Trial Subscription Five Months 100 No Commercial Advertising except from Coonerative Business institutions accepted Rates on application rhe I jcsson of Korea r 99 Joesph and Stewart Alsop Washington columnists who are considered close to the State Department in last weeks Satur day Evening Post presented a lengthy and informative ar ticle titled The Lesson of Korea Their theme is that the lesson we must learn from Korea is that Russia is on the march toward worldwide conquestthat it is time for the American people to realistically appraise the global plans of the Kremlin I am not a sufficiently informed student on Leninism to either verify or debunk their premise concerning Russias plans for the future in the field of international affairs But my own common"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:45:50.033Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86075189/1950-09-08/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_douglasfir_ver01:data:sn86075189:00414211021:1950090801:0858/full/pct:6.25/0/default.jpg#h=420&w=290",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_douglasfir_ver01:data:sn86075189:00414211021:1950090801:0858/full/pct:12.5/0/default.jpg#h=841&w=581",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_douglasfir_ver01/data/sn86075189/00414211021/1950090801/0858.xml&format=alto_xml"
+  ],
+  "index": 146,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "lewis and clark",
+    "montana",
+    "helena"
+  ],
+  "location_city": [
+    "helena"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lewis and clark"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000003",
+    "sn86075189",
+    "2",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86075189"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "2",
+    "1",
+    "1",
+    "0",
+    "2",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86075189-1950-09-08-ed-1-0858",
+  "partof": [
+    "the people's voice (helena, mont.) 1939-1969",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the people's voice (helena, mont.) 1939-1969"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86075189/1950-09-08/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86075189/1950-09-08/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "history",
+    "helena (mont.)",
+    "helena",
+    "lewis and clark",
+    "united states",
+    "montana"
+  ],
+  "timestamp": "2023-07-05T20:54:55.803Z",
+  "title": "Image 3 of The People's voice (Helena, Mont.), September 8, 1950",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86075189/1950-09-08/ed-1/?sp=3&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_douglasfir_ver01%2Fdata%2Fsn86075189%2F00414211021%2F1950090801%2F0858.xml&q=korea&relevant_snippet=1"
+}

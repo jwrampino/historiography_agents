@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1951-10-07/ed-1/?sp=54"
+  ],
+  "batch": [
+    "dlc_2magritte_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1951-10-07",
+  "dates": [
+    "1951-10-07"
+  ],
+  "description": [
+    "I EditorialsBooks Q4RadioTelevisionArt Amusements gil ultCUtlJ putt StampsMusic TWELVE PAGES WASHINGTON D C OCTOBER 7 1951 Iran Challenges International Authority This Week A THIN OLD MAN with a silvery tongue and tears that flow like oil will arise before the Security Council of the United Nations this week to defend the sovereignty and the dignity of an ancient people The speaker will be Mohammed Mossadegh Prime Minister of Iran a minorpower country that has too much of what the major powers of the world need and want The real target of Mr Mossadeghs emo tional eloquence will be one of those major powers fcritain al though his attack may be a flank ing one rather than a direct assault Legalistically the Iranian Pre mier will challenge the jurisdic tion first of the United Nations and second of the International Court of Justice in the bitter con troversy between his government and the AngloIranian Oil Com pany He will claim it is a domes tic issue not subject to adjudica tion through international agencies At stake in addition to the fine line issue of Iranian sovereignty and the competence of the world bodies Involved will be several other things of shadow"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:43:58.068Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1951-10-07/ed-1/?sp=54",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_2magritte_ver01:data:sn83045462:00280606030:1951100701:0408/full/pct:6.25/0/default.jpg#h=495&w=344",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_2magritte_ver01:data:sn83045462:00280606030:1951100701:0408/full/pct:12.5/0/default.jpg#h=990&w=689",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_2magritte_ver01/data/sn83045462/00280606030/1951100701/0408.xml&format=alto_xml"
+  ],
+  "index": 118,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "2",
+    "sn83045462",
+    "8",
+    "6",
+    "3",
+    "0000000054",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000054"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "6",
+    "0",
+    "3",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1951-10-07-ed-1-0408",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1951-10-07/ed-1/?sp=54"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1951-10-07/ed-1/"
+  ],
+  "shelf_id": "054",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2022-10-25T10:46:18.387Z",
+  "title": "Image 54 of Evening star (Washington, D.C.), October 7, 1951",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1951-10-07/ed-1/?sp=54&q=oil",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_2magritte_ver01%2Fdata%2Fsn83045462%2F00280606030%2F1951100701%2F0408.xml&q=oil&relevant_snippet=1"
+}

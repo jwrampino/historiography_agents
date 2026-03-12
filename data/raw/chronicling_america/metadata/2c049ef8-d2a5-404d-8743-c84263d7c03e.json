@@ -1,0 +1,153 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87062245/1902-03-24/ed-1/?sp=1"
+  ],
+  "batch": [
+    "dlc_abe_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1902-03-24",
+  "dates": [
+    "1902-03-24"
+  ],
+  "description": [
+    "TL Fair today Tomorrow ing cloudiness light to fresh i north to northeast winds I Number 2854 TWO KILLED AHD MANY INJURED Engineer Saw Obstruction Too Late to Reverse His Engine FIRE DESTROYS SEVERAL CARS Many Washingtonians Among the In jured Brought to This City for Treat ment at Emergency Hospital and at Their Homes Ilr a Staff Correspondent The Washington and Southwestern Vestibule Limited known as train No 38 on the Southern Hallway operated be tween New Oi leans and New York City ran into a landslide twcle miles south of Charlottesville Va yesterday morning at 4 oclock The train consisting exclu sively of Pullman coaches was ditched and was practically destroyed by fire But three cars were saved the others being burned beyond repair Two persons dead and fifteen injured completes the story of death and disaster All the injured hate a chance to recover The dead are MCIIOLAs L01N colo rd rullman tarter of thi citi nWK IUUOIIKRTV supiiox d to be a tramp List of the Injured The wounded numbering fifteen are Postal Clerk C It Cover of 828 Four and a Half Street southwest Postal Clerk A L Holton of Sulpeper Va severe injuries of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-12-09T13:41:26.554Z",
+  "group": [
+    "ndnp/dlc-2009_2010",
+    "library-of-congress-washington-dc-awardee-3"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87062245/1902-03-24/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abe_ver01:data:sn87062245:100493007:1902032401:0325/full/pct:6.25/0/default.jpg#h=426&w=326",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abe_ver01:data:sn87062245:100493007:1902032401:0325/full/pct:12.5/0/default.jpg#h=853&w=653",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_abe_ver01/data/sn87062245/100493007/1902032401/0325.xml&format=alto_xml"
+  ],
+  "index": 94,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn87062245",
+    "1",
+    "9",
+    "7",
+    "4",
+    "3",
+    "0",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87062245"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "1",
+    "0",
+    "0",
+    "4",
+    "9",
+    "3",
+    "0",
+    "0",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Times"
+  ],
+  "page_id": "sn87062245-1902-03-24-ed-1-0325",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the washington times (washington [d.c.]) 1901-1902"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington times (washington [d.c.]) 1901-1902"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87062245/1902-03-24/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87062245/1902-03-24/ed-1/"
+  ],
+  "shelf_id": "01",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "https://id.oclc.org/worldcat/entity/e39pbjfcwcmmjdpvk8h8hpkccp",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2024-12-09T14:35:28.449Z",
+  "title": "Image 1 of The Washington times (Washington [D.C.]), March 24, 1902",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87062245/1902-03-24/ed-1/?sp=1&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_abe_ver01%2Fdata%2Fsn87062245%2F100493007%2F1902032401%2F0325.xml&q=immigration&relevant_snippet=1"
+}

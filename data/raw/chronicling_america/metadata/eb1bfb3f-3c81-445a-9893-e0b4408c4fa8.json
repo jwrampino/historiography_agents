@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82007637/1952-12-05/ed-1/?sp=6"
+  ],
+  "batch": [
+    "ohi_goyle_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/lucas/",
+    "3/united states/ohio/lucas/toledo/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1952-12-05",
+  "dates": [
+    "1952-12-05"
+  ],
+  "description": [
+    "Report Of Philip Murray To CIO Convention The report prepared by CIO President Philip Murray before his death to the 14th Annual Convention of the Congress of Industrial Organ izzations and read to the delegates warned of the possibility of an economic downturn unless posi tive action is taken by business and government to correct internal weaknesses in the nations economy Completed two weeks before the November 4 election the 86page Report made no attempt to forecast the results but Mr Murray declared Whatever the outcome of the 1952 elections it is safe to predict that democratic trade union ism in America will continue its forward prog ress It will be better for the nation and its work ing people if the policies of government are fa vorable to the continued strengthening and de velopment of our free and independent trade union organizations But even if a hostile Ad ministration or a hostile Congress were to sit in Washington I am confident that the march of trade unionism will carry forward The CIO Presidents Report indicated optimism over the countrys longrun economic prospects and he predicted further expansion of the Ameri can standard of living security and human rights during"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-04-13T07:57:34.903Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82007637/1952-12-05/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_goyle_ver01:data:sn82007637:00516993807:1952120501:1088/full/pct:6.25/0/default.jpg#h=303&w=211",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_goyle_ver01:data:sn82007637:00516993807:1952120501:1088/full/pct:12.5/0/default.jpg#h=606&w=422",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_goyle_ver01/data/sn82007637/00516993807/1952120501/1088.xml&format=alto_xml"
+  ],
+  "index": 143,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ohio",
+    "toledo",
+    "lucas county",
+    "lucas",
+    "united states"
+  ],
+  "location_city": [
+    "toledo"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lucas"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn82007637",
+    "8",
+    "0",
+    "0000000006",
+    "7",
+    "9",
+    "1",
+    "3",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82007637"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "3",
+    "8",
+    "0",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82007637-1952-12-05-ed-1-1088",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "toledo union journal (toledo, ohio) 1942-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "toledo union journal (toledo, ohio) 1942-current"
+  ],
+  "publication_frequency": [
+    "biweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82007637/1952-12-05/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82007637/1952-12-05/ed-1/"
+  ],
+  "shelf_id": "06",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "international union, united automobile workers of america (cio)",
+    "newspapers",
+    "labor unions",
+    "ohio",
+    "toledo",
+    "toledo (ohio)",
+    "lucas county (ohio)",
+    "lucas county",
+    "lucas",
+    "united states",
+    "local 12 (toledo, ohio)"
+  ],
+  "timestamp": "2025-04-13T10:28:09.528Z",
+  "title": "Image 6 of Toledo union journal (Toledo, Ohio), December 5, 1952",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82007637/1952-12-05/ed-1/?sp=6&q=civil+rights",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_goyle_ver01%2Fdata%2Fsn82007637%2F00516993807%2F1952120501%2F1088.xml&q=civil+rights&relevant_snippet=1"
+}

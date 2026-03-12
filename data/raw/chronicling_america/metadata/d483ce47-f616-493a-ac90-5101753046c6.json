@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2025200871/1892-06-01/ed-1/?sp=8"
+  ],
+  "batch": [
+    "dlc_cheetah_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/pennsylvania/",
+    "2/united states/pennsylvania/cumberland/",
+    "3/united states/pennsylvania/cumberland/carlisle/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1892-06-01",
+  "dates": [
+    "1892-06-01"
+  ],
+  "description": [
+    "thousands of white men who are just as degraded as the gentleman says the In dians are in his Territory of Arizona The difference between the two races is only tiie difference between the education and when we educate the Indians they will become good citizens and not till then There is one use that you might make of the United States Army in this connec tion 5 I would use it for the purpose of compelling the attendance of the In dian children at the schools after they have been established We must have compulsory attendance at these schools if they are to succeed X If Air Chairman we will adopt this policy while it would cost a few million dollars more it would solve the Indian problem and within a single generation in our own lifetime perhaps we would make citizens of all the children of every Indian tribe FROM A SPEECH OF HON JOHN A PICKLER SOUTH DAKOTA A Friend of Indian Agents Mr Chairman want to say one word in defense of the Indian agents of this coun try From Congress to Congress gentlemen have felt called upon to rise upon this floor and denounce the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-09-14T05:40:40.501Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2025200871/1892-06-01/ed-1/?sp=8",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cheetah_ver02:data:2025200871:00543171748:1892060101:0326/full/pct:6.25/0/default.jpg#h=403&w=270",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cheetah_ver02:data:2025200871:00543171748:1892060101:0326/full/pct:12.5/0/default.jpg#h=806&w=541",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_cheetah_ver02/data/2025200871/00543171748/1892060101/0326.xml&format=alto_xml"
+  ],
+  "index": 16,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "carlisle",
+    "cumberland",
+    "pennsylvania",
+    "united states"
+  ],
+  "location_city": [
+    "carlisle"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cumberland"
+  ],
+  "location_state": [
+    "pennsylvania"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0000000008",
+    "8",
+    "2025200871",
+    "0",
+    "7",
+    "1",
+    "3",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2025200871"
+  ],
+  "number_page": [
+    "0000000008"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "3",
+    "1",
+    "7",
+    "1",
+    "7",
+    "4",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2025200871-1892-06-01-ed-1-0326",
+  "partof": [
+    "chronicling america",
+    "the red man (carlisle, pa.) 1888-1900",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the red man (carlisle, pa.) 1888-1900"
+  ],
+  "publication_frequency": [
+    "monthly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2025200871/1892-06-01/ed-1/?sp=8"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2025200871/1892-06-01/ed-1/"
+  ],
+  "shelf_id": "8",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "united states indian school (carlisle, pa.)",
+    "carlisle (pa.)",
+    "cumberland",
+    "carlisle",
+    "indians of north america",
+    "pennsylvania",
+    "united states"
+  ],
+  "subject_ethnicity": [
+    "indians of north america"
+  ],
+  "timestamp": "2025-09-14T05:43:46.722Z",
+  "title": "Image 8 of The Red man (Carlisle, Pa.), June 1, 1892",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2025200871/1892-06-01/ed-1/?sp=8&q=indian+territory",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_cheetah_ver02%2Fdata%2F2025200871%2F00543171748%2F1892060101%2F0326.xml&q=indian+territory&relevant_snippet=1"
+}

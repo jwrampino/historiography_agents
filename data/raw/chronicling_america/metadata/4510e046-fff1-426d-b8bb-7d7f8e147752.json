@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83026172/1852-12-25/ed-1/?sp=2"
+  ],
+  "batch": [
+    "dlc_custer_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1852-12-25",
+  "dates": [
+    "1852-12-25"
+  ],
+  "description": [
+    "NATIONAL INTELLIGENCER CHRISTMAS In order to form a just estimation of the charac ter of any particular people says Mr Joseph Strutt in his Sports and Pastimes of the People of Eng land it is absolutely necessary to investigate the amusements most generally prevalent among them Porson used to say that a single Athenian newspa per would be worth all the Commentaries on Afis tophanes revealing to as it would the daily di versions and social habits of the Attic metropolis us The games and pastimes of a country afford us in fact a measuring unit by which we can gauge the whole civilization and social development of the people It was a favorite saying of Bacons that from one portion of human knowledge you can infer all the rest and that one fact involves all other facts and such indeed is the nice adjustment of old Father Times loom and shuttles that the web he weaves is always uniform in its tissue As in his tory which Shelley calls the web of human things so in Nature there is this same correlation between the great and the small in her vast frame which enables us to trace and infer"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-04T04:28:49.855Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83026172/1852-12-25/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_custer_ver01:data:sn83026172:00211678173:1852122501:0348/full/pct:3.125/0/default.jpg#h=256&w=200",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_custer_ver01:data:sn83026172:00211678173:1852122501:0348/full/pct:6.25/0/default.jpg#h=513&w=400",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_custer_ver01:data:sn83026172:00211678173:1852122501:0348/full/pct:12.5/0/default.jpg#h=1026&w=801",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_custer_ver01/data/sn83026172/00211678173/1852122501/0348.xml&format=alto_xml"
+  ],
+  "index": 184,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "district of columbia",
+    "washington d.c.",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "6",
+    "1",
+    "2",
+    "7",
+    "sn83026172",
+    "0000000002",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83026172"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "1",
+    "6",
+    "7",
+    "8",
+    "1",
+    "7",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Issues for <Aug. 30-Sept. 22, 1814> published as: National intelligencer",
+    "Sunday issues for Jan. 15-Feb. 5, 1865 published as: Sunday national intelligencer"
+  ],
+  "page_id": "sn83026172-1852-12-25-ed-1-0348",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "daily national intelligencer (washington city [d.c.]) 1813-1869"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "daily national intelligencer (washington city [d.c.]) 1813-1869"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83026172/1852-12-25/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83026172/1852-12-25/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "washington",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2025-05-04T08:21:33.885Z",
+  "title": "Image 2 of Daily national intelligencer (Washington City [D.C.]), December 25, 1852",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83026172/1852-12-25/ed-1/?sp=2&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_custer_ver01%2Fdata%2Fsn83026172%2F00211678173%2F1852122501%2F0348.xml&q=manifest+destiny&relevant_snippet=1"
+}

@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86090474/1883-10-27/ed-1/?sp=8"
+  ],
+  "batch": [
+    "tu_ernie_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/tennessee/",
+    "2/united states/tennessee/warren/",
+    "3/united states/tennessee/warren/mcminnville/"
+  ],
+  "contributor": [
+    "university of tennessee"
+  ],
+  "date": "1883-10-27",
+  "dates": [
+    "1883-10-27"
+  ],
+  "description": [
+    "I SOUTHERN STANDARD MCM I N N VILLE TENNESSEE SATURDAY OCT 27 1883 8 Treutiss Bell and other heavy weights but Old Andy could cuss nicer drink deener and set broader than all the rest Abo can play a horu like a piano crack a whin like a clap of thunder Tons of Tea New England Fanner The amount of tea exported from China during 1882 was 209000000 pounds The country to which most of this was sent is England Next in and light up the road like a locomotive order comes Russia aud third on the head light by merely holding a lighted list is the United States As a cou match in front of his face and breathing sumer of tea the United States ranks 0n it Abe has never disgraced him second but Russia is made to fill the Belf by ridiDg on a railway says they place of the second largest importer on were invented by the abolitionists to account of the quantity or brick tea free the nigger and root out stage which ia exported there Nearly every coaches and the other aristocratic insti known country is represented and in tutions of the South and"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-10-19T09:34:22.887Z",
+  "group": [
+    "ndnp/tu",
+    "university-of-tennessee-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86090474/1883-10-27/ed-1/?sp=8",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn86090474:00296020503:1883102701:0567/full/pct:6.25/0/default.jpg#h=479&w=287",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn86090474:00296020503:1883102701:0567/full/pct:12.5/0/default.jpg#h=959&w=575",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/tu/batch_tu_ernie_ver01/data/sn86090474/00296020503/1883102701/0567.xml&format=alto_xml"
+  ],
+  "index": 30,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "tennessee",
+    "united states",
+    "warren",
+    "warren county",
+    "mcminnville"
+  ],
+  "location_city": [
+    "mcminnville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "warren"
+  ],
+  "location_state": [
+    "tennessee"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "3",
+    "6",
+    "2",
+    "5",
+    "1",
+    "sn86090474",
+    "0000000008"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86090474"
+  ],
+  "number_page": [
+    "0000000008"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "6",
+    "0",
+    "2",
+    "0",
+    "5",
+    "0",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86090474-1883-10-27-ed-1-0567",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "southern standard (mcminnville, tenn.) 1879-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "southern standard (mcminnville, tenn.) 1879-current"
+  ],
+  "publication_frequency": [
+    "three times a week"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86090474/1883-10-27/ed-1/?sp=8"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86090474/1883-10-27/ed-1/"
+  ],
+  "shelf_id": "8",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "tennessee",
+    "united states",
+    "mcminnville (tenn.)",
+    "newspapers",
+    "warren",
+    "warren county (tenn.)",
+    "warren county",
+    "mcminnville"
+  ],
+  "timestamp": "2022-10-27T23:32:45.572Z",
+  "title": "Image 8 of Southern standard (McMinnville, Tenn.), October 27, 1883",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86090474/1883-10-27/ed-1/?sp=8&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Ftu%2Fbatch_tu_ernie_ver01%2Fdata%2Fsn86090474%2F00296020503%2F1883102701%2F0567.xml&q=manifest+destiny&relevant_snippet=1"
+}

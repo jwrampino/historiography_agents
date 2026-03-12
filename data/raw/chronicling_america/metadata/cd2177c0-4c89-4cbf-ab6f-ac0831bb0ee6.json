@@ -1,0 +1,167 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/42047197/1938-11-12/ed-1/?sp=3"
+  ],
+  "batch": [
+    "mimtptc_dexter_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/michigan/",
+    "2/united states/michigan/wayne/",
+    "3/united states/michigan/wayne/detroit/"
+  ],
+  "contributor": [
+    "central michigan university, clark historical library"
+  ],
+  "date": "1938-11-12",
+  "dates": [
+    "1938-11-12"
+  ],
+  "description": [
+    "ELECTIONS MAKE LABORS JOB PLAIN UAW and Steel Workers in Worst Defeat Must Prepare for Big Fight By PAUL Y ANDERSON Special to the United Automobile Worker WASHINGTON There is no percentage in blinking the facts of an unpleasant situation and the outstanding facts of Tuesdays election are these 1 The Democratic Party as a whole encountered a stunning reverse 2 The New Deal and organ ized labor fared worse than did the Democratic party as a whole 3 CIO unions were more ser ionsty affected than other imtoas i The UAW probably was hit harder than any CIO union with the possible exception of the steel workers LABOR OUTLOOK DARK In short the outcome could hardly have been worse There are some relieving features but I shall save them for a while in order to leave the patient as com fortable as possible For the pres ent it is clear that industrial unionism has a tough row to hoe and the chances are it will get tougher before it gets any softer That is not a bright picture but it will not bo improved by closing our eyes to it Of course I do not mean to sug gest"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-16T21:38:40.857Z",
+  "group": [
+    "ndnp/mimtptc",
+    "central-michigan-university-clark-historical-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/42047197/1938-11-12/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_dexter_ver01:data:42047197:00340588691:1938111201:1064/full/pct:6.25/0/default.jpg#h=400&w=267",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_dexter_ver01:data:42047197:00340588691:1938111201:1064/full/pct:12.5/0/default.jpg#h=800&w=534",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mimtptc/batch_mimtptc_dexter_ver01/data/42047197/00340588691/1938111201/1064.xml&format=alto_xml"
+  ],
+  "index": 183,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "michigan",
+    "wayne",
+    "detroit",
+    "united states"
+  ],
+  "location_city": [
+    "detroit"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "wayne"
+  ],
+  "location_state": [
+    "michigan"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "42047197",
+    "0",
+    "0000000003",
+    "9",
+    "1",
+    "3",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "42047197"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "8",
+    "6",
+    "9",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "United worker",
+    "Automobile united worker"
+  ],
+  "page_id": "42047197-1938-11-12-ed-1-1064",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "united automobile worker (detroit, mich.) 1936-1957"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "united automobile worker (detroit, mich.) 1936-1957"
+  ],
+  "publication_frequency": [
+    "semimonthly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/42047197/1938-11-12/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/42047197/1938-11-12/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "international union, united automobile workers of america (cio)",
+    "labor unions",
+    "international union, united automobile, aircraft, and agricultural implement workers of america",
+    "automobile industry and trade",
+    "labor movement",
+    "wayne",
+    "automobile industry workers",
+    "periodicals",
+    "michigan",
+    "detroit",
+    "united states"
+  ],
+  "timestamp": "2024-01-17T04:26:42.761Z",
+  "title": "Image 3 of United automobile worker (Detroit, Mich.), November 12, 1938",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/42047197/1938-11-12/ed-1/?sp=3&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmimtptc%2Fbatch_mimtptc_dexter_ver01%2Fdata%2F42047197%2F00340588691%2F1938111201%2F1064.xml&q=fascism&relevant_snippet=1"
+}

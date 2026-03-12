@@ -1,0 +1,131 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16105/?sp=4"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1805-12-31",
+  "dates": [
+    "1805-12-31"
+  ],
+  "description": [
+    "7 a8 Bins frizktes Moons gunbrigs and cutters as are Cammanded Tby Pofhcaprains Commanders and sLieurenauts ot the Royak Navy la the above number tHe prifon hoi pital and flopfhips in har bour arealfocxciuded 5 ject Lately a Chaplain of a Volunteer Corps defired them to be formed in acirele when he informed them that asa r\u00e9ward for their good conduct he would Marry any of them wrthout a fee as long as theyemain embodied A Prieft Militant of another Corps in the neighbourhood 1a his next fermon after exhorting the Regiment to patriotic exer tion concluding by alluring them that all who ts ay the expe\u00e9ted conflict he would Bury gra its eae _ KINGs BENCHpusuin JULY te Mr Archibald Hamilton Rowan was brought up by ii fMabeas Corpus to affign error upon the Record of Outlawry againft him for High Treafon His Counfel then nioved that the Outlawry fhould habe reverfed for errors which Mr Rowan himielf delivered id to the Officer engroffed upon parch ment of The Attorney General by virtue of his Majeitys Warrant conteffed the errors and the proceedings in Outlawry were reverfed accordingly J Mr Rowan was then put to plead to the original"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16105/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16105:0004/full/pct:6.25/0/default.jpg#h=491&w=329",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16105:0004/full/pct:12.5/0/default.jpg#h=982&w=658",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16105:0004/full/pct:25.0/0/default.jpg#h=1965&w=1316",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16105:0004/full/pct:50.0/0/default.jpg#h=3930&w=2633",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16105:0004/full/pct:100.0/0/default.jpg#h=7861&w=5267",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16105/0004.alto.xml&format=alto_xml"
+  ],
+  "index": 92,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "india",
+    "calcutta"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "sn88063570",
+    "0000000004",
+    "sn88063571",
+    "sn88063569",
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16105-0004-alto",
+  "partof": [
+    "asian division",
+    "general collections",
+    "world newspapers",
+    "catalog",
+    "south asian digital collection",
+    "serial and government publications division",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "world digital library"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16105/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16105/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "india",
+    "calcutta"
+  ],
+  "timestamp": "2025-12-12T07:20:16.157Z",
+  "title": "Image 4 of Volume 11, Number 572, Tuesday, December 31, 1805 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16105/?sp=4&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16105%2F0004.alto.xml&q=great+war&relevant_snippet=1"
+}

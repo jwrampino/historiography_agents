@@ -1,0 +1,167 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn93050700/1901-09-18/ed-1/?sp=1"
+  ],
+  "batch": [
+    "okhi_jam_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/oklahoma/",
+    "2/united states/oklahoma/craig/",
+    "3/united states/oklahoma/craig/vinita/"
+  ],
+  "contributor": [
+    "oklahoma historical society"
+  ],
+  "date": "1901-09-18",
+  "dates": [
+    "1901-09-18"
+  ],
+  "description": [
+    "1 j1 11 j 1M lil I VOL 3 NO 297 VINITA INDIAN TERRITORY WEDNESDAY EVENING SEPTEMBER 18 1901 PRICE PER WEEK 10 SOME HOT SHOT TERRITORY BANKERS JLLJLA Fired by Benton at National Representatives Sent to Washington MISSOURIAN SAYS li Lobbyists and Delegationeare the Bane of the Indian and That Territory Affairs are Kept in Chaotic State Through Their Efforts Congressman M E Benon of Missouri was in town yesterday for a few hours enroute home from Waxabachie Texas The eloquent Miseourian found a few momenta to discuss Indian 1 affaire in which he is deeply in treated with a Chieftain repre sentalive between train times I In referring to the chaotic con dilion of affairs in the Cherokee I nation the causes leading to it and the probability of the speedy eolu tion of the vexing questions Mr Benton said Though congress generally speaking is anxious to bring about a apeedy settlement of affairs throughout the Indian territory there are many barriers to be over come before it is accoruplubed There are three causes especially that have mitigated against Indian legislation These are the lobby ists the delegations the Indians themselves have sent and the po I litical"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T15:07:04.842Z",
+  "group": [
+    "ndnp/okhi",
+    "oklahoma-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn93050700/1901-09-18/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_jam_ver01:data:sn93050700:00295864783:1901091801:0408/full/pct:6.25/0/default.jpg#h=431&w=280",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_jam_ver01:data:sn93050700:00295864783:1901091801:0408/full/pct:12.5/0/default.jpg#h=863&w=561",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/okhi/batch_okhi_jam_ver01/data/sn93050700/00295864783/1901091801/0408.xml&format=alto_xml"
+  ],
+  "index": 113,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "craig county",
+    "oklahoma",
+    "craig",
+    "united states",
+    "vinita"
+  ],
+  "location_city": [
+    "vinita"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "craig"
+  ],
+  "location_state": [
+    "oklahoma"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "0000000001",
+    "2",
+    "8",
+    "5",
+    "6",
+    "3",
+    "sn93050700",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn93050700"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "5",
+    "8",
+    "6",
+    "4",
+    "7",
+    "8",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn93050700-1901-09-18-ed-1-0408",
+  "partof": [
+    "chronicling america",
+    "the daily chieftain (vinita, ind. ter. [okla.]) 1898-1902",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the daily chieftain (vinita, ind. ter. [okla.]) 1898-1902"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn93050700/1901-09-18/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn93050700/1901-09-18/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "craig county (okla.)",
+    "vinita (okla.)",
+    "craig county",
+    "oklahoma",
+    "indians of north america",
+    "craig",
+    "united states",
+    "newspapers",
+    "vinita"
+  ],
+  "subject_ethnicity": [
+    "indians of north america"
+  ],
+  "timestamp": "2022-11-18T14:58:54.252Z",
+  "title": "Image 1 of The daily chieftain (Vinita, Ind. Ter. [Okla.]), September 18, 1901",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn93050700/1901-09-18/ed-1/?sp=1&q=indian+territory",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fokhi%2Fbatch_okhi_jam_ver01%2Fdata%2Fsn93050700%2F00295864783%2F1901091801%2F0408.xml&q=indian+territory&relevant_snippet=1"
+}

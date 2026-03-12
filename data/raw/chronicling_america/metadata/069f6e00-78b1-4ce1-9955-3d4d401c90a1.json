@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045433/1922-07-09/ed-1/?sp=8"
+  ],
+  "batch": [
+    "dlc_greyhound_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1922-07-09",
+  "dates": [
+    "1922-07-09"
+  ],
+  "description": [
+    "G 0 P TO SHELVE TARIFF IF EVENTS INDICATE DEFEAT Republicans Urge Cloture Pact in Senate on Democrats THEY WILL REFUSE Hardin May Be Requested To Stiffen Wavering Republicans Republican Senatorial leaders are ertously considering the probabil ity that they will be unable to pass the tariff bfll at this session of Coaffrew if the events of the next ten 4ys Indicate o them that such a course Is necessary they will then formally shelve the measure Opposition to the tariff bill has become so serious not only among Democratic Senators but within Re publican ranks that some leading Q O P Senators are earnestly ad vising drastic revision of the more important schedules before they are taken up by the Senate Party leaders now generally agree that with the best of luck passage of the bill by the Sehate before Sep tember 1 Is virtually out of the j question unless the Democrats i agree at once to stop debating any but the most Important points Xegotladng Clotnre Pact Neeotiations for guch an agree ment are under way but are fore doomed to failure both Republicans and Democrats agree Senator Un derwood Democratic leader has given Republican inquirers small"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-01-08T13:47:51.829Z",
+  "group": [
+    "ndnp/dlc-2011_2013",
+    "library-of-congress-washington-dc-awardee-4"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045433/1922-07-09/ed-1/?sp=8",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_greyhound_ver02:data:sn83045433:00280764279:1922070901:0584/full/pct:6.25/0/default.jpg#h=385&w=293",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_greyhound_ver02:data:sn83045433:00280764279:1922070901:0584/full/pct:12.5/0/default.jpg#h=771&w=586",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_greyhound_ver02/data/sn83045433/00280764279/1922070901/0584.xml&format=alto_xml"
+  ],
+  "index": 97,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "sn83045433",
+    "8",
+    "6",
+    "9",
+    "0000000008",
+    "7",
+    "4",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045433"
+  ],
+  "number_page": [
+    "0000000008"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "7",
+    "6",
+    "4",
+    "2",
+    "7",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Washington times-herald",
+    "Washington herald times"
+  ],
+  "page_id": "sn83045433-1922-07-09-ed-1-0584",
+  "partof": [
+    "the washington herald (washington, d.c.) 1906-1939",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington herald (washington, d.c.) 1906-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045433/1922-07-09/ed-1/?sp=8"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045433/1922-07-09/ed-1/"
+  ],
+  "shelf_id": "08",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2025-01-08T20:04:21.110Z",
+  "title": "Image 8 of The Washington herald (Washington, D.C.), July 9, 1922, (Sunday Edition)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045433/1922-07-09/ed-1/?sp=8&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_greyhound_ver02%2Fdata%2Fsn83045433%2F00280764279%2F1922070901%2F0584.xml&q=child+labor&relevant_snippet=1"
+}

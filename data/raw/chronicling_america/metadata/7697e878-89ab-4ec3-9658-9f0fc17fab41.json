@@ -1,0 +1,131 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16093/?sp=3"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1805-10-08",
+  "dates": [
+    "1805-10-08"
+  ],
+  "description": [
+    "POVILY With 2 BOMBAY COURIER gels SBRTEMBER7 1805 CARTELSHIP PRIME Extra\u00e9ls and Notes from th\u00e9 Journal of an Officer of the Prime Cartelrip dnring sates pice SromBombay to Maurstius icy a f The Prime employed as a Cartel by the Bombay Government leftthe Piloton the 27th June with 3 French Officers and 143 Seamen prifoners of war for the fle of France On our way dowa the Coat we experienced baffling winds and unpieafant weather On the yth July off Ceylon in Lat 0 N and in Lon 988 E we fell in with the Marengo and Be le Poule Admiral Linois fent his boat on board forthe Captain and all hig papers Lieute nant Blaft agent for exchange of prifoners accom pnied Captain Young on board the Marengo ont after boatscame on boardfrom the Marengo and Belle Poule and took away 74 French Seamen Upwards of fifty Men fecreted themfelves in the hold to_prevent being forced on board the Maren artel and the Officers of the Marengo were if fome inftances obliged to draw their Swords and ule force to get them on board the Marengo Admiral Linois lernt foners thatthe Brunfwick ames Drummond were to leave Bombay two"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16093/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16093:0003/full/pct:6.25/0/default.jpg#h=483&w=328",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16093:0003/full/pct:12.5/0/default.jpg#h=966&w=656",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16093:0003/full/pct:25.0/0/default.jpg#h=1932&w=1312",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16093:0003/full/pct:50.0/0/default.jpg#h=3864&w=2625",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16093:0003/full/pct:100.0/0/default.jpg#h=7729&w=5251",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16093/0003.alto.xml&format=alto_xml"
+  ],
+  "index": 32,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "india",
+    "calcutta"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "sn88063570",
+    "0000000003",
+    "sn88063571",
+    "sn88063569",
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16093-0003-alto",
+  "partof": [
+    "asian division",
+    "general collections",
+    "world newspapers",
+    "catalog",
+    "south asian digital collection",
+    "serial and government publications division",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "world digital library"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16093/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16093/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "india",
+    "calcutta"
+  ],
+  "timestamp": "2025-12-12T07:20:06.519Z",
+  "title": "Image 3 of Volume 11, Number 560, Tuesday, October 8, 1805 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16093/?sp=3&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16093%2F0003.alto.xml&q=great+war&relevant_snippet=1"
+}

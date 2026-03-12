@@ -1,0 +1,131 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16083/?sp=23"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1805-08-06",
+  "dates": [
+    "1805-08-06"
+  ],
+  "description": [
+    "Lord ap lefex f the 3 not te if J gers edi dies ber fie yet his that in On tly are into NU ted 1 of nti p yal his ng 1er ice d if ft yut nd at dy jle fe le fe it ct er Ee r Cherith the fond hope a fiderable fantion to the opinion we have for fome fortrefsThere had been fome very fevere weather a1 example to which the power of that enfeebled fo Dominica we Underitand that General Prevot sontinued bravely to hold out fo late as the 6th of March A reinforcement of 500 men had been fent to him by General Meyers and with this addition to his force hopes were entertained that he would be able to drive the enemy off the ifland kt was indeed reported at Barbadoes the beginning of laQ month that the French fquadron had abandoned that paiti cular enterprize and proceeded again feme of the iflanis with no greater profpect of fuccefs Other accounts ftate that it was the intention of the enemy to forma juntion with the fpanith fquadron at the Havannah and to bring from thence the troops which had been Janded"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16083/?sp=23",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16083:0023/full/pct:6.25/0/default.jpg#h=486&w=333",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16083:0023/full/pct:12.5/0/default.jpg#h=973&w=666",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16083:0023/full/pct:25.0/0/default.jpg#h=1947&w=1333",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16083:0023/full/pct:50.0/0/default.jpg#h=3894&w=2666",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16083:0023/full/pct:100.0/0/default.jpg#h=7789&w=5333",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16083/0023.alto.xml&format=alto_xml"
+  ],
+  "index": 77,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "india",
+    "calcutta"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "sn88063570",
+    "0000000023",
+    "sn88063571",
+    "sn88063569",
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000023"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16083-0023-alto",
+  "partof": [
+    "asian division",
+    "general collections",
+    "world newspapers",
+    "catalog",
+    "south asian digital collection",
+    "serial and government publications division",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "world digital library"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16083/?sp=23"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16083/"
+  ],
+  "shelf_id": "23",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "india",
+    "calcutta"
+  ],
+  "timestamp": "2025-12-12T07:19:57.894Z",
+  "title": "Image 23 of Volume 11, Number 551, Tuesday, August 6, 1805 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16083/?sp=23&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16083%2F0023.alto.xml&q=great+war&relevant_snippet=1"
+}

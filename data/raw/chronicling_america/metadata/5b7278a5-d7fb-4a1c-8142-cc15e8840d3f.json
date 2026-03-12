@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn92061679/1899-07-22/ed-1/?sp=2"
+  ],
+  "batch": [
+    "ncu_mitchell_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/north carolina/",
+    "2/united states/north carolina/moore/",
+    "3/united states/north carolina/moore/southern pines/"
+  ],
+  "contributor": [
+    "university of north carolina at chapel hill library, chapel hill, nc"
+  ],
+  "date": "1899-07-22",
+  "dates": [
+    "1899-07-22"
+  ],
+  "description": [
+    "i 1 1 FREE PR lNES K G JULY 22 1899 if v I r E3i s4 4 V V V 1 f 4 ft 1 i r i a 1 yf i 1 4 4 Hit ST rvrr til v I J J r T A SOUTHERN VAIL MATTER Jditor if JULY 22 ISM ouble in Alaska K tir in the Phillipines U Sam is apt to be a little frefcV uL K A It is all injustice for thejof ficiala to keep down theirue state of affairs in the lliilli pines Greensboro in tins state has voted 300000 idr public improvements only two votes being cast again tfttie issue livid yard Kipling was bit ten on his thurub by a dog and the news was telegraphed from London Great is fame If it is true that anew plan of procedure in the Phillipines is on foot the people await its announcement with abated urea in tt f 7 Six lfioi e men nave een u r 1U 3 ith t killed in that BakerHoward fend in Kentucky and seven negroes were killed in Ala bama with one bottle of sup posed wine last Tuesday At this rate of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-12T17:38:43.698Z",
+  "group": [
+    "ndnp/ncu",
+    "university-of-north-carolina-chapel-hill-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn92061679/1899-07-22/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92061679:00416156402:1899072201:0086/full/pct:6.25/0/default.jpg#h=406&w=262",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92061679:00416156402:1899072201:0086/full/pct:12.5/0/default.jpg#h=812&w=525",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ncu/batch_ncu_mitchell_ver01/data/sn92061679/00416156402/1899072201/0086.xml&format=alto_xml"
+  ],
+  "index": 70,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "southern pines",
+    "moore",
+    "north carolina"
+  ],
+  "location_city": [
+    "southern pines"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "moore"
+  ],
+  "location_state": [
+    "north carolina"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "6",
+    "4",
+    "1",
+    "5",
+    "2",
+    "sn92061679",
+    "0000000002"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn92061679"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "6",
+    "1",
+    "5",
+    "6",
+    "4",
+    "0",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn92061679-1899-07-22-ed-1-0086",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the free press (southern pines, n.c.) 1898-19??"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the free press (southern pines, n.c.) 1898-19??"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn92061679/1899-07-22/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn92061679/1899-07-22/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "southern pines (n.c.)",
+    "united states",
+    "newspapers",
+    "moore",
+    "southern pines",
+    "north carolina"
+  ],
+  "timestamp": "2023-08-13T13:49:02.622Z",
+  "title": "Image 2 of The free press (Southern Pines, N.C.), July 22, 1899",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn92061679/1899-07-22/ed-1/?sp=2&q=phillipines",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fncu%2Fbatch_ncu_mitchell_ver01%2Fdata%2Fsn92061679%2F00416156402%2F1899072201%2F0086.xml&q=phillipines&relevant_snippet=1"
+}

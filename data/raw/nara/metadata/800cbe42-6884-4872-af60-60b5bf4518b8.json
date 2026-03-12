@@ -1,0 +1,117 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "Lafayette- \"The Paris Revolution of 1830\"",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-0561",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Still Pictures",
+          "state": "MD",
+          "fax": "301-837-3621",
+          "email": "stillpix@nara.gov",
+          "mailCode": "RRSS"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Photographic Materials"
+          ],
+          "specificMediaType": "Photographic Print",
+          "containerId": "265"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupName": "National Archives at College Park \u2013 Still Pictures",
+    "groupId": "RRAS",
+    "groupCd": "RRAS"
+  },
+  "generalRecordsTypes": [
+    "Photographs and other Graphic Materials"
+  ],
+  "localIdentifier": "30-N-31-611",
+  "digitalObjects": [
+    {
+      "objectFilename": "Box_265_30-n-031-0611.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/stillpix/030-n/historic/Box_265_30-n-031-0611.jpg",
+      "objectFileSize": 3267048,
+      "objectId": "135797859",
+      "objectType": "Image (JPG)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1892,
+        "logicalDate": "1892-01-01"
+      },
+      "distance": 3,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 30,
+      "inclusiveEndDate": {
+        "year": 1972,
+        "logicalDate": "1972-12-31"
+      },
+      "title": "Records of the Bureau of Public Roads",
+      "naId": 359
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1896,
+        "logicalDate": "1896-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "Department of Commerce. Bureau of Public Roads. (08/20/1949 - 04/01/1967)",
+          "abolishDate": {
+            "month": 4,
+            "year": 1967,
+            "day": 1,
+            "logicalDate": "1967-04-01"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 8,
+            "year": 1949,
+            "day": 20,
+            "logicalDate": "1949-08-20"
+          },
+          "naId": 10515472
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1963,
+        "logicalDate": "1963-12-31"
+      },
+      "title": "Historical Photograph Files",
+      "naId": 513325
+    },
+    {
+      "distance": 1,
+      "levelOfDescription": "fileUnit",
+      "title": "Men",
+      "naId": 1427072
+    }
+  ],
+  "scopeAndContentNote": "Original caption: Lafayette - \"The Paris Revolution of 1830\" - Harpers New Monthly Magazine. Dec-May 1901-02. Vol. 104 p. 37.",
+  "naId": 135797858
+}

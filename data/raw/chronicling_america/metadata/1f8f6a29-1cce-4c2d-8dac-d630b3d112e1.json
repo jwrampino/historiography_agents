@@ -1,0 +1,154 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84026749/1929-10-11/ed-1/?sp=20"
+  ],
+  "batch": [
+    "dlc_adamsmorgan_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1929-10-11",
+  "dates": [
+    "1929-10-11"
+  ],
+  "description": [
+    "20 RELIC OF TRAGEDY FORT ATKINSON Wis Oct 11 Th kelaton of an Indian recently waa unearthed In a gravel pit near here A rusted arrow head still was lodged in the vertebrae of the brava r SB Lovely hair Modern hair dressers add beauty to your hair by graceful lines and contours It is just as important to keep your hair soft lustrous abund ant rich in color Millions of girls and women are doing this at home wiHi the easy help of Danderine It is so simple to use All you do is put a little on your brush each time you ar range your hair Instantly Danderine brings out the natural color of dingy lifeless hair makes it more sparkling and lustrous than brilliantine makes it easy to manage holds it in place The consistent use of Danderine dissolves the crust of dandruff stops falling hair tends to make the hair grow long silky and abundant Fivg fnillion bottles used a year Danderine The One Minute Hair Beautifier At All Drug Stores Thirty Five Cents THE MEDICINE THAT BROUGHT ME PERFECT HEALTH WellKnown Virginia Woman in Poor Health for Years Finds HEALTH in the Famous Medicine I"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-07T20:29:15.284Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84026749/1929-10-11/ed-1/?sp=20",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_adamsmorgan_ver01:data:sn84026749:00222254656:1929101101:0434/full/pct:3.125/0/default.jpg#h=315&w=254",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_adamsmorgan_ver01:data:sn84026749:00222254656:1929101101:0434/full/pct:6.25/0/default.jpg#h=631&w=508",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_adamsmorgan_ver01/data/sn84026749/00222254656/1929101101/0434.xml&format=alto_xml"
+  ],
+  "index": 8,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000020",
+    "0",
+    "sn84026749",
+    "2",
+    "6",
+    "5",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84026749"
+  ],
+  "number_page": [
+    "0000000020"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "2",
+    "2",
+    "2",
+    "5",
+    "4",
+    "6",
+    "5",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Washington times herald"
+  ],
+  "page_id": "sn84026749-1929-10-11-ed-1-0434",
+  "partof": [
+    "chronicling america",
+    "the washington times (washington [d.c.]) 1902-1939",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington times (washington [d.c.]) 1902-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84026749/1929-10-11/ed-1/?sp=20"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84026749/1929-10-11/ed-1/"
+  ],
+  "shelf_id": "20",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-08-07T20:49:39.433Z",
+  "title": "Image 20 of The Washington times (Washington [D.C.]), October 11, 1929",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84026749/1929-10-11/ed-1/?sp=20&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_adamsmorgan_ver01%2Fdata%2Fsn84026749%2F00222254656%2F1929101101%2F0434.xml&q=medicine&relevant_snippet=1"
+}

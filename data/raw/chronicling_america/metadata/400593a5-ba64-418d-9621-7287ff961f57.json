@@ -1,0 +1,166 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85042146/1867-08-24/ed-1/?sp=2"
+  ],
+  "batch": [
+    "ncu_broad_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/north carolina/",
+    "2/united states/north carolina/wake/",
+    "3/united states/north carolina/wake/raleigh/"
+  ],
+  "contributor": [
+    "university of north carolina at chapel hill library, chapel hill, nc"
+  ],
+  "date": "1867-08-24",
+  "dates": [
+    "1867-08-24"
+  ],
+  "description": [
+    "KECONSTRUCTION VIEWS OF 3IAJ CEH POPE LjjTTEB TO GEN GRANT ON THU POLICY OP ADMITTING PROMINENT REBEL LEADERS TO ACTUAL PARTICIPATION IN RECON 8TCCTION MEASURES Hdqrs 3rd Mily District Georgia Alabama and Florida A 67 Atlanta Ga July 24 1867 General I have the honor to send intd a newspaper containing a speech in trie in this city by B H Hill of this State li e a Senator in the Rebel Congress This ji rson only a few weeks since was pardoned lv the President and in common with al most every pardoned Rebel this is the use he makes of the clemency of the Govern ment You can readily see from the speech itself the character of the man who is the representative of a large cla33 and the hopc lessness of any satisfactory reconstruction nf the Southern States while such men retain influence It has been and will continue to be my course to permit and encourage the widest latitude of speech and of the press in this district consistent with the law and the pn blic peace I do not include among those who are permitted to exercise this latitude of speech the civil officers c"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-12T17:31:43.940Z",
+  "group": [
+    "ndnp/ncu",
+    "university-of-north-carolina-chapel-hill-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85042146/1867-08-24/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022834:1867082401:0410/full/pct:3.125/0/default.jpg#h=271&w=203",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022834:1867082401:0410/full/pct:6.25/0/default.jpg#h=542&w=406",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022834:1867082401:0410/full/pct:12.5/0/default.jpg#h=1084&w=812",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ncu/batch_ncu_broad_ver01/data/sn85042146/00296022834/1867082401/0410.xml&format=alto_xml"
+  ],
+  "index": 69,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "wake",
+    "raleigh",
+    "wake county",
+    "united states",
+    "north carolina"
+  ],
+  "location_city": [
+    "raleigh"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "wake"
+  ],
+  "location_state": [
+    "north carolina"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "4",
+    "9",
+    "2",
+    "6",
+    "8",
+    "3",
+    "0000000002",
+    "sn85042146",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85042146"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "6",
+    "0",
+    "2",
+    "2",
+    "8",
+    "3",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Published as: Daily North Carolina standard"
+  ],
+  "page_id": "sn85042146-1867-08-24-ed-1-0410",
+  "partof": [
+    "chronicling america",
+    "the tri-weekly standard (raleigh, n.c.) 1866-1868",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the tri-weekly standard (raleigh, n.c.) 1866-1868"
+  ],
+  "publication_frequency": [
+    "triweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85042146/1867-08-24/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85042146/1867-08-24/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "wake",
+    "raleigh (n.c.)",
+    "raleigh",
+    "wake county",
+    "wake county (n.c.)",
+    "newspapers",
+    "north carolina"
+  ],
+  "timestamp": "2023-08-12T21:02:34.941Z",
+  "title": "Image 2 of The tri-weekly standard (Raleigh, N.C.), August 24, 1867",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85042146/1867-08-24/ed-1/?sp=2&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fncu%2Fbatch_ncu_broad_ver01%2Fdata%2Fsn85042146%2F00296022834%2F1867082401%2F0410.xml&q=reconstruction&relevant_snippet=1"
+}

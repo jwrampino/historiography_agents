@@ -1,0 +1,166 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83030214/1917-01-28/ed-1/?sp=42"
+  ],
+  "batch": [
+    "dlc_thompson_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1917-01-28",
+  "dates": [
+    "1917-01-28"
+  ],
+  "description": [
+    "HOW ABOUT A CHILD LABOR STORY A Funny Piece Wont Dot Its Too Serious a Subject As for a Serious Piece Not Many Would Read It So T WAS the week htfore Child Labor Sunday and we were talking it I over to sec what could be done in the nature of a story on the subject T wish wed thought of it sooner paid the Chief Something ought ti be written and yet its hard to get any thing new Of course what would make the teft possible story would be to dis cover some field in which child labor is uied which has never been suspected before Something like the Metropol itan Museum or a Christian Science reading room I offered thisbeing a born muckraker Either that or disclose the fact that ome person who is active in child labor legislation is secretly employing chil dren under age in his own factory said iHowell The Chief is pretty practical about such things The trouble with those ideas he said is that they demand a certain amount of facts Before we could expose the Metropolitan Museum or some eminent philanthropist we would have to find out that they really"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-12-09T13:45:27.221Z",
+  "group": [
+    "ndnp/dlc-2009_2010",
+    "library-of-congress-washington-dc-awardee-3"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83030214/1917-01-28/ed-1/?sp=42",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_thompson_ver02:data:sn83030214:00206532105:1917012801:0587/full/pct:3.125/0/default.jpg#h=259&w=197",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_thompson_ver02:data:sn83030214:00206532105:1917012801:0587/full/pct:6.25/0/default.jpg#h=519&w=394",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_thompson_ver02:data:sn83030214:00206532105:1917012801:0587/full/pct:12.5/0/default.jpg#h=1039&w=789",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_thompson_ver02/data/sn83030214/00206532105/1917012801/0587.xml&format=alto_xml"
+  ],
+  "index": 109,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "new york county",
+    "new york city",
+    "new york"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "5",
+    "6",
+    "2",
+    "0000000042",
+    "1",
+    "sn83030214"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83030214"
+  ],
+  "number_page": [
+    "0000000042"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "6",
+    "5",
+    "3",
+    "2",
+    "1",
+    "0",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Due to strike, published jointly with other newspapers as: Combined New York morning newspapers",
+    "Combined New York Sunday newspapers",
+    "New-York daily tribune"
+  ],
+  "page_id": "sn83030214-1917-01-28-ed-1-0587",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "new-york tribune (new york [n.y.]) 1866-1924"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "new-york tribune (new york [n.y.]) 1866-1924"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83030214/1917-01-28/ed-1/?sp=42"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83030214/1917-01-28/ed-1/"
+  ],
+  "shelf_id": "42",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "https://id.oclc.org/worldcat/entity/e39pbjpj8ktvrv6gp6v6tp7pwc",
+    "new york (n.y.)",
+    "united states",
+    "newspapers",
+    "new york",
+    "new york (state)",
+    "https://id.oclc.org/worldcat/entity/e39qbtfrvqh7864jh4rdgbfdwc",
+    "new york county",
+    "new york county (n.y.)"
+  ],
+  "timestamp": "2024-12-10T14:20:48.399Z",
+  "title": "Image 42 of New-York tribune (New York [N.Y.]), January 28, 1917",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83030214/1917-01-28/ed-1/?sp=42&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_thompson_ver02%2Fdata%2Fsn83030214%2F00206532105%2F1917012801%2F0587.xml&q=child+labor&relevant_snippet=1"
+}

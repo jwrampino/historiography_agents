@@ -1,0 +1,152 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82016181/1922-05-16/ed-1/?sp=3"
+  ],
+  "batch": [
+    "dlc_erwitt_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1922-05-16",
+  "dates": [
+    "1922-05-16"
+  ],
+  "description": [
+    "UAITED STATES RELUCTANT TO RECOGNIZE SOVIET RUSSIA Secretary Hughes Reveals This in Rejection of Allied Invitation to Participate in Discussion of Russian Affairs at The Hague Beginning June 15 By HERBERT W WALKER Recognition of Russia by the United States is still far distant despite allied dealings with soviet representatives at the Genoa economic conference and moves in congress to force such a step This is clearly revealed in the note of Secretary Hughes rejecting the invitation of the conference which a ked that the Cnited States partici pate in a meeting of allied experts at The Hague June 15 to discuss the Russian problem The American government has again made clear that it will not consider recognition of Russia or enter into negotiations re garding the soviet until funda mental reforms are instituted by the bolshevists The Unite States however is ready to put its views to the test by mining an allied commission to in vestigate what is wrong with Ru and what are the remedies Will Require soviet Guaranties 1a It is confident that such a com mission by making a real investi gallon of the Russian situation would come o the same conclusion held by this"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2026-02-23T21:06:55.475Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82016181/1922-05-16/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_erwitt_ver01:data:sn82016181:00529045517:1922051601:1407/full/pct:6.25/0/default.jpg#h=319&w=211",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_erwitt_ver01:data:sn82016181:00529045517:1922051601:1407/full/pct:12.5/0/default.jpg#h=639&w=423",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_erwitt_ver01/data/sn82016181/00529045517/1922051601/1407.xml&format=alto_xml"
+  ],
+  "index": 96,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000003",
+    "1",
+    "sn82016181",
+    "9",
+    "5",
+    "7",
+    "4",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82016181"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "2",
+    "9",
+    "0",
+    "4",
+    "5",
+    "5",
+    "1",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82016181-1922-05-16-ed-1-1407",
+  "partof": [
+    "serial and government publications division",
+    "the washington daily news (washington, d.c.) 1921-1972",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington daily news (washington, d.c.) 1921-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82016181/1922-05-16/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82016181/1922-05-16/ed-1/"
+  ],
+  "shelf_id": "03",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2026-02-23T23:23:53.731Z",
+  "title": "Image 3 of The Washington daily news (Washington, D.C.), May 16, 1922",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82016181/1922-05-16/ed-1/?sp=3&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_erwitt_ver01%2Fdata%2Fsn82016181%2F00529045517%2F1922051601%2F1407.xml&q=child+labor&relevant_snippet=1"
+}

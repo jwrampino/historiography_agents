@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045293/1919-07-15/ed-1/?sp=5"
+  ],
+  "batch": [
+    "whi_emmental_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/wisconsin/",
+    "2/united states/wisconsin/milwaukee/",
+    "3/united states/wisconsin/milwaukee/milwaukee/"
+  ],
+  "contributor": [
+    "wisconsin historical society"
+  ],
+  "date": "1919-07-15",
+  "dates": [
+    "1919-07-15"
+  ],
+  "description": [
+    "TIVE WAUPUN ADDS ONE MORE CHAPTER TO WAR TERRORISM IN WISCONSIN Retired Farmer for Making Remark Is Paraded by Mob From His Home and Placed AStraddle Wagon Tongue BY RAE WEAVER Watrlotle Instructor United Spanish War Veterans Department of Wisconsin Another chapter has been added to the terrorism and oppression that has prevailed in Dodge county since the United States entered the world war against Germany This time it is from Waupun where the wouldbe patriots were so intensely patriotic that Victor L Berger carried Dodge county in the election for United States senator their strongarm com mittee offered a reward of SSO for Information of any one who cast a Socialist ballot At the testimony given at the pre liminary hearing before Court Com missioner John C Healy at Beaver Dam the following facts were sworn M BRAGG STODDART TALKS One the evening of Saturday June 28 the citizens of Waupun were given their weekly band concert on the streets in the business section of that city Gus E Bluemke a retired farmer who has a home in Waupun returned to that city between 8 and 9 oclock in the evening from his farm which is located about five"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-04-13T23:26:13.742Z",
+  "group": [
+    "ndnp/whi",
+    "wisconsin-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045293/1919-07-15/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_emmental_ver01:data:sn83045293:00517012397:1919071501:0005/full/pct:3.125/0/default.jpg#h=307&w=217",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_emmental_ver01:data:sn83045293:00517012397:1919071501:0005/full/pct:6.25/0/default.jpg#h=615&w=434",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/whi/batch_whi_emmental_ver01/data/sn83045293/00517012397/1919071501/0005.xml&format=alto_xml"
+  ],
+  "index": 129,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "wisconsin",
+    "milwaukee",
+    "united states"
+  ],
+  "location_city": [
+    "milwaukee"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "milwaukee"
+  ],
+  "location_state": [
+    "wisconsin"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0000000005",
+    "0",
+    "2",
+    "sn83045293",
+    "7",
+    "9",
+    "1",
+    "3"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045293"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "0",
+    "1",
+    "2",
+    "3",
+    "9",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83045293-1919-07-15-ed-1-0005",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the milwaukee leader (milwaukee, wis.) 1911-1938"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the milwaukee leader (milwaukee, wis.) 1911-1938"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045293/1919-07-15/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045293/1919-07-15/ed-1/"
+  ],
+  "shelf_id": "05",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "wisconsin",
+    "milwaukee",
+    "socialism",
+    "milwaukee (wis.)",
+    "united states"
+  ],
+  "timestamp": "2024-04-13T23:47:47.841Z",
+  "title": "Image 5 of The Milwaukee leader (Milwaukee, Wis.), July 15, 1919",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045293/1919-07-15/ed-1/?sp=5&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwhi%2Fbatch_whi_emmental_ver01%2Fdata%2Fsn83045293%2F00517012397%2F1919071501%2F0005.xml&q=terrorism&relevant_snippet=1"
+}

@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86075250/1947-01-31/ed-1/?sp=3"
+  ],
+  "batch": [
+    "mthi_ismay_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/blaine/",
+    "3/united states/montana/blaine/harlem/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1947-01-31",
+  "dates": [
+    "1947-01-31"
+  ],
+  "description": [
+    "n Uu Innards arbrsss3a aippar ph ML UlMDlf to the wonderful m toxettre contained in good old Bjnia repain to make It eo easy to take JMWV DOCTORS aao papain prapare tona la prescriptions to makathamadl palatabla tad agreeable to Mo So bo tan poor laaattoa to eoo totood ia Byrup Peprin WTOWJHt CALDWXUSthe to vuito o I mllHoni tor SO yaara aad foal nat wholoeomo relief from comstipw Sea Ira finicky children loro it CMITIONi Cm only aa directed HR CHIMES SENHALHATIVE SYRUP PEPSD osJl ivn U J SAYS Set rubber beef comfort all over your feet Ask for SOLES as weft as Heels by r 1 AMERICAS No I HEEL and so I o 7 nit Spring JCSw 4 HMD COUS DISCOMFORTS Relieved by Modem Way At the first sniffle or sneess of a bead odd many young mothers now rub on PENETRO for quickacting relief so chan and white so pleasant to useand sc effective PENETROS modern faipe medicated vapors release at once to bap open up the nostrils and soothe nroer breathing passages clear the head help quiet coughing of colds PENETRO GIVES YOU tbs home approved mutton suet feature and ad andfic medication rubs in"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-09T22:55:39.896Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86075250/1947-01-31/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_ismay_ver01:data:sn86075250:00517179036:1947013101:0035/full/pct:6.25/0/default.jpg#h=377&w=268",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_ismay_ver01:data:sn86075250:00517179036:1947013101:0035/full/pct:12.5/0/default.jpg#h=755&w=537",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_ismay_ver01/data/sn86075250/00517179036/1947013101/0035.xml&format=alto_xml"
+  ],
+  "index": 86,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "harlem",
+    "montana",
+    "blaine"
+  ],
+  "location_city": [
+    "harlem"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "blaine"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "0000000003",
+    "sn86075250",
+    "5",
+    "9",
+    "6",
+    "7",
+    "3",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86075250"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "9",
+    "0",
+    "3",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86075250-1947-01-31-ed-1-0035",
+  "partof": [
+    "the harlem news (harlem, mont.) 1908-current",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the harlem news (harlem, mont.) 1908-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86075250/1947-01-31/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86075250/1947-01-31/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "montana",
+    "harlem",
+    "blaine"
+  ],
+  "timestamp": "2023-09-09T23:09:16.131Z",
+  "title": "Image 3 of The Harlem news (Harlem, Mont.), January 31, 1947",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86075250/1947-01-31/ed-1/?sp=3&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_ismay_ver01%2Fdata%2Fsn86075250%2F00517179036%2F1947013101%2F0035.xml&q=korea&relevant_snippet=1"
+}

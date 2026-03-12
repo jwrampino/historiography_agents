@@ -1,0 +1,174 @@
+{
+  "dataControlGroup": {
+    "groupId": "ou=NREA,ou=groups",
+    "groupCd": "RMKC"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "false",
+  "digitalObjects": [
+    {
+      "objectFilename": "LimJeu_001.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/7/69/12006907/content/arcmedia/central-plains/kansas-city/6862011/LimJeu_001.JPG",
+      "objectFileSize": 4757845,
+      "objectId": "16011006",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "LimJeu_002.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/7/69/12006907/content/arcmedia/central-plains/kansas-city/6862011/LimJeu_002.jpg",
+      "objectFileSize": 1908009,
+      "objectId": "16011008",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "LimJeu_003.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/7/69/12006907/content/arcmedia/central-plains/kansas-city/6862011/LimJeu_003.JPG",
+      "objectFileSize": 3532219,
+      "objectId": "16011009",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "LimJeu_004.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/7/69/12006907/content/arcmedia/central-plains/kansas-city/6862011/LimJeu_004.jpg",
+      "objectFileSize": 3006863,
+      "objectId": "16011010",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "LimJeu_005.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/7/69/12006907/content/arcmedia/central-plains/kansas-city/6862011/LimJeu_005.jpg",
+      "objectFileSize": 3226875,
+      "objectId": "16011011",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "LimJeu_006.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/7/69/12006907/content/arcmedia/central-plains/kansas-city/6862011/LimJeu_006.jpg",
+      "objectFileSize": 2006932,
+      "objectId": "16011012",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "LimJeu_007.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/7/69/12006907/content/arcmedia/central-plains/kansas-city/6862011/LimJeu_007.jpg",
+      "objectFileSize": 2877566,
+      "objectId": "16011013",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "LimJeu_008.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/7/69/12006907/content/arcmedia/central-plains/kansas-city/6862011/LimJeu_008.jpg",
+      "objectFileSize": 3196829,
+      "objectId": "16011015",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "LimJeu_009.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/7/69/12006907/content/arcmedia/central-plains/kansas-city/6862011/LimJeu_009.jpg",
+      "objectFileSize": 2495164,
+      "objectId": "16011016",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "LimJeu_010.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/7/69/12006907/content/arcmedia/central-plains/kansas-city/6862011/LimJeu_010.jpg",
+      "objectFileSize": 2626336,
+      "objectId": "16011017",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "LimJeu.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/7/69/12006907/content/arcmedia/central-plains/kansas-city/6862011/LimJeu.pdf",
+      "objectFileSize": 0,
+      "objectId": "16011007",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1685,
+        "logicalDate": "1685-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 21,
+      "inclusiveEndDate": {
+        "year": 2009,
+        "logicalDate": "2009-12-31"
+      },
+      "title": "Records of District Courts of the United States",
+      "naId": 350
+    },
+    {
+      "inclusiveStartDate": {
+        "month": 11,
+        "year": 1900,
+        "day": 14,
+        "logicalDate": "1900-11-14"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "U.S. District Court for the Eastern (St. Louis) Division of the Eastern District of Missouri. 2/28/1887-",
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 2,
+            "year": 1887,
+            "day": 28,
+            "logicalDate": "1887-02-28"
+          },
+          "naId": 10459091
+        }
+      ],
+      "inclusiveEndDate": {
+        "month": 5,
+        "year": 1925,
+        "day": 1,
+        "logicalDate": "1925-05-01"
+      },
+      "title": "Chinese Exclusion Case Files",
+      "naId": 6862011
+    }
+  ],
+  "title": "Chinese Exclusion Case File for Jeu Lim",
+  "naId": 12006907,
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Kansas City",
+          "phone": "816-268-8000",
+          "address1": "400 West Pershing Road",
+          "postalCode": "64108",
+          "name": "National Archives at Kansas City",
+          "state": "MO",
+          "fax": "816-268-8038",
+          "email": "kansascity.archives@nara.gov",
+          "mailCode": "RM-KC"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  }
+}

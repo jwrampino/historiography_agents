@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83016244/1961-12-28/ed-1/?sp=6"
+  ],
+  "batch": [
+    "fu_eatonville_ver03"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/florida/",
+    "2/united states/florida/monroe/",
+    "3/united states/florida/monroe/key west/"
+  ],
+  "contributor": [
+    "university of florida"
+  ],
+  "date": "1961-12-28",
+  "dates": [
+    "1961-12-28"
+  ],
+  "description": [
+    "THi KEY WIST CITIZEN Thursday Beeember it 1W Page 6 SLIw Kry Mi NORMAN D ARTMAN Editor and Publisher MARGARET FORESMAN Managing Editor JOHN CELLAR OMMMMaOM Advertising Manager RAYFORD ROBERTS Circulation Manager PERCY CURRY Mechanical Superintendent MEMBER OF ASSOCIATED PRESS Member Southern Newspaper Publishers ASSS Member Florida Daily Newspaper ASsn NATIONAL ADVERTISING REPRESENTATIVE Theis Simpson Co Inc 230 Park Ave New York 17 N Y Branch Offices in Principal Cities CARRIER SUBSCRIPTION RATES I Year 11l uO 8 Months 100 1 Month 1 50 1 Week MMMtaaM 85 ADDRESS ALL MAIL to Real OMlae Bea 1170 Key Woet RlertaM This Criticism Not Justified A columnist of the Miami Herald criticizes the City Electric System of this city for its policy of spending the funds of a publiclyowned utility for such things as advertising in news papers the radio entertainment pro grams and in other ways The Citizen finds no fault with this commentator for making such a criticism No more does The Citizen find fault with Mayor C B Harvey for his letter to the newspapers criticizing the City Electric System Both of these criticisms call attention to the fact that the City Electric System is the property of the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2026-01-27T16:59:57.992Z",
+  "group": [
+    "ndnp/fu",
+    "university-of-florida-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83016244/1961-12-28/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_eatonville_ver03:data:sn83016244:00517170136:1961122801:0778/full/pct:3.125/0/default.jpg#h=304&w=215",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_eatonville_ver03:data:sn83016244:00517170136:1961122801:0778/full/pct:6.25/0/default.jpg#h=609&w=430",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/fu/batch_fu_eatonville_ver03/data/sn83016244/00517170136/1961122801/0778.xml&format=alto_xml"
+  ],
+  "index": 18,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "monroe",
+    "monroe county",
+    "key west",
+    "florida",
+    "united states"
+  ],
+  "location_city": [
+    "key west"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "monroe"
+  ],
+  "location_state": [
+    "florida"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0",
+    "0000000006",
+    "sn83016244",
+    "7",
+    "1",
+    "3",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83016244"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "0",
+    "1",
+    "3",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83016244-1961-12-28-ed-1-0778",
+  "partof": [
+    "the key west citizen (key west, fla.) 1879-current",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the key west citizen (key west, fla.) 1879-current"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83016244/1961-12-28/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83016244/1961-12-28/ed-1/"
+  ],
+  "shelf_id": "06",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "key west (fla.)",
+    "monroe",
+    "monroe county",
+    "monroe county (fla.)",
+    "key west",
+    "florida",
+    "united states"
+  ],
+  "timestamp": "2026-01-28T01:15:24.931Z",
+  "title": "Image 6 of The Key West citizen (Key West, Fla.), December 28, 1961",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83016244/1961-12-28/ed-1/?sp=6&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Ffu%2Fbatch_fu_eatonville_ver03%2Fdata%2Fsn83016244%2F00517170136%2F1961122801%2F0778.xml&q=computers&relevant_snippet=1"
+}

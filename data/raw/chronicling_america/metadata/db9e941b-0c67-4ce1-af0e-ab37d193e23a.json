@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88071001/1963-01-14/ed-1/?sp=1"
+  ],
+  "batch": [
+    "gu_kraken_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/georgia/",
+    "2/united states/georgia/richmond/",
+    "3/united states/georgia/richmond/augusta/"
+  ],
+  "contributor": [
+    "digital library of georgia, a project of galileo located at the university of georgia libraries"
+  ],
+  "date": "1963-01-14",
+  "dates": [
+    "1963-01-14"
+  ],
+  "description": [
+    "Be Not Content With The Appearance of Things But Look For The True Meaning Vol 2 Little Bobby Kennedy Is Attempting To Set Himself Up As Dictator Of U S Has Congress Enough Sense Of Responsibility To Stop Kennedys War On US Citizens And Foreign Powers Shreveport Journal Calls For End Of Use Of Troops Overseas In Mississippi It is time that the Congress put an end to the administrations waging war against sovereign States at home and abroad In an editorial appearing in THE SHREVEPORT JOURNAL under date of December 31 1962 George W Shan non points to the sad fact that the United States is today waging war against the State of Mississippi and has its soldiers camped nearby the campus of Ole Miss at Oxford Mississippi and that we are shamelessly financing and promoting the United Nations to wage war against the Province of Katanga in the Congo The State of Mississippi is one of the few States that has had the courage and the nerve to stand up and oppose the unconscionable efforts of the federal government to punish the people of the various States because they stand for the fundamental principles upon which our government"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-06-29T05:13:40.925Z",
+  "group": [
+    "ndnp/gu",
+    "digital-library-of-georgia-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88071001/1963-01-14/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_kraken_ver01:data:sn88071001:00529044707:1963011401:0633/full/pct:3.125/0/default.jpg#h=267&w=188",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_kraken_ver01:data:sn88071001:00529044707:1963011401:0633/full/pct:6.25/0/default.jpg#h=534&w=376",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_kraken_ver01:data:sn88071001:00529044707:1963011401:0633/full/pct:12.5/0/default.jpg#h=1069&w=752",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/gu/batch_gu_kraken_ver01/data/sn88071001/00529044707/1963011401/0633.xml&format=alto_xml"
+  ],
+  "index": 80,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "richmond",
+    "augusta",
+    "georgia",
+    "united states"
+  ],
+  "location_city": [
+    "augusta"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "richmond"
+  ],
+  "location_state": [
+    "georgia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn88071001",
+    "0",
+    "2",
+    "7",
+    "9",
+    "1",
+    "0000000001",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88071001"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "2",
+    "9",
+    "0",
+    "4",
+    "4",
+    "7",
+    "0",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88071001-1963-01-14-ed-1-0633",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the augusta courier (augusta, ga.) 1946-1974"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the augusta courier (augusta, ga.) 1946-1974"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88071001/1963-01-14/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88071001/1963-01-14/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "since 1945",
+    "augusta",
+    "richmond",
+    "politics and government",
+    "conservatism",
+    "united states",
+    "augusta (ga.)",
+    "georgia"
+  ],
+  "timestamp": "2025-06-29T05:45:53.558Z",
+  "title": "Image 1 of The Augusta courier (Augusta, Ga.), January 14, 1963",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88071001/1963-01-14/ed-1/?sp=1&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fgu%2Fbatch_gu_kraken_ver01%2Fdata%2Fsn88071001%2F00529044707%2F1963011401%2F0633.xml&q=cuba&relevant_snippet=1"
+}

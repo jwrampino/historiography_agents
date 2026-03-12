@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84038462/1858-08-26/ed-1/?sp=1"
+  ],
+  "batch": [
+    "iune_albatross_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/illinois/",
+    "2/united states/illinois/bond/",
+    "3/united states/illinois/bond/greenville/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1858-08-26",
+  "dates": [
+    "1858-08-26"
+  ],
+  "description": [
+    "Ltftcckli Jamiln lrinspapcr nkpenknt on all Subjects GREENVILLE BOND COUNTY ILLINOIS AUGUST 2G 1858 s proprietors NUM BEE 29 VOLUME 1 SPEECH SENATOR TRUMBULL At Chicago0 August 7lh S5S Hr fives llir charge of trlful Dodging upon Hr Douglas on llir Kansas Issue or Popular Sovereignty LecomitonSouthern Despotism at A ASHISGTONCuHIOUS CUSTOM House StatisticsDred Scott c Fellow CitizensI am gratified Oto have an opportunity of laying before so many of my fellowcitizens as I see litiere assembled my own views in re gard to the political questions which have agitfted the public mind since I became connected with public alfairs When I entered Congress as one of the Repre sentatives of this State the great and allabsorbing question which occupied the public mind was the slavery ques tion Parties were then organized up on that question and they have continu ed so to this time and it is in regard to that question that 1 shall chiefly ad dress you tonight though not altogeth er for in discussing that question I de sire to bring before you the fact which exists that all the great powers of this government are subordinate to this one j question I wish to show"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:15:40.901Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84038462/1858-08-26/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038462:00514151039:1858082601:0116/full/pct:6.25/0/default.jpg#h=363&w=272",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038462:00514151039:1858082601:0116/full/pct:12.5/0/default.jpg#h=726&w=545",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_albatross_ver01/data/sn84038462/00514151039/1858082601/0116.xml&format=alto_xml"
+  ],
+  "index": 29,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "greenville",
+    "bond",
+    "bond county",
+    "illinois",
+    "united states"
+  ],
+  "location_city": [
+    "greenville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "bond"
+  ],
+  "location_state": [
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0",
+    "3",
+    "9",
+    "1",
+    "0000000001",
+    "sn84038462",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84038462"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "4",
+    "1",
+    "5",
+    "1",
+    "0",
+    "3",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84038462-1858-08-26-ed-1-0116",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the greenville advocate (greenville, bond county, ill.) 1858-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the greenville advocate (greenville, bond county, ill.) 1858-current"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84038462/1858-08-26/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84038462/1858-08-26/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "greenville",
+    "bond county (ill.)",
+    "bond",
+    "bond county",
+    "greenville (ill.)",
+    "illinois",
+    "united states"
+  ],
+  "timestamp": "2025-05-21T10:47:29.643Z",
+  "title": "Image 1 of The Greenville advocate (Greenville, Bond County, Ill.), August 26, 1858",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84038462/1858-08-26/ed-1/?sp=1&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_albatross_ver01%2Fdata%2Fsn84038462%2F00514151039%2F1858082601%2F0116.xml&q=slavery&relevant_snippet=1"
+}

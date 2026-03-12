@@ -1,0 +1,33 @@
+{
+  "description": "Books on different history, politics.",
+  "format": [
+    "Abbyy GZ",
+    "Additional Text PDF",
+    "Archive BitTorrent",
+    "DjVuTXT",
+    "Djvu XML",
+    "EPUB",
+    "Image Container PDF",
+    "Item Tile",
+    "LCP Encrypted EPUB",
+    "Metadata",
+    "OCR Page Index",
+    "OCR Search Text",
+    "Page Numbers JSON",
+    "Scandata",
+    "Single Page Processed JP2 ZIP",
+    "Text PDF",
+    "Word Document",
+    "chOCR",
+    "hOCR"
+  ],
+  "identifier": "20200118_20200118_0440",
+  "language": "eng",
+  "mediatype": "texts",
+  "subject": [
+    "BD",
+    "History",
+    "Politics"
+  ],
+  "title": "History-Books"
+}

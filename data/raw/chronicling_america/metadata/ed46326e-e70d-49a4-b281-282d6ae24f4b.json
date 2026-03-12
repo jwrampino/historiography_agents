@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86071999/1947-02-07/ed-1/?sp=1"
+  ],
+  "batch": [
+    "wa_dowitcher_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/washington/",
+    "2/united states/washington/king/",
+    "3/united states/washington/king/seattle/"
+  ],
+  "contributor": [
+    "washington state library; olympia, wa"
+  ],
+  "date": "1947-02-07",
+  "dates": [
+    "1947-02-07"
+  ],
+  "description": [
+    "Minute Explains Purpose of the Citizens League News Of The Nisei World Yo I No II URGES U S TO PAY EVACUATION LOSSES Editorial Chinese Had It Rough Trying To Have Exclusion Act Repealed Repeal of the Chinese Exclusion Act on a quota basis by the United States gtwernment on October 7 1943 was one of the most important bills passed by the Con gress of our nation during World War 11 Action favored by the House immigration committee by an 8 to 4 count definitely was a step towards lower ing the immigration bars which have constantly frustrated the eforts of many statesmen seeking pacific settlements in the past The repeal of the act permits 105 Chinese to enter our country each year but what the Chinese had to face to attain this liberalization of the act should be reviewed by the Japanese who are quibbling today over the slowness of Congress to act on Japanese problems in these times when atomic bombs employment and relief are the chief topics on the supper table It should be noted by all Japanese that the Chinese Exclusion Act was a standing law since 18821n other words it was a sixtyoneyearold effort"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-04-26T11:25:00.386Z",
+  "group": [
+    "ndnp/wa",
+    "washington-state-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86071999/1947-02-07/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dowitcher_ver01:data:sn86071999:00200291487:1947020701:0041/full/pct:6.25/0/default.jpg#h=392&w=303",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dowitcher_ver01:data:sn86071999:00200291487:1947020701:0041/full/pct:12.5/0/default.jpg#h=784&w=606",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wa/batch_wa_dowitcher_ver01/data/sn86071999/00200291487/1947020701/0041.xml&format=alto_xml"
+  ],
+  "index": 93,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "seattle",
+    "king",
+    "washington"
+  ],
+  "location_city": [
+    "seattle"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "king"
+  ],
+  "location_state": [
+    "washington"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "1",
+    "2",
+    "4",
+    "7",
+    "sn86071999",
+    "0000000001",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86071999"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "0",
+    "2",
+    "9",
+    "1",
+    "4",
+    "8",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86071999-1947-02-07-ed-1-0041",
+  "partof": [
+    "the northwest times (seattle, wash.) 1947-1955",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the northwest times (seattle, wash.) 1947-1955"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86071999/1947-02-07/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86071999/1947-02-07/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington (state)",
+    "united states",
+    "seattle (wash.)",
+    "newspapers",
+    "seattle",
+    "washington",
+    "king"
+  ],
+  "timestamp": "2024-04-26T17:24:05.707Z",
+  "title": "Image 1 of The Northwest times (Seattle, Wash.), February 7, 1947",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86071999/1947-02-07/ed-1/?sp=1&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwa%2Fbatch_wa_dowitcher_ver01%2Fdata%2Fsn86071999%2F00200291487%2F1947020701%2F0041.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

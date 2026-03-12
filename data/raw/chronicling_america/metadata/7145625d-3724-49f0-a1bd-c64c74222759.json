@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88084115/1885-11-01/ed-1/?sp=8"
+  ],
+  "batch": [
+    "dlc_cheetah_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/pennsylvania/",
+    "2/united states/pennsylvania/cumberland/",
+    "3/united states/pennsylvania/cumberland/carlisle/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1885-11-01",
+  "dates": [
+    "1885-11-01"
+  ],
+  "description": [
+    "From fifth page dians will be compelled to give them up for I want to tell you that the Governor of this Ter ritory is higher in authority than any military 9 commander in this Territory X EDITORIAL Comments of the PINIX Arizona Herald on Gov Inaugural Zulicks Gov Zulicks position on the Indian ques tion is not going to help matters in that direc tion so far as the public can see Gov Zulick like Gov Tritle has not a thing in the world to do anything with except the good faith and credit of the Territory as represented by the whims of an Arizona Legislature And just here we should like to ask Tombstone why Gov Zulick is not asked to join in that peti tion for the removal of Crook No doubt Gov Zulick is perfectly willing as has been Gov Tritle to do all he can to re lieve us of the Indian incubus but is in fact as powerless today in that direction as any pri vate individual in the Territory Why all this hubbub then concerning what will be done in regard to Indian Affairs The whole thing is mere bosh The Territory can"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-09-14T05:37:17.412Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88084115/1885-11-01/ed-1/?sp=8",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cheetah_ver02:data:sn88084115:00543171748:1885110101:0138/full/pct:6.25/0/default.jpg#h=373&w=266",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cheetah_ver02:data:sn88084115:00543171748:1885110101:0138/full/pct:12.5/0/default.jpg#h=746&w=532",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_cheetah_ver02/data/sn88084115/00543171748/1885110101/0138.xml&format=alto_xml"
+  ],
+  "index": 9,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "cumberland county",
+    "carlisle",
+    "cumberland",
+    "pennsylvania",
+    "united states"
+  ],
+  "location_city": [
+    "carlisle"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cumberland"
+  ],
+  "location_state": [
+    "pennsylvania"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "1",
+    "8",
+    "0",
+    "sn88084115",
+    "7",
+    "0000000008",
+    "3",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88084115"
+  ],
+  "number_page": [
+    "0000000008"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "3",
+    "1",
+    "7",
+    "1",
+    "7",
+    "4",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88084115-1885-11-01-ed-1-0138",
+  "partof": [
+    "the morning star (carlisle, pa.) 1882-1887",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the morning star (carlisle, pa.) 1882-1887"
+  ],
+  "publication_frequency": [
+    "monthly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88084115/1885-11-01/ed-1/?sp=8"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88084115/1885-11-01/ed-1/"
+  ],
+  "shelf_id": "08",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "cumberland county",
+    "carlisle (pa.)",
+    "carlisle",
+    "cumberland",
+    "cumberland county (pa.)",
+    "pennsylvania",
+    "united states"
+  ],
+  "timestamp": "2025-09-14T05:51:08.032Z",
+  "title": "Image 8 of The morning star (Carlisle, Pa.), November 1, 1885",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88084115/1885-11-01/ed-1/?sp=8&q=indian+territory",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_cheetah_ver02%2Fdata%2Fsn88084115%2F00543171748%2F1885110101%2F0138.xml&q=indian+territory&relevant_snippet=1"
+}

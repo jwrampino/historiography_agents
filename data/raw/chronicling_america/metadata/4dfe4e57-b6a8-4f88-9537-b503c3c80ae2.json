@@ -1,0 +1,150 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86071779/1900-01-09/ed-1/?sp=4"
+  ],
+  "batch": [
+    "vi_hazel_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/virginia/",
+    "3/united states/virginia/norfolk/"
+  ],
+  "contributor": [
+    "library of virginia; richmond, va"
+  ],
+  "date": "1900-01-09",
+  "dates": [
+    "1900-01-09"
+  ],
+  "description": [
+    "VIRGINIAN PILOT BY THE CV7ROINIAN AND PILOT PUBLISHING _COMPANY_ KORFOLK VIRGINIA AND DAILY PILOT Consolidated March _ Entered at the Postotllco at Norfolk Va as secondclass matter 11 0FFICE PILOT BUILDING ULI CITY HALL AVENUE _norfolk va_ OFFICERS AliBtBRT H GRANDYPresident WILLIAM a WILKINSONTreasurer JAMES B ALLENSecretary TUREEUKIITX IKIiCOPT subscription rates The VIRGINIANPILOT Is delivered to subscribers by carriers In Norfolk and vicinity Portsmouth Berkley Suffolk West Norfolk Newport Newa for 1U cents per week payablo to tho carrier Bv mall to any place lu tho United KSlates postage freo AAlfY one yar snno Izmoolbi 300 Ibree riobIUi lOO one nioulli n no ADVERTISING RATKS Advertise ments Inserted at tho ruto of 75 cents a Square first Insertion each subsequent Insertion 0 cents or 50 cents when In serted Every Other Day Contractors aro not allowed to exceed their space or ad vertise other than their legitimate busi ness except by paying especially for tho came Reading Notices Invariably 20 cents per line first Insertion Bach subsequent in sertion 15 cents No employee of the Vlrglnlanrilot Pub lishing Company is authorized to contract sny obligation In the name of tho com pany or to make purchases In the name of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-02-06T12:41:02.948Z",
+  "group": [
+    "ndnp/vi",
+    "library-of-virginia-richmond-va-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86071779/1900-01-09/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:00175031431:1900010901:0076/full/pct:6.25/0/default.jpg#h=438&w=314",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:00175031431:1900010901:0076/full/pct:12.5/0/default.jpg#h=877&w=629",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/vi/batch_vi_hazel_ver01/data/sn86071779/00175031431/1900010901/0076.xml&format=alto_xml"
+  ],
+  "index": 73,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "norfolk",
+    "united states",
+    "virginia"
+  ],
+  "location_city": [
+    "norfolk"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "virginia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000004",
+    "sn86071779",
+    "5",
+    "3",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86071779"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "1",
+    "7",
+    "5",
+    "0",
+    "3",
+    "1",
+    "4",
+    "3",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86071779-1900-01-09-ed-1-0076",
+  "partof": [
+    "chronicling america",
+    "virginian-pilot (norfolk, va.) 1898-1911",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "virginian-pilot (norfolk, va.) 1898-1911"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86071779/1900-01-09/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86071779/1900-01-09/ed-1/"
+  ],
+  "shelf_id": "04",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "virginia",
+    "norfolk",
+    "united states",
+    "newspapers",
+    "norfolk (va.)"
+  ],
+  "timestamp": "2024-02-07T10:06:48.236Z",
+  "title": "Image 4 of Virginian-pilot (Norfolk, Va.), January 9, 1900",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86071779/1900-01-09/ed-1/?sp=4&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fvi%2Fbatch_vi_hazel_ver01%2Fdata%2Fsn86071779%2F00175031431%2F1900010901%2F0076.xml&q=manifest+destiny&relevant_snippet=1"
+}

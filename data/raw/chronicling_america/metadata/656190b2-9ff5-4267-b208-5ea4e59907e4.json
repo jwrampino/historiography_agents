@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84025694/1943-09-02/ed-1/?sp=11"
+  ],
+  "batch": [
+    "ohi_amaryllis_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/montgomery/",
+    "3/united states/ohio/montgomery/dayton/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1943-09-02",
+  "dates": [
+    "1943-09-02"
+  ],
+  "description": [
+    "2 919 Brown St 213 N Beckel St 2206 E Third St MUTH BROS Inc Mouse and Heavy Machinery Movers Erectors of Boilers and Steel Stacks 1 La Belle Street ADams 2281 THE CENTRAL STEEL WIRE COMPANY Steel Products 95 East Monument Avenue Fulton 8181 HOLT RADIATOR WELDING Holt Welds Hold Expert Radiator RepairingElectric and Acetylene Processes North St Clair Street HEmlock 4629 BROADWAY AUTO PARTS Parts for Any Car or Truck Broken Glass Replaced South Broadway Street ADams 2231 WHITE CLOCK LUNCH STANDS 142 East Third Street 44 West Third Street 19 East Fitfh Street 229 North Main Street BETTER HAMBURGERS THE THRESHER VARNISH COMPANY PAINT VARNISH ENAMEL LACQUER Made Good Since 1859 1100 E Monument Ave Dayton Ohio FUlton 7185 THE DIMCO PLASTIC CO 207 East Sixth Street ADams 1422 EDGEMONT MACHINE COMPANY MAKERS of TYPESB B IMPROVED EXPANDING CLUTCHES 2200 Home Avenue HEmlock 2612 THE REPUBLIC ASPHALT PAVING COMPANY ASPHALT DRIVEWAYS FUlton 7891 North Summit and Penna R R F W LOTZ PAPER COMPANY Hotel and Restaurant Supplies Wrapping Paper Roofing 607 East Third Street ADams 7223 WM E ROBERTS Funeral DirectorAmbulance ServiceEst 1912 Compliments of the VAN CLEVE HOTEL DAYTON OHIO EDWARD BREEN Management CLAUDE J"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:14:11.256Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84025694/1943-09-02/ed-1/?sp=11",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_amaryllis_ver01:data:sn84025694:00414210375:1943090201:0552/full/pct:6.25/0/default.jpg#h=413&w=277",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_amaryllis_ver01:data:sn84025694:00414210375:1943090201:0552/full/pct:12.5/0/default.jpg#h=827&w=555",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_amaryllis_ver01/data/sn84025694/00414210375/1943090201/0552.xml&format=alto_xml"
+  ],
+  "index": 180,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "montgomery",
+    "ohio",
+    "dayton",
+    "united states"
+  ],
+  "location_city": [
+    "dayton"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "montgomery"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn84025694",
+    "2",
+    "0",
+    "0000000011",
+    "7",
+    "1",
+    "3",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84025694"
+  ],
+  "number_page": [
+    "0000000011"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "2",
+    "1",
+    "0",
+    "3",
+    "7",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84025694-1943-09-02-ed-1-0552",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "dayton union news ([dayton, ohio]) 1940-1944"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "dayton union news ([dayton, ohio]) 1940-1944"
+  ],
+  "publication_frequency": [
+    "biweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84025694/1943-09-02/ed-1/?sp=11"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84025694/1943-09-02/ed-1/"
+  ],
+  "shelf_id": "11",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "montgomery",
+    "labor unions",
+    "dayton (ohio)",
+    "dayton",
+    "ohio",
+    "united states"
+  ],
+  "timestamp": "2023-09-04T23:50:38.849Z",
+  "title": "Image 11 of Dayton union news ([Dayton, Ohio]), September 2, 1943",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84025694/1943-09-02/ed-1/?sp=11&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_amaryllis_ver01%2Fdata%2Fsn84025694%2F00414210375%2F1943090201%2F0552.xml&q=fascism&relevant_snippet=1"
+}

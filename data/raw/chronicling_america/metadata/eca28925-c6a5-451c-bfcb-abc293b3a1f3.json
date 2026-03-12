@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1957-09-11/ed-1/?sp=6"
+  ],
+  "batch": [
+    "dlc_parsifal_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1957-09-11",
+  "dates": [
+    "1957-09-11"
+  ],
+  "description": [
+    "A6 THE EVENING STAR Washington D C wtDNEswAT strTEM\u00dfra n IS7 President Asks Changes Signs Immigration Bill Continued From First Fare ful attention of the Congress and should be promptly con sidered at the beginning of the next session besides the signing of the immigration bill the President had on his program today a conference at his Newport Naval Base vacation headquar ters this afternoon with Secre tary of Agriculture Benson Mr Benson is flying here from West Point N Y where he w as attending an agricultural meet ing Last Bill Signed The Immigration bill was the last of a big batch sent to the President s desk in the congres j sional adjournment rush last month Its major provisions would 1 Revive and reallocate 18656 nonquota immigration visas whicn were unused when the Refugee Relief Act expired last December 31 About 14000 of these visas would go to ref ugees from Communist and other persecution 2 Admit over the next two years an unlimited number of orphans up to 14 years old adopted by Americans abroad and waive the present 2year residence requirement before they can become citizens 3 Grant permanent resi dence to more than 15000 aliens"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-07T20:33:33.773Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1957-09-11/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_parsifal_ver01:data:sn83045462:00280607745:1957091101:0915/full/pct:3.125/0/default.jpg#h=300&w=190",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_parsifal_ver01:data:sn83045462:00280607745:1957091101:0915/full/pct:6.25/0/default.jpg#h=600&w=381",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_parsifal_ver01/data/sn83045462/00280607745/1957091101/0915.xml&format=alto_xml"
+  ],
+  "index": 163,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "2",
+    "sn83045462",
+    "6",
+    "8",
+    "5",
+    "4",
+    "1",
+    "0000000006",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "7",
+    "7",
+    "4",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday issues for Mar. 26, 1905-July 9,1972 called: Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1957-09-11-ed-1-0915",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1957-09-11/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1957-09-11/ed-1/"
+  ],
+  "shelf_id": "06",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-08-08T15:30:23.759Z",
+  "title": "Image 6 of Evening star (Washington, D.C.), September 11, 1957",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1957-09-11/ed-1/?sp=6&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_parsifal_ver01%2Fdata%2Fsn83045462%2F00280607745%2F1957091101%2F0915.xml&q=immigration&relevant_snippet=1"
+}

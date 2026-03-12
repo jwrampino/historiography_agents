@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1929-02-01/ed-1/?sp=4"
+  ],
+  "batch": [
+    "dlc_lateef_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1929-02-01",
+  "dates": [
+    "1929-02-01"
+  ],
+  "description": [
+    "4 GOODWILL PM REACHES CAPITAL Argentinians to Visit Monu ment to Gen San Martin This Afternoon A goodwill mission from Argentina Including 22 prominent educational offi cials of Buenos Aires health experts and teachers arrived in Washington from Philadelphia today for a weeks visit The party is visiting the United States under auspices of the newly created Argentine American Cultural Institute founded to encourage cul tural relations between the two coun tries and promote exchange of profes sors and students Under guidance of PanAmerican Union officials the Argentine group will be taken on a sightseeing tour of Washington this afternoon and will visit among other spots the monument to the Argentine national hero Gen San Martin in Judiciary Square This afternoon at 530 oclock they will be guests at a reception in their honor at the Argentine embassy Tonight the visitors will be the guests of Walter Penfleld at a box party at Polls Thea ter Many Functions Arranged Many functions are being arranged in their honor during the weeks stay After calling upon Secretary of State Kellogg Monday morning the group will be received by President Coolidge at the White House Dr Leo S Rowe direc torgeneral of the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:31:28.211Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1929-02-01/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lateef_ver01:data:sn83045462:0028060009A:1929020101:0650/full/pct:3.125/0/default.jpg#h=283&w=215",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lateef_ver01:data:sn83045462:0028060009A:1929020101:0650/full/pct:6.25/0/default.jpg#h=567&w=430",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lateef_ver01:data:sn83045462:0028060009A:1929020101:0650/full/pct:12.5/0/default.jpg#h=1134&w=860",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_lateef_ver01/data/sn83045462/0028060009A/1929020101/0650.xml&format=alto_xml"
+  ],
+  "index": 18,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "district of columbia",
+    "washington d.c.",
+    "washington",
+    "united states"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000004",
+    "1",
+    "8",
+    "2",
+    "0",
+    "sn83045462",
+    "9",
+    "a",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "0",
+    "0",
+    "9",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1929-02-01-ed-1-0650",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1929-02-01/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1929-02-01/ed-1/"
+  ],
+  "shelf_id": "04",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)",
+    "washington",
+    "united states"
+  ],
+  "timestamp": "2022-10-25T12:21:51.584Z",
+  "title": "Image 4 of Evening star (Washington, D.C.), February 1, 1929",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1929-02-01/ed-1/?sp=4&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_lateef_ver01%2Fdata%2Fsn83045462%2F0028060009A%2F1929020101%2F0650.xml&q=immigration&relevant_snippet=1"
+}

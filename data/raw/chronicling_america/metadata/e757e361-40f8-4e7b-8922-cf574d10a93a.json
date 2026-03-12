@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82007637/1960-03-04/ed-1/?sp=5"
+  ],
+  "batch": [
+    "ohi_goyle_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/lucas/",
+    "3/united states/ohio/lucas/toledo/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1960-03-04",
+  "dates": [
+    "1960-03-04"
+  ],
+  "description": [
+    "k McNamara Reports Senate Group Urges US Aids for Elderly The Senate Subcommittee on Problems of the Aged and Aging has intensified a political controversy with sweeping proposals to help Americas older citizens giving top prior ity to health care for social security beneficiaries The 12point program was aimed chiefly at aiding the 16 million Americans aged 65 arid over with such problems as health needs income main tenance and housing The subcommittee split sharp ly along party lines Chairman Pat McNamara DMich commenting on the sobering and humbling na tionwide hearings of his group I said senior citisens have been neglected and literally cast aside by the nation which they i spent the greater part of their lives helping to make strong The report was endorsed by Democratic Senators John F Kennedy Mass Joseph S Clark Pa and Jennings Ran dolph W Va The Republican minority of y Senators Everett McKinley Dirk sen Ill GOP floor leader and Barry Goldwater Ariz assailed the majority proposals point by point They said the problems of the elderly are essentially a local responsibility i AMA Opposed Again The American Medical As s sociation immediately attacked the McNamara report as politi cally inspired"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-04-13T08:05:43.404Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82007637/1960-03-04/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_goyle_ver01:data:sn82007637:00516993844:1960030401:0083/full/pct:6.25/0/default.jpg#h=416&w=305",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_goyle_ver01:data:sn82007637:00516993844:1960030401:0083/full/pct:12.5/0/default.jpg#h=833&w=610",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_goyle_ver01/data/sn82007637/00516993844/1960030401/0083.xml&format=alto_xml"
+  ],
+  "index": 191,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ohio",
+    "toledo",
+    "lucas county",
+    "lucas",
+    "united states"
+  ],
+  "location_city": [
+    "toledo"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lucas"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0000000005",
+    "sn82007637",
+    "8",
+    "0",
+    "9",
+    "1",
+    "3",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82007637"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "3",
+    "8",
+    "4",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82007637-1960-03-04-ed-1-0083",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "toledo union journal (toledo, ohio) 1942-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "toledo union journal (toledo, ohio) 1942-current"
+  ],
+  "publication_frequency": [
+    "biweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82007637/1960-03-04/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82007637/1960-03-04/ed-1/"
+  ],
+  "shelf_id": "5",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "international union, united automobile workers of america (cio)",
+    "newspapers",
+    "labor unions",
+    "ohio",
+    "toledo",
+    "toledo (ohio)",
+    "lucas county (ohio)",
+    "lucas county",
+    "lucas",
+    "united states",
+    "local 12 (toledo, ohio)"
+  ],
+  "timestamp": "2025-04-13T10:36:42.682Z",
+  "title": "Image 5 of Toledo union journal (Toledo, Ohio), March 4, 1960",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82007637/1960-03-04/ed-1/?sp=5&q=civil+rights",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_goyle_ver01%2Fdata%2Fsn82007637%2F00516993844%2F1960030401%2F0083.xml&q=civil+rights&relevant_snippet=1"
+}

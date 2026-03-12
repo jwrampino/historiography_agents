@@ -1,0 +1,165 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83030213/1846-08-01/ed-1/?sp=4"
+  ],
+  "batch": [
+    "dlc_gritty_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1846-08-01",
+  "dates": [
+    "1846-08-01"
+  ],
+  "description": [
+    "r NEWYORK TRIBUNE ER From Grahams Magazine for August MY HOME IN CONNECTICUT of my childhood I cannot forget thee He ough here 1 am happy surrounded Deeply and warm in my heart have x b And holiest thought with thy rol 3 estead quietly nestiing Where with the shadows sunlight is wrestling On the short greensward in front of thy door g old housedogplaymate of childhood ave we wandered together awa To where the low strawberry reddened the wildwood And loitered beside the still water to play old appletree near to the window Guarled Oat ase to the blue of the sky Mulberry where the bright oriole buildeth Still do ye toss your strong branches on high ail grows the damask rose in the old garden Fleurdelis mingles it blue and its white ts and raspberries bend with their b Neighborly standing with peonies bright Where stretch the meadows of snowiest clover The Pomperaug river is hurrying by With elm trees and willows dark shadowing over The pool where the trout is accustomed 1c lie On those gray rocks with dark hemlock trees crested Many an hour have lain at my ease To watch the brisk squirrel chirp on"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-01-08T13:47:59.933Z",
+  "group": [
+    "ndnp/dlc-2011_2013",
+    "library-of-congress-washington-dc-awardee-4"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83030213/1846-08-01/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver02:data:sn83030213:00206530248:1846080101:0212/full/pct:3.125/0/default.jpg#h=351&w=261",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver02:data:sn83030213:00206530248:1846080101:0212/full/pct:6.25/0/default.jpg#h=703&w=522",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_gritty_ver02/data/sn83030213/00206530248/1846080101/0212.xml&format=alto_xml"
+  ],
+  "index": 17,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "new york",
+    "united states",
+    "new york county",
+    "new york city"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000004",
+    "sn83030213",
+    "2",
+    "6",
+    "5",
+    "3",
+    "8",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83030213"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "6",
+    "5",
+    "3",
+    "0",
+    "2",
+    "4",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "New-York tribune",
+    "New York tribune"
+  ],
+  "page_id": "sn83030213-1846-08-01-ed-1-0212",
+  "partof": [
+    "new-york daily tribune (new-york [n.y.]) 1842-1866",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "new-york daily tribune (new-york [n.y.]) 1842-1866"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83030213/1846-08-01/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83030213/1846-08-01/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "new york",
+    "new york (state)",
+    "united states",
+    "https://id.oclc.org/worldcat/entity/e39pbjpj8ktvrv6gp6v6tp7pwc",
+    "https://id.oclc.org/worldcat/entity/e39qbtfrvqh7864jh4rdgbfdwc",
+    "new york county",
+    "new york county (n.y.)",
+    "newspapers",
+    "new york (n.y.)"
+  ],
+  "timestamp": "2025-01-08T21:03:18.540Z",
+  "title": "Image 4 of New-York daily tribune (New-York [N.Y.]), August 1, 1846",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83030213/1846-08-01/ed-1/?sp=4&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_gritty_ver02%2Fdata%2Fsn83030213%2F00206530248%2F1846080101%2F0212.xml&q=medicine&relevant_snippet=1"
+}

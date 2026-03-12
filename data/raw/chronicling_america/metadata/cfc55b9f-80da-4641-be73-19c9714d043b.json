@@ -1,0 +1,137 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2004540423/1917-03-16/ed-1/?sp=126"
+  ],
+  "batch": [
+    "dlc_1brainania_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1917-03-16",
+  "dates": [
+    "1917-03-16"
+  ],
+  "description": [
+    "EDITORIAL PAGE OF THE _ NEW YORK JOURNAL Pumishedrda\ufb02y except Sunday by Star Company at 232238 William street ment S S carvalhov 238 William street VicePres Bradford M ll l 6325 Julian Gegard 238 Wllllam street Secretary J T Sturdevanetrrz\u00dfl\u00e9 Julian street Busmess Office 2 Columbus Circle ed at New York Post Office as secondclass matter No 2 Wil\u00e4g\u00e9lerstreetv NEW York Monday March 19 1917 523 to 238 Evening Journal will be sent to any subscriber in the Ut and lg\u00e4gmda for 50 cents per month 150 foxP\u00df months 300 fogleeiisxtl\ufb01\ufb01 600 per Y 9 P Thaw not be responsible vfor manuscripts submitted March 19 1917 To the Editor of the New York Journal An editorial appeared in yesterdays Sunday American which expressed a partial opposition to universal military service I am heartily in favor of universal military service I be new it is the only effective system the only democratic system I believe that a small army is of small value in these times of great warsand that a large standing army would be a menace to our democratic institutions Universal military service makes a soldier out of the citi zenand at the same time a better citizen a"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-19T00:31:09.109Z",
+  "group": [
+    "sgpww1newspaperclippings/dlc",
+    "wwi-newspaper-clippings"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2004540423/1917-03-16/ed-1/?sp=126",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_1brainania_ver01:data:2004540423:print0019251132A:1917031601:0126/full/pct:6.25/0/default.jpg#h=451&w=338",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_1brainania_ver01:data:2004540423:print0019251132A:1917031601:0126/full/pct:12.5/0/default.jpg#h=902&w=676",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/sgp/sgpbatches/batch_dlc_1brainania_ver01/data/2004540423/print0019251132A/1917031601/0126.xml&format=alto_xml"
+  ],
+  "index": 80,
+  "language": [
+    "german",
+    "english"
+  ],
+  "location": [
+    "new york",
+    "germany",
+    "united states"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "2004540423",
+    "0000000126",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2004540423"
+  ],
+  "number_page": [
+    "0000000126"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2004540423-1917-03-16-ed-1-0126",
+  "partof": [
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-",
+    "serial and government publications division",
+    "world war history: newspaper clippings, 1914-1926"
+  ],
+  "partof_collection": [
+    "world war history: newspaper clippings, 1914-1926"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2004540423/1917-03-16/ed-1/?sp=126"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2004540423/1917-03-16/ed-1/"
+  ],
+  "shelf_id": "126",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "armistices",
+    "history",
+    "allied occupation",
+    "germany",
+    "sources",
+    "new york",
+    "world war",
+    "united states"
+  ],
+  "timestamp": "2022-11-09T15:09:51.301Z",
+  "title": "Image 126 of World War history : daily records and comments as appeared in American and foreign newspapers, 1914-1926 (New York), March 16, 1917, (1917 March 16-21)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2004540423/1917-03-16/ed-1/?sp=126&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fsgp%2Fsgpbatches%2Fbatch_dlc_1brainania_ver01%2Fdata%2F2004540423%2Fprint0019251132A%2F1917031601%2F0126.xml&q=revolution&relevant_snippet=1"
+}

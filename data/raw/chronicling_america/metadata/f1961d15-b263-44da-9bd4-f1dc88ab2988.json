@@ -1,0 +1,150 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86071779/1900-05-24/ed-1/?sp=6"
+  ],
+  "batch": [
+    "vi_hazel_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/virginia/",
+    "3/united states/virginia/norfolk/"
+  ],
+  "contributor": [
+    "library of virginia; richmond, va"
+  ],
+  "date": "1900-05-24",
+  "dates": [
+    "1900-05-24"
+  ],
+  "description": [
+    "LATEST TELEGRAPH CONTINUEDFROM PAGEToNET DAY OF ORATORY IN THE SENATE Continued From Pagel KU LOG IKD THE PRESIDENT Continuing Mr Plait eulogized the President and said no President in of flc ever escaped Ihe criticisms and in uendo lhat McKinley has escaped and thai the people will be glad to leave this Investigation to him lie also paid tribute to tin American army officers who have had civil duties la Cuba Mr Tllltnan called attention to tlie railroad constructed along tho south side of Havana harbor and suggested that be would produce some witnesses regarding that matter if it was Investi gated Mr Platt said that Director of Post Rathhoncs appointment was well mer ited but if he were found Involved in these tlnanciil difficulties he would bo punished unsparingly Neely he said had the confidence of the people of In diana hut went wrong bringing dls gracc and humiliation on this country rather than upon the administration Thi allowances to United tSates officers in Cuba ho said was reasonable and proper Mr Bacon of Georgia demanded to know why we did not come away from Cuba Mr Platt replied that we have a duty yet to discharge there Our"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-02-06T12:41:03.751Z",
+  "group": [
+    "ndnp/vi",
+    "library-of-virginia-richmond-va-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86071779/1900-05-24/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:00175031455:1900052401:0366/full/pct:6.25/0/default.jpg#h=433&w=303",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:00175031455:1900052401:0366/full/pct:12.5/0/default.jpg#h=867&w=606",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/vi/batch_vi_hazel_ver01/data/sn86071779/00175031455/1900052401/0366.xml&format=alto_xml"
+  ],
+  "index": 17,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "virginia",
+    "united states",
+    "norfolk"
+  ],
+  "location_city": [
+    "norfolk"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "virginia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn86071779",
+    "5",
+    "0000000006",
+    "7",
+    "4",
+    "3",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86071779"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "1",
+    "7",
+    "5",
+    "0",
+    "3",
+    "1",
+    "4",
+    "5",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86071779-1900-05-24-ed-1-0366",
+  "partof": [
+    "virginian-pilot (norfolk, va.) 1898-1911",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "virginian-pilot (norfolk, va.) 1898-1911"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86071779/1900-05-24/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86071779/1900-05-24/ed-1/"
+  ],
+  "shelf_id": "06",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "norfolk (va.)",
+    "united states",
+    "norfolk",
+    "virginia",
+    "newspapers"
+  ],
+  "timestamp": "2024-02-07T10:10:55.450Z",
+  "title": "Image 6 of Virginian-pilot (Norfolk, Va.), May 24, 1900",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86071779/1900-05-24/ed-1/?sp=6&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fvi%2Fbatch_vi_hazel_ver01%2Fdata%2Fsn86071779%2F00175031455%2F1900052401%2F0366.xml&q=cuba&relevant_snippet=1"
+}

@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83030311/1836-01-30/ed-1/?sp=1"
+  ],
+  "batch": [
+    "dlc_kudzu_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1836-01-30",
+  "dates": [
+    "1836-01-30"
+  ],
+  "description": [
+    "1 11 1 T VOLUME I PUBLISHED DAILY BT JAMES GORDON BENNETT Of lev ft 14 linmau ttrrrt between Bedrmm and Spruce ttreeti tppotile Dr Sprtnfi GkurrA iatement dmy TERMS FOR ADVERTISING 1 HUM year 30 00 I 1 square 2 weeks 3 25 S months t 01 1 week 1 75 2 months 6 60 I S days 1 M 1 south 3 00 1 insertion 0 54 Sixteen lines make square NEW YORK LIFE INSURANCETRUST 1 COMPANYPersom may effect insurances with this Company mt their awn lives or the lives of others and either for the whole duration of life or for a limited period The paymeau f premium may be either nude aanually r in a gross sum Premiums on one Hundred dollars for one year Ate I year Aft 1 year Ate 1 rear Age 1 year 14 0 72 1 i7 3 1 to 50 196 15 77 27 1 12 39 1 57 51 1 97 lb 0M 28 ISO 40 1 OT 52 2 02 W 0 86 29 1 28 41 178 53 2 10 12 0 39 30 1 31 42 1 85 54 2 18 19 90 31 132 43189"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:28:23.404Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83030311/1836-01-30/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030311:00271743105:1836013001:0110/full/pct:6.25/0/default.jpg#h=386&w=260",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030311:00271743105:1836013001:0110/full/pct:12.5/0/default.jpg#h=772&w=521",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_kudzu_ver01/data/sn83030311/00271743105/1836013001/0110.xml&format=alto_xml"
+  ],
+  "index": 32,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "new york",
+    "new york county",
+    "new york city"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "sn83030311",
+    "5",
+    "7",
+    "4",
+    "3",
+    "2",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83030311"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "1",
+    "7",
+    "4",
+    "3",
+    "1",
+    "0",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "New York herald"
+  ],
+  "page_id": "sn83030311-1836-01-30-ed-1-0110",
+  "partof": [
+    "the herald (new york [n.y.]) 1835-1837",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the herald (new york [n.y.]) 1835-1837"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83030311/1836-01-30/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83030311/1836-01-30/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "new york",
+    "new york county (n.y.)",
+    "new york (state)",
+    "newspapers",
+    "new york county",
+    "new york (n.y.)"
+  ],
+  "timestamp": "2022-10-20T22:06:09.536Z",
+  "title": "Image 1 of The herald (New York [N.Y.]), January 30, 1836",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83030311/1836-01-30/ed-1/?sp=1&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_kudzu_ver01%2Fdata%2Fsn83030311%2F00271743105%2F1836013001%2F0110.xml&q=medicine&relevant_snippet=1"
+}

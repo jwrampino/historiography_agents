@@ -1,0 +1,154 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86075189/1952-07-11/ed-1/?sp=2"
+  ],
+  "batch": [
+    "mthi_douglasfir_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/lewis and clark/",
+    "3/united states/montana/lewis and clark/helena/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1952-07-11",
+  "dates": [
+    "1952-07-11"
+  ],
+  "description": [
+    "LETTERS TO THE EDITOR just 12 days just before Japan sur Democracy is based upon the con viction that there arc extraordinary possibilities in ordinary people DR HARRY EMERSON FOSDICIC 1s Eisenhower For Peace Or War In his first speech in his home town in Kansas the General made a splendid talk in saying as little in as many words as possible He never mention ed any vital issues his telling point was that the Democratic party had been in power too long and was decay ing from internal corruption While no doubt true it could hardly be ele vated into a national issue He was more explicit and openly ad mitted that the US must be strong enough to be able to dictate to the Kremlin a military truce to suit the US Our military tactics in Korea are in full accord with that speech In a military sense we are walking a tight rope in Korea By crossing the 3Sth Parallel we induced Red China to take a hand in the socalled Police Action incidentally aiding her to become a military power second only to Russia and the United States By bombing and destroying some of the worlds"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:45:50.606Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86075189/1952-07-11/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_douglasfir_ver01:data:sn86075189:00414211021:1952071101:1245/full/pct:6.25/0/default.jpg#h=421&w=290",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_douglasfir_ver01:data:sn86075189:00414211021:1952071101:1245/full/pct:12.5/0/default.jpg#h=843&w=580",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_douglasfir_ver01/data/sn86075189/00414211021/1952071101/1245.xml&format=alto_xml"
+  ],
+  "index": 82,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "helena",
+    "united states",
+    "montana",
+    "lewis and clark"
+  ],
+  "location_city": [
+    "helena"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lewis and clark"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "sn86075189",
+    "4",
+    "0000000002",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86075189"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "2",
+    "1",
+    "1",
+    "0",
+    "2",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86075189-1952-07-11-ed-1-1245",
+  "partof": [
+    "the people's voice (helena, mont.) 1939-1969",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the people's voice (helena, mont.) 1939-1969"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86075189/1952-07-11/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86075189/1952-07-11/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "helena (mont.)",
+    "montana",
+    "history",
+    "helena",
+    "lewis and clark"
+  ],
+  "timestamp": "2023-07-05T20:55:56.020Z",
+  "title": "Image 2 of The People's voice (Helena, Mont.), July 11, 1952",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86075189/1952-07-11/ed-1/?sp=2&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_douglasfir_ver01%2Fdata%2Fsn86075189%2F00414211021%2F1952071101%2F1245.xml&q=korea&relevant_snippet=1"
+}

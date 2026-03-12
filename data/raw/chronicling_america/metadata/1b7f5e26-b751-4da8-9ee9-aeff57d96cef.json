@@ -1,0 +1,151 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82016317/1844-08-01/ed-1/?sp=4"
+  ],
+  "batch": [
+    "dlc_firedrake_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1844-08-01",
+  "dates": [
+    "1844-08-01"
+  ],
+  "description": [
+    "JAYNES CARMINATIVE BALSAM T8 a certain ttfe and effectual remedy lor Dyaen or Looseness Cholera Morbus fUMgfSfc jOaMPLjOHT Cholie CTrlping Pains Sour Stomach Sick and Nervous Headache tfearl Wacbmh Paio or Sickness of the Stomach Vomiting Spitting up of Food after Eating and also where it paues through the body unchanged Want ot AppttMa Restlessness and Inability to Sleep Wind in the Stomach and Bowels Hysterics Cramp Nervous Tremors and Twitchings Sea Sickness raintinrs Melancholy and Lowness of Spirits fret Wcryng of Infants and for all BOWEL AF FECTIQN8 and NERVOUS DISEASES This is one of the moat efficient pleasant and safe composition ever offered to the public for the cure of the various derangements of the stomach and owe and the only article worthy of the least con fidence for curing CHOLERA INFANTUM or SUMMER COMPLAINT and in all the above dis eases it really acts like a charm All persons are requested to try it for without ex ception it is one of the most valuable family medi cines ever yet discovered Hundreds nay thous ands of certificates have been received from Physi cians Clergymen and families of the first respecta bility bearing the strongest testimony in its"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:08:37.542Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82016317/1844-08-01/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844080101:0932/full/pct:6.25/0/default.jpg#h=464&w=338",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844080101:0932/full/pct:12.5/0/default.jpg#h=929&w=676",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_firedrake_ver01/data/sn82016317/00415661642/1844080101/0932.xml&format=alto_xml"
+  ],
+  "index": 148,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "district of columbia",
+    "washington d.c.",
+    "washington",
+    "united states"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0000000004",
+    "0",
+    "2",
+    "sn82016317",
+    "1",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82016317"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "6",
+    "1",
+    "6",
+    "4",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82016317-1844-08-01-ed-1-0932",
+  "partof": [
+    "the whig standard (washington, d.c.) 1843-1844",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the whig standard (washington, d.c.) 1843-1844"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82016317/1844-08-01/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82016317/1844-08-01/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)",
+    "washington",
+    "united states"
+  ],
+  "timestamp": "2022-10-20T12:26:09.071Z",
+  "title": "Image 4 of The Whig standard (Washington, D.C.), August 1, 1844",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82016317/1844-08-01/ed-1/?sp=4&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_firedrake_ver01%2Fdata%2Fsn82016317%2F00415661642%2F1844080101%2F0932.xml&q=medicine&relevant_snippet=1"
+}

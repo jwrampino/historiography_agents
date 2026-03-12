@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn93067846/1898-07-06/ed-1/?sp=1"
+  ],
+  "batch": [
+    "scu_danastjames_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/south carolina/",
+    "2/united states/south carolina/sumter/",
+    "3/united states/south carolina/sumter/sumter/"
+  ],
+  "contributor": [
+    "university of south carolina; columbia, sc"
+  ],
+  "date": "1898-07-06",
+  "dates": [
+    "1898-07-06"
+  ],
+  "description": [
+    "TU SUJSTZR WATCHMAN Jtblishud April 1850 Be Just and Fear notLet all the Ends thou Aimst at be thy Countrys thy Gods and Truths THE TRUE SOUTHRON Established june 1219 ISUMTER S C WEDNESDAY JULY 61898 New SeriesVol XYII No 48 Pualisisd SYsry felaesday BY SUMTER S C TSRX8 1 50 per annumin Advance 1DT1B T IS CHEST OnSqnare first insertion1 00 Erpry subsequent insertion 50 Gontriicts for three mon tbs or longer w il be made at rednced rates AU co m ma nica tiona which subserve private intereeti will be charge foras ad versements Obituaries a ad tributes of respecta will be charged for ADVANCE OF THE AMERICAN ARMY Tile Enemy Steadily Retires Sgh Skirmishes Between Span iards and CubansHeavy Losses Sustained by the Enemy in the Engagement of Friday Go the Rio Guama Jane 27 via Port Antonio Jamaba Jane 28 The Amencao front has been advanced beyond the first crossing of the Rio Guama about a mile and a tag lies three and half mailes from the Span i sb entrenchments General Lawtons brigade rests on the road to Santiago de Coba The Third brigade auder General Cha free the Seventeenth Twefth and Seventh regiments holds"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-24T14:38:49.979Z",
+  "group": [
+    "ndnp/scu",
+    "university-of-south-carolina-columbia-sc-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn93067846/1898-07-06/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551438:1898070601:0001/full/pct:3.125/0/default.jpg#h=333&w=212",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551438:1898070601:0001/full/pct:6.25/0/default.jpg#h=667&w=425",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/scu/batch_scu_danastjames_ver01/data/sn93067846/00294551438/1898070601/0001.xml&format=alto_xml"
+  ],
+  "index": 182,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "south carolina",
+    "sumter",
+    "sumter county",
+    "united states"
+  ],
+  "location_city": [
+    "sumter"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "sumter"
+  ],
+  "location_state": [
+    "south carolina"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "0",
+    "2",
+    "3",
+    "9",
+    "sn93067846",
+    "1",
+    "0000000001",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn93067846"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "4",
+    "5",
+    "5",
+    "1",
+    "4",
+    "3",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn93067846-1898-07-06-ed-1-0001",
+  "partof": [
+    "the watchman and southron (sumter, s.c.) 1881-1930",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the watchman and southron (sumter, s.c.) 1881-1930"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn93067846/1898-07-06/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn93067846/1898-07-06/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "sumter county",
+    "sumter county (s.c.)",
+    "south carolina",
+    "sumter",
+    "sumter (s.c.)",
+    "united states"
+  ],
+  "timestamp": "2024-02-04T07:04:21.190Z",
+  "title": "Image 1 of The watchman and southron (Sumter, S.C.), July 6, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn93067846/1898-07-06/ed-1/?sp=1&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fscu%2Fbatch_scu_danastjames_ver01%2Fdata%2Fsn93067846%2F00294551438%2F1898070601%2F0001.xml&q=spanish&relevant_snippet=1"
+}

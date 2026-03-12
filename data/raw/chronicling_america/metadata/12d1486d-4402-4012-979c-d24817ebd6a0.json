@@ -1,0 +1,166 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88063294/1944-02-07/ed-1/?sp=8"
+  ],
+  "batch": [
+    "mimtptc_holly_ver03"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/michigan/",
+    "2/united states/michigan/wayne/",
+    "3/united states/michigan/wayne/detroit/"
+  ],
+  "contributor": [
+    "central michigan university, clark historical library"
+  ],
+  "date": "1944-02-07",
+  "dates": [
+    "1944-02-07"
+  ],
+  "description": [
+    "Page 8 Monday Pb r u r y 7 1944 Service Notes Bivouac Takes Name of Marine Killed in Action Camp Tipor t C r nimr of narine lu rir H near lToutcrn vjlle in hortor of a Detroit loy he first in Jus unit kllod in ac n Ho wi r James l ip ton of 12475 Fcrpoi r 1 hoiiiMs f v I i s graduated at the Norman Okla marine air school as honor man of his t lis and as pro moted to a corporal His hiothrr pi Murrts I ssr s ntt e umy in Trinidad zll t jC wKk j Jm l ill i Ii ii HalriH Cp Frank Brown of 2527 An Kunette has tmmpirtrrt tvm yrrrrs oi Mjrvicc m Ihe South Pacifu and throe in the army He is stationed in New Guinea It Domenie Mastrippolilo of 5259 Montclair spent a leave at home after gradual mg from the Selman Field La navigator ii hool rte Joseph X Mmoiis of 4 19 7 Maplewood has been appointed an aviation cadet n the Panama Csruri Zone and will rrtum to The stains for iratning II I IKMI I M IMIhIK Sewman I r"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-16T21:40:42.005Z",
+  "group": [
+    "ndnp/mimtptc",
+    "central-michigan-university-clark-historical-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88063294/1944-02-07/ed-1/?sp=8",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_holly_ver03:data:sn88063294:00340588745:1944020701:0345/full/pct:3.125/0/default.jpg#h=291&w=224",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_holly_ver03:data:sn88063294:00340588745:1944020701:0345/full/pct:6.25/0/default.jpg#h=582&w=449",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_holly_ver03:data:sn88063294:00340588745:1944020701:0345/full/pct:12.5/0/default.jpg#h=1164&w=898",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mimtptc/batch_mimtptc_holly_ver03/data/sn88063294/00340588745/1944020701/0345.xml&format=alto_xml"
+  ],
+  "index": 37,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "detroit",
+    "michigan",
+    "united states",
+    "wayne county",
+    "wayne"
+  ],
+  "location_city": [
+    "detroit"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "wayne"
+  ],
+  "location_state": [
+    "michigan"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn88063294",
+    "0000000008",
+    "8",
+    "3",
+    "5",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88063294"
+  ],
+  "number_page": [
+    "0000000008"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "8",
+    "7",
+    "4",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Detroit times",
+    "Detroit Sunday times"
+  ],
+  "page_id": "sn88063294-1944-02-07-ed-1-0345",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "detroit evening times (detroit, mich) 1921-1958"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "detroit evening times (detroit, mich) 1921-1958"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88063294/1944-02-07/ed-1/?sp=8"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88063294/1944-02-07/ed-1/"
+  ],
+  "shelf_id": "08",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "wayne county",
+    "detroit",
+    "michigan",
+    "detroit (mich.)",
+    "united states",
+    "newspapers",
+    "wayne county (mich.)",
+    "wayne"
+  ],
+  "timestamp": "2024-01-17T12:04:18.106Z",
+  "title": "Image 8 of Detroit evening times (Detroit, Mich), February 7, 1944, (8 STAR)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88063294/1944-02-07/ed-1/?sp=8&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmimtptc%2Fbatch_mimtptc_holly_ver03%2Fdata%2Fsn88063294%2F00340588745%2F1944020701%2F0345.xml&q=terrorism&relevant_snippet=1"
+}

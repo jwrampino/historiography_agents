@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn00065127/1898-08-26/ed-1/?sp=3"
+  ],
+  "batch": [
+    "mnhi_volvo_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/south dakota/",
+    "2/united states/south dakota/lincoln/",
+    "3/united states/south dakota/lincoln/canton/"
+  ],
+  "contributor": [
+    "minnesota historical society; saint paul, mn"
+  ],
+  "date": "1898-08-26",
+  "dates": [
+    "1898-08-26"
+  ],
+  "description": [
+    "Wi 9 iih p isSpii ml SMALL NUMBER OF AMERICANS WERE KILLED W Spains Lob of Men Was Many Times What OnrS Wm and She Hu Parted in Both Armiea Few Washlngton correspondency 1 The Vicksburg and the cutter Morrill ifcengaged the Santa Clara batteries off Ha W troops behind improvised breastworks at Cienfuegos One seaman was killed and another was so badly hurt that he died later Captain Maynard and Lieut Cam eron Winslow both of the Nashville were slightly and Robert Volts of the Nashville Herman W Kuchneisted John Davis and John T Dorau of the Marble head and William Levery were seriously wounded Many other Americans receiv ed trifling wounds The Spaniards lost 800 killed and many hundred wounded Sampsons bombardment of San Juan de Porto Kico an engagement satisfac tory in its results took place the next day the Iowa Indiana New York Ter ror Amphitrite Detroit Montgomery Wampatuck and Porter joining in the at tack The enemy responded with a heavy fire killing Frank Widemark a seaman on the New York and the gunners mate bn the Amphitrite and wounding seven The ships were uninjured The Spanish governor general reported the casualties in the town"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-04T17:06:18.495Z",
+  "group": [
+    "ndnp/mnhi",
+    "minnesota-historical-society-saint-paul-mn-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn00065127/1898-08-26/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1898082601:0851/full/pct:3.125/0/default.jpg#h=261&w=185",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1898082601:0851/full/pct:6.25/0/default.jpg#h=522&w=371",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1898082601:0851/full/pct:12.5/0/default.jpg#h=1044&w=742",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mnhi/batch_mnhi_volvo_ver01/data/sn00065127/00295876529/1898082601/0851.xml&format=alto_xml"
+  ],
+  "index": 81,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "canton",
+    "lincoln county",
+    "south dakota",
+    "lincoln",
+    "united states"
+  ],
+  "location_city": [
+    "canton"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lincoln"
+  ],
+  "location_state": [
+    "south dakota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "0",
+    "2",
+    "sn00065127",
+    "0000000003",
+    "7",
+    "9",
+    "1",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn00065127"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "5",
+    "8",
+    "7",
+    "6",
+    "5",
+    "2",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn00065127-1898-08-26-ed-1-0851",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "dakota farmers' leader (canton, s.d.) 1890-19??"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "dakota farmers' leader (canton, s.d.) 1890-19??"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn00065127/1898-08-26/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn00065127/1898-08-26/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "canton",
+    "lincoln county",
+    "south dakota",
+    "lincoln county (s.d.)",
+    "canton (s.d.)",
+    "lincoln",
+    "united states"
+  ],
+  "timestamp": "2024-01-05T16:21:33.217Z",
+  "title": "Image 3 of Dakota farmers' leader (Canton, S.D.), August 26, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn00065127/1898-08-26/ed-1/?sp=3&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmnhi%2Fbatch_mnhi_volvo_ver01%2Fdata%2Fsn00065127%2F00295876529%2F1898082601%2F0851.xml&q=cuba&relevant_snippet=1"
+}

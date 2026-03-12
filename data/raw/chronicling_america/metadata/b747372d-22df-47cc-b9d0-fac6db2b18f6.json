@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1914-11-15/ed-1/?sp=59"
+  ],
+  "batch": [
+    "dlc_hooloovoo_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1914-11-15",
+  "dates": [
+    "1914-11-15"
+  ],
+  "description": [
+    "PSVVVKVVVVVVVVVVVVNJ I GEIM Umxsivvvvmm The Million Germans in Brazil a Myth No Menace to the Monroe Doctrine True Story of the Colonization Movement Where the Language and Customs of the Fatherland Remain Teutons Submerged by the Wave of Italian ImmigrationThe Question of Brazilian NationalityGermans in Chile and Other South American Countries BY CHARLES M PEPPER ERMAXT in South f America has become one of the supposed issues in the war of the naThe question is not a new one It simply has been revived both on the side of commerce and of international polThe patent fact about the whole discussion is the singular lack of informa tion as to the present German colonies in South America and especially in Brazil Nobody seems to know whether there are 1000000 Germans and persons of German descent in Brazil or 100000 The favorite figure is 1000000 This is given by those who either through ignorance or for ulterior motives want to sound an alarm cry Not long ago i former British minister to one of the South American countries issued a solemn warning through one of the solemn London dailies to the people of the United States against the peril of the supposed"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:19:29.291Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1914-11-15/ed-1/?sp=59",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hooloovoo_ver01:data:sn83045462:00280658212:1914111501:0284/full/pct:6.25/0/default.jpg#h=406&w=330",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hooloovoo_ver01:data:sn83045462:00280658212:1914111501:0284/full/pct:12.5/0/default.jpg#h=812&w=660",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_hooloovoo_ver01/data/sn83045462/00280658212/1914111501/0284.xml&format=alto_xml"
+  ],
+  "index": 38,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000059",
+    "2",
+    "sn83045462",
+    "6",
+    "8",
+    "5",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000059"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "8",
+    "2",
+    "1",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1914-11-15-ed-1-0284",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1914-11-15/ed-1/?sp=59"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1914-11-15/ed-1/"
+  ],
+  "shelf_id": "59",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2022-10-20T16:36:30.089Z",
+  "title": "Image 59 of Evening star (Washington, D.C.), November 15, 1914",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1914-11-15/ed-1/?sp=59&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_hooloovoo_ver01%2Fdata%2Fsn83045462%2F00280658212%2F1914111501%2F0284.xml&q=immigration&relevant_snippet=1"
+}

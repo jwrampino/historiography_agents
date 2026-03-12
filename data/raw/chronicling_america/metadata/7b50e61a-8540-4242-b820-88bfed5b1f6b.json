@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1932-12-14/ed-1/?sp=30"
+  ],
+  "batch": [
+    "dlc_1bernal_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1932-12-14",
+  "dates": [
+    "1932-12-14"
+  ],
+  "description": [
+    "F IN CHILD LABOR Miss Abbott Says Welfare Workers View Coming Year With Anxiety Child welfare workers throughout the eountry Jook to the coming year with \u00eenuch anxiety Miss Grace Abbott chief of the Childrens Bureau of the Labor Department said in her annual report made public today in summing Up the twentieth year oi this Federal agencys activities She asserted in discussing the effects oi the depression upon child life that it will take great effort to maintain the standards of welfare service for children which were slowly developed during the years before the depression to make sure their interests are safe guarded in the general economies which the depression has made necessary Miss Abbott and Miss Frances Per kins labor commissioner of New York State are receiving attention in politi cal fields for the office of Secretary of Labor in the Roosevelt cabinet and this report especially the comments on the reported spread of child labor during the last three years has been awaited in labor circles Although a Republican Miss Abbott la believed sure of reappointment to her office after March 4 because of her clash with some officials of the Hoover administration during the fight for"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:36:40.804Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1932-12-14/ed-1/?sp=30",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1bernal_ver01:data:sn83045462:00280600908:1932121401:0072/full/pct:6.25/0/default.jpg#h=487&w=365",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1bernal_ver01:data:sn83045462:00280600908:1932121401:0072/full/pct:12.5/0/default.jpg#h=975&w=730",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1bernal_ver01/data/sn83045462/00280600908/1932121401/0072.xml&format=alto_xml"
+  ],
+  "index": 58,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "9",
+    "0000000030",
+    "sn83045462",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000030"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "0",
+    "9",
+    "0",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1932-12-14-ed-1-0072",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1932-12-14/ed-1/?sp=30"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1932-12-14/ed-1/"
+  ],
+  "shelf_id": "30",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-24T15:44:37.048Z",
+  "title": "Image 30 of Evening star (Washington, D.C.), December 14, 1932",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1932-12-14/ed-1/?sp=30&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_1bernal_ver01%2Fdata%2Fsn83045462%2F00280600908%2F1932121401%2F0072.xml&q=child+labor&relevant_snippet=1"
+}

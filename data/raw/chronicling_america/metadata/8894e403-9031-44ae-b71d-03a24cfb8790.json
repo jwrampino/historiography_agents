@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn78003992/1960-10-21/ed-1/?sp=1"
+  ],
+  "batch": [
+    "ohi_alastor_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/summit/",
+    "3/united states/ohio/summit/akron/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1960-10-21",
+  "dates": [
+    "1960-10-21"
+  ],
+  "description": [
+    "1 So Labor May Know Mr Nixon who haa been under heavy pressure from distressed Republican rightwingers to cut loose an flenstot Kennedy finally cut loose tat Phila delphia with an intimation that the Democratic presidential nnmin lacked the courage to say the thing about civil rights in the South that he said in the North The Vice President is a resourceful man not to be under rated but this does not seem a persua sive example of the kind of bloodand guts campaign the Old Guard would like Everybody who is running for imSmi office is in favor of civil rights It isnt respectable to be against civil rights Communication is so fast and ac curate that no candidate could use seri ously different words from section to section and get away with it Senator Kennedy as a matter at toot spoke In Jackson MJas even before Ms mnm Uon and set forth Ms attitudes with ade quate courage Mr Nixon also took some jabs at Senator Lyndon Johnson who Is Ken nedys runningmate and whose Texas background creates more immediate political difficulties on civil rights than does Mr Nixons or Senator Kennedys But Johnson is the senator who"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-03-24T16:01:45.297Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn78003992/1960-10-21/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_alastor_ver02:data:sn78003992:0034058093A:1960102101:0843/full/pct:6.25/0/default.jpg#h=401&w=315",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_alastor_ver02:data:sn78003992:0034058093A:1960102101:0843/full/pct:12.5/0/default.jpg#h=802&w=630",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_alastor_ver02/data/sn78003992/0034058093A/1960102101/0843.xml&format=alto_xml"
+  ],
+  "index": 66,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ohio",
+    "united states",
+    "summit county",
+    "summit",
+    "akron"
+  ],
+  "location_city": [
+    "akron"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "summit"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "8",
+    "5",
+    "9",
+    "sn78003992",
+    "4",
+    "a",
+    "3",
+    "0",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn78003992"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "0",
+    "9",
+    "3",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn78003992-1960-10-21-ed-1-0843",
+  "partof": [
+    "serial and government publications division",
+    "summit county labor news (akron, ohio) 1923-1976",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "summit county labor news (akron, ohio) 1923-1976"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn78003992/1960-10-21/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn78003992/1960-10-21/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "ohio",
+    "akron (ohio)",
+    "summit county",
+    "united states",
+    "labor unions",
+    "summit",
+    "summit county (ohio)",
+    "newspapers",
+    "akron"
+  ],
+  "timestamp": "2025-03-24T16:47:53.137Z",
+  "title": "Image 1 of Summit County labor news (Akron, Ohio), October 21, 1960",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn78003992/1960-10-21/ed-1/?sp=1&q=civil+rights",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_alastor_ver02%2Fdata%2Fsn78003992%2F0034058093A%2F1960102101%2F0843.xml&q=civil+rights&relevant_snippet=1"
+}

@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88085733/1934-05-01/ed-1/?sp=4"
+  ],
+  "batch": [
+    "wa_ivorygull_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/washington/",
+    "2/united states/washington/king/",
+    "3/united states/washington/king/seattle/"
+  ],
+  "contributor": [
+    "washington state library; olympia, wa"
+  ],
+  "date": "1934-05-01",
+  "dates": [
+    "1934-05-01"
+  ],
+  "description": [
+    "4 Tt Weltare Is Strike Breaker OFFER RELIEF TO ANY WHO PROMISE TO RETURN TO WORK Carlsborg Wn April 24By of fering relief to workers who return to work until the lumber company can pay them he relief set up is trying to break the strike here It will cut off workers who refuse to go back to work The demands of the strike include immediate payment of all back wages a regular pay day twice a month and no diserimination against and striker or strike leader The National Lumber Workers Un fon issued a bulletin during the last week urging all workers to unite and prevent the importation of scabs to the strike field Although George Otto tred to introduce a company union he was unsuccessful and the National Lum ber Workers Union continues to lead the workers in this struggle for their pay From the Call to Action Plan Jordan March Continued from Page One parate workers investigating com mittee which will really make a workers investigation exposing any attempts upon the part of the Gov ernors committee to whitewash the Jordan case as was done on the SaccoVanzetti case Jordan Defense Day Friday Friday May 4 at"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-04-26T11:27:39.718Z",
+  "group": [
+    "ndnp/wa",
+    "washington-state-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88085733/1934-05-01/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_ivorygull_ver01:data:sn88085733:00414189945:1934050101:0790/full/pct:6.25/0/default.jpg#h=378&w=276",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_ivorygull_ver01:data:sn88085733:00414189945:1934050101:0790/full/pct:12.5/0/default.jpg#h=757&w=553",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wa/batch_wa_ivorygull_ver01/data/sn88085733/00414189945/1934050101/0790.xml&format=alto_xml"
+  ],
+  "index": 174,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "king",
+    "washington",
+    "seattle",
+    "united states"
+  ],
+  "location_city": [
+    "seattle"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "king"
+  ],
+  "location_state": [
+    "washington"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000004",
+    "9",
+    "sn88085733",
+    "8",
+    "5",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88085733"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "1",
+    "8",
+    "9",
+    "9",
+    "4",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88085733-1934-05-01-ed-1-0790",
+  "partof": [
+    "voice of action (seattle, wash.) 1933-1936",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "voice of action (seattle, wash.) 1933-1936"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88085733/1934-05-01/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88085733/1934-05-01/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "seattle (wash.)",
+    "washington (state)",
+    "king",
+    "seattle",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2024-04-27T04:08:50.806Z",
+  "title": "Image 4 of Voice of action (Seattle, Wash.), May 1, 1934",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88085733/1934-05-01/ed-1/?sp=4&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwa%2Fbatch_wa_ivorygull_ver01%2Fdata%2Fsn88085733%2F00414189945%2F1934050101%2F0790.xml&q=fascism&relevant_snippet=1"
+}

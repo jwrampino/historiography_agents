@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn92053389/1841-12-04/ed-1/?sp=2"
+  ],
+  "batch": [
+    "iune_albatross_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/illinois/",
+    "2/united states/illinois/la salle/",
+    "3/united states/illinois/la salle/lowell/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1841-12-04",
+  "dates": [
+    "1841-12-04"
+  ],
+  "description": [
+    "eoltl several times and finally eloped from New Orleans cntno 10 St Louis and con cealed herself there three months thence to Cincinnati where she narrowly escaped the snare of a colored traitor but found friends and protection thence to Oberlin and thence to Canada I have her narra tive in full It is fraught with interest which should wake up the dead ft there is an instance of triumphant virtue nay of moral sublimity shining beautifully in fe male character in the midst of oppression and a thousand seductive snares she stands foremost if her story is true and I have no reason to doubt it To witness her gratitude to her friends her unassuming modesty unfeigned humility tenderness of conscience and melting love to Uotl her preserver and deliverer and hear her express her feelings is truly overpowering A pious colored man to whom she was en gaged m marriage at New Orleans eloped from Iris master about a year ago at New York llis name is Robert Brown fie is probably now somewhere in Canada May the same kind Providence who has brought them up out of great tribulation bring them happily together in nuptial bonds I"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:15:42.216Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn92053389/1841-12-04/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn92053389:00514151179:1841120401:0153/full/pct:6.25/0/default.jpg#h=377&w=238",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn92053389:00514151179:1841120401:0153/full/pct:12.5/0/default.jpg#h=754&w=477",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_albatross_ver01/data/sn92053389/00514151179/1841120401/0153.xml&format=alto_xml"
+  ],
+  "index": 108,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "la salle",
+    "united states",
+    "illinois",
+    "lowell",
+    "la salle county"
+  ],
+  "location_city": [
+    "lowell"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "la salle"
+  ],
+  "location_state": [
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn92053389",
+    "5",
+    "9",
+    "7",
+    "4",
+    "0000000002",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn92053389"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "4",
+    "1",
+    "5",
+    "1",
+    "1",
+    "7",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn92053389-1841-12-04-ed-1-0153",
+  "partof": [
+    "serial and government publications division",
+    "genius of liberty (lowell, la salle county, ill.) 1840-1842",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "genius of liberty (lowell, la salle county, ill.) 1840-1842"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn92053389/1841-12-04/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn92053389/1841-12-04/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "la salle",
+    "la salle county (ill.)",
+    "illinois",
+    "lowell (ill.)",
+    "lowell",
+    "newspapers",
+    "la salle county",
+    "antislavery movements"
+  ],
+  "timestamp": "2025-05-21T11:11:08.182Z",
+  "title": "Image 2 of Genius of liberty (Lowell, La Salle County, Ill.), December 4, 1841",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn92053389/1841-12-04/ed-1/?sp=2&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_albatross_ver01%2Fdata%2Fsn92053389%2F00514151179%2F1841120401%2F0153.xml&q=slavery&relevant_snippet=1"
+}

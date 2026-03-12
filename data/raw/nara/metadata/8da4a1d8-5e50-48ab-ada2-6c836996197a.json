@@ -1,0 +1,1097 @@
+{
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "title": "Approved Pension File for Eliza Buffalo, Widow of Private Kee-week-oo-la-war-uckster (alias John Buffalo), North's Battalion of Pawnee Scouts, U.S. Army (WC-10291)",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "7th and Pennsylvania Avenue NW",
+          "city": "Washington",
+          "phone": "202-357-5385",
+          "address1": "National Archives Building",
+          "postalCode": "20408",
+          "name": "National Archives at Washington, DC - Textual Reference",
+          "state": "DC",
+          "fax": "202-357-5936",
+          "email": "Archives1reference@nara.gov",
+          "mailCode": "RR1"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupName": "National Archives at Washington, DC \u00a0 \u2013 Textual Reference",
+    "groupId": "RR1",
+    "groupCd": "RR1"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "localIdentifier": "WC-10291",
+  "variantControlNumbers": [
+    {
+      "note": "This is the file number assigned by the Bureau of Pensions.",
+      "number": "WC-10291",
+      "type": "Agency-Assigned Identifier"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_001.jpg",
+      "objectFileSize": 7017688,
+      "objectId": "407285757",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_002.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_002.jpg",
+      "objectFileSize": 4085485,
+      "objectId": "407285759",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_003.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_003.jpg",
+      "objectFileSize": 1726789,
+      "objectId": "407285762",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_004.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_004.jpg",
+      "objectFileSize": 2963721,
+      "objectId": "407285764",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_005.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_005.jpg",
+      "objectFileSize": 3729942,
+      "objectId": "407285766",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_006.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_006.jpg",
+      "objectFileSize": 1143491,
+      "objectId": "407285768",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_007.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_007.jpg",
+      "objectFileSize": 2506329,
+      "objectId": "407285770",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_008.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_008.jpg",
+      "objectFileSize": 4313788,
+      "objectId": "407285773",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_009.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_009.jpg",
+      "objectFileSize": 4293255,
+      "objectId": "407285774",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_010.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_010.jpg",
+      "objectFileSize": 436156,
+      "objectId": "407285775",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_011.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_011.jpg",
+      "objectFileSize": 1054769,
+      "objectId": "407285776",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_012.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_012.jpg",
+      "objectFileSize": 966843,
+      "objectId": "407285777",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_013.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_013.jpg",
+      "objectFileSize": 4164224,
+      "objectId": "407285778",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_014.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_014.jpg",
+      "objectFileSize": 3669248,
+      "objectId": "407285780",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_015.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_015.jpg",
+      "objectFileSize": 4424955,
+      "objectId": "407285782",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_016.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_016.jpg",
+      "objectFileSize": 4036492,
+      "objectId": "407285792",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_017.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_017.jpg",
+      "objectFileSize": 4072058,
+      "objectId": "407285795",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_018.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_018.jpg",
+      "objectFileSize": 3778306,
+      "objectId": "407285797",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_019.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_019.jpg",
+      "objectFileSize": 3806948,
+      "objectId": "407285799",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_020.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_020.jpg",
+      "objectFileSize": 3194990,
+      "objectId": "407285802",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_021.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_021.jpg",
+      "objectFileSize": 3124898,
+      "objectId": "407285804",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_022.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_022.jpg",
+      "objectFileSize": 2598277,
+      "objectId": "407285806",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_023.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_023.jpg",
+      "objectFileSize": 3024109,
+      "objectId": "407285808",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_024.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_024.jpg",
+      "objectFileSize": 3174988,
+      "objectId": "407285810",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_025.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_025.jpg",
+      "objectFileSize": 3273821,
+      "objectId": "407285813",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_026.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_026.jpg",
+      "objectFileSize": 2938593,
+      "objectId": "407285815",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_027.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_027.jpg",
+      "objectFileSize": 2941300,
+      "objectId": "407285816",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_028.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_028.jpg",
+      "objectFileSize": 2963917,
+      "objectId": "407285818",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_029.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_029.jpg",
+      "objectFileSize": 2842322,
+      "objectId": "407285820",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_030.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_030.jpg",
+      "objectFileSize": 2948631,
+      "objectId": "407285822",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_031.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_031.jpg",
+      "objectFileSize": 3107230,
+      "objectId": "407285824",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_032.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_032.jpg",
+      "objectFileSize": 2517845,
+      "objectId": "407285826",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_033.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_033.jpg",
+      "objectFileSize": 3154850,
+      "objectId": "407285828",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_034.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_034.jpg",
+      "objectFileSize": 2961541,
+      "objectId": "407285829",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_035.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_035.jpg",
+      "objectFileSize": 3367408,
+      "objectId": "407285831",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_036.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_036.jpg",
+      "objectFileSize": 3322868,
+      "objectId": "407285833",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_037.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_037.jpg",
+      "objectFileSize": 4041495,
+      "objectId": "407285834",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_038.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_038.jpg",
+      "objectFileSize": 4051370,
+      "objectId": "407285836",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_039.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_039.jpg",
+      "objectFileSize": 2299047,
+      "objectId": "407285837",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_040.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_040.jpg",
+      "objectFileSize": 2790889,
+      "objectId": "407285838",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_041.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_041.jpg",
+      "objectFileSize": 2667363,
+      "objectId": "407285840",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_042.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_042.jpg",
+      "objectFileSize": 2882274,
+      "objectId": "407285842",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_043.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_043.jpg",
+      "objectFileSize": 2564519,
+      "objectId": "407285844",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_044.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_044.jpg",
+      "objectFileSize": 2707830,
+      "objectId": "407285846",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_045.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_045.jpg",
+      "objectFileSize": 2456071,
+      "objectId": "407285848",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_046.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_046.jpg",
+      "objectFileSize": 393552,
+      "objectId": "407285850",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_047.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_047.jpg",
+      "objectFileSize": 3187917,
+      "objectId": "407285852",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_048.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_048.jpg",
+      "objectFileSize": 3155799,
+      "objectId": "407285854",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_049.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_049.jpg",
+      "objectFileSize": 3901541,
+      "objectId": "407285856",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_050.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_050.jpg",
+      "objectFileSize": 3414562,
+      "objectId": "407285858",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_051.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_051.jpg",
+      "objectFileSize": 2798521,
+      "objectId": "407285860",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_052.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_052.jpg",
+      "objectFileSize": 3487796,
+      "objectId": "407285861",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_053.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_053.jpg",
+      "objectFileSize": 3850904,
+      "objectId": "407285862",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_054.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_054.jpg",
+      "objectFileSize": 4776618,
+      "objectId": "407285863",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_055.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_055.jpg",
+      "objectFileSize": 1493750,
+      "objectId": "407285864",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_056.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_056.jpg",
+      "objectFileSize": 2328016,
+      "objectId": "407285865",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_057.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_057.jpg",
+      "objectFileSize": 2156733,
+      "objectId": "407285866",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_058.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_058.jpg",
+      "objectFileSize": 3468987,
+      "objectId": "407285867",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_059.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_059.jpg",
+      "objectFileSize": 3587199,
+      "objectId": "407285868",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_060.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_060.jpg",
+      "objectFileSize": 3595147,
+      "objectId": "407285869",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_061.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_061.jpg",
+      "objectFileSize": 3761921,
+      "objectId": "407285870",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_062.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_062.jpg",
+      "objectFileSize": 2953341,
+      "objectId": "407285871",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_063.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_063.jpg",
+      "objectFileSize": 2974764,
+      "objectId": "407285872",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_064.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_064.jpg",
+      "objectFileSize": 2178171,
+      "objectId": "407285873",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_065.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_065.jpg",
+      "objectFileSize": 2134354,
+      "objectId": "407285874",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_066.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_066.jpg",
+      "objectFileSize": 2543800,
+      "objectId": "407285875",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_067.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_067.jpg",
+      "objectFileSize": 2215087,
+      "objectId": "407285876",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_068.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_068.jpg",
+      "objectFileSize": 2665293,
+      "objectId": "407285877",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_069.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_069.jpg",
+      "objectFileSize": 2756931,
+      "objectId": "407285878",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_070.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_070.jpg",
+      "objectFileSize": 3587310,
+      "objectId": "407285879",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_071.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_071.jpg",
+      "objectFileSize": 1747408,
+      "objectId": "407285880",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_072.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_072.jpg",
+      "objectFileSize": 1470568,
+      "objectId": "407285881",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_073.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_073.jpg",
+      "objectFileSize": 1422059,
+      "objectId": "407285882",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_074.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_074.jpg",
+      "objectFileSize": 1640354,
+      "objectId": "407285883",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_075.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_075.jpg",
+      "objectFileSize": 1649340,
+      "objectId": "407285884",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_076.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_076.jpg",
+      "objectFileSize": 1700068,
+      "objectId": "407285885",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_077.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_077.jpg",
+      "objectFileSize": 1730300,
+      "objectId": "407285886",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_078.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_078.jpg",
+      "objectFileSize": 1609724,
+      "objectId": "407285887",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_079.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_079.jpg",
+      "objectFileSize": 1046139,
+      "objectId": "407285888",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_080.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_080.jpg",
+      "objectFileSize": 2418077,
+      "objectId": "407285889",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_081.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_081.jpg",
+      "objectFileSize": 2298758,
+      "objectId": "407285890",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_082.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_082.jpg",
+      "objectFileSize": 1178068,
+      "objectId": "407285891",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_083.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_083.jpg",
+      "objectFileSize": 2734309,
+      "objectId": "407285892",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_084.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_084.jpg",
+      "objectFileSize": 2341933,
+      "objectId": "407285893",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_085.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_085.jpg",
+      "objectFileSize": 2814090,
+      "objectId": "407285894",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_086.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_086.jpg",
+      "objectFileSize": 2861036,
+      "objectId": "407285895",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_087.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_087.jpg",
+      "objectFileSize": 2579559,
+      "objectId": "407285896",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_088.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_088.jpg",
+      "objectFileSize": 2387843,
+      "objectId": "407285897",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_089.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_089.jpg",
+      "objectFileSize": 2924909,
+      "objectId": "407285898",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_090.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_090.jpg",
+      "objectFileSize": 1054317,
+      "objectId": "407285899",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_091.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_091.jpg",
+      "objectFileSize": 759774,
+      "objectId": "407285900",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_092.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_092.jpg",
+      "objectFileSize": 2545110,
+      "objectId": "407285901",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_093.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_093.jpg",
+      "objectFileSize": 2433997,
+      "objectId": "407285902",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_094.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_094.jpg",
+      "objectFileSize": 1253915,
+      "objectId": "407285904",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_095.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_095.jpg",
+      "objectFileSize": 3017399,
+      "objectId": "407285905",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_096.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_096.jpg",
+      "objectFileSize": 3910773,
+      "objectId": "407285906",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_097.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_097.jpg",
+      "objectFileSize": 2918177,
+      "objectId": "407285908",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_098.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_098.jpg",
+      "objectFileSize": 2835431,
+      "objectId": "407285910",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_099.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_099.jpg",
+      "objectFileSize": 2739636,
+      "objectId": "407285911",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_100.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_100.jpg",
+      "objectFileSize": 3179837,
+      "objectId": "407285912",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_101.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_101.jpg",
+      "objectFileSize": 3055213,
+      "objectId": "407285913",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_102.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_102.jpg",
+      "objectFileSize": 2304863,
+      "objectId": "407285914",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_103.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_103.jpg",
+      "objectFileSize": 854959,
+      "objectId": "407285915",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_104.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_104.jpg",
+      "objectFileSize": 757134,
+      "objectId": "407285916",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_105.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_105.jpg",
+      "objectFileSize": 961951,
+      "objectId": "407285917",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_106.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_106.jpg",
+      "objectFileSize": 793765,
+      "objectId": "407285918",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_107.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_107.jpg",
+      "objectFileSize": 2496588,
+      "objectId": "407285919",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_108.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_108.jpg",
+      "objectFileSize": 2029089,
+      "objectId": "407285920",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_109.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_109.jpg",
+      "objectFileSize": 1303953,
+      "objectId": "407285921",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_110.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_110.jpg",
+      "objectFileSize": 1018549,
+      "objectId": "407285922",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_111.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_111.jpg",
+      "objectFileSize": 2479173,
+      "objectId": "407285923",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_112.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_112.jpg",
+      "objectFileSize": 3946408,
+      "objectId": "407285924",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_113.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_113.jpg",
+      "objectFileSize": 3313262,
+      "objectId": "407285925",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_114.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_114.jpg",
+      "objectFileSize": 2739756,
+      "objectId": "407285926",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_115.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_115.jpg",
+      "objectFileSize": 1263955,
+      "objectId": "407285927",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_116.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_116.jpg",
+      "objectFileSize": 840348,
+      "objectId": "407285928",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_117.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_117.jpg",
+      "objectFileSize": 1374593,
+      "objectId": "407285929",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_118.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_118.jpg",
+      "objectFileSize": 3184641,
+      "objectId": "407285930",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_119.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_119.jpg",
+      "objectFileSize": 1176400,
+      "objectId": "407285931",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_120.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_120.jpg",
+      "objectFileSize": 3997669,
+      "objectId": "407285932",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_121.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_121.jpg",
+      "objectFileSize": 4716261,
+      "objectId": "407285933",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_122.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_122.jpg",
+      "objectFileSize": 4563382,
+      "objectId": "407285934",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension_123.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension_123.jpg",
+      "objectFileSize": 4834251,
+      "objectId": "407285935",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Kee-Week-oo-la-war-Uckster_Pension.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-015/1105236/hub0020/Kee-Week-oo-la-war-Uckster_Pension/Kee-Week-oo-la-war-Uckster_Pension.pdf",
+      "objectFileSize": 45252300,
+      "objectId": "407285936",
+      "objectDescription": "Image courtesy of citizen contributor Ruth Horak",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1773,
+        "logicalDate": "1773-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 15,
+      "inclusiveEndDate": {
+        "year": 2007,
+        "logicalDate": "2007-01-01"
+      },
+      "title": "Records of the Department of Veterans Affairs",
+      "naId": 344
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1892,
+        "logicalDate": "1892-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "Department of the Interior. Bureau of Pensions. (1849 - 1930)",
+          "abolishDate": {
+            "year": 1930,
+            "logicalDate": "1930-01-01"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1849,
+            "logicalDate": "1849-01-01"
+          },
+          "naId": 10505832
+        }
+      ],
+      "inclusiveEndDate": {
+        "dateQualifier": "ca.",
+        "year": 1926,
+        "logicalDate": "1926-01-01"
+      },
+      "title": "Case Files of Indian Wars Pension Applications",
+      "naId": 1105236
+    }
+  ],
+  "naId": 407285750
+}

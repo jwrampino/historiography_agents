@@ -1,0 +1,165 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88065202/1898-06-02/ed-1/?sp=1"
+  ],
+  "batch": [
+    "mdu_goatsbeard_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/maryland/",
+    "2/united states/maryland/garrett/",
+    "3/united states/maryland/garrett/oakland/"
+  ],
+  "contributor": [
+    "university of maryland, college park, md"
+  ],
+  "date": "1898-06-02",
+  "dates": [
+    "1898-06-02"
+  ],
+  "description": [
+    "VOLUME 22 if HIK Troops Embark at Tampa for the Land Campaign Against the Spanish 6EN mm 10 BE IK COMMAND He will Proceed to Sea Convoyed by Warships WIIU FIFTEEN THOUSAND SOLDIERS Nkw York May 30The Heralds Washington correspondent says United States troops are being em barked at Tampa tonight fortlie first active land campaign against the Spanish army Naturally the officials of the War Department and high officials of the army are reticent as to the destination of this expedition and the details of the plan of campaign The weight of opinion in wellinformed circles is that it is the purpose of the adminis tration to make the capture or des truction of Admiral Cerveras fleet a certainty by a combined land and sea attack at Santiago de Cuba There are also rumors that the troops will invade Porto Rico Long cipher dispatches were sent to MajorGeneral Win R Shatter at Tampa this morning ordering him to embark with about 15000 troopsprin cipally infantry and artillery at once and proceed to sea under the convoy of naval vessels Admiral Sampson has been instructed to furnish suffi cient force to convoy the transports safely Few Volunteers Included General Shaffers"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-03-01T18:25:58.877Z",
+  "group": [
+    "ndnp/mdu",
+    "university-of-maryland-college-park-college-park-md-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88065202/1898-06-02/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588496:1898060201:0171/full/pct:3.125/0/default.jpg#h=267&w=188",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588496:1898060201:0171/full/pct:6.25/0/default.jpg#h=534&w=376",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588496:1898060201:0171/full/pct:12.5/0/default.jpg#h=1069&w=753",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mdu/batch_mdu_goatsbeard_ver01/data/sn88065202/00340588496/1898060201/0171.xml&format=alto_xml"
+  ],
+  "index": 110,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "oakland",
+    "united states",
+    "garrett",
+    "maryland",
+    "garrett county"
+  ],
+  "location_city": [
+    "oakland"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "garrett"
+  ],
+  "location_state": [
+    "maryland"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "9",
+    "sn88065202",
+    "5",
+    "4",
+    "6",
+    "1",
+    "0000000001",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88065202"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "8",
+    "4",
+    "9",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Oakland Republican"
+  ],
+  "page_id": "sn88065202-1898-06-02-ed-1-0171",
+  "partof": [
+    "chronicling america",
+    "the republican (oakland, md.) 1877-current",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the republican (oakland, md.) 1877-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88065202/1898-06-02/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88065202/1898-06-02/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "oakland",
+    "united states",
+    "garrett",
+    "newspapers",
+    "maryland",
+    "oakland (garrett county, md.)",
+    "oakland (garrett county)"
+  ],
+  "timestamp": "2023-03-07T15:59:21.287Z",
+  "title": "Image 1 of The Republican (Oakland, Md.), June 2, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88065202/1898-06-02/ed-1/?sp=1&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmdu%2Fbatch_mdu_goatsbeard_ver01%2Fdata%2Fsn88065202%2F00340588496%2F1898060201%2F0171.xml&q=spanish&relevant_snippet=1"
+}

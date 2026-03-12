@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn90061309/1903-03-05/ed-1/?sp=1"
+  ],
+  "batch": [
+    "mohi_imogen_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/missouri/",
+    "2/united states/missouri/monroe/",
+    "3/united states/missouri/monroe/monroe city/"
+  ],
+  "contributor": [
+    "state historical society of missouri; columbia, mo"
+  ],
+  "date": "1903-03-05",
+  "dates": [
+    "1903-03-05"
+  ],
+  "description": [
+    "Monroe City Democrat VOL 15 MONROE CITY MISSOURI THURSDAY MARCH 5 1903 NO 49 ABOUT THE CHURCHES Interesting News Concerning the Differ ent Denominations Rev O B Holliday of Pal myra spent Saturday In the city with friends Rev M L McReynolds was a business visitor in the city of Flowers Monday Dr Proctor of Monroe City sends 100 each year to Rev Thos Proctor his missiouary son for the support of one of the churches the latter has organized That amount is sufficient for the congregations expenses Paris Appeal The foregoing should have read David M Pructor Rev John T Proctor Warsaw Feb 28 Three of the oldest cloisters in Poland founded in 1516 1550 and i19 respectively had to be closed for want of monks There is also a great scarcity of Catho lic priests as the Russian gov ernment permits only a very few to be educated and placed the Catholie seminaries under orthodox superintendents The lecture delivered by Rev L W Read of Monroe City at the Baptist church in this place last Friday night was listened to by a very apprecia tive audience His subject was Spectacles and was a schol arly and interesting production"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T12:04:01.630Z",
+  "group": [
+    "ndnp/mohi",
+    "state-historical-society-of-missouri-columbia-mo-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn90061309/1903-03-05/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_imogen_ver01:data:sn90061309:00200292200:1903030501:0518/full/pct:6.25/0/default.jpg#h=373&w=251",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_imogen_ver01:data:sn90061309:00200292200:1903030501:0518/full/pct:12.5/0/default.jpg#h=747&w=502",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mohi/batch_mohi_imogen_ver01/data/sn90061309/00200292200/1903030501/0518.xml&format=alto_xml"
+  ],
+  "index": 132,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "missouri",
+    "united states",
+    "monroe city",
+    "monroe county",
+    "monroe"
+  ],
+  "location_city": [
+    "monroe city"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "monroe"
+  ],
+  "location_state": [
+    "missouri"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn90061309",
+    "0",
+    "9",
+    "1",
+    "2",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn90061309"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "0",
+    "2",
+    "9",
+    "2",
+    "2",
+    "0",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn90061309-1903-03-05-ed-1-0518",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "monroe city democrat (monroe city, mo.) 1888-1919"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "monroe city democrat (monroe city, mo.) 1888-1919"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn90061309/1903-03-05/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn90061309/1903-03-05/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "missouri",
+    "united states",
+    "monroe city",
+    "newspapers",
+    "monroe county (mo.)",
+    "monroe county",
+    "monroe city (mo.)",
+    "monroe"
+  ],
+  "timestamp": "2022-10-17T17:59:31.290Z",
+  "title": "Image 1 of Monroe City Democrat (Monroe City, Mo.), March 5, 1903",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn90061309/1903-03-05/ed-1/?sp=1&q=phillipines",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmohi%2Fbatch_mohi_imogen_ver01%2Fdata%2Fsn90061309%2F00200292200%2F1903030501%2F0518.xml&q=phillipines&relevant_snippet=1"
+}

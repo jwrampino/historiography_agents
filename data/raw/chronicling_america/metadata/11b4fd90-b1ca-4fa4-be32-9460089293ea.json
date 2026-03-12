@@ -1,0 +1,154 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86075189/1950-07-21/ed-1/?sp=4"
+  ],
+  "batch": [
+    "mthi_douglasfir_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/lewis and clark/",
+    "3/united states/montana/lewis and clark/helena/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1950-07-21",
+  "dates": [
+    "1950-07-21"
+  ],
+  "description": [
+    "TWENTY DAYS AT SCHOOL LESSONS OF WAR By LOWNDES MAURY Butte At the end of twenty days the American People have no enthusiasm about this war The Paid Press has done its utmost to stir us up Re porters who are caught telling the truth are forbidden to return to the Front Photographs of alleged atroc ities of Koreans toward American prisoners make us remember that photographs were faked by the Brit ish Propaganda Mill in War I of Belgian children with arms cut off etc The Asiatics think that the su preme atrocities of his story were the atom bomb explosions at Hiroshima and Nagasaki that most civilized na tions agreed not to use poison gas after War I but that the spread of poison gas is the deadly feature of the atom bomb They again tell us this is thewar to end all wars That is old stuff We are told that the North Ko reans were the aggressors We say maybe they were at first But the Americans bombed the chief city in North Korea the third day of the war There were twoway border raids across the artifical line 38 degiees for two months We are"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:45:50.033Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86075189/1950-07-21/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_douglasfir_ver01:data:sn86075189:00414211021:1950072101:0835/full/pct:6.25/0/default.jpg#h=415&w=290",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_douglasfir_ver01:data:sn86075189:00414211021:1950072101:0835/full/pct:12.5/0/default.jpg#h=831&w=581",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_douglasfir_ver01/data/sn86075189/00414211021/1950072101/0835.xml&format=alto_xml"
+  ],
+  "index": 51,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "lewis and clark",
+    "montana",
+    "helena"
+  ],
+  "location_city": [
+    "helena"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lewis and clark"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000004",
+    "sn86075189",
+    "2",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86075189"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "2",
+    "1",
+    "1",
+    "0",
+    "2",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86075189-1950-07-21-ed-1-0835",
+  "partof": [
+    "the people's voice (helena, mont.) 1939-1969",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the people's voice (helena, mont.) 1939-1969"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86075189/1950-07-21/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86075189/1950-07-21/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "history",
+    "helena (mont.)",
+    "helena",
+    "lewis and clark",
+    "united states",
+    "montana"
+  ],
+  "timestamp": "2023-07-05T20:54:52.434Z",
+  "title": "Image 4 of The People's voice (Helena, Mont.), July 21, 1950",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86075189/1950-07-21/ed-1/?sp=4&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_douglasfir_ver01%2Fdata%2Fsn86075189%2F00414211021%2F1950072101%2F0835.xml&q=korea&relevant_snippet=1"
+}

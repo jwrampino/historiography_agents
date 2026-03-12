@@ -1,0 +1,165 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85047513/1963-08-08/ed-1/?sp=7"
+  ],
+  "batch": [
+    "az_laguna_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/arizona/",
+    "2/united states/arizona/apache/",
+    "3/united states/arizona/apache/window rock/"
+  ],
+  "contributor": [
+    "arizona state library, archives and public records; phoenix, az"
+  ],
+  "date": "1963-08-08",
+  "dates": [
+    "1963-08-08"
+  ],
+  "description": [
+    "I m f WTt j iV r WBT J y V JAik i tHIBARO owned by Oran Greagor winner of the 400 yard 3 yeftr old derby at Ute Mountain Race Meet at Towao6 Colorado on Sunday July 31 1963 Similar horse blankets to be given away to winners of the final races at the Navajo Tribal Fair Racing Regulations Continued from Page 5 awarded a horse blanket donated by Navajo Shopping Center Gamerco New Mexico The winner of the 12 mile All Indian Final will be awarded a Tiorse blanket donated by Jacks Boots and Saddles Farmington New Mexico and a trophy donated by the Navajo Tribal Fair Commission The winner of the 14 mile Open Consolation race will be awarded a saddle blanket donated by Navajo Arts and Crafts Guild Window Rock Arizona The jockey with the highest standing as determined by the Racing Committee whose decision shall be final will be awarded a trophy Jruckle donated by J B Tanners El Paso Station Farmington Mail Route Gallup New Mexico GENERAL REMARKS The Racing Committee reserves the right to apply any rule which it deems necessary to insure fair and just treatment to all The judges also reserve"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-09T14:52:19.886Z",
+  "group": [
+    "ndnp/az",
+    "arizona-state-university-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85047513/1963-08-08/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_laguna_ver02:data:sn85047513:0041421809A:1963080801:0471/full/pct:6.25/0/default.jpg#h=470&w=342",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_laguna_ver02:data:sn85047513:0041421809A:1963080801:0471/full/pct:12.5/0/default.jpg#h=941&w=684",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/az/batch_az_laguna_ver02/data/sn85047513/0041421809A/1963080801/0471.xml&format=alto_xml"
+  ],
+  "index": 182,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "apache county",
+    "window rock",
+    "arizona",
+    "united states",
+    "apache"
+  ],
+  "location_city": [
+    "window rock"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "apache"
+  ],
+  "location_state": [
+    "arizona"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "4",
+    "2",
+    "1",
+    "0000000007",
+    "a",
+    "sn85047513",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85047513"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "2",
+    "1",
+    "8",
+    "0",
+    "9",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85047513-1963-08-08-ed-1-0471",
+  "partof": [
+    "chronicling america",
+    "navajo times (window rock, ariz.) 1960-1984",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "navajo times (window rock, ariz.) 1960-1984"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85047513/1963-08-08/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85047513/1963-08-08/ed-1/"
+  ],
+  "shelf_id": "07",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "apache county (ariz.)",
+    "apache county",
+    "window rock (ariz.)",
+    "arizona",
+    "window rock",
+    "united states",
+    "newspapers",
+    "apache",
+    "navajo indians",
+    "indians of north america"
+  ],
+  "subject_ethnicity": [
+    "indians of north america"
+  ],
+  "timestamp": "2024-01-10T08:01:53.535Z",
+  "title": "Image 7 of Navajo times (Window Rock, Ariz.), August 8, 1963",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85047513/1963-08-08/ed-1/?sp=7&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Faz%2Fbatch_az_laguna_ver02%2Fdata%2Fsn85047513%2F0041421809A%2F1963080801%2F0471.xml&q=computers&relevant_snippet=1"
+}

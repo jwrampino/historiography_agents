@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83030311/1836-02-16/ed-1/?sp=4"
+  ],
+  "batch": [
+    "dlc_kudzu_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1836-02-16",
+  "dates": [
+    "1836-02-16"
+  ],
+  "description": [
+    "THE HERALDSEW YORK GHOST OF MY UNCLE I had not stood at the casement many minutes when my cousins all talking in a rude noisy and indecorous manner came into the room with the will which it j aeema they had departed in search of the moment the Cestatr had expired I was a good deal shocked at the frivolity they manifested aud could not help reproving them though in a mild and gentle manner for i the littie respect they paid to the deceased u Why ye kea said one he told us to read the will amaist as soon as he died 14 Ay cried another and sae in conformity wi his command we wsut straight up the atairs and rummaged oer his atild kist till we found it Mind votir am concerns aiiilft man ami wpII min ours rejoined a third rather gruffly 30 that my well meant aduiwnitious had no better eflert than to cause te to be more disliked bv the party for 1 could per enre before this tiiat they looked on me in the light of ao unwelcome intruder Tilt will was read to which all paid the greatest attention A mute anxiety"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:28:23.404Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83030311/1836-02-16/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030311:00271743105:1836021601:0165/full/pct:6.25/0/default.jpg#h=390&w=257",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030311:00271743105:1836021601:0165/full/pct:12.5/0/default.jpg#h=780&w=514",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_kudzu_ver01/data/sn83030311/00271743105/1836021601/0165.xml&format=alto_xml"
+  ],
+  "index": 165,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "new york",
+    "new york county",
+    "new york city",
+    "united states"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0000000004",
+    "2",
+    "0",
+    "7",
+    "1",
+    "3",
+    "sn83030311",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83030311"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "1",
+    "7",
+    "4",
+    "3",
+    "1",
+    "0",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "New York herald"
+  ],
+  "page_id": "sn83030311-1836-02-16-ed-1-0165",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the herald (new york [n.y.]) 1835-1837"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the herald (new york [n.y.]) 1835-1837"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83030311/1836-02-16/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83030311/1836-02-16/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "new york (state)",
+    "new york (n.y.)",
+    "new york county",
+    "new york",
+    "new york county (n.y.)",
+    "united states"
+  ],
+  "timestamp": "2022-10-20T22:07:27.247Z",
+  "title": "Image 4 of The herald (New York [N.Y.]), February 16, 1836",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83030311/1836-02-16/ed-1/?sp=4&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_kudzu_ver01%2Fdata%2Fsn83030311%2F00271743105%2F1836021601%2F0165.xml&q=medicine&relevant_snippet=1"
+}

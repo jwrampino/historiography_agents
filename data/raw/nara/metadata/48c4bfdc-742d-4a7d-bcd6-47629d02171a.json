@@ -1,0 +1,119 @@
+{
+  "accessionNumbers": [
+    "TR-0060-2012-0091"
+  ],
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "Address by William P. Rogers, prepared for delivery before the Annual Brotherhood Dinner of the National Conference of Christians and Jews, Miami Beach, Florida, February 23, 1960",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-0470",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Electronic Records",
+          "state": "MD",
+          "fax": "301-837-3681",
+          "email": "cer@nara.gov",
+          "mailCode": "RRE"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Magnetic Media"
+          ],
+          "specificMediaType": "Magnetic Disk"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupName": "National Archives at College Park \u2013 Electronic Records",
+    "groupId": "RRD",
+    "groupCd": "RRD"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "1.1-4.3-201301.828",
+      "type": "Ref ID"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "02-23-1960.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/electronic-records/rg-060/AttGen/02-23-1960.pdf",
+      "objectFileSize": 482427,
+      "objectId": "179029467",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1790,
+        "logicalDate": "1790-01-01"
+      },
+      "distance": 3,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 60,
+      "inclusiveEndDate": {
+        "year": 2002,
+        "logicalDate": "2002-12-31"
+      },
+      "title": "General Records of the Department of Justice",
+      "naId": 389
+    },
+    {
+      "inclusiveStartDate": {
+        "month": 1,
+        "year": 1933,
+        "day": 1,
+        "logicalDate": "1933-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "Department of Justice. Office of the Attorney General. (1870 - )",
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1870,
+            "logicalDate": "1870-01-01"
+          },
+          "naId": 10476964
+        }
+      ],
+      "inclusiveEndDate": {
+        "month": 12,
+        "year": 2009,
+        "day": 31,
+        "logicalDate": "2009-12-31"
+      },
+      "title": "Attorney General Speeches",
+      "naId": 7074289
+    },
+    {
+      "distance": 1,
+      "levelOfDescription": "fileUnit",
+      "title": "Attorneys General Addresses, 1960",
+      "naId": 178985588
+    }
+  ],
+  "naId": 179029466
+}

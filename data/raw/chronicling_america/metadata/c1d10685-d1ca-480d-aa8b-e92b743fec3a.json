@@ -1,0 +1,166 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn89053706/1900-05-21/ed-1/?sp=5"
+  ],
+  "batch": [
+    "gu_graco_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/georgia/",
+    "2/united states/georgia/fulton/",
+    "3/united states/georgia/fulton/atlanta/"
+  ],
+  "contributor": [
+    "digital library of georgia, a project of galileo located at the university of georgia libraries"
+  ],
+  "date": "1900-05-21",
+  "dates": [
+    "1900-05-21"
+  ],
+  "description": [
+    "BACONS HOT TALK AS TO MAN BOLE He Calls for an Investiga tion of the Alleged Ex travagancies present REGIME SHAME I Georgia Senator Calls Upon the Country To Redeem Its Pledge of Awarding Cuba Its In dependenceMany Bills Passed By Jos Obi Waahlneton May 16 Special Senator Ttaccna speech on his Caban resolution m the star feature of todays session of the Semite The question Involved in these 1 solutions Is one of great public Interest In view of the unending story of postal crookedness In Cuba and the Georgia senator had a large audience In the gal leries who listened closely to Ids clean cut legal argument his plea for justice for the Cubans and his demand that the strong llgnt of investigation be thrown upon Culan conditions He said It sras due the people of this country to know just how affairs In tho Islands were being conducted and since the disdcsutes of the post few days had been made with respect to tho alleged misappropriation of funds in the postal Bervice the obligation upon congress to make an Investigation w doubly heavy He urged that the h nor of the country vndi uon Its I elnc"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-05-22T12:57:02.279Z",
+  "group": [
+    "ndnp/gu",
+    "digital-library-of-georgia-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn89053706/1900-05-21/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_graco_ver01:data:sn89053706:00393344568:1900052101:0101/full/pct:3.125/0/default.jpg#h=264&w=195",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_graco_ver01:data:sn89053706:00393344568:1900052101:0101/full/pct:6.25/0/default.jpg#h=529&w=391",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_graco_ver01:data:sn89053706:00393344568:1900052101:0101/full/pct:12.5/0/default.jpg#h=1058&w=782",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/gu/batch_gu_graco_ver01/data/sn89053706/00393344568/1900052101/0101.xml&format=alto_xml"
+  ],
+  "index": 172,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "atlanta",
+    "fulton county",
+    "fulton",
+    "georgia",
+    "united states"
+  ],
+  "location_city": [
+    "atlanta"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "fulton"
+  ],
+  "location_state": [
+    "georgia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "6",
+    "3",
+    "5",
+    "8",
+    "4",
+    "1",
+    "sn89053706",
+    "0000000005"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn89053706"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "9",
+    "3",
+    "3",
+    "4",
+    "4",
+    "5",
+    "6",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Weekly constitution"
+  ],
+  "page_id": "sn89053706-1900-05-21-ed-1-0101",
+  "partof": [
+    "the atlanta constitution (atlanta, ga.) 1885-19??",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the atlanta constitution (atlanta, ga.) 1885-19??"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn89053706/1900-05-21/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn89053706/1900-05-21/ed-1/"
+  ],
+  "shelf_id": "05",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "atlanta (ga.)",
+    "atlanta",
+    "fulton county",
+    "fulton county (ga.)",
+    "fulton",
+    "georgia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2024-05-22T23:33:32.558Z",
+  "title": "Image 5 of The Atlanta constitution (Atlanta, Ga.), May 21, 1900",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn89053706/1900-05-21/ed-1/?sp=5&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fgu%2Fbatch_gu_graco_ver01%2Fdata%2Fsn89053706%2F00393344568%2F1900052101%2F0101.xml&q=cuba&relevant_snippet=1"
+}

@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1921-09-07/ed-1/?sp=6"
+  ],
+  "batch": [
+    "dlc_babelfish_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1921-09-07",
+  "dates": [
+    "1921-09-07"
+  ],
+  "description": [
+    "i ETHE EVENING STAR With Sunday Morning Edition WASHINGTON D C a WEDNESDAY September 7 1921 VHBODOBE W NOTES Editor J She Evening Star Newspaper Company tl BtMneea Office 11th St and Pennsylvania Ave New York Office 150 Nassau St si galea go Office First National Bank Building Srnpeau Office 3 Regent 8t London England 5 Banning Star with the Sunday morning P la delivered by carriers within the city 11 at SP cents per month daily only 45 centa per e month Sunday only 20 centa per month Organ may be sent by mail or telephone Mala in Collection In made by camera at tha M of each month D ir by MailPayable in Advance c Maryland and Virginia i BJly and Sunday 1 yr JR40 1 mo 70o lly only 1 yr 600 1 mo 50c Hunday only 1 yr 240 1 mo 20c B All Other States Dally and Sunday1 yr 1000 1 mo 05c Dally only 1 yr 700 1 mo 0c 11 Sunday only 1 yr 300 1 mo I5c ct T Washington and the Conference What would seem to lie a deliberate ie purpose of bringing the merchants ai and realtors of the National"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:48:40.968Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1921-09-07/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_babelfish_ver01:data:sn83045462:00280656999:1921090701:0343/full/pct:6.25/0/default.jpg#h=417&w=330",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_babelfish_ver01:data:sn83045462:00280656999:1921090701:0343/full/pct:12.5/0/default.jpg#h=834&w=660",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_babelfish_ver01/data/sn83045462/00280656999/1921090701/0343.xml&format=alto_xml"
+  ],
+  "index": 132,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "5",
+    "9",
+    "0000000006",
+    "sn83045462",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "6",
+    "9",
+    "9",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1921-09-07-ed-1-0343",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1921-09-07/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1921-09-07/ed-1/"
+  ],
+  "shelf_id": "06",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-20T00:05:27.142Z",
+  "title": "Image 6 of Evening star (Washington, D.C.), September 7, 1921",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1921-09-07/ed-1/?sp=6&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_babelfish_ver01%2Fdata%2Fsn83045462%2F00280656999%2F1921090701%2F0343.xml&q=child+labor&relevant_snippet=1"
+}

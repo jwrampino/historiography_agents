@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86075096/1963-08-15/ed-1/?sp=3"
+  ],
+  "batch": [
+    "mthi_fireweed_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/cascade/",
+    "3/united states/montana/cascade/great falls/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1963-08-15",
+  "dates": [
+    "1963-08-15"
+  ],
+  "description": [
+    "Jeoan I x rjt RELEASING HYBRID alfalfa devel oped at the University of Arizona The hybrid probably the first duced is known Southwest 17 It has outyielded other varieties by 50 per cent and resists the spotted alfalfa aphid STUDYING ABILITY of some insects to produce their own antifreeze possible clue to new methods of trolling the insects University of Min nesota researchers have found that penter ants and some other woodbor ing insects contain as milch cent glycerol by weight during winter but when brought to room temperature contain no glycerol at all Some method of interfering with this antifreeze stallation might make the insects able to survive a winter ever pro experimentally as as a con car as 10 per in un SAMPLING PLANT tissue instead of soil to determine fertility needs of soil California Agricultural Experiment Station researchers have developed a method to measure the nitrate content of plant tissue and thus estimate the amount of fertility elements that should be added to the soil in which the plant is grown The researchers found that plants containing 1000 parts per mil lion of nitrate maintain optimum growth Plants containing beyond that ratio will show little response to"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:46:24.487Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86075096/1963-08-15/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_fireweed_ver01:data:sn86075096:00340581568:1963081501:0702/full/pct:6.25/0/default.jpg#h=427&w=383",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_fireweed_ver01:data:sn86075096:00340581568:1963081501:0702/full/pct:12.5/0/default.jpg#h=854&w=767",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_fireweed_ver01/data/sn86075096/00340581568/1963081501/0702.xml&format=alto_xml"
+  ],
+  "index": 179,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "great falls",
+    "montana",
+    "united states",
+    "cascade"
+  ],
+  "location_city": [
+    "great falls"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cascade"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000003",
+    "sn86075096",
+    "0",
+    "3",
+    "5",
+    "4",
+    "1",
+    "6",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86075096"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "1",
+    "5",
+    "6",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86075096-1963-08-15-ed-1-0702",
+  "partof": [
+    "montana farmer-stockman (great falls, mont.) 1947-1993",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "montana farmer-stockman (great falls, mont.) 1947-1993"
+  ],
+  "publication_frequency": [
+    "other"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86075096/1963-08-15/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86075096/1963-08-15/ed-1/"
+  ],
+  "shelf_id": "03",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "great falls",
+    "agriculture",
+    "livestock",
+    "cascade",
+    "united states",
+    "newspapers",
+    "montana",
+    "great falls (mont.)"
+  ],
+  "timestamp": "2023-07-05T23:15:40.685Z",
+  "title": "Image 3 of Montana farmer-stockman (Great Falls, Mont.), August 15, 1963",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86075096/1963-08-15/ed-1/?sp=3&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_fireweed_ver01%2Fdata%2Fsn86075096%2F00340581568%2F1963081501%2F0702.xml&q=computers&relevant_snippet=1"
+}

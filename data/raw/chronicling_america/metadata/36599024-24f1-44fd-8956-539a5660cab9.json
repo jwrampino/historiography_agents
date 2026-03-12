@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85040613/1898-07-04/ed-1/?sp=6"
+  ],
+  "batch": [
+    "whi_bobidosh_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/wisconsin/",
+    "2/united states/wisconsin/vilas/",
+    "3/united states/wisconsin/vilas/eagle river/"
+  ],
+  "contributor": [
+    "wisconsin historical society"
+  ],
+  "date": "1898-07-04",
+  "dates": [
+    "1898-07-04"
+  ],
+  "description": [
+    "r Vilas County Mews Published by Democrat Printing Co EAGLE RIVER WISCONSIN i TELEGRAMS IN BRIEYF WAR The monitor Monadnock left San Francisco for Manila Miss Helen M Gould has subscribed for 125000 of the new bonds The Massachusetts legislature pass ed a bill providing for a war loan of 1500000 Another expedition for Santiago is expected to leave Tampa in a week or ten days 7 It is officially denied in Hawaii that an attempt was recently made to assassinate CaptainGeneral Blanco F 1 Blakeley the naval apprentice who was killed by a Spanish shell on the Texas was buried at sea Premier Sagasta according to a Madrid dispatch states that the Cadiz squadron is on the way to the Philip pines The powers are said to be waiting for the fall of Santiago when they will urge peace on Spain and the United States The yacht Alfedo first to fly the Cuban flag passed out Sandy Hook with Capt Johnny OBrien the noted filibusterer in charge Iord Lansdowne the British war secretary in a London speech strong ly approved Mr Chamberlains views on the AngloAmerican alliance The government bought seven steamships for about 4000000 for use as transporta"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-22T16:18:14.716Z",
+  "group": [
+    "ndnp/whi",
+    "wisconsin-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85040613/1898-07-04/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_bobidosh_ver01:data:sn85040613:00514150941:1898070401:0546/full/pct:3.125/0/default.jpg#h=307&w=210",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_bobidosh_ver01:data:sn85040613:00514150941:1898070401:0546/full/pct:6.25/0/default.jpg#h=615&w=420",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/whi/batch_whi_bobidosh_ver01/data/sn85040613/00514150941/1898070401/0546.xml&format=alto_xml"
+  ],
+  "index": 114,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "vilas",
+    "united states",
+    "wisconsin",
+    "eagle river"
+  ],
+  "location_city": [
+    "eagle river"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "vilas"
+  ],
+  "location_state": [
+    "wisconsin"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "sn85040613",
+    "5",
+    "4",
+    "1",
+    "0000000006"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85040613"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "4",
+    "1",
+    "5",
+    "0",
+    "9",
+    "4",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85040613-1898-07-04-ed-1-0546",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "vilas county news (eagle river, vilas county, wis.) 1896-1927"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "vilas county news (eagle river, vilas county, wis.) 1896-1927"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85040613/1898-07-04/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85040613/1898-07-04/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "eagle river (wis.)",
+    "eagle river",
+    "wisconsin",
+    "united states",
+    "newspapers",
+    "vilas"
+  ],
+  "timestamp": "2023-08-22T19:16:12.561Z",
+  "title": "Image 6 of Vilas County news (Eagle River, Vilas County, Wis.), July 4, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85040613/1898-07-04/ed-1/?sp=6&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwhi%2Fbatch_whi_bobidosh_ver01%2Fdata%2Fsn85040613%2F00514150941%2F1898070401%2F0546.xml&q=manifest+destiny&relevant_snippet=1"
+}

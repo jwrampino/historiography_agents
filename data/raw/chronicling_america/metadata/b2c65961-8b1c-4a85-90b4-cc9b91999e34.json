@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83016244/1963-07-07/ed-1/?sp=18"
+  ],
+  "batch": [
+    "fu_freeport_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/florida/",
+    "2/united states/florida/monroe/",
+    "3/united states/florida/monroe/key west/"
+  ],
+  "contributor": [
+    "university of florida"
+  ],
+  "date": "1963-07-07",
+  "dates": [
+    "1963-07-07"
+  ],
+  "description": [
+    "THE KRY WMT CITIZRN tunday July 7 IN3 Page 6B Page 6B THE KIT WBST CITIZEN auiway jmy 1 nw __ Deeds Show Good Real Estate Action A giant step in the right direc tion was recorded in the real es tate maket for the first week in July as business volume rang up t 333870 Sales and transactions both were on the increase rejecting a smart gain on the first week in July last year and the same for Il Traditionally the month has been a good one in the property and estate management field with last years volume touching l 600000 The first half of this year ac cording to the records leveled off at 7863885 which can be comj pared against last years bloom ing booming 9000000 for the first six months In the county clerks office meanwhile the price of documen tary stamps has risen under a new law passed by the last session oi the state legislature The complete list of weekly war ranty deeds as filed in the office of the clerk Earl Adams is as follows with prices shown in ac cordance with the stamps on the deeds John T Haag to William"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2026-01-27T17:01:23.238Z",
+  "group": [
+    "ndnp/fu",
+    "university-of-florida-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83016244/1963-07-07/ed-1/?sp=18",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_freeport_ver01:data:sn83016244:00517170021:1963070701:0076/full/pct:3.125/0/default.jpg#h=300&w=211",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_freeport_ver01:data:sn83016244:00517170021:1963070701:0076/full/pct:6.25/0/default.jpg#h=601&w=423",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/fu/batch_fu_freeport_ver01/data/sn83016244/00517170021/1963070701/0076.xml&format=alto_xml"
+  ],
+  "index": 9,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "monroe",
+    "monroe county",
+    "key west",
+    "florida",
+    "united states"
+  ],
+  "location_city": [
+    "key west"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "monroe"
+  ],
+  "location_state": [
+    "florida"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0",
+    "2",
+    "sn83016244",
+    "7",
+    "1",
+    "0000000018"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83016244"
+  ],
+  "number_page": [
+    "0000000018"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "0",
+    "0",
+    "2",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83016244-1963-07-07-ed-1-0076",
+  "partof": [
+    "the key west citizen (key west, fla.) 1879-current",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the key west citizen (key west, fla.) 1879-current"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83016244/1963-07-07/ed-1/?sp=18"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83016244/1963-07-07/ed-1/"
+  ],
+  "shelf_id": "18",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "key west (fla.)",
+    "monroe",
+    "monroe county",
+    "monroe county (fla.)",
+    "key west",
+    "florida",
+    "united states"
+  ],
+  "timestamp": "2026-01-28T05:30:17.552Z",
+  "title": "Image 18 of The Key West citizen (Key West, Fla.), July 7, 1963",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83016244/1963-07-07/ed-1/?sp=18&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Ffu%2Fbatch_fu_freeport_ver01%2Fdata%2Fsn83016244%2F00517170021%2F1963070701%2F0076.xml&q=computers&relevant_snippet=1"
+}

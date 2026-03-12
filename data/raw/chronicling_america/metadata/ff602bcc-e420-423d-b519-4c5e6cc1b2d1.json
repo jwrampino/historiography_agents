@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1921-02-06/ed-1/?sp=3"
+  ],
+  "batch": [
+    "dlc_hooloovoo_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1921-02-06",
+  "dates": [
+    "1921-02-06"
+  ],
+  "description": [
+    "PROPOSAL TO BUY SI FOR ARCHIVES PRESSEDMSENATE Vote on Amendment Likely TomorrowRobinson Wants to Use U S Ground The proposed appropriation of 9436000 to purchase a site for a national archives building in Washing ton contained in a Senate committee amendment to the sundry civil appropriation bill will come up for action it is expected tomorrow The amendment was passed over during the consideration of the bill yesterday at the request of Senator Kobinson of Arkansas who suggested the building should be erected upon ground already owned by the government Senator Robinson made it clear that Vjk to not Annmt r t Vit r rppt inn of UC io ItUL UJ7JJUUVU vvr 1IV at fireproof building in which to house the records of the government in fact he said he was heartily in favor of It His idea is to save the government the money that would he expended for the site if possible The site proposed for the archives building is near the New National Jluseum and is the block bounded by 12th and 13th streets and B and C streets Progress Made on Kill Much progress was made in the Consideration of the sundry civil bill yesterday after"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:19:25.104Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1921-02-06/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hooloovoo_ver01:data:sn83045462:00280656884:1921020601:0347/full/pct:6.25/0/default.jpg#h=460&w=354",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hooloovoo_ver01:data:sn83045462:00280656884:1921020601:0347/full/pct:12.5/0/default.jpg#h=921&w=708",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_hooloovoo_ver01/data/sn83045462/00280656884/1921020601/0347.xml&format=alto_xml"
+  ],
+  "index": 33,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000003",
+    "2",
+    "sn83045462",
+    "8",
+    "6",
+    "5",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "6",
+    "8",
+    "8",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1921-02-06-ed-1-0347",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1921-02-06/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1921-02-06/ed-1/"
+  ],
+  "shelf_id": "03",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2022-10-20T16:31:10.552Z",
+  "title": "Image 3 of Evening star (Washington, D.C.), February 6, 1921",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1921-02-06/ed-1/?sp=3&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_hooloovoo_ver01%2Fdata%2Fsn83045462%2F00280656884%2F1921020601%2F0347.xml&q=immigration&relevant_snippet=1"
+}

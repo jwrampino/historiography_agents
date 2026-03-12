@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1950-04-18/ed-1/?sp=29"
+  ],
+  "batch": [
+    "dlc_2kandinsky_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1950-04-18",
+  "dates": [
+    "1950-04-18"
+  ],
+  "description": [
+    "Yvonne Clave i and I Farrar Dance 1 Sensations Child Labor in District WeighedbySenateGroup A Senate District subcommittee today had under study the ques tion of whether the National Capital is lagging behind most of the States in protecting its child labor The issue was debated at length yesterday before the Public Health Subcommittee of the Senate District Committee with witnesses about evenly split on the question Among issues raised was the proper ageminimum for boys de livering newspapers and for those selling papers on street comers Widely different views developed over these points The problems were taken under advisement by Senator Leahy Democrat of Rhode Island subcommittee chairman Smith Bill Pending Pending is a bill by Senator Margaret Chase Smith Repub lican of Maine to reduce the maximum work week for minors here from 48 to 40 hours This brought general support from all witnesses But the Smith bill also would raise from 10 to 12 years the minimum age of children deliver ing newspapers and from 12 to 14 years of those selling papers on the corners The bill also would ban work by boys and girls under 16 during school hours The present law permits such work"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:43:17.901Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1950-04-18/ed-1/?sp=29",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_2kandinsky_ver01:data:sn83045462:00280606297:1950041801:0498/full/pct:6.25/0/default.jpg#h=505&w=356",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_2kandinsky_ver01:data:sn83045462:00280606297:1950041801:0498/full/pct:12.5/0/default.jpg#h=1011&w=712",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_2kandinsky_ver01/data/sn83045462/00280606297/1950041801/0498.xml&format=alto_xml"
+  ],
+  "index": 200,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "0000000029",
+    "8",
+    "6",
+    "9",
+    "7",
+    "sn83045462",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000029"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "6",
+    "2",
+    "9",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1950-04-18-ed-1-0498",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1950-04-18/ed-1/?sp=29"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1950-04-18/ed-1/"
+  ],
+  "shelf_id": "29",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-25T08:40:29.334Z",
+  "title": "Image 29 of Evening star (Washington, D.C.), April 18, 1950",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1950-04-18/ed-1/?sp=29&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_2kandinsky_ver01%2Fdata%2Fsn83045462%2F00280606297%2F1950041801%2F0498.xml&q=child+labor&relevant_snippet=1"
+}

@@ -1,0 +1,153 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045830/1906-09-15/ed-1/?sp=1"
+  ],
+  "batch": [
+    "vi_capri_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/virginia/",
+    "3/united states/virginia/newport news/"
+  ],
+  "contributor": [
+    "library of virginia; richmond, va"
+  ],
+  "date": "1906-09-15",
+  "dates": [
+    "1906-09-15"
+  ],
+  "description": [
+    "THE DAILY PREM I Um only newspaper In Newport News that receives full As eolated Prets report VOL XL NO 219 SURGING CROWD DRIVES LONGWORTHS TO COVER Panic Ensues as 50000 Spec tators Bust to See Presi dents Daughter TWO WOMEN ARE BADLY CRUSHED Congressman Had to Fight Mob Sin gle Handed to Get His Wife to Place of SafetyOratorical Cere monies Postponed Until Evening on Account of Turbulent Gathering By Aajoolated Preaa COLUMBUS Sept 14With panic threatening a crowd of 50 OOO persons surging about a stand erected In the capitol grounds frnntlc to secure a glimpse of Mrs Nlcholns Longworthi the presidents daughter the oratorl cal exercises arranged for the unveil ing of a statue of William McKinley this after were suddenly postponed until tonight after the statue of the martyred president hud been hurriedly unveiled by Mrs lymgwortb The speeches of the occasion were delivered tonight In Memorial hall Women Shrieking Start Panic The crowd was so largo and cramp ed that It got beyond control und the shrieking of women and children who wore caught in the crush rapidly worked the crowd Into a frenzy Many women fainted and were car j ried out of the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-02-06T12:37:07.663Z",
+  "group": [
+    "ndnp/vi",
+    "library-of-virginia-richmond-va-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045830/1906-09-15/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_capri_ver01:data:sn83045830:00175031273:1906091501:0466/full/pct:6.25/0/default.jpg#h=412&w=301",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_capri_ver01:data:sn83045830:00175031273:1906091501:0466/full/pct:12.5/0/default.jpg#h=825&w=602",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/vi/batch_vi_capri_ver01/data/sn83045830/00175031273/1906091501/0466.xml&format=alto_xml"
+  ],
+  "index": 181,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "hampton",
+    "newport news",
+    "virginia"
+  ],
+  "location_city": [
+    "newport news"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "virginia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "1",
+    "5",
+    "2",
+    "7",
+    "0000000001",
+    "sn83045830"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045830"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "1",
+    "7",
+    "5",
+    "0",
+    "3",
+    "1",
+    "2",
+    "7",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83045830-1906-09-15-ed-1-0466",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "daily press (newport news, va.) 1896-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "daily press (newport news, va.) 1896-current"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045830/1906-09-15/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045830/1906-09-15/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "hampton (va.)",
+    "newport news (va.)",
+    "hampton",
+    "newport news",
+    "virginia"
+  ],
+  "timestamp": "2024-02-06T19:53:03.632Z",
+  "title": "Image 1 of Daily press (Newport News, Va.), September 15, 1906",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045830/1906-09-15/ed-1/?sp=1&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fvi%2Fbatch_vi_capri_ver01%2Fdata%2Fsn83045830%2F00175031273%2F1906091501%2F0466.xml&q=cuba&relevant_snippet=1"
+}

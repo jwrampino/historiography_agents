@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn96080161/1902-03-27/ed-1/?sp=3"
+  ],
+  "batch": [
+    "nbu_fairbury_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nebraska/",
+    "2/united states/nebraska/otoe/",
+    "3/united states/nebraska/otoe/nebraska city/"
+  ],
+  "contributor": [
+    "university of nebraska-lincoln libraries, lincoln, ne"
+  ],
+  "date": "1902-03-27",
+  "dates": [
+    "1902-03-27"
+  ],
+  "description": [
+    "Conservative Iu a letter to The MR WU Conservative Mr Wu EXPLAINS Ting Fang calls atten tion to the fact that in his speeches on the Chinese exclusion act he has always contended that the United States is justified in restricting immigration Mr Wu has been repeatedly edly misquoted and placed in the atti tude of favoring the unrestricted impor tation of his countrymenwithout regard to grade or condition As a matter of fact Mr Wu has always advocated the exclusion of iudigents from China or elsewhere and only contends that ar riving Chinamen should be measured by the same standard as those who arrive from other countries Should the China man fall below tk otheis hewonld be excluded under a general law forbidding alien paupers to land Bead without prejudice the following statement of Mr Wus position You observe that I agree with those who hold that this country needs re strictive immigration laws But in order to produce good results such laws should be general in their scope They should not single out any one people for exclu sion or make invidious distinction be tween nations or countries In the second place such laws should be so enforced"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:39:54.240Z",
+  "group": [
+    "ndnp/nbu",
+    "university-of-nebraska-of-nebraska-lincoln-libraries-lincoln-ne-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn96080161/1902-03-27/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn96080161:00206539227:1902032701:1404/full/pct:6.25/0/default.jpg#h=303&w=223",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn96080161:00206539227:1902032701:1404/full/pct:12.5/0/default.jpg#h=606&w=447",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nbu/batch_nbu_fairbury_ver01/data/sn96080161/00206539227/1902032701/1404.xml&format=alto_xml"
+  ],
+  "index": 59,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "nebraska city",
+    "united states",
+    "otoe",
+    "nebraska"
+  ],
+  "location_city": [
+    "nebraska city"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "otoe"
+  ],
+  "location_state": [
+    "nebraska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000003",
+    "sn96080161",
+    "9",
+    "2",
+    "6",
+    "5",
+    "3",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn96080161"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "6",
+    "5",
+    "3",
+    "9",
+    "2",
+    "2",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn96080161-1902-03-27-ed-1-1404",
+  "partof": [
+    "chronicling america",
+    "the conservative (nebraska city, neb.) 1898-1902",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the conservative (nebraska city, neb.) 1898-1902"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn96080161/1902-03-27/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn96080161/1902-03-27/ed-1/"
+  ],
+  "shelf_id": "03",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "nebraska",
+    "politics and government",
+    "nebraska city",
+    "periodicals",
+    "nebraska city (neb.)",
+    "social sciences",
+    "otoe",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2025-12-14T22:26:15.236Z",
+  "title": "Image 3 of The Conservative (Nebraska City, Neb.), March 27, 1902",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn96080161/1902-03-27/ed-1/?sp=3&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnbu%2Fbatch_nbu_fairbury_ver01%2Fdata%2Fsn96080161%2F00206539227%2F1902032701%2F1404.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

@@ -1,0 +1,152 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82016181/1935-02-01/ed-1/?sp=2"
+  ],
+  "batch": [
+    "dlc_arbus_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1935-02-01",
+  "dates": [
+    "1935-02-01"
+  ],
+  "description": [
+    "2 Foes of Child Labor Look to States in West for Support Nevada Idaho and Utah Are Expected to Follow Wyo ming in Ratifying Amendment Western states may rescue the hardpressed Child Labor Amend ment against which powerful ene mies are mobilized in 21 states Following Wyomings ratification this years first and 21st of 36 needed early favorable action is expected in Nevada whose assembly ratified by 33 to 6 in Idaho whose senate ratified 39 to 5 and in Utah where both houses had ratified only to have the resolution recalled for re consideration Other western states in which favorable action is hoped for are Indiana Kansas Nebraska New Mexico and South Dakota 15 STATES NEEDED Out of 22 nonratifying states whose legislatures are now meeting 15 must be won to the measure to put it in the Constitution A bitter fight is on in North Carolina with Gov Eringhaus leading the ratifica tion forces The governors of Rhode Island Kansas and Idaho also have urged ratification In reply to charges by certain op ponents that the amendment would permit Congress to deal with our children as creatures of the state Labor Secretary Perkins declares no uch fantastic interpretation"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-04-13T06:48:55.544Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82016181/1935-02-01/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arbus_ver02:data:sn82016181:00516996407:1935020101:0886/full/pct:6.25/0/default.jpg#h=335&w=226",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arbus_ver02:data:sn82016181:00516996407:1935020101:0886/full/pct:12.5/0/default.jpg#h=671&w=452",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_arbus_ver02/data/sn82016181/00516996407/1935020101/0886.xml&format=alto_xml"
+  ],
+  "index": 161,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "4",
+    "9",
+    "sn82016181",
+    "6",
+    "5",
+    "0000000002",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82016181"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "6",
+    "4",
+    "0",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82016181-1935-02-01-ed-1-0886",
+  "partof": [
+    "chronicling america",
+    "the washington daily news (washington, d.c.) 1921-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington daily news (washington, d.c.) 1921-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82016181/1935-02-01/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82016181/1935-02-01/ed-1/"
+  ],
+  "shelf_id": "02",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2025-04-13T09:21:44.990Z",
+  "title": "Image 2 of The Washington daily news (Washington, D.C.), February 1, 1935",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82016181/1935-02-01/ed-1/?sp=2&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_arbus_ver02%2Fdata%2Fsn82016181%2F00516996407%2F1935020101%2F0886.xml&q=child+labor&relevant_snippet=1"
+}

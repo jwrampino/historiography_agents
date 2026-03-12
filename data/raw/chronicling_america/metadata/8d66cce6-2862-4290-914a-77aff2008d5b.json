@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88085733/1935-03-08/ed-1/?sp=3"
+  ],
+  "batch": [
+    "wa_ivorygull_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/washington/",
+    "2/united states/washington/king/",
+    "3/united states/washington/king/seattle/"
+  ],
+  "contributor": [
+    "washington state library; olympia, wa"
+  ],
+  "date": "1935-03-08",
+  "dates": [
+    "1935-03-08"
+  ],
+  "description": [
+    "Friday Mareh 8 1935 D Lovelace Tells Who Plotted and Framed CS Cases By DAWN LOVELACE On the afternoon of July 27 1934 a group of men met in the office of the Citizens Emergency League They had been called to gether by M R Bacon redsquad spy and member of the law and order league who had joined that organization according to his own testimony because his and their ideas were much alike and because he wanted to make it easy for copoeralion between the police and this patriotic orgnaization These men had with them a leaflet issued by the Portland Section of the Communist Party calling on workers and workers friends to attend a public mass protest rallyto express mass in dignation against the shooting in cold blood of four longshoremen on the picket line and the brutal raids on working class headquar ters and homes Employers Tremble The marine strike had been militant and solid for months San Francisco employers felt the impact of labors fist in the gen eral strike and union after un jon in Portland ha i taken up the ery General strike in support of the longshoremen and sea men The shipowners were"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-04-26T11:27:40.248Z",
+  "group": [
+    "ndnp/wa",
+    "washington-state-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88085733/1935-03-08/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_ivorygull_ver01:data:sn88085733:00414189945:1935030801:0965/full/pct:6.25/0/default.jpg#h=407&w=311",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_ivorygull_ver01:data:sn88085733:00414189945:1935030801:0965/full/pct:12.5/0/default.jpg#h=814&w=622",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wa/batch_wa_ivorygull_ver01/data/sn88085733/00414189945/1935030801/0965.xml&format=alto_xml"
+  ],
+  "index": 7,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "king",
+    "washington",
+    "seattle",
+    "united states"
+  ],
+  "location_city": [
+    "seattle"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "king"
+  ],
+  "location_state": [
+    "washington"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000003",
+    "9",
+    "sn88085733",
+    "8",
+    "5",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88085733"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "1",
+    "8",
+    "9",
+    "9",
+    "4",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88085733-1935-03-08-ed-1-0965",
+  "partof": [
+    "voice of action (seattle, wash.) 1933-1936",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "voice of action (seattle, wash.) 1933-1936"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88085733/1935-03-08/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88085733/1935-03-08/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "seattle (wash.)",
+    "washington (state)",
+    "king",
+    "seattle",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2024-04-27T04:09:47.141Z",
+  "title": "Image 3 of Voice of action (Seattle, Wash.), March 8, 1935",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88085733/1935-03-08/ed-1/?sp=3&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwa%2Fbatch_wa_ivorygull_ver01%2Fdata%2Fsn88085733%2F00414189945%2F1935030801%2F0965.xml&q=fascism&relevant_snippet=1"
+}

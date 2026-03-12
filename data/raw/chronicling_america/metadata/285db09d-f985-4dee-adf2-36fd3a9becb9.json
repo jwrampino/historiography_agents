@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1937-08-01/ed-1/?sp=3"
+  ],
+  "batch": [
+    "dlc_1kahlo_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1937-08-01",
+  "dates": [
+    "1937-08-01"
+  ],
+  "description": [
+    "Measure as Passed Differed at Points but Was Much Like Original Bt the Associated Press Tha wagehour bill passed by the Senate yesterday differed at several points from the form in which orig inally introduced but retained the broad outlines of the original pro posal The bill originally would nave given an administrative board power to vary upward or downward wage and hour standard sot by the bill for in dustries in interstate commerce It also would have permitted fixing of fair minimum wages and a fair maximum work weekhigher than the nonoppressive level in industries where the board found collective bar gaining to be inadequate As it passed the Senate the bill con tained no power for the board to fix a fair wagehour standard It also put a top of 40 cents an hour on the nonoppressive wage which the board could establish and a floor of 40 hours on the work week it could Impose The original bill dealt with child labor by simply prohibiting trans portation of child labor goods in in terstate commerce The Senate substituted the Wheeler Johnson child labor bill which would combine the flat prohibition with a provision restraining employers of child"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:38:23.689Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1937-08-01/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1kahlo_ver01:data:sn83045462:00280601986:1937080101:0661/full/pct:6.25/0/default.jpg#h=486&w=349",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1kahlo_ver01:data:sn83045462:00280601986:1937080101:0661/full/pct:12.5/0/default.jpg#h=973&w=699",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1kahlo_ver01/data/sn83045462/00280601986/1937080101/0661.xml&format=alto_xml"
+  ],
+  "index": 28,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000003",
+    "1",
+    "8",
+    "6",
+    "9",
+    "sn83045462",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "1",
+    "9",
+    "8",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1937-08-01-ed-1-0661",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1937-08-01/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1937-08-01/ed-1/"
+  ],
+  "shelf_id": "003",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-24T20:45:18.629Z",
+  "title": "Image 3 of Evening star (Washington, D.C.), August 1, 1937",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1937-08-01/ed-1/?sp=3&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_1kahlo_ver01%2Fdata%2Fsn83045462%2F00280601986%2F1937080101%2F0661.xml&q=child+labor&relevant_snippet=1"
+}

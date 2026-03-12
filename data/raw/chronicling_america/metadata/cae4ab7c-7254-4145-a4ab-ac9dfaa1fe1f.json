@@ -1,0 +1,138 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88059762/1856-05-22/ed-1/?sp=1"
+  ],
+  "batch": [
+    "iahi_bellsprout_ver01"
+  ],
+  "campaigns": [],
+  "contributor": [
+    "state historical society of iowa"
+  ],
+  "date": "1856-05-22",
+  "dates": [
+    "1856-05-22"
+  ],
+  "description": [
+    "1 ct ftjjf JJraoiiu ouritr It rOIHIHIII KV1IT THUBSDAT AT ijWTUMWA WAPELLO CO IOWA W By J w NORKIS V e s lirrARUBLY 4 AVAWGJ JJjpM copy per year Ts J Xour copies f rfi Ten tTii twenty 4 t MAJSKS PLMROV II H WADK IPUMROYCO E A E I N A N U A I I N E ifcniiies they ilso ktep Bonnet Silks Satins ibbons Trimmings for Silk and Straw jSonnrti Legget LATE CLAY HOTEL A I I E I O W A H LEGGET Proprietor PCEOLA HOUSE BY A V I A Late of Ottumwa OC FOLA Clark Co IOA Second House from hi BottthWei orner of the Public Square no 31y 81 88091 RCS8ELL DENTISTS HAVING permanently located KSK in Ottumwa oiler heir terriees to the citizens of town and vicinity J1 work warranted Ladies waited on at their Njdenres if desired Teeth inserted from one entire net either by means of springs or linosiiheric pressure They may be found at IEUMOM HOTKL the 1st week in themouUu Feb 1 tth IS56 J srnUMPHBEYS ittii flftin A Omamrntal House Painter uUAcr n rt til 1 e ry J ttULD inform the ritien of Ottumwa ul Wapello"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-05-16T11:53:07.517Z",
+  "group": [
+    "ndnp/iahi",
+    "state-historical-society-of-iowa-state-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88059762/1856-05-22/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn88059762:00279528566:1856052201:0482/full/pct:3.125/0/default.jpg#h=289&w=217",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn88059762:00279528566:1856052201:0482/full/pct:6.25/0/default.jpg#h=578&w=435",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn88059762:00279528566:1856052201:0482/full/pct:12.5/0/default.jpg#h=1157&w=870",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iahi/batch_iahi_bellsprout_ver01/data/sn88059762/00279528566/1856052201/0482.xml&format=alto_xml"
+  ],
+  "index": 124,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "iowa",
+    "ottumwa"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "9",
+    "5",
+    "6",
+    "7",
+    "sn88059762",
+    "2",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88059762"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "2",
+    "8",
+    "5",
+    "6",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88059762-1856-05-22-ed-1-0482",
+  "partof": [
+    "demoine courier (ottumwa, iowa) 1854-1856",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "demoine courier (ottumwa, iowa) 1854-1856"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88059762/1856-05-22/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88059762/1856-05-22/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "ottumwa (iowa)",
+    "iowa",
+    "ottumwa"
+  ],
+  "timestamp": "2023-07-03T16:01:59.072Z",
+  "title": "Image 1 of Demoine courier (Ottumwa, Iowa), May 22, 1856",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88059762/1856-05-22/ed-1/?sp=1&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiahi%2Fbatch_iahi_bellsprout_ver01%2Fdata%2Fsn88059762%2F00279528566%2F1856052201%2F0482.xml&q=slavery&relevant_snippet=1"
+}

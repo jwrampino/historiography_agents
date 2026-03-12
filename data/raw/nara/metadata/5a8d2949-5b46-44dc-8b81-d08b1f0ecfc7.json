@@ -1,0 +1,150 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "useRestriction": {
+    "note": "Published materials may be subject to copyright restrictions. Researchers should contact the publisher for further information.",
+    "specificUseRestrictions": [
+      "Copyright"
+    ],
+    "status": "Restricted - Possibly"
+  },
+  "audiovisual": "False",
+  "title": "Memorandum from Robert Carr to David Niles, with Attachment",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Independence",
+          "phone": "816-268-8272",
+          "address1": "500 West U.S. Highway 24",
+          "postalCode": "64050-1798",
+          "name": "Harry S. Truman Library",
+          "state": "MO",
+          "fax": "816-268-8295",
+          "email": "truman.reference@nara.gov",
+          "mailCode": "LP-HST"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupId": "ou=NLHST,ou=groups",
+    "groupCd": "LPHST"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "productionDates": [
+    {
+      "month": 5,
+      "year": 1947,
+      "logicalDate": "1947-05-01"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "4757579-036-001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-pnwhf/601112/4757579/4757579-036-001.jpg",
+      "objectFileSize": 1234,
+      "objectId": "248318494",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4757579-036-002.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-pnwhf/601112/4757579/4757579-036-002.jpg",
+      "objectFileSize": 1234,
+      "objectId": "248318495",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4757579-036-003.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-pnwhf/601112/4757579/4757579-036-003.jpg",
+      "objectFileSize": 1234,
+      "objectId": "248318496",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4757579-036-004.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-pnwhf/601112/4757579/4757579-036-004.jpg",
+      "objectFileSize": 1234,
+      "objectId": "248318497",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "4757579-036-005.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-pnwhf/601112/4757579/4757579-036-005.jpg",
+      "objectFileSize": 1234,
+      "objectId": "248318498",
+      "objectType": "Image (JPG)"
+    }
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "HST-PNWHF",
+      "inclusiveStartDate": {
+        "year": 1945,
+        "logicalDate": "1945-01-01"
+      },
+      "distance": 3,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "year": 1953,
+        "logicalDate": "1953-12-31"
+      },
+      "title": "Philleo Nash White House Files (Truman Administration)",
+      "naId": 601103
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1945,
+        "logicalDate": "1945-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "President (1945-1953 : Truman). Office of the President. 4/1945-1/20/1953",
+          "abolishDate": {
+            "month": 1,
+            "year": 1953,
+            "day": 20,
+            "logicalDate": "1953-01-20"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 4,
+            "year": 1945,
+            "logicalDate": "1945-04-01"
+          },
+          "naId": 10467306
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1948,
+        "logicalDate": "1948-12-31"
+      },
+      "title": "President's Committee on Civil Rights Files",
+      "naId": 601112
+    },
+    {
+      "distance": 1,
+      "levelOfDescription": "fileUnit",
+      "title": "Correspondence-1947",
+      "naId": 4757579
+    }
+  ],
+  "naId": 248318493
+}

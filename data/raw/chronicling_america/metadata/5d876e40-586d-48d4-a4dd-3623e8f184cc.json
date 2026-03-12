@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86075258/1950-07-12/ed-1/?sp=10"
+  ],
+  "batch": [
+    "mthi_adderstongue_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/yellowstone/",
+    "3/united states/montana/yellowstone/laurel/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1950-07-12",
+  "dates": [
+    "1950-07-12"
+  ],
+  "description": [
+    "We Are Closed for Vacation Vannices Laurel Floral Northwestern jVaUonal Life LIFE INSURANCE u the only certain means whereby the average WORKINGMAN can provide for his old age comfort if he lives and GUARANTEE that hardship will not overtake his family if he dies t STAIGER INSURANCE SERVICE PHONE 548 LAUREL INSURANCE COMPANY OJ ARNOLD PRES MINNEAPOLIS MINN NOW I J j s tefo tytyi a j I AT Your Grocers l V TV it S JV T WESLEY A 1 t DEWART 4 f TO CONGRESS Fa id Pol Adv 3 Sy Wesley A D Ewart aEUr GEO R PIERCE p f I I I I I I I I s I I I I I IUI mm gH 89 For Representative To State Legislature 4 i \u00e0 i i li Experience has no substi tute I have served 3 terms in the Legislature and have been in business in Billings for 36 years Paid Pol Ad by George R Pierce Versatile Arizona Less than a hundred miles sep arate the cactusstudded desert of Arizonas Valley of the Sun around Phoenix from the pineclad north The difference in alti em area tude ranges upward from one mile WEEKLY NEWS"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:44:18.717Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86075258/1950-07-12/ed-1/?sp=10",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_adderstongue_ver01:data:sn86075258:00340581799:1950071201:0295/full/pct:6.25/0/default.jpg#h=448&w=338",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_adderstongue_ver01:data:sn86075258:00340581799:1950071201:0295/full/pct:12.5/0/default.jpg#h=897&w=676",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_adderstongue_ver01/data/sn86075258/00340581799/1950071201/0295.xml&format=alto_xml"
+  ],
+  "index": 63,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "laurel",
+    "yellowstone",
+    "montana"
+  ],
+  "location_city": [
+    "laurel"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "yellowstone"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn86075258",
+    "9",
+    "0000000010",
+    "8",
+    "5",
+    "3",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86075258"
+  ],
+  "number_page": [
+    "0000000010"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "1",
+    "7",
+    "9",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86075258-1950-07-12-ed-1-0295",
+  "partof": [
+    "laurel outlook (laurel, mont.) 1909-current",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "laurel outlook (laurel, mont.) 1909-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86075258/1950-07-12/ed-1/?sp=10"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86075258/1950-07-12/ed-1/"
+  ],
+  "shelf_id": "10",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "yellowstone",
+    "laurel",
+    "montana"
+  ],
+  "timestamp": "2023-07-05T13:52:00.867Z",
+  "title": "Image 10 of Laurel outlook (Laurel, Mont.), July 12, 1950",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86075258/1950-07-12/ed-1/?sp=10&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_adderstongue_ver01%2Fdata%2Fsn86075258%2F00340581799%2F1950071201%2F0295.xml&q=korea&relevant_snippet=1"
+}

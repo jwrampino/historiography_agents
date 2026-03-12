@@ -1,0 +1,172 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn96027724/1906-11-21/ed-1/?sp=4"
+  ],
+  "batch": [
+    "fu_bathouse_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/florida/",
+    "2/united states/florida/duval/",
+    "3/united states/florida/duval/jacksonville/",
+    "2/united states/florida/volusia/",
+    "3/united states/florida/volusia/de land/"
+  ],
+  "contributor": [
+    "university of florida"
+  ],
+  "date": "1906-11-21",
+  "dates": [
+    "1906-11-21"
+  ],
+  "description": [
+    "740 the middle prosperous class of North ern farmers If history teaches anything it would show that the surest immigration goes South by degrees Arguing from this the best place for Northern immigrants would seem to be in the border states on the hill lands wherfe they will gradually work further South As I view it the best policy of the South will be to teach your own people to realize the values which lie under their own feet In a way this will fill the South with anew class of immigrants leading an old hopeless condition into one of confidence and faith It is not my business to tell how this can be done for I frankly state that T do not know how There are many sections at the North where people will not realize their natural advantages and I presume that this class of people can be found everywhere but to one look ing at the situation without prejudice it seems to me more desirable to stop the leak rather than to pump in more water You are in position to pick your immigrants if you will Better be satisfied with quality than mere quanti ty By"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2026-01-27T16:57:42.656Z",
+  "group": [
+    "ndnp/fu",
+    "university-of-florida-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn96027724/1906-11-21/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_bathouse_ver01:data:sn96027724:00271761636:1906112101:0180/full/pct:3.125/0/default.jpg#h=308&w=218",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_bathouse_ver01:data:sn96027724:00271761636:1906112101:0180/full/pct:6.25/0/default.jpg#h=617&w=436",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/fu/batch_fu_bathouse_ver01/data/sn96027724/00271761636/1906112101/0180.xml&format=alto_xml"
+  ],
+  "index": 109,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "duval",
+    "de land",
+    "jacksonville",
+    "duval county",
+    "volusia county",
+    "florida",
+    "volusia",
+    "united states"
+  ],
+  "location_city": [
+    "jacksonville",
+    "de land"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "duval",
+    "volusia"
+  ],
+  "location_state": [
+    "florida"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000004",
+    "2",
+    "0",
+    "7",
+    "1",
+    "3",
+    "sn96027724",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn96027724"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "1",
+    "7",
+    "6",
+    "1",
+    "6",
+    "3",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn96027724-1906-11-21-ed-1-0180",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the florida agriculturist (deland, fla.) 1878-1911"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the florida agriculturist (deland, fla.) 1878-1911"
+  ],
+  "publication_frequency": [
+    "monthly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn96027724/1906-11-21/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn96027724/1906-11-21/ed-1/"
+  ],
+  "shelf_id": "04",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "duval",
+    "jacksonville (fla.)",
+    "de land",
+    "jacksonville",
+    "de land (fla.)",
+    "duval county",
+    "volusia county",
+    "volusia county (fla.)",
+    "florida",
+    "united states",
+    "volusia",
+    "agriculture",
+    "duval county (fla.)"
+  ],
+  "timestamp": "2026-01-27T19:08:28.547Z",
+  "title": "Image 4 of The Florida agriculturist (DeLand, Fla.), November 21, 1906",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn96027724/1906-11-21/ed-1/?sp=4&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Ffu%2Fbatch_fu_bathouse_ver01%2Fdata%2Fsn96027724%2F00271761636%2F1906112101%2F0180.xml&q=immigration&relevant_snippet=1"
+}

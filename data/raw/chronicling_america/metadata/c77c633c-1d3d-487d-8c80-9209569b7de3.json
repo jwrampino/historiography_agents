@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83007243/1954-07-30/ed-1/?sp=2"
+  ],
+  "batch": [
+    "ohi_ivy_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/franklin/",
+    "3/united states/ohio/franklin/columbus/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1954-07-30",
+  "dates": [
+    "1954-07-30"
+  ],
+  "description": [
+    "2THE CATHOLIC TIMES Friday July 30 1954 TIMES ADVERTISERS APPRECIATE YOUR PATRON AGE See the Hanna Dealer pj in Your Commu nity HANNA PAINT MFG COMPANY 1313 Windsor Ave COLOMBUS Hl 8M41 Fischer Oak and 6th Sts CA 40208 2c bend Ad 1 o O Hoi 3 Columhu IS O CARRY OUT MYER SUFFI Y BEER 4 WINE STORE 116 W Hifh Ph 23891 DELIVERY SERVICE SPEERS MERCHANI DELIVERY Phone 52rt6 6bh N bandusky Mt Vernon U Jewell Ice Cream Milk Co 9 N SanduskyMt Vernon HOMOGENIZED MILK PASTEURIZED Ice Cream Butter Cettag Chees Ree Telephone 21245 Vietnam Now Northern Extension Of Red China Radio NCWC News Service SAIGON South Vietnam Our situation is disastrous said an authoritative Vietnamese source here in speaking of the Geneva agreement on Vietnam He blamed the French government for failing to defend Vietnam a member of the French Union with enough troops and for virtually abandoning Vietnam in a diplomatic deal In Geneva France negotiated with the communist world concerning the Ute of Vietnam and informed our delegation only vaguely about what was going on he charged Our country from the 17th par allel northward now becomes just an extension of communist China he"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:21:02.649Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83007243/1954-07-30/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ivy_ver01:data:sn83007243:00340580205:1954073001:0540/full/pct:3.125/0/default.jpg#h=286&w=217",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ivy_ver01:data:sn83007243:00340580205:1954073001:0540/full/pct:6.25/0/default.jpg#h=573&w=435",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ivy_ver01:data:sn83007243:00340580205:1954073001:0540/full/pct:12.5/0/default.jpg#h=1147&w=871",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_ivy_ver01/data/sn83007243/00340580205/1954073001/0540.xml&format=alto_xml"
+  ],
+  "index": 64,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "columbus",
+    "ohio",
+    "franklin",
+    "united states"
+  ],
+  "location_city": [
+    "columbus"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "franklin"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "0000000002",
+    "0",
+    "2",
+    "sn83007243",
+    "1",
+    "3",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83007243"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "0",
+    "2",
+    "0",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83007243-1954-07-30-ed-1-0540",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the catholic times (columbus, ohio) 1951-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the catholic times (columbus, ohio) 1951-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83007243/1954-07-30/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83007243/1954-07-30/ed-1/"
+  ],
+  "shelf_id": "02",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "franklin",
+    "catholic church",
+    "columbus",
+    "ohio",
+    "columbus (ohio)",
+    "united states"
+  ],
+  "timestamp": "2023-09-05T23:46:09.204Z",
+  "title": "Image 2 of The Catholic times (Columbus, Ohio), July 30, 1954",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83007243/1954-07-30/ed-1/?sp=2&q=vietnam",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_ivy_ver01%2Fdata%2Fsn83007243%2F00340580205%2F1954073001%2F0540.xml&q=vietnam&relevant_snippet=1"
+}

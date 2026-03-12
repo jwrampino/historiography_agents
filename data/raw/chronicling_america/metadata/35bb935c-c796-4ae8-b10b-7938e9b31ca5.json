@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84026749/1924-01-03/ed-1/?sp=6"
+  ],
+  "batch": [
+    "dlc_melville_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1924-01-03",
+  "dates": [
+    "1924-01-03"
+  ],
+  "description": [
+    "6 MH UKELY HIM SNIP BOARD Coolidge Will Announce New Policy When Retired Rear Admiral Is Named 2 By GEORGE E DURNO f international New Service Y Announcement of a new Admin istration shipping policy and the of a new chairman of Kthe United States Shipping Board Will be made shortly by President Coolidge it was learned today u Leigh C Palmer of Missouri re tired rear admiraland former chief the Bureau of Navigation of the tNavy Deepartment is slated for ap as the operating head of the American merchant marine after the President withdraws from the Senate the nomination of I Edward F Farley who I thas resigned At the same time as the result of several weeks conferences with men representing the best shipping jminds in the country the President Lilians to announce a definite pro for the reorganization of the merchant marine along lines design ed to promote greater efficiency and profitable returns p High Lights in Program in High lights of the new program re expected to include 1 The divorcement of the Ship ping Board and the Emergency Fleet Corporation leaving operation of the marine directly in the fiends of the latter body and per"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-07T20:33:04.355Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84026749/1924-01-03/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_melville_ver02:data:sn84026749:00222254073:1924010301:0052/full/pct:3.125/0/default.jpg#h=319&w=258",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_melville_ver02:data:sn84026749:00222254073:1924010301:0052/full/pct:6.25/0/default.jpg#h=639&w=516",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_melville_ver02/data/sn84026749/00222254073/1924010301/0052.xml&format=alto_xml"
+  ],
+  "index": 3,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn84026749",
+    "2",
+    "5",
+    "3",
+    "4",
+    "1",
+    "0000000006",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84026749"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "2",
+    "2",
+    "2",
+    "5",
+    "4",
+    "0",
+    "7",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Washington times herald"
+  ],
+  "page_id": "sn84026749-1924-01-03-ed-1-0052",
+  "partof": [
+    "chronicling america",
+    "the washington times (washington [d.c.]) 1902-1939",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington times (washington [d.c.]) 1902-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84026749/1924-01-03/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84026749/1924-01-03/ed-1/"
+  ],
+  "shelf_id": "06",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-08-08T13:29:13.147Z",
+  "title": "Image 6 of The Washington times (Washington [D.C.]), January 3, 1924",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84026749/1924-01-03/ed-1/?sp=6&q=phillipines",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_melville_ver02%2Fdata%2Fsn84026749%2F00222254073%2F1924010301%2F0052.xml&q=phillipines&relevant_snippet=1"
+}

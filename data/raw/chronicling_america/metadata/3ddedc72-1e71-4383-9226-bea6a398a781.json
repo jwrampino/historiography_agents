@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1922-09-27/ed-1/?sp=23"
+  ],
+  "batch": [
+    "dlc_dalek_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1922-09-27",
+  "dates": [
+    "1922-09-27"
+  ],
+  "description": [
+    "N Y Curb Market Quotations furnished by the Associated Press INDUSTRIALS Pabs High Low Close 4no Acme Coal 3 2 1O0O rnie Packing 30 36 36 OOO A ma lata Lea flier 11 11 2 21 Am Light Tr 135 135 135 If6 Beth Steel w i 74i 74 74 ftoo TWh Steel pr w i 07 06 10o BritAm Tob reg 13 13 13 31 no BritAm Tob coup 13 18 18 4400 Bkln City U It 16 0 10 3ta Buddy Btids 1 V 7100 far Light 3 2 2 100 Car Light pr 7 7 Jioo c A o nr vr i lotl 1 100 1000 Columbia Emerald 77 77 77 2000 Com Solvents A 40 48 40 100 Com Solvents 45 43 1100 Cuban Bom Sugar 6 0 6 200 Denver U O 1st pr 60 56 60 500 Durant Motors 44 44 44 i 20 Gillette Saf Razor 236 254 234 300 Gimbel Bros w i 4 44 44 loo Hayes Wheel 34 34 34 700 Hoyden Chemical 1 N 200 Tnipcral Tobacco 14 14 14s 1O0 Ihigh Power Sec 13 18 1 100 Lincoln Motors A 2 soo Macv S Co v i 0"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:57:24.501Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1922-09-27/ed-1/?sp=23",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dalek_ver01:data:sn83045462:00280657189:1922092701:0369/full/pct:6.25/0/default.jpg#h=429&w=325",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dalek_ver01:data:sn83045462:00280657189:1922092701:0369/full/pct:12.5/0/default.jpg#h=858&w=650",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_dalek_ver01/data/sn83045462/00280657189/1922092701/0369.xml&format=alto_xml"
+  ],
+  "index": 186,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "district of columbia",
+    "washington d.c.",
+    "washington",
+    "united states"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "0",
+    "2",
+    "sn83045462",
+    "7",
+    "9",
+    "0000000023",
+    "1",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000023"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "7",
+    "1",
+    "8",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1922-09-27-ed-1-0369",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1922-09-27/ed-1/?sp=23"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1922-09-27/ed-1/"
+  ],
+  "shelf_id": "23",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)",
+    "washington",
+    "united states"
+  ],
+  "timestamp": "2022-10-20T04:37:45.785Z",
+  "title": "Image 23 of Evening star (Washington, D.C.), September 27, 1922",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1922-09-27/ed-1/?sp=23&q=oil",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_dalek_ver01%2Fdata%2Fsn83045462%2F00280657189%2F1922092701%2F0369.xml&q=oil&relevant_snippet=1"
+}

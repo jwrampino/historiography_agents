@@ -1,0 +1,166 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83030214/1912-01-07/ed-1/?sp=19"
+  ],
+  "batch": [
+    "dlc_keady_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1912-01-07",
+  "dates": [
+    "1912-01-07"
+  ],
+  "description": [
+    "Thirty States Now SayThou Shalt Not Rob a Child of His Childhood Owen R Lovejoy General Secretary of the National Child Labor Committee Tells How Seven Years of Work by That Body Has Lessened Bur dens Borne by Thousands of Little Ones TV T nothing interesting ever hap V pened t me1 Tims Owen P Lovejoy the man who left a church pulpit to get Into tl e ministry s be expressed it dismissed himself from consideration Me saw nothing dramatic In exchanging a comfortable city parsonage for the siuaiii furioundings of a grimy mining town That the lessons so learned bad been im pressed upon legislatures and wrought into las seemed to him the thing of moment No one s Interested in me My per sonallty Is of no fnsequence Ita my work that Is Important With that he waved side Impatiently his Interviewers Ini 11 himself and these bables No mill work now during school days for children under fourteen There was a tiny curly haired girl in a group of Cleveland hosiery workers who should be playing with her dolls or doing kindergarten lessons I raveli and picks up was her sole excuse for existence Now Ohio"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-12-09T13:44:52.621Z",
+  "group": [
+    "ndnp/dlc-2009_2010",
+    "library-of-congress-washington-dc-awardee-3"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83030214/1912-01-07/ed-1/?sp=19",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_keady_ver01:data:sn83030214:00206531496:1912010701:0111/full/pct:3.125/0/default.jpg#h=302&w=204",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_keady_ver01:data:sn83030214:00206531496:1912010701:0111/full/pct:6.25/0/default.jpg#h=605&w=409",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_keady_ver01/data/sn83030214/00206531496/1912010701/0111.xml&format=alto_xml"
+  ],
+  "index": 173,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "new york",
+    "united states",
+    "new york county",
+    "new york city"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn83030214",
+    "9",
+    "2",
+    "6",
+    "5",
+    "3",
+    "0000000019",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83030214"
+  ],
+  "number_page": [
+    "0000000019"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "6",
+    "5",
+    "3",
+    "1",
+    "4",
+    "9",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Due to strike, published jointly with other newspapers as: Combined New York morning newspapers",
+    "Combined New York Sunday newspapers",
+    "New-York daily tribune"
+  ],
+  "page_id": "sn83030214-1912-01-07-ed-1-0111",
+  "partof": [
+    "new-york tribune (new york [n.y.]) 1866-1924",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "new-york tribune (new york [n.y.]) 1866-1924"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83030214/1912-01-07/ed-1/?sp=19"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83030214/1912-01-07/ed-1/"
+  ],
+  "shelf_id": "19",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "new york",
+    "new york (state)",
+    "united states",
+    "https://id.oclc.org/worldcat/entity/e39pbjpj8ktvrv6gp6v6tp7pwc",
+    "https://id.oclc.org/worldcat/entity/e39qbtfrvqh7864jh4rdgbfdwc",
+    "new york county",
+    "new york county (n.y.)",
+    "newspapers",
+    "new york (n.y.)"
+  ],
+  "timestamp": "2024-12-10T11:31:44.168Z",
+  "title": "Image 19 of New-York tribune (New York [N.Y.]), January 7, 1912",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83030214/1912-01-07/ed-1/?sp=19&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_keady_ver01%2Fdata%2Fsn83030214%2F00206531496%2F1912010701%2F0111.xml&q=child+labor&relevant_snippet=1"
+}

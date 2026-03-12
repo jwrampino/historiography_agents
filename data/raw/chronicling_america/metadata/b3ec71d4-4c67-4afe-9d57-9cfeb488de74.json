@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn99061556/1914-05-19/ed-1/?sp=12"
+  ],
+  "batch": [
+    "ncu_grandfather_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/north carolina/",
+    "2/united states/north carolina/wake/",
+    "3/united states/north carolina/wake/raleigh/"
+  ],
+  "contributor": [
+    "university of north carolina at chapel hill library, chapel hill, nc"
+  ],
+  "date": "1914-05-19",
+  "dates": [
+    "1914-05-19"
+  ],
+  "description": [
+    "12 THE FARMER AND MECHANIC THE HE RITA GE OF THE GREAT WAR Memorial Address at Greenville X C by J W Bailey We are now within one year of half a century since the surrender at Ap pomattox The Koneration that fought out the great war recognized every where as one of the greatest in human history has all but passed and a new generation has entered upon the stage At this season everywhere throughout our Southern country that generation is observing in proud and reverent spirit a day in memory of the brave men who paid in the Confeder ate cause the last full measure of de votion Universal testimony confirms the witness of our hearts that the years have not served to diminish the esti mate of the greatness of that war nor the gloryof the soldiers who so heroically fought it through Rather as we draw away from the scenes of battle that greatness grows and that glory increases We begin to realize that right amongst us blood of our blood there had dwelt a generation of warriors second to none in human annals and that Just prior to us was transacted one of the most"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-12T17:35:10.377Z",
+  "group": [
+    "ndnp/ncu",
+    "university-of-north-carolina-chapel-hill-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn99061556/1914-05-19/ed-1/?sp=12",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn99061556:00415667516:1914051901:0288/full/pct:3.125/0/default.jpg#h=262&w=180",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn99061556:00415667516:1914051901:0288/full/pct:6.25/0/default.jpg#h=524&w=361",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn99061556:00415667516:1914051901:0288/full/pct:12.5/0/default.jpg#h=1049&w=723",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ncu/batch_ncu_grandfather_ver01/data/sn99061556/00415667516/1914051901/0288.xml&format=alto_xml"
+  ],
+  "index": 186,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "north carolina",
+    "wake county",
+    "raleigh",
+    "wake",
+    "united states"
+  ],
+  "location_city": [
+    "raleigh"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "wake"
+  ],
+  "location_state": [
+    "north carolina"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0",
+    "7",
+    "sn99061556",
+    "1",
+    "0000000012",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn99061556"
+  ],
+  "number_page": [
+    "0000000012"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "6",
+    "7",
+    "5",
+    "1",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn99061556-1914-05-19-ed-1-0288",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the farmer and mechanic (raleigh, n.c.) 18??-19??"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the farmer and mechanic (raleigh, n.c.) 18??-19??"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn99061556/1914-05-19/ed-1/?sp=12"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn99061556/1914-05-19/ed-1/"
+  ],
+  "shelf_id": "12",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "wake county (n.c.)",
+    "north carolina",
+    "raleigh (n.c.)",
+    "wake county",
+    "raleigh",
+    "wake",
+    "united states"
+  ],
+  "timestamp": "2023-08-13T04:45:53.123Z",
+  "title": "Image 12 of The farmer and mechanic (Raleigh, N.C.), May 19, 1914",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn99061556/1914-05-19/ed-1/?sp=12&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fncu%2Fbatch_ncu_grandfather_ver01%2Fdata%2Fsn99061556%2F00415667516%2F1914051901%2F0288.xml&q=great+war&relevant_snippet=1"
+}

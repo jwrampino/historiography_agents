@@ -1,0 +1,131 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16084/?sp=4"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1805-08-13",
+  "dates": [
+    "1805-08-13"
+  ],
+  "description": [
+    "eed ne pen eat ac me a BO a a ee er SS ea EXTEMPORE LINES tate TO THE MEMORY or W H JERVIS Esq Captain of His Majeflys Ship Tannant Who was unfortunately drowned at Sea while palf ing in his boat to the Commanderin Chiefs thip with intelligence refpe\u00e9ting the enemys Squa dron January 25 18058 Cut off from Glarys race Whlch never morial was more fond to run While patriot zeal his bofom warms Each fenfe of fear the Hero braves Views unappalld the wintry ftorms And dauntlefs rides the billowy waves Yet oft alas Wo greatly dares Solicits an untimely doom And wayward the Fate the coward pares To give the drave max to the tomb Such the lamented fcene of late The Mufe reluctant mournd to tell While every feaman wept his fate As pity fighd how Jervis fell farvis a name to Britons dear and oh could worth could comrage fave Cutoff in glorys mid career Me had not meta watry grave Yet ocean on whofe ftormy bed The gallant pirit found repofe The glories of his xame hall pread Far as his liquid empire flows But wo alas thy tragic end A Siffers"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16084/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16084:0004/full/pct:6.25/0/default.jpg#h=486&w=330",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16084:0004/full/pct:12.5/0/default.jpg#h=973&w=661",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16084:0004/full/pct:25.0/0/default.jpg#h=1947&w=1322",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16084:0004/full/pct:50.0/0/default.jpg#h=3894&w=2645",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16084:0004/full/pct:100.0/0/default.jpg#h=7788&w=5291",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16084/0004.alto.xml&format=alto_xml"
+  ],
+  "index": 82,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "india",
+    "calcutta"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "sn88063570",
+    "0000000004",
+    "sn88063571",
+    "sn88063569",
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16084-0004-alto",
+  "partof": [
+    "asian division",
+    "general collections",
+    "world newspapers",
+    "catalog",
+    "south asian digital collection",
+    "serial and government publications division",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "world digital library"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16084/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16084/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "india",
+    "calcutta"
+  ],
+  "timestamp": "2025-12-12T07:19:59.012Z",
+  "title": "Image 4 of Volume 11, Number 552, Tuesday, August 13, 1805 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16084/?sp=4&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16084%2F0004.alto.xml&q=great+war&relevant_snippet=1"
+}

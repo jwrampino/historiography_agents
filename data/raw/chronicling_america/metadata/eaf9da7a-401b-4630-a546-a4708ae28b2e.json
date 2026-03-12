@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1914-03-17/ed-1/?sp=4"
+  ],
+  "batch": [
+    "dlc_quarren_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1914-03-17",
+  "dates": [
+    "1914-03-17"
+  ],
+  "description": [
+    "BRANCH LIBRARY NEEDS FUND FOR MAINTENANCE Takoma Park Citizens Protest Re fusal of Congress to Make Appropriation Librarian Bowerman Explains Why Facilities Are LimitedOther Business Before Association Emphatic protest against the action rf Congress in failing to make ade quate appropriation for the proper main tenance of Takoma Park branch of the Washington Public Ilbrary was voiced last night at a meeting of the Takoma Park Citizens Association held In the library building The adoption of a reso ition of protest followed a discussion of the report of the committee appointed at the last meeting to arrange if possible for the opening of the Takoma branch every evening instead of three evenings a week as at present Homer Skeels and F I Lewton rep resenting the association cooperated with a committee from the Home Inter est Club of Takoma Park composed of Mrs Skeeis and Mrs B T Galloway in conference with Dr George F Bower nan librarian several days ago In the absence of Mr Lewton Mr Skeels re i or ted the result of the conference At the conclusion of his remarks Sec retary F B IJnton read a letter re ceived by President D N Shoemaker rom"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:42:44.639Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1914-03-17/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_quarren_ver01:data:sn83045462:00280658881:1914031701:0705/full/pct:6.25/0/default.jpg#h=406&w=331",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_quarren_ver01:data:sn83045462:00280658881:1914031701:0705/full/pct:12.5/0/default.jpg#h=812&w=663",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_quarren_ver01/data/sn83045462/00280658881/1914031701/0705.xml&format=alto_xml"
+  ],
+  "index": 95,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "5",
+    "0000000004",
+    "sn83045462",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "8",
+    "8",
+    "8",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1914-03-17-ed-1-0705",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1914-03-17/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1914-03-17/ed-1/"
+  ],
+  "shelf_id": "04",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-21T08:50:21.444Z",
+  "title": "Image 4 of Evening star (Washington, D.C.), March 17, 1914",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1914-03-17/ed-1/?sp=4&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_quarren_ver01%2Fdata%2Fsn83045462%2F00280658881%2F1914031701%2F0705.xml&q=child+labor&relevant_snippet=1"
+}

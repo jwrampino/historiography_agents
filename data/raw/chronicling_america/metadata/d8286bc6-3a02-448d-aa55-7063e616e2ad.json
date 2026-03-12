@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88085733/1934-10-12/ed-1/?sp=1"
+  ],
+  "batch": [
+    "wa_ivorygull_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/washington/",
+    "2/united states/washington/king/",
+    "3/united states/washington/king/seattle/"
+  ],
+  "contributor": [
+    "washington state library; olympia, wa"
+  ],
+  "date": "1934-10-12",
+  "dates": [
+    "1934-10-12"
+  ],
+  "description": [
+    "Seattle AFL Convention Delegate Scores Beck Gangsterism Read This Issue for Oregon Election News VOLUME 2 OFFICER REPORTS ANTIWAR MOVE IN ARMY The FRONT BY LINE ALAN MAX Continental Committee on Technocracy Howard Scott Technoeracy is openly fascist But what about the Continental Committee on Technoeracy A couple of weeks ago in this column we pointed out how the Continental Commit tee on Technocracy attempts to dope the workers with false dreams and in this way weak ens the fighting power of the masses against faseism But lets take a closer look at the organization itself Is the Continental Commit tee on Technocracy a working class organization Of course it is many will answer Look at all the work ers in it But as far as the organiza tion is concerned there is no working class One of the first rules made by the higher com mittees was that absolutely no thing was to be discussed at the clubs except echnocracy A number of the clubs got around this ruling by alternat ing regular meetings with op en forums The purpose of the ruling is to keep the membership out of the working class struggle against the system which Tech"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-04-26T11:27:40.248Z",
+  "group": [
+    "ndnp/wa",
+    "washington-state-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88085733/1934-10-12/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_ivorygull_ver01:data:sn88085733:00414189945:1934101201:0879/full/pct:6.25/0/default.jpg#h=410&w=309",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_ivorygull_ver01:data:sn88085733:00414189945:1934101201:0879/full/pct:12.5/0/default.jpg#h=821&w=618",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wa/batch_wa_ivorygull_ver01/data/sn88085733/00414189945/1934101201/0879.xml&format=alto_xml"
+  ],
+  "index": 24,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "king",
+    "washington",
+    "seattle",
+    "united states"
+  ],
+  "location_city": [
+    "seattle"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "king"
+  ],
+  "location_state": [
+    "washington"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "0000000001",
+    "sn88085733",
+    "8",
+    "5",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88085733"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "1",
+    "8",
+    "9",
+    "9",
+    "4",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88085733-1934-10-12-ed-1-0879",
+  "partof": [
+    "voice of action (seattle, wash.) 1933-1936",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "voice of action (seattle, wash.) 1933-1936"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88085733/1934-10-12/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88085733/1934-10-12/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "seattle (wash.)",
+    "washington (state)",
+    "king",
+    "seattle",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2024-04-27T04:09:31.736Z",
+  "title": "Image 1 of Voice of action (Seattle, Wash.), October 12, 1934",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88085733/1934-10-12/ed-1/?sp=1&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwa%2Fbatch_wa_ivorygull_ver01%2Fdata%2Fsn88085733%2F00414189945%2F1934101201%2F0879.xml&q=fascism&relevant_snippet=1"
+}

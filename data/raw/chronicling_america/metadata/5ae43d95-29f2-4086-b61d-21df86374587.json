@@ -1,0 +1,151 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85038615/1905-07-02/ed-1/?sp=9"
+  ],
+  "batch": [
+    "vi_berea_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/virginia/",
+    "3/united states/virginia/richmond/"
+  ],
+  "contributor": [
+    "library of virginia; richmond, va"
+  ],
+  "date": "1905-07-02",
+  "dates": [
+    "1905-07-02"
+  ],
+  "description": [
+    "wwww wwwwwywwvwW0WW9999ggg A GREAT FORCE SALE IIWIMM This Entire Sale Will Be a Story of IVI oneySaving Chances SWEEPING REDUCTIONS HAVE BEEN MADE IN EVERY DEPARTMENT JULIUS SYCLE SONS The rarest prices ever quoted So you may feel that you are entering a period of moneysav ing gains such prices ever been known before 39c WindowShade Fixtures 2IC 25c Childrens Corset Waist sal price ioc American Lady Thompsons C B all the popular brands cor sets all shapes to fit any figure Sale price 89c 1200 and 1500 Black Silk Jackets eton effect continued sale price 700 200 and 250 Summer Shawls white with pink white with blue blue and white pink white semi circular also square Sale price 39 50c Bleach Peppel Jeans Draw crs Sycle seats full legs slightly spiled Sale price ige Ih a word this will be revelation to you Words cannot portray it imagination cannot pic ture it Reality will excel both in the magnitude and splendor of this marvelous event Mens and Boys Percale Shirts 39c kind Sale price 17c ioo and 125 Brussells Carpets Sale price 79c 10c Corset Splits 3c 5c Calicoes 2 i2c 15c Ladies Black Drdpstitched or Plain Hose 7c"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-02-06T12:36:43.630Z",
+  "group": [
+    "ndnp/vi",
+    "library-of-virginia-richmond-va-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85038615/1905-07-02/ed-1/?sp=9",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_berea_ver01:data:sn85038615:00175045867:1905070201:0015/full/pct:6.25/0/default.jpg#h=453&w=346",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_berea_ver01:data:sn85038615:00175045867:1905070201:0015/full/pct:12.5/0/default.jpg#h=907&w=693",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/vi/batch_vi_berea_ver01/data/sn85038615/00175045867/1905070201/0015.xml&format=alto_xml"
+  ],
+  "index": 31,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "virginia",
+    "united states",
+    "richmond"
+  ],
+  "location_city": [
+    "richmond"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "virginia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "8",
+    "5",
+    "6",
+    "0000000009",
+    "7",
+    "4",
+    "sn85038615",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85038615"
+  ],
+  "number_page": [
+    "0000000009"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "1",
+    "7",
+    "5",
+    "0",
+    "4",
+    "5",
+    "8",
+    "6",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85038615-1905-07-02-ed-1-0015",
+  "partof": [
+    "serial and government publications division",
+    "the times dispatch (richmond, va.) 1903-1914",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the times dispatch (richmond, va.) 1903-1914"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85038615/1905-07-02/ed-1/?sp=9"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85038615/1905-07-02/ed-1/"
+  ],
+  "shelf_id": "09",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "virginia",
+    "newspapers",
+    "richmond (va.)",
+    "richmond"
+  ],
+  "timestamp": "2024-02-06T17:58:50.941Z",
+  "title": "Image 9 of The times dispatch (Richmond, Va.), July 2, 1905",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85038615/1905-07-02/ed-1/?sp=9&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fvi%2Fbatch_vi_berea_ver01%2Fdata%2Fsn85038615%2F00175045867%2F1905070201%2F0015.xml&q=cuba&relevant_snippet=1"
+}

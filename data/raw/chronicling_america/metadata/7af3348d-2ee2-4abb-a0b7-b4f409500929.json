@@ -1,0 +1,167 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84022060/1894-10-27/ed-1/?sp=2"
+  ],
+  "batch": [
+    "nvln_carlin_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nevada/",
+    "2/united states/nevada/humboldt/",
+    "3/united states/nevada/humboldt/unionville/",
+    "3/united states/nevada/humboldt/winnemucca/"
+  ],
+  "contributor": [
+    "university of nevada las vegas university libraries"
+  ],
+  "date": "1894-10-27",
+  "dates": [
+    "1894-10-27"
+  ],
+  "description": [
+    "THE SILVER STATE PtTBMnCDETMY Da Yc5UNIAYS EXfKPTKD BY THK Silver State Publishing Company llice Silrar State Slock Cor Bridge and Fourth Sts TERMS OK SUBSCRIPTION ne copy one year by mail5 One copy six months by mail 3 00 Delivered by Carrier 25 cents per week KATES OF ADVERTISING ne Square 10 lines first insertion2 50 ich subsequent insertion per square 00 liberal reduction to regular advertisers B Cask is authorized to colleet and re 11 for subscriptions to the Silver State Paradise C Pitt Is authorized to collect and re ipt for subscriptions to the Silver Statb Lovelock Silver Party State Ticket For Congressman FRANCIS G NEW RANDS Of Washoe For Governor JOHN E JONES Of Ormsbv For Lieutenant Governor R SADLER Of Eureka For Associate Justice Supreme tourt M S BONNIFIELD Of Humboldt For Secretary of State EUGENE HOWELL Of White Pine For Attorney General ROBERT BEATTY Of Eureka For State Controller C A LvGRAVE Of u mboldt For State Treasurer W J WESTERFIELD Of W ashoe For Surveyor General A C PRATT Of Douglas For State Printer Joseph McCarthy Of Storey For Supt of Public Instruction H C CUTTING Of Esmeralda For University Regent Long Term W"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-06-30T14:52:37.480Z",
+  "group": [
+    "ndnp/nvln",
+    "university-of-nevada-las-vegas-university-libraries-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84022060/1894-10-27/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_carlin_ver01:data:sn84022060:0033289058A:1894102701:1021/full/pct:6.25/0/default.jpg#h=423&w=288",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_carlin_ver01:data:sn84022060:0033289058A:1894102701:1021/full/pct:12.5/0/default.jpg#h=846&w=577",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nvln/batch_nvln_carlin_ver01/data/sn84022060/0033289058A/1894102701/1021.xml&format=alto_xml"
+  ],
+  "index": 12,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "unionville",
+    "nevada",
+    "humboldt",
+    "united states",
+    "winnemucca"
+  ],
+  "location_city": [
+    "unionville",
+    "winnemucca"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "humboldt"
+  ],
+  "location_state": [
+    "nevada"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "a",
+    "9",
+    "2",
+    "8",
+    "3",
+    "5",
+    "0000000002",
+    "1",
+    "sn84022060"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84022060"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "0",
+    "5",
+    "8",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Daily silver state",
+    "Winnemucca republican"
+  ],
+  "page_id": "sn84022060-1894-10-27-ed-1-1021",
+  "partof": [
+    "chronicling america",
+    "the silver state (unionville, nev.) 1870-1903",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the silver state (unionville, nev.) 1870-1903"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84022060/1894-10-27/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84022060/1894-10-27/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "unionville",
+    "nevada",
+    "unionville (nev.)",
+    "humboldt",
+    "winnemucca (nev.)",
+    "newspapers",
+    "winnemucca"
+  ],
+  "timestamp": "2023-06-30T17:50:26.639Z",
+  "title": "Image 2 of The Silver state (Unionville, Nev.), October 27, 1894",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84022060/1894-10-27/ed-1/?sp=2&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnvln%2Fbatch_nvln_carlin_ver01%2Fdata%2Fsn84022060%2F0033289058A%2F1894102701%2F1021.xml&q=revolution&relevant_snippet=1"
+}

@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83030311/1836-01-26/ed-1/?sp=4"
+  ],
+  "batch": [
+    "dlc_kudzu_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1836-01-26",
+  "dates": [
+    "1836-01-26"
+  ],
+  "description": [
+    "WAXTS UTANTKD IMMEDIATELYAn apprentice to the Druf Ouiiie vlo parent reide in this cltv Apply 1 jaall Dr LEWIS KEUCIIT VANGKK 077 Btutdiri CLKKK WAXTEDWanted a mart active yaung man asa Cleik in a dry jooits jibfcin honc one that hn been n he citT and his an extensive country acquaintance nill neat with um encouraceroenl by nakin immediate application a_ No 26 Broad stieet Abo a food Bookkeeper wanted apply as above S I i S9IGV tim VOTICfH3iD by dved of aaairnZa meni iMn appoiutrd Assirnee of the prupt iimJACOB SMITH uf the City of Nw Yoik Livery Su r Keeper in Cntat far the henetit of all of Ilia creditors I ivquiie all persons iudebtetl to Liu In nke iwinrdiate paviacit and ail perus having claims or demands agiiut him to furnish a t itruMiit of the nartirwiati thareofwiUktfrt delay to the subscriber at Uie earner of Bcekman and South streeU New York Not 36 lt5 nv Mf WM P WKISHT Aniw J THOM lS0VX01WAL LtiT STOCK AXI KXC11ANBKOKEKEickanges ill kiuiii of unCw resit money at the lowest I ates All kinds ot eold aul silver liought and sold Bank of Enelaiwl Note buinlit and sold Thompxm will"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:28:23.404Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83030311/1836-01-26/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030311:00271743105:1836012601:0097/full/pct:6.25/0/default.jpg#h=392&w=255",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030311:00271743105:1836012601:0097/full/pct:12.5/0/default.jpg#h=785&w=511",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_kudzu_ver01/data/sn83030311/00271743105/1836012601/0097.xml&format=alto_xml"
+  ],
+  "index": 61,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "new york county",
+    "new york city",
+    "new york"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "1",
+    "2",
+    "4",
+    "5",
+    "7",
+    "sn83030311",
+    "0000000004"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83030311"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "1",
+    "7",
+    "4",
+    "3",
+    "1",
+    "0",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "New York herald"
+  ],
+  "page_id": "sn83030311-1836-01-26-ed-1-0097",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the herald (new york [n.y.]) 1835-1837"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the herald (new york [n.y.]) 1835-1837"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83030311/1836-01-26/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83030311/1836-01-26/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "new york (n.y.)",
+    "united states",
+    "newspapers",
+    "new york",
+    "new york (state)",
+    "new york county",
+    "new york county (n.y.)"
+  ],
+  "timestamp": "2022-10-20T22:06:05.703Z",
+  "title": "Image 4 of The herald (New York [N.Y.]), January 26, 1836",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83030311/1836-01-26/ed-1/?sp=4&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_kudzu_ver01%2Fdata%2Fsn83030311%2F00271743105%2F1836012601%2F0097.xml&q=medicine&relevant_snippet=1"
+}

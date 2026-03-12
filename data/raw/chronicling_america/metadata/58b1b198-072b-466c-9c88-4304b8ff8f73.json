@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn91070618/1962-04-20/ed-1/?sp=2"
+  ],
+  "batch": [
+    "rp_invisiblestalker_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/rhode island/",
+    "2/united states/rhode island/newport/",
+    "3/united states/rhode island/newport/newport/"
+  ],
+  "contributor": [
+    "rhode island digital newspaper project"
+  ],
+  "date": "1962-04-20",
+  "dates": [
+    "1962-04-20"
+  ],
+  "description": [
+    "TWO MAP LAI 77ro SJ By Chaplain Warren Newman Its a human characterristic to feel rebellious toward the disciplines and restraints tliit xve encounter Some men arc bitter about their military or reserve obligations because they invoke so much discipline regimentation and personal difficulty When ever we feel such a mood coming on however we ought to stop and remind ourselves that anv mature project in life involves the same qualities Its just a Himplo fact that life In made up of a whole series of confining responsibilities anil re straining difficulties Bather than tiring liittcr or frustrated about it we need to realize that there arc Nome very good reasons why life is like this For one thing lifes disciplines and difficulties make for greater st length in our lives Arnold Toynbee one of the worlds leading historians tells of an experience in the lives of English North Sea fishermen who went out for several weeks at a time in trawlers fishing for her ring They had tanks of water on board in which they put the tisti to keep them alive and in as good condition as possible They dis covered however that most of the fish came"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-04-27T04:23:21.471Z",
+  "group": [
+    "ndnp/rp",
+    "rhode-island-digital-newspaper-project"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn91070618/1962-04-20/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_invisiblestalker_ver01:data:sn91070618:00516991811:1962042001:0705/full/pct:6.25/0/default.jpg#h=338&w=274",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_invisiblestalker_ver01:data:sn91070618:00516991811:1962042001:0705/full/pct:12.5/0/default.jpg#h=677&w=548",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/rp/batch_rp_invisiblestalker_ver01/data/sn91070618/00516991811/1962042001/0705.xml&format=alto_xml"
+  ],
+  "index": 66,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "newport",
+    "rhode island"
+  ],
+  "location_city": [
+    "newport"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "newport"
+  ],
+  "location_state": [
+    "rhode island"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "6",
+    "5",
+    "1",
+    "sn91070618",
+    "0000000002",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn91070618"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "1",
+    "8",
+    "1",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Issues for Jan. 8-Sept. 9, 1988 published as: Navalog"
+  ],
+  "page_id": "sn91070618-1962-04-20-ed-1-0705",
+  "partof": [
+    "chronicling america",
+    "newport navalog (newport, r.i.) 1944-current",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "newport navalog (newport, r.i.) 1944-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn91070618/1962-04-20/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn91070618/1962-04-20/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "military bases",
+    "newport (r.i.)",
+    "newspapers",
+    "rhode island",
+    "newport"
+  ],
+  "timestamp": "2025-04-27T04:37:40.024Z",
+  "title": "Image 2 of Newport navalog (Newport, R.I.), April 20, 1962",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn91070618/1962-04-20/ed-1/?sp=2&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Frp%2Fbatch_rp_invisiblestalker_ver01%2Fdata%2Fsn91070618%2F00516991811%2F1962042001%2F0705.xml&q=nuclear&relevant_snippet=1"
+}

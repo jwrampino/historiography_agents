@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88063050/1963-04-20/ed-1/?sp=7"
+  ],
+  "batch": [
+    "gu_bigfoot_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/georgia/",
+    "2/united states/georgia/fulton/",
+    "3/united states/georgia/fulton/atlanta/"
+  ],
+  "contributor": [
+    "digital library of georgia, a project of galileo located at the university of georgia libraries"
+  ],
+  "date": "1963-04-20",
+  "dates": [
+    "1963-04-20"
+  ],
+  "description": [
+    "SATURDAY APRIL 201963 Know Your CD Program By MS Lewis CIVIL DEFENSE PROGRAMS including Adult Education is a long term program We must be prepared if we are to sur vive a Nuclear attack Tele phone your school principal ask him to secure a Civil Defense teacher for a class Call your friends help him to organize a group of at least thirty people Teachers are available as well as your school It happened in 1941 at Pearl Harbor and it can happen herell The TV and Radio stations give warnings every day almost every hour Their warnings are facts we must face whether we like them or not Noah warn ed the people but they paid no attention you know well what the consequences were Dont let this happen to you It takes only sixtytwo of CD classes to give you information that might mean life or death to you and your family President Kennedy warned us this way In the event of attack the lives of those families which are not hit in the nuclear blast and fire can still be saved if they can be warned to take shelter and if that shelter is available We owe"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-04-20T03:39:35.246Z",
+  "group": [
+    "ndnp/gu",
+    "digital-library-of-georgia-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88063050/1963-04-20/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bigfoot_ver02:data:sn88063050:00517010741:1963042001:0133/full/pct:6.25/0/default.jpg#h=401&w=274",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bigfoot_ver02:data:sn88063050:00517010741:1963042001:0133/full/pct:12.5/0/default.jpg#h=802&w=548",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/gu/batch_gu_bigfoot_ver02/data/sn88063050/00517010741/1963042001/0133.xml&format=alto_xml"
+  ],
+  "index": 5,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "fulton",
+    "atlanta",
+    "fulton county",
+    "united states",
+    "georgia"
+  ],
+  "location_city": [
+    "atlanta"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "fulton"
+  ],
+  "location_state": [
+    "georgia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn88063050",
+    "0",
+    "7",
+    "1",
+    "0000000007",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88063050"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "0",
+    "1",
+    "0",
+    "7",
+    "4",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88063050-1963-04-20-ed-1-0133",
+  "partof": [
+    "chronicling america",
+    "the atlanta inquirer (atlanta, ga.) 1960-current",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the atlanta inquirer (atlanta, ga.) 1960-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88063050/1963-04-20/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88063050/1963-04-20/ed-1/"
+  ],
+  "shelf_id": "07",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "fulton",
+    "african americans",
+    "atlanta",
+    "african american",
+    "fulton county (ga.)",
+    "atlanta (ga.)",
+    "fulton county",
+    "united states",
+    "georgia"
+  ],
+  "subject_ethnicity": [
+    "african american"
+  ],
+  "timestamp": "2025-04-20T04:59:41.012Z",
+  "title": "Image 7 of The Atlanta inquirer (Atlanta, Ga.), April 20, 1963",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88063050/1963-04-20/ed-1/?sp=7&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fgu%2Fbatch_gu_bigfoot_ver02%2Fdata%2Fsn88063050%2F00517010741%2F1963042001%2F0133.xml&q=computers&relevant_snippet=1"
+}

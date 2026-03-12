@@ -1,0 +1,211 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87065702/1923-09-20/ed-1/?sp=13"
+  ],
+  "batch": [
+    "scu_dragonfruit_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/georgia/",
+    "2/united states/georgia/richmond/",
+    "3/united states/georgia/richmond/augusta/",
+    "2/united states/georgia/bibb/",
+    "3/united states/georgia/bibb/macon/",
+    "1/united states/south carolina/",
+    "2/united states/south carolina/anderson/",
+    "3/united states/south carolina/anderson/anderson/",
+    "2/united states/south carolina/charleston/",
+    "3/united states/south carolina/charleston/charleston/",
+    "2/united states/south carolina/greenville/",
+    "3/united states/south carolina/greenville/greenville/",
+    "2/united states/south carolina/orangeburg/",
+    "3/united states/south carolina/orangeburg/orangeburg/",
+    "2/united states/south carolina/richland/",
+    "3/united states/south carolina/richland/columbia/",
+    "2/united states/south carolina/spartanburg/",
+    "3/united states/south carolina/spartanburg/spartanburg/"
+  ],
+  "contributor": [
+    "university of south carolina; columbia, sc"
+  ],
+  "date": "1923-09-20",
+  "dates": [
+    "1923-09-20"
+  ],
+  "description": [
+    "The Cedi of the Conference Claimants EDITED BY LUTHER E TODD SECRETARY BOARD OF FINANCE M E CHURCH SOUTH S10S1S SECURITY BUILDING ST LOUIS MO ExPrasident Woodrow Wilson Rings the BollThe August num ber of the Atlantic Monthly carries an article under the caption The Road Away from Revolution the author of same being our own much beloved Woodrow Wilson The fol lowing excerpts from his article have a bearing on the great question now being discussed on this page under the heading The Call of the Con ference Claimants In these dreadful and anxious days when all the world is at unrest nu iouk wmcn way you wiu me road ahead seems darkened by sha dows which portend dangers of many kinds it is only common prodence that we should look about us and at tempt to assess the causes of distress and the most likely means of remov ing them Real ground for the universal un rest lies deep at the sources of the spiritual life of our time and leads to revolution The cause of the Rus sian revolution was a systematic de nial to the great body of Russians of the rights and privileges which nor"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-05-12T00:32:17.764Z",
+  "group": [
+    "ndnp/scu",
+    "university-of-south-carolina-columbia-sc-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87065702/1923-09-20/ed-1/?sp=13",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_dragonfruit_ver01:data:sn87065702:00516991161:1923092001:0608/full/pct:12.5/0/default.jpg#h=510&w=380",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_dragonfruit_ver01:data:sn87065702:00516991161:1923092001:0608/full/pct:25/0/default.jpg#h=1021&w=760",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/scu/batch_scu_dragonfruit_ver01/data/sn87065702/00516991161/1923092001/0608.xml&format=alto_xml"
+  ],
+  "index": 159,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "georgia",
+    "united states",
+    "augusta",
+    "greenville",
+    "richland",
+    "anderson",
+    "spartanburg",
+    "columbia",
+    "bibb",
+    "orangeburg",
+    "south carolina",
+    "charleston",
+    "southern states",
+    "macon",
+    "richmond"
+  ],
+  "location_city": [
+    "augusta",
+    "macon",
+    "anderson",
+    "charleston",
+    "greenville",
+    "orangeburg",
+    "columbia",
+    "spartanburg"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "richmond",
+    "bibb",
+    "anderson",
+    "charleston",
+    "greenville",
+    "orangeburg",
+    "richland",
+    "spartanburg"
+  ],
+  "location_state": [
+    "georgia",
+    "south carolina"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "5",
+    "6",
+    "9",
+    "0000000013",
+    "sn87065702",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87065702"
+  ],
+  "number_page": [
+    "0000000013"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "1",
+    "1",
+    "6",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "May sometimes be called: Southern advocate"
+  ],
+  "page_id": "sn87065702-1923-09-20-ed-1-0608",
+  "partof": [
+    "serial and government publications division",
+    "chronicling america",
+    "southern christian advocate (charleston, s.c.) 1837-1948"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "southern christian advocate (charleston, s.c.) 1837-1948"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87065702/1923-09-20/ed-1/?sp=13"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87065702/1923-09-20/ed-1/"
+  ],
+  "shelf_id": "13",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "georgia",
+    "united states",
+    "methodists",
+    "augusta",
+    "greenville",
+    "richland",
+    "anderson",
+    "spartanburg",
+    "newspapers",
+    "columbia",
+    "orangeburg",
+    "bibb",
+    "methodist episcopal church, south",
+    "south carolina",
+    "charleston",
+    "southern states",
+    "macon",
+    "richmond"
+  ],
+  "timestamp": "2024-05-12T00:42:49.268Z",
+  "title": "Image 13 of Southern Christian advocate (Charleston, S.C.), September 20, 1923",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87065702/1923-09-20/ed-1/?sp=13&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fscu%2Fbatch_scu_dragonfruit_ver01%2Fdata%2Fsn87065702%2F00516991161%2F1923092001%2F0608.xml&q=revolution&relevant_snippet=1"
+}

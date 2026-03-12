@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84027253/1862-09-26/ed-1/?sp=3"
+  ],
+  "batch": [
+    "iahi_bellsprout_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/iowa/",
+    "2/united states/iowa/muscatine/",
+    "3/united states/iowa/muscatine/muscatine/"
+  ],
+  "contributor": [
+    "state historical society of iowa"
+  ],
+  "date": "1862-09-26",
+  "dates": [
+    "1862-09-26"
+  ],
+  "description": [
+    "__ Light lt y The following able and patriotic specch it cannot rule A dred years We introduce the specch with the com ments of the St Louis Democrat of the 19th inst from which the speech is copied On our second page this morning will be found the specch of Mr Drake delivered on Wednesday night at the Court House Mr Drake as will be seen addresses himself al most entirely to the discussion of slavery As the sole cause of the war ho denounces it and regards its complete destruction and removal from anong the institutions of the country as the only safe pathway out of the terrible trou bles and convulsions which are now athicteng the country Mr Drake has often addressed the people of this city and State on this subject but has never in our opinion risen so nearly to the demands of the occasion as in the speech we publish this morning As a specimen of fiery invective and lofty eloquence we regard it as a model As an argument we look upon it as complete and irresistible The inner of its reception by audiences to whomjt wasdeliver shows which way the thoughts and"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-05-16T11:53:05.031Z",
+  "group": [
+    "ndnp/iahi",
+    "state-historical-society-of-iowa-state-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84027253/1862-09-26/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528529:1862092601:0326/full/pct:3.125/0/default.jpg#h=273&w=218",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528529:1862092601:0326/full/pct:6.25/0/default.jpg#h=546&w=436",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528529:1862092601:0326/full/pct:12.5/0/default.jpg#h=1092&w=872",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iahi/batch_iahi_bellsprout_ver01/data/sn84027253/00279528529/1862092601/0326.xml&format=alto_xml"
+  ],
+  "index": 21,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "iowa",
+    "united states",
+    "muscatine county",
+    "muscatine"
+  ],
+  "location_city": [
+    "muscatine"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "muscatine"
+  ],
+  "location_state": [
+    "iowa"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000003",
+    "9",
+    "2",
+    "8",
+    "5",
+    "sn84027253",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84027253"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "2",
+    "8",
+    "5",
+    "2",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Weekly journal"
+  ],
+  "page_id": "sn84027253-1862-09-26-ed-1-0326",
+  "partof": [
+    "chronicling america",
+    "muscatine weekly journal (muscatine, iowa) 185?-1890",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "muscatine weekly journal (muscatine, iowa) 185?-1890"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84027253/1862-09-26/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84027253/1862-09-26/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "muscatine county",
+    "muscatine county (iowa)",
+    "muscatine (iowa)",
+    "iowa",
+    "united states",
+    "newspapers",
+    "muscatine"
+  ],
+  "timestamp": "2023-07-03T15:38:39.464Z",
+  "title": "Image 3 of Muscatine weekly journal (Muscatine, Iowa), September 26, 1862",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84027253/1862-09-26/ed-1/?sp=3&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiahi%2Fbatch_iahi_bellsprout_ver01%2Fdata%2Fsn84027253%2F00279528529%2F1862092601%2F0326.xml&q=slavery&relevant_snippet=1"
+}

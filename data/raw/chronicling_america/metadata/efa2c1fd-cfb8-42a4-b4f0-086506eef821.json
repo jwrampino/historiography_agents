@@ -1,0 +1,150 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82016181/1936-01-27/ed-1/?sp=15"
+  ],
+  "batch": [
+    "dlc_leibovitz_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1936-01-27",
+  "dates": [
+    "1936-01-27"
+  ],
+  "description": [
+    "Plain Economics by John T Flynn Acquisitive men shout profit motive spurs world progress but medical scientists give lifesaving discoveries free only few of civilizations advances made by men seek ing money VTEW YORKThere was one thrill in the announcement of the Columbia 1M professor who has discovered a compound to make the work of the drilling dentist painless For 20 years he worked to perfect his formula When these long researches were crowned with success he might have rushed to the Patent Office with his formula and made it the foundation of a great fortune Instead he gave it to the world free as my humble contribution to humanity In the last three years we have heard much of the profit motive Every time society has threatened to whittle a few dollars from the swollen incomes of acquisitive men we have been warned that it was tinkering with the spring that winds the clock of the worldprofit Men will not work save for profit It is profit which has spurred inventors scientists statesmen writers or ganizers to create and press forward all the great advances of civiliza tion The medical profession to be sure is well supplied with practitioners"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-18T05:51:20.370Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82016181/1936-01-27/ed-1/?sp=15",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leibovitz_ver01:data:sn82016181:00516999500:1936012701:0741/full/pct:6.25/0/default.jpg#h=337&w=233",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leibovitz_ver01:data:sn82016181:00516999500:1936012701:0741/full/pct:12.5/0/default.jpg#h=674&w=466",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_leibovitz_ver01/data/sn82016181/00516999500/1936012701/0741.xml&format=alto_xml"
+  ],
+  "index": 176,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn82016181",
+    "5",
+    "6",
+    "9",
+    "0000000015",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82016181"
+  ],
+  "number_page": [
+    "0000000015"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "9",
+    "5",
+    "0",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82016181-1936-01-27-ed-1-0741",
+  "partof": [
+    "serial and government publications division",
+    "the washington daily news (washington, d.c.) 1921-1972",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington daily news (washington, d.c.) 1921-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82016181/1936-01-27/ed-1/?sp=15"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82016181/1936-01-27/ed-1/"
+  ],
+  "shelf_id": "15",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2025-05-18T05:58:34.755Z",
+  "title": "Image 15 of The Washington daily news (Washington, D.C.), January 27, 1936",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82016181/1936-01-27/ed-1/?sp=15&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_leibovitz_ver01%2Fdata%2Fsn82016181%2F00516999500%2F1936012701%2F0741.xml&q=child+labor&relevant_snippet=1"
+}

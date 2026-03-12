@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1913-03-09/ed-1/?sp=24"
+  ],
+  "batch": [
+    "dlc_quarren_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1913-03-09",
+  "dates": [
+    "1913-03-09"
+  ],
+  "description": [
+    "THE EVENING STAB WASHINGTON SUNDAY March 0 1913 THS0D0BE W NOTES Editor Brnlac Star Hi inato Ai Bahra OA 11th 8t New Tarfc OSes fiv OWeege Oflkc lint NatfcJ tBJi fthnvwa Ofot a Begant 8t tk By mall NtU MNT Patty Ran Dally Holiday Saturday Star man prrv r Jnrloded oe month 0 STfc r Mcrpteg os mag 91 rear Bandar Star PO Entered aa Pewmdclaaa laaM mattr at the at Waahhiton D C SEr4b2J LSa the Editorial or Baatseaa Department The Speakership The public is Just advised of an inter esting matter relating to the Baltimore convention Mr Clark after being da feated for first plaoe was ottered second He acted wisely in declining and for two reasons 1 Had he accepted he would have been accused of being a mere dickerer for honors See his enemies would hare exclaimed how easily consoled he was After clamoring for first place and 0 plaining of those who had thwarted his aims he yet went over to them after defeat on their own terms 2 He would have exchanged an office of great power for one of limited power The vice presidency is not the inconse quential place described by the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:42:32.125Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1913-03-09/ed-1/?sp=24",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_quarren_ver01:data:sn83045462:00280658169:1913030901:0092/full/pct:3.125/0/default.jpg#h=301&w=244",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_quarren_ver01:data:sn83045462:00280658169:1913030901:0092/full/pct:6.25/0/default.jpg#h=603&w=488",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_quarren_ver01/data/sn83045462/00280658169/1913030901/0092.xml&format=alto_xml"
+  ],
+  "index": 183,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000024",
+    "0",
+    "9",
+    "2",
+    "sn83045462",
+    "6",
+    "8",
+    "5",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000024"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "8",
+    "1",
+    "6",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1913-03-09-ed-1-0092",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1913-03-09/ed-1/?sp=24"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1913-03-09/ed-1/"
+  ],
+  "shelf_id": "24",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2022-10-21T08:17:00.765Z",
+  "title": "Image 24 of Evening star (Washington, D.C.), March 9, 1913",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1913-03-09/ed-1/?sp=24&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_quarren_ver01%2Fdata%2Fsn83045462%2F00280658169%2F1913030901%2F0092.xml&q=immigration&relevant_snippet=1"
+}

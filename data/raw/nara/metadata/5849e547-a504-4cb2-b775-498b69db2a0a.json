@@ -1,0 +1,731 @@
+{
+  "dataControlGroup": {
+    "groupId": "ou=NRAAB,ou=groups",
+    "groupCd": "REBO"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "digitalObjects": [
+    {
+      "objectFilename": "81127420_001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_001.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978493",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_002.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_002.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978494",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_003.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_003.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978495",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_004.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_004.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978496",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_005.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_005.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978497",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_006.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_006.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978498",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_007.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_007.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978499",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_008.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_008.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978500",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_009.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_009.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978501",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_010.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_010.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978502",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_011.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_011.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978503",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_012.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_012.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978504",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_013.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_013.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978505",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_014.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_014.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978506",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_015.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_015.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978507",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_016.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_016.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978508",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_017.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_017.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978509",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_018.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_018.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978510",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_019.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_019.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978511",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_020.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_020.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978512",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_021.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_021.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978513",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_022.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_022.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978514",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_023.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_023.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978515",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_024.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_024.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978516",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_025.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_025.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978517",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_026.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_026.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978518",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_027.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_027.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978519",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_028.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_028.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978520",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_029.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_029.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978521",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_030.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_030.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978522",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_031.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_031.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978523",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_032.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_032.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978524",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_033.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_033.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978525",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_034.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_034.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978526",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_035.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_035.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978527",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_036.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_036.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978528",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_037.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_037.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978529",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_038.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_038.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978530",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_039.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_039.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978531",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_040.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_040.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978532",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_041.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_041.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978533",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_042.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_042.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978534",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_043.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_043.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978535",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_044.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_044.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978536",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_045.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_045.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978537",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_046.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_046.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978538",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_047.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_047.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978539",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_048.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_048.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978540",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_049.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_049.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978541",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_050.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_050.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978542",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_051.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_051.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978543",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_052.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_052.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978544",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_053.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_053.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978545",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_054.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_054.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978546",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_055.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_055.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978547",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_056.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_056.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978548",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_057.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_057.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978549",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_058.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_058.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978550",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_059.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_059.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978551",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_060.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_060.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978552",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_061.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_061.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978553",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_062.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_062.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978554",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_063.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_063.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978555",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_064.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_064.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978556",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_065.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_065.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978557",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_066.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_066.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978558",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_067.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_067.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978559",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_068.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_068.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978560",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_069.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_069.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978561",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_070.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_070.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978562",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_071.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_071.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978563",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_072.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_072.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978564",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_073.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_073.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978565",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_074.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_074.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978566",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_075.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_075.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978567",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_076.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_076.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978568",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_077.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_077.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978569",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_078.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_078.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978570",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_079.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_079.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978571",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_080.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_080.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978572",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_081.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_081.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978573",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_082.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_082.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978574",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_083.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_083.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978575",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_084.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_084.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978576",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_085.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_085.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978577",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_086.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_086.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978578",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_087.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_087.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978579",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_088.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_088.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978580",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_089.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_089.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978581",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420_090.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420_090.jpg",
+      "objectFileSize": 1234,
+      "objectId": "172978582",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "81127420.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/rg-412/2555964/81127420/81127420.pdf",
+      "objectFileSize": 1234,
+      "objectId": "172978492",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1944,
+        "logicalDate": "1944-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 412,
+      "inclusiveEndDate": {
+        "year": 2006,
+        "logicalDate": "2006-12-31"
+      },
+      "title": "Records of the Environmental Protection Agency",
+      "naId": 708
+    },
+    {
+      "inclusiveStartDate": {
+        "month": 1,
+        "year": 1973,
+        "day": 1,
+        "logicalDate": "1973-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "Environmental Protection Agency. EPA Region I. Office of the Regional Administrator. 1970-",
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1970,
+            "logicalDate": "1970-01-01"
+          },
+          "naId": 10457741
+        }
+      ],
+      "inclusiveEndDate": {
+        "month": 12,
+        "year": 1979,
+        "day": 31,
+        "logicalDate": "1979-12-31"
+      },
+      "title": "Program Development Files on Seabrook Nuclear Power Plant",
+      "naId": 2555964
+    }
+  ],
+  "title": "Seabrook Nuclear",
+  "naId": 81127420,
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Waltham",
+          "phone": "866-406-2379",
+          "address1": "380 Trapelo Road",
+          "postalCode": "02452-6399",
+          "name": "National Archives at Boston",
+          "state": "MA",
+          "fax": "781-663-0156",
+          "email": "boston.archives@nara.gov",
+          "mailCode": "RE-BO"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84020097/1931-07-08/ed-1/?sp=4"
+  ],
+  "batch": [
+    "iune_fluorite_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/",
+    "1/united states/illinois/",
+    "2/united states/illinois/cook/",
+    "3/united states/illinois/cook/chicago/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1931-07-08",
+  "dates": [
+    "1931-07-08"
+  ],
+  "description": [
+    "Page Four Working Women and Youth in the Coming War The imperialist war makers attach tremendous im portance to the working class youth and the working women as cannon fodder and industrial conscripts in the coming imperialist war and military intervention in the Sonet Union In the late imperialist war the mobilization of the youth for the slaughter on the battlefields and the practical conscription of the work ing women for the war industries had proved decisive for the outcome of the war The youth of the working class and of the farmers is the first to be sent on the firing line It makes the bulk of the conscript armies It does the major fighting and leaves on the battlefields most of the victims in dead and wounded More perhaps than anything else the capitalist class needs the toiling youth for the coming war and military intervention The working women are most essential for imperial ism as industrial conscripts to replace the men in the war and other industries The working women are expected td bear the main burden of the home front This was the case in the imperialist war of 19141918 It will be even more so"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:20:27.453Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84020097/1931-07-08/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_fluorite_ver01:data:sn84020097:00332897688:1931070801:0030/full/pct:3.125/0/default.jpg#h=268&w=210",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_fluorite_ver01:data:sn84020097:00332897688:1931070801:0030/full/pct:6.25/0/default.jpg#h=536&w=420",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_fluorite_ver01:data:sn84020097:00332897688:1931070801:0030/full/pct:12.5/0/default.jpg#h=1073&w=840",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_fluorite_ver01/data/sn84020097/00332897688/1931070801/0030.xml&format=alto_xml"
+  ],
+  "index": 156,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "illinois",
+    "cook",
+    "united states",
+    "new york",
+    "new york city",
+    "chicago"
+  ],
+  "location_city": [
+    "new york",
+    "chicago"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york",
+    "cook"
+  ],
+  "location_state": [
+    "new york",
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "9",
+    "6",
+    "2",
+    "1",
+    "sn84020097",
+    "7",
+    "0000000004",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84020097"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "7",
+    "6",
+    "8",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84020097-1931-07-08-ed-1-0030",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the daily worker (chicago, ill.;new york, n.y.) 1924-1958"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the daily worker (chicago, ill.;new york, n.y.) 1924-1958"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84020097/1931-07-08/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84020097/1931-07-08/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "illinois",
+    "new york (n.y.)",
+    "cook",
+    "united states",
+    "labor unions",
+    "newspapers",
+    "new york",
+    "new york (state)",
+    "communism",
+    "chicago (ill.)",
+    "labor movement",
+    "chicago"
+  ],
+  "timestamp": "2025-05-22T03:42:40.359Z",
+  "title": "Image 4 of The daily worker (Chicago, Ill.;New York, N.Y.), July 8, 1931, (City Edition)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84020097/1931-07-08/ed-1/?sp=4&q=soviet+union",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_fluorite_ver01%2Fdata%2Fsn84020097%2F00332897688%2F1931070801%2F0030.xml&q=soviet+union&relevant_snippet=1"
+}

@@ -1,0 +1,177 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn90059959/1898-06-25/ed-1/?sp=4"
+  ],
+  "batch": [
+    "mnhi_betelgeuse_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/minnesota/",
+    "2/united states/minnesota/hennepin/",
+    "3/united states/minnesota/hennepin/minneapolis/",
+    "2/united states/minnesota/ramsey/",
+    "3/united states/minnesota/ramsey/saint paul/"
+  ],
+  "contributor": [
+    "minnesota historical society; saint paul, mn"
+  ],
+  "date": "1898-06-25",
+  "dates": [
+    "1898-06-25"
+  ],
+  "description": [
+    "1 f r si I it few JjCDWARD OBRIEN Editor 0OHN D OBRIEN Manager PUBLISHED EVERY SATURDAY At 61 S Fourth St Minneapolis Minn TERMS PAYABLE IN ADVANCE One year 200 Six months 100 Single copies 03 TOe above rates Include cost or pol Me to any part of the United States or ipanada To any other part of the world the postage will be 60c per year addi tional REMITTANCES Remittances may be madit our risk lther draft express money order post office money order or registered letter Addressed to the Irish Standard Min neapolis Minn Money sent In any Other way Is at the risk of the persons pending It EXPIRATIONS The date which Is printed with your pame on your paper or wrapper shows to what time your subscription is paid Thus Jan 68 means that your sub scription is paid up to January 1898 Nov 97 to November 1897 and bo on RENEWALS Three weeks are required after send ing money before the date which shows to what time your subscription has been paid and serves as a receipt can be changed If at the end of three weeks date is unchanged or an error noticed"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-04T16:57:04.991Z",
+  "group": [
+    "ndnp/mnhi",
+    "minnesota-historical-society-saint-paul-mn-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn90059959/1898-06-25/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742861:1898062501:0449/full/pct:6.25/0/default.jpg#h=435&w=337",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742861:1898062501:0449/full/pct:12.5/0/default.jpg#h=870&w=674",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mnhi/batch_mnhi_betelgeuse_ver01/data/sn90059959/00271742861/1898062501/0449.xml&format=alto_xml"
+  ],
+  "index": 8,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "saint paul",
+    "united states",
+    "ramsey county",
+    "hennepin county",
+    "hennepin",
+    "ramsey",
+    "minnesota",
+    "minneapolis"
+  ],
+  "location_city": [
+    "minneapolis",
+    "saint paul"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hennepin",
+    "ramsey"
+  ],
+  "location_state": [
+    "minnesota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "7",
+    "4",
+    "sn90059959",
+    "0000000004",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn90059959"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "1",
+    "7",
+    "4",
+    "2",
+    "8",
+    "6",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn90059959-1898-06-25-ed-1-0449",
+  "partof": [
+    "the irish standard (minneapolis, minn. ; st. paul, minn.) 1886-1920",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the irish standard (minneapolis, minn. ; st. paul, minn.) 1886-1920"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn90059959/1898-06-25/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn90059959/1898-06-25/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "saint paul",
+    "united states",
+    "irish americans",
+    "ramsey county",
+    "ramsey county (minn.)",
+    "hennepin county",
+    "hennepin",
+    "saint paul (minn.)",
+    "newspapers",
+    "ramsey",
+    "minnesota",
+    "irish",
+    "minneapolis (minn.)",
+    "minneapolis",
+    "hennepin county (minn.)"
+  ],
+  "subject_ethnicity": [
+    "irish"
+  ],
+  "timestamp": "2024-01-04T08:27:55.517Z",
+  "title": "Image 4 of The Irish standard (Minneapolis, Minn. ; St. Paul, Minn.), June 25, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn90059959/1898-06-25/ed-1/?sp=4&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmnhi%2Fbatch_mnhi_betelgeuse_ver01%2Fdata%2Fsn90059959%2F00271742861%2F1898062501%2F0449.xml&q=manifest+destiny&relevant_snippet=1"
+}

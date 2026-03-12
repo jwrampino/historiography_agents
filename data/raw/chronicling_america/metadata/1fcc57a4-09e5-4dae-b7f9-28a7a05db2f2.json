@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85060004/1937-05-30/ed-1/?sp=43"
+  ],
+  "batch": [
+    "txdn_kestrel_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/texas/",
+    "2/united states/texas/bexar/",
+    "3/united states/texas/bexar/san antonio/"
+  ],
+  "contributor": [
+    "university of north texas; denton, tx"
+  ],
+  "date": "1937-05-30",
+  "dates": [
+    "1937-05-30"
+  ],
+  "description": [
+    "SUNDAY MAY 30 1937 Isaac Don LeeiEe Army Unrest Threatens Stalin By ISAAC DON LEVINE Author of Stalin The Man Lenin and Noted Commen tator on Russian Affairs against Stalins dicta movements in the Ukraine and the Caucasus aiming to secede from the Soviet Union have been discovered and scotched by the OGPU follow ing the last purge staged in Moscow Behind the screen of cen sorship veiling internal events in Russia the military ele ment has assumed a leading role in the secret drama which is deciding the fate of the Soviet regime The under ground news agency Kres iross of the LaborPeasani party sheds startling light on the latest developments in Russia in its March bulletin issued in Prague Early in Pebruary an army conspiracy was discovered in the Kiev Military District Its lead ers were Red Army officers and commissars of Ukrainian nation ality The declared object of the center was the establishment of an independent Ukraine Stalins assistant Postishev Secretary of the Comiaunist Party of the Ukraine and one of the high officers of the Red Army Intelligence Division Tur ovsky were dispatched hastily ifrom Moscow o investigate the plot Within a week 57 ring leaders"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2026-02-22T09:49:10.700Z",
+  "group": [
+    "ndnp/txdn",
+    "university-of-north-texas-denton-tx-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85060004/1937-05-30/ed-1/?sp=43",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_kestrel_ver01:data:sn85060004:00516994691:1937053001:1124/full/pct:6.25/0/default.jpg#h=329&w=259",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_kestrel_ver01:data:sn85060004:00516994691:1937053001:1124/full/pct:12.5/0/default.jpg#h=658&w=519",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/txdn/batch_txdn_kestrel_ver01/data/sn85060004/00516994691/1937053001/1124.xml&format=alto_xml"
+  ],
+  "index": 92,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "texas",
+    "san antonio",
+    "bexar",
+    "united states"
+  ],
+  "location_city": [
+    "san antonio"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "bexar"
+  ],
+  "location_state": [
+    "texas"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0000000043",
+    "0",
+    "sn85060004",
+    "9",
+    "1",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85060004"
+  ],
+  "number_page": [
+    "0000000043"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "4",
+    "6",
+    "9",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "San Antonio Sunday light"
+  ],
+  "page_id": "sn85060004-1937-05-30-ed-1-1124",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "san antonio light (san antonio, tex.) 1911-1993"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "san antonio light (san antonio, tex.) 1911-1993"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85060004/1937-05-30/ed-1/?sp=43"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85060004/1937-05-30/ed-1/"
+  ],
+  "shelf_id": "43",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "bexar",
+    "san antonio (tex.)",
+    "texas",
+    "san antonio",
+    "united states"
+  ],
+  "timestamp": "2026-02-22T09:58:59.575Z",
+  "title": "Image 43 of San Antonio light (San Antonio, Tex.), May 30, 1937, (LATE MORNING)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85060004/1937-05-30/ed-1/?sp=43&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Ftxdn%2Fbatch_txdn_kestrel_ver01%2Fdata%2Fsn85060004%2F00516994691%2F1937053001%2F1124.xml&q=nuclear&relevant_snippet=1"
+}

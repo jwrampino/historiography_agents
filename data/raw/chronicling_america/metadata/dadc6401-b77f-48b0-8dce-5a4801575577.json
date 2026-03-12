@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045012/1933-09-01/ed-1/?sp=22"
+  ],
+  "batch": [
+    "ohi_buttercup_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/butler/",
+    "3/united states/ohio/butler/hamilton/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1933-09-01",
+  "dates": [
+    "1933-09-01"
+  ],
+  "description": [
+    "f 4 WAR ON FASCISM ilnd Nazi Rule Declared By Miners of World Indianapolis ILNSAn antiHit ler manifesto issued by the Miners International Federation with head quarters in Brussels Belgium has been received by the United Mine Workers of America The manifesto Strongly denounces Nazi rule and calls for determined opposition to Fascism saying in part The German Nazi party having aeized power by the shameless mis use of an electoral victory obtained by terrorist methods is subjecting the whole of Germany to a regime of unprecedented violence Not content with the destruction of the working class organizations of tjrery kind the Nazis have outlawed all those who are suspected of non Aryan descent as well as all intel lectuals whose conscience prevents tfcem from bowing slavishly to the Hitlerite ideas who refuse to think at a word of command like a vulgar herd This attitude baa aroused the in dignation of the whole world and es pecially of the working class That indignation must remain unabated But that is not enough The working class of the whole world must consti tute a compact whole determined to ht Nazi rule which with its elder brother Italian Fascism constitute a Most"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:15:08.933Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045012/1933-09-01/ed-1/?sp=22",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_buttercup_ver01:data:sn83045012:00340580515:1933090101:0718/full/pct:3.125/0/default.jpg#h=306&w=227",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_buttercup_ver01:data:sn83045012:00340580515:1933090101:0718/full/pct:6.25/0/default.jpg#h=613&w=455",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_buttercup_ver01/data/sn83045012/00340580515/1933090101/0718.xml&format=alto_xml"
+  ],
+  "index": 122,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ohio",
+    "hamilton",
+    "butler",
+    "united states"
+  ],
+  "location_city": [
+    "hamilton"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "butler"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "5",
+    "0000000022",
+    "4",
+    "1",
+    "sn83045012",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045012"
+  ],
+  "number_page": [
+    "0000000022"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "0",
+    "5",
+    "1",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83045012-1933-09-01-ed-1-0718",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the butler county press (hamilton, ohio) 1900-1946"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the butler county press (hamilton, ohio) 1900-1946"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045012/1933-09-01/ed-1/?sp=22"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045012/1933-09-01/ed-1/"
+  ],
+  "shelf_id": "22",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "ohio",
+    "hamilton",
+    "united states",
+    "hamilton (ohio)",
+    "butler",
+    "newspapers"
+  ],
+  "timestamp": "2023-09-05T03:40:31.874Z",
+  "title": "Image 22 of The Butler County press (Hamilton, Ohio), September 1, 1933",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045012/1933-09-01/ed-1/?sp=22&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_buttercup_ver01%2Fdata%2Fsn83045012%2F00340580515%2F1933090101%2F0718.xml&q=fascism&relevant_snippet=1"
+}

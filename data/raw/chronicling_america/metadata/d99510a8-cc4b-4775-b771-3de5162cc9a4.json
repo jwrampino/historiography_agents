@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88071001/1963-01-14/ed-1/?sp=3"
+  ],
+  "batch": [
+    "gu_kraken_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/georgia/",
+    "2/united states/georgia/richmond/",
+    "3/united states/georgia/richmond/augusta/"
+  ],
+  "contributor": [
+    "digital library of georgia, a project of galileo located at the university of georgia libraries"
+  ],
+  "date": "1963-01-14",
+  "dates": [
+    "1963-01-14"
+  ],
+  "description": [
+    "female Middle Class Irrelevancy Injurious To The PTA Nationally Noted Educator Calls For Revamping Of Educational Group The ParentTeacher Association cross country represents a female middle class irrelevancy or worse a monthly intrusion The organization has never really shaken off its monosex origins nor has it come close to achieving its general goal of parent education Dr William C Kvaraceus professor of edu cation at Boston University says This sex imbalance is most striking Dr Kvaraceus points out at state and national meetings of the PTA which are 90 per cent female saturated The organization now represents the all knowing benign and allpowerful moth er Dr Kvaraceus is a graduate of Bos Hon College with a doctorate from Har Ivard University He is author of Juve nile Delinquency and the School and The Community and the Delinquent sHe has been a school superintendent and a classroom teacher and has direct ed projects for the National Education Association the United Nations Educa tional Scientific and Cultural Organiza tion and for the Government of Turkey Speech In California The statement about the PTA as pub lished recently was taken in part from a speech Dr Kvaraceus presented be fore a meeting of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-06-29T05:13:40.925Z",
+  "group": [
+    "ndnp/gu",
+    "digital-library-of-georgia-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88071001/1963-01-14/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_kraken_ver01:data:sn88071001:00529044707:1963011401:0635/full/pct:3.125/0/default.jpg#h=266&w=186",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_kraken_ver01:data:sn88071001:00529044707:1963011401:0635/full/pct:6.25/0/default.jpg#h=533&w=372",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_kraken_ver01:data:sn88071001:00529044707:1963011401:0635/full/pct:12.5/0/default.jpg#h=1067&w=745",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/gu/batch_gu_kraken_ver01/data/sn88071001/00529044707/1963011401/0635.xml&format=alto_xml"
+  ],
+  "index": 200,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "georgia",
+    "richmond",
+    "augusta"
+  ],
+  "location_city": [
+    "augusta"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "richmond"
+  ],
+  "location_state": [
+    "georgia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000003",
+    "0",
+    "9",
+    "5",
+    "2",
+    "4",
+    "1",
+    "7",
+    "sn88071001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88071001"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "2",
+    "9",
+    "0",
+    "4",
+    "4",
+    "7",
+    "0",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88071001-1963-01-14-ed-1-0635",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the augusta courier (augusta, ga.) 1946-1974"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the augusta courier (augusta, ga.) 1946-1974"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88071001/1963-01-14/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88071001/1963-01-14/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "conservatism",
+    "georgia",
+    "newspapers",
+    "augusta",
+    "politics and government",
+    "richmond",
+    "augusta (ga.)",
+    "since 1945"
+  ],
+  "timestamp": "2025-06-29T05:45:53.558Z",
+  "title": "Image 3 of The Augusta courier (Augusta, Ga.), January 14, 1963",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88071001/1963-01-14/ed-1/?sp=3&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fgu%2Fbatch_gu_kraken_ver01%2Fdata%2Fsn88071001%2F00529044707%2F1963011401%2F0635.xml&q=cuba&relevant_snippet=1"
+}

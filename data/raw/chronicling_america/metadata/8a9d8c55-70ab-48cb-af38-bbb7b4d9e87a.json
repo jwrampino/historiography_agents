@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83030313/1864-10-07/ed-1/?sp=1"
+  ],
+  "batch": [
+    "dlc_deadnettle_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1864-10-07",
+  "dates": [
+    "1864-10-07"
+  ],
+  "description": [
+    "THE NEW YORK HERALD WHOLE NO 10267 NEW YORK FRIDAY OCTOBER 7 1861 PRICE FOUR CENTS THE FEIMlAI4 01 REGIOI History of Its Rise and Won dcrful Progress TBE PETROLKCM ARISTOCRACY Siigular Developments About the Uses Made of Their Wealth Aftonlliing Freaks of Nature ami Fortune THE OIL PRINCES AND PRINCESSES rrtnratjM4k DpBatin Dauiktls a ad Equipages Thousand a Day and a Million a Year SUCDtN GROWTH OF TOWNS AND CITIES Sb Arabian If ght3 and California Outdone OIL DORADO INEXHAUSTIBLE BCGlS PETROLUJ SOT COMPANIES THE TRICKS OF SHARPERS A BRILLIANT COUP DlLE iw to Reach the Oil Region and What to Do When You Get There THE MCDE OF BORING FOR OIL K K TBB BKOINNING Frobably thera I no article of oommeroe or specula that la go much exciting the atteutlon of capitalists aad ethers as tne product o the rock oil regions or our t atuirjr These regioaa are believed to esiend from the Btacrn portion of the Ohio valley to Georgian Bay of IvBe Hoion In Up r Canada aud from Mbe Allegbaolee h raousTiTania to the western limits of the bllumlooos m gents Id the vicinity of the Missouri rlrnr Ths yroiabie superficial extent of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:57:41.251Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83030313/1864-10-07/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:0027174349A:1864100701:0310/full/pct:3.125/0/default.jpg#h=271&w=192",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:0027174349A:1864100701:0310/full/pct:6.25/0/default.jpg#h=542&w=384",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:0027174349A:1864100701:0310/full/pct:12.5/0/default.jpg#h=1085&w=769",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_deadnettle_ver01/data/sn83030313/0027174349A/1864100701/0310.xml&format=alto_xml"
+  ],
+  "index": 63,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "new york",
+    "new york county",
+    "new york city"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "9",
+    "7",
+    "4",
+    "a",
+    "3",
+    "sn83030313",
+    "2",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83030313"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "1",
+    "7",
+    "4",
+    "3",
+    "4",
+    "9",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "New York daily herald"
+  ],
+  "page_id": "sn83030313-1864-10-07-ed-1-0310",
+  "partof": [
+    "serial and government publications division",
+    "chronicling america",
+    "the new york herald (new york [n.y.]) 1840-1920"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the new york herald (new york [n.y.]) 1840-1920"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83030313/1864-10-07/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83030313/1864-10-07/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "new york",
+    "new york county (n.y.)",
+    "new york (state)",
+    "newspapers",
+    "new york county",
+    "new york (n.y.)"
+  ],
+  "timestamp": "2022-10-20T05:04:19.006Z",
+  "title": "Image 1 of The New York herald (New York [N.Y.]), October 7, 1864",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83030313/1864-10-07/ed-1/?sp=1&q=oil",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_deadnettle_ver01%2Fdata%2Fsn83030313%2F0027174349A%2F1864100701%2F0310.xml&q=oil&relevant_snippet=1"
+}

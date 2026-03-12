@@ -1,0 +1,22 @@
+{
+  "creator": "Microsoft",
+  "date": "1995-01-01T00:00:00Z",
+  "description": "Full install of Windows 95 for VirtualBox 2.1 GB VDI file Graphics drivers installed Additional software installed Internet access enabled Active desktop enabled For historical research or museum quality display Notes:\u00a0 You must disable VT-x/AMD-V in VirtualBox or the operating system will not boot. No network user name or password has been established.\u00a0 Just click on Cancel .",
+  "format": [
+    "Item Tile",
+    "JPEG",
+    "JPEG Thumb",
+    "Metadata",
+    "ZIP"
+  ],
+  "identifier": "windows_95_vdi",
+  "mediatype": "software",
+  "subject": [
+    "windows",
+    "95",
+    "virtualbox",
+    "vdi",
+    "full"
+  ],
+  "title": "Windows 95 VDI File for VirtualBox"
+}

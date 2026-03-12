@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn92053389/1841-07-03/ed-1/?sp=1"
+  ],
+  "batch": [
+    "iune_albatross_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/illinois/",
+    "2/united states/illinois/la salle/",
+    "3/united states/illinois/la salle/lowell/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1841-07-03",
+  "dates": [
+    "1841-07-03"
+  ],
+  "description": [
+    "enius of Liberty PUBLISHED BY TIIE BOARD OF MANAGERS OF THE LA SALLE COUNTY ANTISLAVERY SOCIETY 44 We hold these truths to be selfevident that all men are created equal and endowed by their Creator with certain inalienable right that among these are life liberty and the pur 1P No 39 Vol 1 LOWELL LA SALLE COUNTY ILLINOIS SATURDAY JULY 3 1841 II W A R IIE N Z E A S T MAN Editors and Publishing Agents TermsTwo Dollars pur annum in advance Subscriptions for six mouths will bo received at the same rate 07 Advertisements will be inserted at the usual prices 07 All letters must be directed post paid to the Editors of the Genius of Liberty Permit ionvillc La Salic Count Illinois fjT Postmasters arc authorized to enclose money far subscribers in letters to Publishers of newspapers and frank the same if signed by themselves AGENTS The following persons are authorized to re ceive subscriptions for the Genius of Liberty il r I no is Flo rid P u t n a i n Co Union Jrovc 44 Magnolia 44 dranville 44 Princeton 13ureau Elder Henry Headl Bamo ilF 44 Thomas Strong ScyhobVs Mills La Salle"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:15:42.216Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn92053389/1841-07-03/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn92053389:00514151179:1841070301:0088/full/pct:6.25/0/default.jpg#h=371&w=234",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn92053389:00514151179:1841070301:0088/full/pct:12.5/0/default.jpg#h=742&w=469",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_albatross_ver01/data/sn92053389/00514151179/1841070301/0088.xml&format=alto_xml"
+  ],
+  "index": 187,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "la salle",
+    "united states",
+    "illinois",
+    "lowell",
+    "la salle county"
+  ],
+  "location_city": [
+    "lowell"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "la salle"
+  ],
+  "location_state": [
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn92053389",
+    "5",
+    "9",
+    "7",
+    "4",
+    "0",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn92053389"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "4",
+    "1",
+    "5",
+    "1",
+    "1",
+    "7",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn92053389-1841-07-03-ed-1-0088",
+  "partof": [
+    "serial and government publications division",
+    "genius of liberty (lowell, la salle county, ill.) 1840-1842",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "genius of liberty (lowell, la salle county, ill.) 1840-1842"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn92053389/1841-07-03/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn92053389/1841-07-03/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "la salle",
+    "la salle county (ill.)",
+    "illinois",
+    "lowell (ill.)",
+    "lowell",
+    "newspapers",
+    "la salle county",
+    "antislavery movements"
+  ],
+  "timestamp": "2025-05-21T11:10:42.835Z",
+  "title": "Image 1 of Genius of liberty (Lowell, La Salle County, Ill.), July 3, 1841",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn92053389/1841-07-03/ed-1/?sp=1&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_albatross_ver01%2Fdata%2Fsn92053389%2F00514151179%2F1841070301%2F0088.xml&q=slavery&relevant_snippet=1"
+}

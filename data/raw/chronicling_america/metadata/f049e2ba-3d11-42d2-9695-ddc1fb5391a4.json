@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045293/1926-05-04/ed-1/?sp=3"
+  ],
+  "batch": [
+    "whi_havarti_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/wisconsin/",
+    "2/united states/wisconsin/milwaukee/",
+    "3/united states/wisconsin/milwaukee/milwaukee/"
+  ],
+  "contributor": [
+    "wisconsin historical society"
+  ],
+  "date": "1926-05-04",
+  "dates": [
+    "1926-05-04"
+  ],
+  "description": [
+    "THREE Full Text of Bergers Speech on Activities in Congress SOCIALIST TELLS PURPOSE Bl EFGISLAI ION HE INTRODUCED Washington Bureau The Milwaukee Leader F l9l I B WASHINGTONThe full text of Representative Vic tor L Bergers forceful speech on the Socialist legislation he has presented to congress at this session was made avail able today in The Congressional Record The Milwaukee Socialists address held the close at tention of the house as the verbatim indicates and also brought forth persistent attempts at heckling by Repre sentatives Blanton Democrat of Texas and Albert John son Republican of Washington chairman of the immigra tion committee Mr Bergers retorts to these representa tives frequently brought appreciative laughter The text of the Wisconsin mans address follows Mr Berger Mr Speaker and gentlemen nobody realizes more than I do the peculiar position I hold in this house as the only So cialist in congress I was the first Socialist elected in the 62 congress in 1910 and it seems to be written in the stars that at least in the be ginning not more than one Socialist shall sit in this house Describes His Function Whenever the electors of the sth district of Wisconsin made"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-10-20T02:16:15.546Z",
+  "group": [
+    "ndnp/whi",
+    "wisconsin-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045293/1926-05-04/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_havarti_ver01:data:sn83045293:00542869197:1926050401:0169/full/pct:3.125/0/default.jpg#h=300&w=226",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_havarti_ver01:data:sn83045293:00542869197:1926050401:0169/full/pct:6.25/0/default.jpg#h=600&w=453",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/whi/batch_whi_havarti_ver01/data/sn83045293/00542869197/1926050401/0169.xml&format=alto_xml"
+  ],
+  "index": 95,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "wisconsin",
+    "milwaukee"
+  ],
+  "location_city": [
+    "milwaukee"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "milwaukee"
+  ],
+  "location_state": [
+    "wisconsin"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000003",
+    "0",
+    "9",
+    "sn83045293",
+    "5",
+    "2",
+    "4",
+    "6",
+    "1",
+    "7",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045293"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "2",
+    "8",
+    "6",
+    "9",
+    "1",
+    "9",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83045293-1926-05-04-ed-1-0169",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the milwaukee leader (milwaukee, wis.) 1911-1938"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the milwaukee leader (milwaukee, wis.) 1911-1938"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045293/1926-05-04/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045293/1926-05-04/ed-1/"
+  ],
+  "shelf_id": "03",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "https://id.oclc.org/worldcat/entity/e39pbjj8j7dbwccgbfpvchw3cp",
+    "milwaukee (wis.)",
+    "milwaukee",
+    "socialism",
+    "wisconsin"
+  ],
+  "timestamp": "2024-10-20T03:19:40.894Z",
+  "title": "Image 3 of The Milwaukee leader (Milwaukee, Wis.), May 4, 1926, (Morning Edition)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045293/1926-05-04/ed-1/?sp=3&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwhi%2Fbatch_whi_havarti_ver01%2Fdata%2Fsn83045293%2F00542869197%2F1926050401%2F0169.xml&q=fascism&relevant_snippet=1"
+}

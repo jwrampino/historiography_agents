@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1905-12-10/ed-1/?sp=7"
+  ],
+  "batch": [
+    "dlc_weimaraner_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1905-12-10",
+  "dates": [
+    "1905-12-10"
+  ],
+  "description": [
+    "CHILD LIBOR LIS Legislation for the District Considered WORK OF COMMITTEE SAMTJFL GO MP ESS TALKS FOR ORGANIZED LABOR Addresses Made by Dr Kober Mr S W Woodward Mr Henry J Harris and Others District of Crlumba needs in the matter of child labor legislation were mide Jnlnute ly clear at the lost session of the national Charles P Neill chd laVxir committee nt the New Willard yesterday afternoon Ir George M Ko ber commissioner of labor Charles P Neili S N Woodward Henry J Harris and Samuel Gompers made the addresses of the session Rumor brines me word that at a pre vious session of this committee here in Edward T Devine Washington the statement was made that tie Federation of Labor is not sincere in its efforts to secure legislation against child labor Is thai true The question was asked impressively by President Gompers Assured that no such statement had been made the leader of the Jabot organization said Cotton manufacturers in the south in order to defeat eild labor laws as advo Isaac N Seligman Chairman of Finance uiiiuilllee caed by the Federation of Labor have made the pretense that such legislation would encourage the unions that"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-01-08T13:49:46.567Z",
+  "group": [
+    "ndnp/dlc-2011_2013",
+    "library-of-congress-washington-dc-awardee-4"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1905-12-10/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_weimaraner_ver02:data:sn83045462:00280656057:1905121001:0147/full/pct:6.25/0/default.jpg#h=479&w=359",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_weimaraner_ver02:data:sn83045462:00280656057:1905121001:0147/full/pct:12.5/0/default.jpg#h=959&w=719",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_weimaraner_ver02/data/sn83045462/00280656057/1905121001/0147.xml&format=alto_xml"
+  ],
+  "index": 19,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "district of columbia",
+    "washington d.c.",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "6",
+    "0000000007",
+    "2",
+    "5",
+    "1",
+    "7",
+    "sn83045462",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "6",
+    "0",
+    "5",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday issues for Mar. 26, 1905-July 9,1972 called: Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1905-12-10-ed-1-0147",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1905-12-10/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1905-12-10/ed-1/"
+  ],
+  "shelf_id": "07",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "https://id.oclc.org/worldcat/entity/e39pbjfcwcmmjdpvk8h8hpkccp",
+    "newspapers",
+    "washington",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2025-01-09T09:53:53.826Z",
+  "title": "Image 7 of Evening star (Washington, D.C.), December 10, 1905",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1905-12-10/ed-1/?sp=7&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_weimaraner_ver02%2Fdata%2Fsn83045462%2F00280656057%2F1905121001%2F0147.xml&q=child+labor&relevant_snippet=1"
+}

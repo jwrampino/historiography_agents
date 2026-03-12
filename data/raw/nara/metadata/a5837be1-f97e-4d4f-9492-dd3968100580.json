@@ -1,0 +1,113 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "Camp Arbuckle, Indian Territory, Oklahoma",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-3200",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Cartographic",
+          "state": "MD",
+          "fax": "301-837-3622",
+          "email": "carto@nara.gov",
+          "mailCode": "RDSC"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupId": "ou=NWCS-C,ou=groups",
+    "groupCd": "RDSC"
+  },
+  "generalRecordsTypes": [
+    "Architectural and Engineering Drawings"
+  ],
+  "localIdentifier": "Fort Arbuckle 8",
+  "digitalObjects": [
+    {
+      "objectFilename": "4521828_008_001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/cartographic/rg-077/305806/Batch0001/4521828_008_001.jpg",
+      "objectFileSize": 1234,
+      "objectId": "205135145",
+      "objectType": "Image (JPG)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1789,
+        "logicalDate": "1789-01-01"
+      },
+      "distance": 3,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 77,
+      "inclusiveEndDate": {
+        "year": 1999,
+        "logicalDate": "1999-12-31"
+      },
+      "title": "Records of the Office of the Chief of Engineers",
+      "naId": 406
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1840,
+        "logicalDate": "1840-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "War Department. Office of the Chief of Engineers. 1818-9/18/1947",
+          "abolishDate": {
+            "month": 9,
+            "year": 1947,
+            "day": 18,
+            "logicalDate": "1947-09-18"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1818,
+            "logicalDate": "1818-01-01"
+          },
+          "naId": 10504036
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1947,
+        "logicalDate": "1947-12-31"
+      },
+      "title": "Plans of Military Posts in the United States",
+      "naId": 305806
+    },
+    {
+      "distance": 1,
+      "levelOfDescription": "fileUnit",
+      "title": "Fort Arbuckle, Oklahoma",
+      "naId": 4521828
+    }
+  ],
+  "scopeAndContentNote": "Includes AB - Side of the Square 60 yards, C - Blockhouse 25 feet square, D - Company Quarters 22 feet square, D' - Vacant Space between the Company Quarters 6 Feet wide, E - Officers Quarters 22 Feet Square, D\" and E' - Temporary Kitchen built of Round Logs, and F - Well.",
+  "naId": 205135144
+}

@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84020662/1962-09-05/ed-1/?sp=1"
+  ],
+  "batch": [
+    "ak_eiderduck_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/alaska/",
+    "2/united states/alaska/nome/",
+    "3/united states/alaska/nome/nome/"
+  ],
+  "contributor": [
+    "alaska state library historical collections"
+  ],
+  "date": "1962-09-05",
+  "dates": [
+    "1962-09-05"
+  ],
+  "description": [
+    "THE NOME NUGGET OLDEST NEWSPAPER IN ALASKAN ER ASSOCIATED PRESS li 63rd Year No 105 NOME ALASKA WEDNESDAY SEPTEMBER 5 1962 Per Copy J 5 Earth Tremors Rock Turkey and Soviet Armenia TEHRAN Iran P Earth tre mors today rocked Turkey and Soviet Armenia near the frontier of Iran as this nation dug out of the mins of a quake that the Shah said killed at least 10000 persons The Shah began a tour of the northwest region which was dealt a deadly blow Saturday as re ports came of the new earth rumb lings within 400 miles across the Iranian border Moderately strong shocks shook the Turkish town of Igdir neai the Soviet frontier and damaged about a quarter of the buildings There were no immediate reports of any deaths Igdir has 10000 popula tion The Soviet news agency Tass said a fairly strong earthquake hit So viet Armenia at 3 am and was followed by 14 weak tremors Yerevan a big modernized city at the foot of Mt Ararat felt the rumblings The Soviet news agency gave no details on possible casual ties or damage The Shah of Iran was on a two day tour of his quakeravaged"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-05-22T12:58:36.923Z",
+  "group": [
+    "ndnp/ak",
+    "alaska-state-library-historical-collections-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84020662/1962-09-05/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_eiderduck_ver02:data:sn84020662:00414185320:1962090501:0678/full/pct:6.25/0/default.jpg#h=389&w=285",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_eiderduck_ver02:data:sn84020662:00414185320:1962090501:0678/full/pct:12.5/0/default.jpg#h=779&w=571",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ak/batch_ak_eiderduck_ver02/data/sn84020662/00414185320/1962090501/0678.xml&format=alto_xml"
+  ],
+  "index": 175,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "alaska",
+    "nome"
+  ],
+  "location_city": [
+    "nome"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "nome"
+  ],
+  "location_state": [
+    "alaska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000001",
+    "2",
+    "8",
+    "5",
+    "3",
+    "sn84020662",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84020662"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "1",
+    "8",
+    "5",
+    "3",
+    "2",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Nugget"
+  ],
+  "page_id": "sn84020662-1962-09-05-ed-1-0678",
+  "partof": [
+    "chronicling america",
+    "the nome nugget (nome, alaska) 1938-current",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the nome nugget (nome, alaska) 1938-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84020662/1962-09-05/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84020662/1962-09-05/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "nome",
+    "nome (alaska)",
+    "alaska",
+    "newspapers"
+  ],
+  "timestamp": "2024-05-22T17:51:33.070Z",
+  "title": "Image 1 of The Nome nugget (Nome, Alaska), September 5, 1962",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84020662/1962-09-05/ed-1/?sp=1&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fak%2Fbatch_ak_eiderduck_ver02%2Fdata%2Fsn84020662%2F00414185320%2F1962090501%2F0678.xml&q=cuba&relevant_snippet=1"
+}

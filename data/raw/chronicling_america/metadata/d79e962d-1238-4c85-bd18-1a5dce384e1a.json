@@ -1,0 +1,167 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045366/1906-09-29/ed-1/?sp=1"
+  ],
+  "batch": [
+    "mnhi_dunbar_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/minnesota/",
+    "2/united states/minnesota/hennepin/",
+    "3/united states/minnesota/hennepin/minneapolis/"
+  ],
+  "contributor": [
+    "minnesota historical society; saint paul, mn"
+  ],
+  "date": "1906-09-29",
+  "dates": [
+    "1906-09-29"
+  ],
+  "description": [
+    "7 HOME EDITIONS AWFUL HAYOC ON GULF COAST Hundred Dead at Mobile and Mp lions Lost in Wreck of Property PENSACOLAS DEATH LIST IS TWENTY aVE jeports from the Scenes of the Typhoon Grow Hourly Worse Pensacola Fla Sept 29The vast ness of the destruction wrought by the hurricane here Thursday is now being realized Twentyfive persons are known to have been drowned here Mobile Ala Sept 29Between sev entyfive and 100 lives lost fully two score vessels driven ashore or wrecked in various parts of the Gulf of Mexi co damage amounting to 4500000 in the city of Mobile and to the extent of millions or more at outside points is the record of the storm which swept over Mobile on Wednesday and Wed nesday night No accurate estimate of the number of casualties can be made now and it is doubtful if it will be known for a week or more Grave apprehension exists regarding the situation at Gulf Port and Biloxi where it is believed that many lives have been lost Reports from those places are how ever meager and unsatisfactory It is declared by the local municipal officials that no lives have been lost in the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-04T16:58:28.331Z",
+  "group": [
+    "ndnp/mnhi",
+    "minnesota-historical-society-saint-paul-mn-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045366/1906-09-29/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83045366:00206538429:1906092901:0324/full/pct:3.125/0/default.jpg#h=293&w=213",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83045366:00206538429:1906092901:0324/full/pct:6.25/0/default.jpg#h=587&w=426",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83045366:00206538429:1906092901:0324/full/pct:12.5/0/default.jpg#h=1174&w=853",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mnhi/batch_mnhi_dunbar_ver01/data/sn83045366/00206538429/1906092901/0324.xml&format=alto_xml"
+  ],
+  "index": 46,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "hennepin",
+    "minneapolis",
+    "minnesota"
+  ],
+  "location_city": [
+    "minneapolis"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hennepin"
+  ],
+  "location_state": [
+    "minnesota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "5",
+    "9",
+    "sn83045366",
+    "4",
+    "3",
+    "2",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045366"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "6",
+    "5",
+    "3",
+    "8",
+    "4",
+    "2",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday journal",
+    "Journal junior",
+    "Evening journal",
+    "Minneapolis evening journal"
+  ],
+  "page_id": "sn83045366-1906-09-29-ed-1-0324",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the minneapolis journal (minneapolis, minn.) 1888-1939"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the minneapolis journal (minneapolis, minn.) 1888-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045366/1906-09-29/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045366/1906-09-29/ed-1/"
+  ],
+  "shelf_id": "01",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "hennepin",
+    "newspapers",
+    "minnesota",
+    "minneapolis (minn.)",
+    "minneapolis"
+  ],
+  "timestamp": "2024-01-04T14:30:06.073Z",
+  "title": "Image 1 of The Minneapolis journal (Minneapolis, Minn.), September 29, 1906",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045366/1906-09-29/ed-1/?sp=1&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmnhi%2Fbatch_mnhi_dunbar_ver01%2Fdata%2Fsn83045366%2F00206538429%2F1906092901%2F0324.xml&q=cuba&relevant_snippet=1"
+}

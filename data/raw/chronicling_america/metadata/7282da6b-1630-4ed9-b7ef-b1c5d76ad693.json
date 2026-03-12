@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83030313/1873-06-23/ed-1/?sp=8"
+  ],
+  "batch": [
+    "dlc_houseleek_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1873-06-23",
+  "dates": [
+    "1873-06-23"
+  ],
+  "description": [
+    "NEW YORK HERALD BROADWAY AND AMD STREET JAMES GORDON BENNETT PROPRIETOR Volume XXXVIII Bio 174 amusements this evening BOWERY THEATRE Bowery Thk Hirrr Mia A la Oct at ska THEATRE COMIQUK No 814 Broad way Tnm Sknsa flONAL Duama or Dikdbhii WOODS MUSEUM Broadway corner Thirtieth St VmniMu Ham Afternoon and eveuiiu NlBLOS GARDEN Broadway between Prince and Houston its Koomsb UNION SQUARE THEATRE Union square near Broadway Jab Etkk OLYMPIC THEATRE Broadway between Houston nd Bleucker streets Fidelia WALLACES THEATRE Broadway and Thirteenth street Mora NEW FIFTH AVENUE THEATRE 728 and 730 Broad way MaDBLKIK MoKKL BRYANTS OPERA hoit8E Twentythird SU corner th aVNtCBO MlKSTBtLST Ac AMERICAN INSTITUTE HALL Third av 63d and 6th its Scmbsb Nights Contebes IRVING HALL corner of Irving place and 15th t Billiabd Exhibition CENTRAL PARE GARDEN Summer Nicirrs Coif fBBTS METROPOLITAN MUSEUM OF ART 128 West Four teentli sL Cvikian and Loan Collections or Akt NW YORK MUSEUM OF ANATOMY 618 Broadway fClBNCE AND AKT TRIPLE SHEET Hew York Monday June 33 1873 THE NEWS OP YESTERDAY ToDnys Contents of the Herald 0UR WESTERN INDIANS AND THEIR RESER VATIONS WHAT SHALL WE DO WITH THEM TITLE OF THE LEADER Sixth Page THE INDIANS"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:20:06.090Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83030313/1873-06-23/ed-1/?sp=8",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743828:1873062301:1147/full/pct:3.125/0/default.jpg#h=271&w=190",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743828:1873062301:1147/full/pct:6.25/0/default.jpg#h=543&w=381",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743828:1873062301:1147/full/pct:12.5/0/default.jpg#h=1087&w=762",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_houseleek_ver01/data/sn83030313/00271743828/1873062301/1147.xml&format=alto_xml"
+  ],
+  "index": 122,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "new york",
+    "united states",
+    "new york county",
+    "new york city"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "2",
+    "0000000008",
+    "8",
+    "3",
+    "4",
+    "1",
+    "7",
+    "sn83030313"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83030313"
+  ],
+  "number_page": [
+    "0000000008"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "1",
+    "7",
+    "4",
+    "3",
+    "8",
+    "2",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "New York daily herald"
+  ],
+  "page_id": "sn83030313-1873-06-23-ed-1-1147",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the new york herald (new york [n.y.]) 1840-1920"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the new york herald (new york [n.y.]) 1840-1920"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83030313/1873-06-23/ed-1/?sp=8"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83030313/1873-06-23/ed-1/"
+  ],
+  "shelf_id": "08",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "new york",
+    "new york (state)",
+    "united states",
+    "new york county",
+    "new york county (n.y.)",
+    "newspapers",
+    "new york (n.y.)"
+  ],
+  "timestamp": "2022-10-20T17:47:58.700Z",
+  "title": "Image 8 of The New York herald (New York [N.Y.]), June 23, 1873",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83030313/1873-06-23/ed-1/?sp=8&q=indian+territory",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_houseleek_ver01%2Fdata%2Fsn83030313%2F00271743828%2F1873062301%2F1147.xml&q=indian+territory&relevant_snippet=1"
+}

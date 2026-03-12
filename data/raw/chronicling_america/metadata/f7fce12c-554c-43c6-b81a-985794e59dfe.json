@@ -1,0 +1,173 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn96027724/1907-08-28/ed-1/?sp=1"
+  ],
+  "batch": [
+    "fu_bathouse_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/florida/",
+    "2/united states/florida/duval/",
+    "3/united states/florida/duval/jacksonville/",
+    "2/united states/florida/volusia/",
+    "3/united states/florida/volusia/de land/"
+  ],
+  "contributor": [
+    "university of florida"
+  ],
+  "date": "1907-08-28",
+  "dates": [
+    "1907-08-28"
+  ],
+  "description": [
+    "VOL XXXIV No 35 Do We Need More People We think that a majority of the people of this state would answer that question in the affirmative But the Farmers Union is opposed to foreign immigrants Probably most of us would object to opening the doors to an indiscriminate horde of the offscourings of Europe Asia and Africa But we do need more labor ers of that fact there can be no ques tion then what shall we do The following wise editorial on the sub ject is from the Live Oak Democrat We want no immigrants from across the seas it matters not from what country they come declared Hon Chas Barrett president of the National Farmers Union in a speech in New Orleans before the annual convention of the Louisiana branch of the union This is plain talk and what is more Mr Barrett is express ing the fixed policy of the union on that vital issue There is an increas ing cry going up from the plantations of the South for more labor as the public works have drawn away a large proportion of the negroes and in obedience to this insistent call there has been a"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2026-01-27T16:57:42.656Z",
+  "group": [
+    "ndnp/fu",
+    "university-of-florida-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn96027724/1907-08-28/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_bathouse_ver01:data:sn96027724:00271761648:1907082801:0128/full/pct:3.125/0/default.jpg#h=314&w=220",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_bathouse_ver01:data:sn96027724:00271761648:1907082801:0128/full/pct:6.25/0/default.jpg#h=629&w=441",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/fu/batch_fu_bathouse_ver01/data/sn96027724/00271761648/1907082801/0128.xml&format=alto_xml"
+  ],
+  "index": 31,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "duval",
+    "jacksonville",
+    "duval county",
+    "volusia",
+    "florida",
+    "de land",
+    "volusia county",
+    "united states"
+  ],
+  "location_city": [
+    "jacksonville",
+    "de land"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "duval",
+    "volusia"
+  ],
+  "location_state": [
+    "florida"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000001",
+    "2",
+    "6",
+    "8",
+    "sn96027724",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn96027724"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "1",
+    "7",
+    "6",
+    "1",
+    "6",
+    "4",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn96027724-1907-08-28-ed-1-0128",
+  "partof": [
+    "chronicling america",
+    "the florida agriculturist (deland, fla.) 1878-1911",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the florida agriculturist (deland, fla.) 1878-1911"
+  ],
+  "publication_frequency": [
+    "monthly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn96027724/1907-08-28/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn96027724/1907-08-28/ed-1/"
+  ],
+  "shelf_id": "01",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "duval",
+    "de land (fla.)",
+    "volusia county (fla.)",
+    "jacksonville",
+    "jacksonville (fla.)",
+    "duval county (fla.)",
+    "duval county",
+    "volusia",
+    "florida",
+    "agriculture",
+    "de land",
+    "volusia county",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2026-01-27T19:09:26.522Z",
+  "title": "Image 1 of The Florida agriculturist (DeLand, Fla.), August 28, 1907",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn96027724/1907-08-28/ed-1/?sp=1&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Ffu%2Fbatch_fu_bathouse_ver01%2Fdata%2Fsn96027724%2F00271761648%2F1907082801%2F0128.xml&q=immigration&relevant_snippet=1"
+}

@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87062224/1962-04-27/ed-1/?sp=13"
+  ],
+  "batch": [
+    "deu_groot_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/delaware/",
+    "2/united states/delaware/sussex/",
+    "3/united states/delaware/sussex/milford/"
+  ],
+  "contributor": [
+    "university of delaware library, newark, de"
+  ],
+  "date": "1962-04-27",
+  "dates": [
+    "1962-04-27"
+  ],
+  "description": [
+    "One of negineerings most signi ficant new achievements the ana log computer is going to work every day at the University of Del Acquired originally as an aid in solving complex research problems the computer is now also being used extenstvley by third an dfour th year engineering students UNIVERSITY NEWS aware Since its beginning as a small computer facility in 1958 the ana log computer has contributed greatlv to the research efforts of faculty and graduate students It has made possible new research Which won 111 otherwise not have been undertaken Now however an enlarged analog facility at th ellni versity is having an impact no un dergraduate education According to Dr David E Lamb of the Universitys School of En gineering We are making more use of the analog computer in un dergraduate education than other university I know any _ r _ i Dr Lamb who quips that he is a feed ing of the analog computer serves as an advisor to students solving NOTICE NEW PHONE NO 4229626 COLLINSMARVEL AGENCY N Walnut St 4133t Milford Del New gas ranges cant be beat Coo kin s fast with magic heat AT YOUR Mobilflame I BOTTLED GAS HEADQUARTERS"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-12T17:56:55.709Z",
+  "group": [
+    "ndnp/deu",
+    "university-of-delaware-library-newark-de-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87062224/1962-04-27/ed-1/?sp=13",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_groot_ver01:data:sn87062224:00514156979:1962042701:0013/full/pct:3.125/0/default.jpg#h=272&w=223",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_groot_ver01:data:sn87062224:00514156979:1962042701:0013/full/pct:6.25/0/default.jpg#h=544&w=446",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_groot_ver01:data:sn87062224:00514156979:1962042701:0013/full/pct:12.5/0/default.jpg#h=1089&w=892",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/deu/batch_deu_groot_ver01/data/sn87062224/00514156979/1962042701/0013.xml&format=alto_xml"
+  ],
+  "index": 39,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "milford",
+    "united states",
+    "sussex",
+    "delaware"
+  ],
+  "location_city": [
+    "milford"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "sussex"
+  ],
+  "location_state": [
+    "delaware"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000013",
+    "sn87062224",
+    "9",
+    "6",
+    "5",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87062224"
+  ],
+  "number_page": [
+    "0000000013"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "4",
+    "1",
+    "5",
+    "6",
+    "9",
+    "7",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87062224-1962-04-27-ed-1-0013",
+  "partof": [
+    "milford chronicle (milford, del.) 1878-1974",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "milford chronicle (milford, del.) 1878-1974"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87062224/1962-04-27/ed-1/?sp=13"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87062224/1962-04-27/ed-1/"
+  ],
+  "shelf_id": "13",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "milford (del.)",
+    "sussex",
+    "delaware",
+    "milford",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-08-13T05:55:39.511Z",
+  "title": "Image 13 of Milford chronicle (Milford, Del.), April 27, 1962",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87062224/1962-04-27/ed-1/?sp=13&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdeu%2Fbatch_deu_groot_ver01%2Fdata%2Fsn87062224%2F00514156979%2F1962042701%2F0013.xml&q=computers&relevant_snippet=1"
+}

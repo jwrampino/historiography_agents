@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84038468/1847-08-19/ed-1/?sp=2"
+  ],
+  "batch": [
+    "wvu_boros_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/west virginia/",
+    "2/united states/west virginia/berkeley/",
+    "3/united states/west virginia/berkeley/martinsburg/"
+  ],
+  "contributor": [
+    "west virginia university"
+  ],
+  "date": "1847-08-19",
+  "dates": [
+    "1847-08-19"
+  ],
+  "description": [
+    "I R M T HE A R M Y IMPORTANT PROM MEXICO iforral Kripn in the Weld with For honwtnd Men lAll WR HliISEORCEMEOTT More Of the Be port of the enterinipof Geo Scott into the itf ol Mexico LATER FRJW GEREML TATIOR CORKKUrbVDCMI T OR THt BALTIMORr PATRIOT Richmond August 13 1847 Thfrmailin from the Soothbringing New Orleans papers of iheGth The steamer Ohio had arrived from the Bra ztx with later accounts from Monterey It van reported on it was believed suffi iently authentic information that Gen Lrrea was on this side of the Sierra Madre with a force of lour thousand troops under his com mand On receiving this information Gen Hop ping had sent a requisition to Matamoras for a reinforcement of dragoons but there were uione there and a company of mounted infan try was all that could he sent There were a number of rumors and reports in circulation m Mauutoras Monterey and Buena Vista It was said that a Mexican officer with a command of 250 men was on the road between Matamoras and Monterey and that he had taken a number of park mules and goods which were on their way to"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-27T16:57:21.556Z",
+  "group": [
+    "ndnp/wvu",
+    "west-virginia-university-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84038468/1847-08-19/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348999:1847081901:0128/full/pct:6.25/0/default.jpg#h=451&w=328",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348999:1847081901:0128/full/pct:12.5/0/default.jpg#h=902&w=657",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wvu/batch_wvu_boros_ver02/data/sn84038468/00393348999/1847081901/0128.xml&format=alto_xml"
+  ],
+  "index": 38,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "west virginia",
+    "berkeley",
+    "martinsburg"
+  ],
+  "location_city": [
+    "martinsburg"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "berkeley"
+  ],
+  "location_state": [
+    "west virginia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "3",
+    "4",
+    "1",
+    "sn84038468",
+    "0000000002",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84038468"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "9",
+    "3",
+    "3",
+    "4",
+    "8",
+    "9",
+    "9",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84038468-1847-08-19-ed-1-0128",
+  "partof": [
+    "chronicling america",
+    "martinsburg gazette (martinsburg, va. [w. va.]) 1833-1855",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "martinsburg gazette (martinsburg, va. [w. va.]) 1833-1855"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84038468/1847-08-19/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84038468/1847-08-19/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "berkeley",
+    "united states",
+    "martinsburg (w. va.)",
+    "newspapers",
+    "martinsburg",
+    "west virginia"
+  ],
+  "timestamp": "2025-07-16T02:31:41.298Z",
+  "title": "Image 2 of Martinsburg gazette (Martinsburg, Va. [W. Va.]), August 19, 1847",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84038468/1847-08-19/ed-1/?sp=2&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwvu%2Fbatch_wvu_boros_ver02%2Fdata%2Fsn84038468%2F00393348999%2F1847081901%2F0128.xml&q=manifest+destiny&relevant_snippet=1"
+}

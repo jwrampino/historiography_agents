@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82015374/1824-07-13/ed-1/?sp=1"
+  ],
+  "batch": [
+    "iune_bismuth_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/illinois/",
+    "2/united states/illinois/madison/",
+    "3/united states/illinois/madison/edwardsville/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1824-07-13",
+  "dates": [
+    "1824-07-13"
+  ],
+  "description": [
+    "SPECTATOR VOL V EDWAIiLSVJLLE ILLINOIS TUESDAY JULY 18 1824 NO 260 IV LT VI i w __ _ PUBLISHED WEEKLY BY HOOPER WARREN Tenna of subscriptionS Ter annum payable in advance Subscribers who do not comply with this condition will le charged at the rate of 4 per annum A failure to give notice of a wish to discontinue at the end of each term will be considered as a new engagement No paper to be discontinued unless at the option of the Editor until all arrearages shall have been paid rlrtnertitemenfs not exceeding a square will be inserted at 1 for the first and 50 cents for each subsequent insertion 1 arger advertise ments in the same proportion Ti Letters to the Editor must be post paid M dUNlC A HONS TO THE PEOPLE OF MADISON COUNTY Fellow Citizens Several misrepresentations having been industriously circulated against me I deem ii an act of justice to you 10 nay friends and to myself to give a correct statement of the circumstances upon which they appear to have been found ed At the last session of the General As sembly I presented at the earnest re quest of a gentleman of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:16:59.320Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82015374/1824-07-13/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824071301:0270/full/pct:6.25/0/default.jpg#h=379&w=235",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824071301:0270/full/pct:12.5/0/default.jpg#h=759&w=471",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_bismuth_ver01/data/sn82015374/00332898024/1824071301/0270.xml&format=alto_xml"
+  ],
+  "index": 42,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "edwardsville",
+    "united states",
+    "illinois",
+    "madison"
+  ],
+  "location_city": [
+    "edwardsville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "madison"
+  ],
+  "location_state": [
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn82015374",
+    "8",
+    "0",
+    "2",
+    "3",
+    "9",
+    "1",
+    "0000000001",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82015374"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "8",
+    "0",
+    "2",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82015374-1824-07-13-ed-1-0270",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "edwardsville spectator (edwardsville, ill.) 1819-1826"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "edwardsville spectator (edwardsville, ill.) 1819-1826"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82015374/1824-07-13/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82015374/1824-07-13/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "antislavery movements",
+    "madison",
+    "edwardsville (ill.)",
+    "edwardsville",
+    "illinois",
+    "united states"
+  ],
+  "timestamp": "2025-05-21T15:27:18.541Z",
+  "title": "Image 1 of Edwardsville spectator (Edwardsville, Ill.), July 13, 1824",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82015374/1824-07-13/ed-1/?sp=1&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_bismuth_ver01%2Fdata%2Fsn82015374%2F00332898024%2F1824071301%2F0270.xml&q=slavery&relevant_snippet=1"
+}

@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86063790/1906-12-27/ed-1/?sp=3"
+  ],
+  "batch": [
+    "scu_albinoskunk_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/south carolina/",
+    "2/united states/south carolina/bamberg/",
+    "3/united states/south carolina/bamberg/bamberg/"
+  ],
+  "contributor": [
+    "university of south carolina; columbia, sc"
+  ],
+  "date": "1906-12-27",
+  "dates": [
+    "1906-12-27"
+  ],
+  "description": [
+    "m _ I ll IN FAVOR OF SOUTH V Was First Ruling Made By New Head of Commerce t ON IMMIGRATION CASES K1 States May Induce Immigration WithV cut Violating the Alien Contract 4 JLabor LawSouth Carolina i Case is Decided A Washington special says Tlie first decision rendered by the newly J Installed secretary of the department y of labor was in the interest of the south and upholds the right of a state Jo induce immigration decision holds in brief that in the circumstances there is no vio lation of the immigration laws or of the law to prohibit the importation of alien contract laborers in the action isfrr of the state of South Carolina in this particular case in encouraging immigration to the state or in paying the extra expenses of the immigrants i fn coming to the state A similar ruling will beyond doubt be made on the plans proposed by the Georgia immigration society v It is pointed out that there is a very essential difference in law beSjLv tween an immigration agent acting under state authority and receiving j vl only supplemental subscriptions from private parties and an agent B employed directly by private"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-24T14:37:17.929Z",
+  "group": [
+    "ndnp/scu",
+    "university-of-south-carolina-columbia-sc-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86063790/1906-12-27/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn86063790:00295862993:1906122701:0279/full/pct:3.125/0/default.jpg#h=320&w=202",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn86063790:00295862993:1906122701:0279/full/pct:6.25/0/default.jpg#h=641&w=405",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/scu/batch_scu_albinoskunk_ver02/data/sn86063790/00295862993/1906122701/0279.xml&format=alto_xml"
+  ],
+  "index": 65,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "bamberg",
+    "south carolina"
+  ],
+  "location_city": [
+    "bamberg"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "bamberg"
+  ],
+  "location_state": [
+    "south carolina"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000003",
+    "0",
+    "9",
+    "3",
+    "5",
+    "2",
+    "6",
+    "1",
+    "sn86063790",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86063790"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "5",
+    "8",
+    "6",
+    "2",
+    "9",
+    "9",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86063790-1906-12-27-ed-1-0279",
+  "partof": [
+    "chronicling america",
+    "the bamberg herald (bamberg, s.c.) 1891-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the bamberg herald (bamberg, s.c.) 1891-1972"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86063790/1906-12-27/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86063790/1906-12-27/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "bamberg",
+    "south carolina",
+    "united states",
+    "newspapers",
+    "bamberg (s.c.)"
+  ],
+  "timestamp": "2024-02-04T01:50:32.039Z",
+  "title": "Image 3 of The Bamberg herald (Bamberg, S.C.), December 27, 1906",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86063790/1906-12-27/ed-1/?sp=3&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fscu%2Fbatch_scu_albinoskunk_ver02%2Fdata%2Fsn86063790%2F00295862993%2F1906122701%2F0279.xml&q=immigration&relevant_snippet=1"
+}

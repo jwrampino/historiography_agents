@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85042354/1920-11-19/ed-1/?sp=11"
+  ],
+  "batch": [
+    "deu_ironhill_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/delaware/",
+    "2/united states/delaware/new castle/",
+    "3/united states/delaware/new castle/wilmington/"
+  ],
+  "contributor": [
+    "university of delaware library, newark, de"
+  ],
+  "date": "1920-11-19",
+  "dates": [
+    "1920-11-19"
+  ],
+  "description": [
+    "Should Immigration Be Restricted By V The imtnlgilion problem which has laid donnant since 1917 when It rae the subject of heated discussion resulting in lb passage of ho IIter ns test bill is again brought to the foreground Representative Albert iohnson chairman of Uic House tom ait tec on Immigration is preparing g bill to restrict admission of aliens ko Uiis country to close blood rela tives of naturalized citizens Mlgrtlion of riees from one climatic region to another Is by no means a modern process Brom lime Imme morial tribes imp lied by famine ad venture and lust for conques have roamed from locality to locality over romlng difficulties of all description Primitive life was characterized by nomadic frails The greaf historic races such as the Semitic Roman or Hellenic adorn their annals wilh ro man tic and adventurous migratory movements Molton Is a physical law governing the universe and man s a univers b ng la swung hy nat ural for Mlgntli of rasaa Is therefore an ancient and natural process History toaehes that this nlgrolory lux ts ih r clad westward If the worlds orlfi ngv phlc record tv correct he Kuro peoi rare re the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-12T17:57:35.987Z",
+  "group": [
+    "ndnp/deu",
+    "university-of-delaware-library-newark-de-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85042354/1920-11-19/ed-1/?sp=11",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_ironhill_ver01:data:sn85042354:00383342727:1920111901:0727/full/pct:6.25/0/default.jpg#h=408&w=325",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_ironhill_ver01:data:sn85042354:00383342727:1920111901:0727/full/pct:12.5/0/default.jpg#h=817&w=651",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/deu/batch_deu_ironhill_ver01/data/sn85042354/00383342727/1920111901/0727.xml&format=alto_xml"
+  ],
+  "index": 79,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "wilmington",
+    "delaware",
+    "united states",
+    "new castle"
+  ],
+  "location_city": [
+    "wilmington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new castle"
+  ],
+  "location_state": [
+    "delaware"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn85042354",
+    "1",
+    "8",
+    "0000000011",
+    "4",
+    "7",
+    "3",
+    "2",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85042354"
+  ],
+  "number_page": [
+    "0000000011"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "8",
+    "3",
+    "3",
+    "4",
+    "2",
+    "7",
+    "2",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Evening journal and the daily Republican"
+  ],
+  "page_id": "sn85042354-1920-11-19-ed-1-0727",
+  "partof": [
+    "evening journal (wilmington, del.) 1888-1932",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening journal (wilmington, del.) 1888-1932"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85042354/1920-11-19/ed-1/?sp=11"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85042354/1920-11-19/ed-1/"
+  ],
+  "shelf_id": "11",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "delaware",
+    "wilmington",
+    "newspapers",
+    "wilmington (del.)",
+    "new castle"
+  ],
+  "timestamp": "2023-08-13T08:18:43.556Z",
+  "title": "Image 11 of Evening journal (Wilmington, Del.), November 19, 1920",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85042354/1920-11-19/ed-1/?sp=11&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdeu%2Fbatch_deu_ironhill_ver01%2Fdata%2Fsn85042354%2F00383342727%2F1920111901%2F0727.xml&q=immigration&relevant_snippet=1"
+}

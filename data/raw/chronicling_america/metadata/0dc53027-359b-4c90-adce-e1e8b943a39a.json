@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85053117/1904-01-28/ed-1/?sp=8"
+  ],
+  "batch": [
+    "mthi_fox_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/rosebud/",
+    "3/united states/montana/rosebud/forsyth/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1904-01-28",
+  "dates": [
+    "1904-01-28"
+  ],
+  "description": [
+    "c be Ktosebud Countv 1Hews By The News Publishing Company Eqtered in the postoffice lr Forsyth Mont as second class matter SUBSCRIPTION RATES One Year 250 THURSDAY JAN 28 1904 Three Months75 OFFICIAL PAPER OF ROSEBUD COUNTY A Needless Critic Says the Philadelphia Item Henry Watterson and numerous writers and preachers have recently assailed the upper ten known as so society as frivolous and wasteful of both time and money But Chicago brings a different story of society There at the various hospitals young society women have been among the most faithful workers in ministering to the dead and wounded and in aiding the living in their heartrending search for missing relatives At the news of the great calamity these young women came forward not only paying their own expenses but going down into their pockets to provide del icacies for the injured One would think that even the Item would be ashamed to print such rub bish as this The American gentlewoman be she Tich or poor is the finest women in the world whether she rides in an automobile or mounting Shanks mare proceeds afoot her ministra tions are the glory of our country Whether she lives in"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:46:39.027Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85053117/1904-01-28/ed-1/?sp=8",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_fox_ver01:data:sn85053117:00295860431:1904012801:0761/full/pct:6.25/0/default.jpg#h=452&w=305",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_fox_ver01:data:sn85053117:00295860431:1904012801:0761/full/pct:12.5/0/default.jpg#h=904&w=611",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_fox_ver01/data/sn85053117/00295860431/1904012801/0761.xml&format=alto_xml"
+  ],
+  "index": 27,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "rosebud",
+    "forsyth",
+    "montana"
+  ],
+  "location_city": [
+    "forsyth"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "rosebud"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn85053117",
+    "9",
+    "2",
+    "0000000008",
+    "8",
+    "5",
+    "6",
+    "3",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85053117"
+  ],
+  "number_page": [
+    "0000000008"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "5",
+    "8",
+    "6",
+    "0",
+    "4",
+    "3",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85053117-1904-01-28-ed-1-0761",
+  "partof": [
+    "chronicling america",
+    "rosebud county news (forsyth, mont.) 1901-1906",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "rosebud county news (forsyth, mont.) 1901-1906"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85053117/1904-01-28/ed-1/?sp=8"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85053117/1904-01-28/ed-1/"
+  ],
+  "shelf_id": "8",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "rosebud",
+    "forsyth (mont.)",
+    "united states",
+    "newspapers",
+    "forsyth",
+    "montana"
+  ],
+  "timestamp": "2023-07-06T00:12:49.025Z",
+  "title": "Image 8 of Rosebud County news (Forsyth, Mont.), January 28, 1904",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85053117/1904-01-28/ed-1/?sp=8&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_fox_ver01%2Fdata%2Fsn85053117%2F00295860431%2F1904012801%2F0761.xml&q=korea&relevant_snippet=1"
+}

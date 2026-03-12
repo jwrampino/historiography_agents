@@ -1,0 +1,188 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83016810/1899-06-17/ed-1/?sp=1"
+  ],
+  "batch": [
+    "mnhi_effie_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/minnesota/",
+    "2/united states/minnesota/ramsey/",
+    "3/united states/minnesota/ramsey/saint paul/",
+    "2/united states/minnesota/hennepin/",
+    "3/united states/minnesota/hennepin/minneapolis/",
+    "1/united states/illinois/",
+    "2/united states/illinois/cook/",
+    "3/united states/illinois/cook/chicago/"
+  ],
+  "contributor": [
+    "minnesota historical society; saint paul, mn"
+  ],
+  "date": "1899-06-17",
+  "dates": [
+    "1899-06-17"
+  ],
+  "description": [
+    "Is J m hT M VOL 15 NO 24 COMMERCIALLY FINANCIALLY AJWJ i INDUSTRIALLY CONSIDERED Robert P Porte Interesting Re port an Special Commissioner of the United StatesUniversal Deso lation Produced toy 1he Long War The Amcrlcaa Negro an a Savir Characteristics of Laborer Sanitary Condlttons and Prok lenas lor Onr Engineers 7 CONDITION OF THE CUBANS Booii alter the signing of the protocaa of eaice Aug 12 1898 the Hon Robert P Sorter was ent by President McKlnley a a special commissioner for the United I States to investigate and report upon the industrial commercial and financial con dition of Cuba Tlie result of these official InvsstUsa tionB he is now about to make public in a book entitled Industrial Cuba 1 P Putnams Sons handsomely printed and ibound and embellished with a large num toer of photogravures Mr Porter on his arrival found Cuba In a deplorable condition Never hetells axs had the desolating hand of war been laid more heavily upon a once prosperous country JNearly a third of the population had been wiped out by battle by whole sale slaughter by starvation exposure or disease A large number of the survivors were so enfeebled by deprivation"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-04T16:58:45.330Z",
+  "group": [
+    "ndnp/mnhi",
+    "minnesota-historical-society-saint-paul-mn-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83016810/1899-06-17/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_effie_ver01:data:sn83016810:00280768005:1899061701:0520/full/pct:3.125/0/default.jpg#h=302&w=231",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_effie_ver01:data:sn83016810:00280768005:1899061701:0520/full/pct:6.25/0/default.jpg#h=604&w=463",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mnhi/batch_mnhi_effie_ver01/data/sn83016810/00280768005/1899061701/0520.xml&format=alto_xml"
+  ],
+  "index": 37,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "saint paul",
+    "united states",
+    "chicago",
+    "hennepin",
+    "illinois",
+    "ramsey",
+    "minnesota",
+    "cook",
+    "minneapolis"
+  ],
+  "location_city": [
+    "saint paul",
+    "minneapolis",
+    "chicago"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "ramsey",
+    "hennepin",
+    "cook"
+  ],
+  "location_state": [
+    "minnesota",
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "5",
+    "7",
+    "sn83016810",
+    "2",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83016810"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "7",
+    "6",
+    "8",
+    "0",
+    "0",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "National Afro-American newspaper"
+  ],
+  "page_id": "sn83016810-1899-06-17-ed-1-0520",
+  "partof": [
+    "serial and government publications division",
+    "chronicling america",
+    "the appeal (saint paul, minn. ; minneapolis, minn. ; chicago, ill.) 1889-19??"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the appeal (saint paul, minn. ; minneapolis, minn. ; chicago, ill.) 1889-19??"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83016810/1899-06-17/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83016810/1899-06-17/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "saint paul",
+    "united states",
+    "minneapolis (minn.)",
+    "african american newspapers",
+    "african american",
+    "chicago (ill.)",
+    "chicago",
+    "illinois",
+    "hennepin",
+    "newspapers",
+    "saint paul (minn.)",
+    "ramsey",
+    "minnesota",
+    "cook",
+    "african americans",
+    "minneapolis"
+  ],
+  "subject_ethnicity": [
+    "african american"
+  ],
+  "timestamp": "2024-01-04T15:29:33.381Z",
+  "title": "Image 1 of The Appeal (Saint Paul, Minn. ; Minneapolis, Minn. ; Chicago, Ill.), June 17, 1899",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83016810/1899-06-17/ed-1/?sp=1&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmnhi%2Fbatch_mnhi_effie_ver01%2Fdata%2Fsn83016810%2F00280768005%2F1899061701%2F0520.xml&q=cuba&relevant_snippet=1"
+}

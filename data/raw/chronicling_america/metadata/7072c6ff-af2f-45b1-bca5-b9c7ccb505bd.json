@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83025935/1881-09-01/ed-1/?sp=1"
+  ],
+  "batch": [
+    "dlc_cheetah_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/pennsylvania/",
+    "2/united states/pennsylvania/cumberland/",
+    "3/united states/pennsylvania/cumberland/carlisle/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1881-09-01",
+  "dates": [
+    "1881-09-01"
+  ],
+  "description": [
+    "EADLE KEATAII TOH GOD HELPS THOSE WHO HELP THEMSELVES VOL II INDIAN THAINING SCHOOL CARLISLE PA SEPTEMBER 1881 NO 2 September 30 1881 Our flag hangs at half mast today and from Its staff droop signals of some great sorrow Up from the old town come mingled voices Of solemn tolling bells Grave faces meet us and those who wear them Speak to us in softened gentle tones thus Did you hear Garfield is dead Sad news this morning For him we mourn not with such proofs as those Who trod these paths in years agone when the Bright brave life of Harrison went out in Sudden Carkness or when our martyred Lincoln gave his blood for a downtrodden race With cannons boom and roar For a new day has come to these old grounds Rich with our nations history a day That speaks to us of the illumined time When righteousness shall reign and peace shall spread Her banner oer the nations of the earth And for these loved ones who are gathered out From many farroaming tribes we had hoped much From this our Garfield who lies dead today He had said to us It is my full"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-09-14T05:37:17.412Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83025935/1881-09-01/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cheetah_ver02:data:sn83025935:00543171748:1881090101:0049/full/pct:6.25/0/default.jpg#h=319&w=238",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cheetah_ver02:data:sn83025935:00543171748:1881090101:0049/full/pct:12.5/0/default.jpg#h=639&w=477",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_cheetah_ver02/data/sn83025935/00543171748/1881090101/0049.xml&format=alto_xml"
+  ],
+  "index": 44,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "cumberland",
+    "pennsylvania",
+    "united states",
+    "carlisle"
+  ],
+  "location_city": [
+    "carlisle"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cumberland"
+  ],
+  "location_state": [
+    "pennsylvania"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "8",
+    "5",
+    "7",
+    "4",
+    "sn83025935",
+    "3",
+    "0",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83025935"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "3",
+    "1",
+    "7",
+    "1",
+    "7",
+    "4",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Big morning star"
+  ],
+  "page_id": "sn83025935-1881-09-01-ed-1-0049",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "eadle keatah toh (carlisle barracks, pa.) 1880-1882"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "eadle keatah toh (carlisle barracks, pa.) 1880-1882"
+  ],
+  "publication_frequency": [
+    "monthly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83025935/1881-09-01/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83025935/1881-09-01/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "periodicals",
+    "cumberland",
+    "indians of north america",
+    "pennsylvania",
+    "carlisle"
+  ],
+  "subject_ethnicity": [
+    "indians of north america"
+  ],
+  "timestamp": "2025-09-14T05:48:05.890Z",
+  "title": "Image 1 of Eadle keatah toh (Carlisle Barracks, Pa.), September 1, 1881",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83025935/1881-09-01/ed-1/?sp=1&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_cheetah_ver02%2Fdata%2Fsn83025935%2F00543171748%2F1881090101%2F0049.xml&q=medicine&relevant_snippet=1"
+}

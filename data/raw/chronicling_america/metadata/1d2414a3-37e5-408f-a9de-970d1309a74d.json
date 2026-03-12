@@ -1,0 +1,137 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2004540423/1918-02-18/ed-1/?sp=151"
+  ],
+  "batch": [
+    "dlc_1islanublar_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1918-02-18",
+  "dates": [
+    "1918-02-18"
+  ],
+  "description": [
+    "BLAME MANY THINGS ON WAR French at All Times and A1 Places Simply Say Cest la Guerre By JUNIUS B WOOD Staff Correspondent of the Sen V ork Clobe anil Chicago Bally Sens PARIS Jan 30 One expression every American learns before he has been in France longer than one sun set and that is Cest la guerre Its the war when he gets up before dawn to get the first glimpse of France and finds liis steamer tied up alongside the dock and wants to go ashore but is told that the customs officers the passport Officers the military officers and all the other wearers of assorted uniforms do not come to work until 730 A INI and that the only train for Paris leaves at 7 A 71 he pro tests in vigorous Americanese until a sympathetic official who speaks Eng lish in everything else replies Cest la guerre His education has started and lie takes a hack which survived the French revolution to a hotel Jhe prices are higher than he ever found them before the city is dark at nigrht he gets four sweaty sticks of wood to heat a chamber the size of a dance"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-19T00:31:09.109Z",
+  "group": [
+    "sgpww1newspaperclippings/dlc",
+    "wwi-newspaper-clippings"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2004540423/1918-02-18/ed-1/?sp=151",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_1islanublar_ver01:data:2004540423:print00192512621:1918021801:0151/full/pct:6.25/0/default.jpg#h=456&w=340",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_1islanublar_ver01:data:2004540423:print00192512621:1918021801:0151/full/pct:12.5/0/default.jpg#h=912&w=680",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/sgp/sgpbatches/batch_dlc_1islanublar_ver01/data/2004540423/print00192512621/1918021801/0151.xml&format=alto_xml"
+  ],
+  "index": 184,
+  "language": [
+    "german",
+    "english"
+  ],
+  "location": [
+    "new york",
+    "germany",
+    "united states"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000151",
+    "2004540423",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2004540423"
+  ],
+  "number_page": [
+    "0000000151"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2004540423-1918-02-18-ed-1-0151",
+  "partof": [
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-",
+    "serial and government publications division",
+    "world war history: newspaper clippings, 1914-1926"
+  ],
+  "partof_collection": [
+    "world war history: newspaper clippings, 1914-1926"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2004540423/1918-02-18/ed-1/?sp=151"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2004540423/1918-02-18/ed-1/"
+  ],
+  "shelf_id": "151",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "armistices",
+    "history",
+    "allied occupation",
+    "germany",
+    "sources",
+    "new york",
+    "world war",
+    "united states"
+  ],
+  "timestamp": "2022-11-09T15:47:26.312Z",
+  "title": "Image 151 of World War history : daily records and comments as appeared in American and foreign newspapers, 1914-1926 (New York), February 18, 1918, (1918 Febuary 18-23)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2004540423/1918-02-18/ed-1/?sp=151&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fsgp%2Fsgpbatches%2Fbatch_dlc_1islanublar_ver01%2Fdata%2F2004540423%2Fprint00192512621%2F1918021801%2F0151.xml&q=revolution&relevant_snippet=1"
+}

@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn90053026/1888-10-20/ed-1/?sp=3"
+  ],
+  "batch": [
+    "iune_chickadee_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/illinois/",
+    "2/united states/illinois/cook/",
+    "3/united states/illinois/cook/chicago/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1888-10-20",
+  "dates": [
+    "1888-10-20"
+  ],
+  "description": [
+    "CAPITAL NEWS A Daily Synopsis of Events in the Senate and House Bill Relating to Klectors Certificate Discussed in the SenateLittle Work Done In the House Other Notes 8EN ATE Washington Oct 10A bill was passed in the Senate yesterday directing that the certificates and lists of votes for President and VicePresident of the United States shall be forwarded to the President of the Senate forthwith after the second Monday in January on which the electors shall give their votes A resolution was adopt ed to ascertain the number of aliens for eign companies and corporations owning and working mines in the Territories Senator Uiscock N Y spoke in favor of the Tariff bilL Washington Oct 11The majority re port of the Senate special committee to investigate the operation of the CivilServ ice law was presented to the Senate yes terday by Senator Hale The report crit icizes the Administration policy charges President Cleveland with not having kept his promises and denounces his ac tion in contributing 10000 to the Demo cratic campaign fund as setting a bad ex ample to other employes of the Govern ment The bill to pay the sum of 8745 to the widow of the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:17:49.572Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn90053026/1888-10-20/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_chickadee_ver01:data:sn90053026:00542863900:1888102001:0860/full/pct:6.25/0/default.jpg#h=357&w=248",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_chickadee_ver01:data:sn90053026:00542863900:1888102001:0860/full/pct:12.5/0/default.jpg#h=715&w=497",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_chickadee_ver01/data/sn90053026/00542863900/1888102001/0860.xml&format=alto_xml"
+  ],
+  "index": 64,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "chicago",
+    "illinois",
+    "cook"
+  ],
+  "location_city": [
+    "chicago"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cook"
+  ],
+  "location_state": [
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000003",
+    "9",
+    "2",
+    "8",
+    "5",
+    "6",
+    "3",
+    "sn90053026",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn90053026"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "2",
+    "8",
+    "6",
+    "3",
+    "9",
+    "0",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn90053026-1888-10-20-ed-1-0860",
+  "partof": [
+    "the citizen (chicago, ill.) 1882-1897",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the citizen (chicago, ill.) 1882-1897"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn90053026/1888-10-20/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn90053026/1888-10-20/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "chicago",
+    "chicago (ill.)",
+    "illinois",
+    "cook",
+    "irish",
+    "united states",
+    "newspapers",
+    "irish americans"
+  ],
+  "subject_ethnicity": [
+    "irish"
+  ],
+  "timestamp": "2025-05-21T18:30:14.172Z",
+  "title": "Image 3 of The citizen (Chicago, Ill.), October 20, 1888",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn90053026/1888-10-20/ed-1/?sp=3&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_chickadee_ver01%2Fdata%2Fsn90053026%2F00542863900%2F1888102001%2F0860.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

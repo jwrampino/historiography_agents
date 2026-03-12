@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84036220/1905-01-31/ed-1/?sp=2"
+  ],
+  "batch": [
+    "mthi_egret_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/fergus/",
+    "3/united states/montana/fergus/lewistown/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1905-01-31",
+  "dates": [
+    "1905-01-31"
+  ],
+  "description": [
+    "Whats Doing the World Over The international commission to in quire into the North sea incident commenced the taking of testimony in Paris Wednesday Ladv Curzon formerly Miss Leiter of Chicago now wife of the viceroy of India has recovered from an illnessoi several months duration The following United States sen ators were elected during the week E M La Follette in Wisconsin C A Culbertson in Texas John Kean in New Jersey and George Nixon in Ne vada The United States district court of Cleveland has adjudged Mrs Cassie Chadwick a bankrupt Whitelaw Reid who succeeds Jo seph Choate as ambassador to Great Britain has secured one of the most magnificent houses in London for his residence Republican experts are still finding numerous evidences of fraud in the Denver election The Russians have taken the offen sive in Manchuria and several big battles have been fought during the last fortnight Four men were killed by an accident at Durham Ia by a derailed train The Yaqui Indians of old Mexico have killed 18 persons four of whom were Americans during the past week Congress appropriated 40000 to carry on the impeachment proceed ings against Judge Charles Swayne United States"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:46:05.132Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84036220/1905-01-31/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_egret_ver02:data:sn84036220:00295860996:1905013101:0159/full/pct:6.25/0/default.jpg#h=445&w=311",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_egret_ver02:data:sn84036220:00295860996:1905013101:0159/full/pct:12.5/0/default.jpg#h=891&w=622",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_egret_ver02/data/sn84036220/00295860996/1905013101/0159.xml&format=alto_xml"
+  ],
+  "index": 139,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "montana",
+    "fergus",
+    "lewistown"
+  ],
+  "location_city": [
+    "lewistown"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "fergus"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn84036220",
+    "1",
+    "8",
+    "9",
+    "5",
+    "6",
+    "0000000002",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84036220"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "5",
+    "8",
+    "6",
+    "0",
+    "9",
+    "9",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84036220-1905-01-31-ed-1-0159",
+  "partof": [
+    "serial and government publications division",
+    "fergus county democrat (lewistown, mont.) 1904-1919",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "fergus county democrat (lewistown, mont.) 1904-1919"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84036220/1905-01-31/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84036220/1905-01-31/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "lewistown (mont.)",
+    "fergus",
+    "montana",
+    "newspapers",
+    "lewistown"
+  ],
+  "timestamp": "2023-07-05T21:39:03.219Z",
+  "title": "Image 2 of Fergus County Democrat (Lewistown, Mont.), January 31, 1905",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84036220/1905-01-31/ed-1/?sp=2&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_egret_ver02%2Fdata%2Fsn84036220%2F00295860996%2F1905013101%2F0159.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

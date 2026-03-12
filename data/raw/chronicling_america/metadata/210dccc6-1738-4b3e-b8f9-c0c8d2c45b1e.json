@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn92067163/1921-01-07/ed-1/?sp=3"
+  ],
+  "batch": [
+    "wyu_karig_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/wyoming/",
+    "2/united states/wyoming/lincoln/",
+    "3/united states/wyoming/lincoln/kemmerer/"
+  ],
+  "contributor": [
+    "university of wyoming libraries"
+  ],
+  "date": "1921-01-07",
+  "dates": [
+    "1921-01-07"
+  ],
+  "description": [
+    "THE J C PENNEY COA NATIONWIDE INSTITUTION THE J C PENNEY COA NATIONWIDE INSTITUTION THE J C PENNEY COA NATIONWIDE INSTITUTION X 2 w a 5 z I X w z z a a w i a x z i X Z m a Q Z o Z a z z a a Z H H X Z w Present Stocks Discounted Thousands of Dollars The J C PENNEY COS 312 Stores in 27 States doing a business annually of approximately FIFTY MILLION DOLLARS are meeting New Price Conditions Every Price based on Replacement Value Regardless of Previous Cost NEW HATS FOR MEN BROWN GREEN AND BLACK RECONSTRUCTION 1 QQ PRICE 1 JO NEW SHIRTS IN MANY PATTERNS RECONSTRUCTION 98ct02 4 9 MENS OVERALLS WAIST OR 818 RECONSTRUCTION 1 IQ PRICE 140 COTTON RIBBED UNION SUITS FOR MEN RECONSTRUCTION 1 AO PRICE 14 COTTON RIBBED SHIRTS AND DRAWERS FOR MEN RECONSTRUCTION 7o PRICE jC HEAVY FLEECED SHIRTS AND DRAWERS RECONSTRUCTION PRICE OjC BLACK AND WHITE BLOOMERS FOR GIRLS 2 to 11 RECONSTRUCTION A Q PRICE 4jC WOOL SUITINGS AND SERGES REC INSTRUCTION 98c PERCALE LIGHT AND DARK PATTERNS PRICE 1 n RECONSTRUCTION 1 DRESS GINGHAM LIGHT AND DARK PATTERNS STRIPES"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-12-17T00:23:50.865Z",
+  "group": [
+    "ndnp/wyu",
+    "university-of-wyoming-libraries"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn92067163/1921-01-07/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_karig_ver02:data:sn92067163:00542862117:1921010701:0003/full/pct:6.25/0/default.jpg#h=346&w=236",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_karig_ver02:data:sn92067163:00542862117:1921010701:0003/full/pct:12.5/0/default.jpg#h=693&w=473",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wyu/batch_wyu_karig_ver02/data/sn92067163/00542862117/1921010701/0003.xml&format=alto_xml"
+  ],
+  "index": 16,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "lincoln",
+    "wyoming",
+    "kemmerer",
+    "lincoln county"
+  ],
+  "location_city": [
+    "kemmerer"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lincoln"
+  ],
+  "location_state": [
+    "wyoming"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000003",
+    "0",
+    "5",
+    "2",
+    "4",
+    "6",
+    "1",
+    "sn92067163",
+    "7",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn92067163"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "2",
+    "8",
+    "6",
+    "2",
+    "1",
+    "1",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn92067163-1921-01-07-ed-1-0003",
+  "partof": [
+    "chronicling america",
+    "the kemmerer republican (kemmerer, wyo.) 1913-1924",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the kemmerer republican (kemmerer, wyo.) 1913-1924"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn92067163/1921-01-07/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn92067163/1921-01-07/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "kemmerer (wyo.)",
+    "newspapers",
+    "lincoln",
+    "lincoln county (wyo.)",
+    "wyoming",
+    "kemmerer"
+  ],
+  "timestamp": "2023-12-17T00:33:30.703Z",
+  "title": "Image 3 of The Kemmerer Republican (Kemmerer, Wyo.), January 7, 1921",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn92067163/1921-01-07/ed-1/?sp=3&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwyu%2Fbatch_wyu_karig_ver02%2Fdata%2Fsn92067163%2F00542862117%2F1921010701%2F0003.xml&q=reconstruction&relevant_snippet=1"
+}

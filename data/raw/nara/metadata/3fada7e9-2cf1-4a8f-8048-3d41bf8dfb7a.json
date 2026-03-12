@@ -1,0 +1,174 @@
+{
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "note": "Documents in the series that were prepared by officials in the United States Government as part of their official duties are in the public domain. Researchers are advised to consult the copyright law of the United States (Title 17, USC), which governs the making of photocopies or other reproductions of copyrighted materials.",
+    "specificUseRestrictions": [
+      "Copyright"
+    ],
+    "status": "Restricted - Possibly"
+  },
+  "title": "Immigration",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Little Rock",
+          "phone": "501-244-2877",
+          "address1": "1200 President Clinton Avenue",
+          "postalCode": "72201",
+          "name": "William J. Clinton Library",
+          "state": "AR",
+          "fax": "501-244-2881",
+          "email": "clinton.library@nara.gov",
+          "mailCode": "LP-WJC"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper",
+          "containerId": "17"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "note": "Materials may be closed under restrictions of the Presidential Records Act and the Freedom of Information Act (FOIA). Withdrawal sheets in processed folders will indicate specific closures and restrictions.",
+    "specificAccessRestrictions": [
+      {
+        "restriction": "Freedom of Information Act (FOIA)"
+      },
+      {
+        "restriction": "Presidential Records Act (PRA)"
+      }
+    ],
+    "status": "Restricted - Possibly"
+  },
+  "dataControlGroup": {
+    "groupName": "William J. Clinton Library",
+    "groupId": "PL-WJC",
+    "groupCd": "PL-WJC"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "PL-WJC 2023-0127-S (Seg 1)",
+      "type": "FOIA Tracking Number"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "2674838-20230127S-Seg1-017-022-2024-001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/2674838/2674838-20230127S-Seg1-017-022-2024/2674838-20230127S-Seg1-017-022-2024-001.jpg",
+      "objectFileSize": 347476,
+      "objectId": "609005405",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "2674838-20230127S-Seg1-017-022-2024-002.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/2674838/2674838-20230127S-Seg1-017-022-2024/2674838-20230127S-Seg1-017-022-2024-002.jpg",
+      "objectFileSize": 552411,
+      "objectId": "609005406",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "2674838-20230127S-Seg1-017-022-2024-003.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/2674838/2674838-20230127S-Seg1-017-022-2024/2674838-20230127S-Seg1-017-022-2024-003.jpg",
+      "objectFileSize": 549240,
+      "objectId": "609005407",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "2674838-20230127S-Seg1-017-022-2024-004.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/2674838/2674838-20230127S-Seg1-017-022-2024/2674838-20230127S-Seg1-017-022-2024-004.jpg",
+      "objectFileSize": 477953,
+      "objectId": "609005408",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "2674838-20230127S-Seg1-017-022-2024-005.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/2674838/2674838-20230127S-Seg1-017-022-2024/2674838-20230127S-Seg1-017-022-2024-005.jpg",
+      "objectFileSize": 441683,
+      "objectId": "609005409",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "2674838-20230127S-Seg1-017-022-2024-006.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/2674838/2674838-20230127S-Seg1-017-022-2024/2674838-20230127S-Seg1-017-022-2024-006.jpg",
+      "objectFileSize": 363019,
+      "objectId": "609005410",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "2674838-20230127S-Seg1-017-022-2024.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/clinton/2674838/2674838-20230127S-Seg1-017-022-2024/2674838-20230127S-Seg1-017-022-2024.pdf",
+      "objectFileSize": 3113320,
+      "objectId": "609005404",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "otherTitles": [
+    "2674838-20230127S-Seg1-017-022-2024",
+    "[General Files]"
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "WJC-OCS",
+      "inclusiveStartDate": {
+        "year": 1993,
+        "logicalDate": "1993-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "year": 2001,
+        "logicalDate": "2001-12-31"
+      },
+      "title": "Records of the Office of the Chief of Staff (Clinton Administration)",
+      "naId": 2524454
+    },
+    {
+      "inclusiveStartDate": {
+        "dateQualifier": "ca.",
+        "year": 1993,
+        "logicalDate": "1993-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "President (1993-2001 : Clinton). Office of the Chief of Staff. (01/20/1993 - 01/20/2001)",
+          "abolishDate": {
+            "month": 1,
+            "year": 2001,
+            "day": 20,
+            "logicalDate": "2001-01-20"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 1,
+            "year": 1993,
+            "day": 20,
+            "logicalDate": "1993-01-20"
+          },
+          "naId": 10460417
+        }
+      ],
+      "inclusiveEndDate": {
+        "dateQualifier": "ca.",
+        "year": 2001,
+        "logicalDate": "2001-12-31"
+      },
+      "title": "Harold Ickes, Jr.'s Files",
+      "naId": 2674838
+    }
+  ],
+  "naId": 472248900
+}

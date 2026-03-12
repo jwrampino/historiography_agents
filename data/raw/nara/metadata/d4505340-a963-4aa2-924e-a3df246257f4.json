@@ -1,0 +1,236 @@
+{
+  "dataControlGroup": {
+    "groupId": "ou=NLHST,ou=groups",
+    "groupCd": "LPHST"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "digitalObjects": [
+    {
+      "objectFilename": "2788369-01-001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/rg-220/1701326/2788369/2788369-01-001.jpg",
+      "objectFileSize": 1234,
+      "objectId": "239792002",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "2788369-01-002.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/rg-220/1701326/2788369/2788369-01-002.jpg",
+      "objectFileSize": 1234,
+      "objectId": "239792003",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "2788369-01-003.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/rg-220/1701326/2788369/2788369-01-003.jpg",
+      "objectFileSize": 1234,
+      "objectId": "239792004",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "2788369-01-004.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/rg-220/1701326/2788369/2788369-01-004.jpg",
+      "objectFileSize": 1234,
+      "objectId": "239792005",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "2788369-01-005.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/rg-220/1701326/2788369/2788369-01-005.jpg",
+      "objectFileSize": 1234,
+      "objectId": "239792006",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "2788369-01-006.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/rg-220/1701326/2788369/2788369-01-006.jpg",
+      "objectFileSize": 1234,
+      "objectId": "239792007",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "2788369-01-007.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/rg-220/1701326/2788369/2788369-01-007.jpg",
+      "objectFileSize": 1234,
+      "objectId": "239792008",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "2788369-01-008.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/rg-220/1701326/2788369/2788369-01-008.jpg",
+      "objectFileSize": 1234,
+      "objectId": "239792009",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "2788369-01-009.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/rg-220/1701326/2788369/2788369-01-009.jpg",
+      "objectFileSize": 1234,
+      "objectId": "239792010",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "2788369-01-010.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/rg-220/1701326/2788369/2788369-01-010.jpg",
+      "objectFileSize": 1234,
+      "objectId": "239792011",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "2788369-01-011.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/rg-220/1701326/2788369/2788369-01-011.jpg",
+      "objectFileSize": 1234,
+      "objectId": "239792012",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "2788369-01-012.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/rg-220/1701326/2788369/2788369-01-012.jpg",
+      "objectFileSize": 1234,
+      "objectId": "239792013",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "2788369-01-013.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/rg-220/1701326/2788369/2788369-01-013.jpg",
+      "objectFileSize": 1234,
+      "objectId": "239792014",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "2788369-01-014.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/rg-220/1701326/2788369/2788369-01-014.jpg",
+      "objectFileSize": 1234,
+      "objectId": "239792015",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "2788369-01-015.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/rg-220/1701326/2788369/2788369-01-015.jpg",
+      "objectFileSize": 1234,
+      "objectId": "239792016",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "2788369-01-016.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/rg-220/1701326/2788369/2788369-01-016.jpg",
+      "objectFileSize": 1234,
+      "objectId": "239792017",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "2788369-01-017.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/rg-220/1701326/2788369/2788369-01-017.jpg",
+      "objectFileSize": 1234,
+      "objectId": "239792018",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "2788369-01-018.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/rg-220/1701326/2788369/2788369-01-018.jpg",
+      "objectFileSize": 1234,
+      "objectId": "239792019",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "2788369-01-019.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/rg-220/1701326/2788369/2788369-01-019.jpg",
+      "objectFileSize": 1234,
+      "objectId": "239792020",
+      "objectType": "Image (JPG)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1893,
+        "logicalDate": "1893-01-01"
+      },
+      "distance": 3,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 220,
+      "inclusiveEndDate": {
+        "year": 2008,
+        "logicalDate": "2008-12-31"
+      },
+      "title": "Records of Temporary Committees, Commissions, and Boards",
+      "naId": 547
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1946,
+        "logicalDate": "1946-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "President (1945-1953 : Truman). President's Committee on Civil Rights. 12/5/1946-1947",
+          "abolishDate": {
+            "year": 1947,
+            "logicalDate": "1947-12-31"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 12,
+            "year": 1946,
+            "day": 5,
+            "logicalDate": "1946-12-05"
+          },
+          "naId": 10467708
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1947,
+        "logicalDate": "1947-12-31"
+      },
+      "title": "Staff Memoranda, Witnesses Statements to the Committee and Other Committee Documents Files",
+      "naId": 1701326
+    },
+    {
+      "distance": 1,
+      "levelOfDescription": "fileUnit",
+      "title": "\"Reestablishment of Peacetime Society, The\"-By General G. B. Chisholm",
+      "naId": 2788369
+    }
+  ],
+  "title": "Report, The Reestablishment of Peacetime Society by General G. B. Chisholm",
+  "naId": 239792001,
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Independence",
+          "phone": "816-268-8272",
+          "address1": "500 West U.S. Highway 24",
+          "postalCode": "64050-1798",
+          "name": "Harry S. Truman Library",
+          "state": "MO",
+          "fax": "816-268-8295",
+          "email": "truman.reference@nara.gov",
+          "mailCode": "LP-HST"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  }
+}

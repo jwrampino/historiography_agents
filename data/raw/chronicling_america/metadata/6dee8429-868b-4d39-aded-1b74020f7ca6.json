@@ -1,0 +1,150 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82016181/1937-02-23/ed-1/?sp=18"
+  ],
+  "batch": [
+    "dlc_capa_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1937-02-23",
+  "dates": [
+    "1937-02-23"
+  ],
+  "description": [
+    "sozLmuzu Theews Give light and the pecple will sind their own way A SCRIPPS HOWARD NEWSPAPER 1013 13th St N W Phone District 7777 By Carrier Week 10c By Mail Month 60c Year 67 20 LOWELL MELLETT Editor HOWARD PARISH Business Manager BLACK BLIZZARDS THE NEWS columns told recently of black blizzards in the Southwest of dust pneumonia of schools closed lest the children lose their way in the storm of the air over the Gulf of Mexico so laden with grit that it looks like the Sahara Desert and delays the arrival of a Navy destroyer In the first few pages of the report of the Presidents Great Plains Committee are three pictures with captions that tell the story of how it came to pass The first picture is titled The Great Plains of the Past It shows treecovered hillsides clearrunning streams lush pas tures sparsely Inhabited by buffalo coyotes Indians and ponies and a coveredwagon train moving over the horizon The caption reads As the first white settlers drove their covered wagons slowly westward across the seemingly limit less expanses of the Great Plains they found the Red Man liv ing in rude but productive harmony with nature"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-09-28T05:01:35.272Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82016181/1937-02-23/ed-1/?sp=18",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_capa_ver01:data:sn82016181:00516999561:1937022301:1682/full/pct:6.25/0/default.jpg#h=332&w=226",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_capa_ver01:data:sn82016181:00516999561:1937022301:1682/full/pct:12.5/0/default.jpg#h=664&w=452",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_capa_ver01/data/sn82016181/00516999561/1937022301/1682.xml&format=alto_xml"
+  ],
+  "index": 148,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn82016181",
+    "5",
+    "6",
+    "9",
+    "0",
+    "0000000018"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82016181"
+  ],
+  "number_page": [
+    "0000000018"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "9",
+    "5",
+    "6",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82016181-1937-02-23-ed-1-1682",
+  "partof": [
+    "serial and government publications division",
+    "the washington daily news (washington, d.c.) 1921-1972",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington daily news (washington, d.c.) 1921-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82016181/1937-02-23/ed-1/?sp=18"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82016181/1937-02-23/ed-1/"
+  ],
+  "shelf_id": "18",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2025-09-28T05:47:08.279Z",
+  "title": "Image 18 of The Washington daily news (Washington, D.C.), February 23, 1937",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82016181/1937-02-23/ed-1/?sp=18&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_capa_ver01%2Fdata%2Fsn82016181%2F00516999561%2F1937022301%2F1682.xml&q=child+labor&relevant_snippet=1"
+}

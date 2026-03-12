@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88059319/1906-08-31/ed-1/?sp=2"
+  ],
+  "batch": [
+    "iahi_frawley_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/iowa/",
+    "2/united states/iowa/howard/",
+    "3/united states/iowa/howard/cresco/"
+  ],
+  "contributor": [
+    "state historical society of iowa"
+  ],
+  "date": "1906-08-31",
+  "dates": [
+    "1906-08-31"
+  ],
+  "description": [
+    "55 p SVfc yk Kt xUp 4 fe slll If fe srr If II 4 WICEAWEEK In a FRIDAY AUG 31 1906 BY MEAD PUBLISHING GO OFFICIAL PAPER OF COUNTY The Democratic Ticket For flovernor HON CLAUDE B PORTER Centervllle Far Lieutenant Governor Manchester CONGRESSIONAL TICKET For Representative of Fourth District J M CARTER of Winneshiek County The Threatened Bolt The counBel of Mr Biytbe preyailed at tbe August day convention in Den Moines and there was no bolt But tbe danger of an organized bolt is not past None appreciate tbis fact better than tbe Des MolneB Beg tster and Leader cblel supporter ot Gov Cummins It devoted a column aud threequarters ot its space in Mon days issue to a citation of reasons why ttiere should be no bolt It reach ed tbe erux of tbe whole matter in this Iowa has had a tie vote in the house in less troubuious times than these and could have a democratic majority without the least trouble under circumstances it is not difficult to foresee It is worth while to specu late on what a democratic majority in tbe house might mean in certain not impossible contlngiencies Supposing tne coming"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-05-16T11:55:13.770Z",
+  "group": [
+    "ndnp/iahi",
+    "state-historical-society-of-iowa-state-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88059319/1906-08-31/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_frawley_ver01:data:sn88059319:00415622880:1906083101:0560/full/pct:6.25/0/default.jpg#h=448&w=330",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_frawley_ver01:data:sn88059319:00415622880:1906083101:0560/full/pct:12.5/0/default.jpg#h=896&w=661",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iahi/batch_iahi_frawley_ver01/data/sn88059319/00415622880/1906083101/0560.xml&format=alto_xml"
+  ],
+  "index": 36,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "howard",
+    "cresco",
+    "iowa",
+    "united states"
+  ],
+  "location_city": [
+    "cresco"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "howard"
+  ],
+  "location_state": [
+    "iowa"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "8",
+    "5",
+    "6",
+    "sn88059319",
+    "4",
+    "2",
+    "0000000002",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88059319"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "2",
+    "2",
+    "8",
+    "8",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88059319-1906-08-31-ed-1-0560",
+  "partof": [
+    "serial and government publications division",
+    "twice-a-week plain dealer (cresco, howard county, iowa) 1895-1913",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "twice-a-week plain dealer (cresco, howard county, iowa) 1895-1913"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88059319/1906-08-31/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88059319/1906-08-31/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "iowa",
+    "cresco",
+    "cresco (iowa)",
+    "howard",
+    "newspapers"
+  ],
+  "timestamp": "2023-07-04T00:37:53.384Z",
+  "title": "Image 2 of Twice-a-week plain dealer (Cresco, Howard County, Iowa), August 31, 1906",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88059319/1906-08-31/ed-1/?sp=2&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiahi%2Fbatch_iahi_frawley_ver01%2Fdata%2Fsn88059319%2F00415622880%2F1906083101%2F0560.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

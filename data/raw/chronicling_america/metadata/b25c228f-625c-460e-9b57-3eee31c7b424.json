@@ -1,0 +1,167 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83025010/1899-10-05/ed-1/?sp=1"
+  ],
+  "batch": [
+    "okhi_comanche_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/oklahoma/",
+    "2/united states/oklahoma/craig/",
+    "3/united states/oklahoma/craig/vinita/"
+  ],
+  "contributor": [
+    "oklahoma historical society"
+  ],
+  "date": "1899-10-05",
+  "dates": [
+    "1899-10-05"
+  ],
+  "description": [
+    "THE INDIAN CHIEFT CHIEFTAIN PUBLISHING CO VINITA INDIAN TERRITORY THURSDAY OCT 5 1899 VOL XVIII NO fj N FOR SINGLE STATEHOOD But Twould be Carpetbag to us Still Bluejacket I T Sep 27 Editor Chieftain As there has not been much said of late on the statehood question and as the next session of congress will most likely do something in the premis es I hare concluded to tell what I know about this matter I have given considerable study to this subject the past year and must say my views are different from those of the press of the Indian Terri tory and perhaps the views of the people I can not see wherein it is feasible or practicable in a business sense to advocate double statehood In the first place the Indian Territory is too small and too weak to make a state by its 6elf The combined areas of the ilTdian and Oklahoma territories are about 69000 square miles about the exact tize of the state of Mis souri Now to make a division of this area as it is now bounded would leave the Indian Territory about 32000 square miles This any one can see would"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T14:57:43.295Z",
+  "group": [
+    "ndnp/okhi",
+    "oklahoma-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83025010/1899-10-05/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_comanche_ver01:data:sn83025010:00237284719:1899100501:0254/full/pct:6.25/0/default.jpg#h=499&w=386",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_comanche_ver01:data:sn83025010:00237284719:1899100501:0254/full/pct:12.5/0/default.jpg#h=999&w=773",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/okhi/batch_okhi_comanche_ver01/data/sn83025010/00237284719/1899100501/0254.xml&format=alto_xml"
+  ],
+  "index": 130,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "craig county",
+    "oklahoma",
+    "indian territory",
+    "craig",
+    "united states",
+    "vinita"
+  ],
+  "location_city": [
+    "vinita"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "craig"
+  ],
+  "location_state": [
+    "oklahoma"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "sn83025010",
+    "0000000001",
+    "2",
+    "8",
+    "3",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83025010"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "3",
+    "7",
+    "2",
+    "8",
+    "4",
+    "7",
+    "1",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83025010-1899-10-05-ed-1-0254",
+  "partof": [
+    "chronicling america",
+    "indian chieftain (vinita, indian territory [okla.]) 1882-1902",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "indian chieftain (vinita, indian territory [okla.]) 1882-1902"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83025010/1899-10-05/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83025010/1899-10-05/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "craig county (okla.)",
+    "vinita (okla.)",
+    "craig county",
+    "oklahoma",
+    "indians of north america",
+    "indian territory",
+    "craig",
+    "united states",
+    "newspapers",
+    "vinita"
+  ],
+  "subject_ethnicity": [
+    "indians of north america"
+  ],
+  "timestamp": "2022-11-18T00:55:07.762Z",
+  "title": "Image 1 of Indian chieftain (Vinita, Indian Territory [Okla.]), October 5, 1899",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83025010/1899-10-05/ed-1/?sp=1&q=indian+territory",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fokhi%2Fbatch_okhi_comanche_ver01%2Fdata%2Fsn83025010%2F00237284719%2F1899100501%2F0254.xml&q=indian+territory&relevant_snippet=1"
+}

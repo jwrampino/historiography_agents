@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86075096/1957-07-15/ed-1/?sp=12"
+  ],
+  "batch": [
+    "mthi_fireweed_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/cascade/",
+    "3/united states/montana/cascade/great falls/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1957-07-15",
+  "dates": [
+    "1957-07-15"
+  ],
+  "description": [
+    "m i A F ifili i m 3 V f 4 mm i I V mm m mwm Ii4 Hit fr X pa mi Quality AND Low Price in the Most Versatile All Purpose Auger You Can Buy This 6 Bazooka has gear drive to transmit maximum engine power to the auger for higher capacity smoother operation less vi bration and wear It has high elevation scis sors type carrier for easy adjustment to any angle more height for reach easier operation in close quarters It has sealed dust free head bearing easily replaceable journal type tail bearing seven safety features Basic length 22 feet with extensions to 42 feet Operates elec trically without gear box Very low priced at your Bazooka dealers V 5i i mm 8 High Capacity Bazooka C80 For extra heavy duty Gear box or electric motor operation roller chain head drive high elevation scissors type carrier 37 42 52 foot fixed lengths 20002500 bushels per hour 4 11 Super Scooper 2495 Complete with Bazooka f Grain Turner Vertical Bazooka S sealed head bear inside bin moves ing swivel bracket grain bottom to and carrying hon top to prevent die Electric or gas spoilage Gas en"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:46:24.487Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86075096/1957-07-15/ed-1/?sp=12",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_fireweed_ver01:data:sn86075096:00340581751:1957071501:0673/full/pct:6.25/0/default.jpg#h=319&w=232",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_fireweed_ver01:data:sn86075096:00340581751:1957071501:0673/full/pct:12.5/0/default.jpg#h=638&w=464",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_fireweed_ver01/data/sn86075096/00340581751/1957071501/0673.xml&format=alto_xml"
+  ],
+  "index": 151,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "montana",
+    "great falls",
+    "cascade",
+    "united states"
+  ],
+  "location_city": [
+    "great falls"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cascade"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn86075096",
+    "8",
+    "0",
+    "7",
+    "1",
+    "3",
+    "0000000012",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86075096"
+  ],
+  "number_page": [
+    "0000000012"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "1",
+    "7",
+    "5",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86075096-1957-07-15-ed-1-0673",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "montana farmer-stockman (great falls, mont.) 1947-1993"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "montana farmer-stockman (great falls, mont.) 1947-1993"
+  ],
+  "publication_frequency": [
+    "other"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86075096/1957-07-15/ed-1/?sp=12"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86075096/1957-07-15/ed-1/"
+  ],
+  "shelf_id": "12",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "livestock",
+    "montana",
+    "cascade",
+    "agriculture",
+    "great falls",
+    "great falls (mont.)",
+    "united states"
+  ],
+  "timestamp": "2023-07-05T23:16:59.351Z",
+  "title": "Image 12 of Montana farmer-stockman (Great Falls, Mont.), July 15, 1957",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86075096/1957-07-15/ed-1/?sp=12&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_fireweed_ver01%2Fdata%2Fsn86075096%2F00340581751%2F1957071501%2F0673.xml&q=computers&relevant_snippet=1"
+}

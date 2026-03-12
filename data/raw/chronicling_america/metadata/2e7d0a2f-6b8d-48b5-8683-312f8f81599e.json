@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82007637/1957-07-12/ed-1/?sp=6"
+  ],
+  "batch": [
+    "ohi_goyle_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/lucas/",
+    "3/united states/ohio/lucas/toledo/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1957-07-12",
+  "dates": [
+    "1957-07-12"
+  ],
+  "description": [
+    "Economy Fight Policy Clash Stall Key Bills Filibuster Hits Senate Congress headed into its final dramatic months with major legislative proposals blockaded behind the Senate southern Democratic filibuster on civil rights With the exception of essential money authorization and appropriation bills the first session of the 85th Con gress passed relatively few t controversial m e a s ures be1 fore the Fourth of July week1 end Lengthy hearings had been conducted on welfare and labor bill in Senate and House com mittees but in the closely divi ded Congress there was almost no progress on actual legisla tion Calculating the possible length of the civil rights filibuster which will catch some depart ments in the new fiscal year without new funds authorized and appropriated expert ob servers had abandoned their ear lier prediction that the session might end by the second or I 1 third weekend in August The new target date theyj suggested was Labor Day at the earliest and possibly Sept 14 Three major factors were blamed for the slowdown and frustrations on legislation i Three Factors Blamed First was the lengthy so called economy fight with members striving to compete on partisan grounds as the chief"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-04-13T08:01:24.834Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82007637/1957-07-12/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_goyle_ver01:data:sn82007637:00516993820:1957071201:0842/full/pct:6.25/0/default.jpg#h=418&w=305",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_goyle_ver01:data:sn82007637:00516993820:1957071201:0842/full/pct:12.5/0/default.jpg#h=837&w=611",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_goyle_ver01/data/sn82007637/00516993820/1957071201/0842.xml&format=alto_xml"
+  ],
+  "index": 131,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ohio",
+    "toledo",
+    "lucas county",
+    "lucas",
+    "united states"
+  ],
+  "location_city": [
+    "toledo"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lucas"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn82007637",
+    "8",
+    "0",
+    "2",
+    "0000000006",
+    "9",
+    "1",
+    "3",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82007637"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "3",
+    "8",
+    "2",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82007637-1957-07-12-ed-1-0842",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "toledo union journal (toledo, ohio) 1942-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "toledo union journal (toledo, ohio) 1942-current"
+  ],
+  "publication_frequency": [
+    "biweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82007637/1957-07-12/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82007637/1957-07-12/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "international union, united automobile workers of america (cio)",
+    "newspapers",
+    "labor unions",
+    "ohio",
+    "toledo",
+    "toledo (ohio)",
+    "lucas county (ohio)",
+    "lucas county",
+    "lucas",
+    "united states",
+    "local 12 (toledo, ohio)"
+  ],
+  "timestamp": "2025-04-13T10:33:14.123Z",
+  "title": "Image 6 of Toledo union journal (Toledo, Ohio), July 12, 1957",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82007637/1957-07-12/ed-1/?sp=6&q=civil+rights",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_goyle_ver01%2Fdata%2Fsn82007637%2F00516993820%2F1957071201%2F0842.xml&q=civil+rights&relevant_snippet=1"
+}

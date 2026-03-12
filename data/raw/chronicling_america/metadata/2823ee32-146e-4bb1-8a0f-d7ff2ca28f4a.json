@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86086770/1898-06-30/ed-1/?sp=2"
+  ],
+  "batch": [
+    "whi_katherine_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/wisconsin/",
+    "2/united states/wisconsin/iowa/",
+    "3/united states/wisconsin/iowa/mineral point/"
+  ],
+  "contributor": [
+    "wisconsin historical society"
+  ],
+  "date": "1898-06-30",
+  "dates": [
+    "1898-06-30"
+  ],
+  "description": [
+    "T mineral Point Cribime V H B J Bknnktt publishers MINERAL POINT WISCONSIN 3 mws or the would WAR Gen Miless son Is to be given a lieutenancy In the fifth Massachusetts volunteers The insurgents at Manila now hold Spaniards and loyal natives pris oners of war Ihe Spanish at Manila are demoral ized the British steamer Yuensang re ported at Hongkong Some sharpshooters with machine guns and mountain artillery have al ready landed to aid Garcia A Cuban pilot who has returned from Santiago says there are 15000 Spanish troops in that city The correspondent of the Farls Temps says there is a report in Madrid that Manila has surrendered Our Cuban aIIu at Guantanamo har bor hanged a Cuban captured In Camp McCalla and proved a spy The blowing up of a smokeless pow der mill near Cincinnati is believed to have been the work of Spanish agents The sending of reinforcements to General Shatter Will be hurried The expedition will probably leave this week V The British consul at Santiago has Mill word that nothing happened to Hobson or others during the bombard ment BxPrcsldent Cleveland In an ad dress at Lawrencevllle N Jf school declared against"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-22T16:21:41.912Z",
+  "group": [
+    "ndnp/whi",
+    "wisconsin-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86086770/1898-06-30/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_katherine_ver01:data:sn86086770:00271768874:1898063001:0616/full/pct:6.25/0/default.jpg#h=437&w=298",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_katherine_ver01:data:sn86086770:00271768874:1898063001:0616/full/pct:12.5/0/default.jpg#h=874&w=597",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/whi/batch_whi_katherine_ver01/data/sn86086770/00271768874/1898063001/0616.xml&format=alto_xml"
+  ],
+  "index": 115,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "iowa",
+    "united states",
+    "mineral point",
+    "wisconsin"
+  ],
+  "location_city": [
+    "mineral point"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "iowa"
+  ],
+  "location_state": [
+    "wisconsin"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "4",
+    "sn86086770",
+    "2",
+    "6",
+    "8",
+    "0000000002",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86086770"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "1",
+    "7",
+    "6",
+    "8",
+    "8",
+    "7",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Tribune"
+  ],
+  "page_id": "sn86086770-1898-06-30-ed-1-0616",
+  "partof": [
+    "chronicling america",
+    "mineral point tribune (mineral point, wis.) 1869-1938",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "mineral point tribune (mineral point, wis.) 1869-1938"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86086770/1898-06-30/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86086770/1898-06-30/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "mineral point",
+    "wisconsin",
+    "iowa",
+    "united states",
+    "newspapers",
+    "mineral point (wis.)"
+  ],
+  "timestamp": "2023-08-23T09:24:44.667Z",
+  "title": "Image 2 of Mineral Point tribune (Mineral Point, Wis.), June 30, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86086770/1898-06-30/ed-1/?sp=2&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwhi%2Fbatch_whi_katherine_ver01%2Fdata%2Fsn86086770%2F00271768874%2F1898063001%2F0616.xml&q=manifest+destiny&relevant_snippet=1"
+}

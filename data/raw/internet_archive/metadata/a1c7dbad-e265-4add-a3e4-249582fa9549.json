@@ -1,0 +1,14 @@
+{
+  "creator": "Archive-It",
+  "date": "2012-01-01T00:00:00Z",
+  "description": "recurrence=NONE, maxDuration=86400, maxDocumentCount=null, isTestCrawl=false, seedCount=267, patchForQaJobId=883, accountId=350, organizationName=\"National Library of Medicine\", collectionId=2722, collectionName=\"Health and Medicine Blogs\"",
+  "format": [
+    "Item CDX Index",
+    "Metadata",
+    "WARC CDX Index",
+    "Web ARChive GZ"
+  ],
+  "identifier": "ARCHIVEIT-2722-PATCH-BRXSPS-00000",
+  "mediatype": "web",
+  "title": "ARCHIVEIT-2722-PATCH-BRXSPS-20120409132135-00000-crawling210.us.archive.org-6681.warc.gz"
+}

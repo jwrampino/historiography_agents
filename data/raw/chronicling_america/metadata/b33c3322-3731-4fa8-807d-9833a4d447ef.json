@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn94050088/1928-01-13/ed-1/?sp=2"
+  ],
+  "batch": [
+    "ak_eagle_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/alaska/",
+    "3/united states/alaska/petersburg/"
+  ],
+  "contributor": [
+    "alaska state library historical collections"
+  ],
+  "date": "1928-01-13",
+  "dates": [
+    "1928-01-13"
+  ],
+  "description": [
+    "Ich Ytakkhyw I A N B PUBLISHING COMPANY SUBSCRIPTION RATES The Alaskan sis months 260 Ike Alaskan per year 400 Published every Friday by the a N B Publishing Co Petersburg Entered in the Post Often in Petersburg as Second Class matter ELECTRICITY OR CANDLES Ji Dear Jim tiie wind is blowing There are white caps on the bay 1 And Im sure the lights are going To flicker out today An I notice when its freezing Or when the sky is dark Or when the air is breezing We are mostly in the dark So take along your flashlight When you go to town today Youll need it coming home tonight To lighten your gloomy way Bring home a box of candles A can of kerosene A gross or two of mantles And a case of gasoline And how long must we be obliged to depend on a lighting system in vogue when Christ was on earth It is down to that pass where we cant figure on current at all We are without light and power so much of the time that well either have to put in light and power plants of our own or go back"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-05-22T12:58:27.986Z",
+  "group": [
+    "ndnp/ak",
+    "alaska-state-library-historical-collections-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn94050088/1928-01-13/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_eagle_ver01:data:sn94050088:0051415451A:1928011301:0120/full/pct:3.125/0/default.jpg#h=280&w=189",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_eagle_ver01:data:sn94050088:0051415451A:1928011301:0120/full/pct:6.25/0/default.jpg#h=561&w=379",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_eagle_ver01:data:sn94050088:0051415451A:1928011301:0120/full/pct:12.5/0/default.jpg#h=1123&w=758",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ak/batch_ak_eagle_ver01/data/sn94050088/0051415451A/1928011301/0120.xml&format=alto_xml"
+  ],
+  "index": 42,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "alaska",
+    "petersburg"
+  ],
+  "location_city": [
+    "petersburg"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "alaska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "5",
+    "sn94050088",
+    "4",
+    "a",
+    "0000000002",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn94050088"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "4",
+    "1",
+    "5",
+    "4",
+    "5",
+    "1",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn94050088-1928-01-13-ed-1-0120",
+  "partof": [
+    "serial and government publications division",
+    "the alaskan (petersburg, alaska) 1926-1932",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the alaskan (petersburg, alaska) 1926-1932"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn94050088/1928-01-13/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn94050088/1928-01-13/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "indians of north america",
+    "alaska",
+    "petersburg",
+    "newspapers",
+    "petersburg (alaska)"
+  ],
+  "subject_ethnicity": [
+    "indians of north america"
+  ],
+  "timestamp": "2024-05-22T17:29:37.782Z",
+  "title": "Image 2 of The Alaskan (Petersburg, Alaska), January 13, 1928",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn94050088/1928-01-13/ed-1/?sp=2&q=phillipines",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fak%2Fbatch_ak_eagle_ver01%2Fdata%2Fsn94050088%2F0051415451A%2F1928011301%2F0120.xml&q=phillipines&relevant_snippet=1"
+}

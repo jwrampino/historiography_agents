@@ -1,0 +1,14 @@
+{
+  "creator": "Archive-It",
+  "date": "2012-01-01T00:00:00Z",
+  "description": "recurrence=NONE, maxDuration=86400, maxDocumentCount=null, isTestCrawl=false, seedCount=136, patchForQaJobId=396, accountId=350, organizationName=\"National Library of Medicine\", collectionId=2722, collectionName=\"Test Health Blogs\"",
+  "format": [
+    "Item CDX Index",
+    "Metadata",
+    "WARC CDX Index",
+    "Web ARChive GZ"
+  ],
+  "identifier": "ARCHIVEIT-2722-PATCH-KNGTTF-00000",
+  "mediatype": "web",
+  "title": "ARCHIVEIT-2722-PATCH-KNGTTF-20120104214943-00000-crawling200.us.archive.org-6682.warc.gz"
+}

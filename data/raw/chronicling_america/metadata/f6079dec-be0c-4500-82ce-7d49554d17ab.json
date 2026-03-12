@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87062224/1958-07-11/ed-1/?sp=5"
+  ],
+  "batch": [
+    "deu_groot_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/delaware/",
+    "2/united states/delaware/sussex/",
+    "3/united states/delaware/sussex/milford/"
+  ],
+  "contributor": [
+    "university of delaware library, newark, de"
+  ],
+  "date": "1958-07-11",
+  "dates": [
+    "1958-07-11"
+  ],
+  "description": [
+    "Sussex House Fire Loss Seen 22000 continued from page one The fire was discovered at 2 p m by a neighbor Mrs Daniel Ken nedy who called the Bridgevllle Fire Company Upon their arrival the roof and much of the second floor were enveloped in lames and they called for heit from the Georgetown and Seaford Compa nies Each company responded with two pieces of equipment About 30 volunteer firemen fought the blaze for two hours be fore it was brought under control The Bridgevllle group remained another hour with moppigup op erations The family has moved in with Mr Shorts father Bids Opened On Two Highway Projects The combined low bids on two projects for which the State High vay Department opened bids re cently totaled 77918675 Eight contracting concerns submitted a total of eleven bids on the two pro jects Empire Construction Company of Baltimore submitted the low bid of 57786795 for the reconstruction o J two bridges alog U S Route 13 at Farnhurst and George and Lynch Inc of Wilmington sub mitted the low bid of 20131880 for constructing the Marshyhope Creek bridge and approaches nd southbound lanes of U S Rt The Farnhurst bridges project"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-12T17:56:52.113Z",
+  "group": [
+    "ndnp/deu",
+    "university-of-delaware-library-newark-de-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87062224/1958-07-11/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_groot_ver01:data:sn87062224:00514156906:1958071101:0049/full/pct:3.125/0/default.jpg#h=268&w=214",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_groot_ver01:data:sn87062224:00514156906:1958071101:0049/full/pct:6.25/0/default.jpg#h=536&w=429",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_groot_ver01:data:sn87062224:00514156906:1958071101:0049/full/pct:12.5/0/default.jpg#h=1073&w=859",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/deu/batch_deu_groot_ver01/data/sn87062224/00514156906/1958071101/0049.xml&format=alto_xml"
+  ],
+  "index": 125,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "milford",
+    "sussex",
+    "delaware",
+    "united states"
+  ],
+  "location_city": [
+    "milford"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "sussex"
+  ],
+  "location_state": [
+    "delaware"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn87062224",
+    "0000000005",
+    "0",
+    "9",
+    "1",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87062224"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "4",
+    "1",
+    "5",
+    "6",
+    "9",
+    "0",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87062224-1958-07-11-ed-1-0049",
+  "partof": [
+    "chronicling america",
+    "milford chronicle (milford, del.) 1878-1974",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "milford chronicle (milford, del.) 1878-1974"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87062224/1958-07-11/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87062224/1958-07-11/ed-1/"
+  ],
+  "shelf_id": "05",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "milford",
+    "delaware",
+    "milford (del.)",
+    "sussex",
+    "united states"
+  ],
+  "timestamp": "2023-08-13T05:44:10.234Z",
+  "title": "Image 5 of Milford chronicle (Milford, Del.), July 11, 1958",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87062224/1958-07-11/ed-1/?sp=5&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdeu%2Fbatch_deu_groot_ver01%2Fdata%2Fsn87062224%2F00514156906%2F1958071101%2F0049.xml&q=computers&relevant_snippet=1"
+}

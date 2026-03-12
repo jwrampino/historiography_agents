@@ -1,0 +1,131 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16079/?sp=1"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1805-03-26",
+  "dates": [
+    "1805-03-26"
+  ],
+  "description": [
+    "I 805 Sr b fendaiy Arine refs oy fr lendly Yon and we VELY of Dap re fatif pleating laced jg from ill lination re fatis ll ever ly and emen vant RSON tendant 1805 experi ution in rsinour Europe ty CON ifhes of jeve to TS utenant Captain tis Ma n and norable row del of the ontbay p Efi pla fel Major E yr John Fither We late ountry ajor Ju John 1 Mik vith Phil three et ities Selling osc 0O ss on Ue hy tted DY bg uaiyy fort ot fF Au\u00e9tion Reom BENGA Volume aa aa PUBLIC SALES PUBLIC SAEE GENUINE LONDON PARTICULAR MADEIRA ie XO To be fold by Public Aufiion By Williams and Hohler AT THEIZ AUCTION 00M TO BE SOLD BY PUBLIC AUCTION By Mefirs T Thompfon and Co At their new Auionroom ecING THE MAVAL STOREKFFPERS YARD Tosmorrow WEDNESDAY the 27th Inf ATONE 0 CLOCK All thofedefirable range of BOUTIQUES or mall SHOPS recently erected fituated in the Lori Ba ZAR immediately facing Coorers Lane and occupying Eighteen Cot taths as per Pottahs be the fame more or lefs Mihe North Eaft fide contains Nineteen Rooms bellow and Eight above the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16079/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16079:0001/full/pct:6.25/0/default.jpg#h=490&w=320",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16079:0001/full/pct:12.5/0/default.jpg#h=981&w=641",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16079:0001/full/pct:25.0/0/default.jpg#h=1963&w=1282",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16079:0001/full/pct:50.0/0/default.jpg#h=3926&w=2565",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16079:0001/full/pct:100.0/0/default.jpg#h=7853&w=5131",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16079/0001.alto.xml&format=alto_xml"
+  ],
+  "index": 79,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "india",
+    "calcutta"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "sn88063570",
+    "sn88063571",
+    "0000000001",
+    "sn88063569",
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16079-0001-alto",
+  "partof": [
+    "asian division",
+    "general collections",
+    "world newspapers",
+    "catalog",
+    "south asian digital collection",
+    "serial and government publications division",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "world digital library"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16079/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16079/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "india",
+    "calcutta"
+  ],
+  "timestamp": "2025-12-12T07:19:54.779Z",
+  "title": "Image 1 of Volume 11, Number 532, Tuesday, March 26, 1805 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16079/?sp=1&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16079%2F0001.alto.xml&q=great+war&relevant_snippet=1"
+}

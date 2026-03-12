@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1924-04-30/ed-1/?sp=1"
+  ],
+  "batch": [
+    "dlc_carmichael_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1924-04-30",
+  "dates": [
+    "1924-04-30"
+  ],
+  "description": [
+    "WEATHER Showers tonight and possibly tomor row morning followed by partly cloudy and cooler tomorrow Temperature for twentyfour hours ended at 2 pm today Highest 66 at 4 30 pm yesterday low est 47 at 4 am today Full report on page 7 i I n Closing N Y Stocks and Bonds Page 30 VT OQ 010 Entered as secondclass matter JM O post office Washington D C 20 KILLED 42 HURT 1 MISSING IN WIND STORMS IN SOUTH Series of Tornadoes Wipe Out Lives Cause 1000 000 Loss in Three States GEORGIA ALABAMA AND SOUTH CAROLINA SUFFER Mill Village Hardest Hit With Nine DeadWires Down Aid Is Rushed By the Associate Pres ATLANTA Ga April 30A dozen towns in four southeastern states bore the brunt of a series of tornadoes that today killed more than twenty persons injured fortytwo and wrecked property estimated at nearly a million dollars Word from Macon Ga stated that a Worm killed three persons there Reports gathered over meager tele graph and telephone wires showed a steadily mounting list of injured Greatest damage was indicated at An derson S C whcsre a tornado at the village of Riverside Mill killed nine per sons and"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:52:38.765Z",
+  "group": [
+    "ndnp/dlc-2017_2017",
+    "library-of-congress-washington-dc-awardee-6"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1924-04-30/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_carmichael_ver01:data:sn83045462:00280657529:1924043001:0374/full/pct:3.125/0/default.jpg#h=262&w=204",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_carmichael_ver01:data:sn83045462:00280657529:1924043001:0374/full/pct:6.25/0/default.jpg#h=525&w=409",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_carmichael_ver01:data:sn83045462:00280657529:1924043001:0374/full/pct:12.5/0/default.jpg#h=1050&w=818",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_carmichael_ver01/data/sn83045462/00280657529/1924043001/0374.xml&format=alto_xml"
+  ],
+  "index": 166,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "0000000001",
+    "2",
+    "sn83045462",
+    "8",
+    "6",
+    "5",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "7",
+    "5",
+    "2",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1924-04-30-ed-1-0374",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1924-04-30/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1924-04-30/ed-1/"
+  ],
+  "shelf_id": "01",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2022-10-24T16:33:17.710Z",
+  "title": "Image 1 of Evening star (Washington, D.C.), April 30, 1924",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1924-04-30/ed-1/?sp=1&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_carmichael_ver01%2Fdata%2Fsn83045462%2F00280657529%2F1924043001%2F0374.xml&q=child+labor&relevant_snippet=1"
+}

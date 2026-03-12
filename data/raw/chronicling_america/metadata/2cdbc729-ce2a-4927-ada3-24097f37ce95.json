@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn95047168/1948-11-12/ed-1/?sp=6"
+  ],
+  "batch": [
+    "fu_madison_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/florida/",
+    "2/united states/florida/union/",
+    "3/united states/florida/union/lake butler/"
+  ],
+  "contributor": [
+    "university of florida"
+  ],
+  "date": "1948-11-12",
+  "dates": [
+    "1948-11-12"
+  ],
+  "description": [
+    "I W Wiii 4I by FAUL M BRUUhI Next to Communists 1 nate hypocrites most Into the latter care gory I am forced to place THOSE NORTHERNERS who have recently peen SCREAMING LOUDLY about Civil Rights I was born in the northOhio I went to grade school high school and to college in Ohio and Indiana Was 19 before I ever saw any part of the South so when you call me a Yankee I wont protest too loudly IQ But I DONT profess one brand of Civil Rights and practice another like the Northern advocates of Civil Rights have just proven to me that the are guilty of Lets get specific In New York there is a Negro member of the City council He sits with the other members but please note he fits in the back row on the minority side but there Is ONLY ONE peat in the back row Now in New York this is beyond criticism but If this were true in Florida Floridians would be guilty of Jim Crowism of practising discrimination and these same New Yorkers want for the South Civil Rights While in New York I lived in the Essex House I"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2026-01-27T17:02:43.382Z",
+  "group": [
+    "ndnp/fu",
+    "university-of-florida-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn95047168/1948-11-12/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_madison_ver01:data:sn95047168:00541310502:1948111201:0370/full/pct:6.25/0/default.jpg#h=481&w=334",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_madison_ver01:data:sn95047168:00541310502:1948111201:0370/full/pct:12.5/0/default.jpg#h=963&w=668",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/fu/batch_fu_madison_ver01/data/sn95047168/00541310502/1948111201/0370.xml&format=alto_xml"
+  ],
+  "index": 137,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "lake butler",
+    "union county",
+    "florida",
+    "union",
+    "united states"
+  ],
+  "location_city": [
+    "lake butler"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "union"
+  ],
+  "location_state": [
+    "florida"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn95047168",
+    "0",
+    "2",
+    "0000000006",
+    "1",
+    "3",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn95047168"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "1",
+    "3",
+    "1",
+    "0",
+    "5",
+    "0",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn95047168-1948-11-12-ed-1-0370",
+  "partof": [
+    "chronicling america",
+    "union county times (lake butler, fla.) 1920-current",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "union county times (lake butler, fla.) 1920-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn95047168/1948-11-12/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn95047168/1948-11-12/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "union county (fla.)",
+    "lake butler",
+    "lake butler (fla.)",
+    "union county",
+    "florida",
+    "union",
+    "united states"
+  ],
+  "timestamp": "2026-01-28T09:33:42.867Z",
+  "title": "Image 6 of Union County times (Lake Butler, Fla.), November 12, 1948",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn95047168/1948-11-12/ed-1/?sp=6&q=civil+rights",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Ffu%2Fbatch_fu_madison_ver01%2Fdata%2Fsn95047168%2F00541310502%2F1948111201%2F0370.xml&q=civil+rights&relevant_snippet=1"
+}

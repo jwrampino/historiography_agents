@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn92051126/1912-12-29/ed-1/?sp=4"
+  ],
+  "batch": [
+    "ct_jackson_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/connecticut/",
+    "2/united states/connecticut/new haven/",
+    "3/united states/connecticut/new haven/new haven/"
+  ],
+  "contributor": [
+    "connecticut state library, hartford, ct"
+  ],
+  "date": "1912-12-29",
+  "dates": [
+    "1912-12-29"
+  ],
+  "description": [
+    "If Sunday December 29 1912 S twiday 95 and Dally 9 One month gkSdlr 26 cents r p I r jOhange of advertisements must be p I fcfhy 10 oclock in he morping to Uf P inre the change being made he sacM I v ft t cannot be guaranteed that p llUAges left later than 10 oclock wHl p ie made that day E Katz Special Advertising Agent glv tt Madison Square North New K Room 4021 Harris Trust Build P fcNb lll West Monroe StreetChicago CAN THE POOR LEGISLA TORS GET ADEQUATE MILEAGE would inform our esteemed Nm street contemporary that the matter for members of the liberal Assembly cannot be fixed by Miandlng an objectionable statute flpjtanuch as this mileage provision is contained In an amendment to the Connecticut constitution adopted Oc Jjf8r 14 It will be found in scc Wik of article 27 of the Connecticut Constitution and reada t Phe compensation of members of JMGeneral Assembly shall not ex 0Md 800 for the term for which they Art elected and one mileage each way CtaAhe regular session at the rate of j jfeit cents a mile they Shall also re ppive one mileage at the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-11-26T05:21:28.329Z",
+  "group": [
+    "ndnp/ct",
+    "connecticut-state-library-hartford-ct-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn92051126/1912-12-29/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_jackson_ver01:data:sn92051126:00517174415:1912122901:0532/full/pct:6.25/0/default.jpg#h=399&w=310",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_jackson_ver01:data:sn92051126:00517174415:1912122901:0532/full/pct:12.5/0/default.jpg#h=798&w=620",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ct/batch_ct_jackson_ver01/data/sn92051126/00517174415/1912122901/0532.xml&format=alto_xml"
+  ],
+  "index": 14,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "connecticut",
+    "new haven"
+  ],
+  "location_city": [
+    "new haven"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new haven"
+  ],
+  "location_state": [
+    "connecticut"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn92051126",
+    "5",
+    "1",
+    "4",
+    "7",
+    "0000000004"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn92051126"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "4",
+    "4",
+    "1",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "New Haven evening union"
+  ],
+  "page_id": "sn92051126-1912-12-29-ed-1-0532",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the new haven union (new haven, conn.) 1895-192?"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the new haven union (new haven, conn.) 1895-192?"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn92051126/1912-12-29/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn92051126/1912-12-29/ed-1/"
+  ],
+  "shelf_id": "04",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "connecticut",
+    "newspapers",
+    "new haven",
+    "new haven (conn.)"
+  ],
+  "timestamp": "2023-11-26T05:41:25.864Z",
+  "title": "Image 4 of The New Haven union (New Haven, Conn.), December 29, 1912, (CITY EDITION)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn92051126/1912-12-29/ed-1/?sp=4&q=great+depressiom",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fct%2Fbatch_ct_jackson_ver01%2Fdata%2Fsn92051126%2F00517174415%2F1912122901%2F0532.xml&q=great+depressiom&relevant_snippet=1"
+}

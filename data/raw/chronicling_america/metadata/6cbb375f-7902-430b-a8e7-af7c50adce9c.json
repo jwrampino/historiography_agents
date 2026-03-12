@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83007243/1954-09-17/ed-1/?sp=2"
+  ],
+  "batch": [
+    "ohi_ivy_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/franklin/",
+    "3/united states/ohio/franklin/columbus/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1954-09-17",
+  "dates": [
+    "1954-09-17"
+  ],
+  "description": [
+    "3THE CATHOLIC TIMES Friday Sept 17 1954 Mass Ordo LITURGY Of The WEEK FRIDAY SEPTEMBER 17 FEAST OF THE IMPRESSION OF THE STIGMATA OF ST FRANCIS Ember Friday of Autumn White vestments Gloria Second prayer of Ember Friday Last Gospel of Ember Friday SATURDAY SEPTEMBER IB FEAST OF ST JOSEPH CUPERTINO Ember Saturday of Autumn TVhite vestments Gloria Second prayer of Ember Saturday Last Gospel of Ember Saturday SUNDAY SEPTEMBER 19 THE FIFTEENTH SUNDAY AFTER PENTECOST Green vestments Gloria Second prayer of St Januarius and Com panions Credo Preface of the Trinity MONDAY SEPTEMBER 20 FEAST OF ST EUSTACE AND COMPANIONS VIGIL OF ST MATTHEW APOSTLE Red vestments Gloria Second prayer of the Vigil Last Gospel of the Vigil TUESDAY SEPTEMBER 21 FEAST OF ST MATTHEW APOSTLE Red vestments Gloria Credo Preface of the Apostle WEDNESDAY SEPTEMBER 22 FEAST OF ST THOMAS OF VILLANOVA White vestments Gloria Second prayer of St Maurice and Com panions THURSDAY SEPTEMBER 23 FEAST OF ST LINUS Red vestments Gloria Second prayer of St Ihecla Third De fend us Preface ol the Apostles FRIDAY SEPTEMBER 24 FEAST OF OUR LADY OF MERCY White vestments Gloria Credo Preface of the Blessed Virgin SATURDAY SEPTEMBER 25 SATURDAY"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:21:02.649Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83007243/1954-09-17/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ivy_ver01:data:sn83007243:00340580205:1954091701:0616/full/pct:3.125/0/default.jpg#h=285&w=218",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ivy_ver01:data:sn83007243:00340580205:1954091701:0616/full/pct:6.25/0/default.jpg#h=571&w=437",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ivy_ver01:data:sn83007243:00340580205:1954091701:0616/full/pct:12.5/0/default.jpg#h=1143&w=874",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_ivy_ver01/data/sn83007243/00340580205/1954091701/0616.xml&format=alto_xml"
+  ],
+  "index": 158,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "columbus",
+    "ohio",
+    "franklin",
+    "united states"
+  ],
+  "location_city": [
+    "columbus"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "franklin"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "0000000002",
+    "0",
+    "2",
+    "sn83007243",
+    "1",
+    "3",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83007243"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "0",
+    "2",
+    "0",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83007243-1954-09-17-ed-1-0616",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the catholic times (columbus, ohio) 1951-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the catholic times (columbus, ohio) 1951-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83007243/1954-09-17/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83007243/1954-09-17/ed-1/"
+  ],
+  "shelf_id": "02",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "franklin",
+    "catholic church",
+    "columbus",
+    "ohio",
+    "columbus (ohio)",
+    "united states"
+  ],
+  "timestamp": "2023-09-05T23:46:18.145Z",
+  "title": "Image 2 of The Catholic times (Columbus, Ohio), September 17, 1954",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83007243/1954-09-17/ed-1/?sp=2&q=vietnam",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_ivy_ver01%2Fdata%2Fsn83007243%2F00340580205%2F1954091701%2F0616.xml&q=vietnam&relevant_snippet=1"
+}

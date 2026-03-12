@@ -1,0 +1,131 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16164/?sp=3"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1805-06-04",
+  "dates": [
+    "1805-06-04"
+  ],
+  "description": [
+    "OFFICIAL MILITARY INTELLIGENCE Bombay May 6th 180s Extracts from Ceneral Orders by Government Bomay Castrie May 3 1805 Medical Storekeeper at Goa annexing ther\u00e9to the Surgeons or Affiftant Surgeons of their own Corps Court of Directors be publithed in General Orders Copy Paragraphs which will be inferted inthe next Gene ral Letter to Bombay paffage onthe Anu country thip we direct that you place him next to Mr Witliam Cuppites onthe 4th Clafs of Cadets of the feafon 1802 beingthe Rank to which he isentitled according to his failing from England 3F obferve that Mr Edward John Godby took his paf dire that you place him next to Mr Wilfiam Pratt in the above Lift of Rank accordingly Extradtof a letter from the Secretary Eaft India Houfe dated 4th December 1804 The following perfons who wereon the Bombay Eftablithment retired from the fervice the days un dermentioned Auguft 1804 1804 WEDNESDAY Sth May 1805 BY GOVERNMENT BOMBAY CAsTLe 6th maw 1805 certificates has received the permiffion of theGe wernor in Council to proceed to Europe ea furlough for the recovery of his health The Honble theCourt ef Directors having an nounced a vacancy by the retirement of Lieut Colo mel"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16164/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16164:0003/full/pct:6.25/0/default.jpg#h=489&w=326",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16164:0003/full/pct:12.5/0/default.jpg#h=978&w=652",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16164:0003/full/pct:25.0/0/default.jpg#h=1957&w=1305",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16164:0003/full/pct:50.0/0/default.jpg#h=3914&w=2611",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16164:0003/full/pct:100.0/0/default.jpg#h=7828&w=5222",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16164/0003.alto.xml&format=alto_xml"
+  ],
+  "index": 72,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "india",
+    "calcutta"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "sn88063570",
+    "0000000003",
+    "sn88063571",
+    "sn88063569",
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16164-0003-alto",
+  "partof": [
+    "asian division",
+    "general collections",
+    "world newspapers",
+    "catalog",
+    "south asian digital collection",
+    "serial and government publications division",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "world digital library"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16164/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16164/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "india",
+    "calcutta"
+  ],
+  "timestamp": "2025-12-12T07:20:50.853Z",
+  "title": "Image 3 of Volume 11, Number 542, Tuesday, June 4, 1805 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16164/?sp=3&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16164%2F0003.alto.xml&q=great+war&relevant_snippet=1"
+}

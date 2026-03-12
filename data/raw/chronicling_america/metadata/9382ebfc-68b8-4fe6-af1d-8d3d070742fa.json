@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045433/1913-06-02/ed-1/?sp=6"
+  ],
+  "batch": [
+    "dlc_klm_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1913-06-02",
+  "dates": [
+    "1913-06-02"
+  ],
+  "description": [
+    "DOINGS OF SOCIETY IN iiyMiQCTSl maaM0N Mrs Wilson and her nephew Mr Fits William Woodrow of Princeton at tended services at the Central Presbt terlan Church yesterday moraine Later in the day the President and Mrs Wilson and their house guests took a motor trip about the District v Former President William Howard Taft expects to come to Washington on June to attend the meeting of the Lincoln Memorial Commission It will lSWJ A be the first visit of Mr Taft to thtolP Sr clty since he left the White House The Secretary of the Navy and Mrs Daniels and their party of frinds who accompanied them on their trip to New York and West Point will reach the Washington Navy Yard at 930 oclock this morning on board the U S S Dolphin Mrs Daniels will entertain at a large reception tomorrow afternoon at Single Oak in honor of Mrs Ueorge lewey wife of the Admiral of the Navy Mr and Mrs Arthur Lee was hostess at a luncheon yesterday at the Chevy Chase Club The Postmaster General and Mrs Burleson and their two daughters Miss Lucy and Miss Sydney Burleson spent yesterday with Mr and Mrs Morgan Beach"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-12-09T13:44:58.945Z",
+  "group": [
+    "ndnp/dlc-2009_2010",
+    "library-of-congress-washington-dc-awardee-3"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045433/1913-06-02/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn83045433:00294558263:1913060201:0314/full/pct:6.25/0/default.jpg#h=405&w=300",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn83045433:00294558263:1913060201:0314/full/pct:12.5/0/default.jpg#h=811&w=601",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_klm_ver01/data/sn83045433/00294558263/1913060201/0314.xml&format=alto_xml"
+  ],
+  "index": 77,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "sn83045433",
+    "8",
+    "9",
+    "5",
+    "6",
+    "0000000006",
+    "4",
+    "3",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045433"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "4",
+    "5",
+    "5",
+    "8",
+    "2",
+    "6",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Washington times-herald",
+    "Washington herald times"
+  ],
+  "page_id": "sn83045433-1913-06-02-ed-1-0314",
+  "partof": [
+    "the washington herald (washington, d.c.) 1906-1939",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington herald (washington, d.c.) 1906-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045433/1913-06-02/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045433/1913-06-02/ed-1/"
+  ],
+  "shelf_id": "06",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2024-12-10T11:44:44.119Z",
+  "title": "Image 6 of The Washington herald (Washington, D.C.), June 2, 1913",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045433/1913-06-02/ed-1/?sp=6&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_klm_ver01%2Fdata%2Fsn83045433%2F00294558263%2F1913060201%2F0314.xml&q=immigration&relevant_snippet=1"
+}

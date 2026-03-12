@@ -1,0 +1,136 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2004540423/1918-09-22/ed-1/?sp=3"
+  ],
+  "batch": [
+    "dlc_1melmac_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1918-09-22",
+  "dates": [
+    "1918-09-22"
+  ],
+  "description": [
+    "4 Fighting Men These Born Under Many Flags but Serving France with Intrepid Loyalty Detachment Here to Aid Liberty Drive A TRANSPORT from France landed last week at an American port A crowd of men and women as tumbled to greet relatives and friends from abroad and others attract ed by the presence of a military band gazed with curiosity when a file of khakiclad warriors in mustardcolored trench helmets filed down the gang plank They were not Americans not Eng lish not Italian nor Belgian that was plain Their coats were cut long enough to reach their knees Their tegs were swathed in puttees and each man wore on his left shoulder a red cord swinging under the armpit They had canteens with blue canvas covering and all their accoutrement suggested foreign lands Then the Tricolor of France was un furled before them a rugged Tricolor bearing bits of ribbon and metal decora tion toys that nations bestqw only in recognition of the highest courage Why of course they are French a woman exclaimed THE PEOPLES FORI Too Subtle by Far 1 the Editor of The World Germany offers peace to Belgium one of the con ti tions being"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-19T00:31:17.325Z",
+  "group": [
+    "sgpww1newspaperclippings/dlc",
+    "wwi-newspaper-clippings"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2004540423/1918-09-22/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_1melmac_ver01:data:2004540423:print00209541920:1918092201:0003/full/pct:6.25/0/default.jpg#h=451&w=345",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_1melmac_ver01:data:2004540423:print00209541920:1918092201:0003/full/pct:12.5/0/default.jpg#h=903&w=690",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/sgp/sgpbatches/batch_dlc_1melmac_ver01/data/2004540423/print00209541920/1918092201/0003.xml&format=alto_xml"
+  ],
+  "index": 64,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "germany",
+    "new york"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000003",
+    "2004540423",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2004540423"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2004540423-1918-09-22-ed-1-0003",
+  "partof": [
+    "world war history: newspaper clippings, 1914-1926",
+    "serial and government publications division",
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-"
+  ],
+  "partof_collection": [
+    "world war history: newspaper clippings, 1914-1926"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2004540423/1918-09-22/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2004540423/1918-09-22/ed-1/"
+  ],
+  "shelf_id": "003",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "world war",
+    "armistices",
+    "united states",
+    "history",
+    "new york",
+    "germany",
+    "allied occupation",
+    "sources"
+  ],
+  "timestamp": "2022-11-09T16:13:09.838Z",
+  "title": "Image 3 of World War history : daily records and comments as appeared in American and foreign newspapers, 1914-1926 (New York), September 22, 1918, (1918 September 22-28)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2004540423/1918-09-22/ed-1/?sp=3&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fsgp%2Fsgpbatches%2Fbatch_dlc_1melmac_ver01%2Fdata%2F2004540423%2Fprint00209541920%2F1918092201%2F0003.xml&q=terrorism&relevant_snippet=1"
+}

@@ -1,0 +1,165 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83032011/1898-06-30/ed-1/?sp=2"
+  ],
+  "batch": [
+    "pst_hershey_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/pennsylvania/",
+    "2/united states/pennsylvania/columbia/",
+    "3/united states/pennsylvania/columbia/bloomsburg/"
+  ],
+  "contributor": [
+    "penn state university libraries; university park, pa"
+  ],
+  "date": "1898-06-30",
+  "dates": [
+    "1898-06-30"
+  ],
+  "description": [
+    "2 THE ENEHY IS REINFORCED Twenty Thousand Men Have Been Added to Linares Foroe The Attack Is ft J Delayed Washington June 290n the receipt jresterday of definite information from General Shatter that the enemys force slow entrenched behind the fortifica tions of Santiago de Cuba numbers not less than 30000 men the war depart ment sent out hurrv orders for send ing large reinforcements to our army of invasion By this time nine thousand troops may have sailed for Balqulri from Tampa and if they nave not gone the tranaports will sail at almost any hour Late last night orders were sent to the camp of mobilization at Chlcka mauga for the entire First Army Corps there comprising 30000 men to be got ready to move at once This large force probably will sail from Newport Newi as soon as transports can be provid ed It Is not expected here that General Shatter will wait to assault Santiago until the troops from Chickamauga can reach him It Is more likely that the movement from Camp Thomas Is made In contemplation of the attack on Porto Rico which Is to be made probably With conquered Santiago as the base The"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-10-08T09:06:03.505Z",
+  "group": [
+    "ndnp/pst",
+    "penn-state-university-libraries-university-park-pa-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83032011/1898-06-30/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn83032011:00296028423:1898063001:0158/full/pct:6.25/0/default.jpg#h=395&w=279",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn83032011:00296028423:1898063001:0158/full/pct:12.5/0/default.jpg#h=790&w=558",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/pst/batch_pst_hershey_ver01/data/sn83032011/00296028423/1898063001/0158.xml&format=alto_xml"
+  ],
+  "index": 94,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "bloomsburg",
+    "columbia county",
+    "columbia",
+    "pennsylvania",
+    "united states"
+  ],
+  "location_city": [
+    "bloomsburg"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "columbia"
+  ],
+  "location_state": [
+    "pennsylvania"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "8",
+    "0000000002",
+    "0",
+    "2",
+    "9",
+    "1",
+    "3",
+    "sn83032011",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83032011"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "6",
+    "0",
+    "2",
+    "8",
+    "4",
+    "2",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Columbian and democrat",
+    "Columbian and Bloomsburg democrat"
+  ],
+  "page_id": "sn83032011-1898-06-30-ed-1-0158",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the columbian (bloomsburg, pa.) 1866-1910"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the columbian (bloomsburg, pa.) 1866-1910"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83032011/1898-06-30/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83032011/1898-06-30/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "bloomsburg",
+    "columbia county (pa.)",
+    "bloomsburg (pa.)",
+    "columbia county",
+    "columbia",
+    "pennsylvania",
+    "united states"
+  ],
+  "timestamp": "2022-10-28T02:45:55.486Z",
+  "title": "Image 2 of The Columbian (Bloomsburg, Pa.), June 30, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83032011/1898-06-30/ed-1/?sp=2&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fpst%2Fbatch_pst_hershey_ver01%2Fdata%2Fsn83032011%2F00296028423%2F1898063001%2F0158.xml&q=spanish&relevant_snippet=1"
+}

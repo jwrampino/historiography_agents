@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88084115/1886-01-01/ed-1/?sp=3"
+  ],
+  "batch": [
+    "dlc_cheetah_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/pennsylvania/",
+    "2/united states/pennsylvania/cumberland/",
+    "3/united states/pennsylvania/cumberland/carlisle/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1886-01-01",
+  "dates": [
+    "1886-01-01"
+  ],
+  "description": [
+    "which the surplus portion would produce a yearly income of about 240000 or about 175 000 more than is being disbursed this year for their benefit In New Mexico the Navajos on the reservation of the same name have now over 8000000 acres for a population of 23000 people Here the surplus land would yield over 330000 a year For the surplus lands of the Mescalero Apache reservation the income would be nearly 20000 44 in Arizona the principal reservation is the White Mountain with the agency at San Car los It embraces more than 2500000 acres Considerable uncertainty exists as to its popu lation but it is probably about 3000 in the vi cinity of the agency and 2000 more making 5 000 in all who have removed into the northern part and are now engaged in farming and inef forts to make themselves selfsupporting The latter would however be entitled to all the benefits obtained by the agency Indians in any scheme looking to the promotion of their gen eral prosperity Carrying out the proposals of my report would leave a balance of considera bly over two million acres with according the plan advocated about 110000 per year"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-09-14T05:37:17.412Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88084115/1886-01-01/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cheetah_ver02:data:sn88084115:00543171748:1886010101:0153/full/pct:6.25/0/default.jpg#h=360&w=262",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cheetah_ver02:data:sn88084115:00543171748:1886010101:0153/full/pct:12.5/0/default.jpg#h=720&w=525",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_cheetah_ver02/data/sn88084115/00543171748/1886010101/0153.xml&format=alto_xml"
+  ],
+  "index": 97,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "cumberland county",
+    "united states",
+    "carlisle",
+    "pennsylvania",
+    "cumberland"
+  ],
+  "location_city": [
+    "carlisle"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cumberland"
+  ],
+  "location_state": [
+    "pennsylvania"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000003",
+    "0",
+    "3",
+    "5",
+    "4",
+    "1",
+    "7",
+    "sn88084115",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88084115"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "3",
+    "1",
+    "7",
+    "1",
+    "7",
+    "4",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88084115-1886-01-01-ed-1-0153",
+  "partof": [
+    "chronicling america",
+    "the morning star (carlisle, pa.) 1882-1887",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the morning star (carlisle, pa.) 1882-1887"
+  ],
+  "publication_frequency": [
+    "monthly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88084115/1886-01-01/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88084115/1886-01-01/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "cumberland county (pa.)",
+    "cumberland county",
+    "united states",
+    "carlisle (pa.)",
+    "newspapers",
+    "carlisle",
+    "pennsylvania",
+    "cumberland"
+  ],
+  "timestamp": "2025-09-14T05:51:09.575Z",
+  "title": "Image 3 of The morning star (Carlisle, Pa.), January 1, 1886",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88084115/1886-01-01/ed-1/?sp=3&q=indian+territory",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_cheetah_ver02%2Fdata%2Fsn88084115%2F00543171748%2F1886010101%2F0153.xml&q=indian+territory&relevant_snippet=1"
+}

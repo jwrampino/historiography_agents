@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045211/1922-02-28/ed-1/?sp=15"
+  ],
+  "batch": [
+    "pst_icecream_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/pennsylvania/",
+    "2/united states/pennsylvania/philadelphia/",
+    "3/united states/pennsylvania/philadelphia/philadelphia/"
+  ],
+  "contributor": [
+    "penn state university libraries; university park, pa"
+  ],
+  "date": "1922-02-28",
+  "dates": [
+    "1922-02-28"
+  ],
+  "description": [
+    "BaaaaT7iaarTwir77tr3iL 0ftMK3flHAUMtK J11EXFSEBHEESWI HifiiPif Hi iBTBPniBBHnHHU fliHHa 1 J WHBBBT r Uk fe i iTlt mj iJS f r BBPABBBar BrTltll Ul lAIHIKa inU IJ 1 V llVfA AJ ILli lABBBBBBBBUr mTBBBBSBnBBB 28raiH 7T wr r w iwwa 1 rap Of niii miM wv u iirfirnii ti w ittw jcj tdn ji r r j3UssdWtfeSWsi4WM pw JRtiAiiUllntillASJBrftSJSSttaUttUtiiS jW k f WH m H When the People Reach Out BEWARE 1 rtJSnH ATing Leuis XVI of France Learned It Toe Late e Ijjyiygy 1 NE single play has been seen by fifty millions of Americans That play was the TWO OR PHANS played in every country in the world but Siam A hundred million Americans need te see the story of a still greater play of real life called THE FRENCH REVOLUTION In looking Jack at that play of history a tragedy of passion in which Kings were vic tims and men from the gutter their executioners the intelli gent man is warned and understands the events of teday ft ft Beware of the people when it reaches out te grab wHat Tt hates And let the people beware of ITSELF in that moment of hatred triumph intoxication and inevitable disaster"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-10-08T11:08:42.508Z",
+  "group": [
+    "ndnp/pst",
+    "penn-state-university-libraries-university-park-pa-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045211/1922-02-28/ed-1/?sp=15",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_icecream_ver01:data:sn83045211:00237281664:1922022801:0646/full/pct:6.25/0/default.jpg#h=445&w=362",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_icecream_ver01:data:sn83045211:00237281664:1922022801:0646/full/pct:12.5/0/default.jpg#h=891&w=724",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/pst/batch_pst_icecream_ver01/data/sn83045211/00237281664/1922022801/0646.xml&format=alto_xml"
+  ],
+  "index": 11,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "pennsylvania",
+    "philadelphia"
+  ],
+  "location_city": [
+    "philadelphia"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "philadelphia"
+  ],
+  "location_state": [
+    "pennsylvania"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000015",
+    "2",
+    "8",
+    "3",
+    "6",
+    "sn83045211",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045211"
+  ],
+  "number_page": [
+    "0000000015"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "3",
+    "7",
+    "2",
+    "8",
+    "1",
+    "6",
+    "6",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Evening public ledger and the evening telegraph"
+  ],
+  "page_id": "sn83045211-1922-02-28-ed-1-0646",
+  "partof": [
+    "chronicling america",
+    "evening public ledger (philadelphia [pa.]) 1914-1942",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening public ledger (philadelphia [pa.]) 1914-1942"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045211/1922-02-28/ed-1/?sp=15"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045211/1922-02-28/ed-1/"
+  ],
+  "shelf_id": "15",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "philadelphia",
+    "pennsylvania",
+    "united states",
+    "newspapers",
+    "philadelphia (pa.)"
+  ],
+  "timestamp": "2022-10-28T05:14:29.717Z",
+  "title": "Image 15 of Evening public ledger (Philadelphia [Pa.]), February 28, 1922, (Final)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045211/1922-02-28/ed-1/?sp=15&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fpst%2Fbatch_pst_icecream_ver01%2Fdata%2Fsn83045211%2F00237281664%2F1922022801%2F0646.xml&q=revolution&relevant_snippet=1"
+}

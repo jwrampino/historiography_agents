@@ -1,0 +1,138 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83016025/1904-02-24/ed-1/?sp=2"
+  ],
+  "batch": [
+    "me_jemptland_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/maine/",
+    "2/united states/maine/cumberland/",
+    "3/united states/maine/cumberland/portland/"
+  ],
+  "contributor": [
+    "maine state library"
+  ],
+  "date": "1904-02-24",
+  "dates": [
+    "1904-02-24"
+  ],
+  "description": [
+    "ama by a vote of 68 to 14 The re suit wast a foregone conclusion the in terest in the matter being oniy in the division of the vote on the Democratic side which was not known Jefiniteiy until the roli was caiied aii the Re publicans being for ratification Fourteen Democrats voted for rati fication and fourteen against Two Democrats Ciark of Montana and Stone of Missouri were paired in favor of the treaty and three Democrats Overman McLaurin and Martin were paired against it so in the totai vote sixteen Democrats were for the treaty and 17 against it The Democrats who were present and voted for the treaty were ltacon Herry Ciark of Arkansas Ciay Cockrcli Foster of louisiana Otbson Datimer McCreary McEnery Maiiory Money Simony and Taiieftro The oniy other vote was on the amendment offered by Senator Bacon providing for an arrangement to com pensate Coombla for loss ef the terri tory of Panama This was rejected by a vote of 24 to 49 Itwasaparty voto on the afHrmative side and a iso on the negative side with the exception of Mr Gibson and Mr Emery Dem crats who voted with the Republicans Four Democrats"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T14:09:36.890Z",
+  "group": [
+    "ndnp/me",
+    "maine-state-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83016025/1904-02-24/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jemptland_ver01:data:sn83016025:print:1904022401:0586/full/pct:6.25/0/default.jpg#h=409&w=337",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jemptland_ver01:data:sn83016025:print:1904022401:0586/full/pct:12.5/0/default.jpg#h=819&w=674",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/me/batch_me_jemptland_ver01/data/sn83016025/print/1904022401/0586.xml&format=alto_xml"
+  ],
+  "index": 65,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "portland",
+    "united states",
+    "cumberland",
+    "maine"
+  ],
+  "location_city": [
+    "portland"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cumberland"
+  ],
+  "location_state": [
+    "maine"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000002",
+    "1",
+    "sn83016025"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83016025"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83016025-1904-02-24-ed-1-0586",
+  "partof": [
+    "chronicling america",
+    "the portland daily press (portland, me.) 1862-1921",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the portland daily press (portland, me.) 1862-1921"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83016025/1904-02-24/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83016025/1904-02-24/ed-1/"
+  ],
+  "shelf_id": "02",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "portland (me.)",
+    "cumberland",
+    "portland",
+    "maine",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-07-06T13:07:00.500Z",
+  "title": "Image 2 of The Portland daily press (Portland, Me.), February 24, 1904",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83016025/1904-02-24/ed-1/?sp=2&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fme%2Fbatch_me_jemptland_ver01%2Fdata%2Fsn83016025%2Fprint%2F1904022401%2F0586.xml&q=korea&relevant_snippet=1"
+}

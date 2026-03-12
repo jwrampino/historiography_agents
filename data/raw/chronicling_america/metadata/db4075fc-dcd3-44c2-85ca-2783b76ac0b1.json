@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83030431/1918-10-13/ed-1/?sp=33"
+  ],
+  "batch": [
+    "nn_pielou_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "the new york public library, astor, lenox and tilden foundation"
+  ],
+  "date": "1918-10-13",
+  "dates": [
+    "1918-10-13"
+  ],
+  "description": [
+    "THE SUN SUNDAY OCTOBER 13 1918 Senate at Odds Over Reconstruction Bills Week Plan Would Put After the War Power in Hands of Congress Over mans Idea to Give It to President Both Resolutions May Go Over Until After Election Im portance of Work Just Being Realized by Lawmakers By RICHARD BARRY TOE FORE this country pan have are construction programme it must settle the question of who is to handle it Congress or the President Recently I outlined in The Sun the programme of Senator Weeks who had just introduced resolution calling for the appointment by Congress of a committee on reconstruc tion A few day3 later Senator Overman introduced a resolution that covered prac tically the same ground in all but one vital essential Tho Overman bill asked for a commission on reconstruction to lie appointed by the President There today lies Americas greatest problem next to the imperative task of winning the war Tho question is Will Congress continue after the war on the line i it has willingly followed for seven teen months delegating much of its legis lative function to the Chief Executive or will it rise now and reassert itself re claiming its constitutional"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T13:50:33.445Z",
+  "group": [
+    "ndnp/nn-2011_2013",
+    "the-new-york-public-library-astor-lenox-and-tilden-foundation-awardee-3"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83030431/1918-10-13/ed-1/?sp=33",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pielou_ver01:data:sn83030431:00200294087:1918101301:0285/full/pct:6.25/0/default.jpg#h=334&w=197",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pielou_ver01:data:sn83030431:00200294087:1918101301:0285/full/pct:12.5/0/default.jpg#h=668&w=395",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nn/batch_nn_pielou_ver01/data/sn83030431/00200294087/1918101301/0285.xml&format=alto_xml"
+  ],
+  "index": 61,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "new york",
+    "united states",
+    "new york county",
+    "new york city"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000033",
+    "sn83030431",
+    "9",
+    "2",
+    "8",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83030431"
+  ],
+  "number_page": [
+    "0000000033"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "0",
+    "2",
+    "9",
+    "4",
+    "0",
+    "8",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83030431-1918-10-13-ed-1-0285",
+  "partof": [
+    "the sun (new york [n.y.]) 1916-1920",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the sun (new york [n.y.]) 1916-1920"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83030431/1918-10-13/ed-1/?sp=33"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83030431/1918-10-13/ed-1/"
+  ],
+  "shelf_id": "33",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "new york",
+    "new york (state)",
+    "united states",
+    "new york county",
+    "new york county (n.y.)",
+    "newspapers",
+    "new york (n.y.)"
+  ],
+  "timestamp": "2022-10-11T17:58:43.522Z",
+  "title": "Image 33 of The sun (New York [N.Y.]), October 13, 1918, (Section 4 Magazine Section)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83030431/1918-10-13/ed-1/?sp=33&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnn%2Fbatch_nn_pielou_ver01%2Fdata%2Fsn83030431%2F00200294087%2F1918101301%2F0285.xml&q=reconstruction&relevant_snippet=1"
+}

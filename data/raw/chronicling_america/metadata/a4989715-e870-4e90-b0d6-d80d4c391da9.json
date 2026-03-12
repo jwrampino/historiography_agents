@@ -1,0 +1,168 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85042303/1898-12-07/ed-1/?sp=2"
+  ],
+  "batch": [
+    "okhi_avocado_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/oklahoma/",
+    "2/united states/oklahoma/carter/",
+    "3/united states/oklahoma/carter/ardmore/"
+  ],
+  "contributor": [
+    "oklahoma historical society"
+  ],
+  "date": "1898-12-07",
+  "dates": [
+    "1898-12-07"
+  ],
+  "description": [
+    "Zbe Bail Hrtnttorette BVQQB A DEEW Proprietor Editor Business Manager blDHBT 80 Pablisel Erery Afternoon Saturday Ex eepted and Sunday Morning Office of publication Court Street Entered at the Postofflce at Ardmore as second class mall matter Nor 37 S3 BUBSCBIPTION BATES On Week 18 One Month On Tear 600 OFFICIAL ORGAN 05 THE CITY UNITED STATES COURT fhe United State ooort for this district 111 meet as follows IMckeaha February 7 and October 8 Ryan Februarv 21 and October Paul Valley March 7 nnd October v oa anal Nnvomlif r JfUrfJBII n 11 nu Arditore April 11 and December 6 Rosea Townsend United states Judge W BJohnson United States Attorney nku TTnitArl fttates Clerk John 8 HmmerVVUnlted States Marshal TIME TABLE Gulf Colorado and Santa Fe Railway SOOTHBOUND Galveston and Chicaeo Express 412 a m Cleburne and Kansas City Express 610 pm f NORTH BOUND OalTeston and Chicago Express 1259 a m Cleburne and Kansas City Express 11 02 s m A Lucas Ticket Agent W 8 Kbbsan General Passenger A vent Abdmoee Wednesday Dec 7 The Wichita Beacon says the legislatures and governors of thirtytwo states costs less than it requires to maintain the executive of Oklahoma territory"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T14:55:23.516Z",
+  "group": [
+    "ndnp/okhi",
+    "oklahoma-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85042303/1898-12-07/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_avocado_ver01:data:sn85042303:00200295365:1898120701:0630/full/pct:6.25/0/default.jpg#h=419&w=291",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_avocado_ver01:data:sn85042303:00200295365:1898120701:0630/full/pct:12.5/0/default.jpg#h=839&w=583",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/okhi/batch_okhi_avocado_ver01/data/sn85042303/00200295365/1898120701/0630.xml&format=alto_xml"
+  ],
+  "index": 26,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ardmore",
+    "oklahoma",
+    "chickasaw nation",
+    "carter county",
+    "united states",
+    "carter"
+  ],
+  "location_city": [
+    "ardmore"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "carter"
+  ],
+  "location_state": [
+    "oklahoma"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn85042303",
+    "9",
+    "2",
+    "6",
+    "5",
+    "3",
+    "0000000002",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85042303"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "0",
+    "2",
+    "9",
+    "5",
+    "3",
+    "6",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday Ardmoreite-press",
+    "Ardmoreite",
+    "Evening Ardmoreite",
+    "Morning Ardmoreite"
+  ],
+  "page_id": "sn85042303-1898-12-07-ed-1-0630",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the daily ardmoreite (ardmore, okla.) 1893-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the daily ardmoreite (ardmore, okla.) 1893-current"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85042303/1898-12-07/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85042303/1898-12-07/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "carter county (okla.)",
+    "ardmore",
+    "oklahoma",
+    "chickasaw nation, oklahoma",
+    "carter county",
+    "united states",
+    "newspapers",
+    "carter",
+    "ardmore (okla.)"
+  ],
+  "timestamp": "2022-11-17T21:31:04.160Z",
+  "title": "Image 2 of The Daily Ardmoreite (Ardmore, Okla.), December 7, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85042303/1898-12-07/ed-1/?sp=2&q=indian+territory",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fokhi%2Fbatch_okhi_avocado_ver01%2Fdata%2Fsn85042303%2F00200295365%2F1898120701%2F0630.xml&q=indian+territory&relevant_snippet=1"
+}

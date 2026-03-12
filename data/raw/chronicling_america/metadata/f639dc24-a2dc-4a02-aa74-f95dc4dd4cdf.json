@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn89060376/1943-08-02/ed-1/?sp=3"
+  ],
+  "batch": [
+    "mdu_easton_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/maryland/",
+    "2/united states/maryland/allegany/",
+    "3/united states/maryland/allegany/cumberland/"
+  ],
+  "contributor": [
+    "university of maryland, college park, md"
+  ],
+  "date": "1943-08-02",
+  "dates": [
+    "1943-08-02"
+  ],
+  "description": [
+    "Jottings from Local 1874 C Shift Spinning Notes By i p Safety First It 1 lif company officials refuse to tak any more safety measures in the futuie lhan they have lately I will head this column Obituary In Block 2 on a Sunday recently construction workers were fixing the cooling system with the usual unprecautionary measures found In the Shipping Dept While a cer tain spinner was making his change a large piece of 2x4 with a big spike in the end fell and actually brushed his head and shoulders breaking down some ends on the machine After this occurred the company Anally placed three planks in the girder above his head and rounded up a helmet for him to wear I even noticed the fellows on the reels wore a helmet that day also Our suggestion is that after this they take the necessary safety steps first Two of our more prominent com pany officials must have lost some thing plenty valuable in back of the machines or up on top lately judging from the numerous trips they have made in the last few days If anything has been found that belongs to them please return it so"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-03-01T18:24:30.808Z",
+  "group": [
+    "ndnp/mdu",
+    "university-of-maryland-college-park-college-park-md-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn89060376/1943-08-02/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_easton_ver02:data:sn89060376:00279522059:1943080201:0687/full/pct:3.125/0/default.jpg#h=264&w=175",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_easton_ver02:data:sn89060376:00279522059:1943080201:0687/full/pct:6.25/0/default.jpg#h=529&w=350",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_easton_ver02:data:sn89060376:00279522059:1943080201:0687/full/pct:12.5/0/default.jpg#h=1059&w=700",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mdu/batch_mdu_easton_ver02/data/sn89060376/00279522059/1943080201/0687.xml&format=alto_xml"
+  ],
+  "index": 123,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "maryland",
+    "allegany",
+    "cumberland",
+    "united states"
+  ],
+  "location_city": [
+    "cumberland"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "allegany"
+  ],
+  "location_state": [
+    "maryland"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000003",
+    "0",
+    "9",
+    "5",
+    "2",
+    "1",
+    "7",
+    "sn89060376"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn89060376"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "2",
+    "2",
+    "0",
+    "5",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn89060376-1943-08-02-ed-1-0687",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the cio news (cumberland, md.) 1942-????"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the cio news (cumberland, md.) 1942-????"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn89060376/1943-08-02/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn89060376/1943-08-02/ed-1/"
+  ],
+  "shelf_id": "03",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "allegany",
+    "newspapers",
+    "maryland",
+    "cumberland",
+    "labor movement",
+    "cumberland (md.)"
+  ],
+  "timestamp": "2023-03-07T08:40:30.692Z",
+  "title": "Image 3 of The CIO news (Cumberland, Md.), August 2, 1943",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn89060376/1943-08-02/ed-1/?sp=3&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmdu%2Fbatch_mdu_easton_ver02%2Fdata%2Fsn89060376%2F00279522059%2F1943080201%2F0687.xml&q=fascism&relevant_snippet=1"
+}

@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88071001/1963-02-18/ed-1/?sp=2"
+  ],
+  "batch": [
+    "gu_kraken_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/georgia/",
+    "2/united states/georgia/richmond/",
+    "3/united states/georgia/richmond/augusta/"
+  ],
+  "contributor": [
+    "digital library of georgia, a project of galileo located at the university of georgia libraries"
+  ],
+  "date": "1963-02-18",
+  "dates": [
+    "1963-02-18"
+  ],
+  "description": [
+    "Page Two THE AUGUSTA COURIER He who spares no class of men is angry at no person but the rices of all 1300 Southern Finance Building Augusta Georgia SecondClass Postage Paid at Augusta Georgia SUBSCRIPTION RATE Published Weekly by The Courier Publishing Company Year 400 WHEN CAN YOU BELIEVE THE KENNEDY ADMINISTRATION Last summer and early fall there was quite a controversy in this country about Cuba Senator Strom Thurmond and many others in Washington were claim ing that the Russians were establishing a regular armed arsenal in Cuba President Kennedy came out saying that they were fully acquainted with the Cuban situation and that there were no offensive weapons in Cuba Finally the President took to the air in a message to the people of the country and stated that they had positive evidence that the Russians were basing longrange missiles in Cuba capable of destroying at least half the United States and a lot of South America and announced that he was placing a quarantine on Cuba until these missiles were removed Now Senator Strom Thurmond Senator Keating of New York and many others are claiming that there is now a massive buildup of Red forces in Cuba"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-06-29T05:13:40.925Z",
+  "group": [
+    "ndnp/gu",
+    "digital-library-of-georgia-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88071001/1963-02-18/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_kraken_ver01:data:sn88071001:00529044707:1963021801:0654/full/pct:3.125/0/default.jpg#h=264&w=188",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_kraken_ver01:data:sn88071001:00529044707:1963021801:0654/full/pct:6.25/0/default.jpg#h=528&w=377",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_kraken_ver01:data:sn88071001:00529044707:1963021801:0654/full/pct:12.5/0/default.jpg#h=1056&w=754",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/gu/batch_gu_kraken_ver01/data/sn88071001/00529044707/1963021801/0654.xml&format=alto_xml"
+  ],
+  "index": 8,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "augusta",
+    "richmond",
+    "georgia"
+  ],
+  "location_city": [
+    "augusta"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "richmond"
+  ],
+  "location_state": [
+    "georgia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "5",
+    "9",
+    "7",
+    "4",
+    "sn88071001",
+    "0000000002",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88071001"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "2",
+    "9",
+    "0",
+    "4",
+    "4",
+    "7",
+    "0",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88071001-1963-02-18-ed-1-0654",
+  "partof": [
+    "serial and government publications division",
+    "chronicling america",
+    "the augusta courier (augusta, ga.) 1946-1974"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the augusta courier (augusta, ga.) 1946-1974"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88071001/1963-02-18/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88071001/1963-02-18/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "georgia",
+    "augusta (ga.)",
+    "united states",
+    "since 1945",
+    "augusta",
+    "newspapers",
+    "conservatism",
+    "politics and government",
+    "richmond"
+  ],
+  "timestamp": "2025-06-29T05:45:56.276Z",
+  "title": "Image 2 of The Augusta courier (Augusta, Ga.), February 18, 1963",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88071001/1963-02-18/ed-1/?sp=2&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fgu%2Fbatch_gu_kraken_ver01%2Fdata%2Fsn88071001%2F00529044707%2F1963021801%2F0654.xml&q=cuba&relevant_snippet=1"
+}

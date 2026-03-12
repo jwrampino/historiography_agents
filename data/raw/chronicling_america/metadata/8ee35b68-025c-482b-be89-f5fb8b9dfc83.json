@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86075258/1950-11-01/ed-1/?sp=11"
+  ],
+  "batch": [
+    "mthi_adderstongue_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/yellowstone/",
+    "3/united states/montana/yellowstone/laurel/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1950-11-01",
+  "dates": [
+    "1950-11-01"
+  ],
+  "description": [
+    "WEEKLY NEWS ANALYSIS Truman Tells U N This Country Committed to Armament Program Costs of Living Near Record High EDITORS NOTE When opinions are expressed In these columns they are those of Western Newspaper Unions news analysts and not necessarily at this newspaper TRUMAN Armament for Peace President Truman speaking be fore the United Nations general as sembly on United Nations Day told members of the world organi zation that the United States would prefer universal disarmament but that this nation is committed to re arming because it is the only way As for disarmament and the solu tion to world problems Mr Tru man said the U S was willing to enter negotiation but only if all na lions proved their good intentions Such negotiation could only be car ried on if there was concrete evi to stop aggression The President used Korea as an example of what united effort by UN members can accomplish in stopping aggression He termed the Invasion of South Korea by Com munist forces a direct challenge to the world organization dence of good intention and the open and free exchange of ideas between nations The chief executive said few acts in our time"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:44:18.717Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86075258/1950-11-01/ed-1/?sp=11",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_adderstongue_ver01:data:sn86075258:00340581799:1950110101:0470/full/pct:6.25/0/default.jpg#h=446&w=334",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_adderstongue_ver01:data:sn86075258:00340581799:1950110101:0470/full/pct:12.5/0/default.jpg#h=893&w=668",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_adderstongue_ver01/data/sn86075258/00340581799/1950110101/0470.xml&format=alto_xml"
+  ],
+  "index": 173,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "montana",
+    "laurel",
+    "yellowstone",
+    "united states"
+  ],
+  "location_city": [
+    "laurel"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "yellowstone"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "sn86075258",
+    "0",
+    "0000000011",
+    "7",
+    "9",
+    "1",
+    "3",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86075258"
+  ],
+  "number_page": [
+    "0000000011"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "1",
+    "7",
+    "9",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86075258-1950-11-01-ed-1-0470",
+  "partof": [
+    "chronicling america",
+    "laurel outlook (laurel, mont.) 1909-current",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "laurel outlook (laurel, mont.) 1909-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86075258/1950-11-01/ed-1/?sp=11"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86075258/1950-11-01/ed-1/"
+  ],
+  "shelf_id": "11",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "montana",
+    "laurel",
+    "yellowstone",
+    "united states"
+  ],
+  "timestamp": "2023-07-05T13:52:20.887Z",
+  "title": "Image 11 of Laurel outlook (Laurel, Mont.), November 1, 1950",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86075258/1950-11-01/ed-1/?sp=11&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_adderstongue_ver01%2Fdata%2Fsn86075258%2F00340581799%2F1950110101%2F0470.xml&q=korea&relevant_snippet=1"
+}

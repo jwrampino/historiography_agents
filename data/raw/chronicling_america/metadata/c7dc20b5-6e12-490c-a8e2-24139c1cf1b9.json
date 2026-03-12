@@ -1,0 +1,165 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85066387/1900-11-03/ed-1/?sp=1"
+  ],
+  "batch": [
+    "curiv_brea_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/california/",
+    "2/united states/california/san francisco/",
+    "3/united states/california/san francisco/san francisco/"
+  ],
+  "contributor": [
+    "university of california, riverside; riverside, ca"
+  ],
+  "date": "1900-11-03",
+  "dates": [
+    "1900-11-03"
+  ],
+  "description": [
+    "PRICE FIVE CENTS VOLUME LXXXVIII NO 150 CHICAGO Nov 2Willlam J Bryans programme In Chicago today composed twelve speeches The crowds that greeted him were greater than those at the meet Ings of yesterday and last night The candidate began his Itinerary at Han del Hall In the downtown business dis trict going from there to the public li brary where he spoke to an outdoor gathering of workingmen After luncheon he made two addresses in the Old Vienna Pavilion at Sixtieth street and Cottage Grove avenue one to the crowd in the building and the other to the throng that was unable to gain admittance Here was the only semblance of disturbance mani fested Two men in the audience asked almost simultaneously How about North Carolina and Mr Bryan was re plying when one of the questioners in sisted on asking a question concerning trusts whereupon the crowd demanded that he be thrown out and threatened to lynch him Mr Bryan Insisted upon answering however but could not do so for some time owing to the uproar made by the crowd In expressing Its resentment to ward the questioner The latter was saved from violence only by police inter"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-09-02T13:54:12.570Z",
+  "group": [
+    "ndnp/curiv",
+    "university-of-california-riverside-riverside-ca-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85066387/1900-11-03/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_brea_ver01:data:sn85066387:190011031:0031/full/pct:3.125/0/default.jpg#h=270&w=200",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_brea_ver01:data:sn85066387:190011031:0031/full/pct:6.25/0/default.jpg#h=541&w=400",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_brea_ver01:data:sn85066387:190011031:0031/full/pct:12.5/0/default.jpg#h=1082&w=801",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/curiv/batch_curiv_brea_ver01/data/sn85066387/190011031/0031.xml&format=alto_xml"
+  ],
+  "index": 42,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "san francisco",
+    "san francisco bay area",
+    "california"
+  ],
+  "location_city": [
+    "san francisco"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "san francisco"
+  ],
+  "location_state": [
+    "california"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn85066387",
+    "0",
+    "1",
+    "4",
+    "5",
+    "a",
+    "7",
+    "0000000001",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85066387"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "4",
+    "7",
+    "8",
+    "5",
+    "0",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sometimes published as: Call",
+    "Sunday issues published as: Sunday call",
+    "Joint issue published as: Call-chronicle-examiner"
+  ],
+  "page_id": "sn85066387-1900-11-03-ed-1-0031",
+  "partof": [
+    "chronicling america",
+    "the san francisco call (san francisco [calif.]) 1895-1913",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the san francisco call (san francisco [calif.]) 1895-1913"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85066387/1900-11-03/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85066387/1900-11-03/ed-1/"
+  ],
+  "shelf_id": "01",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "san francisco bay area (calif.)",
+    "san francisco (calif.)",
+    "united states",
+    "newspapers",
+    "san francisco",
+    "california",
+    "san francisco bay area"
+  ],
+  "timestamp": "2025-09-28T07:01:39.214Z",
+  "title": "Image 1 of The San Francisco call (San Francisco [Calif.]), November 3, 1900",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85066387/1900-11-03/ed-1/?sp=1&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fcuriv%2Fbatch_curiv_brea_ver01%2Fdata%2Fsn85066387%2F190011031%2F0031.xml&q=manifest+destiny&relevant_snippet=1"
+}

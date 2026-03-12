@@ -1,0 +1,29 @@
+{
+  "date": "2018-10-11T00:00:00Z",
+  "description": "NOTE 1 : Please use the BitTorrent protocol to download this collection whenever possible, and try to upload/seed an equal amount as you download. Contents: Full Non-Merged MAME 2003-Plus ROM collection with CHDs and Samples, as of December 31, 2018 MAME 2003-Plus XML DAT - 2018-12-31 file ROM Set Format: Full Non-Merged Full Non-Merged ROM set zips include all the files needed to run that game, including any ROMs from 'parent' ROM sets and BIOS sets. Using Full Non-merged ROM sets means that every .zip in this collection is complete and can be used stand-alone. Validating Full Non-Merged Sets To configure ClrMamePro to validate or rebuild a Full Non-Merged collection, disable Split BIOSes from the \"Advanced\" menu in both ClrMamePro's Rebuild and Scanner menus. Arcade ROM Reference Sets: MAME 2000 Reference \u00a0(Complete MAME 0.37b5) MAME 2003 Reference \u00a0(Complete MAME 0.78) MAME 2003-Plus Reference AdvanceMAME 2006 Reference \u00a0 Complete MAME 0.106) MAME 2010 Reference \u00a0(Complete MAME 0.139) FB Alpha 2016 Reference \u00a0(Complete FBA v0.2.97.39) ROM Set Format: Non-Merged Non-Merged ROM romset zips include all the files needed to run that game, including any ROMs from 'parent' romsets. Using Non-merged ROM sets means that every .zip in this collection is complete and can be used stand-alone, with the exception of romsets that require a BIOS file. The cover image for this collection is based on an image by Sam Howzit, licensed for reuse under a Creative Commons License. Original image and license: https://www.flickr.com/photos/aloha75/4906597504",
+  "format": [
+    "Advanced Audio Coding",
+    "Archive BitTorrent",
+    "Item Tile",
+    "JPEG Thumb",
+    "Metadata",
+    "PNG",
+    "Spectrogram",
+    "Text",
+    "Unknown",
+    "ZIP"
+  ],
+  "identifier": "MAME_2003-Plus_Reference_Set_2018",
+  "mediatype": "software",
+  "source": [
+    "torrent:urn:sha1:85294c8e68c7a52ff12eb200da6ddbfe6d8d6b4e",
+    "torrent:urn:sha1:7039422522f45593d901f8b4cdd2b17064e3a6b0"
+  ],
+  "subject": [
+    "mame",
+    "emulation",
+    "emulator",
+    "2003"
+  ],
+  "title": "MAME 2003-Plus Reference: Full Non-Merged Romsets"
+}

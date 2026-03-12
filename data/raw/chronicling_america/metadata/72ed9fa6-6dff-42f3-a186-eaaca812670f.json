@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn91068075/1890-01-05/ed-1/?sp=2"
+  ],
+  "batch": [
+    "ncu_cane_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/north carolina/",
+    "2/united states/north carolina/buncombe/",
+    "3/united states/north carolina/buncombe/asheville/"
+  ],
+  "contributor": [
+    "university of north carolina at chapel hill library, chapel hill, nc"
+  ],
+  "date": "1890-01-05",
+  "dates": [
+    "1890-01-05"
+  ],
+  "description": [
+    "THE DAILY CITIZEN The Citiikn li the moit estenlvely circu lated and widely read newspaper In Western North Carolina Ita discussion of public mrn and measures hi In the intercut or public Inteirrlty honest fovernment and prosjierous Industry and It nowi no personal allegtancetn treating pub lic lsuce The Citiibn publishes the dispatches of the Associated rrces which now covers the whole world in ttl scope It has other facili ties of advanced journalism for gathering news from all quarters with everything care fully edited to occupy the smallest space Specimen copies of any edition will be sent free to any one sending their address Tluyi Daily Sll for one veari 13 for six months 50 cents for one month 16 cents for one week Carriers will deliver the paper in very part of the city to subscribers and par ties wanting it will pleas call at the Citukn Adtbbtisino Ratbb Reasonable and made known on application at this office All transient advertisements mast be paid la ad Vance Readme notices ten cents oer line Obttu ary marriage and society notices fifty cents each not exceeding ten lines or fifty cents per inca sundayTjaxuary inm MAMIFEHT DEaVTINY It is now"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-12T17:32:04.415Z",
+  "group": [
+    "ndnp/ncu",
+    "university-of-north-carolina-chapel-hill-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn91068075/1890-01-05/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_cane_ver01:data:sn91068075:00296022883:1890010501:0024/full/pct:6.25/0/default.jpg#h=402&w=291",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_cane_ver01:data:sn91068075:00296022883:1890010501:0024/full/pct:12.5/0/default.jpg#h=804&w=582",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ncu/batch_ncu_cane_ver01/data/sn91068075/00296022883/1890010501/0024.xml&format=alto_xml"
+  ],
+  "index": 87,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "buncombe",
+    "asheville",
+    "north carolina"
+  ],
+  "location_city": [
+    "asheville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "buncombe"
+  ],
+  "location_state": [
+    "north carolina"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "3",
+    "6",
+    "2",
+    "1",
+    "sn91068075",
+    "0000000002",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn91068075"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "6",
+    "0",
+    "2",
+    "2",
+    "8",
+    "8",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn91068075-1890-01-05-ed-1-0024",
+  "partof": [
+    "the daily citizen (asheville, n.c.) 1889-1890",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the daily citizen (asheville, n.c.) 1889-1890"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn91068075/1890-01-05/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn91068075/1890-01-05/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "asheville (n.c.)",
+    "united states",
+    "newspapers",
+    "asheville",
+    "buncombe",
+    "north carolina"
+  ],
+  "timestamp": "2023-08-12T22:01:19.359Z",
+  "title": "Image 2 of The daily citizen (Asheville, N.C.), January 5, 1890",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn91068075/1890-01-05/ed-1/?sp=2&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fncu%2Fbatch_ncu_cane_ver01%2Fdata%2Fsn91068075%2F00296022883%2F1890010501%2F0024.xml&q=manifest+destiny&relevant_snippet=1"
+}

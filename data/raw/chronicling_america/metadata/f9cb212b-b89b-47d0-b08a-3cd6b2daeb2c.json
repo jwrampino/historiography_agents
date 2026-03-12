@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1950-10-09/ed-1/?sp=31"
+  ],
+  "batch": [
+    "dlc_2kandinsky_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1950-10-09",
+  "dates": [
+    "1950-10-09"
+  ],
+  "description": [
+    "Drama News and Reviews A Mountain Is No Caribou Even if a Reindeer Is By Harry MacArthur The search for something new to say about a Western gives movie reviewers just as much trouble as the search for something new to say in a Western gives script writers Only the other day Particular reviewer reporting on an outdoor adventure titled Sarbt Trail was reduced to quibbling about that spelling Anybody but a dolt knows he implied that a caribou which is a douiuLu xo oyciicu fttrlOOU If you think a man can go blithely on his way after foolishly committing himself to paper this way you do not know how wrong you are It is Nat Holt producer of The Cariboo Trail who has caught us flatfooted 8 feet off second base Writes Producer Holt cordially but firmly I have read your review on The Cariboo Trail with interest I realize it is the right of the critic to call his shots as he sees them so take no exception to your re marks re our picture However you are incorrect about the spelling of Cariboo This is not the same as caribou the animal and refers to a district"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:43:24.353Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1950-10-09/ed-1/?sp=31",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_2kandinsky_ver01:data:sn83045462:00280606522:1950100901:0698/full/pct:6.25/0/default.jpg#h=500&w=350",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_2kandinsky_ver01:data:sn83045462:00280606522:1950100901:0698/full/pct:12.5/0/default.jpg#h=1000&w=701",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_2kandinsky_ver01/data/sn83045462/00280606522/1950100901/0698.xml&format=alto_xml"
+  ],
+  "index": 32,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "5",
+    "0000000031",
+    "sn83045462",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000031"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "6",
+    "5",
+    "2",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1950-10-09-ed-1-0698",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1950-10-09/ed-1/?sp=31"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1950-10-09/ed-1/"
+  ],
+  "shelf_id": "31",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-25T09:15:09.845Z",
+  "title": "Image 31 of Evening star (Washington, D.C.), October 9, 1950",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1950-10-09/ed-1/?sp=31&q=phillipines",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_2kandinsky_ver01%2Fdata%2Fsn83045462%2F00280606522%2F1950100901%2F0698.xml&q=phillipines&relevant_snippet=1"
+}

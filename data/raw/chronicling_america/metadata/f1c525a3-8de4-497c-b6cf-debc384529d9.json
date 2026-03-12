@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82015374/1819-12-25/ed-1/?sp=2"
+  ],
+  "batch": [
+    "iune_bismuth_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/illinois/",
+    "2/united states/illinois/madison/",
+    "3/united states/illinois/madison/edwardsville/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1819-12-25",
+  "dates": [
+    "1819-12-25"
+  ],
+  "description": [
+    "Liverpool Oct 2 At the meeting on Wednesday in Clayton Square at which Lord Sefton presided the following petition was car ried amid loud acclamations To His Royal Highness the Prince Re gent May it please your Royal Highness The undersigned inhabitants of the town and neighborhood ef Liverpool humbly beg leave to approach your Roy al Highness to direct your most vigilant attention to the transactions that have ta ken place at Manchester on and sub sequently to the 16th of August last transactions which in the view of your petitioners have a character of violence and outrage unknown to the modern pe riods of British history and with respect to which they believe from the answer which your Royal Highness was lately advised to give to the Common Council of London that the full truth has not yet been suffered to reach the throne Of the expedience of holding a public meeting constituted Like that which took place at Manchester on the 16th of Au gust many of your petitioners entertain doubts but that it was legally convened they arc all convinced and in this opin ion they arc confirmed by the fact that a meeting intended previously"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:16:58.362Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82015374/1819-12-25/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1819122501:0104/full/pct:6.25/0/default.jpg#h=379&w=239",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1819122501:0104/full/pct:12.5/0/default.jpg#h=758&w=478",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_bismuth_ver01/data/sn82015374/00332898000/1819122501/0104.xml&format=alto_xml"
+  ],
+  "index": 191,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "madison",
+    "edwardsville",
+    "illinois",
+    "united states"
+  ],
+  "location_city": [
+    "edwardsville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "madison"
+  ],
+  "location_state": [
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "9",
+    "sn82015374",
+    "3",
+    "0000000002",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82015374"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "8",
+    "0",
+    "0",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82015374-1819-12-25-ed-1-0104",
+  "partof": [
+    "serial and government publications division",
+    "edwardsville spectator (edwardsville, ill.) 1819-1826",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "edwardsville spectator (edwardsville, ill.) 1819-1826"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82015374/1819-12-25/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82015374/1819-12-25/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "illinois",
+    "madison",
+    "edwardsville",
+    "newspapers",
+    "antislavery movements",
+    "edwardsville (ill.)"
+  ],
+  "timestamp": "2025-05-21T15:24:08.992Z",
+  "title": "Image 2 of Edwardsville spectator (Edwardsville, Ill.), December 25, 1819",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82015374/1819-12-25/ed-1/?sp=2&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_bismuth_ver01%2Fdata%2Fsn82015374%2F00332898000%2F1819122501%2F0104.xml&q=slavery&relevant_snippet=1"
+}

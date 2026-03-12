@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn93052972/1855-12-27/ed-1/?sp=2"
+  ],
+  "batch": [
+    "curiv_jojoba_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/california/",
+    "2/united states/california/el dorado/",
+    "3/united states/california/el dorado/georgetown/"
+  ],
+  "contributor": [
+    "university of california, riverside; riverside, ca"
+  ],
+  "date": "1855-12-27",
+  "dates": [
+    "1855-12-27"
+  ],
+  "description": [
+    "n m rt uHj RGETOWN HEWS THURSDAY DECEMBER 27 1855 Octavien Hooss is our authorized agent lor tae teokgetown News at Sail Francisco He maybe found at 97 Merchant street Manifest Destiny Since the first crusade against the abo rigines of the country by the primitive col onists the hand of manifest destiny has orrar boon nrinoreut in the progress of the rupted inert is uv il js qucstiona ble whether the National Government will oppose any obstacles to his progress In answer to the braggadocia demands of the British Government it may seemingly dis countenance his efforts but while it frowns on him with one eye will wink encourage ment w ith the other Should prudence de mand the procedure it may if it have the power put a quietus on his career but it will only be for the purpose of substituting Borne more legitimate and cautious inode of acquisition for the present illustration of Young America in a hurry It is useless to talk about the right and justice of the thing This fillibustering spirit is in con sonance with the popular feeling and wishes and will receive the tacit if not the open and hearty endorsement"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-09-02T13:56:39.895Z",
+  "group": [
+    "ndnp/curiv",
+    "university-of-california-riverside-riverside-ca-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn93052972/1855-12-27/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn93052972:00279557256:1855122701:0217/full/pct:6.25/0/default.jpg#h=503&w=353",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn93052972:00279557256:1855122701:0217/full/pct:12.5/0/default.jpg#h=1006&w=707",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/curiv/batch_curiv_jojoba_ver01/data/sn93052972/00279557256/1855122701/0217.xml&format=alto_xml"
+  ],
+  "index": 183,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "georgetown",
+    "united states",
+    "el dorado",
+    "california",
+    "el dorado county"
+  ],
+  "location_city": [
+    "georgetown"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "el dorado"
+  ],
+  "location_state": [
+    "california"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "5",
+    "2",
+    "6",
+    "1",
+    "7",
+    "sn93052972",
+    "0000000002"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn93052972"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "5",
+    "7",
+    "2",
+    "5",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn93052972-1855-12-27-ed-1-0217",
+  "partof": [
+    "the georgetown news (georgetown, el dorado county, cal.) 1855-1856",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the georgetown news (georgetown, el dorado county, cal.) 1855-1856"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn93052972/1855-12-27/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn93052972/1855-12-27/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "georgetown",
+    "united states",
+    "newspapers",
+    "el dorado",
+    "california",
+    "el dorado county (calif.)",
+    "el dorado county"
+  ],
+  "timestamp": "2025-09-28T18:54:35.222Z",
+  "title": "Image 2 of The Georgetown news (Georgetown, El Dorado County, Cal.), December 27, 1855",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn93052972/1855-12-27/ed-1/?sp=2&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fcuriv%2Fbatch_curiv_jojoba_ver01%2Fdata%2Fsn93052972%2F00279557256%2F1855122701%2F0217.xml&q=manifest+destiny&relevant_snippet=1"
+}

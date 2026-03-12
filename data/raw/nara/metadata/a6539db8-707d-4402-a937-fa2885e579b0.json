@@ -1,0 +1,149 @@
+{
+  "accessionNumbers": [
+    "1970-NLF-241"
+  ],
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "subjects": [
+    {
+      "heading": "Vietnam",
+      "authorityType": "geographicPlaceName",
+      "naId": 10035814
+    },
+    {
+      "heading": "U.S. Congress. 1789-",
+      "authorityType": "organization",
+      "establishDate": {
+        "year": 1789,
+        "logicalDate": "1789-01-01"
+      },
+      "naId": 10461221
+    },
+    {
+      "heading": "Foreign aid",
+      "authorityType": "topicalSubject",
+      "naId": 10637821
+    },
+    {
+      "heading": "Vietnam War, 1961-1975",
+      "authorityType": "topicalSubject",
+      "naId": 10643608
+    }
+  ],
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "title": "Vietnam - General",
+  "coverageEndDate": {
+    "month": 4,
+    "year": 1975,
+    "day": 8,
+    "logicalDate": "1975-04-08"
+  },
+  "physicalOccurrences": [
+    {
+      "extent": "36 pages",
+      "referenceUnits": [
+        {
+          "city": "Ann Arbor",
+          "phone": "734-205-0555",
+          "address1": "1000 Beal Avenue",
+          "postalCode": "48109-2114",
+          "name": "Gerald R. Ford Library",
+          "state": "MI",
+          "fax": "734-205-0571",
+          "email": "ford.library@nara.gov",
+          "mailCode": "LP-GRF"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "specificMediaType": "Paper",
+          "containerId": "13",
+          "reproductionCount": 35
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "note": "Some material may have been removed due to donor or other restrictions.",
+    "status": "Restricted - Possibly"
+  },
+  "coverageStartDate": {
+    "month": 3,
+    "year": 1975,
+    "day": 25,
+    "logicalDate": "1975-03-25"
+  },
+  "dataControlGroup": {
+    "groupId": "ou=NLGRF,ou=groups",
+    "groupCd": "LPGRF"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "000500227",
+      "type": "PRESNET Number"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "1561602.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/5616/1561602/content/library/document/0005/1561602.pdf",
+      "objectId": "14635981",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "GRF-0005",
+      "inclusiveStartDate": {
+        "year": 1974,
+        "logicalDate": "1974-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "year": 1977,
+        "logicalDate": "1977-12-31"
+      },
+      "title": "Richard B. Cheney Files",
+      "naId": 564083
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1974,
+        "logicalDate": "1974-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "President (1974-1977 : Ford). Operations Office. 1974-1977",
+          "abolishDate": {
+            "year": 1977,
+            "logicalDate": "1977-12-31"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1974,
+            "logicalDate": "1974-01-01"
+          },
+          "naId": 10454868
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1977,
+        "logicalDate": "1977-12-31"
+      },
+      "title": "Richard Cheney's General Subject Files",
+      "naId": 566872
+    }
+  ],
+  "scopeAndContentNote": "This file contains materials relating to military aid requests sent to Congress.",
+  "naId": 1561602
+}

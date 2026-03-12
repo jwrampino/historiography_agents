@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85035722/1903-05-16/ed-1/?sp=1"
+  ],
+  "batch": [
+    "njr_eggharbor_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new jersey/",
+    "2/united states/new jersey/passaic/",
+    "3/united states/new jersey/passaic/passaic/"
+  ],
+  "contributor": [
+    "rutgers university libraries"
+  ],
+  "date": "1903-05-16",
+  "dates": [
+    "1903-05-16"
+  ],
+  "description": [
+    "Passaic City Record Tl J FREEMANS MAGAZINE 1877 EstaDllSQea PASSAIC CITY RECORD 18JO O S FREEMAN Editor and Proprietor One Dollar a Year VOL XXVII NO 20 PASSAIC CITY N J SATURDAY MAY 16 1903 PRICE 2 CENTS Orphan Isle of Pines UNITED STATES AND CUBA HAVE RIVAL CLAIMSPRODUCTS AND PEOPLE g FF the coast of Cuba there Is an orphan island by the name of the Isle of Pines Secretary Root has just an nounced that Cuba is its guardian but the orphan is protesting It had eagerly expected to call Uncle Sam padre and now that its anticipations have been snubbed it has in true infantile fashion set up a howl Herbert G Squiers the United States Minister to Cuba who returned to Ha vana recently from a visit to the Isle The Isle of Pines shall be omitted from the properly constituted bound aries of Cuba the title thereto being left to future adjustment by treaty Leading statesmen in Cuba have all along taken the view that the de facto government of the Isle of Pines is only temporary and that until its national ity is determined it should pay taxes to Cuba as a part of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:39:55.911Z",
+  "group": [
+    "ndnp/njr",
+    "rutgers-university-libraries-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85035722/1903-05-16/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn85035722:00513685221:1903051601:0570/full/pct:6.25/0/default.jpg#h=400&w=275",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn85035722:00513685221:1903051601:0570/full/pct:12.5/0/default.jpg#h=801&w=551",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/njr/batch_njr_eggharbor_ver01/data/sn85035722/00513685221/1903051601/0570.xml&format=alto_xml"
+  ],
+  "index": 72,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "new jersey",
+    "passaic"
+  ],
+  "location_city": [
+    "passaic"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "passaic"
+  ],
+  "location_state": [
+    "new jersey"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "8",
+    "5",
+    "6",
+    "sn85035722",
+    "3",
+    "2",
+    "0",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85035722"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "3",
+    "6",
+    "8",
+    "5",
+    "2",
+    "2",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85035722-1903-05-16-ed-1-0570",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "passaic city record (passaic city, n.j.) 1890-1907"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "passaic city record (passaic city, n.j.) 1890-1907"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85035722/1903-05-16/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85035722/1903-05-16/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "passaic (n.j.)",
+    "passaic",
+    "newspapers",
+    "new jersey"
+  ],
+  "timestamp": "2025-12-01T20:52:37.233Z",
+  "title": "Image 1 of Passaic City record (Passaic City, N.J.), May 16, 1903",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85035722/1903-05-16/ed-1/?sp=1&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnjr%2Fbatch_njr_eggharbor_ver01%2Fdata%2Fsn85035722%2F00513685221%2F1903051601%2F0570.xml&q=cuba&relevant_snippet=1"
+}

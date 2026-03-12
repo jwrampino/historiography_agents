@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85034438/1896-02-29/ed-1/?sp=1"
+  ],
+  "batch": [
+    "vi_whitesnake_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/virginia/",
+    "3/united states/virginia/richmond/"
+  ],
+  "contributor": [
+    "library of virginia; richmond, va"
+  ],
+  "date": "1896-02-29",
+  "dates": [
+    "1896-02-29"
+  ],
+  "description": [
+    "RO _ I a VOL 10NEYW SERIES NO Ix SENATE FRIENDLY TO CUBA SENATE FRIENDLY T0 CUBA Declares sel i in Favor of aver of Granting Rights of Belligerents AND RECLGNIZIG I Hoge ELDENCE The Hes Carried by a Vote of 74 to 6 Caffery Occuples a Lonesome Posi tion but Bosists the Measure Hogs Will Probably Act Monday Declares itself in Favor of Granting Rights of Belligerents AND RECOGNIZING ITS INDEPRLDENCE The Resolutions Carried by a Vote of 74 to 6 Caffery Occupies a Lonesome Posi tion but Resists the Measure Hogs Will Probably Act Monday WASHINGTON D C Feb 8By a vote f 74 to 6 the Senate of the United States put on record today its views and policy in relation to the existing revolu tion in Cuba Up to the hour of 4 oclock thy debate went on senators vie ing with each other in praise of the Cuban patriots and in denunciation eof CaptainGeneral Weyler and Senator Sherman characterizing him rather as a demon than as a general The cruelties of Pizarro and Cortes in Mexico and Peru and of the Duke of Alba in the Netherlands were not overlooked and there ran through the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-21T08:30:12.939Z",
+  "group": [
+    "ndnp/vi",
+    "library-of-virginia-richmond-va-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85034438/1896-02-29/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_whitesnake_ver02:data:sn85034438:00175049332:1896022901:0421/full/pct:3.125/0/default.jpg#h=356&w=252",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_whitesnake_ver02:data:sn85034438:00175049332:1896022901:0421/full/pct:6.25/0/default.jpg#h=713&w=505",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/vi/batch_vi_whitesnake_ver02/data/sn85034438/00175049332/1896022901/0421.xml&format=alto_xml"
+  ],
+  "index": 130,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "richmond",
+    "virginia",
+    "united states"
+  ],
+  "location_city": [
+    "richmond"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "virginia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn85034438",
+    "0",
+    "2",
+    "3",
+    "7",
+    "9",
+    "1",
+    "0000000001",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85034438"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "1",
+    "7",
+    "5",
+    "0",
+    "4",
+    "9",
+    "3",
+    "3",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Daily times"
+  ],
+  "page_id": "sn85034438-1896-02-29-ed-1-0421",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the times (richmond, va.) 1890-1903"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the times (richmond, va.) 1890-1903"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85034438/1896-02-29/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85034438/1896-02-29/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "virginia",
+    "richmond",
+    "richmond (va.)",
+    "united states"
+  ],
+  "timestamp": "2025-12-21T12:05:16.904Z",
+  "title": "Image 1 of The times (Richmond, Va.), February 29, 1896",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85034438/1896-02-29/ed-1/?sp=1&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fvi%2Fbatch_vi_whitesnake_ver02%2Fdata%2Fsn85034438%2F00175049332%2F1896022901%2F0421.xml&q=cuba&relevant_snippet=1"
+}

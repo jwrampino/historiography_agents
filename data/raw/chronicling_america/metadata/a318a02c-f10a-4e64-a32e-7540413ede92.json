@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82014519/1918-12-14/ed-1/?sp=8"
+  ],
+  "batch": [
+    "ct_journey_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/connecticut/",
+    "2/united states/connecticut/hartford/",
+    "3/united states/connecticut/hartford/new britain/"
+  ],
+  "contributor": [
+    "connecticut state library, hartford, ct"
+  ],
+  "date": "1918-12-14",
+  "dates": [
+    "1918-12-14"
+  ],
+  "description": [
+    "J NEW BRITAIN DAiLY HERALD SATURDAY DECEMBER 14 191SL ram U S COAST SURVEY VERY INCOMPLETE Work of Department Hampered By Lack of Qualified Experts Washington Deo 14 The annual report of the superintendent of the coast and geodetic survey to the secre tary of commerce has just come from the press It is a single volume of 133 pages in which are discussed the accomplishments of the bureau during the liscal year ended June 30 1918 and the needs of the bureau to more economically and effectively accom plish its purpose These accomplish ments and needs are emphasized by numerous illustrations In Farts I and IT are discussed the administra tive features of the work of the bu reau while Part III is a resfume of the accomplishments in both the field and office during the fiscal year A summary is made of the surveys effected during the year under the classifications of ship and launch hy Orography wiredrag surveys revision work current observations tidal ob servations topography triangulation precise levels and magnetic ooserva itions In this summary are shown the localities of these surveys and the areas cohered j 3fany Waters Uncharted Attention is caned to the fact"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-06-01T13:37:22.670Z",
+  "group": [
+    "ndnp/ct",
+    "connecticut-state-library-hartford-ct-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82014519/1918-12-14/ed-1/?sp=8",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_journey_ver01:data:sn82014519:00414183220:1918121401:0449/full/pct:3.125/0/default.jpg#h=265&w=217",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_journey_ver01:data:sn82014519:00414183220:1918121401:0449/full/pct:6.25/0/default.jpg#h=530&w=435",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_journey_ver01:data:sn82014519:00414183220:1918121401:0449/full/pct:12.5/0/default.jpg#h=1061&w=870",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ct/batch_ct_journey_ver01/data/sn82014519/00414183220/1918121401/0449.xml&format=alto_xml"
+  ],
+  "index": 110,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "hartford",
+    "connecticut",
+    "hartford county",
+    "new britain",
+    "united states"
+  ],
+  "location_city": [
+    "new britain"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hartford"
+  ],
+  "location_state": [
+    "connecticut"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000008",
+    "8",
+    "0",
+    "2",
+    "sn82014519",
+    "1",
+    "3",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82014519"
+  ],
+  "number_page": [
+    "0000000008"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "1",
+    "8",
+    "3",
+    "2",
+    "2",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "New Britain daily herald"
+  ],
+  "page_id": "sn82014519-1918-12-14-ed-1-0449",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "new britain herald (new britain, conn.) 1890-1976"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "new britain herald (new britain, conn.) 1890-1976"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82014519/1918-12-14/ed-1/?sp=8"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82014519/1918-12-14/ed-1/"
+  ],
+  "shelf_id": "08",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "hartford",
+    "connecticut",
+    "hartford county",
+    "new britain (conn.)",
+    "hartford county (conn.)",
+    "new britain",
+    "united states"
+  ],
+  "timestamp": "2023-06-28T21:47:50.799Z",
+  "title": "Image 8 of New Britain herald (New Britain, Conn.), December 14, 1918",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82014519/1918-12-14/ed-1/?sp=8&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fct%2Fbatch_ct_journey_ver01%2Fdata%2Fsn82014519%2F00414183220%2F1918121401%2F0449.xml&q=computers&relevant_snippet=1"
+}

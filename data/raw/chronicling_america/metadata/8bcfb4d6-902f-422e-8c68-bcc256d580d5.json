@@ -1,0 +1,123 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2022270725/1958-06-26/ed-1/?sp=2"
+  ],
+  "batch": [
+    "dlc_dolores_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/argentina/",
+    "3/argentina/buenos aires/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1958-06-26",
+  "dates": [
+    "1958-06-26"
+  ],
+  "description": [
+    ""
+  ],
+  "digitized": true,
+  "extract_timestamp": "2026-02-02T13:11:28.967Z",
+  "group": [
+    "sgpperonist/dlc",
+    "world-newspapers"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2022270725/1958-06-26/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_dolores_ver01:data:2022270725:print00209821102:1958062601:0002/full/pct:6.25/0/default.jpg#h=413&w=314",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_dolores_ver01:data:2022270725:print00209821102:1958062601:0002/full/pct:12.5/0/default.jpg#h=826&w=628",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/sgp/sgpbatches/batch_dlc_dolores_ver01/data/2022270725/print00209821102/1958062601/0002.xml&format=alto_xml"
+  ],
+  "index": 39,
+  "language": [
+    "spanish"
+  ],
+  "location": [
+    "argentina",
+    "buenos aires"
+  ],
+  "location_city": [
+    "buenos aires"
+  ],
+  "location_country": [
+    "argentina"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "2022270725",
+    "0000000002",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2022270725"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2022270725-1958-06-26-ed-1-0002",
+  "partof": [
+    "democracia (buenos aires) 1945-19?? [online resource]",
+    "world newspapers",
+    "serial and government publications division"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "democracia (buenos aires) 1945-19?? [online resource]"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2022270725/1958-06-26/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2022270725/1958-06-26/ed-1/"
+  ],
+  "shelf_id": "02",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "argentina",
+    "buenos aires",
+    "buenos aires (argentina)"
+  ],
+  "timestamp": "2026-02-02T13:50:26.556Z",
+  "title": "Image 2 of Democracia (Buenos Aires), June 26, 1958",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2022270725/1958-06-26/ed-1/?sp=2&q=vietnam",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fsgp%2Fsgpbatches%2Fbatch_dlc_dolores_ver01%2Fdata%2F2022270725%2Fprint00209821102%2F1958062601%2F0002.xml&q=vietnam&relevant_snippet=1"
+}

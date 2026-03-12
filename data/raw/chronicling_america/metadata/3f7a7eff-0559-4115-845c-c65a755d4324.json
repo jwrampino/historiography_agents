@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85050913/1911-10-03/ed-1/?sp=3"
+  ],
+  "batch": [
+    "iahi_hawkeye_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/iowa/",
+    "2/united states/iowa/hamilton/",
+    "3/united states/iowa/hamilton/webster city/"
+  ],
+  "contributor": [
+    "state historical society of iowa"
+  ],
+  "date": "1911-10-03",
+  "dates": [
+    "1911-10-03"
+  ],
+  "description": [
+    "ate u RISE IN LIVING SEEN BY MINT CHIEF Geo E Roberts Says Prices Will Continue to Soar in United States _ Jt Washington D C Sept 21 Geo E Roberts director of the mint who has recently returned from a trip throughthe west pre dicta tht the cost of living will ad vance He says that while agricultural development will be noted he doas not expect it to keep pace with the increase in population Farm rentals are advancing he finds because many farmers are being forced back to tilling the soil The consumers must realize he says that the day of cheap free land has passed that with an advance ln the cost of ev erything entering the production of foodstuffs there must be an increase in prices to tho consumers Mr Roberts points to the fact that the census shows the popula tion of the country increased 21 per cent between 1900 and 1910 while the farm land area Increased only 12 per cent and says it means high er living cost The fact Is ald Mr Roberts that a large part of the natural gains of industrial progress are be ing offset by the increasing cost"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-05-16T11:56:05.622Z",
+  "group": [
+    "ndnp/iahi",
+    "state-historical-society-of-iowa-state-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85050913/1911-10-03/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hawkeye_ver01:data:sn85050913:00295875628:1911100301:0107/full/pct:3.125/0/default.jpg#h=260&w=178",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hawkeye_ver01:data:sn85050913:00295875628:1911100301:0107/full/pct:6.25/0/default.jpg#h=521&w=356",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hawkeye_ver01:data:sn85050913:00295875628:1911100301:0107/full/pct:12.5/0/default.jpg#h=1043&w=713",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iahi/batch_iahi_hawkeye_ver01/data/sn85050913/00295875628/1911100301/0107.xml&format=alto_xml"
+  ],
+  "index": 57,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "iowa",
+    "hamilton",
+    "webster city",
+    "united states"
+  ],
+  "location_city": [
+    "webster city"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hamilton"
+  ],
+  "location_state": [
+    "iowa"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000003",
+    "9",
+    "2",
+    "8",
+    "5",
+    "6",
+    "sn85050913",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85050913"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "5",
+    "8",
+    "7",
+    "5",
+    "6",
+    "2",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Freeman"
+  ],
+  "page_id": "sn85050913-1911-10-03-ed-1-0107",
+  "partof": [
+    "chronicling america",
+    "webster city freeman (webster city, hamilton county, iowa) 1884-1946",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "webster city freeman (webster city, hamilton county, iowa) 1884-1946"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85050913/1911-10-03/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85050913/1911-10-03/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "webster city",
+    "hamilton",
+    "iowa",
+    "united states",
+    "newspapers",
+    "webster city (iowa)"
+  ],
+  "timestamp": "2023-07-04T03:56:28.129Z",
+  "title": "Image 3 of Webster City freeman (Webster City, Hamilton County, Iowa), October 3, 1911",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85050913/1911-10-03/ed-1/?sp=3&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiahi%2Fbatch_iahi_hawkeye_ver01%2Fdata%2Fsn85050913%2F00295875628%2F1911100301%2F0107.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

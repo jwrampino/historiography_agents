@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1933-04-30/ed-1/?sp=77"
+  ],
+  "batch": [
+    "dlc_1chagall_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1933-04-30",
+  "dates": [
+    "1933-04-30"
+  ],
+  "description": [
+    "Fiction F eatures e kf Art Notes Books PART 7 WASHINGTON D C APRIL 30 1933 16 PAGES A Chance to Free the Child The Nations First Woman Member of a Presidents Cabinet Gives Her Fiezvs on the Child Labor ProblemsStatistics Show That Children Are Gradually Being Eliminated as JVorkersy and the Decline May Become PermanentBeneficial Congressional Action of Recent Years ANEW belief that child labor may soon be eradicated from American industry has arisen from the economic depression With millions of adults unem ployed there is no need for young chil dren to become wage earners Public opinion cries out against employing them as it never has before demanding that what few opportunities exist in gainful occupations be given to adult bread winners Thus the movement to protect cmidren against premature entrance into indus try and to safeguard them in their first year or two of contact with it which has been gaining momentum steadily through two decades has received unex pected impetus Today it is not only the socially minded person who says Children ought not to work but also the adult who covets the childs job Virtually the only honest voice raised In defense of the theory"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:36:52.909Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1933-04-30/ed-1/?sp=77",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1chagall_ver01:data:sn83045462:00280601056:1933043001:0687/full/pct:6.25/0/default.jpg#h=371&w=244",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1chagall_ver01:data:sn83045462:00280601056:1933043001:0687/full/pct:12.5/0/default.jpg#h=742&w=489",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1chagall_ver01/data/sn83045462/00280601056/1933043001/0687.xml&format=alto_xml"
+  ],
+  "index": 34,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "5",
+    "sn83045462",
+    "0000000077",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000077"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "1",
+    "0",
+    "5",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1933-04-30-ed-1-0687",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1933-04-30/ed-1/?sp=77"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1933-04-30/ed-1/"
+  ],
+  "shelf_id": "077",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-24T16:19:44.967Z",
+  "title": "Image 77 of Evening star (Washington, D.C.), April 30, 1933",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1933-04-30/ed-1/?sp=77&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_1chagall_ver01%2Fdata%2Fsn83045462%2F00280601056%2F1933043001%2F0687.xml&q=child+labor&relevant_snippet=1"
+}

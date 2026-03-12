@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86091100/1916-04-20/ed-1/?sp=6"
+  ],
+  "batch": [
+    "idhi_doyle_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/idaho/",
+    "2/united states/idaho/idaho/",
+    "3/united states/idaho/idaho/grangeville/"
+  ],
+  "contributor": [
+    "idaho state historical society"
+  ],
+  "date": "1916-04-20",
+  "dates": [
+    "1916-04-20"
+  ],
+  "description": [
+    "EDITORIAL PAGE OF THE FREE PRESS IDAHO COUNTY FREE PRESS W L CAMPBELL Local Editor A WISENER Editor and Proprietor ORANGEVILLE IDAHO THURSDAY APRIL 20 1916 SENATOR BORAH ON THE PHILLIPINES Senator Borah in a letter to a southern Idaho man states flatly that he is opposed to holding the Phillipines and of these people becoming citizens of the United States His reasons are That he was always opposed to the tak ing of the islands opposition to our country having any sub jects or dependents on the ground that Filipinos should never participate as full citizens of the United States to determine our policies and affairs change in jiolicy under the present ad ministration as affects the Filipinos by reason that an expendi ture of 500000000 already by the United States with no per manent lasting good or return in view And of his reasons the following is very suggestive and reasonable If you say that w r e ought to enter upon the busi ness as missionary and rehabilitate mankind I might agree with you but want to begin my w r ork at home While we were discussing the proposition of appro priating 20000000 to teach the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-06T12:34:17.799Z",
+  "group": [
+    "ndnp/idhi",
+    "idaho-state-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86091100/1916-04-20/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_doyle_ver01:data:sn86091100:00415666202:1916042001:0557/full/pct:6.25/0/default.jpg#h=436&w=296",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_doyle_ver01:data:sn86091100:00415666202:1916042001:0557/full/pct:12.5/0/default.jpg#h=873&w=593",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/idhi/batch_idhi_doyle_ver01/data/sn86091100/00415666202/1916042001/0557.xml&format=alto_xml"
+  ],
+  "index": 189,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "idaho",
+    "idaho county",
+    "united states",
+    "grangeville"
+  ],
+  "location_city": [
+    "grangeville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "idaho"
+  ],
+  "location_state": [
+    "idaho"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn86091100",
+    "5",
+    "6",
+    "0000000006",
+    "4",
+    "2",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86091100"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "6",
+    "6",
+    "2",
+    "0",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Convention clarion",
+    "Free press"
+  ],
+  "page_id": "sn86091100-1916-04-20-ed-1-0557",
+  "partof": [
+    "serial and government publications division",
+    "idaho county free press (grangeville, idaho territory) 1886-current",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "idaho county free press (grangeville, idaho territory) 1886-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86091100/1916-04-20/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86091100/1916-04-20/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "idaho county",
+    "united states",
+    "grangeville (idaho)",
+    "grangeville",
+    "idaho",
+    "newspapers",
+    "idaho county (idaho)"
+  ],
+  "timestamp": "2023-07-06T17:55:08.016Z",
+  "title": "Image 6 of Idaho County free press (Grangeville, Idaho Territory), April 20, 1916",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86091100/1916-04-20/ed-1/?sp=6&q=phillipines",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fidhi%2Fbatch_idhi_doyle_ver01%2Fdata%2Fsn86091100%2F00415666202%2F1916042001%2F0557.xml&q=phillipines&relevant_snippet=1"
+}

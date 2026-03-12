@@ -1,0 +1,146 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "subjects": [
+    {
+      "heading": "Motion pictures",
+      "authorityType": "specificRecordsType",
+      "naId": 10631732
+    },
+    {
+      "heading": "Nuclear weapons",
+      "authorityType": "topicalSubject",
+      "naId": 10642999
+    }
+  ],
+  "useRestriction": {
+    "note": "Some or all of this material may be restricted by copyright or other intellectual property rights restrictions.",
+    "specificUseRestrictions": [
+      "Copyright"
+    ],
+    "status": "Restricted - Possibly"
+  },
+  "editStatus": "Edited",
+  "audiovisual": "True",
+  "title": "Nuclear Burst Reporting",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-3540",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Motion Pictures",
+          "state": "MD",
+          "fax": "301-837-3622",
+          "email": "mopix@nara.gov",
+          "mailCode": "RRSM"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "pieceCount": 1,
+          "color": "Color",
+          "generalMediaTypes": [
+            "Motion Picture Film"
+          ],
+          "specificMediaType": "Film Reel",
+          "dimension": "Film: 16 mm"
+        }
+      ],
+      "copyStatus": "Preservation"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupName": "National Archives at College Park \u2013 Motion Pictures",
+    "groupId": "RRAM",
+    "groupCd": "RRAM"
+  },
+  "generalRecordsTypes": [
+    "Moving Images"
+  ],
+  "localIdentifier": "111-TF-4100",
+  "productionDates": [
+    {
+      "year": 1970,
+      "logicalDate": "1970-01-01"
+    }
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "TF-3-4100",
+      "type": "Agency-Assigned Identifier"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "111-tf-4100.mp4",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/mopix/111/tf/111-tf-4100.mp4",
+      "objectFileSize": 264823696,
+      "objectDesignator": "Reel 1 and 2 of 2",
+      "objectId": "310811814",
+      "objectType": "Audio/Visual File (MP4)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1860,
+        "logicalDate": "1860-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 111,
+      "inclusiveEndDate": {
+        "year": 1985,
+        "logicalDate": "1985-12-31"
+      },
+      "title": "Records of the Office of the Chief Signal Officer",
+      "naId": 440
+    },
+    {
+      "inclusiveStartDate": {
+        "dateQualifier": "ca.",
+        "year": 1930,
+        "logicalDate": "1930-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "War Department. Office of the Chief Signal Officer. (08/01/1866 - 09/18/1947)",
+          "abolishDate": {
+            "month": 9,
+            "year": 1947,
+            "day": 18,
+            "logicalDate": "1947-09-18"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 8,
+            "year": 1866,
+            "day": 1,
+            "logicalDate": "1866-08-01"
+          },
+          "naId": 10470415
+        }
+      ],
+      "inclusiveEndDate": {
+        "dateQualifier": "ca.",
+        "year": 1945,
+        "logicalDate": "1945-12-31"
+      },
+      "title": "Training Films",
+      "naId": 36266
+    }
+  ],
+  "scopeAndContentNote": "This film demonstrates the steps needed to gather information for the NBC-1 nuclear report that is used to determine nuclear yield and make fallout predictions. Stress is placed on the observer's location; flash-to-bang time; cloud width; and azimuth to attack to determine the location of ground zero and nuclear yield.",
+  "naId": 36873,
+  "soundType": "Sound"
+}

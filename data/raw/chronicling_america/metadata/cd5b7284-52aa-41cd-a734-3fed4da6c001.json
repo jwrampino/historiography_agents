@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn89066057/1849-06-11/ed-1/?sp=1"
+  ],
+  "batch": [
+    "mohi_jerome_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/missouri/",
+    "2/united states/missouri/pike/",
+    "3/united states/missouri/pike/louisiana/",
+    "3/united states/missouri/pike/bowling green/"
+  ],
+  "contributor": [
+    "state historical society of missouri; columbia, mo"
+  ],
+  "date": "1849-06-11",
+  "dates": [
+    "1849-06-11"
+  ],
+  "description": [
+    "1 v 5 SLAVERY IN THfc DlSTBICT Of CO LUMBIA a tgtnre or MJcbiftri Before it ftouWment last winter adopted iW fol lowing jeint resolutions aiibmitted by Ue Jioo J2r C Berry in the Senate relative to elevery 4ft the district of Colombia Let th reflecting men of all parties read them and then ask themselves who it u that are agitating the slavery question Resolutions Equally strong hair been passed by other wpruiern Jstites i u 1 Resolved By the Senate and House of Representatives of tbe State of Michigan That the existence or Slavery and the Slave trade at the Seat of our National Govern ment is an evil of serious magnitude which greatly impairs the prosperity and pappinets of the District and casts the re proach of inf bnslstency npon the free in stitutions established among us Resolved That our Senators in Congress be instructed and our Representatives re quested to urge the passage of a Jaw that shall put an end to the Slave trade in the District of Culubia without delay and also provide for ascertaining the vie ws of the people of said District upon jhe question of the entire abolition or Sla very"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T12:05:11.451Z",
+  "group": [
+    "ndnp/mohi",
+    "state-historical-society-of-missouri-columbia-mo-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn89066057/1849-06-11/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:00200292121:1849061101:0599/full/pct:6.25/0/default.jpg#h=394&w=285",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:00200292121:1849061101:0599/full/pct:12.5/0/default.jpg#h=788&w=570",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mohi/batch_mohi_jerome_ver01/data/sn89066057/00200292121/1849061101/0599.xml&format=alto_xml"
+  ],
+  "index": 188,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "pike",
+    "bowling green",
+    "missouri",
+    "louisiana",
+    "pike county"
+  ],
+  "location_city": [
+    "louisiana",
+    "bowling green"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "pike"
+  ],
+  "location_state": [
+    "missouri"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "9",
+    "sn89066057",
+    "2",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn89066057"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "0",
+    "2",
+    "9",
+    "2",
+    "1",
+    "2",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn89066057-1849-06-11-ed-1-0599",
+  "partof": [
+    "democratic banner (bowling green, pike county, mo.) 1845-1852",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "democratic banner (bowling green, pike county, mo.) 1845-1852"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn89066057/1849-06-11/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn89066057/1849-06-11/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "louisiana (mo.)",
+    "pike",
+    "bowling green (mo.)",
+    "newspapers",
+    "bowling green",
+    "pike county (mo.)",
+    "louisiana",
+    "pike county",
+    "missouri"
+  ],
+  "timestamp": "2022-10-17T19:37:05.481Z",
+  "title": "Image 1 of Democratic banner (Bowling Green, Pike County, Mo.), June 11, 1849",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn89066057/1849-06-11/ed-1/?sp=1&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmohi%2Fbatch_mohi_jerome_ver01%2Fdata%2Fsn89066057%2F00200292121%2F1849061101%2F0599.xml&q=slavery&relevant_snippet=1"
+}

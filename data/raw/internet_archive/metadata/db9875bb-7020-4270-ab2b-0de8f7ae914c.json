@@ -1,0 +1,18 @@
+{
+  "creator": "Internet Archive",
+  "date": "2016-01-01T00:00:00Z",
+  "description": "Internet Archive crawldata from Cuba Crawl, captured by crawl340.us.archive.org:cuba from Wed Mar 30 09:44:44 PDT 2016 to Fri Apr 1 18:58:49 PDT 2016.",
+  "format": [
+    "Archive BitTorrent",
+    "Item CDX Index",
+    "Item CDX Meta-Index",
+    "Metadata",
+    "Text",
+    "WARC CDX Index",
+    "Web ARChive GZ"
+  ],
+  "identifier": "CUBA-20160330094444-crawl340",
+  "mediatype": "web",
+  "subject": "crawldata",
+  "title": "Webwide Crawldata 2016-03-30T09:44:44PDT to 2016-04-01T18:58:49PDT"
+}

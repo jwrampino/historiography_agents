@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86086481/1904-04-17/ed-1/?sp=9"
+  ],
+  "batch": [
+    "mb_gaia_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/massachusetts/",
+    "2/united states/massachusetts/worcester/",
+    "3/united states/massachusetts/worcester/worcester/"
+  ],
+  "contributor": [
+    "boston public library"
+  ],
+  "date": "1904-04-17",
+  "dates": [
+    "1904-04-17"
+  ],
+  "description": [
+    "PROTESTS AND MIKI OF THEM License Commissioners Receive Communications From Many Sources in Protest Against Granting Applications ABUTTERS OBJECT IN CASE OF TWO FIRMS Swedish People Active in an At tempt to Have Unfavorable Action Result to Requests of Lincoln Square Hanover Street and Exchange Street Places If the license commissioners are to believe all they hear these days they hold In their hands the fates of all the members of the rising generation of Worcester Protests came in quan tities yesterday morning and the same old story was heard many times Six protests were Hied during the morning and one during the short session from 1230 until 1 oclock in the afternoon The morning protests were as fol lows Worcester Mass April 15 1904 To the Board of License Commission ers of the city of Worcester Dear Sirl hereby give you noUce that I object to the granting of a li cense to D M Crowley Co to sell intoxicating liquors on the premises No 68 12 Summer Street in the said city of Worcester I am the owner of real estate within 25 feet of the above mentioned premises namely 2 12 feet from said premises my property"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-23T23:24:16.816Z",
+  "group": [
+    "ndnp/mb",
+    "massachusetts-boston-public-library"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86086481/1904-04-17/ed-1/?sp=9",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_gaia_ver02:data:sn86086481:00517171797:1904041701:0981/full/pct:3.125/0/default.jpg#h=289&w=208",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_gaia_ver02:data:sn86086481:00517171797:1904041701:0981/full/pct:6.25/0/default.jpg#h=578&w=416",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_gaia_ver02:data:sn86086481:00517171797:1904041701:0981/full/pct:12.5/0/default.jpg#h=1156&w=833",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mb/batch_mb_gaia_ver02/data/sn86086481/00517171797/1904041701/0981.xml&format=alto_xml"
+  ],
+  "index": 186,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "worcester",
+    "massachusetts"
+  ],
+  "location_city": [
+    "worcester"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "worcester"
+  ],
+  "location_state": [
+    "massachusetts"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "5",
+    "sn86086481",
+    "1",
+    "0000000009",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86086481"
+  ],
+  "number_page": [
+    "0000000009"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "1",
+    "7",
+    "9",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Worcester Sunday spy"
+  ],
+  "page_id": "sn86086481-1904-04-17-ed-1-0981",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the worcester spy (worcester, mass.) 1898-1904"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the worcester spy (worcester, mass.) 1898-1904"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86086481/1904-04-17/ed-1/?sp=9"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86086481/1904-04-17/ed-1/"
+  ],
+  "shelf_id": "09",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "worcester",
+    "worcester (mass.)",
+    "massachusetts",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-09-24T00:47:23.374Z",
+  "title": "Image 9 of The Worcester spy (Worcester, Mass.), April 17, 1904",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86086481/1904-04-17/ed-1/?sp=9&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmb%2Fbatch_mb_gaia_ver02%2Fdata%2Fsn86086481%2F00517171797%2F1904041701%2F0981.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

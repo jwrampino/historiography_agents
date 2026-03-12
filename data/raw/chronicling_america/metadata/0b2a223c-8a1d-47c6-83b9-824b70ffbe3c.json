@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82015374/1823-05-24/ed-1/?sp=3"
+  ],
+  "batch": [
+    "iune_bismuth_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/illinois/",
+    "2/united states/illinois/madison/",
+    "3/united states/illinois/madison/edwardsville/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1823-05-24",
+  "dates": [
+    "1823-05-24"
+  ],
+  "description": [
+    "little further we shall see evils that ought to rerlaiir the advocates of that t measure It is admitted on all hands that slavery is a national evil and that one day those parts of onr nation tvho arc guilty will experience some awful na tional judgments on account of it and so soon as we partake of the crime we may prepare ourselves to meet similar judgments with those states which have I sanctioned the evil and I wish those gentlemen to remember that thev will exclusively should they succeed which may Heaven forbid be responsible to God and posterity lor all the punish ment that a God of Holiness and Justice may one day inflict upon Illinois From this view of the subject I take it for granted that every preacher of the gospel who deserves the name will op pose the introduction of slavery not only because they are citizens and many ol them have families to share in the hap piness or miseries that are to grow out of the measure now before us but because it is as much their duty to pr at slavery as against drunkenne tdultery or murder It would be w"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:16:59.320Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82015374/1823-05-24/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823052401:0062/full/pct:6.25/0/default.jpg#h=380&w=238",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823052401:0062/full/pct:12.5/0/default.jpg#h=760&w=476",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_bismuth_ver01/data/sn82015374/00332898024/1823052401/0062.xml&format=alto_xml"
+  ],
+  "index": 117,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "madison",
+    "edwardsville",
+    "illinois",
+    "united states"
+  ],
+  "location_city": [
+    "edwardsville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "madison"
+  ],
+  "location_state": [
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000003",
+    "1",
+    "8",
+    "9",
+    "sn82015374",
+    "4",
+    "3",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82015374"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "8",
+    "0",
+    "2",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82015374-1823-05-24-ed-1-0062",
+  "partof": [
+    "serial and government publications division",
+    "edwardsville spectator (edwardsville, ill.) 1819-1826",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "edwardsville spectator (edwardsville, ill.) 1819-1826"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82015374/1823-05-24/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82015374/1823-05-24/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "illinois",
+    "madison",
+    "edwardsville",
+    "newspapers",
+    "antislavery movements",
+    "edwardsville (ill.)"
+  ],
+  "timestamp": "2025-05-21T15:26:34.091Z",
+  "title": "Image 3 of Edwardsville spectator (Edwardsville, Ill.), May 24, 1823",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82015374/1823-05-24/ed-1/?sp=3&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_bismuth_ver01%2Fdata%2Fsn82015374%2F00332898024%2F1823052401%2F0062.xml&q=slavery&relevant_snippet=1"
+}

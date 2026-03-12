@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn96077142/1902-04-05/ed-1/?sp=6"
+  ],
+  "batch": [
+    "mimtptc_jonesville_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/michigan/",
+    "2/united states/michigan/baraga/",
+    "3/united states/michigan/baraga/l'anse/"
+  ],
+  "contributor": [
+    "central michigan university, clark historical library"
+  ],
+  "date": "1902-04-05",
+  "dates": [
+    "1902-04-05"
+  ],
+  "description": [
+    "TME REPUBLIC OF CUBA To Be Formally Established May 20 Presl dent Sends Message to Congress Re garding Establishment of DIplo matic delations Washington March 28 Secretary Itout Tuesday afternoon made public bin order to Gen Wood directing him to turn over the control and govern Kent of Cuba to Ha people on May SO next The order requires the Cuban government to tuume all treaty obli gations and directs Gen Wood to con tinue a small artillery force to avoid leaving the island entirely defenseless until the Cuban government shall have opportunity to organize its own force Gen Wood also is directed to convene the Cuban congress before May 20 lie is also directed to consult with Presidentelect Talma and substitute such persons as he shall desire for those now holding official positions in Cuba MeHigt of the President Washington March 28 The presi dent Thursday afternoon sent to congress the following message rec ommending the provision for diplo matic and consular representation in Cuba To the Congress of the United States I commend to the congress timely consid eration of measures for maintaining di plomatic and consular representatives In Cuba and for carrying out the provisions of the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-16T21:41:45.527Z",
+  "group": [
+    "ndnp/mimtptc",
+    "central-michigan-university-clark-historical-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn96077142/1902-04-05/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_jonesville_ver01:data:sn96077142:00415669999:1902040501:0115/full/pct:6.25/0/default.jpg#h=492&w=339",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_jonesville_ver01:data:sn96077142:00415669999:1902040501:0115/full/pct:12.5/0/default.jpg#h=984&w=679",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mimtptc/batch_mimtptc_jonesville_ver01/data/sn96077142/00415669999/1902040501/0115.xml&format=alto_xml"
+  ],
+  "index": 169,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "baraga county",
+    "michigan",
+    "l'anse",
+    "united states",
+    "baraga"
+  ],
+  "location_city": [
+    "l'anse"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "baraga"
+  ],
+  "location_state": [
+    "michigan"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn96077142",
+    "9",
+    "6",
+    "5",
+    "4",
+    "1",
+    "0000000006"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn96077142"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "6",
+    "9",
+    "9",
+    "9",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn96077142-1902-04-05-ed-1-0115",
+  "partof": [
+    "the l'anse sentinel (l'anse, l.s., mich.) 18??-current",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the l'anse sentinel (l'anse, l.s., mich.) 18??-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn96077142/1902-04-05/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn96077142/1902-04-05/ed-1/"
+  ],
+  "shelf_id": "06",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "baraga county (mich.)",
+    "baraga county",
+    "l'anse (mich.)",
+    "michigan",
+    "l'anse",
+    "united states",
+    "newspapers",
+    "baraga"
+  ],
+  "timestamp": "2024-01-17T15:34:53.937Z",
+  "title": "Image 6 of The L'Anse sentinel (L'Anse, L.S., Mich.), April 5, 1902",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn96077142/1902-04-05/ed-1/?sp=6&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmimtptc%2Fbatch_mimtptc_jonesville_ver01%2Fdata%2Fsn96077142%2F00415669999%2F1902040501%2F0115.xml&q=cuba&relevant_snippet=1"
+}

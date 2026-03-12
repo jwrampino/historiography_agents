@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83007243/1955-02-11/ed-1/?sp=10"
+  ],
+  "batch": [
+    "ohi_ivy_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/franklin/",
+    "3/united states/ohio/franklin/columbus/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1955-02-11",
+  "dates": [
+    "1955-02-11"
+  ],
+  "description": [
+    "Cardinal Spellman told the di rectors gathered here Buddhists are just aS appreciative as Catho lics for aid given by the Bishops nf the United States Help is dis tributed indiscriminately to all re ligions Th Cardinal spoke of th crit ical refugee problem in Vietnam which he saw first hand He said that US Catholics have pitched In with th US Government and the government of Vietnam in giving assistance to refugees from th communist dominated north of the country H told of seeing one refuge family who escaped from the north bringing along with them their most prized possession picture of th Blessed Virgin Mary Some diplomats and newspaper men see nothing bet surrender to communism in Vietnam the Car dinal said but he added that he is spiritually optimistic He said that one sight he will not forget was watching the SS General Her sey bring 400 refugees into port at Saigon He added that it made him extremely proud to be an Amer ican as he witnessed the U S gov Who Else Wants Catholic Digest For Only 100 The Catholic Digest is not to be eonfused with any other publica tion in the entire Catholic"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:21:03.462Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83007243/1955-02-11/ed-1/?sp=10",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ivy_ver01:data:sn83007243:00340580205:1955021101:0862/full/pct:3.125/0/default.jpg#h=285&w=216",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ivy_ver01:data:sn83007243:00340580205:1955021101:0862/full/pct:6.25/0/default.jpg#h=570&w=433",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ivy_ver01:data:sn83007243:00340580205:1955021101:0862/full/pct:12.5/0/default.jpg#h=1140&w=867",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_ivy_ver01/data/sn83007243/00340580205/1955021101/0862.xml&format=alto_xml"
+  ],
+  "index": 177,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "franklin",
+    "columbus",
+    "ohio",
+    "united states"
+  ],
+  "location_city": [
+    "columbus"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "franklin"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn83007243",
+    "0000000010",
+    "2",
+    "8",
+    "5",
+    "3",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83007243"
+  ],
+  "number_page": [
+    "0000000010"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "0",
+    "2",
+    "0",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83007243-1955-02-11-ed-1-0862",
+  "partof": [
+    "the catholic times (columbus, ohio) 1951-current",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the catholic times (columbus, ohio) 1951-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83007243/1955-02-11/ed-1/?sp=10"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83007243/1955-02-11/ed-1/"
+  ],
+  "shelf_id": "10",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "ohio",
+    "catholic church",
+    "franklin",
+    "united states",
+    "newspapers",
+    "columbus (ohio)",
+    "columbus"
+  ],
+  "timestamp": "2023-09-05T23:47:08.958Z",
+  "title": "Image 10 of The Catholic times (Columbus, Ohio), February 11, 1955",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83007243/1955-02-11/ed-1/?sp=10&q=vietnam",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_ivy_ver01%2Fdata%2Fsn83007243%2F00340580205%2F1955021101%2F0862.xml&q=vietnam&relevant_snippet=1"
+}

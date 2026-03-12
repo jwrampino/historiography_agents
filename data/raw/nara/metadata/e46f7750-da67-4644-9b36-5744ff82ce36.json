@@ -1,0 +1,144 @@
+{
+  "onlineResources": [
+    {
+      "note": "A transcription of this item can be viewed on Wikisource, the free online library of primary texts.",
+      "description": "Wikisource",
+      "url": "http://en.wikisource.org/wiki/Address_of_the_Boston_Female_Anti-Slavery_Society"
+    }
+  ],
+  "beginCongress": 24,
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "subjects": [
+    {
+      "heading": "Petitions",
+      "authorityType": "specificRecordsType",
+      "naId": 10629818
+    },
+    {
+      "heading": "Women",
+      "authorityType": "topicalSubject",
+      "naId": 10642093
+    }
+  ],
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "Address of the Boston Female Anti-Slavery Society",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "Room 8E, 7th and Pennsylvania Avenue NW",
+          "city": "Washington",
+          "phone": "202-357-5350",
+          "address1": "National Archives Building",
+          "postalCode": "20408",
+          "name": "Center for Legislative Archives",
+          "state": "DC",
+          "fax": "202-357-5911",
+          "email": "legislative.archives@nara.gov",
+          "mailCode": "LL"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "endCongress": 24,
+  "dataControlGroup": {
+    "groupName": "Center for Legislative Archives",
+    "groupId": "RPL",
+    "groupCd": "RPL"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "productionDates": [
+    {
+      "month": 7,
+      "year": 1836,
+      "day": 13,
+      "logicalDate": "1836-07-13"
+    }
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "NWL-233-PETITION-25AH18-1",
+      "type": "NAIL Control Number"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "25-2946a.gif",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/39/3066/306639/content/arcmedia/media/images/25/30/25-2946a.gif",
+      "objectFileSize": 476737,
+      "objectDesignator": "PAGE1",
+      "objectId": "15024670",
+      "objectType": "Image (GIF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1789,
+        "logicalDate": "1789-01-01"
+      },
+      "distance": 3,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 233,
+      "inclusiveEndDate": {
+        "year": 2023,
+        "logicalDate": "2023-12-31"
+      },
+      "title": "Records of the U.S. House of Representatives",
+      "naId": 560
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1797,
+        "logicalDate": "1797-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "U.S. House of Representatives. (03/04/1789 - )",
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 3,
+            "year": 1789,
+            "day": 4,
+            "logicalDate": "1789-03-04"
+          },
+          "naId": 10460330
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1871,
+        "logicalDate": "1871-12-31"
+      },
+      "title": "Tabled Petitions and Memorials",
+      "naId": 559825
+    },
+    {
+      "distance": 1,
+      "levelOfDescription": "fileUnit",
+      "title": "Petitions and Memorials, Resolutions of State Legislatures, and Related Documents Which Were Tabled or \"Handed In\" during the 25th Congress",
+      "naId": 7969624
+    }
+  ],
+  "naId": 306639
+}

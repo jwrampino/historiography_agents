@@ -1,0 +1,151 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85038614/1898-04-02/ed-1/?sp=1"
+  ],
+  "batch": [
+    "vi_rollingstone_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/virginia/",
+    "3/united states/virginia/richmond/"
+  ],
+  "contributor": [
+    "library of virginia; richmond, va"
+  ],
+  "date": "1898-04-02",
+  "dates": [
+    "1898-04-02"
+  ],
+  "description": [
+    "Louk i EE Sa ABN ida tol Fg AL J 7 ha Pk a THE RICHMOND DISPATCH i A i WHOLE NU MBEK 14 563 RICHMOND VA A SATURDAY APRIL 2 1898 THREE _UKNTS PER COPY __ i C 100KS LIKE WAR Spains Reply Unsatisfactory and Ne gotiations Are Ended RE m PRESIDENT WRITING HIS MESSAGE ie Will Seed It to Congress Probably Next Monday I RUMORS OF MEDIATION Report That the Pope is Seeking to Fxcreise Pacific Influences Ln KKINLEYS COURSE OURSE UNDETERMINED At Least It is is Not K Know What Re commendation He Will Make Ec KAINE MATTER IN SPAINS REPY Alleged Treatment of the Disaster in Yery ColdBlooded Fashion 18 ISSUE CONSIDERED MADE UP Yi codlord However Remains at His Post and Bernabe at His tI CONGRESSIONAL TALK ALL OF WAR such Ontcome Seems to Be Regnrded KANE MATTER IN SPAINS REPLY hlleced Treatment of the Disaster in Yery ColdBlooded Fashion THE ISSUE CONSIDERED MADE UP Woodford However Remains at His Post and Bernabe at His ONGRESSIONAL TALK ALL OF WAR such Ontcome Seems to Be Regarded as Almost InevitableIf President Hecommends Intervention He Will Iteceive Hearty Sapport Iteceive Hearty Sapport WASHINGTON April 1There is little"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-21T07:06:57.996Z",
+  "group": [
+    "ndnp/vi",
+    "library-of-virginia-richmond-va-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85038614/1898-04-02/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver02:data:sn85038614:00175032939:1898040201:0291/full/pct:3.125/0/default.jpg#h=381&w=261",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver02:data:sn85038614:00175032939:1898040201:0291/full/pct:6.25/0/default.jpg#h=762&w=522",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/vi/batch_vi_rollingstone_ver02/data/sn85038614/00175032939/1898040201/0291.xml&format=alto_xml"
+  ],
+  "index": 160,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "richmond",
+    "virginia"
+  ],
+  "location_city": [
+    "richmond"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "virginia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "0000000001",
+    "sn85038614",
+    "2",
+    "5",
+    "3",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85038614"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "1",
+    "7",
+    "5",
+    "0",
+    "3",
+    "2",
+    "9",
+    "3",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85038614-1898-04-02-ed-1-0291",
+  "partof": [
+    "chronicling america",
+    "richmond dispatch (richmond, va.) 1884-1903",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "richmond dispatch (richmond, va.) 1884-1903"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85038614/1898-04-02/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85038614/1898-04-02/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "richmond (va.)",
+    "richmond",
+    "virginia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2025-12-21T09:10:16.838Z",
+  "title": "Image 1 of Richmond dispatch (Richmond, Va.), April 2, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85038614/1898-04-02/ed-1/?sp=1&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fvi%2Fbatch_vi_rollingstone_ver02%2Fdata%2Fsn85038614%2F00175032939%2F1898040201%2F0291.xml&q=cuba&relevant_snippet=1"
+}

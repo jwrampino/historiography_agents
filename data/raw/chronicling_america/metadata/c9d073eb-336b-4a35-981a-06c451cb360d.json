@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn98026438/1950-12-08/ed-1/?sp=2"
+  ],
+  "batch": [
+    "fu_lantana_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/florida/",
+    "2/united states/florida/hernando/",
+    "3/united states/florida/hernando/brooksville/"
+  ],
+  "contributor": [
+    "university of florida"
+  ],
+  "date": "1950-12-08",
+  "dates": [
+    "1950-12-08"
+  ],
+  "description": [
+    "THE SUN Hernando Countys Most Complete Newspaper Entered as second class matter at the Postoffice at Brooksville Florida under Ae o March 3 1879 PUBLISH EVERY FRIDAY AT 20 EAST LIBERTY ST BHOOWSVIIIE HERNANDO COUNTY FLORIDA Advertising Rates Upon Request Established 1932 Subscript on Rates 200 Per Year lOO Six Months VICTOR T LORD Editor W R STRINGFIELD Business Manager TOO LATE TO CLASSIFY By Russell Kay Secretary Florida Press Association While I have resided in communities having a large Latin speaking population mos of my life and daily come in contact with Spanish speaking people 1 have never learned to speak the language myself have alvays realized how helpful it would be and like a lot of other things I have wanted to do have put off learn ing Spanish because 1 just never seemed to have the time to study and learn Not long ago it fell my lot to help entertain a distin guished group from the Republic of Columbia which was touring this state Only one or two of the group could speak English and it was necessary to express myself through an interpreter It was quite embarrassing And made me realize how dumb 1 really"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2026-01-27T17:02:37.685Z",
+  "group": [
+    "ndnp/fu",
+    "university-of-florida-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn98026438/1950-12-08/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_lantana_ver01:data:sn98026438:00541310137:1950120801:0869/full/pct:6.25/0/default.jpg#h=407&w=281",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_lantana_ver01:data:sn98026438:00541310137:1950120801:0869/full/pct:12.5/0/default.jpg#h=815&w=562",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/fu/batch_fu_lantana_ver01/data/sn98026438/00541310137/1950120801/0869.xml&format=alto_xml"
+  ],
+  "index": 81,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "brooksville",
+    "hernando county",
+    "florida",
+    "hernando",
+    "united states"
+  ],
+  "location_city": [
+    "brooksville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hernando"
+  ],
+  "location_state": [
+    "florida"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0000000002",
+    "0",
+    "sn98026438",
+    "7",
+    "1",
+    "3",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn98026438"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "1",
+    "3",
+    "1",
+    "0",
+    "1",
+    "3",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn98026438-1950-12-08-ed-1-0869",
+  "partof": [
+    "chronicling america",
+    "the brooksville sun (brooksville, fla.) 1932-1959",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the brooksville sun (brooksville, fla.) 1932-1959"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn98026438/1950-12-08/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn98026438/1950-12-08/ed-1/"
+  ],
+  "shelf_id": "02",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "brooksville",
+    "brooksville (fla.)",
+    "hernando county",
+    "florida",
+    "hernando",
+    "hernando county (fla.)",
+    "united states"
+  ],
+  "timestamp": "2026-01-28T09:17:49.589Z",
+  "title": "Image 2 of The Brooksville sun (Brooksville, Fla.), December 8, 1950",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn98026438/1950-12-08/ed-1/?sp=2&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Ffu%2Fbatch_fu_lantana_ver01%2Fdata%2Fsn98026438%2F00541310137%2F1950120801%2F0869.xml&q=spanish&relevant_snippet=1"
+}

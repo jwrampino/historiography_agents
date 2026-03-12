@@ -1,0 +1,131 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16090/?sp=3"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1805-09-24",
+  "dates": [
+    "1805-09-24"
+  ],
+  "description": [
+    "sie i a Se et 2 ay Wr Navini Been afcertstvied to the Tittsfaation of tk Sopernge se Ce\u00e9nocil that the Offiters of His Maje rs 7368 Regiment were dirmg tHe late Campa inthe Deckan ubjectedta ekxtradrdiiary expenc Whici pave begn Eg tatdted by the arranyenases Pa 4 doniieticd With their \u00e9nidaskation for Europe s Fordthip in Couneil Has be\u00e9npleafed to refuive tie thofe Officers Thallteceivea gratuity equal to thre Months full batta as a further teftjaony of His Loruihips approbation of their eminent fervices cl 14M The Right Honorable the Governor in Council i pleafed to appoint Colonel Birry Clofe to Cominane Mo ee RegimentiofeNative Infantry and Coione Alexander Cuppage to Coinmand the ati REAPER RC Ag 18h NA PAE OP IBESO MRE Ts having been permitted b thi\u00e9 Hondrabl\u00e9 Court of Directors to recura to thei duty in India His Lordthipin Council is pleafed ic publith that permiffion in General Orders oer Lieutenant Colonel C Rumley BOTY Beh Regiment Native Cavalry Lieutenant Colonel S W Ogg Moi 3a Regiment Native Infantry OF Captain Lieutenant E Hay a8 IN 81d Regimens Native Infantry His Lordihip iaCouncil is pleafeu to appoint Liew refiahe Mexahier MLaren of the 8th Regimentc Native"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16090/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16090:0003/full/pct:6.25/0/default.jpg#h=484&w=326",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16090:0003/full/pct:12.5/0/default.jpg#h=969&w=653",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16090:0003/full/pct:25.0/0/default.jpg#h=1939&w=1306",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16090:0003/full/pct:50.0/0/default.jpg#h=3878&w=2613",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16090:0003/full/pct:100.0/0/default.jpg#h=7756&w=5226",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16090/0003.alto.xml&format=alto_xml"
+  ],
+  "index": 28,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "india",
+    "calcutta"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "sn88063570",
+    "0000000003",
+    "sn88063571",
+    "sn88063569",
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16090-0003-alto",
+  "partof": [
+    "asian division",
+    "general collections",
+    "world newspapers",
+    "catalog",
+    "south asian digital collection",
+    "serial and government publications division",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "world digital library"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16090/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16090/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "india",
+    "calcutta"
+  ],
+  "timestamp": "2025-12-12T07:20:04.131Z",
+  "title": "Image 3 of Volume 11, Number 558, Tuesday, September 24, 1805 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16090/?sp=3&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16090%2F0003.alto.xml&q=great+war&relevant_snippet=1"
+}

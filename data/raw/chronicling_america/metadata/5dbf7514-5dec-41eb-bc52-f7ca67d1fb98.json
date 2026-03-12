@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn92053389/1841-07-03/ed-1/?sp=2"
+  ],
+  "batch": [
+    "iune_albatross_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/illinois/",
+    "2/united states/illinois/la salle/",
+    "3/united states/illinois/la salle/lowell/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1841-07-03",
+  "dates": [
+    "1841-07-03"
+  ],
+  "description": [
+    "USSSSSS rJS Slate or laws relulive to people of color nrc contrary to the laws of God and there fore nol binding on any one and that we make our sentiments known to the Legis ture of Illinois On motion laid on the able Mr Cross moved the following resolu tion which was unanimously adopted Resolved That tho thanks of this So ciety be tendered to the citizens of Gales burg for their hospitality in entertaining the friends of the slave during the present meeting After prayer by Rev Mr Waters Adjourned sine die IIIRAM MARSH Acting President Geo W Gale Iiee Sccy FOURTH ANA UAL REPORT Of the Executive Committee of the Illinois AntiSlavery Society Tho AntiSlavery enterprise has passed through those different stages and vicissi tudes which arc incident to all important moral revolutions It had its day of rapid and peihaps unparalleled growth Tor a time its friends were cheeted on by the hope of a speedy and most triumphant vic tory While the soundness and practica bility of our principles were tested in free and manly debate the cause moved onward with a progressive power which spread alarm through all the ranks of tlie oppo nents"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:15:42.216Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn92053389/1841-07-03/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn92053389:00514151179:1841070301:0089/full/pct:6.25/0/default.jpg#h=374&w=235",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn92053389:00514151179:1841070301:0089/full/pct:12.5/0/default.jpg#h=748&w=470",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_albatross_ver01/data/sn92053389/00514151179/1841070301/0089.xml&format=alto_xml"
+  ],
+  "index": 89,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "la salle",
+    "united states",
+    "illinois",
+    "lowell",
+    "la salle county"
+  ],
+  "location_city": [
+    "lowell"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "la salle"
+  ],
+  "location_state": [
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn92053389",
+    "5",
+    "9",
+    "7",
+    "4",
+    "0000000002",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn92053389"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "4",
+    "1",
+    "5",
+    "1",
+    "1",
+    "7",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn92053389-1841-07-03-ed-1-0089",
+  "partof": [
+    "serial and government publications division",
+    "genius of liberty (lowell, la salle county, ill.) 1840-1842",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "genius of liberty (lowell, la salle county, ill.) 1840-1842"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn92053389/1841-07-03/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn92053389/1841-07-03/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "la salle",
+    "la salle county (ill.)",
+    "illinois",
+    "lowell (ill.)",
+    "lowell",
+    "newspapers",
+    "la salle county",
+    "antislavery movements"
+  ],
+  "timestamp": "2025-05-21T11:10:42.835Z",
+  "title": "Image 2 of Genius of liberty (Lowell, La Salle County, Ill.), July 3, 1841",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn92053389/1841-07-03/ed-1/?sp=2&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_albatross_ver01%2Fdata%2Fsn92053389%2F00514151179%2F1841070301%2F0089.xml&q=slavery&relevant_snippet=1"
+}

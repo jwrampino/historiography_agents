@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84020645/1901-11-20/ed-1/?sp=2"
+  ],
+  "batch": [
+    "au_groom_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/alabama/",
+    "2/united states/alabama/montgomery/",
+    "3/united states/alabama/montgomery/montgomery/"
+  ],
+  "contributor": [
+    "university of alabama libraries, tuscaloosa, al"
+  ],
+  "date": "1901-11-20",
+  "dates": [
+    "1901-11-20"
+  ],
+  "description": [
+    "I i WOMAN and SOCIETY Xrs J X dcCottM TO MH3BT XU CATT Mr Carrie Chapman Call arrived lt night and will be during her stay In tha city the guest of Mr nd Mrs J M deCottes at whose home a reception will he held In her honor this afternoon from 4 until 6 oclock All who would like to meet this distinguished woman are In vited to calk This Invitation is extended to the men aa well as women of Mont gomery NOTICE IONIAN CLUB On account of the Illness of Mrs Gor don Macdonald the meeting of the Ionian Club which was to have been held tomor row with her will he held at the home of Mis Burwell Boykin Instead The hour Is 11 in the morning Mrs W I Rush and son Master Har rell of Bessemer who have been vislt Ing Mrs H C Brown the mother of Mrs Rush on Pelham Street returned home yesterday Miss Clifford Roberts of Chicago who ha been visiting the Misses Joh on P1 l Street has returned home accom panied by Miss Amelia Joh The Magazine Club will meet this af ternoon at half past three oclock"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2022-09-26T05:53:15.737Z",
+  "group": [
+    "ndnp/au",
+    "university-of-alabama-tuscaloosa-al-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84020645/1901-11-20/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_groom_ver01:data:sn84020645:00513683716:1901112001:0826/full/pct:6.25/0/default.jpg#h=430&w=312",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_groom_ver01:data:sn84020645:00513683716:1901112001:0826/full/pct:12.5/0/default.jpg#h=861&w=624",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/au/batch_au_groom_ver01/data/sn84020645/00513683716/1901112001/0826.xml&format=alto_xml"
+  ],
+  "index": 31,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "alabama",
+    "montgomery county",
+    "montgomery"
+  ],
+  "location_city": [
+    "montgomery"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "montgomery"
+  ],
+  "location_state": [
+    "alabama"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn84020645",
+    "8",
+    "5",
+    "6",
+    "7",
+    "3",
+    "0000000002",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84020645"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "3",
+    "6",
+    "8",
+    "3",
+    "7",
+    "1",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Saturday morning",
+    "Montgomery advertiser and Alabama journal",
+    "Montgomery advertiser/Alabama journal",
+    "Daily advertiser"
+  ],
+  "page_id": "sn84020645-1901-11-20-ed-1-0826",
+  "partof": [
+    "the montgomery advertiser (montgomery, ala.) 1885-1982",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the montgomery advertiser (montgomery, ala.) 1885-1982"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84020645/1901-11-20/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84020645/1901-11-20/ed-1/"
+  ],
+  "shelf_id": "02",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "montgomery",
+    "montgomery county (ala.)",
+    "alabama",
+    "montgomery (ala.)",
+    "newspapers",
+    "montgomery county"
+  ],
+  "timestamp": "2022-11-22T23:54:03.831Z",
+  "title": "Image 2 of The Montgomery advertiser (Montgomery, Ala.), November 20, 1901",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84020645/1901-11-20/ed-1/?sp=2&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fau%2Fbatch_au_groom_ver01%2Fdata%2Fsn84020645%2F00513683716%2F1901112001%2F0826.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

@@ -1,0 +1,166 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83025010/1898-04-07/ed-1/?sp=1"
+  ],
+  "batch": [
+    "okhi_comanche_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/oklahoma/",
+    "2/united states/oklahoma/craig/",
+    "3/united states/oklahoma/craig/vinita/"
+  ],
+  "contributor": [
+    "oklahoma historical society"
+  ],
+  "date": "1898-04-07",
+  "dates": [
+    "1898-04-07"
+  ],
+  "description": [
+    "II fySOps tttft CHIEFTAIN PUBLISHING CO VINITA INDIAN TERRITORY THURSDAY APRIL 7 1898 VOL XVI NO 32 INDIAN CHIEFTAIN SPAIN AND HER PEOPLE THE GROWTH AND DECAY OF THE GREATEST NATION IN THE HIS TORY OF THE WORLD Founded on tbo reins of ancient Somo and peopled by the raggedest races of tho middle ages Spain easily conquered tho old world and discovered and overran the new world Under the rnlo of Charles I of Spain better known in history as Charles V of Ger many tho Spanish empire included tba whole Iberian peninsula the Balearic islands Bonssillon and Cerdagne north of the Pyrenees the island of Sardinia Sicily Saples and ililan Franche Comte Holland and Belgium and prac tically Austria Bohemia Hungary and Transylvania In Africa it held the vast domain which Portuguese adventurers bad seized and in Asia the Philippine archipelago In North America Spanish territory included everything south of Savannah on the cast and San Francisco on the west together with Mexico Cen tral America and tho West Indies Spain dominated all Soctb America in cluding Brazil which was a Portngucso jKDvinco at tho time Spain ruled Portu gal The total dominion cf Charle3 at its zenith"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T14:57:49.293Z",
+  "group": [
+    "ndnp/okhi",
+    "oklahoma-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83025010/1898-04-07/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_comanche_ver01:data:sn83025010:00237284744:1898040701:0433/full/pct:6.25/0/default.jpg#h=477&w=377",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_comanche_ver01:data:sn83025010:00237284744:1898040701:0433/full/pct:12.5/0/default.jpg#h=954&w=755",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/okhi/batch_okhi_comanche_ver01/data/sn83025010/00237284744/1898040701/0433.xml&format=alto_xml"
+  ],
+  "index": 138,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "indian territory",
+    "craig",
+    "oklahoma",
+    "craig county",
+    "vinita"
+  ],
+  "location_city": [
+    "vinita"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "craig"
+  ],
+  "location_state": [
+    "oklahoma"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "sn83025010",
+    "7",
+    "4",
+    "3",
+    "2",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83025010"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "3",
+    "7",
+    "2",
+    "8",
+    "4",
+    "7",
+    "4",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83025010-1898-04-07-ed-1-0433",
+  "partof": [
+    "indian chieftain (vinita, indian territory [okla.]) 1882-1902",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "indian chieftain (vinita, indian territory [okla.]) 1882-1902"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83025010/1898-04-07/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83025010/1898-04-07/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "indian territory",
+    "indians of north america",
+    "vinita (okla.)",
+    "craig",
+    "newspapers",
+    "oklahoma",
+    "craig county (okla.)",
+    "craig county",
+    "vinita"
+  ],
+  "subject_ethnicity": [
+    "indians of north america"
+  ],
+  "timestamp": "2022-11-18T01:03:18.411Z",
+  "title": "Image 1 of Indian chieftain (Vinita, Indian Territory [Okla.]), April 7, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83025010/1898-04-07/ed-1/?sp=1&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fokhi%2Fbatch_okhi_comanche_ver01%2Fdata%2Fsn83025010%2F00237284744%2F1898040701%2F0433.xml&q=spanish&relevant_snippet=1"
+}

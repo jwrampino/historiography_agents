@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84022770/1920-02-20/ed-1/?sp=5"
+  ],
+  "batch": [
+    "wa_kittitas_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/washington/",
+    "2/united states/washington/thurston/",
+    "3/united states/washington/thurston/olympia/"
+  ],
+  "contributor": [
+    "washington state library; olympia, wa"
+  ],
+  "date": "1920-02-20",
+  "dates": [
+    "1920-02-20"
+  ],
+  "description": [
+    "Neighborhood News last Saturday evening in honor of their daughter Bertha the occasion being her fifteenth birthday Those present were Mr and Mrs Fred Hoeger and family Mrs Nelse Brown and daughter Clarence Harlow Pal mer Goldsby Joe and Frank Holl mire and host and hostess and fam ily A delicious lunch was served at twelve oclock consisting of cake cof FEED Deliv Wt f o b Whge ered CORN Whole TOO 360 370 Cracked 100 370 360 Ground 100 370 380 OATS Rolled 70 245 255 BARLEY Ground 100 370 380 DAIRY FEED Lillys High Protein 80 245 255 CHOP All Grain 80 300 310 HOG FEED Sunnybrook 100 250 260 If you buy in large quantitieslet us quote you a low price Full line of Garden and Field Seeds carried at West Fourth street store James Brewer w Brewer Co 209 North Main St 230 West Fourth St Phone 137 Phone 288 DODGE BROTHERS MOTORCAR i Just a Word of Warning r K yotf are going to want a Dodge Brothers Car this spring it would be well to place your order with out delay V Otherwise we may not be able to supply the car when you"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-04-26T11:28:15.204Z",
+  "group": [
+    "ndnp/wa",
+    "washington-state-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84022770/1920-02-20/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_kittitas_ver01:data:sn84022770:00200291335:1920022001:0980/full/pct:6.25/0/default.jpg#h=439&w=311",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_kittitas_ver01:data:sn84022770:00200291335:1920022001:0980/full/pct:12.5/0/default.jpg#h=878&w=623",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wa/batch_wa_kittitas_ver01/data/sn84022770/00200291335/1920022001/0980.xml&format=alto_xml"
+  ],
+  "index": 101,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "thurston",
+    "washington",
+    "olympia",
+    "united states"
+  ],
+  "location_city": [
+    "olympia"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "thurston"
+  ],
+  "location_state": [
+    "washington"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "sn84022770",
+    "2",
+    "3",
+    "5",
+    "1",
+    "0000000005"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84022770"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "0",
+    "2",
+    "9",
+    "1",
+    "3",
+    "3",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Twice-a week Washington standard"
+  ],
+  "page_id": "sn84022770-1920-02-20-ed-1-0980",
+  "partof": [
+    "chronicling america",
+    "washington standard (olympia, wash. territory) 1860-1921",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "washington standard (olympia, wash. territory) 1860-1921"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84022770/1920-02-20/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84022770/1920-02-20/ed-1/"
+  ],
+  "shelf_id": "05",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "olympia (wash.)",
+    "washington (state)",
+    "olympia",
+    "thurston",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2024-04-27T06:30:45.995Z",
+  "title": "Image 5 of Washington standard (Olympia, Wash. Territory), February 20, 1920",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84022770/1920-02-20/ed-1/?sp=5&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwa%2Fbatch_wa_kittitas_ver01%2Fdata%2Fsn84022770%2F00200291335%2F1920022001%2F0980.xml&q=reconstruction&relevant_snippet=1"
+}

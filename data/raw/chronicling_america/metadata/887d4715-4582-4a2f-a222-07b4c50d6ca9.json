@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1916-08-01/ed-1/?sp=5"
+  ],
+  "batch": [
+    "dlc_fordprefect_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1916-08-01",
+  "dates": [
+    "1916-08-01"
+  ],
+  "description": [
+    "A Message for Men from Parker Bridget de Ca final r Your Opport Three weeks of ing in the PB Mi Sale ha caused 300 SuitsOdd Lo to accumulatethe down go the prices LOT No 1 30 and 35 PB SUITS 1 7 K lies placed y I tJU ale I M today at W C7 NOTE There are scores every pattern You are sure to f youll find unusual value You kr Value eo this 1b a most unusual 3 150 125 115 and 100 Shirt nn selling at I C Juat about the largest shirt ale youll find In any city Hundreds of patterns Each hlrt from our regular stock 50c Thread Silk Sox 29c All pure thread silk halfhoee and some value Six Pair for 150 VI TECK Oxfords 650 6 and 5 rf j O r Oxfords at Terk Oxfords in tan and white with whit rubber soles 0 QC and heels 5 values at Teck Oxfords have set the style and value pace in Washington for years The Avenu 4 uk wnOCOOOGOOO 11 IBtf mmmuimmSm rnriuri iifmamSr irani KAl B HB B BB BB Built ForI Hart Jgj The service value of a tire quality"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:10:05.229Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1916-08-01/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fordprefect_ver01:data:sn83045462:00280658558:1916080101:0029/full/pct:6.25/0/default.jpg#h=406&w=326",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fordprefect_ver01:data:sn83045462:00280658558:1916080101:0029/full/pct:12.5/0/default.jpg#h=813&w=652",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_fordprefect_ver01/data/sn83045462/00280658558/1916080101/0029.xml&format=alto_xml"
+  ],
+  "index": 172,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "2",
+    "sn83045462",
+    "8",
+    "6",
+    "5",
+    "1",
+    "0000000005"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "8",
+    "5",
+    "5",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1916-08-01-ed-1-0029",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1916-08-01/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1916-08-01/ed-1/"
+  ],
+  "shelf_id": "05",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2022-10-20T13:37:24.329Z",
+  "title": "Image 5 of Evening star (Washington, D.C.), August 1, 1916",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1916-08-01/ed-1/?sp=5&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_fordprefect_ver01%2Fdata%2Fsn83045462%2F00280658558%2F1916080101%2F0029.xml&q=immigration&relevant_snippet=1"
+}

@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84020558/1899-09-20/ed-1/?sp=2"
+  ],
+  "batch": [
+    "az_elk_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/arizona/",
+    "2/united states/arizona/maricopa/",
+    "3/united states/arizona/maricopa/phoenix/"
+  ],
+  "contributor": [
+    "arizona state library, archives and public records; phoenix, az"
+  ],
+  "date": "1899-09-20",
+  "dates": [
+    "1899-09-20"
+  ],
+  "description": [
+    "TxIE AEIZOKA BEPUBIilCAJST WEDGES DA T Af ORBING SEPTEMBER 20 1899 The Arizona Republican THE ONLY NEWSPAPER IK ARIZONA THAT IS PUBLISHED EVERY DAY m THE YEAR CHARLES C RANDOLPH editor ana Proprietor Exclusive Horning Associated Press Dispatches The only Perfecting Press In Ari zona The only battery of Linotypes In Arizona Publication office 363S Eaat Adams street Telephone No 47 VISIT OF SECRETARY GAGE Entered at the poatofflce at Phoenix Arizona as mail matter of the second elaa SUBSCRIPTION RATES By mail daily one year Weekly one year Cash in advance BY CARRIER Dally per month 900 200 Washington bureau 500 Fourteenth treet N W PHCENIX SEPTEMBER 20 1S9B Aguinaldo again wants a conference TVith General Otis by proxy There Is only one way he can get a conference anil ho ought to begin to realize it Secretary Gag2 of tha treasury lef Washington yesterday on a tour of it3 west as tho Associated Press announced the day before he would co Ths Republican is informed by a private dispatch that he will visit Phoenix Hre is an opportunity for tho board of trade for Thoenix was nsver Called upon to wetctme a more notable guest Sinco the time"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-09T14:49:04.483Z",
+  "group": [
+    "ndnp/az",
+    "arizona-state-university-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84020558/1899-09-20/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elk_ver01:data:sn84020558:00202192683:1899092001:0423/full/pct:6.25/0/default.jpg#h=416&w=352",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elk_ver01:data:sn84020558:00202192683:1899092001:0423/full/pct:12.5/0/default.jpg#h=832&w=704",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/az/batch_az_elk_ver01/data/sn84020558/00202192683/1899092001/0423.xml&format=alto_xml"
+  ],
+  "index": 49,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "phoenix",
+    "maricopa",
+    "maricopa county",
+    "united states",
+    "arizona"
+  ],
+  "location_city": [
+    "phoenix"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "maricopa"
+  ],
+  "location_state": [
+    "arizona"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "2",
+    "6",
+    "8",
+    "3",
+    "0000000002",
+    "1",
+    "sn84020558"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84020558"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "2",
+    "1",
+    "9",
+    "2",
+    "6",
+    "8",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Daily republican"
+  ],
+  "page_id": "sn84020558-1899-09-20-ed-1-0423",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "arizona republican (phoenix, ariz.) 1890-1930"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "arizona republican (phoenix, ariz.) 1890-1930"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84020558/1899-09-20/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84020558/1899-09-20/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "maricopa county (ariz.)",
+    "phoenix (ariz.)",
+    "phoenix",
+    "maricopa",
+    "maricopa county",
+    "united states",
+    "newspapers",
+    "arizona"
+  ],
+  "timestamp": "2024-01-09T23:06:36.538Z",
+  "title": "Image 2 of Arizona republican (Phoenix, Ariz.), September 20, 1899",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84020558/1899-09-20/ed-1/?sp=2&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Faz%2Fbatch_az_elk_ver01%2Fdata%2Fsn84020558%2F00202192683%2F1899092001%2F0423.xml&q=computers&relevant_snippet=1"
+}

@@ -1,0 +1,36 @@
+{
+  "creator": "Jonathan Grimm",
+  "date": "2022-05-29T00:00:00Z",
+  "description": "This is a front-end friendly version consisting of a complete US-released set of Super Nintendo manuals.",
+  "format": [
+    "Additional Text PDF",
+    "Archive BitTorrent",
+    "Daisy",
+    "DjVuTXT",
+    "Djvu XML",
+    "EPUB",
+    "Image Container PDF",
+    "Image-Only PDF Metadata JSON",
+    "Item Tile",
+    "LCP Encrypted EPUB",
+    "Metadata",
+    "OCR Page Index",
+    "OCR Search Text",
+    "Page Numbers JSON",
+    "Scandata",
+    "Single Page Processed JP2 ZIP",
+    "Text",
+    "chOCR",
+    "hOCR"
+  ],
+  "identifier": "kirklands_manual_labor_-_super_nintendo_-_usa_-_2k_version",
+  "language": "eng",
+  "mediatype": "texts",
+  "subject": [
+    "SNES",
+    "Super Nintendo",
+    "Kirkland",
+    "manual"
+  ],
+  "title": "Kirkland's Manual Labor - Super Nintendo - USA - 2K version"
+}

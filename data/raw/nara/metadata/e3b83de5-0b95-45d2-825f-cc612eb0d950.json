@@ -1,0 +1,194 @@
+{
+  "dataControlGroup": {
+    "groupId": "ou=NLWJC,ou=groups",
+    "groupCd": "LPWJC"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "note": "Some or all of the records may be subject to copyright restrictions. Researchers should contact the copyright holder for further information.",
+    "specificUseRestrictions": [
+      "Copyright"
+    ],
+    "status": "Restricted - Possibly"
+  },
+  "digitalObjects": [
+    {
+      "objectFilename": "42_t_12090749_20060885F_Seg9_014_002_2016_Page_001.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/22/4840/40484022/content/presidential-libraries/clinton/foia/2006/2006-0885-F-Seg-9/2006-0885-F-Seg-9/Box_14/42-t-12090749-20060885F-Seg9-014-002-2016/42_t_12090749_20060885F_Seg9_014_002_2016_Page_001.JPG",
+      "objectFileSize": 319488,
+      "objectId": "55988725",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_12090749_20060885F_Seg9_014_002_2016_Page_002.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/22/4840/40484022/content/presidential-libraries/clinton/foia/2006/2006-0885-F-Seg-9/2006-0885-F-Seg-9/Box_14/42-t-12090749-20060885F-Seg9-014-002-2016/42_t_12090749_20060885F_Seg9_014_002_2016_Page_002.JPG",
+      "objectFileSize": 294912,
+      "objectId": "55988726",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_12090749_20060885F_Seg9_014_002_2016_Page_003.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/22/4840/40484022/content/presidential-libraries/clinton/foia/2006/2006-0885-F-Seg-9/2006-0885-F-Seg-9/Box_14/42-t-12090749-20060885F-Seg9-014-002-2016/42_t_12090749_20060885F_Seg9_014_002_2016_Page_003.JPG",
+      "objectFileSize": 229376,
+      "objectId": "55988727",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_12090749_20060885F_Seg9_014_002_2016_Page_004.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/22/4840/40484022/content/presidential-libraries/clinton/foia/2006/2006-0885-F-Seg-9/2006-0885-F-Seg-9/Box_14/42-t-12090749-20060885F-Seg9-014-002-2016/42_t_12090749_20060885F_Seg9_014_002_2016_Page_004.JPG",
+      "objectFileSize": 270336,
+      "objectId": "55988728",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_12090749_20060885F_Seg9_014_002_2016_Page_005.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/22/4840/40484022/content/presidential-libraries/clinton/foia/2006/2006-0885-F-Seg-9/2006-0885-F-Seg-9/Box_14/42-t-12090749-20060885F-Seg9-014-002-2016/42_t_12090749_20060885F_Seg9_014_002_2016_Page_005.JPG",
+      "objectFileSize": 278528,
+      "objectId": "55988729",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_12090749_20060885F_Seg9_014_002_2016_Page_006.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/22/4840/40484022/content/presidential-libraries/clinton/foia/2006/2006-0885-F-Seg-9/2006-0885-F-Seg-9/Box_14/42-t-12090749-20060885F-Seg9-014-002-2016/42_t_12090749_20060885F_Seg9_014_002_2016_Page_006.JPG",
+      "objectFileSize": 262144,
+      "objectId": "55988730",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_12090749_20060885F_Seg9_014_002_2016_Page_007.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/22/4840/40484022/content/presidential-libraries/clinton/foia/2006/2006-0885-F-Seg-9/2006-0885-F-Seg-9/Box_14/42-t-12090749-20060885F-Seg9-014-002-2016/42_t_12090749_20060885F_Seg9_014_002_2016_Page_007.JPG",
+      "objectFileSize": 237568,
+      "objectId": "55988731",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_12090749_20060885F_Seg9_014_002_2016_Page_008.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/22/4840/40484022/content/presidential-libraries/clinton/foia/2006/2006-0885-F-Seg-9/2006-0885-F-Seg-9/Box_14/42-t-12090749-20060885F-Seg9-014-002-2016/42_t_12090749_20060885F_Seg9_014_002_2016_Page_008.JPG",
+      "objectFileSize": 319488,
+      "objectId": "55988732",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_12090749_20060885F_Seg9_014_002_2016_Page_009.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/22/4840/40484022/content/presidential-libraries/clinton/foia/2006/2006-0885-F-Seg-9/2006-0885-F-Seg-9/Box_14/42-t-12090749-20060885F-Seg9-014-002-2016/42_t_12090749_20060885F_Seg9_014_002_2016_Page_009.JPG",
+      "objectFileSize": 237568,
+      "objectId": "55988733",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_12090749_20060885F_Seg9_014_002_2016_Page_010.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/22/4840/40484022/content/presidential-libraries/clinton/foia/2006/2006-0885-F-Seg-9/2006-0885-F-Seg-9/Box_14/42-t-12090749-20060885F-Seg9-014-002-2016/42_t_12090749_20060885F_Seg9_014_002_2016_Page_010.JPG",
+      "objectFileSize": 245760,
+      "objectId": "55988734",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_12090749_20060885F_Seg9_014_002_2016_Page_011.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/22/4840/40484022/content/presidential-libraries/clinton/foia/2006/2006-0885-F-Seg-9/2006-0885-F-Seg-9/Box_14/42-t-12090749-20060885F-Seg9-014-002-2016/42_t_12090749_20060885F_Seg9_014_002_2016_Page_011.JPG",
+      "objectFileSize": 245760,
+      "objectId": "55988735",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_12090749_20060885F_Seg9_014_002_2016_Page_012.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/22/4840/40484022/content/presidential-libraries/clinton/foia/2006/2006-0885-F-Seg-9/2006-0885-F-Seg-9/Box_14/42-t-12090749-20060885F-Seg9-014-002-2016/42_t_12090749_20060885F_Seg9_014_002_2016_Page_012.JPG",
+      "objectFileSize": 1417216,
+      "objectId": "55988736",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42-t-12090749-20060885F-Seg9-014-002-2016.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/22/4840/40484022/content/presidential-libraries/clinton/foia/2006/2006-0885-F-Seg-9/2006-0885-F-Seg-9-PDF/Box_14/42-t-12090749-20060885F-Seg9-014-002-2016.pdf",
+      "objectFileSize": 183542,
+      "objectId": "55988724",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "otherTitles": [
+    "42-t-12090749-20060885F-Seg9-014-002-2016"
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "WJC-TFNHC",
+      "inclusiveStartDate": {
+        "year": 1993,
+        "logicalDate": "1993-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "year": 1994,
+        "logicalDate": "1994-12-31"
+      },
+      "title": "Records of the Task Force on National Health Care (Clinton Administration)",
+      "naId": 7410105
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1993,
+        "logicalDate": "1993-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "White House Health Care Task Force (U.S.)",
+          "authorityType": "organization",
+          "naId": 10443060
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1994,
+        "logicalDate": "1994-12-31"
+      },
+      "title": "General Files",
+      "naId": 12090749
+    }
+  ],
+  "title": "Civil Rights",
+  "naId": 40484022,
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Little Rock",
+          "phone": "501-244-2877",
+          "address1": "1200 President Clinton Avenue",
+          "postalCode": "72201",
+          "name": "William J. Clinton Library",
+          "state": "AR",
+          "fax": "501-244-2881",
+          "email": "clinton.library@nara.gov",
+          "mailCode": "LP-WJC"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper",
+          "containerId": "14"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "note": "These records may need to be screened for personal privacy, and law enforcement under 5 U.S.C. 552 (b) prior to public release.",
+    "specificAccessRestrictions": [
+      {
+        "restriction": "FOIA (b)(6) Personal Information"
+      },
+      {
+        "restriction": "PRM - Personal Record Misfile"
+      }
+    ],
+    "status": "Restricted - Partly"
+  }
+}

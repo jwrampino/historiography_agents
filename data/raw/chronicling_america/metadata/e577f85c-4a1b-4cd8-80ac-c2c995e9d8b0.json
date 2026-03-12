@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84026749/1924-06-06/ed-1/?sp=16"
+  ],
+  "batch": [
+    "dlc_nichols_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1924-06-06",
+  "dates": [
+    "1924-06-06"
+  ],
+  "description": [
+    "16 v Z ftmiMHoiim Outfits K your 4 H home now at ft I a tremendous It tw reduction and pay W B jfo suit ift 3 Rooms j furnished WjEEgsjlljyH I completely S7QCOO Teams I Aw to All By means of this special offer living room dining room and bedroom can be furnished attractively and comfortably in every little detail at a low price that breaks all previous records for valuegiving Come in and let us show you what these wonderful home out fits include s iK One Day Specials i REFRIGERATORS I x H 1 1 iLJIL Cash J A OnHMHBaI week Top leer Side leer Apartment leer Come early if you Large ice and food Exceptional value ft want one Special chamber Special at the lbw price 1175 2100 2475 I aLMuiiLj sea ft F LBJTOafMi ft u r v ThreePiece M I Fiber Suite Wit XX This is a dainty attractive furniture of a quality that you ft will be proud to have in your home Included is an unusually comfortable chair rocker and 4foot settee with seats and 3 backs daintily upholstered A great special value for early ft spring buyers at this low price"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-07T20:33:05.691Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84026749/1924-06-06/ed-1/?sp=16",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nichols_ver02:data:sn84026749:00222254097:1924060601:0715/full/pct:3.125/0/default.jpg#h=319&w=253",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nichols_ver02:data:sn84026749:00222254097:1924060601:0715/full/pct:6.25/0/default.jpg#h=639&w=506",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_nichols_ver02/data/sn84026749/00222254097/1924060601/0715.xml&format=alto_xml"
+  ],
+  "index": 32,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "5",
+    "9",
+    "sn84026749",
+    "0000000016",
+    "7",
+    "4",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84026749"
+  ],
+  "number_page": [
+    "0000000016"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "2",
+    "2",
+    "2",
+    "5",
+    "4",
+    "0",
+    "9",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Washington times herald"
+  ],
+  "page_id": "sn84026749-1924-06-06-ed-1-0715",
+  "partof": [
+    "serial and government publications division",
+    "the washington times (washington [d.c.]) 1902-1939",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington times (washington [d.c.]) 1902-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84026749/1924-06-06/ed-1/?sp=16"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84026749/1924-06-06/ed-1/"
+  ],
+  "shelf_id": "16",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2023-08-08T13:37:37.567Z",
+  "title": "Image 16 of The Washington times (Washington [D.C.]), June 6, 1924",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84026749/1924-06-06/ed-1/?sp=16&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_nichols_ver02%2Fdata%2Fsn84026749%2F00222254097%2F1924060601%2F0715.xml&q=child+labor&relevant_snippet=1"
+}

@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1957-08-04/ed-1/?sp=130"
+  ],
+  "batch": [
+    "dlc_oedipusrex_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1957-08-04",
+  "dates": [
+    "1957-08-04"
+  ],
+  "description": [
+    "Page 8 TEEN WHAT YOUNG PEOPLE THINK Want Socialized Medicine No By EUGENE GILBERT Gilbert Youth Research Co Socialized medicine holds no great attraction for American youth Nearly 6 out of every 10 young sters we contacted in a Nationwide survey wanted no part of it Slightly more than 3 out of 10 thought the Government should step in and finance medical services The rest had no opinion The figures favoring socialized medicine were heavily swelled by the feminine vote More than 46 per cent of the girls were against it but only slightly less 42 per cent favored it Among the bou the vote was 63 per cent against it 31 per cent for it Youth had its own reasons for opposing the system of socialized medicine now operating in Great Britain and advocated by some and damned by others on this side of the ocean The Government has better ways to spend its money asserted a 15yearold defender of the pri vate practitioner Fear Trend to Socialism Socialized medicine claimed an 18yearold girl in St Hilo Hawaii would benefit only mediocre doc tors A Pittsburgh lad of the same age said it would offer less incen tive to"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-07T20:33:17.902Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1957-08-04/ed-1/?sp=130",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_oedipusrex_ver01:data:sn83045462:00280607721:1957080401:0288/full/pct:6.25/0/default.jpg#h=380&w=305",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_oedipusrex_ver01:data:sn83045462:00280607721:1957080401:0288/full/pct:12.5/0/default.jpg#h=760&w=610",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_oedipusrex_ver01/data/sn83045462/00280607721/1957080401/0288.xml&format=alto_xml"
+  ],
+  "index": 45,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "0000000130",
+    "7",
+    "sn83045462",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000130"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "7",
+    "7",
+    "2",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday issues for Mar. 26, 1905-July 9,1972 called: Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1957-08-04-ed-1-0288",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1957-08-04/ed-1/?sp=130"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1957-08-04/ed-1/"
+  ],
+  "shelf_id": "130",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2023-08-08T14:35:35.837Z",
+  "title": "Image 130 of Evening star (Washington, D.C.), August 4, 1957",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1957-08-04/ed-1/?sp=130&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_oedipusrex_ver01%2Fdata%2Fsn83045462%2F00280607721%2F1957080401%2F0288.xml&q=medicine&relevant_snippet=1"
+}

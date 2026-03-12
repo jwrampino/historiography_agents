@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84038462/1858-09-09/ed-1/?sp=2"
+  ],
+  "batch": [
+    "iune_albatross_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/illinois/",
+    "2/united states/illinois/bond/",
+    "3/united states/illinois/bond/greenville/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1858-09-09",
+  "dates": [
+    "1858-09-09"
+  ],
+  "description": [
+    "GREENVILLE ADVOCATE J F ALEXANDER Editor thipipay sipt 9 mw REMEMBER That Hon Ann a it am Lincoln find Senator Trumhull will address the cit izens of Bond County in Greenville on Monday the 13ih of Sept on the politi cal questions of the clay A New Position It will now be necessary for th Doug las Democracy to take another position since their great leader has spoken out in answer to a question which he had steadily and persistently refused to an swer during the last four years until broirght to his milk by Lincoln at Freeport The question is this Can the people of a United States Territory in any lawful way against the wish of any citizen of the United States exclude slavery from its limits prior to the formation of a State Con stitution f Douglas although he has evaded a direct answer to whs question a nunurei tunes by saying it was a question foi the Suprne Court or in some othei way felt that he was obliged to auswei it the oilier day at Freeport The Su prcine Court had decided it in the nega tive and he could not refer it to thai"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:15:40.901Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84038462/1858-09-09/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038462:00514151039:1858090901:0125/full/pct:6.25/0/default.jpg#h=366&w=272",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038462:00514151039:1858090901:0125/full/pct:12.5/0/default.jpg#h=732&w=544",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_albatross_ver01/data/sn84038462/00514151039/1858090901/0125.xml&format=alto_xml"
+  ],
+  "index": 174,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "bond county",
+    "illinois",
+    "greenville",
+    "united states",
+    "bond"
+  ],
+  "location_city": [
+    "greenville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "bond"
+  ],
+  "location_state": [
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn84038462",
+    "4",
+    "9",
+    "5",
+    "3",
+    "0000000002",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84038462"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "4",
+    "1",
+    "5",
+    "1",
+    "0",
+    "3",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84038462-1858-09-09-ed-1-0125",
+  "partof": [
+    "chronicling america",
+    "the greenville advocate (greenville, bond county, ill.) 1858-current",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the greenville advocate (greenville, bond county, ill.) 1858-current"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84038462/1858-09-09/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84038462/1858-09-09/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "bond county",
+    "illinois",
+    "greenville (ill.)",
+    "bond county (ill.)",
+    "greenville",
+    "united states",
+    "newspapers",
+    "bond"
+  ],
+  "timestamp": "2025-05-21T10:47:31.852Z",
+  "title": "Image 2 of The Greenville advocate (Greenville, Bond County, Ill.), September 9, 1858",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84038462/1858-09-09/ed-1/?sp=2&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_albatross_ver01%2Fdata%2Fsn84038462%2F00514151039%2F1858090901%2F0125.xml&q=slavery&relevant_snippet=1"
+}

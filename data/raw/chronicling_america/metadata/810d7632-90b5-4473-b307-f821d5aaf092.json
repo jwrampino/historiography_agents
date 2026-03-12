@@ -1,0 +1,136 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2004540423/1917-03-07/ed-1/?sp=144"
+  ],
+  "batch": [
+    "dlc_2freedonia_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1917-03-07",
+  "dates": [
+    "1917-03-07"
+  ],
+  "description": [
+    ""
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-19T00:31:37.557Z",
+  "group": [
+    "sgpww1newspaperclippings/dlc",
+    "wwi-newspaper-clippings"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2004540423/1917-03-07/ed-1/?sp=144",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_2freedonia_ver01:data:2004540423:print00192511306:1917030701:0144/full/pct:6.25/0/default.jpg#h=454&w=341",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_2freedonia_ver01:data:2004540423:print00192511306:1917030701:0144/full/pct:12.5/0/default.jpg#h=909&w=682",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/sgp/sgpbatches/batch_dlc_2freedonia_ver01/data/2004540423/print00192511306/1917030701/0144.xml&format=alto_xml"
+  ],
+  "index": 76,
+  "language": [
+    "german"
+  ],
+  "location": [
+    "new york",
+    "germany",
+    "united states"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "2004540423",
+    "0000000144",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2004540423"
+  ],
+  "number_page": [
+    "0000000144"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2004540423-1917-03-07-ed-1-0144",
+  "partof": [
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-",
+    "serial and government publications division",
+    "world war history: newspaper clippings, 1914-1926"
+  ],
+  "partof_collection": [
+    "world war history: newspaper clippings, 1914-1926"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2004540423/1917-03-07/ed-1/?sp=144"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2004540423/1917-03-07/ed-1/"
+  ],
+  "shelf_id": "144",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "armistices",
+    "history",
+    "allied occupation",
+    "germany",
+    "sources",
+    "new york",
+    "world war",
+    "united states"
+  ],
+  "timestamp": "2022-11-09T18:03:01.169Z",
+  "title": "Image 144 of World War history : daily records and comments as appeared in American and foreign newspapers, 1914-1926 (New York), March 7, 1917, (1917 March 7-12)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2004540423/1917-03-07/ed-1/?sp=144&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fsgp%2Fsgpbatches%2Fbatch_dlc_2freedonia_ver01%2Fdata%2F2004540423%2Fprint00192511306%2F1917030701%2F0144.xml&q=revolution&relevant_snippet=1"
+}

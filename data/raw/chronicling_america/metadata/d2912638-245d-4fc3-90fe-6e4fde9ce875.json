@@ -1,0 +1,131 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16096/?sp=1"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1805-10-29",
+  "dates": [
+    "1805-10-29"
+  ],
+  "description": [
+    "Volume XI TUESDA Y OCTOBER 29 1805 Number 563 wm PUBLIC SALE FIRST DAYs SALE PUBLIC SALE Lo be fold by Public Audion Sy JOSEPH TAYLOR At hr Aullionpiazza e On SATURDAY next the ad November A VARIETY OF i USEFUL PROPERTY AMONGST WHICH ARE TWO ELEGANT DIAMOND RINGS J GREENWAY anp Co BEG LEAVE TO INFORM THEIR FRIENDS AND THE PUBLIC THAT THEY HAVE PURCHASED A VERY SELECT AND CAPITAL INVESTMENT 8 OF THE NEWEST BOOKS CHARTS IMPORTED ON THE Cif LD Grrr ee Which they wil Expofe for Sale ina ewedays in their Office Lifts will be publifhed as foon as_poflible for general information with the Prices annexed FOR SALE OR FREIGHT To emtibetiieetadl To be fold by Public Au\u00e9ion By Walliams and Hobhler AT No a2 DURRUMTOLLAHSTREET On SATURD AY next the ath November IHE REMAINS THE BRIG Re DIANA row Burther about 800 Bags fails remarkably Tar oe ee well and will be ready to leave this Port on or before the roth of November next N BGoods accommodations for Paflengers APPLY To Mr MATTHESON AT THE WAREHOUSE OF CAPT CUMBERLEGES Superb and wellchosen INVESTMENT Crunpriszing Ore ee from the refpeQable Houfes ofBarlow and Clarke and"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16096/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16096:0001/full/pct:6.25/0/default.jpg#h=485&w=326",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16096:0001/full/pct:12.5/0/default.jpg#h=970&w=652",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16096:0001/full/pct:25.0/0/default.jpg#h=1940&w=1304",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16096:0001/full/pct:50.0/0/default.jpg#h=3880&w=2609",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16096:0001/full/pct:100.0/0/default.jpg#h=7760&w=5218",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16096/0001.alto.xml&format=alto_xml"
+  ],
+  "index": 51,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "india",
+    "calcutta"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "sn88063570",
+    "sn88063571",
+    "0000000001",
+    "sn88063569",
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16096-0001-alto",
+  "partof": [
+    "asian division",
+    "general collections",
+    "world newspapers",
+    "catalog",
+    "south asian digital collection",
+    "serial and government publications division",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "world digital library"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16096/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16096/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "india",
+    "calcutta"
+  ],
+  "timestamp": "2025-12-12T07:20:08.640Z",
+  "title": "Image 1 of Volume 11, Number 563, Tuesday, October 29, 1805 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16096/?sp=1&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16096%2F0001.alto.xml&q=great+war&relevant_snippet=1"
+}

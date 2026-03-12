@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87060190/1891-09-21/ed-1/?sp=4"
+  ],
+  "batch": [
+    "kyu_hairspray_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/kentucky/",
+    "2/united states/kentucky/mason/",
+    "3/united states/kentucky/mason/maysville/"
+  ],
+  "contributor": [
+    "university of kentucky, lexington, ky"
+  ],
+  "date": "1891-09-21",
+  "dates": [
+    "1891-09-21"
+  ],
+  "description": [
+    "r WASHINGTON NEWS Diplomatic Controversy Great Britain With THE CHINESE EXCLUSION ACT The English Government Asks President Harrison to Pardon Clionn Sam a Chi naman Imprisoned in the Detroit Jail Other Despatches From the National Capital Washington Sept 21 A diplomatic controversy haa arisen between the United States and Great Britain about the proper construction of tho Chinese exclusion act as it affects Chinamen re siding in Canada and who enter tho United States The questions involved have been brought officially to the at tention of tho United States by Sir Julian Pauncefote who has requested the president to pardon Chong Sam a Chinaman now in jail at Port Huron Mich on the charge of being unlaw fully in the United States Chong Sam entered the United States from Canada Ho waa arrested and upon being tried before a United btates commissioner be was found guilty of being unlawfully in the United States and sentenced to de portation to China as the country whence he came On the request of the British minister Chong Sam wa3 not immediately de ported He claimed he was a British subject but was unable to produce his naturalization papers The British min ister now"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-07-21T10:39:02.414Z",
+  "group": [
+    "ndnp/kyu",
+    "university-of-kentucky-lexington-ky-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87060190/1891-09-21/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_hairspray_ver01:data:sn87060190:00211103863:1891092101:1305/full/pct:6.25/0/default.jpg#h=442&w=292",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_hairspray_ver01:data:sn87060190:00211103863:1891092101:1305/full/pct:12.5/0/default.jpg#h=885&w=584",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/kyu/batch_kyu_hairspray_ver01/data/sn87060190/00211103863/1891092101/1305.xml&format=alto_xml"
+  ],
+  "index": 76,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "mason county",
+    "maysville",
+    "united states",
+    "mason",
+    "kentucky"
+  ],
+  "location_city": [
+    "maysville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "mason"
+  ],
+  "location_state": [
+    "kentucky"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "1",
+    "2",
+    "6",
+    "sn87060190",
+    "0000000004",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87060190"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "1",
+    "1",
+    "0",
+    "3",
+    "8",
+    "6",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87060190-1891-09-21-ed-1-1305",
+  "partof": [
+    "the evening bulletin (maysville, ky.) 1887-1905",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the evening bulletin (maysville, ky.) 1887-1905"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87060190/1891-09-21/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87060190/1891-09-21/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "mason county",
+    "maysville",
+    "united states",
+    "newspapers",
+    "mason",
+    "kentucky",
+    "maysville (ky.)",
+    "mason county (ky.)"
+  ],
+  "timestamp": "2025-07-22T02:26:26.216Z",
+  "title": "Image 4 of The evening bulletin (Maysville, Ky.), September 21, 1891",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87060190/1891-09-21/ed-1/?sp=4&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fkyu%2Fbatch_kyu_hairspray_ver01%2Fdata%2Fsn87060190%2F00211103863%2F1891092101%2F1305.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

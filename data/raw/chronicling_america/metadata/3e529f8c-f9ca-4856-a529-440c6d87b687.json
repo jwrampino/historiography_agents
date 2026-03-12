@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87065526/1963-06-19/ed-1/?sp=6"
+  ],
+  "batch": [
+    "msar_obsidian_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/mississippi/",
+    "2/united states/mississippi/jackson/",
+    "3/united states/mississippi/jackson/pascagoula/",
+    "3/united states/mississippi/jackson/moss point/"
+  ],
+  "contributor": [
+    "mississippi department of archives and history"
+  ],
+  "date": "1963-06-19",
+  "dates": [
+    "1963-06-19"
+  ],
+  "description": [
+    "We are for these things whatever helps most of vs even at the expense of some of vs 11 i SxUtutU WE SEE IT THIS WAY We are against these things whatever helps some of vs at the expense of most of us Wounds deep at Ole Miss Even if she is left to recuperate In tranquility Ole Miss will need at least a generation to recover from the allbutfatal wounds in flicted upon her last fall by our governor and his advisors Probing the wounds we find that applications by Mississippi boys and girls seeking admission next fall are far below normal applications for admission by out ofstate students are almost non existent and 39 faculty members of the professorial ranks have re signed since J anuarary 1 According to Dr James W Silver chairman of the Ole Miss history department and one of the few longtime proponents of sch olarship at the university the fol fliiimmiiiiiimmmimiimmimiimmiiiimm lowing departments have suffered thus in resignations The university provost law school the dean assistant dean one professor two associate pro fessors one assistant professor psychology one professor the di rector of institutional research pharmacy one associate professor philosophy the department chair"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:45:25.847Z",
+  "group": [
+    "ndnp/msar",
+    "mississippi-department-of-archives-and-history"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87065526/1963-06-19/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_obsidian_ver01:data:sn87065526:00383345352:1963061901:0257/full/pct:3.125/0/default.jpg#h=301&w=202",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_obsidian_ver01:data:sn87065526:00383345352:1963061901:0257/full/pct:6.25/0/default.jpg#h=602&w=405",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/msar/batch_msar_obsidian_ver01/data/sn87065526/00383345352/1963061901/0257.xml&format=alto_xml"
+  ],
+  "index": 36,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "mississippi",
+    "moss point",
+    "jackson",
+    "pascagoula"
+  ],
+  "location_city": [
+    "pascagoula",
+    "moss point"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "jackson"
+  ],
+  "location_state": [
+    "mississippi"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn87065526",
+    "3",
+    "4",
+    "0000000006",
+    "5",
+    "2",
+    "1",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87065526"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "8",
+    "3",
+    "3",
+    "4",
+    "5",
+    "3",
+    "5",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Pascagoula chronicle-star and Moss Point advertiser"
+  ],
+  "page_id": "sn87065526-1963-06-19-ed-1-0257",
+  "partof": [
+    "chronicling america",
+    "the chronicle (pascagoula, miss.) 1961-1966",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the chronicle (pascagoula, miss.) 1961-1966"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87065526/1963-06-19/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87065526/1963-06-19/ed-1/"
+  ],
+  "shelf_id": "06",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "mississippi",
+    "moss point",
+    "jackson",
+    "pascagoula"
+  ],
+  "timestamp": "2023-07-06T08:07:21.502Z",
+  "title": "Image 6 of The Chronicle (Pascagoula, Miss.), June 19, 1963",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87065526/1963-06-19/ed-1/?sp=6&q=vietnam",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmsar%2Fbatch_msar_obsidian_ver01%2Fdata%2Fsn87065526%2F00383345352%2F1963061901%2F0257.xml&q=vietnam&relevant_snippet=1"
+}

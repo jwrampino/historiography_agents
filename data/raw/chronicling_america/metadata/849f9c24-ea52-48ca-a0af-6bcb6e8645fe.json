@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn89060060/1849-12-19/ed-1/?sp=1"
+  ],
+  "batch": [
+    "mdu_elsberg_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/maryland/",
+    "2/united states/maryland/charles/",
+    "3/united states/maryland/charles/port tobacco/"
+  ],
+  "contributor": [
+    "university of maryland, college park, md"
+  ],
+  "date": "1849-12-19",
+  "dates": [
+    "1849-12-19"
+  ],
+  "description": [
+    "VOL VI published by request SPEECH OF THOMAS F BOWIE Esq Delivered in the House of Delegates of Maryland February 271 h 1846 ON THE REFORM BILL Conclusion Mr Bowie said he had confined his re marks to the consideration of the constitu tional argument as presented by the gen tleman from Baltimore city lie had shewn that conventional reform was not a consti tutional legal t ight us the constitution now stands and that to make it so the constitu tion must be amended in such manner as to authorise the general assembly to provide for the call of a convention of the people He would now proceed to consider the doctrine of inherent unalienable rights which had been so often adverted to by some gentlemen in the course of the debate It had been said that if the constitutional right did not exist the revolutionary right did and upon that revolutionary right the friends of reform might fall back But this did not follow as a necessary consequence Unalienable lights weie very different from constitutional rights The evolutionary right could only exist w hen the government had become subversive of its original ends and public liberty had been"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-03-01T18:24:46.281Z",
+  "group": [
+    "ndnp/mdu",
+    "university-of-maryland-college-park-college-park-md-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn89060060/1849-12-19/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624256:1849121901:0019/full/pct:3.125/0/default.jpg#h=304&w=226",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624256:1849121901:0019/full/pct:6.25/0/default.jpg#h=608&w=452",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mdu/batch_mdu_elsberg_ver02/data/sn89060060/00415624256/1849121901/0019.xml&format=alto_xml"
+  ],
+  "index": 106,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "maryland",
+    "charles",
+    "port tobacco",
+    "united states",
+    "charles county"
+  ],
+  "location_city": [
+    "port tobacco"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "charles"
+  ],
+  "location_state": [
+    "maryland"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn89060060",
+    "0",
+    "2",
+    "1",
+    "0000000001",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn89060060"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "2",
+    "4",
+    "2",
+    "5",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Port Tobacco times"
+  ],
+  "page_id": "sn89060060-1849-12-19-ed-1-0019",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "port tobacco times, and charles county advertiser (port tobacco, md.) 1845-1898"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "port tobacco times, and charles county advertiser (port tobacco, md.) 1845-1898"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn89060060/1849-12-19/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn89060060/1849-12-19/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "charles county (md.)",
+    "maryland",
+    "charles",
+    "port tobacco",
+    "united states",
+    "port tobacco (md.)",
+    "charles county"
+  ],
+  "timestamp": "2023-03-07T10:03:04.797Z",
+  "title": "Image 1 of Port Tobacco times, and Charles County advertiser (Port Tobacco, Md.), December 19, 1849",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn89060060/1849-12-19/ed-1/?sp=1&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmdu%2Fbatch_mdu_elsberg_ver02%2Fdata%2Fsn89060060%2F00415624256%2F1849121901%2F0019.xml&q=revolution&relevant_snippet=1"
+}

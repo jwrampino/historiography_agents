@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85053045/1954-09-10/ed-1/?sp=5"
+  ],
+  "batch": [
+    "mthi_anaconda_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/glacier/",
+    "3/united states/montana/glacier/browning/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1954-09-10",
+  "dates": [
+    "1954-09-10"
+  ],
+  "description": [
+    "BACKDROP ASIA United States Policy in Indochina Dates Back to Vandenburg Resolution By Walter Shead Washington Correspondent National Weekly Newspaper Service This Is the seeond In a series of soar articles relative to the Indochina war where a trace has recently been signed United States policy In Indochina dates back to 1948 Basically it is set out in the resolution of June of that year sponsored by the late Senator Arthur Vandenburg It pledges our assistance to guarantee that weaker nations may develop in freedom but these conditions are under a system of collective secu rity or of collective defense In other words the United States Is willing to enter into an agree ment with the states of Indochina and with other nations in the far east or with our allies Britain and France to guarantee the freedom of these weaker nations It was under the terms of the Vandenburg resolution that our present Secretary of State John Foster Dulles In 1951 went to the Far East representing our then Secretary of State Dean Acheson in an attempt to set up such a system or pact in the area He was partly successful only He succeeded in forming separate pacts"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:49:32.529Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85053045/1954-09-10/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_anaconda_ver01:data:sn85053045:00517178159:1954091001:0170/full/pct:6.25/0/default.jpg#h=381&w=285",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_anaconda_ver01:data:sn85053045:00517178159:1954091001:0170/full/pct:12.5/0/default.jpg#h=763&w=570",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_anaconda_ver01/data/sn85053045/00517178159/1954091001/0170.xml&format=alto_xml"
+  ],
+  "index": 195,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "browning",
+    "glacier",
+    "montana"
+  ],
+  "location_city": [
+    "browning"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "glacier"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn85053045",
+    "9",
+    "8",
+    "5",
+    "1",
+    "7",
+    "0000000005"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85053045"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "8",
+    "1",
+    "5",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85053045-1954-09-10-ed-1-0170",
+  "partof": [
+    "chronicling america",
+    "the glacier reporter (browning, mont.) 1953-current",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the glacier reporter (browning, mont.) 1953-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85053045/1954-09-10/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85053045/1954-09-10/ed-1/"
+  ],
+  "shelf_id": "5",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "browning",
+    "glacier",
+    "indians of north america",
+    "united states",
+    "newspapers",
+    "montana"
+  ],
+  "subject_ethnicity": [
+    "indians of north america"
+  ],
+  "timestamp": "2023-07-05T14:34:00.391Z",
+  "title": "Image 5 of The Glacier reporter (Browning, Mont.), September 10, 1954",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85053045/1954-09-10/ed-1/?sp=5&q=vietnam",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_anaconda_ver01%2Fdata%2Fsn85053045%2F00517178159%2F1954091001%2F0170.xml&q=vietnam&relevant_snippet=1"
+}

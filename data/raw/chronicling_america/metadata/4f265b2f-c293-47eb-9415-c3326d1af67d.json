@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86076200/1898-07-30/ed-1/?sp=4"
+  ],
+  "batch": [
+    "nvln_quartz_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nevada/",
+    "2/united states/nevada/eureka/",
+    "3/united states/nevada/eureka/eureka/"
+  ],
+  "contributor": [
+    "university of nevada las vegas university libraries"
+  ],
+  "date": "1898-07-30",
+  "dates": [
+    "1898-07-30"
+  ],
+  "description": [
+    "A riHOC TOAHT Some yeere ego when the New Cen tury Club wae celebrating by a lunoheon one of the early aonivegeariee of ite char tered exietenoe a toaet wae given a fa miliar one but with eligbt alteretione Mre Edward Wetberill replied to it in a neat and witty epeech which excited admiration aod merriment at the time and which hae einoe become famoue Ite fame ie not allowed to die for every now and again inquiriee are made ae to wbet the toaet wae and how It wae anewered The Philadelphia Ledger ie glad there fore to offer to ite readera the bona fide toaet and reeponee The menthe lovely menGod bleee em They doable our oeree they divide oar joye How generoaely and unetint ingly they give neadvice How bold ly they etand in eolid phalanx to ehield ue from the rude erowde around the bal lot box How gladly they protect ue from the contaminating influence of the courtroom 1 How tenderly they have drawn ue from the evila of equal educa tion aod have carefully pointed out to ne the pitfalle in the petha which lead to fortunee At what coat at what aacrifioe they"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-06-30T14:56:31.596Z",
+  "group": [
+    "ndnp/nvln",
+    "university-of-nevada-las-vegas-university-libraries-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86076200/1898-07-30/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_quartz_ver01:data:sn86076200:00279554097:1898073001:0534/full/pct:6.25/0/default.jpg#h=405&w=262",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_quartz_ver01:data:sn86076200:00279554097:1898073001:0534/full/pct:12.5/0/default.jpg#h=810&w=525",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nvln/batch_nvln_quartz_ver01/data/sn86076200/00279554097/1898073001/0534.xml&format=alto_xml"
+  ],
+  "index": 146,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "eureka",
+    "nevada"
+  ],
+  "location_city": [
+    "eureka"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "eureka"
+  ],
+  "location_state": [
+    "nevada"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn86076200",
+    "1",
+    "9",
+    "5",
+    "7",
+    "0000000004",
+    "4",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86076200"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "5",
+    "4",
+    "0",
+    "9",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86076200-1898-07-30-ed-1-0534",
+  "partof": [
+    "serial and government publications division",
+    "eureka weekly sentinel (eureka, nev.) 1887-1902",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "eureka weekly sentinel (eureka, nev.) 1887-1902"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86076200/1898-07-30/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86076200/1898-07-30/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "nevada",
+    "newspapers",
+    "eureka",
+    "eureka (nev.)"
+  ],
+  "timestamp": "2023-07-01T04:55:16.748Z",
+  "title": "Image 4 of Eureka weekly sentinel (Eureka, Nev.), July 30, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86076200/1898-07-30/ed-1/?sp=4&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnvln%2Fbatch_nvln_quartz_ver01%2Fdata%2Fsn86076200%2F00279554097%2F1898073001%2F0534.xml&q=spanish&relevant_snippet=1"
+}

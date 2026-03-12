@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn99068086/1898-05-26/ed-1/?sp=3"
+  ],
+  "batch": [
+    "sdhi_honeydew_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/south dakota/",
+    "2/united states/south dakota/buffalo/",
+    "3/united states/south dakota/buffalo/gann valley/"
+  ],
+  "contributor": [
+    "south dakota state historical society \u2013 state archives"
+  ],
+  "date": "1898-05-26",
+  "dates": [
+    "1898-05-26"
+  ],
+  "description": [
+    "OREGON SAFE AT LAST S cretary long makes the WELCOME ANNOUNCEMENT Battleship Left San Francisco About Seven Weeks Ago and Has Traveled Over 13OiO MilesSpanish Fleet to Go to tlieJfjifTppines Dons Didnt Get Her Washington special Secretary Long gave out the welcome information Wednesday that the battle ship Oregon the second largest craft in the American navy had successfully com pleted her long trip from SanFrancisco making the entire circuit of South Ameri ca and tgas safe The rigid secrecy of the navy department was relaxed only enough to make known the best news the navy department had received since the battle of Manilla as it meant not only the Oregon was out of harms way from a concerted attack on this one ship by the whole Spanish squadron in southern waters but also that her great fighting strength would be added to Admiral Sampsons force The Oregon left San Francisco before the war had opened and at that time it was not admitted that she was to join the ships in Atlantic waters She stopped at Callao for dispatches and then went round the Horn and up the east coast of South America In all the trip cov ered"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-06-25T23:48:18.557Z",
+  "group": [
+    "ndnp/sdhi",
+    "south-dakota-state-historical-society-state-archives-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn99068086/1898-05-26/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_honeydew_ver01:data:sn99068086:0033289996A:1898052601:0591/full/pct:6.25/0/default.jpg#h=489&w=333",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_honeydew_ver01:data:sn99068086:0033289996A:1898052601:0591/full/pct:12.5/0/default.jpg#h=979&w=666",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/sdhi/batch_sdhi_honeydew_ver01/data/sn99068086/0033289996A/1898052601/0591.xml&format=alto_xml"
+  ],
+  "index": 99,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "south dakota",
+    "buffalo",
+    "gann valley",
+    "buffalo county",
+    "united states"
+  ],
+  "location_city": [
+    "gann valley"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "buffalo"
+  ],
+  "location_state": [
+    "south dakota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "8",
+    "0",
+    "2",
+    "0000000003",
+    "9",
+    "a",
+    "3",
+    "sn99068086",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn99068086"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "9",
+    "9",
+    "6",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Gann Valley chief"
+  ],
+  "page_id": "sn99068086-1898-05-26-ed-1-0591",
+  "partof": [
+    "the dakota chief (gann valley, buffalo county, s.d.) 18??-1913",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the dakota chief (gann valley, buffalo county, s.d.) 18??-1913"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn99068086/1898-05-26/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn99068086/1898-05-26/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "south dakota",
+    "buffalo",
+    "gann valley",
+    "buffalo county (s.d.)",
+    "buffalo county",
+    "gann valley (s.d.)",
+    "united states"
+  ],
+  "timestamp": "2023-06-26T09:51:28.803Z",
+  "title": "Image 3 of The Dakota chief (Gann Valley, Buffalo County, S.D.), May 26, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn99068086/1898-05-26/ed-1/?sp=3&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fsdhi%2Fbatch_sdhi_honeydew_ver01%2Fdata%2Fsn99068086%2F0033289996A%2F1898052601%2F0591.xml&q=spanish&relevant_snippet=1"
+}

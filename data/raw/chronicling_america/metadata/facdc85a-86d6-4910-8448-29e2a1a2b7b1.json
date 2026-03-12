@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn78003992/1947-08-01/ed-1/?sp=2"
+  ],
+  "batch": [
+    "ohi_alastor_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/summit/",
+    "3/united states/ohio/summit/akron/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1947-08-01",
+  "dates": [
+    "1947-08-01"
+  ],
+  "description": [
+    "SUMMIT COUNTY LABOR NEWS i Published Every Friday by I1 I THE SUMMITCOUNTY LABOR NEWS A NonPartisan Newspaperpublished in thebesf interests of Organized Labor and the entire Community Editorial Advertising and PrintingOffices 920 SOUTH HIGH STREET TelephoneFRS155 _ AKRON OHIO _ Y ALEX EIGENMACHTEditor and Publisher Entered as Second Class Matter May 4 1923 at Post Office at Akron Ohio under the Act of March 3 1897 Yearly Subscription in Advance _____300 The Summit County Labor New accept advertisement from firms not on tho unfair list of the Central Bodies It must he understood however that the editorial policy of this publication is affectdd1h no way by such advertise v ments 1 if V i_1_ News of interest from the various local unions under the jurisdiction of the Congress of Industrial Organizations Akron Industrial Union Council and the American Federation of Labor and the Trades and Labor Assembly is solicited All news matfer should reach the editorial office of the Summit County Libor News not later than Tuesday e Theres a Battle Ahead It might make us feel better if we used a lot of harsh words to damn the Republicancontrolled Congress that wound up its ses sion and went"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-03-24T16:08:57.836Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn78003992/1947-08-01/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_alastor_ver02:data:sn78003992:00340580928:1947080101:0713/full/pct:6.25/0/default.jpg#h=425&w=335",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_alastor_ver02:data:sn78003992:00340580928:1947080101:0713/full/pct:12.5/0/default.jpg#h=851&w=670",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_alastor_ver02/data/sn78003992/00340580928/1947080101/0713.xml&format=alto_xml"
+  ],
+  "index": 64,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ohio",
+    "united states",
+    "summit county",
+    "summit",
+    "akron"
+  ],
+  "location_city": [
+    "akron"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "summit"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "8",
+    "5",
+    "9",
+    "sn78003992",
+    "4",
+    "3",
+    "2",
+    "0000000002",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn78003992"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "0",
+    "9",
+    "2",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn78003992-1947-08-01-ed-1-0713",
+  "partof": [
+    "serial and government publications division",
+    "summit county labor news (akron, ohio) 1923-1976",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "summit county labor news (akron, ohio) 1923-1976"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn78003992/1947-08-01/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn78003992/1947-08-01/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "ohio",
+    "akron (ohio)",
+    "summit county",
+    "united states",
+    "labor unions",
+    "summit",
+    "summit county (ohio)",
+    "newspapers",
+    "akron"
+  ],
+  "timestamp": "2025-03-24T16:44:47.518Z",
+  "title": "Image 2 of Summit County labor news (Akron, Ohio), August 1, 1947",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn78003992/1947-08-01/ed-1/?sp=2&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_alastor_ver02%2Fdata%2Fsn78003992%2F00340580928%2F1947080101%2F0713.xml&q=fascism&relevant_snippet=1"
+}

@@ -1,0 +1,131 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16122/?sp=1"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1819-05-19",
+  "dates": [
+    "1819-05-19"
+  ],
+  "description": [
+    "THE HURKARY A DAILY JOURNAL pususnep sy S GREENWAY anp CO ar THE HURKARU PRESS EVERY MORNING AT SIX OCLOK SUNDAYS EXCEPTED PRICE TO UNSCRIBERS FIVE RUPEES PER MONTH NO 1281 WEDNESDAY MAY 19 1819 CT RE BLES A VOL XX1X GENERAL POST OFFICE THel7tH May 1819 BM OTICE is hereby given that ship Letter Mails are open for LETTERS to proceed to Great Then veteran chieftains gather to debate Britain by the ship Hadlow for London direct What untried schemes can stop the march of fate HAMILTON AND CO AVE received by the Ecrrip a verv jarge and ele gant assortment of PLATE consisting of services Twas thus some months ago on Saugors coast of the latest and most fashionable patterns expressly where maddening tigers feared their game was lost manufactured for them and under their own imspection May 16 1819 Avail but little gainst impending ill When bursting tempests all their rage display And rush as if they d sweep whole worids away What arms in wisdoms workshop they can formf To wield with cunning force and brave the story Ue savage foe had entered their domains Assailed their thickets and laid waste their plains ANTS A SITUATION"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16122/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16122:0001/full/pct:6.25/0/default.jpg#h=369&w=281",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16122:0001/full/pct:12.5/0/default.jpg#h=738&w=562",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16122:0001/full/pct:25.0/0/default.jpg#h=1476&w=1125",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16122:0001/full/pct:50.0/0/default.jpg#h=2952&w=2250",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16122:0001/full/pct:100.0/0/default.jpg#h=5904&w=4501",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16122/0001.alto.xml&format=alto_xml"
+  ],
+  "index": 94,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "india",
+    "calcutta"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "sn88063570",
+    "sn88063571",
+    "0000000001",
+    "sn88063569",
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16122-0001-alto",
+  "partof": [
+    "asian division",
+    "general collections",
+    "world newspapers",
+    "catalog",
+    "south asian digital collection",
+    "serial and government publications division",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "world digital library"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16122/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16122/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "india",
+    "calcutta"
+  ],
+  "timestamp": "2025-12-12T07:20:29.097Z",
+  "title": "Image 1 of Volume 29, Number 1281, Wednesday, May 19, 1819 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16122/?sp=1&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16122%2F0001.alto.xml&q=great+war&relevant_snippet=1"
+}

@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83025588/1836-12-08/ed-1/?sp=1"
+  ],
+  "batch": [
+    "nhd_avalon_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new hampshire/",
+    "2/united states/new hampshire/rockingham/",
+    "3/united states/new hampshire/rockingham/portsmouth/"
+  ],
+  "contributor": [
+    "dartmouth college"
+  ],
+  "date": "1836-12-08",
+  "dates": [
+    "1836-12-08"
+  ],
+  "description": [
+    "R r So N Al S CAZETTE B XTRA PORTSMOUTH THURSDAY MORN DEC 8 1836 CONGRESS Wasniveron Turspay Dec 6 PRESIDENTS MESSAGE Fellow Citizens of the Senate and House ot Representatives Addressing to you the last annual message 1 shall ev\u00e9 present to the Congress of the United States it is a source of the most heart felt satisfaction to be able to congratulate you on the high stute of prosperity which our be loved country has attained with nojcauses at home or abroad to lesson the confidence wyih which we look to the future for continuiss proofs of the capavity of rur free institutious to produes all the fruits of good government the general eondition of our affairs may well excite our national pride I cannot avoid eongratulating you and my country particularly on the success of the efforts made during my administration by the Executive and Legislature in conformity with the sincere constant and earnest desire of the people to maintain peace and to establish cordial relations with all foreign powers Our ratitude is due to the Supreme Ruler of the EVniverse and I invite you to unite with me in offering to Him forvent supplications that his"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-25T16:28:46.930Z",
+  "group": [
+    "ndnp/nhd",
+    "new-hampshire-dartmouth-college"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83025588/1836-12-08/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836120801:0399/full/pct:3.125/0/default.jpg#h=301&w=202",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836120801:0399/full/pct:6.25/0/default.jpg#h=602&w=404",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nhd/batch_nhd_avalon_ver02/data/sn83025588/00517015180/1836120801/0399.xml&format=alto_xml"
+  ],
+  "index": 33,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "rockingham",
+    "united states",
+    "portsmouth",
+    "rockingham county",
+    "new hampshire"
+  ],
+  "location_city": [
+    "portsmouth"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "rockingham"
+  ],
+  "location_state": [
+    "new hampshire"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "5",
+    "1",
+    "7",
+    "sn83025588",
+    "0000000001",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83025588"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "0",
+    "1",
+    "5",
+    "1",
+    "8",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83025588-1836-12-08-ed-1-0399",
+  "partof": [
+    "chronicling america",
+    "the new hampshire gazette (portsmouth [n.h.]) 1793-1847",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the new hampshire gazette (portsmouth [n.h.]) 1793-1847"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83025588/1836-12-08/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83025588/1836-12-08/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "rockingham",
+    "united states",
+    "newspapers",
+    "portsmouth",
+    "portsmouth (n.h.)",
+    "rockingham county",
+    "new hampshire",
+    "rockingham county (n.h.)"
+  ],
+  "timestamp": "2023-09-25T16:59:30.056Z",
+  "title": "Image 1 of The New Hampshire gazette (Portsmouth [N.H.]), December 8, 1836",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83025588/1836-12-08/ed-1/?sp=1&q=great+depressiom",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnhd%2Fbatch_nhd_avalon_ver02%2Fdata%2Fsn83025588%2F00517015180%2F1836120801%2F0399.xml&q=great+depressiom&relevant_snippet=1"
+}

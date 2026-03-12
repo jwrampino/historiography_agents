@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045293/1918-07-12/ed-1/?sp=6"
+  ],
+  "batch": [
+    "whi_dubliner_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/wisconsin/",
+    "2/united states/wisconsin/milwaukee/",
+    "3/united states/wisconsin/milwaukee/milwaukee/"
+  ],
+  "contributor": [
+    "wisconsin historical society"
+  ],
+  "date": "1918-07-12",
+  "dates": [
+    "1918-07-12"
+  ],
+  "description": [
+    "THE MILWAUKEE LEADER venln except Sunday by the Milwaukee SoclalDemo wauc Publishing Company at Chestnut and Sixth Streets VICTOR L BERGER Editor SUBSCRIPTION RATESThe mall editions of The Milwaukee Leader sent to any subscriber in the United States under 3rd class postage ror o cents per month 190 for three months 380 for six months 60 or one year T b Home Edition will be delivered In Milwaukee for 10c a week or 400 month The Final and Sports Editions 3c a copy or 10c a week FOREIGN ADVERTISING REPRESENTATIVE ne N M SHEFFIELD Special Agency New York Tribune Bldg Chicago 1701 Heyworth Building Office Hours 8 a m to 8 p m TEL GRAND 5060 DEMOCRATIC DEMOCRACY The democracy of the Democratic party as exemplified by its state convention is as usual conspicuous by its absence The convention adopted a set of bombastic and hypocritical reso lutionsand then voted down a proposal to indorse womans suffrage The resolutions pretend to breathe the most consecrated devotion to high ideals But there is a great aching voida missing linkbetween words and acts And this applies not merely to the Democratic party of Wis consin but also to the Democratic party of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-04-06T23:51:52.821Z",
+  "group": [
+    "ndnp/whi",
+    "wisconsin-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045293/1918-07-12/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dubliner_ver02:data:sn83045293:00517012932:1918071201:0356/full/pct:3.125/0/default.jpg#h=307&w=220",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dubliner_ver02:data:sn83045293:00517012932:1918071201:0356/full/pct:6.25/0/default.jpg#h=615&w=441",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/whi/batch_whi_dubliner_ver02/data/sn83045293/00517012932/1918071201/0356.xml&format=alto_xml"
+  ],
+  "index": 54,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "wisconsin",
+    "milwaukee"
+  ],
+  "location_city": [
+    "milwaukee"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "milwaukee"
+  ],
+  "location_state": [
+    "wisconsin"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "3",
+    "5",
+    "0000000006",
+    "1",
+    "2",
+    "7",
+    "sn83045293"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045293"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "0",
+    "1",
+    "2",
+    "9",
+    "3",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83045293-1918-07-12-ed-1-0356",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the milwaukee leader (milwaukee, wis.) 1911-1938"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the milwaukee leader (milwaukee, wis.) 1911-1938"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045293/1918-07-12/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045293/1918-07-12/ed-1/"
+  ],
+  "shelf_id": "06",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "milwaukee (wis.)",
+    "milwaukee",
+    "socialism",
+    "wisconsin"
+  ],
+  "timestamp": "2024-04-07T00:10:21.683Z",
+  "title": "Image 6 of The Milwaukee leader (Milwaukee, Wis.), July 12, 1918",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045293/1918-07-12/ed-1/?sp=6&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwhi%2Fbatch_whi_dubliner_ver02%2Fdata%2Fsn83045293%2F00517012932%2F1918071201%2F0356.xml&q=terrorism&relevant_snippet=1"
+}

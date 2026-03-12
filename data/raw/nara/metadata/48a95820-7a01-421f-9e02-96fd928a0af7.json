@@ -1,0 +1,98 @@
+{
+  "dataControlGroup": {
+    "groupName": "George Bush Library",
+    "groupId": "PL-GB",
+    "groupCd": "PL-GB"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "digitalObjects": [
+    {
+      "objectFilename": "41-dhm-frieden-inter-contry-52042-006_402238510.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-lfc/international_records_68884682/countries/41-dhm-frieden-inter-contry-52042-006_402238510.pdf",
+      "objectFileSize": 107863360,
+      "objectId": "463911008",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "GB-LFC",
+      "inclusiveStartDate": {
+        "year": 1958,
+        "logicalDate": "1958-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "year": 2013,
+        "logicalDate": "2013-12-31"
+      },
+      "title": "Lex Frieden Collection: Records on Disability Rights",
+      "naId": 68865791
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1972,
+        "logicalDate": "1972-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "Frieden, Lex, 1949-",
+          "authorityType": "person",
+          "birthDate": {
+            "year": 1949,
+            "logicalDate": "1949-01-01"
+          },
+          "naId": 75646593
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 2004,
+        "logicalDate": "2004-12-31"
+      },
+      "title": "International Records",
+      "naId": 68884682
+    }
+  ],
+  "title": "Rehabilitation International World Congress '80 [Canada] [1979-1980]",
+  "naId": 402238510,
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "College Station",
+          "phone": "979-691-4000",
+          "address1": "1000 George Bush Drive West",
+          "postalCode": "77845",
+          "name": "George Bush Library",
+          "state": "TX",
+          "fax": "979-691-4050",
+          "email": "bush.library@nara.gov",
+          "mailCode": "PL-GB"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  }
+}

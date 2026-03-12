@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88071001/1954-05-24/ed-1/?sp=3"
+  ],
+  "batch": [
+    "gu_kraken_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/georgia/",
+    "2/united states/georgia/richmond/",
+    "3/united states/georgia/richmond/augusta/"
+  ],
+  "contributor": [
+    "digital library of georgia, a project of galileo located at the university of georgia libraries"
+  ],
+  "date": "1954-05-24",
+  "dates": [
+    "1954-05-24"
+  ],
+  "description": [
+    "Adequate Educational System Seen As Good Business Annual Convention Georgia Congress Parents And Teachers Hears Roy Harris Roy V Harris in a speech to the State Convention of the Georgia Congress of Parents and Teachers declared that an ad equate systemof education is good busi ness for Georgia The convention was held in Brunswick and in his statement Harris explained how the committee of fourteen arrived at the cost of an adequate system of education and why it is so necessary for Georgia today In part Harris said The committee of fourteen undertook to make what we called an educated guess as to what it will take to finance the Min imum Foundation Program for each of the next ten years and what it would take to finance an adequate system of education in Georgia for each of the next ten years We have found in the past that when the legislature meets and makes appropri ations for two years at a time they have no idea what they may expect in the way of school appropriations for the following years and therefore we have practically had no planning for the future in our school system It was an effort"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-06-29T05:11:35.789Z",
+  "group": [
+    "ndnp/gu",
+    "digital-library-of-georgia-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88071001/1954-05-24/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_kraken_ver01:data:sn88071001:00529044690:1954052401:0187/full/pct:3.125/0/default.jpg#h=303&w=216",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_kraken_ver01:data:sn88071001:00529044690:1954052401:0187/full/pct:6.25/0/default.jpg#h=607&w=433",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/gu/batch_gu_kraken_ver01/data/sn88071001/00529044690/1954052401/0187.xml&format=alto_xml"
+  ],
+  "index": 182,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "richmond",
+    "augusta",
+    "georgia",
+    "united states"
+  ],
+  "location_city": [
+    "augusta"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "richmond"
+  ],
+  "location_state": [
+    "georgia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn88071001",
+    "2",
+    "0",
+    "0000000003",
+    "9",
+    "1",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88071001"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "2",
+    "9",
+    "0",
+    "4",
+    "4",
+    "6",
+    "9",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88071001-1954-05-24-ed-1-0187",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the augusta courier (augusta, ga.) 1946-1974"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the augusta courier (augusta, ga.) 1946-1974"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88071001/1954-05-24/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88071001/1954-05-24/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "since 1945",
+    "augusta",
+    "richmond",
+    "politics and government",
+    "conservatism",
+    "united states",
+    "augusta (ga.)",
+    "georgia"
+  ],
+  "timestamp": "2025-06-29T05:42:12.537Z",
+  "title": "Image 3 of The Augusta courier (Augusta, Ga.), May 24, 1954",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88071001/1954-05-24/ed-1/?sp=3&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fgu%2Fbatch_gu_kraken_ver01%2Fdata%2Fsn88071001%2F00529044690%2F1954052401%2F0187.xml&q=fascism&relevant_snippet=1"
+}

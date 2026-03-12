@@ -1,0 +1,154 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86075189/1947-05-09/ed-1/?sp=5"
+  ],
+  "batch": [
+    "mthi_douglasfir_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/lewis and clark/",
+    "3/united states/montana/lewis and clark/helena/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1947-05-09",
+  "dates": [
+    "1947-05-09"
+  ],
+  "description": [
+    "MVA SUPPORTERS WELL PLEASED WITH WAY THINGS ARE GOING SAYS CHICAGO SUN Supporters of the gigantic Missouri Valley Authority water and power de velopment project are privately well pleased with the way things are going They are under no illusions They realize that it probably will be several years at best before they can win con gressional approval and actually get work started on the project which con templates an even bigger eventual de velopment than the Tennessee Valley Authority Their campaign for the moment is not directed at congress but at gaining grass roots support for the project in the area concerned It also is bound up intricately in the reelection cam paign plans of Senator Murray pro gressive Democrat from Montana Murray the main leader in the fight for MVA touched off the fight this session with a major speech and bill some time ago Although few senators listened to it thousands of copies of the speech were mailed out to the I Oth Annual CIO Continued from Page One A similar resolution on the National Political Action Committee was ap proved By resolution each Montana CIO local was requested to affiliate with the State Legislative Coordinating Conference"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:45:49.536Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86075189/1947-05-09/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_douglasfir_ver01:data:sn86075189:00414211021:1947050901:0078/full/pct:6.25/0/default.jpg#h=418&w=290",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_douglasfir_ver01:data:sn86075189:00414211021:1947050901:0078/full/pct:12.5/0/default.jpg#h=836&w=581",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_douglasfir_ver01/data/sn86075189/00414211021/1947050901/0078.xml&format=alto_xml"
+  ],
+  "index": 121,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "helena",
+    "montana",
+    "lewis and clark",
+    "united states"
+  ],
+  "location_city": [
+    "helena"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lewis and clark"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn86075189",
+    "0",
+    "4",
+    "2",
+    "1",
+    "0000000005"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86075189"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "2",
+    "1",
+    "1",
+    "0",
+    "2",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86075189-1947-05-09-ed-1-0078",
+  "partof": [
+    "chronicling america",
+    "the people's voice (helena, mont.) 1939-1969",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the people's voice (helena, mont.) 1939-1969"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86075189/1947-05-09/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86075189/1947-05-09/ed-1/"
+  ],
+  "shelf_id": "5",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "history",
+    "helena",
+    "montana",
+    "helena (mont.)",
+    "lewis and clark"
+  ],
+  "timestamp": "2023-07-05T20:52:52.677Z",
+  "title": "Image 5 of The People's voice (Helena, Mont.), May 9, 1947",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86075189/1947-05-09/ed-1/?sp=5&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_douglasfir_ver01%2Fdata%2Fsn86075189%2F00414211021%2F1947050901%2F0078.xml&q=fascism&relevant_snippet=1"
+}

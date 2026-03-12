@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2018270202/1901-12-26/ed-1/?sp=4"
+  ],
+  "batch": [
+    "nbu_larkspur_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nebraska/",
+    "2/united states/nebraska/sioux/",
+    "3/united states/nebraska/sioux/harrison/"
+  ],
+  "contributor": [
+    "university of nebraska-lincoln libraries, lincoln, ne"
+  ],
+  "date": "1901-12-26",
+  "dates": [
+    "1901-12-26"
+  ],
+  "description": [
+    "Secretary Long Writoi that the 8cilej Cue if at An End AfPtOVES TBE COIRT S FINDINGS A Re haa ring te Wealed the Admiral Tktnfun the Matter ImIi The Ap peal of Attorney for Llkf wlne Kuled Oat WASHINGTON Dec 23 Secretary Long baa disposed finally of the Schley case bo far as the nayyilfc partment is concerned by acting upon the findings and conclusions of the court of Inquiry He approves the findings of facts And the opinion of the full court he approves the majority opinion where there Is a difference in the court he holds that the court could not hare entered in to the question of com mand at the battle of Santiago and finally be accepts the recommendation that no further proceedings shall be had The secretary also has declined the application of Admiral Sampsons counsel to enter upon an inquiry into the question of command and hos no tified Admiral Schleys counsel of that fact as a reason for declining to hear them on that point Secretary Longs approval of the majority report was as follows WASHINGTON Dec 21 1901 The department has read the testi mony in the case the arguments of counsel"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:43:24.381Z",
+  "group": [
+    "ndnp/nbu",
+    "university-of-nebraska-of-nebraska-lincoln-libraries-lincoln-ne-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2018270202/1901-12-26/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2018270202:00279527240:1901122601:0528/full/pct:6.25/0/default.jpg#h=427&w=288",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2018270202:00279527240:1901122601:0528/full/pct:12.5/0/default.jpg#h=855&w=576",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nbu/batch_nbu_larkspur_ver01/data/2018270202/00279527240/1901122601/0528.xml&format=alto_xml"
+  ],
+  "index": 137,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "harrison",
+    "sioux county",
+    "sioux",
+    "nebraska"
+  ],
+  "location_city": [
+    "harrison"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "sioux"
+  ],
+  "location_state": [
+    "nebraska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "9",
+    "5",
+    "2018270202",
+    "7",
+    "0000000004",
+    "4",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2018270202"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "2",
+    "7",
+    "2",
+    "4",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2018270202-1901-12-26-ed-1-0528",
+  "partof": [
+    "harrison press-journal (harrison, nebraska) 1899-1905",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "harrison press-journal (harrison, nebraska) 1899-1905"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2018270202/1901-12-26/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2018270202/1901-12-26/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "harrison",
+    "sioux county",
+    "harrison (neb.)",
+    "newspapers",
+    "sioux county (neb.)",
+    "sioux",
+    "nebraska"
+  ],
+  "timestamp": "2025-12-15T10:56:02.304Z",
+  "title": "Image 4 of Harrison press-journal (Harrison, Nebraska), December 26, 1901",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2018270202/1901-12-26/ed-1/?sp=4&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnbu%2Fbatch_nbu_larkspur_ver01%2Fdata%2F2018270202%2F00279527240%2F1901122601%2F0528.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

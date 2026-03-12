@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045012/1927-09-02/ed-1/?sp=16"
+  ],
+  "batch": [
+    "ohi_buttercup_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/butler/",
+    "3/united states/ohio/butler/hamilton/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1927-09-02",
+  "dates": [
+    "1927-09-02"
+  ],
+  "description": [
+    "a NATION MUST iTOP BOOTLEG IMMIGRATION By WILLIAM J BOWEN President International Union of Bricklayers Masons and Plasterers Immigration problems are not new to the United States but having im posed drastic and necessary restric tions upon immigration direct from overseas we have had thrust upon us an immigration problem similar to that which has developed out of the Vostead acta bootlegging problem The matter of bootleg immigration is the more serious and difficult to deal with since it is a traffic in violation of law and therefore under cover Since the restrictions upon Euro pean immigration became effective nationals of certain European nations have in large numbers found ways to enter the United States over our northern and our southern borders in violation of law Our border author ities have seemed unable to prevent this unlawful influx which has been in such volume that the secretary of labor believes there are fully on mil lion illegal entrants now in this coun try By our laws we have seen to it that there shall not be legal entry for great numbers of immigrants brought or lured to our shores to enter into competition against our standards of work and wages"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:15:07.376Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045012/1927-09-02/ed-1/?sp=16",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_buttercup_ver01:data:sn83045012:00340580503:1927090201:0076/full/pct:3.125/0/default.jpg#h=307&w=225",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_buttercup_ver01:data:sn83045012:00340580503:1927090201:0076/full/pct:6.25/0/default.jpg#h=614&w=450",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_buttercup_ver01/data/sn83045012/00340580503/1927090201/0076.xml&format=alto_xml"
+  ],
+  "index": 34,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "hamilton",
+    "butler",
+    "ohio"
+  ],
+  "location_city": [
+    "hamilton"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "butler"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "8",
+    "3",
+    "5",
+    "4",
+    "0000000016",
+    "1",
+    "sn83045012"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045012"
+  ],
+  "number_page": [
+    "0000000016"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "0",
+    "5",
+    "0",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83045012-1927-09-02-ed-1-0076",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the butler county press (hamilton, ohio) 1900-1946"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the butler county press (hamilton, ohio) 1900-1946"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045012/1927-09-02/ed-1/?sp=16"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045012/1927-09-02/ed-1/"
+  ],
+  "shelf_id": "16",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "ohio",
+    "hamilton (ohio)",
+    "butler",
+    "hamilton",
+    "newspapers"
+  ],
+  "timestamp": "2023-09-05T03:35:51.629Z",
+  "title": "Image 16 of The Butler County press (Hamilton, Ohio), September 2, 1927",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045012/1927-09-02/ed-1/?sp=16&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_buttercup_ver01%2Fdata%2Fsn83045012%2F00340580503%2F1927090201%2F0076.xml&q=immigration&relevant_snippet=1"
+}

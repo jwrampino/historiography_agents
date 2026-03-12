@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88084115/1883-12-01/ed-1/?sp=1"
+  ],
+  "batch": [
+    "dlc_cheetah_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/pennsylvania/",
+    "2/united states/pennsylvania/cumberland/",
+    "3/united states/pennsylvania/cumberland/carlisle/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1883-12-01",
+  "dates": [
+    "1883-12-01"
+  ],
+  "description": [
+    "sz jlornjng Stdn GOD HELPS THOSE WHO HELP THEMSELVES VOL IV INDIAN INDUSTRIAL SCHOOL CARLISLE PA DECEMBER 1883 NO5 STRONG WORDS FOR THE INDIANS FROM COMMISSIONER PRICE Their Mistreatment Discussed Before the Indian 6t Rights Association Give this subject adequate legislation and appropriate sufficient money to begin a decent reform and I believe that in ten years time such meetings as this will be superfluous Hon Price commissioner of Indian aflairs said 1 in his address list night before the Indian Rights Association Hall Congress does not give the Indian question any substantial recognition continued the Commissioner If it should do so it would not take long for all the Indian population of the country to be found where some can today in schools at churches and on farms just as the white men may be seen in this great State of Pennsylvania Speaking from my experience of years with the Indian people I do not hesitate to declare that they can be civilized the means needed Legislation and money are worthless Inefficient men The present system is are placed in charge of Indian agencies and money is given in such meagre amounts that it might just as well not"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-09-14T05:37:17.412Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88084115/1883-12-01/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cheetah_ver02:data:sn88084115:00543171748:1883120101:0039/full/pct:6.25/0/default.jpg#h=369&w=260",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cheetah_ver02:data:sn88084115:00543171748:1883120101:0039/full/pct:12.5/0/default.jpg#h=739&w=520",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_cheetah_ver02/data/sn88084115/00543171748/1883120101/0039.xml&format=alto_xml"
+  ],
+  "index": 37,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "cumberland",
+    "cumberland county",
+    "carlisle",
+    "pennsylvania",
+    "united states"
+  ],
+  "location_city": [
+    "carlisle"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cumberland"
+  ],
+  "location_state": [
+    "pennsylvania"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn88084115",
+    "0000000001",
+    "8",
+    "3",
+    "5",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88084115"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "3",
+    "1",
+    "7",
+    "1",
+    "7",
+    "4",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88084115-1883-12-01-ed-1-0039",
+  "partof": [
+    "the morning star (carlisle, pa.) 1882-1887",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the morning star (carlisle, pa.) 1882-1887"
+  ],
+  "publication_frequency": [
+    "monthly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88084115/1883-12-01/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88084115/1883-12-01/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "cumberland",
+    "cumberland county (pa.)",
+    "carlisle",
+    "cumberland county",
+    "pennsylvania",
+    "carlisle (pa.)",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2025-09-14T05:50:57.710Z",
+  "title": "Image 1 of The morning star (Carlisle, Pa.), December 1, 1883",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88084115/1883-12-01/ed-1/?sp=1&q=indian+territory",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_cheetah_ver02%2Fdata%2Fsn88084115%2F00543171748%2F1883120101%2F0039.xml&q=indian+territory&relevant_snippet=1"
+}

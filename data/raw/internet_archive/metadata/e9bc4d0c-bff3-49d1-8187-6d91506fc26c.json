@@ -1,0 +1,25 @@
+{
+  "creator": "BBC TV",
+  "date": "2001-09-11T20:54:47Z",
+  "description": "BBC World was received from Bell ExpressVu (a Canadian direct-to-home service) and encoded using a real-time MPEG-2 encoder. The encoder was setup to include the time in UTC as part of the video \u2013 UTC is also known as GMT (Greenwich Mean Time) and is the time in London during the winter. Because of daylight savings time being in effect, this means that UTC is four hours ahead of Eastern Daylight Time. The time that was used to set the encoder\u2019s time-code came from NIST using the NTP protocol. Click for next video , previous video , or program guide . Date: 2001-09-11 20:54:47 UTC Air Time: 2001-09-11 16:54:47 EDT Length: 0:41:41",
+  "format": [
+    "512Kb MPEG4",
+    "Animated GIF",
+    "Item Tile",
+    "MPEG1",
+    "Metadata",
+    "Ogg Video",
+    "Text",
+    "Thumbnail",
+    "XML"
+  ],
+  "identifier": "bbc200109111654-1736",
+  "language": "eng",
+  "mediatype": "movies",
+  "subject": [
+    "Television News",
+    "September 11 Terrorist Attacks",
+    "911 Terrorist Attacks"
+  ],
+  "title": "BBC Sept. 11, 2001 4:54 pm - 5:36 pm"
+}

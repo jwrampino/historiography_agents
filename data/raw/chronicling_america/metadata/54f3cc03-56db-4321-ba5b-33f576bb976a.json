@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn97065835/1905-02-10/ed-1/?sp=7"
+  ],
+  "batch": [
+    "sdhi_jayhawk_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/south dakota/",
+    "2/united states/south dakota/pennington/",
+    "3/united states/south dakota/pennington/rapid city/"
+  ],
+  "contributor": [
+    "south dakota state historical society \u2013 state archives"
+  ],
+  "date": "1905-02-10",
+  "dates": [
+    "1905-02-10"
+  ],
+  "description": [
+    "ijr 1 1 A 0I til T 7 An hour later at the Savoy he met hi old college chum Reginald Mans field to whom he related his troubles and asked his advice Follow your own inclinations old fiilow advised Mansfield Dont per mit yourself to be tyrannized by your wife I am astonished at her efforts to rule you and only four months after marriage Go to Scarborough and she will soo realize the fact that a husband was born to control This seemed sensible advice and in less than a week Herbert Iatimer had gone to Scarborough He had gone without leaving his address with his friend Reginald Mansfield mid the lat ter was on his way from the club to Latimers house to obtain it It was Ills first visit Ho had been abroad when Herbert had married and he had returned but a few days prior to the conversation just reported Oil the evening of his arrival he had gone to see a mldde aged lady an old friend of Herbert Latimer once a friend of Reginalds own mother She was a womfin of the world who had kept the depth of her heart and feeling"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-06-25T23:49:03.494Z",
+  "group": [
+    "ndnp/sdhi",
+    "south-dakota-state-historical-society-state-archives-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn97065835/1905-02-10/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jayhawk_ver01:data:sn97065835:00415624840:1905021001:1316/full/pct:6.25/0/default.jpg#h=439&w=344",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jayhawk_ver01:data:sn97065835:00415624840:1905021001:1316/full/pct:12.5/0/default.jpg#h=878&w=688",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/sdhi/batch_sdhi_jayhawk_ver01/data/sn97065835/00415624840/1905021001/1316.xml&format=alto_xml"
+  ],
+  "index": 97,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "pennington",
+    "south dakota",
+    "rapid city",
+    "pennington county",
+    "united states"
+  ],
+  "location_city": [
+    "rapid city"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "pennington"
+  ],
+  "location_state": [
+    "south dakota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "0",
+    "2",
+    "sn97065835",
+    "1",
+    "0000000007",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn97065835"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "2",
+    "4",
+    "8",
+    "4",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn97065835-1905-02-10-ed-1-1316",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the black hills union and western stock review (rapid city, s.d.) 1904-19??"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the black hills union and western stock review (rapid city, s.d.) 1904-19??"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn97065835/1905-02-10/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn97065835/1905-02-10/ed-1/"
+  ],
+  "shelf_id": "7",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "pennington",
+    "south dakota",
+    "pennington county",
+    "rapid city (s.d.)",
+    "rapid city",
+    "pennington county (s.d.)",
+    "united states"
+  ],
+  "timestamp": "2023-06-26T11:56:42.711Z",
+  "title": "Image 7 of The Black Hills union and western stock review (Rapid City, S.D.), February 10, 1905",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn97065835/1905-02-10/ed-1/?sp=7&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fsdhi%2Fbatch_sdhi_jayhawk_ver01%2Fdata%2Fsn97065835%2F00415624840%2F1905021001%2F1316.xml&q=revolution&relevant_snippet=1"
+}

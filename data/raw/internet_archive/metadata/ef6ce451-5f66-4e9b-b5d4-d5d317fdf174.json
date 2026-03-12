@@ -1,0 +1,32 @@
+{
+  "description": "Course materials and textbooks initially published by the korea computer center .",
+  "format": [
+    "Abbyy GZ",
+    "Additional Text PDF",
+    "Archive BitTorrent",
+    "Daisy",
+    "DjVuTXT",
+    "Djvu XML",
+    "EPUB",
+    "Image Container PDF",
+    "JPEG Thumb",
+    "Metadata",
+    "OCR Page Index",
+    "OCR Search Text",
+    "Page Numbers JSON",
+    "Scandata",
+    "Single Page Processed JP2 ZIP",
+    "Text PDF",
+    "chOCR",
+    "hOCR"
+  ],
+  "identifier": "DPRKTexts",
+  "language": "kor",
+  "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "mediatype": "texts",
+  "subject": [
+    "dprk",
+    "textbook"
+  ],
+  "title": "DPRK Textbooks"
+}

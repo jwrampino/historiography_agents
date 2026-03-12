@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86090439/1904-01-28/ed-1/?sp=9"
+  ],
+  "batch": [
+    "txdn_grapevine_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/texas/",
+    "2/united states/texas/bexar/",
+    "3/united states/texas/bexar/san antonio/"
+  ],
+  "contributor": [
+    "university of north texas; denton, tx"
+  ],
+  "date": "1904-01-28",
+  "dates": [
+    "1904-01-28"
+  ],
+  "description": [
+    "Hotel Belleclairc Broadway and 77th St New York IHE HOTEL BELLECLAIRE A appeal especially to whai may be called semitransient risitors people who desire for s week or a fortnight or a month the comforts conveniences and advantages of New Yorks great modern hotels bnt who wish tc avoid some of the noise the bnstlt and the expense that are inevi table in an extended visit Pot such people THE BELLECLAIRE has furnished suites of one twc or three rooms and bath which may be occupied at reasonable Cates for shorter or longer periods It is an apartment house with the best features of a hotel It is a hotel with the best features of as apartment house And it is ab solutely new and absolutely fire proof MELTON ROBEEE Proprietor Broadway at Seventyseventh St VBW YOM BREAD SUPPORTER SUPPORTS BREAD Doesnt take much strength to lift one of our loaves of breadour loaves are light full weight at that but our bread will support many a strong man in arduous labor Made of flour from wheat the choice of many fields and kneaded and baked to a nicety Our bread always takes first rank L DIETZEL 118 SOUTH ALAMO"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-06-05T16:50:40.054Z",
+  "group": [
+    "ndnp/txdn",
+    "university-of-north-texas-denton-tx-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86090439/1904-01-28/ed-1/?sp=9",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_grapevine_ver01:data:sn86090439:00517175067:1904012801:0240/full/pct:6.25/0/default.jpg#h=419&w=318",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_grapevine_ver01:data:sn86090439:00517175067:1904012801:0240/full/pct:12.5/0/default.jpg#h=839&w=636",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/txdn/batch_txdn_grapevine_ver01/data/sn86090439/00517175067/1904012801/0240.xml&format=alto_xml"
+  ],
+  "index": 84,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "san antonio",
+    "bexar county",
+    "texas",
+    "bexar"
+  ],
+  "location_city": [
+    "san antonio"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "bexar"
+  ],
+  "location_state": [
+    "texas"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn86090439",
+    "5",
+    "6",
+    "0000000009",
+    "7",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86090439"
+  ],
+  "number_page": [
+    "0000000009"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "5",
+    "0",
+    "6",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Daily light",
+    "Sunday Issues for <November 10, 1895> have title: Sunday light"
+  ],
+  "page_id": "sn86090439-1904-01-28-ed-1-0240",
+  "partof": [
+    "serial and government publications division",
+    "chronicling america",
+    "san antonio daily light (san antonio, tex.) 1886-1907"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "san antonio daily light (san antonio, tex.) 1886-1907"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86090439/1904-01-28/ed-1/?sp=9"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86090439/1904-01-28/ed-1/"
+  ],
+  "shelf_id": "09",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "san antonio",
+    "bexar county",
+    "newspapers",
+    "bexar",
+    "san antonio (tex.)",
+    "texas",
+    "bexar county (tex.)"
+  ],
+  "timestamp": "2025-06-10T16:31:16.939Z",
+  "title": "Image 9 of San Antonio daily light (San Antonio, Tex.), January 28, 1904",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86090439/1904-01-28/ed-1/?sp=9&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Ftxdn%2Fbatch_txdn_grapevine_ver01%2Fdata%2Fsn86090439%2F00517175067%2F1904012801%2F0240.xml&q=korea&relevant_snippet=1"
+}

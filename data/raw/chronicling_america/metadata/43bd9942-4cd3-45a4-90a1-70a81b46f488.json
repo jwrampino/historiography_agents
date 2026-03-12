@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn91070618/1953-11-13/ed-1/?sp=1"
+  ],
+  "batch": [
+    "rp_invisiblestalker_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/rhode island/",
+    "2/united states/rhode island/newport/",
+    "3/united states/rhode island/newport/newport/"
+  ],
+  "contributor": [
+    "rhode island digital newspaper project"
+  ],
+  "date": "1953-11-13",
+  "dates": [
+    "1953-11-13"
+  ],
+  "description": [
+    "THE NAVYS OLDEST NEWSPAPER VoL 59No 45 Surprise Storm Upsets Sentry Box Blows Down Tree The 55knot gale that hit here by surprise last weekend resulted in at least one automobile crash fallen trees and a wandering sen try house Also all over the Station and Newport windows x were broken tnd screens blown away Small boating was cancelled and it was necessary to dispatch a QBoat from Fleet Landing to get stranded personnel back to their ships At the change of watch at gate 1 Saturday morning the sentry house toppled over in the wind and was driven against the railing of the bridge there No one was injured House Empty Albert Mitchell SA had just stepped out of the house to be re lieved by Robert Martin SA when the freak accident occurred Windows were blown out of the structure and it was necessary to ait its electric lines At Geneva N Y a recent model car owned and driven by a Station man Ronald A Mower SN spe cial services collided with a semi trailer truck during the storm Passenger Hurt He and a passenger James F Cranston SN billeting were treat SEE STORM Page 2 Fire"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-04-27T04:22:45.193Z",
+  "group": [
+    "ndnp/rp",
+    "rhode-island-digital-newspaper-project"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn91070618/1953-11-13/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_invisiblestalker_ver01:data:sn91070618:00516991707:1953111301:0568/full/pct:6.25/0/default.jpg#h=288&w=225",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_invisiblestalker_ver01:data:sn91070618:00516991707:1953111301:0568/full/pct:12.5/0/default.jpg#h=577&w=451",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_invisiblestalker_ver01:data:sn91070618:00516991707:1953111301:0568/full/pct:25/0/default.jpg#h=1154&w=903",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/rp/batch_rp_invisiblestalker_ver01/data/sn91070618/00516991707/1953111301/0568.xml&format=alto_xml"
+  ],
+  "index": 46,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "rhode island",
+    "newport"
+  ],
+  "location_city": [
+    "newport"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "newport"
+  ],
+  "location_state": [
+    "rhode island"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "5",
+    "6",
+    "9",
+    "sn91070618",
+    "7",
+    "0",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn91070618"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "1",
+    "7",
+    "0",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Issues for Jan. 8-Sept. 9, 1988 published as: Navalog"
+  ],
+  "page_id": "sn91070618-1953-11-13-ed-1-0568",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "newport navalog (newport, r.i.) 1944-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "newport navalog (newport, r.i.) 1944-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn91070618/1953-11-13/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn91070618/1953-11-13/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "rhode island",
+    "newspapers",
+    "newport",
+    "newport (r.i.)",
+    "military bases"
+  ],
+  "timestamp": "2025-04-27T04:36:29.111Z",
+  "title": "Image 1 of Newport navalog (Newport, R.I.), November 13, 1953",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn91070618/1953-11-13/ed-1/?sp=1&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Frp%2Fbatch_rp_invisiblestalker_ver01%2Fdata%2Fsn91070618%2F00516991707%2F1953111301%2F0568.xml&q=nuclear&relevant_snippet=1"
+}

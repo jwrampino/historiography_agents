@@ -1,0 +1,147 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "subjects": [
+    {
+      "heading": "Indians",
+      "authorityType": "topicalSubject",
+      "naId": 10640331
+    },
+    {
+      "heading": "Sihasapa Indians",
+      "authorityType": "topicalSubject",
+      "naId": 10641269
+    },
+    {
+      "heading": "Indians of North America",
+      "authorityType": "topicalSubject",
+      "naId": 10640603
+    }
+  ],
+  "useRestriction": {
+    "status": "Undetermined"
+  },
+  "audiovisual": "False",
+  "title": "Willie Spanish",
+  "coverageEndDate": {
+    "month": 6,
+    "year": 1921,
+    "logicalDate": "1921-06-30"
+  },
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Broomfield",
+          "phone": "303-604-4740",
+          "address1": "17101 Huron Street",
+          "postalCode": "80023",
+          "name": "National Archives at Denver",
+          "state": "CO",
+          "fax": "303-604-4750",
+          "email": "denver.archives@nara.gov",
+          "mailCode": "RRFD"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "coverageStartDate": {
+    "month": 4,
+    "year": 1921,
+    "logicalDate": "1921-04-01"
+  },
+  "dataControlGroup": {
+    "groupName": "National Archives at Denver",
+    "groupId": "RRFD",
+    "groupCd": "RRFD"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "NRG-75-BFT64-175",
+      "type": "NAIL Control Number"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "292889_175_Page_1.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/denver/rg-075/292889/292889_175_Page_1.jpg",
+      "objectFileSize": 534173,
+      "objectId": "93192761",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "292889_175_Page_2.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/denver/rg-075/292889/292889_175_Page_2.jpg",
+      "objectFileSize": 459880,
+      "objectId": "93192762",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "292889_175.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/denver/rg-075/292889/292889_175.pdf",
+      "objectFileSize": 1002383,
+      "objectId": "93192760",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1793,
+        "logicalDate": "1793-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 75,
+      "inclusiveEndDate": {
+        "year": 1999,
+        "logicalDate": "1999-12-31"
+      },
+      "title": "Records of the Bureau of Indian Affairs",
+      "naId": 404
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1921,
+        "logicalDate": "1921-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "Department of the Interior. Office of Indian Affairs. Blackfeet Agency. (1873 - 1947)",
+          "abolishDate": {
+            "year": 1947,
+            "logicalDate": "1947-12-31"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1873,
+            "logicalDate": "1873-01-01"
+          },
+          "naId": 10536923
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1921,
+        "logicalDate": "1921-12-31"
+      },
+      "title": "Blackfeet Industrial Survey",
+      "naId": 292889
+    }
+  ],
+  "naId": 293067
+}

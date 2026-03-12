@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87057934/1918-09-12/ed-1/?sp=3"
+  ],
+  "batch": [
+    "iahi_kutcher_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/iowa/",
+    "2/united states/iowa/audubon/",
+    "3/united states/iowa/audubon/exira/"
+  ],
+  "contributor": [
+    "state historical society of iowa"
+  ],
+  "date": "1918-09-12",
+  "dates": [
+    "1918-09-12"
+  ],
+  "description": [
+    "it be ho still if Reconstruction Work Has Already Begun in a Number of Large and Well Equipped Hospitals HE problem of putting the crip pled or disabled soldier or sailor back into selfsupport ing civil life is one with which all the European belligerent na tions have been strugglingfor neatly four years with only partial success in its solution Based upon the combined ex perience of the allies and the central powers studied at first hand by a corps of specialists and supplemented by cooperafive research under the direction of the Red Cross Institute for Crippled and Disabled Men and the National Association of Manufacturers a pro gramme has been worked out by the surgeon gen erals office of the army which is calculated to insure to every soldier of the United States who comes back from over there minus an arm or a leg blind deaf or otherwise handicapped a better chance of reinstatement as a useful mem ber of society than was afforded to any of the soldiers of the allies in the first two or three years of the war Germany alone the onlynation that was pre pared for this war had included detailed plans for"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-05-16T11:57:44.195Z",
+  "group": [
+    "ndnp/iahi",
+    "state-historical-society-of-iowa-state-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87057934/1918-09-12/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kutcher_ver01:data:sn87057934:00415622715:1918091201:0480/full/pct:3.125/0/default.jpg#h=270&w=192",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kutcher_ver01:data:sn87057934:00415622715:1918091201:0480/full/pct:6.25/0/default.jpg#h=541&w=385",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kutcher_ver01:data:sn87057934:00415622715:1918091201:0480/full/pct:12.5/0/default.jpg#h=1083&w=771",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iahi/batch_iahi_kutcher_ver01/data/sn87057934/00415622715/1918091201/0480.xml&format=alto_xml"
+  ],
+  "index": 109,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "iowa",
+    "united states",
+    "audubon",
+    "exira"
+  ],
+  "location_city": [
+    "exira"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "audubon"
+  ],
+  "location_state": [
+    "iowa"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000003",
+    "sn87057934",
+    "2",
+    "6",
+    "5",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87057934"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "2",
+    "2",
+    "7",
+    "1",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87057934-1918-09-12-ed-1-0480",
+  "partof": [
+    "chronicling america",
+    "audubon county journal (exira, iowa) 1884-1993",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "audubon county journal (exira, iowa) 1884-1993"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87057934/1918-09-12/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87057934/1918-09-12/ed-1/"
+  ],
+  "shelf_id": "03",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "audubon",
+    "exira (iowa)",
+    "iowa",
+    "united states",
+    "newspapers",
+    "exira"
+  ],
+  "timestamp": "2023-07-04T11:07:24.676Z",
+  "title": "Image 3 of Audubon County journal (Exira, Iowa), September 12, 1918",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87057934/1918-09-12/ed-1/?sp=3&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiahi%2Fbatch_iahi_kutcher_ver01%2Fdata%2Fsn87057934%2F00415622715%2F1918091201%2F0480.xml&q=reconstruction&relevant_snippet=1"
+}

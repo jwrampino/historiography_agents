@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1947-02-13/ed-1/?sp=49"
+  ],
+  "batch": [
+    "dlc_2calder_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1947-02-13",
+  "dates": [
+    "1947-02-13"
+  ],
+  "description": [
+    "HOUSES FOR SALENW Cent KlRKSIDE CHEVY CHASE MD Near circle 29500 It la a privilege to offer tbta splendid white brick recently com Sleted of attractive architecture in this ne old residential section not far from Chevy Chase Circle Centerhall plan with large living room opening onto large screened rear Borch wide entrance hall leading to welldesigned modern kitchen with cozy breakfast nook and powder room first floor second floor contains 3 splen did bedrooms and 2 baths with ample closet space beautifully appointed Interior large recreation room with bar and open fireplace maids room with lavatory and fixtures for bath entire basement finished In asphalt tile 1car attached garage with side drive Fltsglbbons oil airconditioned heat A careful analysis and Inspection should convince the most skeptical of Its 8ERMAN CIRCLE SACRIFICEOwner leaving town must sell this 8rm 2bath and rec rm excellently located home 1st floor has foyer hallway to modern kit with large pantry and closet space liv rm din rm and den or bedrm with fireplace 2nd floor has 4 bedrms and tiled bath basement has rec rm with full shower bath extra rm and unusual storage space large front and rear yards Ige garage 6term windows"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:41:52.935Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1947-02-13/ed-1/?sp=49",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_2calder_ver01:data:sn83045462:00280604094:1947021301:0809/full/pct:6.25/0/default.jpg#h=489&w=342",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_2calder_ver01:data:sn83045462:00280604094:1947021301:0809/full/pct:12.5/0/default.jpg#h=979&w=685",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_2calder_ver01/data/sn83045462/00280604094/1947021301/0809.xml&format=alto_xml"
+  ],
+  "index": 179,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "district of columbia",
+    "washington d.c.",
+    "washington",
+    "united states"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000049",
+    "8",
+    "0",
+    "2",
+    "sn83045462",
+    "9",
+    "1",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000049"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "4",
+    "0",
+    "9",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1947-02-13-ed-1-0809",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1947-02-13/ed-1/?sp=49"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1947-02-13/ed-1/"
+  ],
+  "shelf_id": "49",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)",
+    "washington",
+    "united states"
+  ],
+  "timestamp": "2022-10-25T05:02:22.086Z",
+  "title": "Image 49 of Evening star (Washington, D.C.), February 13, 1947",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1947-02-13/ed-1/?sp=49&q=oil",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_2calder_ver01%2Fdata%2Fsn83045462%2F00280604094%2F1947021301%2F0809.xml&q=oil&relevant_snippet=1"
+}

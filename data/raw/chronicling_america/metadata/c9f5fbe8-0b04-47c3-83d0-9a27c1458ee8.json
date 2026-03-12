@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1938-05-08/ed-1/?sp=107"
+  ],
+  "batch": [
+    "dlc_1lichtenstein_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1938-05-08",
+  "dates": [
+    "1938-05-08"
+  ],
+  "description": [
+    "A New Pair of Legs EVER SINCE HE LOST HIS LEGS in childhood James Lam beth of New York had begged his living wheeling himself about on a tiny platform Hating his freakishness he saved his money until HE HAD MORE THAN 500 enough to buy a pair of artificial legs Here he is having the metal socket fitted to his with ered stumps The fit must be perfect if he is to walk After the fit ting THE SPECIALLY MADE LEGS ore strap ped to him The legs are of light durable metal which fasten with leather straps to a band around his waist Now Lambeth FOR THE FIRST TIME stands on his new legs No longer able to beg what can he do Copyright 1938 PATENTED THRIFT METER ENDS OIL WASTE YOU USE LESS FUEL OIL THAN ANYONE IN THE NEIGHBOR HOOD MR EVANS WONDER WHY V THATS BECAUSE THE THRIFT METER ON MT OIL O MATIC PREVENTS OIL WASTE SEE YOUR OILOMATIC DEALER for information about Complete SelfContained Furnace and BoilerBurner l nits COLONIAL FUEL OIL 1709 DeSales Street N W Down Go Fuel Costs for OilOMatic Owners HIGH oil bills Williams OilOMatic own ers never have"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:38:44.712Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1938-05-08/ed-1/?sp=107",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1lichtenstein_ver02:data:sn83045462:00280601755:1938050801:0517/full/pct:6.25/0/default.jpg#h=317&w=209",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1lichtenstein_ver02:data:sn83045462:00280601755:1938050801:0517/full/pct:12.5/0/default.jpg#h=635&w=418",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1lichtenstein_ver02/data/sn83045462/00280601755/1938050801/0517.xml&format=alto_xml"
+  ],
+  "index": 61,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000107",
+    "1",
+    "8",
+    "6",
+    "5",
+    "7",
+    "sn83045462",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000107"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "1",
+    "7",
+    "5",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1938-05-08-ed-1-0517",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1938-05-08/ed-1/?sp=107"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1938-05-08/ed-1/"
+  ],
+  "shelf_id": "107",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-24T21:26:06.726Z",
+  "title": "Image 107 of Evening star (Washington, D.C.), May 8, 1938",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1938-05-08/ed-1/?sp=107&q=oil",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_1lichtenstein_ver02%2Fdata%2Fsn83045462%2F00280601755%2F1938050801%2F0517.xml&q=oil&relevant_snippet=1"
+}

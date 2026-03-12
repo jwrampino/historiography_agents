@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85060004/1935-07-22/ed-1/?sp=5"
+  ],
+  "batch": [
+    "txdn_heron_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/texas/",
+    "2/united states/texas/bexar/",
+    "3/united states/texas/bexar/san antonio/"
+  ],
+  "contributor": [
+    "university of north texas; denton, tx"
+  ],
+  "date": "1935-07-22",
+  "dates": [
+    "1935-07-22"
+  ],
+  "description": [
+    "JULY 22 1035 HUSBAND TELLS OF DROWNING WIFE WORCESTER Mass July 22 Newall P Sherman 26year old Sutton choir singer and scout master today pleaded not guilty to drowning his wife Alice 23 mother of two children by overturning a canoe on Lake Singletary Saturday night The young husband State Detec tive Edward J McCarthy said pre viously had confessed drowning his wife to impress a 17yearold Whitinsville girl with whom he worked in a Whitinsville factory McCarthy said Sherman confessed he deliberately overturned the canoe in which he andhis wife were paddling Saturday night on fog covered Lake Singletary As the woman struggled franti cally to grasp him Sherman thrust her away and she sank from sight the detective quoted him McCarthy said Sherman admitted the Whitinsville girl disliked going around with married men so Sher man decided to make a good im pression on the girl by having ro wife Shermans story was related by McCarthy was That he planned a canoe ride Thursday night but was unable to hire a canoe On Saturday he ob tained one and started out with his wife About 300 yards from shore he overturned the frail craft and when his wife"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-10-26T03:52:04.977Z",
+  "group": [
+    "ndnp/txdn",
+    "university-of-north-texas-denton-tx-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85060004/1935-07-22/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_heron_ver01:data:sn85060004:00516994472:1935072201:0654/full/pct:6.25/0/default.jpg#h=327&w=258",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_heron_ver01:data:sn85060004:00516994472:1935072201:0654/full/pct:12.5/0/default.jpg#h=654&w=517",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/txdn/batch_txdn_heron_ver01/data/sn85060004/00516994472/1935072201/0654.xml&format=alto_xml"
+  ],
+  "index": 128,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "texas",
+    "bexar",
+    "san antonio"
+  ],
+  "location_city": [
+    "san antonio"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "bexar"
+  ],
+  "location_state": [
+    "texas"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "2",
+    "6",
+    "5",
+    "4",
+    "1",
+    "sn85060004",
+    "7",
+    "0000000005"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85060004"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "4",
+    "4",
+    "7",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "San Antonio Sunday light"
+  ],
+  "page_id": "sn85060004-1935-07-22-ed-1-0654",
+  "partof": [
+    "san antonio light (san antonio, tex.) 1911-1993",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "san antonio light (san antonio, tex.) 1911-1993"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85060004/1935-07-22/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85060004/1935-07-22/ed-1/"
+  ],
+  "shelf_id": "05",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "texas",
+    "san antonio (tex.)",
+    "bexar",
+    "san antonio",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2025-10-26T04:05:23.942Z",
+  "title": "Image 5 of San Antonio light (San Antonio, Tex.), July 22, 1935, (HOME EDITION)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85060004/1935-07-22/ed-1/?sp=5&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Ftxdn%2Fbatch_txdn_heron_ver01%2Fdata%2Fsn85060004%2F00516994472%2F1935072201%2F0654.xml&q=reconstruction&relevant_snippet=1"
+}

@@ -1,0 +1,137 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2004540423/1917-06-16/ed-1/?sp=57"
+  ],
+  "batch": [
+    "dlc_1dinotopia_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1917-06-16",
+  "dates": [
+    "1917-06-16"
+  ],
+  "description": [
+    "IN THIS SECTION Editorial Comment and Peoples Forum Drama and Music The COMING OF THE WAR Having Stopped Italian Emigration the Population of Italy Will Be About 2400000 Greater After the War Than It Was Beforelt Will Be Our Policy to Prevent This Surplus from Emigrating and Set It to Work Developing Industries w Says Prof Francesco Nitti Of the Royal Italian Commission By ARTHUR BENINGTON WHEN the Italian Government selected Frances eft Saverio Nitti now Profes sor of the Science of Finance of the University of Naples as one of the Royal Com mission sent by It to the United States it did so because of his profound knowledge of trade agriculture finance and industry Throughout his long career In the Chamber of Deputies and than as Minister of Agricul ture Trade and Commerce Dr Nitti has taken the lead In every effort to develop the resources of Italy To hipi was due the completion of that gigantic work of Irrigation the diverting of rivers that ran westward to the Mediterra nean and leading them through vast tunnels under the Apennines eastward to the Adriatic with thousands of miles of canals by which the arid lands of Apulia are"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-19T00:31:09.109Z",
+  "group": [
+    "sgpww1newspaperclippings/dlc",
+    "wwi-newspaper-clippings"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2004540423/1917-06-16/ed-1/?sp=57",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_1dinotopia_ver01:data:2004540423:print0018948219A:1917061601:0057/full/pct:6.25/0/default.jpg#h=462&w=351",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_1dinotopia_ver01:data:2004540423:print0018948219A:1917061601:0057/full/pct:12.5/0/default.jpg#h=924&w=703",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/sgp/sgpbatches/batch_dlc_1dinotopia_ver01/data/2004540423/print0018948219A/1917061601/0057.xml&format=alto_xml"
+  ],
+  "index": 93,
+  "language": [
+    "german",
+    "english"
+  ],
+  "location": [
+    "new york",
+    "germany",
+    "united states"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000057",
+    "2004540423",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2004540423"
+  ],
+  "number_page": [
+    "0000000057"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2004540423-1917-06-16-ed-1-0057",
+  "partof": [
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-",
+    "serial and government publications division",
+    "world war history: newspaper clippings, 1914-1926"
+  ],
+  "partof_collection": [
+    "world war history: newspaper clippings, 1914-1926"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2004540423/1917-06-16/ed-1/?sp=57"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2004540423/1917-06-16/ed-1/"
+  ],
+  "shelf_id": "057",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "armistices",
+    "history",
+    "allied occupation",
+    "germany",
+    "sources",
+    "new york",
+    "world war",
+    "united states"
+  ],
+  "timestamp": "2022-11-09T15:21:32.729Z",
+  "title": "Image 57 of World War history : daily records and comments as appeared in American and foreign newspapers, 1914-1926 (New York), June 16, 1917, (1917 June 16-21)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2004540423/1917-06-16/ed-1/?sp=57&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fsgp%2Fsgpbatches%2Fbatch_dlc_1dinotopia_ver01%2Fdata%2F2004540423%2Fprint0018948219A%2F1917061601%2F0057.xml&q=revolution&relevant_snippet=1"
+}

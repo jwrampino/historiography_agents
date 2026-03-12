@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1914-02-22/ed-1/?sp=54"
+  ],
+  "batch": [
+    "dlc_quarren_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1914-02-22",
+  "dates": [
+    "1914-02-22"
+  ],
+  "description": [
+    "HE centennial birth day at Lieut Gen RJchstrd S Ewell was observed at Monassaf Va February S by th Kwell Camp of d rate Vet erans and by the citizens generally of Prince William county for Gen Eeil was perhaps he most eminent citizen of that count His father Tr Thomas S Ewell wts born at BelleAir and it is the story of this venerable house near Washing ton which the Rambler means to tell Dr Ewell among other things was rhe author of Ewells Medical Com panion and various medical books which had their vogue in the long ago During the period of the second war with England Dr Ewell was a prac titioner in the District of Columbia and in the red sad hours when the British army occupied Washington Gen Ross the British commanding of ficer made his headquarters in Dr Ewells residence on Capitol Hill It has been told th Rambler by his descendants that Dr Ewell was en abled to prevail on Gen Ross and Ad miral Cockburn to spare much valuable property in Washington city The grandfather of Gen Ewell of Con federate fame was Col Jesse Ewell who was a classmate of Thomas"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:42:44.639Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1914-02-22/ed-1/?sp=54",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_quarren_ver01:data:sn83045462:00280658881:1914022201:0060/full/pct:6.25/0/default.jpg#h=409&w=325",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_quarren_ver01:data:sn83045462:00280658881:1914022201:0060/full/pct:12.5/0/default.jpg#h=819&w=650",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_quarren_ver01/data/sn83045462/00280658881/1914022201/0060.xml&format=alto_xml"
+  ],
+  "index": 185,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "2",
+    "sn83045462",
+    "8",
+    "6",
+    "5",
+    "0000000054",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000054"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "8",
+    "8",
+    "8",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1914-02-22-ed-1-0060",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1914-02-22/ed-1/?sp=54"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1914-02-22/ed-1/"
+  ],
+  "shelf_id": "54",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2022-10-21T08:48:21.920Z",
+  "title": "Image 54 of Evening star (Washington, D.C.), February 22, 1914",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1914-02-22/ed-1/?sp=54&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_quarren_ver01%2Fdata%2Fsn83045462%2F00280658881%2F1914022201%2F0060.xml&q=immigration&relevant_snippet=1"
+}

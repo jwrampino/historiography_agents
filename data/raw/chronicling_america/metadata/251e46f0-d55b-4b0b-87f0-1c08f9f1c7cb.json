@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82014073/1854-08-03/ed-1/?sp=1"
+  ],
+  "batch": [
+    "iahi_flareon_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/iowa/",
+    "2/united states/iowa/scott/",
+    "3/united states/iowa/scott/davenport/"
+  ],
+  "contributor": [
+    "state historical society of iowa"
+  ],
+  "date": "1854-08-03",
+  "dates": [
+    "1854-08-03"
+  ],
+  "description": [
+    "SANDERS DAVIS VOLUME 13NO 48 PB0PBIET0B6 BUSINESS CABD Tin Cavonport Gazotte Published evory Tliorsday Morning SAKUEHti fc DAVIS i ma XITCRRI CILOIKSA COILNIII or IICORO AMB IIUI mun DivexrotT iov E S Pr JJi payable to i On annate U lin 1h e insertion 00 Kb iid4ltloinl Inanition On gjuir rle month thf montlu Jaidif aUllni Of lJWonoycar Cna vilutnn on yaar llnhalf ooluLOn ofts O n o u Onjlphth On coiarnn 1 months Onhalt column al Onefth column lis months Doe jhth One i uiuo thro inontln Osnjtiiill oilumn throe rnorithi Or fo irth Onaotgbtt MITCHELL ft PUTNAM Atttmi 1 nnd rousMilort at Law Orifoii lhi ircer ofind and BfSdj SlviU ill Uataas t0WA V E S 4M c R MlTCilhU C 8 PLTNAM jril 10th IW3Iwtrwly IAS T LAKE Attorney at U and SeMrf iNtWIe Oru II Brady street ubovc KecuiiJ tr artni tre Apri 13Ui ISfwtrwtf LAW NOTICE iiK thUtUjr ilniUtd VI paftoerlf tur Law Arm PMCWIIIIbiistmw rio r4llr XnttaKUi COOlvluKO litf lS3 COOX ft SILLOX Atteraer Co at I aw AUSTIN C0BBI5 Attorney sad Counsellor at Law A N N u n U I OOm iekl A CorH Kxinam 11A VrNJiU lUVA lurch 3d liSi I"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-05-16T11:55:08.657Z",
+  "group": [
+    "ndnp/iahi",
+    "state-historical-society-of-iowa-state-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82014073/1854-08-03/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529200:1854080301:1033/full/pct:6.25/0/default.jpg#h=502&w=369",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529200:1854080301:1033/full/pct:12.5/0/default.jpg#h=1005&w=738",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iahi/batch_iahi_flareon_ver02/data/sn82014073/00279529200/1854080301/1033.xml&format=alto_xml"
+  ],
+  "index": 161,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "davenport",
+    "scott county",
+    "iowa",
+    "united states",
+    "scott"
+  ],
+  "location_city": [
+    "davenport"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "scott"
+  ],
+  "location_state": [
+    "iowa"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "0000000001",
+    "2",
+    "5",
+    "sn82014073",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82014073"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "2",
+    "9",
+    "2",
+    "0",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82014073-1854-08-03-ed-1-1033",
+  "partof": [
+    "chronicling america",
+    "the davenport gazette (davenport, scott co., iowa) 1841-185?",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the davenport gazette (davenport, scott co., iowa) 1841-185?"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82014073/1854-08-03/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82014073/1854-08-03/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "davenport",
+    "davenport (iowa)",
+    "scott county (iowa)",
+    "scott county",
+    "iowa",
+    "united states",
+    "newspapers",
+    "scott"
+  ],
+  "timestamp": "2023-07-04T00:05:48.994Z",
+  "title": "Image 1 of The Davenport gazette (Davenport, Scott Co., Iowa), August 3, 1854",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82014073/1854-08-03/ed-1/?sp=1&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiahi%2Fbatch_iahi_flareon_ver02%2Fdata%2Fsn82014073%2F00279529200%2F1854080301%2F1033.xml&q=slavery&relevant_snippet=1"
+}

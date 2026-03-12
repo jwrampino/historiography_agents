@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82015374/1820-01-01/ed-1/?sp=2"
+  ],
+  "batch": [
+    "iune_bismuth_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/illinois/",
+    "2/united states/illinois/madison/",
+    "3/united states/illinois/madison/edwardsville/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1820-01-01",
+  "dates": [
+    "1820-01-01"
+  ],
+  "description": [
+    "THE MISSOURI QUESTION Mr Kinga Suechea JAMAICA L I NOV 22 1819 GentlemenConformably to your re Jjucst in behalf ofthe committee appoint ed by the late meeting in the city on th business oi the Missouri bill I have th honor to send to you the substance o two speeches that 1 delivered in tin senate of the United States when this bill was under its consideration As my notes are imperfect I may have omitted some remarks made or that occasion and added others whict vcre not made the communication however contains the substance of my observations and present opinions or this important subjectI am particular ly anxious not to be misunderstood ii tins case never having thought mysel at liberty to encourage or to assent tc any measure that would affect the bccu rity of property in slaves or tend to dis turb the political adjustment which the constitution has established respecting them I desire to be considered as stil adhering to this reserve and that thi observations which I send you shouk be construed to refer and to be confined to the prohibition of slavery in the nev states to be formed beyond the origins limits of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:16:58.362Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82015374/1820-01-01/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820010101:0108/full/pct:6.25/0/default.jpg#h=375&w=236",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820010101:0108/full/pct:12.5/0/default.jpg#h=751&w=473",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_bismuth_ver01/data/sn82015374/00332898000/1820010101/0108.xml&format=alto_xml"
+  ],
+  "index": 12,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "madison",
+    "illinois",
+    "edwardsville"
+  ],
+  "location_city": [
+    "edwardsville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "madison"
+  ],
+  "location_state": [
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "2",
+    "8",
+    "3",
+    "0000000002",
+    "1",
+    "sn82015374"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82015374"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "8",
+    "0",
+    "0",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82015374-1820-01-01-ed-1-0108",
+  "partof": [
+    "chronicling america",
+    "edwardsville spectator (edwardsville, ill.) 1819-1826",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "edwardsville spectator (edwardsville, ill.) 1819-1826"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82015374/1820-01-01/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82015374/1820-01-01/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "antislavery movements",
+    "illinois",
+    "edwardsville (ill.)",
+    "madison",
+    "united states",
+    "newspapers",
+    "edwardsville"
+  ],
+  "timestamp": "2025-05-21T15:24:09.716Z",
+  "title": "Image 2 of Edwardsville spectator (Edwardsville, Ill.), January 1, 1820",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82015374/1820-01-01/ed-1/?sp=2&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_bismuth_ver01%2Fdata%2Fsn82015374%2F00332898000%2F1820010101%2F0108.xml&q=slavery&relevant_snippet=1"
+}

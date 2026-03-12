@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86076999/1898-05-03/ed-1/?sp=3"
+  ],
+  "batch": [
+    "nvln_goldfield_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nevada/",
+    "2/united states/nevada/ormsby/",
+    "3/united states/nevada/ormsby/carson city/",
+    "2/united states/nevada/carson city/",
+    "3/united states/nevada/carson city/carson city/"
+  ],
+  "contributor": [
+    "university of nevada las vegas university libraries"
+  ],
+  "date": "1898-05-03",
+  "dates": [
+    "1898-05-03"
+  ],
+  "description": [
+    "THE MORNING APPEAL TUESDAY may 3 Eastern advertising Agout 230234 Tem ple Court Huilding New York City K Katz Agent ALL SORTS James Dennis of Reno was in this city yesterday Assemllym n MeNaughton of Esmer alda was in Carson yesterday Miss Gertrude Wasson arrived from California Sunday There will he a general meeting to night of the Carson Athletic Club W E Sharon was a passenger for Vir ginia yesterday Mrs Hennessy left for San Francisco last evening Harry Stewart eotnes up for pardon be fore the Hoard in Seattle on May 10th When the Nevada forces mobolize the encampment will be held at Carson Mrs Dick iuild departed or Portland lr Sunday evening Spain will before long find it necessary to grab a root to keep from falling off the earth The weather has cleared up and is per fect after the storm If no frost conies the fruit crop will be something great FOR SALE A ladys bicycle a chilus rib and a cook stove cheap for cash Apply at this office The Young Ladies Institute will give their seventh annual ball on Friday even ing May 20th Richardson has his soda fount in in running order"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-06-30T14:54:19.550Z",
+  "group": [
+    "ndnp/nvln",
+    "university-of-nevada-las-vegas-university-libraries-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86076999/1898-05-03/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_goldfield_ver01:data:sn86076999:00271740931:1898050301:0412/full/pct:6.25/0/default.jpg#h=453&w=297",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_goldfield_ver01:data:sn86076999:00271740931:1898050301:0412/full/pct:12.5/0/default.jpg#h=906&w=594",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nvln/batch_nvln_goldfield_ver01/data/sn86076999/00271740931/1898050301/0412.xml&format=alto_xml"
+  ],
+  "index": 196,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ormsby",
+    "carson city",
+    "united states",
+    "nevada"
+  ],
+  "location_city": [
+    "carson city"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "ormsby",
+    "carson city"
+  ],
+  "location_state": [
+    "nevada"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "0000000003",
+    "9",
+    "7",
+    "4",
+    "sn86076999",
+    "3",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86076999"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "1",
+    "7",
+    "4",
+    "0",
+    "9",
+    "3",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86076999-1898-05-03-ed-1-0412",
+  "partof": [
+    "morning appeal (carson city, nev.) 1877-1906",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "morning appeal (carson city, nev.) 1877-1906"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86076999/1898-05-03/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86076999/1898-05-03/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "carson city",
+    "nevada",
+    "ormsby",
+    "newspapers",
+    "carson city (nev.)"
+  ],
+  "timestamp": "2023-06-30T21:43:30.386Z",
+  "title": "Image 3 of Morning appeal (Carson City, Nev.), May 3, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86076999/1898-05-03/ed-1/?sp=3&q=phillipines",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnvln%2Fbatch_nvln_goldfield_ver01%2Fdata%2Fsn86076999%2F00271740931%2F1898050301%2F0412.xml&q=phillipines&relevant_snippet=1"
+}

@@ -1,0 +1,151 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82016181/1935-12-13/ed-1/?sp=26"
+  ],
+  "batch": [
+    "dlc_mark_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1935-12-13",
+  "dates": [
+    "1935-12-13"
+  ],
+  "description": [
+    "Page 26 Thelews GiM light and the people will find their own wap A SCRIPPSHOWARD NEWSPAPER By Carrier Week 10c By Mail Month 60c Year 720 1013 13th St N W LOWELL MELLETT Editor SPEAKING OF EXPENSE GREAT many business men spend a great deal of their time complaining about the great expense of government especially the Federal Government under the New Deal Yet the principal law officer of the Federal Government Attorney General Cummings has to go into court and argue against an attempt of one group of business operators to force the Government to spend unnecessarily a whole lot of tax money which Government officials do not want to spend Utility interests have filed 50 separate suits challenging the constitutionality of the holding company law filed them the Attorney General said in a way calculated to harass and overwhelm the Justice Department which has more than enough to do handling other litigation respecting other laws It is of course impossible for the Government to defend every one of these cases without slighting other important work and hiring more lawyers Likewise these multiple suits are an unnecessary burden on the courts themselves whose dockets are already overcrowded The Government"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-06-01T02:52:52.157Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82016181/1935-12-13/ed-1/?sp=26",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mark_ver01:data:sn82016181:00516999494:1935121301:1551/full/pct:6.25/0/default.jpg#h=336&w=236",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mark_ver01:data:sn82016181:00516999494:1935121301:1551/full/pct:12.5/0/default.jpg#h=672&w=472",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_mark_ver01/data/sn82016181/00516999494/1935121301/1551.xml&format=alto_xml"
+  ],
+  "index": 64,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn82016181",
+    "6",
+    "5",
+    "9",
+    "4",
+    "0000000026",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82016181"
+  ],
+  "number_page": [
+    "0000000026"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "9",
+    "4",
+    "9",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82016181-1935-12-13-ed-1-1551",
+  "partof": [
+    "serial and government publications division",
+    "the washington daily news (washington, d.c.) 1921-1972",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington daily news (washington, d.c.) 1921-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82016181/1935-12-13/ed-1/?sp=26"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82016181/1935-12-13/ed-1/"
+  ],
+  "shelf_id": "26",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2025-06-01T03:26:41.891Z",
+  "title": "Image 26 of The Washington daily news (Washington, D.C.), December 13, 1935",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82016181/1935-12-13/ed-1/?sp=26&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_mark_ver01%2Fdata%2Fsn82016181%2F00516999494%2F1935121301%2F1551.xml&q=child+labor&relevant_snippet=1"
+}

@@ -1,0 +1,116 @@
+{
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "false",
+  "title": "Polish American Heritage Month [1986]",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Simi Valley",
+          "phone": "800-410-8354",
+          "address1": "40 Presidential Drive",
+          "postalCode": "93065-0600",
+          "name": "Ronald Reagan Library",
+          "state": "CA",
+          "fax": "805-577-4074",
+          "email": "reagan.library@nara.gov",
+          "mailCode": "PL-RR"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "depth": 0,
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "width": 0,
+          "specificMediaType": "Paper",
+          "containerId": "Box 80 (1986)",
+          "height": 0
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupName": "Ronald Reagan Library",
+    "groupId": "PL-RR",
+    "groupCd": "PL-RR"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "localIdentifier": "RR-108",
+  "digitalObjects": [
+    {
+      "objectFilename": "40-108-318274427-080-060-2023.pdf",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/reagan/rr-0108/7580941/Batch0001/40-108-318274427-080-060-2023.pdf",
+      "objectFileSize": 365279,
+      "objectId": "454053751",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "RR-0108",
+      "inclusiveStartDate": {
+        "month": 1,
+        "year": 1981,
+        "day": 20,
+        "logicalDate": "1981-01-20"
+      },
+      "distance": 2,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "month": 1,
+        "year": 1989,
+        "day": 20,
+        "logicalDate": "1989-01-20"
+      },
+      "title": "Records of the White House Correspondence Office",
+      "naId": 6036843
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1981,
+        "logicalDate": "1981-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "President (1981-1989 : Reagan). Correspondence Office. (01/20/1981 - 01/20/1989)",
+          "abolishDate": {
+            "month": 1,
+            "year": 1989,
+            "day": 20,
+            "logicalDate": "1989-01-20"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 1,
+            "year": 1981,
+            "day": 20,
+            "logicalDate": "1981-01-20"
+          },
+          "naId": 10453072
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1989,
+        "logicalDate": "1989-01-01"
+      },
+      "title": "Proclamations Files",
+      "naId": 7580941
+    }
+  ],
+  "naId": 318274427
+}

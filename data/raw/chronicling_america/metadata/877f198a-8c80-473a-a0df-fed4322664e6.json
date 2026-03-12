@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn91070618/1963-02-01/ed-1/?sp=2"
+  ],
+  "batch": [
+    "rp_invisiblestalker_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/rhode island/",
+    "2/united states/rhode island/newport/",
+    "3/united states/rhode island/newport/newport/"
+  ],
+  "contributor": [
+    "rhode island digital newspaper project"
+  ],
+  "date": "1963-02-01",
+  "dates": [
+    "1963-02-01"
+  ],
+  "description": [
+    "TWO E 3 dljaplainB X IO Qlnrnpr M Of Pwer By Chaplain Henry F Maxwell Tin biographies l men who have made significant contribu tions in times of crisis reveal the importmt part selfdiscipline has plnved in their lives Let us look at a few examples Plato the philosopher established his academy in a place remote from tin luxuries of the city so that his followers would develop a sturdy and independent way of life and practice self discipline We are still studying Platos philosophy Abelard was another student who submitted himself to severe selfdiscipline and built himself a retreat in the wilderness to be free from the distractions of the city Others joined him and built themselves huts lived on the herbs of the field and coarse bread and slept on heaps of straw and rushes their only tables being piles of turf Is it any wonder that the thinking they developed had a ruggedness about it that set it apart from the other thought of that day In more recent times Tom Vaine disciplined himself to think out his essays in the midst of the noise which surrounded him in his clerkship in England That training served him"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-04-27T04:23:21.471Z",
+  "group": [
+    "ndnp/rp",
+    "rhode-island-digital-newspaper-project"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn91070618/1963-02-01/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_invisiblestalker_ver01:data:sn91070618:00516991811:1963020101:0891/full/pct:6.25/0/default.jpg#h=345&w=283",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_invisiblestalker_ver01:data:sn91070618:00516991811:1963020101:0891/full/pct:12.5/0/default.jpg#h=691&w=567",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/rp/batch_rp_invisiblestalker_ver01/data/sn91070618/00516991811/1963020101/0891.xml&format=alto_xml"
+  ],
+  "index": 172,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "rhode island",
+    "newport",
+    "united states"
+  ],
+  "location_city": [
+    "newport"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "newport"
+  ],
+  "location_state": [
+    "rhode island"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn91070618",
+    "8",
+    "0000000002",
+    "0",
+    "9",
+    "1",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn91070618"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "1",
+    "8",
+    "1",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Issues for Jan. 8-Sept. 9, 1988 published as: Navalog"
+  ],
+  "page_id": "sn91070618-1963-02-01-ed-1-0891",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "newport navalog (newport, r.i.) 1944-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "newport navalog (newport, r.i.) 1944-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn91070618/1963-02-01/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn91070618/1963-02-01/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "rhode island",
+    "newspapers",
+    "military bases",
+    "newport (r.i.)",
+    "newport",
+    "united states"
+  ],
+  "timestamp": "2025-04-27T04:37:58.614Z",
+  "title": "Image 2 of Newport navalog (Newport, R.I.), February 1, 1963",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn91070618/1963-02-01/ed-1/?sp=2&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Frp%2Fbatch_rp_invisiblestalker_ver01%2Fdata%2Fsn91070618%2F00516991811%2F1963020101%2F0891.xml&q=computers&relevant_snippet=1"
+}

@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn91070618/1961-11-10/ed-1/?sp=3"
+  ],
+  "batch": [
+    "rp_invisiblestalker_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/rhode island/",
+    "2/united states/rhode island/newport/",
+    "3/united states/rhode island/newport/newport/"
+  ],
+  "contributor": [
+    "rhode island digital newspaper project"
+  ],
+  "date": "1961-11-10",
+  "dates": [
+    "1961-11-10"
+  ],
+  "description": [
+    "Friday 10 November 1961 First Nuclear Carrier Completes Sea Trials The worlds largest ship the Xaxxs fust nuclear powered aircraft carrier USS ENTERPRISE successtulh onipletcd her initial sea trials last week ENTERPRISE put to sea from Newport News Virginia at 0914 29 October During these trials she developed her design full power and demonstrated her ability to go from full speed ahead to emergency astern ENTERPRISE has a length of 1101 feet a flight deck beam of 252 feet and a displacement of 85000 tons Her eight pressurized water nuclear power plants en able her to operate for extended periods without refueling this in creases her striking capacity and operational flexibility In continu ous operation she could circle the earth several times at high speed The nuclear propulsion plant trials were under the direction of VADM Hyman Rickover acting for the Atomic Energy Commis sion and the Navy Commanding Officer of the ENTERPRISE is CAPT V P DePoix ENTERPRISE is the second of four nuclear powered surface ships authorized by Congress The first is the guided missile cruiser USS LONG BEACH which was commissioned in September and is now at sea and the third is the guided missile frigate BAIN"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-04-27T04:23:21.471Z",
+  "group": [
+    "ndnp/rp",
+    "rhode-island-digital-newspaper-project"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn91070618/1961-11-10/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_invisiblestalker_ver01:data:sn91070618:00516991811:1961111001:0574/full/pct:6.25/0/default.jpg#h=340&w=286",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_invisiblestalker_ver01:data:sn91070618:00516991811:1961111001:0574/full/pct:12.5/0/default.jpg#h=680&w=573",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/rp/batch_rp_invisiblestalker_ver01/data/sn91070618/00516991811/1961111001/0574.xml&format=alto_xml"
+  ],
+  "index": 8,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "newport",
+    "rhode island"
+  ],
+  "location_city": [
+    "newport"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "newport"
+  ],
+  "location_state": [
+    "rhode island"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000003",
+    "sn91070618",
+    "9",
+    "6",
+    "5",
+    "8",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn91070618"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "1",
+    "8",
+    "1",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Issues for Jan. 8-Sept. 9, 1988 published as: Navalog"
+  ],
+  "page_id": "sn91070618-1961-11-10-ed-1-0574",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "newport navalog (newport, r.i.) 1944-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "newport navalog (newport, r.i.) 1944-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn91070618/1961-11-10/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn91070618/1961-11-10/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newport",
+    "newport (r.i.)",
+    "rhode island",
+    "newspapers",
+    "military bases"
+  ],
+  "timestamp": "2025-04-27T04:37:28.481Z",
+  "title": "Image 3 of Newport navalog (Newport, R.I.), November 10, 1961",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn91070618/1961-11-10/ed-1/?sp=3&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Frp%2Fbatch_rp_invisiblestalker_ver01%2Fdata%2Fsn91070618%2F00516991811%2F1961111001%2F0574.xml&q=nuclear&relevant_snippet=1"
+}

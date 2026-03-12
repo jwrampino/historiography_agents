@@ -1,0 +1,137 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2004540423/1916-08-05/ed-1/?sp=72"
+  ],
+  "batch": [
+    "dlc_1xanth_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1916-08-05",
+  "dates": [
+    "1916-08-05"
+  ],
+  "description": [
+    "0 lie Sill OTarcUt ESTABLISHED BY JOSEPH PULITZER Published every day in the year by The Press Publishing Company 53 to 63 Park Row New York RALPH PULITZER President 63 Park Row v J ANGUS SHAW Treasurer 63 Park Row JOSEPH PULITZER JR Secretary 63 Park Row Address all communications to THE WORLD PULITZER BUILDING Park Row New York City Remit by Express Money Order Draft PostOffice Order or Registered Letter MONDAY AUGUST 7 1916 Entered at the PostOffice at New York as SecondClass Mail Matter TERMS Postage Free United States Outside of Greater New York DAILY AND SUNDAY SUNDAY One Year 5250 One Year 850 DAILY ONLY Six Months 425 One Year 600 Three Months 215 Six Months 800 One Month 75 One Month 50 EVENING ITHRICEAWEEKIWORLD Almanac One Year 350 Ono Year forl9lG 25 One Month 301 lOO I By mail 35 CANADA EVErCNG One Year 350 DAILY One Year 600 SUNDAY One Year 460 DAILY AND SUNDAY One Year 850 THRICEAWEEK One Year 250 For England and the Continent and all Countries in the Universal Postal Union DAILY AND SUNDAY DAILY ONLY One Year 2310 One Year 1640 One Month 193 THRICEAWEEK Sunday Only One Year 770"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-19T00:31:28.148Z",
+  "group": [
+    "sgpww1newspaperclippings/dlc",
+    "wwi-newspaper-clippings"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2004540423/1916-08-05/ed-1/?sp=72",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_1xanth_ver01:data:2004540423:print00192505835:1916080501:0072/full/pct:6.25/0/default.jpg#h=459&w=344",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_1xanth_ver01:data:2004540423:print00192505835:1916080501:0072/full/pct:12.5/0/default.jpg#h=918&w=688",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/sgp/sgpbatches/batch_dlc_1xanth_ver01/data/2004540423/print00192505835/1916080501/0072.xml&format=alto_xml"
+  ],
+  "index": 157,
+  "language": [
+    "german",
+    "english"
+  ],
+  "location": [
+    "new york",
+    "united states",
+    "germany"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000072",
+    "1",
+    "2004540423"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2004540423"
+  ],
+  "number_page": [
+    "0000000072"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2004540423-1916-08-05-ed-1-0072",
+  "partof": [
+    "world war history: newspaper clippings, 1914-1926",
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "world war history: newspaper clippings, 1914-1926"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2004540423/1916-08-05/ed-1/?sp=72"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2004540423/1916-08-05/ed-1/"
+  ],
+  "shelf_id": "072",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "new york",
+    "history",
+    "armistices",
+    "allied occupation",
+    "united states",
+    "sources",
+    "germany",
+    "world war"
+  ],
+  "timestamp": "2022-11-09T17:14:49.973Z",
+  "title": "Image 72 of World War history : daily records and comments as appeared in American and foreign newspapers, 1914-1926 (New York), August 5, 1916, (1916 August 5-10)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2004540423/1916-08-05/ed-1/?sp=72&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fsgp%2Fsgpbatches%2Fbatch_dlc_1xanth_ver01%2Fdata%2F2004540423%2Fprint00192505835%2F1916080501%2F0072.xml&q=terrorism&relevant_snippet=1"
+}

@@ -1,0 +1,202 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "subjects": [
+    {
+      "heading": "Laws",
+      "authorityType": "specificRecordsType",
+      "naId": 10629340
+    },
+    {
+      "heading": "Chinese",
+      "authorityType": "topicalSubject",
+      "naId": 10639127
+    }
+  ],
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "An Act to Execute Certain Treaty Stipulations Relating to Chinese",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "7th and Pennsylvania Avenue NW",
+          "city": "Washington",
+          "phone": "202-357-5385",
+          "address1": "National Archives Building",
+          "postalCode": "20408",
+          "name": "National Archives at Washington, DC - Textual Reference",
+          "state": "DC",
+          "fax": "202-357-5936",
+          "email": "Archives1reference@nara.gov",
+          "mailCode": "RR1"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "depth": 0,
+          "generalMediaTypes": [
+            "Bound Volumes"
+          ],
+          "width": 0,
+          "specificMediaType": "Bound Volume",
+          "height": 0
+        }
+      ],
+      "copyStatus": "Preservation"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupName": "National Archives at Washington, DC \u00a0 \u2013 Textual Reference",
+    "groupId": "RR1",
+    "groupCd": "RR1"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "productionDates": [
+    {
+      "month": 5,
+      "year": 1882,
+      "day": 6,
+      "logicalDate": "1882-05-06"
+    }
+  ],
+  "variantControlNumbers": [
+    {
+      "note": "This is the NARA internal exhibit tracking number.",
+      "number": "07608",
+      "type": "Other Identifier"
+    },
+    {
+      "number": "A1 5-B",
+      "type": "HMS/MLR Entry Number"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "07608-2015-001-ac.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/53/7521/5752153/content/dc-metro/rg-011/299811/07608-2015-001-ac.jpg",
+      "objectFileSize": 16360405,
+      "objectId": "54538088",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "07608-2015-002-ac.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/53/7521/5752153/content/dc-metro/rg-011/299811/07608-2015-002-ac.jpg",
+      "objectFileSize": 15118595,
+      "objectId": "54538089",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "07608-2015-003-ac.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/53/7521/5752153/content/dc-metro/rg-011/299811/07608-2015-003-ac.jpg",
+      "objectFileSize": 15825054,
+      "objectId": "54538090",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "07608-2015-004-ac.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/53/7521/5752153/content/dc-metro/rg-011/299811/07608-2015-004-ac.jpg",
+      "objectFileSize": 15400553,
+      "objectId": "54538091",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "07608-2015-005-ac.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/53/7521/5752153/content/dc-metro/rg-011/299811/07608-2015-005-ac.jpg",
+      "objectFileSize": 13956187,
+      "objectId": "54538092",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "07608-2015-006-ac.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/53/7521/5752153/content/dc-metro/rg-011/299811/07608-2015-006-ac.jpg",
+      "objectFileSize": 17463544,
+      "objectId": "54538093",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "07608-2015-007-ac.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/53/7521/5752153/content/dc-metro/rg-011/299811/07608-2015-007-ac.jpg",
+      "objectFileSize": 17203268,
+      "objectId": "54538094",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "07608-2015.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/53/7521/5752153/content/dc-metro/rg-011/299811/07608-2015.pdf",
+      "objectFileSize": 111349440,
+      "objectId": "54538087",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "otherTitles": [
+    "An Act of May 6, 1882, Public Law 71, 47th Congress, 1st Session, 22 STAT 58, to Execute Certain Treaty Stipulations Relating to Chinese",
+    "Chinese Exclusion Act of 1882",
+    "Public Law 47-71"
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1778,
+        "logicalDate": "1778-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 11,
+      "inclusiveEndDate": {
+        "year": 2006,
+        "logicalDate": "2006-01-01"
+      },
+      "title": "General Records of the United States Government",
+      "naId": 340
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1789,
+        "logicalDate": "1789-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Predecessor",
+          "heading": "Department of State. (09/1789 - )",
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 9,
+            "year": 1789,
+            "logicalDate": "1789-09-01"
+          },
+          "naId": 10453324
+        },
+        {
+          "creatorType": "Most Recent",
+          "heading": "National Archives and Records Administration. Office of the Federal Register. (04/01/1985 - )",
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 4,
+            "year": 1985,
+            "day": 1,
+            "logicalDate": "1985-04-01"
+          },
+          "naId": 10489294
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 2014,
+        "logicalDate": "2014-01-01"
+      },
+      "title": "Enrolled Acts and Resolutions of Congress",
+      "naId": 299811
+    }
+  ],
+  "scopeAndContentNote": "In the spring of 1882, the Chinese Exclusion Act was passed by Congress and signed by President Chester A. Arthur.  This act provided an absolute 10-year moratorium on Chinese labor immigration.  For the first time, Federal law proscribed entry of an ethnic working group on the premise that it endangered the good order of certain localities.  The Chinese Exclusion Act required the few non-laborers who sought entry to obtain certification from the Chinese government that they were qualified to immigrate.  But this group found it increasingly difficult to prove that they were not laborers because the 1882 act defined excludables as \"skilled and unskilled laborers and Chinese employed in mining.\"  Thus very few Chinese could enter the country under the 1882 law.  The 1882 exclusion act also placed new requirements on Chinese who had already entered the country.  If they left the United States, they had to obtain certifications to re-enter.  Congress, moreover, refused State and Federal courts the right to grant citizenship to Chinese resident aliens, although these courts could still deport them.",
+  "naId": 5752153
+}

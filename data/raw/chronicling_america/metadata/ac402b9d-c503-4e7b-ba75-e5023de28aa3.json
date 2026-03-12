@@ -1,0 +1,131 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16093/?sp=1"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1805-10-08",
+  "dates": [
+    "1805-10-08"
+  ],
+  "description": [
+    "es er ee ct By Messrs F THOMPSON anp CO TOR PRAY PUBLIC SALE PADDY ADNADRAADA DA ANAN ANA To be fold by Public Auian PUBLIC SALE PDD DDD DA DOV OLA ANN Os Will be fold by Public AgAisn Tomorrow WEDNESDAY the gth init At their AuGionroom AT THE MANEGE vho SEN TANKSQUARRE OF THE fompirow WEDNESDAY the gth inft 4 A SELECT AND WELL CHOSEN R E P O S I I O R xy ASSORTMENT OF FRESH EUROPE JUST IMPORTED ON THE IND LAMEN RECENTLY ARRIVED Mr A De LEtang THE MOST DESIRABLE orses Parness Sadalz Phaeton aud Cerricrs OF THE LATE ppg oo JOHN MOORE Eso HORSES anp CARRIAGES et fs Ste eS ee ret GIBRALTAR A grey Saddle Horfe prime of life near FOR PRIVATE SALE A neat fafhionable light ae POST CHAISE Gas with a pair of trong Stag ferviceable grey Horfes wemseme perfecily Meat we aiPottl INton Harnefs Price Sa Rs 16 A neat fafhionable CURRICLE w ith Hood and Lamps and a pair of ftrong ferviceable chefnut Hores perfectly foun andpuiet with Europe Harnefs Price Sicca Rupees 1200 A fathionable light GIG nearly new with Hood and Lamps and a hard forne"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16093/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16093:0001/full/pct:6.25/0/default.jpg#h=485&w=329",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16093:0001/full/pct:12.5/0/default.jpg#h=970&w=658",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16093:0001/full/pct:25.0/0/default.jpg#h=1940&w=1316",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16093:0001/full/pct:50.0/0/default.jpg#h=3881&w=2633",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16093:0001/full/pct:100.0/0/default.jpg#h=7762&w=5267",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16093/0001.alto.xml&format=alto_xml"
+  ],
+  "index": 104,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "calcutta",
+    "india"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "sn88063571",
+    "2025-08-13t13:59:42.400000",
+    "sn88063570",
+    "0000000001",
+    "sn88063569"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16093-0001-alto",
+  "partof": [
+    "catalog",
+    "world digital library",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "asian division",
+    "serial and government publications division",
+    "south asian digital collection",
+    "world newspapers",
+    "general collections"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16093/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16093/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "calcutta",
+    "india"
+  ],
+  "timestamp": "2025-12-12T07:20:06.519Z",
+  "title": "Image 1 of Volume 11, Number 560, Tuesday, October 8, 1805 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16093/?sp=1&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16093%2F0001.alto.xml&q=great+war&relevant_snippet=1"
+}

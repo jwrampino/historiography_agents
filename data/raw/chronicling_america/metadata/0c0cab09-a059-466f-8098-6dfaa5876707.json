@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84024271/1951-04-19/ed-1/?sp=4"
+  ],
+  "batch": [
+    "msar_kaolin_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/mississippi/",
+    "2/united states/mississippi/holmes/",
+    "3/united states/mississippi/holmes/lexington/"
+  ],
+  "contributor": [
+    "mississippi department of archives and history"
+  ],
+  "date": "1951-04-19",
+  "dates": [
+    "1951-04-19"
+  ],
+  "description": [
+    "riiuo rvui _ THE LEXINGTON ADVERTISER BRANNON SMITH tMrs WalUr PPUBLISHER ESTABLISHED IN 1837 _PUBLISHED EVERY THURSDAY__ Subscription Ratos ___ nywhere in Holmes County 250 Outside Holmes County 3 00 American Deaths Pass 10000 In Korea A late casualty list issued by the Defense Department announces an increase of 846 which brings the total num ber of American casualties in Korea up to 59396includ ing 10080 dead The 10080 Americans who gave their lives for the United Nations in Korea included 8941 killed in action 1040 who died from wounds received in action and 99 who died in Communist activity In addition to these there are 38550 wounded in action who have not yet died and 10865 are missing By services the Army accounts for 49463 casualties the Marine Corps 8826 the Navy 634 and the Air Force 473 This latest casualty list shoulud remind us that while the action in Korea was at first called a little policing act ion of the United Nations it has resulted in thousands of American lives being takenhomes and families being broken foreverand a spending program by our Congress which daily becomes more of a threat to cur whole system of private free"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:44:27.973Z",
+  "group": [
+    "ndnp/msar",
+    "mississippi-department-of-archives-and-history"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84024271/1951-04-19/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kaolin_ver01:data:sn84024271:00383344839:1951041901:1103/full/pct:6.25/0/default.jpg#h=430&w=324",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kaolin_ver01:data:sn84024271:00383344839:1951041901:1103/full/pct:12.5/0/default.jpg#h=861&w=648",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/msar/batch_msar_kaolin_ver01/data/sn84024271/00383344839/1951041901/1103.xml&format=alto_xml"
+  ],
+  "index": 122,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "holmes",
+    "lexington",
+    "mississippi"
+  ],
+  "location_city": [
+    "lexington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "holmes"
+  ],
+  "location_state": [
+    "mississippi"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "9",
+    "4",
+    "1",
+    "0000000004",
+    "sn84024271",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84024271"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "8",
+    "3",
+    "3",
+    "4",
+    "4",
+    "8",
+    "3",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Times-advertiser"
+  ],
+  "page_id": "sn84024271-1951-04-19-ed-1-1103",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the lexington advertiser (lexington, miss.) 1904-1985"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the lexington advertiser (lexington, miss.) 1904-1985"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84024271/1951-04-19/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84024271/1951-04-19/ed-1/"
+  ],
+  "shelf_id": "04",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "mississippi",
+    "lexington",
+    "lexington (miss.)",
+    "holmes"
+  ],
+  "timestamp": "2023-07-06T04:45:28.366Z",
+  "title": "Image 4 of The Lexington advertiser (Lexington, Miss.), April 19, 1951",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84024271/1951-04-19/ed-1/?sp=4&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmsar%2Fbatch_msar_kaolin_ver01%2Fdata%2Fsn84024271%2F00383344839%2F1951041901%2F1103.xml&q=korea&relevant_snippet=1"
+}

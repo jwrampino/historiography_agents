@@ -1,0 +1,2339 @@
+{
+  "dataControlGroup": {
+    "groupId": "ou=RDTP1,ou=groups",
+    "groupCd": "RDTP1"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "microformPublications": [
+    {
+      "identifier": "M2075",
+      "note": "The start of this file can be found on Roll 1.",
+      "title": "M2075 - Record of Appointment of Substitute Clerks in First- and Second-Class Post Offices, 1899-1905"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "M2075-01-0005.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0005.jpg",
+      "objectFileSize": 5865969,
+      "objectId": "134746197",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0006.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0006.jpg",
+      "objectFileSize": 2098989,
+      "objectId": "134746198",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0007.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0007.jpg",
+      "objectFileSize": 2086930,
+      "objectId": "134746199",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0008.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0008.jpg",
+      "objectFileSize": 2612301,
+      "objectId": "134746200",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0009.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0009.jpg",
+      "objectFileSize": 2380055,
+      "objectId": "134746201",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0010.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0010.jpg",
+      "objectFileSize": 2223185,
+      "objectId": "134746202",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0011.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0011.jpg",
+      "objectFileSize": 2200613,
+      "objectId": "134746203",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0012.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0012.jpg",
+      "objectFileSize": 2251248,
+      "objectId": "134746204",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0013.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0013.jpg",
+      "objectFileSize": 2205376,
+      "objectId": "134746205",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0014.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0014.jpg",
+      "objectFileSize": 2216609,
+      "objectId": "134746206",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0015.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0015.jpg",
+      "objectFileSize": 2273383,
+      "objectId": "134746207",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0016.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0016.jpg",
+      "objectFileSize": 2183681,
+      "objectId": "134746208",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0017.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0017.jpg",
+      "objectFileSize": 2200258,
+      "objectId": "134746209",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0018.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0018.jpg",
+      "objectFileSize": 2165411,
+      "objectId": "134746210",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0019.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0019.jpg",
+      "objectFileSize": 2225593,
+      "objectId": "134746211",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0020.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0020.jpg",
+      "objectFileSize": 2229756,
+      "objectId": "134746212",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0021.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0021.jpg",
+      "objectFileSize": 2232006,
+      "objectId": "134746213",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0022.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0022.jpg",
+      "objectFileSize": 2214264,
+      "objectId": "134746214",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0023.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0023.jpg",
+      "objectFileSize": 2259365,
+      "objectId": "134746215",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0024.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0024.jpg",
+      "objectFileSize": 2220897,
+      "objectId": "134746216",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0025.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0025.jpg",
+      "objectFileSize": 2281302,
+      "objectId": "134746217",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0026.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0026.jpg",
+      "objectFileSize": 2235254,
+      "objectId": "134746218",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0027.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0027.jpg",
+      "objectFileSize": 2311592,
+      "objectId": "134746219",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0028.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0028.jpg",
+      "objectFileSize": 2357270,
+      "objectId": "134746220",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0029.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0029.jpg",
+      "objectFileSize": 2301025,
+      "objectId": "134746221",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0030.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0030.jpg",
+      "objectFileSize": 2156051,
+      "objectId": "134746222",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0031.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0031.jpg",
+      "objectFileSize": 2238905,
+      "objectId": "134746223",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0032.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0032.jpg",
+      "objectFileSize": 2216799,
+      "objectId": "134746224",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0033.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0033.jpg",
+      "objectFileSize": 2341580,
+      "objectId": "134746225",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0034.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0034.jpg",
+      "objectFileSize": 2267691,
+      "objectId": "134746226",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0035.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0035.jpg",
+      "objectFileSize": 2309992,
+      "objectId": "134746227",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0036.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0036.jpg",
+      "objectFileSize": 2223207,
+      "objectId": "134746228",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0037.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0037.jpg",
+      "objectFileSize": 2282451,
+      "objectId": "134746229",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0038.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0038.jpg",
+      "objectFileSize": 2248595,
+      "objectId": "134746230",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0039.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0039.jpg",
+      "objectFileSize": 2298283,
+      "objectId": "134746231",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0040.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0040.jpg",
+      "objectFileSize": 2024685,
+      "objectId": "134746232",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0041.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0041.jpg",
+      "objectFileSize": 2332028,
+      "objectId": "134746233",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0042.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0042.jpg",
+      "objectFileSize": 3062334,
+      "objectId": "134746234",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0043.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0043.jpg",
+      "objectFileSize": 3056082,
+      "objectId": "134746235",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0044.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0044.jpg",
+      "objectFileSize": 2833632,
+      "objectId": "134746236",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0045.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0045.jpg",
+      "objectFileSize": 3366232,
+      "objectId": "134746237",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0046.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0046.jpg",
+      "objectFileSize": 3025398,
+      "objectId": "134746238",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0047.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0047.jpg",
+      "objectFileSize": 3082330,
+      "objectId": "134746239",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0048.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0048.jpg",
+      "objectFileSize": 2980828,
+      "objectId": "134746240",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0049.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0049.jpg",
+      "objectFileSize": 2868893,
+      "objectId": "134746241",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0050.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0050.jpg",
+      "objectFileSize": 3013412,
+      "objectId": "134746242",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0051.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0051.jpg",
+      "objectFileSize": 2783498,
+      "objectId": "134746243",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0052.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0052.jpg",
+      "objectFileSize": 3170269,
+      "objectId": "134746244",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0053.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0053.jpg",
+      "objectFileSize": 3128168,
+      "objectId": "134746245",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0054.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0054.jpg",
+      "objectFileSize": 3268348,
+      "objectId": "134746246",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0055.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0055.jpg",
+      "objectFileSize": 3001262,
+      "objectId": "134746247",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0056.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0056.jpg",
+      "objectFileSize": 2845667,
+      "objectId": "134746248",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0057.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0057.jpg",
+      "objectFileSize": 3729915,
+      "objectId": "134746249",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0058.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0058.jpg",
+      "objectFileSize": 2973189,
+      "objectId": "134746250",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0059.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0059.jpg",
+      "objectFileSize": 2892277,
+      "objectId": "134746251",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0060.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0060.jpg",
+      "objectFileSize": 3262725,
+      "objectId": "134746252",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0061.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0061.jpg",
+      "objectFileSize": 3009805,
+      "objectId": "134746253",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0062.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0062.jpg",
+      "objectFileSize": 2803507,
+      "objectId": "134746254",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0063.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0063.jpg",
+      "objectFileSize": 3176617,
+      "objectId": "134746255",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0064.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0064.jpg",
+      "objectFileSize": 3952535,
+      "objectId": "134746256",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0065.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0065.jpg",
+      "objectFileSize": 2787827,
+      "objectId": "134746257",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0066.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0066.jpg",
+      "objectFileSize": 3011793,
+      "objectId": "134746258",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0067.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0067.jpg",
+      "objectFileSize": 3235355,
+      "objectId": "134746259",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0068.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0068.jpg",
+      "objectFileSize": 3244488,
+      "objectId": "134746260",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0069.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0069.jpg",
+      "objectFileSize": 3468729,
+      "objectId": "134746261",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0070.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0070.jpg",
+      "objectFileSize": 3242001,
+      "objectId": "134746262",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0071.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0071.jpg",
+      "objectFileSize": 3221871,
+      "objectId": "134746263",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0072.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0072.jpg",
+      "objectFileSize": 3169499,
+      "objectId": "134746264",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0073.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0073.jpg",
+      "objectFileSize": 3020046,
+      "objectId": "134746265",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0074.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0074.jpg",
+      "objectFileSize": 3024271,
+      "objectId": "134746266",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0075.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0075.jpg",
+      "objectFileSize": 3424066,
+      "objectId": "134746267",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0076.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0076.jpg",
+      "objectFileSize": 3471173,
+      "objectId": "134746268",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0077.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0077.jpg",
+      "objectFileSize": 3009210,
+      "objectId": "134746269",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0078.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0078.jpg",
+      "objectFileSize": 3487397,
+      "objectId": "134746270",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0079.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0079.jpg",
+      "objectFileSize": 3542012,
+      "objectId": "134746271",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0080.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0080.jpg",
+      "objectFileSize": 3769542,
+      "objectId": "134746272",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0081.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0081.jpg",
+      "objectFileSize": 4285180,
+      "objectId": "134746273",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0082.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0082.jpg",
+      "objectFileSize": 4257192,
+      "objectId": "134746274",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0083.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0083.jpg",
+      "objectFileSize": 3351351,
+      "objectId": "134746275",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0084.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0084.jpg",
+      "objectFileSize": 3135346,
+      "objectId": "134746276",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0085.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0085.jpg",
+      "objectFileSize": 2924917,
+      "objectId": "134746277",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0086.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0086.jpg",
+      "objectFileSize": 3266642,
+      "objectId": "134746278",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0087.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0087.jpg",
+      "objectFileSize": 3029113,
+      "objectId": "134746279",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0088.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0088.jpg",
+      "objectFileSize": 3357807,
+      "objectId": "134746280",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0089.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0089.jpg",
+      "objectFileSize": 4211678,
+      "objectId": "134746281",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0090.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0090.jpg",
+      "objectFileSize": 4116255,
+      "objectId": "134746282",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0091.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0091.jpg",
+      "objectFileSize": 3008844,
+      "objectId": "134746283",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0092.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0092.jpg",
+      "objectFileSize": 2838559,
+      "objectId": "134746284",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0093.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0093.jpg",
+      "objectFileSize": 3493472,
+      "objectId": "134746285",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0094.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0094.jpg",
+      "objectFileSize": 2868950,
+      "objectId": "134746286",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0095.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0095.jpg",
+      "objectFileSize": 3097389,
+      "objectId": "134746287",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0096.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0096.jpg",
+      "objectFileSize": 3224797,
+      "objectId": "134746288",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0097.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0097.jpg",
+      "objectFileSize": 2946586,
+      "objectId": "134746289",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0098.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0098.jpg",
+      "objectFileSize": 2840986,
+      "objectId": "134746290",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0099.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0099.jpg",
+      "objectFileSize": 2949342,
+      "objectId": "134746291",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0100.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0100.jpg",
+      "objectFileSize": 2936789,
+      "objectId": "134746292",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0101.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0101.jpg",
+      "objectFileSize": 2948982,
+      "objectId": "134746293",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0102.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0102.jpg",
+      "objectFileSize": 3009526,
+      "objectId": "134746294",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0103.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0103.jpg",
+      "objectFileSize": 2897868,
+      "objectId": "134746295",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0104.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0104.jpg",
+      "objectFileSize": 3059692,
+      "objectId": "134746296",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0105.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0105.jpg",
+      "objectFileSize": 2832782,
+      "objectId": "134746297",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0106.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0106.jpg",
+      "objectFileSize": 2967875,
+      "objectId": "134746298",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0107.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0107.jpg",
+      "objectFileSize": 2916207,
+      "objectId": "134746299",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0108.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0108.jpg",
+      "objectFileSize": 2926774,
+      "objectId": "134746300",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0109.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0109.jpg",
+      "objectFileSize": 3729948,
+      "objectId": "134746301",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0110.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0110.jpg",
+      "objectFileSize": 3946438,
+      "objectId": "134746302",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0111.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0111.jpg",
+      "objectFileSize": 3625959,
+      "objectId": "134746303",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0112.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0112.jpg",
+      "objectFileSize": 3279933,
+      "objectId": "134746304",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0113.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0113.jpg",
+      "objectFileSize": 3962013,
+      "objectId": "134746305",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0114.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0114.jpg",
+      "objectFileSize": 4236411,
+      "objectId": "134746306",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0115.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0115.jpg",
+      "objectFileSize": 3437945,
+      "objectId": "134746307",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0116.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0116.jpg",
+      "objectFileSize": 3276168,
+      "objectId": "134746308",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0117.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0117.jpg",
+      "objectFileSize": 3310071,
+      "objectId": "134746309",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0118.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0118.jpg",
+      "objectFileSize": 4280050,
+      "objectId": "134746310",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0119.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0119.jpg",
+      "objectFileSize": 3675336,
+      "objectId": "134746311",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0120.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0120.jpg",
+      "objectFileSize": 3307475,
+      "objectId": "134746312",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0121.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0121.jpg",
+      "objectFileSize": 3075721,
+      "objectId": "134746313",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0122.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0122.jpg",
+      "objectFileSize": 4233266,
+      "objectId": "134746314",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0123.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0123.jpg",
+      "objectFileSize": 3514136,
+      "objectId": "134746315",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0124.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0124.jpg",
+      "objectFileSize": 3388642,
+      "objectId": "134746316",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0125.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0125.jpg",
+      "objectFileSize": 3153928,
+      "objectId": "134746317",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0126.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0126.jpg",
+      "objectFileSize": 3534197,
+      "objectId": "134746318",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0127.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0127.jpg",
+      "objectFileSize": 3321712,
+      "objectId": "134746319",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0128.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0128.jpg",
+      "objectFileSize": 3300163,
+      "objectId": "134746320",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0129.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0129.jpg",
+      "objectFileSize": 3229426,
+      "objectId": "134746321",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0130.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0130.jpg",
+      "objectFileSize": 3385614,
+      "objectId": "134746322",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0131.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0131.jpg",
+      "objectFileSize": 3335141,
+      "objectId": "134746323",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0132.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0132.jpg",
+      "objectFileSize": 3485707,
+      "objectId": "134746324",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0133.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0133.jpg",
+      "objectFileSize": 3430915,
+      "objectId": "134746325",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0134.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0134.jpg",
+      "objectFileSize": 3528130,
+      "objectId": "134746326",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0135.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0135.jpg",
+      "objectFileSize": 3323952,
+      "objectId": "134746327",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0136.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0136.jpg",
+      "objectFileSize": 3410399,
+      "objectId": "134746328",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0137.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0137.jpg",
+      "objectFileSize": 3206332,
+      "objectId": "134746329",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0138.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0138.jpg",
+      "objectFileSize": 3294961,
+      "objectId": "134746330",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0139.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0139.jpg",
+      "objectFileSize": 3340007,
+      "objectId": "134746331",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0140.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0140.jpg",
+      "objectFileSize": 3286144,
+      "objectId": "134746332",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0141.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0141.jpg",
+      "objectFileSize": 4109946,
+      "objectId": "134746333",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0142.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0142.jpg",
+      "objectFileSize": 3867601,
+      "objectId": "134746334",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0143.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0143.jpg",
+      "objectFileSize": 4128392,
+      "objectId": "134746335",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0144.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0144.jpg",
+      "objectFileSize": 3339210,
+      "objectId": "134746336",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0145.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0145.jpg",
+      "objectFileSize": 3323000,
+      "objectId": "134746337",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0146.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0146.jpg",
+      "objectFileSize": 3092916,
+      "objectId": "134746338",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0147.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0147.jpg",
+      "objectFileSize": 3318677,
+      "objectId": "134746339",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0148.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0148.jpg",
+      "objectFileSize": 3247570,
+      "objectId": "134746340",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0149.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0149.jpg",
+      "objectFileSize": 3376796,
+      "objectId": "134746341",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0150.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0150.jpg",
+      "objectFileSize": 3489270,
+      "objectId": "134746342",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0151.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0151.jpg",
+      "objectFileSize": 3224581,
+      "objectId": "134746343",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0152.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0152.jpg",
+      "objectFileSize": 3404177,
+      "objectId": "134746344",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0153.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0153.jpg",
+      "objectFileSize": 3287283,
+      "objectId": "134746345",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0154.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0154.jpg",
+      "objectFileSize": 3457737,
+      "objectId": "134746346",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0155.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0155.jpg",
+      "objectFileSize": 3116679,
+      "objectId": "134746347",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0156.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0156.jpg",
+      "objectFileSize": 3196627,
+      "objectId": "134746348",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0157.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0157.jpg",
+      "objectFileSize": 3295676,
+      "objectId": "134746349",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0158.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0158.jpg",
+      "objectFileSize": 3282235,
+      "objectId": "134746350",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0159.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0159.jpg",
+      "objectFileSize": 3405079,
+      "objectId": "134746351",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0160.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0160.jpg",
+      "objectFileSize": 3264923,
+      "objectId": "134746352",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0161.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0161.jpg",
+      "objectFileSize": 3262722,
+      "objectId": "134746353",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0162.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0162.jpg",
+      "objectFileSize": 3165581,
+      "objectId": "134746354",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0163.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0163.jpg",
+      "objectFileSize": 3302006,
+      "objectId": "134746355",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0164.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0164.jpg",
+      "objectFileSize": 3308761,
+      "objectId": "134746356",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0165.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0165.jpg",
+      "objectFileSize": 3158243,
+      "objectId": "134746357",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0166.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0166.jpg",
+      "objectFileSize": 3129800,
+      "objectId": "134746358",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0167.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0167.jpg",
+      "objectFileSize": 3183105,
+      "objectId": "134746359",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0168.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0168.jpg",
+      "objectFileSize": 3196094,
+      "objectId": "134746360",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0169.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0169.jpg",
+      "objectFileSize": 3227785,
+      "objectId": "134746361",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0170.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0170.jpg",
+      "objectFileSize": 3106408,
+      "objectId": "134746362",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0171.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0171.jpg",
+      "objectFileSize": 3218880,
+      "objectId": "134746363",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0172.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0172.jpg",
+      "objectFileSize": 3118474,
+      "objectId": "134746364",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0173.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0173.jpg",
+      "objectFileSize": 3138155,
+      "objectId": "134746365",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0174.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0174.jpg",
+      "objectFileSize": 3606213,
+      "objectId": "134746366",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0175.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0175.jpg",
+      "objectFileSize": 3201786,
+      "objectId": "134746367",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0176.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0176.jpg",
+      "objectFileSize": 3185536,
+      "objectId": "134746368",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0177.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0177.jpg",
+      "objectFileSize": 3183273,
+      "objectId": "134746369",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0178.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0178.jpg",
+      "objectFileSize": 3133247,
+      "objectId": "134746370",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0179.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0179.jpg",
+      "objectFileSize": 3298073,
+      "objectId": "134746371",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0180.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0180.jpg",
+      "objectFileSize": 3245356,
+      "objectId": "134746372",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0181.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0181.jpg",
+      "objectFileSize": 2845469,
+      "objectId": "134746373",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0182.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0182.jpg",
+      "objectFileSize": 3070393,
+      "objectId": "134746374",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0183.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0183.jpg",
+      "objectFileSize": 2945905,
+      "objectId": "134746375",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0184.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0184.jpg",
+      "objectFileSize": 3344036,
+      "objectId": "134746376",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0185.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0185.jpg",
+      "objectFileSize": 3253287,
+      "objectId": "134746377",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0186.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0186.jpg",
+      "objectFileSize": 3138631,
+      "objectId": "134746378",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0187.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0187.jpg",
+      "objectFileSize": 3138474,
+      "objectId": "134746379",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0188.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0188.jpg",
+      "objectFileSize": 2992467,
+      "objectId": "134746380",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0189.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0189.jpg",
+      "objectFileSize": 3261734,
+      "objectId": "134746381",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0190.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0190.jpg",
+      "objectFileSize": 3056415,
+      "objectId": "134746382",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0191.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0191.jpg",
+      "objectFileSize": 3368949,
+      "objectId": "134746383",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0192.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0192.jpg",
+      "objectFileSize": 3097469,
+      "objectId": "134746384",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0193.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0193.jpg",
+      "objectFileSize": 3028816,
+      "objectId": "134746385",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0194.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0194.jpg",
+      "objectFileSize": 2952477,
+      "objectId": "134746386",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0195.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0195.jpg",
+      "objectFileSize": 3109299,
+      "objectId": "134746387",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0196.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0196.jpg",
+      "objectFileSize": 2926282,
+      "objectId": "134746388",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0197.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0197.jpg",
+      "objectFileSize": 3024975,
+      "objectId": "134746389",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0198.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0198.jpg",
+      "objectFileSize": 3676727,
+      "objectId": "134746390",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0199.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0199.jpg",
+      "objectFileSize": 3354878,
+      "objectId": "134746391",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0200.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0200.jpg",
+      "objectFileSize": 3089629,
+      "objectId": "134746392",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0201.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0201.jpg",
+      "objectFileSize": 3006835,
+      "objectId": "134746393",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0202.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0202.jpg",
+      "objectFileSize": 2708527,
+      "objectId": "134746394",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0203.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0203.jpg",
+      "objectFileSize": 3070899,
+      "objectId": "134746395",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0204.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0204.jpg",
+      "objectFileSize": 2885236,
+      "objectId": "134746396",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0205.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0205.jpg",
+      "objectFileSize": 2850994,
+      "objectId": "134746397",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0206.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0206.jpg",
+      "objectFileSize": 3058585,
+      "objectId": "134746398",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0207.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0207.jpg",
+      "objectFileSize": 2996214,
+      "objectId": "134746399",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0208.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0208.jpg",
+      "objectFileSize": 3066982,
+      "objectId": "134746400",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0209.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0209.jpg",
+      "objectFileSize": 2923927,
+      "objectId": "134746401",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0210.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0210.jpg",
+      "objectFileSize": 3008370,
+      "objectId": "134746402",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0211.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0211.jpg",
+      "objectFileSize": 3599662,
+      "objectId": "134746403",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0212.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0212.jpg",
+      "objectFileSize": 3541681,
+      "objectId": "134746404",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0213.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0213.jpg",
+      "objectFileSize": 3838327,
+      "objectId": "134746405",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0214.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0214.jpg",
+      "objectFileSize": 2886008,
+      "objectId": "134746406",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0215.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0215.jpg",
+      "objectFileSize": 2858759,
+      "objectId": "134746407",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0216.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0216.jpg",
+      "objectFileSize": 2987089,
+      "objectId": "134746408",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0217.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0217.jpg",
+      "objectFileSize": 2765272,
+      "objectId": "134746409",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0218.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0218.jpg",
+      "objectFileSize": 2743499,
+      "objectId": "134746410",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0219.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0219.jpg",
+      "objectFileSize": 2874557,
+      "objectId": "134746411",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0220.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0220.jpg",
+      "objectFileSize": 2849967,
+      "objectId": "134746412",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0221.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0221.jpg",
+      "objectFileSize": 2955347,
+      "objectId": "134746413",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0222.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0222.jpg",
+      "objectFileSize": 2935218,
+      "objectId": "134746414",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0223.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0223.jpg",
+      "objectFileSize": 2850093,
+      "objectId": "134746415",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0224.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0224.jpg",
+      "objectFileSize": 3041894,
+      "objectId": "134746416",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0225.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0225.jpg",
+      "objectFileSize": 2871170,
+      "objectId": "134746417",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0226.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0226.jpg",
+      "objectFileSize": 2971429,
+      "objectId": "134746418",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0227.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0227.jpg",
+      "objectFileSize": 3172021,
+      "objectId": "134746419",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0228.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0228.jpg",
+      "objectFileSize": 2846632,
+      "objectId": "134746420",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0229.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0229.jpg",
+      "objectFileSize": 3041300,
+      "objectId": "134746421",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0230.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0230.jpg",
+      "objectFileSize": 2958923,
+      "objectId": "134746422",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0231.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0231.jpg",
+      "objectFileSize": 3064656,
+      "objectId": "134746423",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0232.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0232.jpg",
+      "objectFileSize": 4005018,
+      "objectId": "134746424",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0233.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0233.jpg",
+      "objectFileSize": 4169604,
+      "objectId": "134746425",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0234.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0234.jpg",
+      "objectFileSize": 3092324,
+      "objectId": "134746426",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0235.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0235.jpg",
+      "objectFileSize": 2916859,
+      "objectId": "134746427",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0236.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0236.jpg",
+      "objectFileSize": 2996225,
+      "objectId": "134746428",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0237.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0237.jpg",
+      "objectFileSize": 3122721,
+      "objectId": "134746429",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0238.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0238.jpg",
+      "objectFileSize": 2713397,
+      "objectId": "134746430",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0239.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0239.jpg",
+      "objectFileSize": 2761570,
+      "objectId": "134746431",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0240.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0240.jpg",
+      "objectFileSize": 2736864,
+      "objectId": "134746432",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0241.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0241.jpg",
+      "objectFileSize": 2668378,
+      "objectId": "134746433",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0242.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0242.jpg",
+      "objectFileSize": 2816043,
+      "objectId": "134746434",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0243.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0243.jpg",
+      "objectFileSize": 2857506,
+      "objectId": "134746435",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0244.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0244.jpg",
+      "objectFileSize": 2859380,
+      "objectId": "134746436",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0245.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0245.jpg",
+      "objectFileSize": 2954513,
+      "objectId": "134746437",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0246.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0246.jpg",
+      "objectFileSize": 2886213,
+      "objectId": "134746438",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0247.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0247.jpg",
+      "objectFileSize": 2814965,
+      "objectId": "134746439",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0248.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0248.jpg",
+      "objectFileSize": 2929421,
+      "objectId": "134746440",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0249.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0249.jpg",
+      "objectFileSize": 2693924,
+      "objectId": "134746441",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0250.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0250.jpg",
+      "objectFileSize": 2677917,
+      "objectId": "134746442",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0251.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0251.jpg",
+      "objectFileSize": 3077210,
+      "objectId": "134746443",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0252.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0252.jpg",
+      "objectFileSize": 2825881,
+      "objectId": "134746444",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0253.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0253.jpg",
+      "objectFileSize": 3024451,
+      "objectId": "134746445",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0254.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0254.jpg",
+      "objectFileSize": 2813277,
+      "objectId": "134746446",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0255.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0255.jpg",
+      "objectFileSize": 2817530,
+      "objectId": "134746447",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0256.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0256.jpg",
+      "objectFileSize": 3556943,
+      "objectId": "134746448",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0257.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0257.jpg",
+      "objectFileSize": 3025990,
+      "objectId": "134746449",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0258.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0258.jpg",
+      "objectFileSize": 3345487,
+      "objectId": "134746450",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0259.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0259.jpg",
+      "objectFileSize": 2774750,
+      "objectId": "134746451",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0260.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0260.jpg",
+      "objectFileSize": 2802804,
+      "objectId": "134746452",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0261.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0261.jpg",
+      "objectFileSize": 2770568,
+      "objectId": "134746453",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0262.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0262.jpg",
+      "objectFileSize": 2824434,
+      "objectId": "134746454",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0263.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0263.jpg",
+      "objectFileSize": 2868375,
+      "objectId": "134746455",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0264.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0264.jpg",
+      "objectFileSize": 2838015,
+      "objectId": "134746456",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0265.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0265.jpg",
+      "objectFileSize": 2999899,
+      "objectId": "134746457",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0266.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0266.jpg",
+      "objectFileSize": 3031392,
+      "objectId": "134746458",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0267.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0267.jpg",
+      "objectFileSize": 3356170,
+      "objectId": "134746459",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0268.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0268.jpg",
+      "objectFileSize": 3471815,
+      "objectId": "134746460",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0269.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0269.jpg",
+      "objectFileSize": 3440059,
+      "objectId": "134746461",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0270.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0270.jpg",
+      "objectFileSize": 3640759,
+      "objectId": "134746462",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0271.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0271.jpg",
+      "objectFileSize": 3471506,
+      "objectId": "134746463",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0272.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0272.jpg",
+      "objectFileSize": 3673358,
+      "objectId": "134746464",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0273.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0273.jpg",
+      "objectFileSize": 3614309,
+      "objectId": "134746465",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0274.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0274.jpg",
+      "objectFileSize": 3532202,
+      "objectId": "134746466",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0275.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0275.jpg",
+      "objectFileSize": 4251459,
+      "objectId": "134746467",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0276.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0276.jpg",
+      "objectFileSize": 3738662,
+      "objectId": "134746468",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0277.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0277.jpg",
+      "objectFileSize": 3911142,
+      "objectId": "134746469",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0278.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0278.jpg",
+      "objectFileSize": 4119601,
+      "objectId": "134746470",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0279.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0279.jpg",
+      "objectFileSize": 3980075,
+      "objectId": "134746471",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0280.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0280.jpg",
+      "objectFileSize": 3991754,
+      "objectId": "134746472",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0281.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0281.jpg",
+      "objectFileSize": 3963910,
+      "objectId": "134746473",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0282.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0282.jpg",
+      "objectFileSize": 4080375,
+      "objectId": "134746474",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "M2075-01-0283.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-028/609281/01/M2075-01-0283.jpg",
+      "objectFileSize": 3904942,
+      "objectId": "134746475",
+      "objectDescription": "This digital image was derived from the microfilm publication of this series.",
+      "objectType": "Image (JPG)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1773,
+        "logicalDate": "1773-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 28,
+      "inclusiveEndDate": {
+        "year": 1971,
+        "logicalDate": "1971-12-31"
+      },
+      "title": "Records of the Post Office Department",
+      "naId": 357
+    },
+    {
+      "inclusiveStartDate": {
+        "month": 7,
+        "year": 1899,
+        "day": 1,
+        "logicalDate": "1899-07-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "Post Office Department. Office of the First Assistant Postmaster General. Division of Post Office Clerical Service. ca. 1889-ca. 1936",
+          "abolishDate": {
+            "year": 1936,
+            "logicalDate": "1936-12-31"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1889,
+            "logicalDate": "1889-01-01"
+          },
+          "naId": 10479273
+        }
+      ],
+      "inclusiveEndDate": {
+        "month": 6,
+        "year": 1905,
+        "day": 30,
+        "logicalDate": "1905-06-30"
+      },
+      "title": "Records of Appointment of Substitute Clerks in the First and Second Class Post Offices",
+      "naId": 609281
+    }
+  ],
+  "title": "Aberdeen, South Dakota -- Muskogee, Indian Territory",
+  "naId": 134746196,
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "7th and Pennsylvania Avenue NW",
+          "city": "Washington",
+          "phone": "202-357-5385",
+          "address1": "National Archives Building",
+          "postalCode": "20408",
+          "name": "National Archives at Washington, DC - Textual Reference",
+          "state": "DC",
+          "fax": "202-357-5936",
+          "email": "Archives1reference@nara.gov",
+          "mailCode": "RDT1"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper",
+          "containerId": "Reel 1"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84020558/1901-12-19/ed-1/?sp=1"
+  ],
+  "batch": [
+    "az_leopardfrog_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/arizona/",
+    "2/united states/arizona/maricopa/",
+    "3/united states/arizona/maricopa/phoenix/"
+  ],
+  "contributor": [
+    "arizona state library, archives and public records; phoenix, az"
+  ],
+  "date": "1901-12-19",
+  "dates": [
+    "1901-12-19"
+  ],
+  "description": [
+    "THE ARIZONA REPUBLICAN TWELFTH TEAB PHOENIX ARIZONA THURSDAY MORNING DECEMBER 19 1901 VOL XII NO 215 ISLAND TARIFF Philippines Bill Passed the House A BREAK IN THE LINES Republicans Lined Up Against a Mo tion to Recommit and the Louis iana Representatives Stayed With Them The Opposition Desired a Longer Time to Consider the Bill Bat Had Nothing to Take Its Place Washington Iec 13 The bill to provide a revenue temporarily for the Philippine islands passed the houHe to day by a vote of 163 to 12S Five re publicans McCall of Massachusetts Lit tied eld of Maine Heatwole Eddy and Stevens of Minnesota voted with the democrats against the bill Three democrats Kobertson Davey and liroussard of Louisiana voted with the republicans for the bill In the course of the debate today the democrats were several times taunted with their failure to present an alternative proposition for the pending measure but just before the vote was taken on the passage of the bill the attitude of the minority was defined in a motion to lecommlt offered by Mr Richardson the minority leader It instructed the ways and means committee to report the bill back to be amended so"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-09T14:52:22.264Z",
+  "group": [
+    "ndnp/az",
+    "arizona-state-university-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84020558/1901-12-19/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_leopardfrog_ver01:data:sn84020558:00212476213:1901121901:0117/full/pct:6.25/0/default.jpg#h=359&w=301",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_leopardfrog_ver01:data:sn84020558:00212476213:1901121901:0117/full/pct:12.5/0/default.jpg#h=719&w=602",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/az/batch_az_leopardfrog_ver01/data/sn84020558/00212476213/1901121901/0117.xml&format=alto_xml"
+  ],
+  "index": 41,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "phoenix",
+    "maricopa",
+    "maricopa county",
+    "arizona"
+  ],
+  "location_city": [
+    "phoenix"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "maricopa"
+  ],
+  "location_state": [
+    "arizona"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "6",
+    "7",
+    "4",
+    "sn84020558",
+    "3",
+    "2",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84020558"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "2",
+    "4",
+    "7",
+    "6",
+    "2",
+    "1",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Daily republican"
+  ],
+  "page_id": "sn84020558-1901-12-19-ed-1-0117",
+  "partof": [
+    "serial and government publications division",
+    "chronicling america",
+    "arizona republican (phoenix, ariz.) 1890-1930"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "arizona republican (phoenix, ariz.) 1890-1930"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84020558/1901-12-19/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84020558/1901-12-19/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "phoenix",
+    "maricopa county (ariz.)",
+    "phoenix (ariz.)",
+    "maricopa",
+    "newspapers",
+    "maricopa county",
+    "arizona"
+  ],
+  "timestamp": "2024-01-10T08:08:34.999Z",
+  "title": "Image 1 of Arizona republican (Phoenix, Ariz.), December 19, 1901",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84020558/1901-12-19/ed-1/?sp=1&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Faz%2Fbatch_az_leopardfrog_ver01%2Fdata%2Fsn84020558%2F00212476213%2F1901121901%2F0117.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

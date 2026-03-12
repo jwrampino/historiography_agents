@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86089716/1939-12-29/ed-1/?sp=4"
+  ],
+  "batch": [
+    "txdn_falcon_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/texas/",
+    "2/united states/texas/hidalgo/",
+    "3/united states/texas/hidalgo/mcallen/"
+  ],
+  "contributor": [
+    "university of north texas; denton, tx"
+  ],
+  "date": "1939-12-29",
+  "dates": [
+    "1939-12-29"
+  ],
+  "description": [
+    "PAGE FOUR McAllen Daily Press TR EMARIIEE e it e D LTS EE B O MRDANIREL I o i it dipoitpeinaitasinee BT OF MRl e it ittt Any erroncous reflection upon the character standing or reputa tion of any persun firm or corporation which may appear in the col umns of The Press will be gladly corrected when brought to the at tention of the management The Press is Hidalgo countys oldest daily newspaper serving McAllen Hidalgo county and the Valley SUBSCRIPTION RATES By Mail in Hidalgo County e 250 Per Year By Carrier in Hidalgo County e 10c Per Week By Mail Quiside Hidaigo County 600 Per Year Entered as second rlass mail matter at the Post Office in Me Allen Texas under Act of March 1879 News from warring countries is subject to censor ship It may sometimes be misleading It is the right and duty of every American citizen to do his own thinking hold to his own beliefs and not permit himself or his country to become a victim of emotionalism or propaganda G i i EMPLOYMENT Growing shortage of skilled lehor in many parts of the country are reported from 350 local business organizations throughout"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-07-13T03:36:21.634Z",
+  "group": [
+    "ndnp/txdn",
+    "university-of-north-texas-denton-tx-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86089716/1939-12-29/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_falcon_ver01:data:sn86089716:00340587017:1939122901:1133/full/pct:6.25/0/default.jpg#h=320&w=243",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_falcon_ver01:data:sn86089716:00340587017:1939122901:1133/full/pct:12.5/0/default.jpg#h=641&w=487",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/txdn/batch_txdn_falcon_ver01/data/sn86089716/00340587017/1939122901/1133.xml&format=alto_xml"
+  ],
+  "index": 7,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "texas",
+    "hidalgo",
+    "united states",
+    "mcallen"
+  ],
+  "location_city": [
+    "mcallen"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hidalgo"
+  ],
+  "location_state": [
+    "texas"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "sn86089716",
+    "4",
+    "5",
+    "1",
+    "7",
+    "0000000004",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86089716"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "7",
+    "0",
+    "1",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86089716-1939-12-29-ed-1-1133",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "mcallen daily press (mcallen, tex.) 1920-????"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "mcallen daily press (mcallen, tex.) 1920-????"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86089716/1939-12-29/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86089716/1939-12-29/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "texas",
+    "united states",
+    "hidalgo",
+    "newspapers",
+    "mcallen (tex.)",
+    "mcallen"
+  ],
+  "timestamp": "2025-07-13T03:53:33.278Z",
+  "title": "Image 4 of McAllen daily press (McAllen, Tex.), December 29, 1939",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86089716/1939-12-29/ed-1/?sp=4&q=great+depressiom",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Ftxdn%2Fbatch_txdn_falcon_ver01%2Fdata%2Fsn86089716%2F00340587017%2F1939122901%2F1133.xml&q=great+depressiom&relevant_snippet=1"
+}

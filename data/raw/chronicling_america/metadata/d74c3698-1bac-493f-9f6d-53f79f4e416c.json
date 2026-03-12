@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85038709/1921-01-20/ed-1/?sp=10"
+  ],
+  "batch": [
+    "mimtptc_douglas_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/michigan/",
+    "2/united states/michigan/gratiot/",
+    "3/united states/michigan/gratiot/alma/"
+  ],
+  "contributor": [
+    "central michigan university, clark historical library"
+  ],
+  "date": "1921-01-20",
+  "dates": [
+    "1921-01-20"
+  ],
+  "description": [
+    "Thursday January 20 1921 THE ALMA RECOR PAGE TEN J C PENNEY COMPANY A NATIONWIDE INSTITUTION J C PENNEY COMPANY A NATIONWIDE INSTITUTION J C PENNEY COMPANY A NATIONWIDE INSTITUTION O The RECONSTRUCTION PERIOD IS ON Every article in our store bears its proper reduction You can shop here with confidence that prices are RIGHT 9 TTn n mm H K Y U Y c I Si pi n o C sr o H H So H G i fe 1 5 Y o Y Y O u u Y Cm WE believe the era of high prices is rapidly passing Production has overtaken demand and prevailing replacement costs are forcing prices downward To meet this new condition it is our desire and intention to strike bot tom in our first revision of prices This means a tremendous loss to us which is your gain Those who know us know we are not special sale folks and we do no net want you to confuse this price revision with the ordinary special ten day sale commonly employed by other merchants Prices quoted in our stores will prevail until the goods now in stock are sold and will continue to prevail"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-16T21:38:49.595Z",
+  "group": [
+    "ndnp/mimtptc",
+    "central-michigan-university-clark-historical-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85038709/1921-01-20/ed-1/?sp=10",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn85038709:00415669392:1921012001:0266/full/pct:3.125/0/default.jpg#h=294&w=216",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn85038709:00415669392:1921012001:0266/full/pct:6.25/0/default.jpg#h=588&w=433",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn85038709:00415669392:1921012001:0266/full/pct:12.5/0/default.jpg#h=1177&w=866",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mimtptc/batch_mimtptc_douglas_ver01/data/sn85038709/00415669392/1921012001/0266.xml&format=alto_xml"
+  ],
+  "index": 33,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "gratiot",
+    "gratiot county",
+    "alma",
+    "michigan",
+    "united states"
+  ],
+  "location_city": [
+    "alma"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "gratiot"
+  ],
+  "location_state": [
+    "michigan"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "sn85038709",
+    "0000000010",
+    "2",
+    "6",
+    "5",
+    "3",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85038709"
+  ],
+  "number_page": [
+    "0000000010"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "6",
+    "9",
+    "3",
+    "9",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85038709-1921-01-20-ed-1-0266",
+  "partof": [
+    "chronicling america",
+    "alma record (alma, mich.) 1878-1928",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "alma record (alma, mich.) 1878-1928"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85038709/1921-01-20/ed-1/?sp=10"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85038709/1921-01-20/ed-1/"
+  ],
+  "shelf_id": "10",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "gratiot",
+    "gratiot county (mich.)",
+    "gratiot county",
+    "alma (mich.)",
+    "alma",
+    "michigan",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2024-01-17T04:45:16.736Z",
+  "title": "Image 10 of Alma record (Alma, Mich.), January 20, 1921",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85038709/1921-01-20/ed-1/?sp=10&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmimtptc%2Fbatch_mimtptc_douglas_ver01%2Fdata%2Fsn85038709%2F00415669392%2F1921012001%2F0266.xml&q=reconstruction&relevant_snippet=1"
+}

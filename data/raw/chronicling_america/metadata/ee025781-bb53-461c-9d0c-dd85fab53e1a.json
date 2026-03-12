@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1921-04-06/ed-1/?sp=16"
+  ],
+  "batch": [
+    "dlc_babelfish_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1921-04-06",
+  "dates": [
+    "1921-04-06"
+  ],
+  "description": [
+    "Slip COMES PAY HEAVY FINES Laxity in Observing Immigration Regulations Costs Over Million Annually More than a million dollars annuall assessed and collected by the government in fines and penalties againsl steamship companies entering Unltec States ports because the teamshi companies have not exercised propei supervision over Immigrants it wai learned today at the Department ol Labor The amount probably will bt considerably over a million dollar this year it was said on account ol the increased number of immigrants to the United States Not only is there a large loss in money to the steamship companies but home ties are severed in foreign KrAifPn un in countries ana noma scores of cases only to have the immigrant turned back at the port when immigration inspectors for the steamship companies could by exercising their discretionaby powers save themselves money and the immigrants heartbreak and expense by turning them back at the port of embarkation Iabor Department Fmbarraslng Laxity of inspection of immigrants by the steamship companies a former official of the Department of Labor charged with handling of immigration matters aid also has caused embarrassment to the Department of Labor he said lies in more rigid Inspection of immigrants and"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:48:36.247Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1921-04-06/ed-1/?sp=16",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_babelfish_ver01:data:sn83045462:00280656914:1921040601:0593/full/pct:6.25/0/default.jpg#h=458&w=355",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_babelfish_ver01:data:sn83045462:00280656914:1921040601:0593/full/pct:12.5/0/default.jpg#h=917&w=710",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_babelfish_ver01/data/sn83045462/00280656914/1921040601/0593.xml&format=alto_xml"
+  ],
+  "index": 99,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "5",
+    "9",
+    "0000000016",
+    "4",
+    "sn83045462",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000016"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "6",
+    "9",
+    "1",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1921-04-06-ed-1-0593",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1921-04-06/ed-1/?sp=16"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1921-04-06/ed-1/"
+  ],
+  "shelf_id": "16",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-19T23:45:23.795Z",
+  "title": "Image 16 of Evening star (Washington, D.C.), April 6, 1921",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1921-04-06/ed-1/?sp=16&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_babelfish_ver01%2Fdata%2Fsn83045462%2F00280656914%2F1921040601%2F0593.xml&q=immigration&relevant_snippet=1"
+}

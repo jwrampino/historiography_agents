@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn96061150/1887-06-23/ed-1/?sp=2"
+  ],
+  "batch": [
+    "oru_hufnagel_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/oregon/",
+    "2/united states/oregon/clatsop/",
+    "3/united states/oregon/clatsop/astoria/"
+  ],
+  "contributor": [
+    "university of oregon libraries; eugene, or"
+  ],
+  "date": "1887-06-23",
+  "dates": [
+    "1887-06-23"
+  ],
+  "description": [
+    "UJ Wxt gaUu jtariatt ASTOEIA OREGON THURSDAY JUNE 23 187 MANIFEST DESTINY Foe the last ninety days it has been understood that inquiries in San Francisco and New York re garding the building of a railroad from Forest Grove to Astoria were being prosecuted in a manner satisfactory to the promoters of the scheme The following from yesterdays Portland ITeics fits in so well with what is known here that it is considered worthy of credence San Fbakoisco June 2L Work will shortly be commenced ona road extending from Astoria Oregon to Forest Grove a distance of 110 miles The line will connect with the Oregon California branch of the Southern Pacific railroad By means of this road connec tions can be maintained with the eastern routes and as the builders of the road intend to erect sheds and wharves deepwater ships will be able to load at Astoria Bails for the line are expeoted shortly from En gland Locomotives and rolling stock are being constructed in the East The cost of the road and equipment is about one million dollars and the entire sum has been subscribed Arrangements have been in progress for some time regarding terminal facilities depot"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-07-15T14:39:06.491Z",
+  "group": [
+    "ndnp/oru",
+    "university-of-oregon-libraries-eugene-or-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn96061150/1887-06-23/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_hufnagel_ver02:data:sn96061150:0020029810A:1887062301:0589/full/pct:3.125/0/default.jpg#h=272&w=197",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_hufnagel_ver02:data:sn96061150:0020029810A:1887062301:0589/full/pct:6.25/0/default.jpg#h=545&w=395",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_hufnagel_ver02:data:sn96061150:0020029810A:1887062301:0589/full/pct:12.5/0/default.jpg#h=1090&w=791",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/oru/batch_oru_hufnagel_ver02/data/sn96061150/0020029810A/1887062301/0589.xml&format=alto_xml"
+  ],
+  "index": 177,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "oregon",
+    "clatsop",
+    "astoria"
+  ],
+  "location_city": [
+    "astoria"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "clatsop"
+  ],
+  "location_state": [
+    "oregon"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "sn96061150",
+    "1",
+    "2",
+    "a",
+    "0000000002",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn96061150"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "0",
+    "2",
+    "9",
+    "8",
+    "1",
+    "0",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Daily Astorian"
+  ],
+  "page_id": "sn96061150-1887-06-23-ed-1-0589",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the daily morning astorian (astoria, oregon) 1883-1899"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the daily morning astorian (astoria, oregon) 1883-1899"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn96061150/1887-06-23/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn96061150/1887-06-23/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "astoria",
+    "united states",
+    "newspapers",
+    "astoria (or.)",
+    "oregon",
+    "clatsop"
+  ],
+  "timestamp": "2024-07-15T22:26:57.815Z",
+  "title": "Image 2 of The daily morning Astorian (Astoria, Oregon), June 23, 1887",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn96061150/1887-06-23/ed-1/?sp=2&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Foru%2Fbatch_oru_hufnagel_ver02%2Fdata%2Fsn96061150%2F0020029810A%2F1887062301%2F0589.xml&q=manifest+destiny&relevant_snippet=1"
+}

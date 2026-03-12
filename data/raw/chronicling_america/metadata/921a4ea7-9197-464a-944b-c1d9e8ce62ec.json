@@ -1,0 +1,177 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn98060050/1862-07-24/ed-1/?sp=4"
+  ],
+  "batch": [
+    "vtu_danby_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/vermont/",
+    "2/united states/vermont/windham/",
+    "3/united states/vermont/windham/brattleboro/",
+    "3/united states/vermont/windham/bellows falls/",
+    "2/united states/vermont/windsor/",
+    "3/united states/vermont/windsor/ludlow/"
+  ],
+  "contributor": [
+    "university of vermont"
+  ],
+  "date": "1862-07-24",
+  "dates": [
+    "1862-07-24"
+  ],
+  "description": [
+    "SnUTUIN1 IN THE PABTOItM LINE tetrad from Loieettt Ilialow Papers 1K Sunday after meiim ramble Ther limes when Inm tinoslilo a tons An sort o sulTncnto to bo nlone Im crowdod ie to think tlict folks nro nigh An ennt bear notliln cliwcr than tho sky Now tha wind Is full flilflv In the mind Kj wnt It Is ottiloors of I I t blnil An sometimes In tlio firet snutyest wcnlher Jly lnnanl vnno pints ent for weeks together Jlv nntiir tits nil fooC flcsn nn my sins Oomo ilrliitlii on mv conscience sharp ns plnsi Will et sech times lies slip out o eight An take It out In n flilr stnnup ftit With the one cms I cant Iny hiy on the shelf The crooMest stick In nil lira henp Myself Twin so las Sabhnth nrler meetln timet Flnilln my feellns wouldnt nnwnvs rhynio Willi nohoilyi but oft tho licmllo flew An took thuiRs from nn cntwln pint o view I started ofT to lose mo In the hills Where tho pines lie up buck o Stalls Mills Tines ef ynilro blue nro tbo best friends I know They mow nn sigh nn shli nn sheer your"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-10-14T21:51:54.626Z",
+  "group": [
+    "ndnp/vtu",
+    "university-of-vermont-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn98060050/1862-07-24/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777365:1862072401:0319/full/pct:6.25/0/default.jpg#h=427&w=328",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777365:1862072401:0319/full/pct:12.5/0/default.jpg#h=854&w=656",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/vtu/batch_vtu_danby_ver01/data/sn98060050/00280777365/1862072401/0319.xml&format=alto_xml"
+  ],
+  "index": 152,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "vermont",
+    "brattleboro",
+    "windsor",
+    "windham",
+    "united states",
+    "bellows falls",
+    "ludlow"
+  ],
+  "location_city": [
+    "brattleboro",
+    "bellows falls",
+    "ludlow"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "windham",
+    "windsor"
+  ],
+  "location_state": [
+    "vermont"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000004",
+    "2",
+    "sn98060050",
+    "8",
+    "3",
+    "6",
+    "5",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn98060050"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "7",
+    "7",
+    "7",
+    "3",
+    "6",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Vermont phoenix and Vermont republican",
+    "Vermont phoenix and Vermont record & farmer",
+    "Vermont phoenix and Vermont record and farmer"
+  ],
+  "page_id": "sn98060050-1862-07-24-ed-1-0319",
+  "partof": [
+    "chronicling america",
+    "vermont ph\u0153nix (brattleboro, vt.) 1834-1955",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "vermont ph\u0153nix (brattleboro, vt.) 1834-1955"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn98060050/1862-07-24/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn98060050/1862-07-24/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "ludlow (vt.)",
+    "vermont",
+    "brattleboro (vt.)",
+    "bellows falls",
+    "bellows falls (vt.)",
+    "brattleboro",
+    "windsor",
+    "windham",
+    "united states",
+    "newspapers",
+    "ludlow"
+  ],
+  "timestamp": "2022-11-02T21:30:07.873Z",
+  "title": "Image 4 of Vermont ph\u0153nix (Brattleboro, Vt.), July 24, 1862",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn98060050/1862-07-24/ed-1/?sp=4&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fvtu%2Fbatch_vtu_danby_ver01%2Fdata%2Fsn98060050%2F00280777365%2F1862072401%2F0319.xml&q=manifest+destiny&relevant_snippet=1"
+}

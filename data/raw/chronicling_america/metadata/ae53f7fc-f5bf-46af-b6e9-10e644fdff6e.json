@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83026172/1854-03-24/ed-1/?sp=4"
+  ],
+  "batch": [
+    "dlc_doubleday_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1854-03-24",
+  "dates": [
+    "1854-03-24"
+  ],
+  "description": [
+    "yen SPEECH OF MR BELL OF TENNESSEE 2 On the bill to establish the Nebraska and Kansas Territories and to repeal the Missouri Compromise In SENATE March 3 1854 The Senate having under consideration the bill to or ganize the Territories of Nebraska and Kansas Mr BELL said Mr President I feel greatly embar rassed in undertaking to address the Senate at this time particularly since the sentiment of the body has been so decidedly expressed not only in regard to the feature which is considered the most important in the bill but in regard to every other to which I propose to address my remarks I regret sir that I feel under any necessity to trespass at all upon the attention of the Senate upon this subject and particularly when I observe the solici tude of the friends of the bill for its immediate passage But the relations in which I stand to this measure I think forbid me to forbear My own relfrespect would forbid that I should forbear however painful it may be to me to express any views in opposition to a measure which seems to commend itself to the almost unanimous approval and support of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-04T04:34:49.661Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83026172/1854-03-24/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_doubleday_ver01:data:sn83026172:00211678203:1854032401:0206/full/pct:3.125/0/default.jpg#h=261&w=195",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_doubleday_ver01:data:sn83026172:00211678203:1854032401:0206/full/pct:6.25/0/default.jpg#h=523&w=391",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_doubleday_ver01:data:sn83026172:00211678203:1854032401:0206/full/pct:12.5/0/default.jpg#h=1047&w=783",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_doubleday_ver01/data/sn83026172/00211678203/1854032401/0206.xml&format=alto_xml"
+  ],
+  "index": 32,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000004",
+    "2",
+    "6",
+    "8",
+    "3",
+    "1",
+    "sn83026172",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83026172"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "1",
+    "6",
+    "7",
+    "8",
+    "2",
+    "0",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Issues for <Aug. 30-Sept. 22, 1814> published as: National intelligencer",
+    "Sunday issues for Jan. 15-Feb. 5, 1865 published as: Sunday national intelligencer"
+  ],
+  "page_id": "sn83026172-1854-03-24-ed-1-0206",
+  "partof": [
+    "chronicling america",
+    "daily national intelligencer (washington city [d.c.]) 1813-1869",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "daily national intelligencer (washington city [d.c.]) 1813-1869"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83026172/1854-03-24/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83026172/1854-03-24/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2025-05-04T08:32:05.570Z",
+  "title": "Image 4 of Daily national intelligencer (Washington City [D.C.]), March 24, 1854",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83026172/1854-03-24/ed-1/?sp=4&q=indian+territory",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_doubleday_ver01%2Fdata%2Fsn83026172%2F00211678203%2F1854032401%2F0206.xml&q=indian+territory&relevant_snippet=1"
+}

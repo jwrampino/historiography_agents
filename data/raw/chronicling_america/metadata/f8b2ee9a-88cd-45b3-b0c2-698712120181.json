@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn89074274/1921-01-20/ed-1/?sp=8"
+  ],
+  "batch": [
+    "ndhi_kensal_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/north dakota/",
+    "2/united states/north dakota/barnes/",
+    "3/united states/north dakota/barnes/valley city/"
+  ],
+  "contributor": [
+    "state historical society of north dakota"
+  ],
+  "date": "1921-01-20",
+  "dates": [
+    "1921-01-20"
+  ],
+  "description": [
+    "AGE EIGHT 25 a 2C Sheeting Pepperwell Brown 94 RECONSTRUCTION PRICE Sheeting Pepperwell Brown 94 RECONSTRUCTION PRICE 49c 49c Indian Head 36inch RECONSTRUCTION PRICE Indian Head 36inch RECONSTRUCTION PRICE 24c 24c Pillow Tubing 42inch RECONSTRUCTION PRICE Pillow Tubing 42inch RECONSTRUCTION PRICE 38c 38c Bleached Muslin Standard Hope RECONSTRUCTION PRICE Bleached Muslin Standard Hope RECONSTRUCTION PRICE Bleached Muslin Standard Hope RECONSTRUCTION PRICE 15c 15c 15c Womens Fleeced lined Hose RECONSTRUCTION PRICE Womens Fleeced lined Hose RECONSTRUCTION PRICE Womens Fleeced lined Hose RECONSTRUCTION PRICE 39c 39c 39c 3 Pound Cotton Batts RECONSTRUCTION PRICE 3 Pound Cotton Batts RECONSTRUCTION PRICE 98c 98c Berkley Cambric Cornet RECONSTRUCTION PRICE Berkley Cambric Cornet RECONSTRUCTION PRICE Berkley Cambric Cornet RECONSTRUCTION PRICE Berkley Cambric Cornet RECONSTRUCTION PRICE 16 I2C 16 I2C 16 I2C 16 I2C Berkley No 60 RECONSTRUCTION PRICE Berkley No 60 RECONSTRUCTION PRICE Berkley No 60 RECONSTRUCTION PRICE Berkley No 60 RECONSTRUCTION PRICE 2lc 2lc 2lc 2lc BELIEVING the time has arrived when revision of prices is warranted by replacement valueshaving discounted our mer chandise thousands of dollars in our inventory just completed we therefore give the public the full benefit of the loss we sustain Remember we have said Our Replacement Price which should prove"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-25T19:29:06.422Z",
+  "group": [
+    "ndnp/ndhi",
+    "state-histrorical-society-of-north-dakota-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn89074274/1921-01-20/ed-1/?sp=8",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_kensal_ver01:data:sn89074274:00212475932:1921012001:0032/full/pct:3.125/0/default.jpg#h=275&w=194",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_kensal_ver01:data:sn89074274:00212475932:1921012001:0032/full/pct:6.25/0/default.jpg#h=550&w=389",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_kensal_ver01:data:sn89074274:00212475932:1921012001:0032/full/pct:12.5/0/default.jpg#h=1100&w=779",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ndhi/batch_ndhi_kensal_ver01/data/sn89074274/00212475932/1921012001/0032.xml&format=alto_xml"
+  ],
+  "index": 62,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "north dakota",
+    "barnes",
+    "valley city"
+  ],
+  "location_city": [
+    "valley city"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "barnes"
+  ],
+  "location_state": [
+    "north dakota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "sn89074274",
+    "2",
+    "0000000008",
+    "5",
+    "3",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn89074274"
+  ],
+  "number_page": [
+    "0000000008"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "2",
+    "4",
+    "7",
+    "5",
+    "9",
+    "3",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Weekly times-record and the evening times=record"
+  ],
+  "page_id": "sn89074274-1921-01-20-ed-1-0032",
+  "partof": [
+    "the weekly times-record (valley city, n.d.) 1912-1922",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the weekly times-record (valley city, n.d.) 1912-1922"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn89074274/1921-01-20/ed-1/?sp=8"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn89074274/1921-01-20/ed-1/"
+  ],
+  "shelf_id": "8",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "valley city",
+    "north dakota",
+    "barnes",
+    "united states",
+    "newspapers",
+    "valley city (n.d.)"
+  ],
+  "timestamp": "2023-08-26T13:35:34.473Z",
+  "title": "Image 8 of The weekly times-record (Valley City, N.D.), January 20, 1921",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn89074274/1921-01-20/ed-1/?sp=8&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fndhi%2Fbatch_ndhi_kensal_ver01%2Fdata%2Fsn89074274%2F00212475932%2F1921012001%2F0032.xml&q=reconstruction&relevant_snippet=1"
+}

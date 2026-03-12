@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83004262/1913-12-25/ed-1/?sp=2"
+  ],
+  "batch": [
+    "wvu_irving_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/west virginia/",
+    "2/united states/west virginia/pocahontas/",
+    "3/united states/west virginia/pocahontas/marlinton/",
+    "3/united states/west virginia/pocahontas/huntersville/"
+  ],
+  "contributor": [
+    "west virginia university"
+  ],
+  "date": "1913-12-25",
+  "dates": [
+    "1913-12-25"
+  ],
+  "description": [
+    "The Poeabontas Times Entered at the postoffice at Marlin ton W Va as second class matter_ GALVIN W FRIGE EDI TOR Thursday December 25 1913 It is the time of Merry Christmas Bells rim from every steeple And all rejoice from Pole to Isthmus Except hardworking postal people On a challenge to find a rhyme for Christmas And it came to pass that Christ mas season coming near that the Senate up and passed the currency bill which gives the whole country a new banking system The war measure under which the national bank act was passed has lasted fifty years pretty well We have done good work with the tools which were given us Under it New York City became the money center of the country Every bank far and near contrib uted deposits to that great center Some life insurance companies provided in their charters that all their investments were to be made within fifty miles of New York And the people seemed to like their cheek Then comes the great west where the people live and they murmured against New York and proposed to divide up the deposits that were being sent to Wall Street Then it"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-27T17:02:45.729Z",
+  "group": [
+    "ndnp/wvu",
+    "west-virginia-university-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83004262/1913-12-25/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irving_ver02:data:sn83004262:00542867966:1913122501:0211/full/pct:6.25/0/default.jpg#h=451&w=337",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irving_ver02:data:sn83004262:00542867966:1913122501:0211/full/pct:12.5/0/default.jpg#h=902&w=674",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wvu/batch_wvu_irving_ver02/data/sn83004262/00542867966/1913122501/0211.xml&format=alto_xml"
+  ],
+  "index": 111,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "huntersville",
+    "west virginia",
+    "united states",
+    "marlinton",
+    "pocahontas"
+  ],
+  "location_city": [
+    "marlinton",
+    "huntersville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "pocahontas"
+  ],
+  "location_state": [
+    "west virginia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "4",
+    "9",
+    "sn83004262",
+    "2",
+    "8",
+    "5",
+    "6",
+    "0000000002",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83004262"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "2",
+    "8",
+    "6",
+    "7",
+    "9",
+    "6",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83004262-1913-12-25-ed-1-0211",
+  "partof": [
+    "chronicling america",
+    "pocahontas times (huntersville, w. va.) 1883-current",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "pocahontas times (huntersville, w. va.) 1883-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83004262/1913-12-25/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83004262/1913-12-25/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "huntersville",
+    "west virginia",
+    "huntersville (w. va.)",
+    "united states",
+    "newspapers",
+    "marlinton",
+    "pocahontas"
+  ],
+  "timestamp": "2025-07-16T22:34:15.999Z",
+  "title": "Image 2 of Pocahontas times (Huntersville, W. Va.), December 25, 1913",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83004262/1913-12-25/ed-1/?sp=2&q=phillipines",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwvu%2Fbatch_wvu_irving_ver02%2Fdata%2Fsn83004262%2F00542867966%2F1913122501%2F0211.xml&q=phillipines&relevant_snippet=1"
+}

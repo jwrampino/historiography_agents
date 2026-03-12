@@ -1,0 +1,165 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88077226/1948-06-30/ed-1/?sp=1"
+  ],
+  "batch": [
+    "ohi_amaryllis_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/montgomery/",
+    "3/united states/ohio/montgomery/dayton/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1948-06-30",
+  "dates": [
+    "1948-06-30"
+  ],
+  "description": [
+    "v v s 4 MM V k fV U Vl t Vt C 4 CTflE OHIO AwSwfcwflila mSIM Reynolds Says Negroes Preparing Civil Disobedience PHILADELPHIA June 30 A NPGrant Reynolds commis sioner of correction for the tSate of New York and exarmy chap lain was guest speaker at a huge and heated civil ngbts rally here June 20 Reynolds related his experiences in the service as well as with gov ernment officials in Washington He said pleas for a nonsegregated army were ignored unti lhe and Philip Randolph promised to en courage every Negro youth in America to refuse to should a gun in time of war Hs made them listen The unfortunate thing about his stand he said was that many influential Negroes ran for cover and went all out to say that he had no right to say such a thing He insisted that their silence whether in agreement or other wise would have been more than effective in gaining desired ends Speaking o fthe threats he and committee two months ago Rey Randolph made before the senate nolds said Those were not idle threats Reynolds fartherstatod that there are hundres of young Ne gro youth who hav"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:14:11.744Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88077226/1948-06-30/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_amaryllis_ver01:data:sn88077226:00414210387:1948063001:0568/full/pct:6.25/0/default.jpg#h=461&w=312",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_amaryllis_ver01:data:sn88077226:00414210387:1948063001:0568/full/pct:12.5/0/default.jpg#h=922&w=625",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_amaryllis_ver01/data/sn88077226/00414210387/1948063001/0568.xml&format=alto_xml"
+  ],
+  "index": 71,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ohio",
+    "united states",
+    "montgomery",
+    "dayton",
+    "montgomery county"
+  ],
+  "location_city": [
+    "dayton"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "montgomery"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn88077226",
+    "1",
+    "8",
+    "7",
+    "4",
+    "3",
+    "2",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88077226"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "2",
+    "1",
+    "0",
+    "3",
+    "8",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88077226-1948-06-30-ed-1-0568",
+  "partof": [
+    "the ohio daily-express (dayton, ohio) 1946-1950",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the ohio daily-express (dayton, ohio) 1946-1950"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88077226/1948-06-30/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88077226/1948-06-30/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "ohio",
+    "dayton (ohio)",
+    "united states",
+    "montgomery",
+    "african american",
+    "montgomery county (ohio)",
+    "newspapers",
+    "dayton",
+    "montgomery county",
+    "african americans"
+  ],
+  "subject_ethnicity": [
+    "african american"
+  ],
+  "timestamp": "2023-09-04T23:56:40.003Z",
+  "title": "Image 1 of The Ohio daily-express (Dayton, Ohio), June 30, 1948",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88077226/1948-06-30/ed-1/?sp=1&q=civil+rights",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_amaryllis_ver01%2Fdata%2Fsn88077226%2F00414210387%2F1948063001%2F0568.xml&q=civil+rights&relevant_snippet=1"
+}

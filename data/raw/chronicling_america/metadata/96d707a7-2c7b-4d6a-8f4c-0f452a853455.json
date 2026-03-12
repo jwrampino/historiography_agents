@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1916-08-27/ed-1/?sp=39"
+  ],
+  "batch": [
+    "dlc_ixtl_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1916-08-27",
+  "dates": [
+    "1916-08-27"
+  ],
+  "description": [
+    "WASHINGTON D C SUNDAY MORNING AUGUST 27 1916 Manifest Destiny of the United States in the Caribbean BY CHABLES M PEPPEB THE treaty for purchase of the Danish West Indies has raised some of the old questions about manifest destiny in the Carib bean In the Latin American countries in the discussion of the subject there is an undertone of inquiry In the United States there is simply the as sumption that manifest destiny will take care of itself The Latin American viewpoint takes into consideration both geography and political considerations It starts with the sequel to the SpanishAmerican war which was the practical protec torate over Cuba and the actual ac quisition of Porto Rico by the United States Few persons read current news with a map before them For that reason many do not understand why the in corporation of the Danish West Indies should be considered as an extension of American territorial influence which will go on extending along geographi cal lines They have vague notions of what constitutes the Caribbean area For the benefit of ungeographical readers it may be explained that the West Indian Islands or the Greater Antilles and Lesser Antilles form a sort"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:23:38.940Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1916-08-27/ed-1/?sp=39",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ixtl_ver01:data:sn83045462:0028065856A:1916082701:0061/full/pct:6.25/0/default.jpg#h=407&w=327",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ixtl_ver01:data:sn83045462:0028065856A:1916082701:0061/full/pct:12.5/0/default.jpg#h=814&w=654",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_ixtl_ver01/data/sn83045462/0028065856A/1916082701/0061.xml&format=alto_xml"
+  ],
+  "index": 36,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "district of columbia",
+    "washington d.c.",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "6",
+    "2",
+    "5",
+    "1",
+    "a",
+    "0000000039",
+    "sn83045462",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000039"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "8",
+    "5",
+    "6",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1916-08-27-ed-1-0061",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1916-08-27/ed-1/?sp=39"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1916-08-27/ed-1/"
+  ],
+  "shelf_id": "39",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "washington",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-20T19:19:34.528Z",
+  "title": "Image 39 of Evening star (Washington, D.C.), August 27, 1916",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1916-08-27/ed-1/?sp=39&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_ixtl_ver01%2Fdata%2Fsn83045462%2F0028065856A%2F1916082701%2F0061.xml&q=manifest+destiny&relevant_snippet=1"
+}

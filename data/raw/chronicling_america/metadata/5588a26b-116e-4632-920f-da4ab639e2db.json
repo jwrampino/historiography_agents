@@ -1,0 +1,169 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83025060/1905-12-07/ed-1/?sp=9"
+  ],
+  "batch": [
+    "okhi_beaver_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/oklahoma/",
+    "2/united states/oklahoma/muskogee/",
+    "3/united states/oklahoma/muskogee/muskogee/"
+  ],
+  "contributor": [
+    "oklahoma historical society"
+  ],
+  "date": "1905-12-07",
+  "dates": [
+    "1905-12-07"
+  ],
+  "description": [
+    "r McGUIRES NEW STATEHOOD BILL Provisions of New Bill Much the Same as the One Introduced By the Delegate In Last CongressSeven Congressmen Provided for Ten Million Dollars Asked for to Offset the School Lands of OklahomaGuthrie to be Capital of the the New State Until 1910 When It May be Changed AN ACT to enable the people of Okla homa and of the Indian Territory to form a constitution and State govern ment and be admitted Into the Union on an equal footing with the original States Be It enacted by the senate and house of representatives of the United States of America In congress as sembled That the inhabitants of all that part of the area of the United States now constituting the Territory of Okla homa and the Indian Territory as at present described may adopt a con t fitltutlon and become the State of Ok lahoma as hereinafter provided PRO VIDED That notning contained in the said constitution shall bo con strued to limit or Impair the rights or person or property pertaining to the Indians of said Territories so long as such rights shall remain unextin guished or to limit or effect the au thority"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T14:55:40.273Z",
+  "group": [
+    "ndnp/okhi",
+    "oklahoma-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83025060/1905-12-07/ed-1/?sp=9",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_beaver_ver01:data:sn83025060:00237281457:1905120701:0325/full/pct:6.25/0/default.jpg#h=408&w=275",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_beaver_ver01:data:sn83025060:00237281457:1905120701:0325/full/pct:12.5/0/default.jpg#h=817&w=550",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/okhi/batch_okhi_beaver_ver01/data/sn83025060/00237281457/1905120701/0325.xml&format=alto_xml"
+  ],
+  "index": 47,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "muskogee county",
+    "muskogee",
+    "oklahoma",
+    "indian territory",
+    "united states"
+  ],
+  "location_city": [
+    "muskogee"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "muskogee"
+  ],
+  "location_state": [
+    "oklahoma"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn83025060",
+    "2",
+    "8",
+    "3",
+    "5",
+    "4",
+    "1",
+    "0000000009",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83025060"
+  ],
+  "number_page": [
+    "0000000009"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "3",
+    "7",
+    "2",
+    "8",
+    "1",
+    "4",
+    "5",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Cimeter"
+  ],
+  "page_id": "sn83025060-1905-12-07-ed-1-0325",
+  "partof": [
+    "the muskogee cimeter (muskogee, indian territory, okla.) 1901-19??",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the muskogee cimeter (muskogee, indian territory, okla.) 1901-19??"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83025060/1905-12-07/ed-1/?sp=9"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83025060/1905-12-07/ed-1/"
+  ],
+  "shelf_id": "09",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "muskogee county",
+    "muskogee",
+    "african american",
+    "oklahoma",
+    "muskogee (okla.)",
+    "indian territory",
+    "muskogee county (okla.)",
+    "newspapers",
+    "african americans"
+  ],
+  "subject_ethnicity": [
+    "african american"
+  ],
+  "timestamp": "2022-11-17T21:48:06.278Z",
+  "title": "Image 9 of The Muskogee cimeter (Muskogee, Indian Territory, Okla.), December 7, 1905",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83025060/1905-12-07/ed-1/?sp=9&q=indian+territory",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fokhi%2Fbatch_okhi_beaver_ver01%2Fdata%2Fsn83025060%2F00237281457%2F1905120701%2F0325.xml&q=indian+territory&relevant_snippet=1"
+}

@@ -1,0 +1,332 @@
+{
+  "onlineResources": [
+    {
+      "note": "This file was scanned as part of a collaboration effort between Fold3 and the National Archives.",
+      "description": "Fold3",
+      "url": "http://www.fold3.com/image/6387639"
+    }
+  ],
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "title": "Clark AFB, Phillipines, November 1948 - Incident Number: [ILLEGIBLE]",
+  "coverageEndDate": {
+    "month": 11,
+    "year": 1948,
+    "logicalDate": "1948-11-30"
+  },
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-3510",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Textual Reference",
+          "state": "MD",
+          "fax": "301-837-1752",
+          "email": "Archives2reference@nara.gov",
+          "mailCode": "RDT2"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "coverageStartDate": {
+    "month": 11,
+    "year": 1948,
+    "logicalDate": "1948-11-01"
+  },
+  "dataControlGroup": {
+    "groupId": "ou=RDTP2,ou=groups",
+    "groupCd": "RDTP2"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "microformPublications": [
+    {
+      "identifier": "T1206",
+      "note": "The start of this file can be found on Roll 3.",
+      "title": "T1206 - Project 'Bluebook.', 1947-1969."
+    }
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "Fold3 2016",
+      "type": "Search Identifier"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "0512.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/78/9317/28931778/content/TB0106/T1206-ProjectBlueBook/T1206_0003/images/0512.jpg",
+      "objectFileSize": 12345678,
+      "objectDesignator": "Fold3 File #6387639",
+      "objectId": "28931779",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0513.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/78/9317/28931778/content/TB0106/T1206-ProjectBlueBook/T1206_0003/images/0513.jpg",
+      "objectFileSize": 12345678,
+      "objectDesignator": "Fold3 File #6387640",
+      "objectId": "28931780",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0514.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/78/9317/28931778/content/TB0106/T1206-ProjectBlueBook/T1206_0003/images/0514.jpg",
+      "objectFileSize": 12345678,
+      "objectDesignator": "Fold3 File #6387641",
+      "objectId": "28931781",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0515.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/78/9317/28931778/content/TB0106/T1206-ProjectBlueBook/T1206_0003/images/0515.jpg",
+      "objectFileSize": 12345678,
+      "objectDesignator": "Fold3 File #6387642",
+      "objectId": "28931782",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0516.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/78/9317/28931778/content/TB0106/T1206-ProjectBlueBook/T1206_0003/images/0516.jpg",
+      "objectFileSize": 12345678,
+      "objectDesignator": "Fold3 File #6387643",
+      "objectId": "28931783",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0517.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/78/9317/28931778/content/TB0106/T1206-ProjectBlueBook/T1206_0003/images/0517.jpg",
+      "objectFileSize": 12345678,
+      "objectDesignator": "Fold3 File #6387644",
+      "objectId": "28931784",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0518.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/78/9317/28931778/content/TB0106/T1206-ProjectBlueBook/T1206_0003/images/0518.jpg",
+      "objectFileSize": 12345678,
+      "objectDesignator": "Fold3 File #6387645",
+      "objectId": "28931785",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0519.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/78/9317/28931778/content/TB0106/T1206-ProjectBlueBook/T1206_0003/images/0519.jpg",
+      "objectFileSize": 12345678,
+      "objectDesignator": "Fold3 File #6387646",
+      "objectId": "28931786",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0520.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/78/9317/28931778/content/TB0106/T1206-ProjectBlueBook/T1206_0003/images/0520.jpg",
+      "objectFileSize": 12345678,
+      "objectDesignator": "Fold3 File #6387647",
+      "objectId": "28931787",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0521.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/78/9317/28931778/content/TB0106/T1206-ProjectBlueBook/T1206_0003/images/0521.jpg",
+      "objectFileSize": 12345678,
+      "objectDesignator": "Fold3 File #6387648",
+      "objectId": "28931788",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0522.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/78/9317/28931778/content/TB0106/T1206-ProjectBlueBook/T1206_0003/images/0522.jpg",
+      "objectFileSize": 12345678,
+      "objectDesignator": "Fold3 File #6387649",
+      "objectId": "28931789",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0523.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/78/9317/28931778/content/TB0106/T1206-ProjectBlueBook/T1206_0003/images/0523.jpg",
+      "objectFileSize": 12345678,
+      "objectDesignator": "Fold3 File #6387650",
+      "objectId": "28931790",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0524.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/78/9317/28931778/content/TB0106/T1206-ProjectBlueBook/T1206_0003/images/0524.jpg",
+      "objectFileSize": 12345678,
+      "objectDesignator": "Fold3 File #6387651",
+      "objectId": "28931791",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0525.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/78/9317/28931778/content/TB0106/T1206-ProjectBlueBook/T1206_0003/images/0525.jpg",
+      "objectFileSize": 12345678,
+      "objectDesignator": "Fold3 File #6387652",
+      "objectId": "28931792",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0526.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/78/9317/28931778/content/TB0106/T1206-ProjectBlueBook/T1206_0003/images/0526.jpg",
+      "objectFileSize": 12345678,
+      "objectDesignator": "Fold3 File #6387653",
+      "objectId": "28931793",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0527.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/78/9317/28931778/content/TB0106/T1206-ProjectBlueBook/T1206_0003/images/0527.jpg",
+      "objectFileSize": 12345678,
+      "objectDesignator": "Fold3 File #6387654",
+      "objectId": "28931794",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0528.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/78/9317/28931778/content/TB0106/T1206-ProjectBlueBook/T1206_0003/images/0528.jpg",
+      "objectFileSize": 12345678,
+      "objectDesignator": "Fold3 File #6387655",
+      "objectId": "28931795",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0529.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/78/9317/28931778/content/TB0106/T1206-ProjectBlueBook/T1206_0003/images/0529.jpg",
+      "objectFileSize": 12345678,
+      "objectDesignator": "Fold3 File #6387656",
+      "objectId": "28931796",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0530.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/78/9317/28931778/content/TB0106/T1206-ProjectBlueBook/T1206_0003/images/0530.jpg",
+      "objectFileSize": 12345678,
+      "objectDesignator": "Fold3 File #6387657",
+      "objectId": "28931797",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0531.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/78/9317/28931778/content/TB0106/T1206-ProjectBlueBook/T1206_0003/images/0531.jpg",
+      "objectFileSize": 12345678,
+      "objectDesignator": "Fold3 File #6387658",
+      "objectId": "28931798",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "0532.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/78/9317/28931778/content/TB0106/T1206-ProjectBlueBook/T1206_0003/images/0532.jpg",
+      "objectFileSize": 12345678,
+      "objectDesignator": "Fold3 File #6387659",
+      "objectId": "28931799",
+      "objectDescription": "Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1934,
+        "logicalDate": "1934-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 341,
+      "inclusiveEndDate": {
+        "year": 2004,
+        "logicalDate": "2004-12-31"
+      },
+      "title": "Records of Headquarters U.S. Air Force (Air Staff)",
+      "naId": 653
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1947,
+        "logicalDate": "1947-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Predecessor",
+          "heading": "Department of Defense. Department of the Air Force. Air Materiel Command. Intelligence Department. Technical Intelligence Division. (1947 - 1951)",
+          "abolishDate": {
+            "year": 1951,
+            "logicalDate": "1951-12-31"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1947,
+            "logicalDate": "1947-01-01"
+          },
+          "naId": 10462433
+        },
+        {
+          "creatorType": "Most Recent",
+          "heading": "Department of Defense. Department of the Air Force. Air Force Systems Command. Foreign Technology Division. Project Blue Book Office. (7/1/1961 - 12/17/1969)",
+          "abolishDate": {
+            "month": 12,
+            "year": 1969,
+            "day": 17,
+            "logicalDate": "1969-12-17"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 7,
+            "year": 1961,
+            "day": 1,
+            "logicalDate": "1961-07-01"
+          },
+          "naId": 10455222
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1969,
+        "logicalDate": "1969-12-31"
+      },
+      "title": "Sanitized Version of Project Blue Book Case Files on Sightings of Unidentified Flying Objects",
+      "naId": 597821
+    }
+  ],
+  "naId": 28931778
+}

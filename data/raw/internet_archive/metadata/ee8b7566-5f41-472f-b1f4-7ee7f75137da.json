@@ -1,0 +1,30 @@
+{
+  "description": "This is the full AMSCO AP World History book.",
+  "format": [
+    "Archive BitTorrent",
+    "Daisy",
+    "DjVuTXT",
+    "Djvu XML",
+    "EPUB",
+    "Item Tile",
+    "Metadata",
+    "OCR Page Index",
+    "OCR Search Text",
+    "Page Numbers JSON",
+    "Scandata",
+    "Single Page Processed JP2 ZIP",
+    "Text PDF",
+    "chOCR",
+    "hOCR"
+  ],
+  "identifier": "amsco-ap-world-history",
+  "language": "eng",
+  "mediatype": "texts",
+  "subject": [
+    "AMSCO AP World",
+    "AP World",
+    "AP World History",
+    "AMSCO AP World History"
+  ],
+  "title": "AMSCO AP World History"
+}

@@ -1,0 +1,139 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063569_16147/?sp=3"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1828-07-03",
+  "dates": [
+    "1828-07-03"
+  ],
+  "description": [
+    "_ So So gt a ee pared as ourselvesfor a meeting of such a character and the number present was we are sorry to state very limited indeed The Venerable Archdeacon on moving the first Resolution made a most eloquent and pathetic appeal in behalf of the institution the welfare of which he stated had been a subject of deep interest to him anda frequent theme of discussion with those more immediately con nected withit The Venerable speaker illus trated his opinions of the importance of raising up an indigenous body of Artizans by a reference to the value of thatclass in England which a celebrated French Philosopher had aptly com pared to the middle of a barrel of beerthe best part of it The Venerable Speaker adverted to the want of this class in India and made a very feeling and happy allusion to anew Penal Settlement in Australia in which the convicts are all taught some useful trade so that when they have passed through their term of banishment and by religious and moral instruction have become imbued with a sense ofthe iniquity and misery of their past condact they are furnished with the means of pursuing the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-14",
+    "catalog",
+    "main-catalog-split-14"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063569_16147/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063569_16147:0003/full/pct:3.125/0/default.jpg#h=260&w=175",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063569_16147:0003/full/pct:6.25/0/default.jpg#h=521&w=350",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063569_16147:0003/full/pct:12.5/0/default.jpg#h=1042&w=700",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063569_16147:0003/full/pct:25.0/0/default.jpg#h=2085&w=1400",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063569_16147:0003/full/pct:50.0/0/default.jpg#h=4170&w=2801",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063569_16147:0003/full/pct:100.0/0/default.jpg#h=8341&w=5603",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063569_16147/0003.alto.xml&format=alto_xml"
+  ],
+  "index": 62,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "india",
+    "kolkata",
+    "calcutta"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "sn88063570",
+    "0000000003",
+    "sn93049213",
+    "sn88063571",
+    "sn88063569",
+    "2025-08-13t14:01:05.900000"
+  ],
+  "number_lccn": [
+    "sn88063569"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_preceding_items": [
+    "sn88063570",
+    "sn88063571",
+    "sn93049213"
+  ],
+  "number_source_modified": [
+    "2025-08-13t14:01:05.900000"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Bengal hurkaru"
+  ],
+  "page_id": "gdc-sn88063569_16147-0003-alto",
+  "partof": [
+    "general collections",
+    "world newspapers",
+    "the bengal hurkaru and chronicle (calcutta, india) 1828-1836",
+    "catalog",
+    "south asian digital collection",
+    "serial and government publications division",
+    "asian division",
+    "world digital library"
+  ],
+  "partof_title": [
+    "the bengal hurkaru and chronicle (calcutta, india) 1828-1836"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063569_16147/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063569_16147/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "calcutta",
+    "india",
+    "kolkata (india)",
+    "newspapers",
+    "kolkata"
+  ],
+  "timestamp": "2025-12-12T07:18:57.679Z",
+  "title": "Image 3 of Volume 2, Number 3, Thursday, July 3, 1828 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063569_16147/?sp=3&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063569_16147%2F0003.alto.xml&q=great+war&relevant_snippet=1"
+}

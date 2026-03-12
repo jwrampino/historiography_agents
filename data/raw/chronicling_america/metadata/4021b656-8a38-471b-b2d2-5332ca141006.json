@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83016943/1904-02-13/ed-1/?sp=4"
+  ],
+  "batch": [
+    "msar_applejack_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/mississippi/",
+    "2/united states/mississippi/noxubee/",
+    "3/united states/mississippi/noxubee/macon/"
+  ],
+  "contributor": [
+    "mississippi department of archives and history"
+  ],
+  "date": "1904-02-13",
+  "dates": [
+    "1904-02-13"
+  ],
+  "description": [
+    "rilT TRADE MAIIK IMITATED DrugtfUt and IrrU Are Held In Hall fur Court Charged with iafrintring upon the trade innrk of Cnrtrrn Kit r Jo hivpr Till Com pany JoKcph T Unllith a IniKit ut the KiuttiniHt coiner ot Klcventli ami Vine Ktreets wub held in MO bail fur Court thin afternoon by MagiKtrtile Jiimon nnl nt the mine time tnttithit eliik Jimcph C Fore won held in bail tor Court on the same churn nfd for iHhiiK ter tiiin art den the Mate of which is prohibited by law The men were arrested this morning upon warnitit itwued by ALiiHt nite Jit limn at the instance of Brent iod No ll Went FiltVHeveitth Mreet New York nd Chailen tlrtUtt No lj Jmnel Jer race New oik nprenentative of the Carter Company iliov slatiM that the latter bad apent 3WJUW in advcrtiHing ami getting thetr liiUl known and did not purpose tu permit other to roup t he bene tltM The label in question it a nmal one eon taining a large letter L and the one uwd by irttlitli in an exact copy except that it tinea not contain Carter m name The prosecution showed how easily the imitation"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:40:22.700Z",
+  "group": [
+    "ndnp/msar",
+    "mississippi-department-of-archives-and-history"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83016943/1904-02-13/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877777:1904021301:0038/full/pct:6.25/0/default.jpg#h=459&w=333",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877777:1904021301:0038/full/pct:12.5/0/default.jpg#h=919&w=666",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/msar/batch_msar_applejack_ver01/data/sn83016943/00295877777/1904021301/0038.xml&format=alto_xml"
+  ],
+  "index": 138,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "macon",
+    "mississippi",
+    "noxubee",
+    "united states",
+    "noxubee county"
+  ],
+  "location_city": [
+    "macon"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "noxubee"
+  ],
+  "location_state": [
+    "mississippi"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn83016943",
+    "0000000004",
+    "9",
+    "2",
+    "8",
+    "5",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83016943"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "5",
+    "8",
+    "7",
+    "7",
+    "7",
+    "7",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83016943-1904-02-13-ed-1-0038",
+  "partof": [
+    "chronicling america",
+    "macon beacon (macon, miss.) 1859-1995",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "macon beacon (macon, miss.) 1859-1995"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83016943/1904-02-13/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83016943/1904-02-13/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "macon",
+    "macon (miss.)",
+    "mississippi",
+    "noxubee county (miss.)",
+    "noxubee",
+    "united states",
+    "newspapers",
+    "noxubee county"
+  ],
+  "timestamp": "2023-07-05T14:20:31.551Z",
+  "title": "Image 4 of Macon beacon (Macon, Miss.), February 13, 1904",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83016943/1904-02-13/ed-1/?sp=4&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmsar%2Fbatch_msar_applejack_ver01%2Fdata%2Fsn83016943%2F00295877777%2F1904021301%2F0038.xml&q=korea&relevant_snippet=1"
+}

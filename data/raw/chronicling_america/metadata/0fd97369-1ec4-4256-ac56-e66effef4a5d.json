@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn98068396/1963-03-22/ed-1/?sp=9"
+  ],
+  "batch": [
+    "vi_galshar_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/virginia/",
+    "2/united states/virginia/prince edward/",
+    "3/united states/virginia/prince edward/farmville/"
+  ],
+  "contributor": [
+    "library of virginia; richmond, va"
+  ],
+  "date": "1963-03-22",
+  "dates": [
+    "1963-03-22"
+  ],
+  "description": [
+    "The Farmville Herald PUBLISHED EVERY TUESDAY AND FRIDAY Member Virginia Press Association Member National Editorial Association Subscription Rates in Virginia In Prince Edward and Adjoining Counties Buckingham Charlotte Cbeater HelU Cumberland Lunenburg Nottoway Prince Edward Powhatan I 12 Months By Mail tl 60 6 Months By Mail 200 In Farmville 12 l In Months By Carrier ____ 400 Month By Carrier 45 Virginia But Outside Counties Listed Above 12 Months By Mail _ 4 Mod tbs l by Mail Outside Virginia l Year With Comics 1400 l4 16DO 676 J B WALL_ WILLIAM B WALL Editor and Publishes General Manager W G Buckle PORK Advertising Manager All communications and monies should be addressed to THE HERALD Farmvilie Virginia Entered as secondclass matter at the postoffice at Farmvilie Virginia under Act of Congress of March 187 JOHN C STECK Managing Editor Mechanical Superintendent M L DAVIS FRIDAY MARCH 22 1963 Education Or Freedom TTORNEY General Robert F Ken nedy speaking at Kentuckys Eman cipation Proclamation celebration at Louisville Ky took occasion to take a slap at Prince Edward County He said that the United States is turning a corner in a period of great and intense change in race relations Then"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-02-06T12:40:14.382Z",
+  "group": [
+    "ndnp/vi",
+    "library-of-virginia-richmond-va-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn98068396/1963-03-22/ed-1/?sp=9",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_galshar_ver01:data:sn98068396:00393348227:1963032201:0338/full/pct:6.25/0/default.jpg#h=441&w=318",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_galshar_ver01:data:sn98068396:00393348227:1963032201:0338/full/pct:12.5/0/default.jpg#h=882&w=636",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/vi/batch_vi_galshar_ver01/data/sn98068396/00393348227/1963032201/0338.xml&format=alto_xml"
+  ],
+  "index": 108,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "virginia",
+    "united states",
+    "farmville",
+    "prince edward"
+  ],
+  "location_city": [
+    "farmville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "prince edward"
+  ],
+  "location_state": [
+    "virginia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "8",
+    "9",
+    "0000000009",
+    "7",
+    "4",
+    "sn98068396",
+    "3",
+    "2",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn98068396"
+  ],
+  "number_page": [
+    "0000000009"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "9",
+    "3",
+    "3",
+    "4",
+    "8",
+    "2",
+    "2",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn98068396-1963-03-22-ed-1-0338",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the farmville herald (farmville, va.) 1957-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the farmville herald (farmville, va.) 1957-current"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn98068396/1963-03-22/ed-1/?sp=9"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn98068396/1963-03-22/ed-1/"
+  ],
+  "shelf_id": "09",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "farmville",
+    "prince edward",
+    "virginia",
+    "newspapers",
+    "farmville (va.)"
+  ],
+  "timestamp": "2024-02-07T07:20:08.754Z",
+  "title": "Image 9 of The Farmville herald (Farmville, Va.), March 22, 1963",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn98068396/1963-03-22/ed-1/?sp=9&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fvi%2Fbatch_vi_galshar_ver01%2Fdata%2Fsn98068396%2F00393348227%2F1963032201%2F0338.xml&q=cuba&relevant_snippet=1"
+}

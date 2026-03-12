@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86076200/1898-09-03/ed-1/?sp=4"
+  ],
+  "batch": [
+    "nvln_quartz_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nevada/",
+    "2/united states/nevada/eureka/",
+    "3/united states/nevada/eureka/eureka/"
+  ],
+  "contributor": [
+    "university of nevada las vegas university libraries"
+  ],
+  "date": "1898-09-03",
+  "dates": [
+    "1898-09-03"
+  ],
+  "description": [
+    "THE WAR IN BRIEF January 24 18The battleship Maioe ordered to Havana February The De Lome letter pub lished February 10De Lome resigns and bis resignation accepted at Madrid February 15Destruetion oi the Maine in the harbor of Havaoa Mar oh 5Spain seeks to have Consul General Lee recalled Maroh 8Congress votes unanimous and without debate for a defense fund of 50000000 Maroh 28United States Board of In quiry reports that the Maine was blown up by an external mine April 11President McKinley sends his Cuban message to Congress April 20The Government sends its ul timatum to Spain and the Queen Regent opens the Oortes with a warUke speech The Spauish minuter at Washington asks for bis passports April 21Minister Woodford asks for his passports at Madrid and Icarsa for Pirii April 22War opens with the Nash villes oapture of the Buena Ventura and the New Turks oapture of the Pedro Hifioi harbor dctlared la Ule of N9MMI April 23Presidents call for 125000 volunteers April 24Capture of the Catalina by the Detroit the Candida by the Wilming ton and the Saturnine by tbe Winona April 24Spain declares war April 25Congress declare that war began on April 21 by not of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-06-30T14:56:31.596Z",
+  "group": [
+    "ndnp/nvln",
+    "university-of-nevada-las-vegas-university-libraries-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86076200/1898-09-03/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_quartz_ver01:data:sn86076200:00279554097:1898090301:0554/full/pct:6.25/0/default.jpg#h=403&w=263",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_quartz_ver01:data:sn86076200:00279554097:1898090301:0554/full/pct:12.5/0/default.jpg#h=807&w=526",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nvln/batch_nvln_quartz_ver01/data/sn86076200/00279554097/1898090301/0554.xml&format=alto_xml"
+  ],
+  "index": 130,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "eureka",
+    "nevada"
+  ],
+  "location_city": [
+    "eureka"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "eureka"
+  ],
+  "location_state": [
+    "nevada"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn86076200",
+    "1",
+    "9",
+    "5",
+    "7",
+    "0000000004",
+    "4",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86076200"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "5",
+    "4",
+    "0",
+    "9",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86076200-1898-09-03-ed-1-0554",
+  "partof": [
+    "serial and government publications division",
+    "eureka weekly sentinel (eureka, nev.) 1887-1902",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "eureka weekly sentinel (eureka, nev.) 1887-1902"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86076200/1898-09-03/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86076200/1898-09-03/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "nevada",
+    "newspapers",
+    "eureka",
+    "eureka (nev.)"
+  ],
+  "timestamp": "2023-07-01T04:55:20.068Z",
+  "title": "Image 4 of Eureka weekly sentinel (Eureka, Nev.), September 3, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86076200/1898-09-03/ed-1/?sp=4&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnvln%2Fbatch_nvln_quartz_ver01%2Fdata%2Fsn86076200%2F00279554097%2F1898090301%2F0554.xml&q=spanish&relevant_snippet=1"
+}

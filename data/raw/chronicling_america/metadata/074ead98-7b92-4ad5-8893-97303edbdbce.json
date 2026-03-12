@@ -1,0 +1,173 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85009852/1957-09-19/ed-1/?sp=1"
+  ],
+  "batch": [
+    "ct_carpsurprise_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/connecticut/",
+    "2/united states/connecticut/hartford/",
+    "3/united states/connecticut/hartford/new britain/"
+  ],
+  "contributor": [
+    "connecticut state library, hartford, ct"
+  ],
+  "date": "1957-09-19",
+  "dates": [
+    "1957-09-19"
+  ],
+  "description": [
+    "No 33 Seventythird Year Sand Pit Issue Left In Doubt The 10year old Silver Lane sandpit argument came in tor brief latehour debate Tuesday night but did not get much closer to solution At 11 pm as the three hour hearing on a proposed new trailer park ended the Town Council ad journed The councilmen began leaving their seats on the Center School stage The crowd was on its feet Suddenly Mrs Ronald Simpson 106 Whiting Road grabbed a rm craphone and began speaking I came here to present a peti tion she said Mr Torpey has not given me a chance to speak 1078 On Petition Council President John W Torpey quickly reconvened the meeting and gave Mrs Simpson the floor She said her petition listed 1078 names of persons who wanted the town to do something definite about the huge unused pit on Mercer Avenue south of the Silver Lane School The town has offered MiS Lucy Sylvestri the owner 52000 Her attorney has asked 20000 At a meeting last Thursday night James M Fitzgerald ex ecutive secretary to the council president said the town would replace the present threefoot fence between the school and the pit with"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-12-15T22:39:36.855Z",
+  "group": [
+    "ndnp/ct",
+    "connecticut-state-library-hartford-ct-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85009852/1957-09-19/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_carpsurprise_ver01:data:sn85009852:00517174890:1957091901:0439/full/pct:3.125/0/default.jpg#h=280&w=205",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_carpsurprise_ver01:data:sn85009852:00517174890:1957091901:0439/full/pct:6.25/0/default.jpg#h=560&w=411",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_carpsurprise_ver01:data:sn85009852:00517174890:1957091901:0439/full/pct:12.5/0/default.jpg#h=1121&w=822",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ct/batch_ct_carpsurprise_ver01/data/sn85009852/00517174890/1957091901/0439.xml&format=alto_xml"
+  ],
+  "index": 139,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "new britain",
+    "south windsor",
+    "connecticut",
+    "glastonbury",
+    "east windsor",
+    "east hartford",
+    "hartford"
+  ],
+  "location_city": [
+    "new britain"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hartford"
+  ],
+  "location_state": [
+    "connecticut"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn85009852",
+    "8",
+    "5",
+    "9",
+    "7",
+    "4",
+    "0",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85009852"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "4",
+    "8",
+    "9",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85009852-1957-09-19-ed-1-0439",
+  "partof": [
+    "the east hartford gazette (east hartford, conn.) 1942-current",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the east hartford gazette (east hartford, conn.) 1942-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85009852/1957-09-19/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85009852/1957-09-19/ed-1/"
+  ],
+  "shelf_id": "01",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "east windsor (conn.)",
+    "new britain",
+    "https://id.oclc.org/worldcat/entity/e39pbjpjj38c94hmdm3bxkykjc",
+    "connecticut",
+    "south windsor",
+    "https://id.oclc.org/worldcat/entity/e39qbtfrqr6qxbfkkvtp4wjrcp",
+    "newspapers",
+    "east hartford",
+    "east hartford (conn.)",
+    "east windsor",
+    "glastonbury",
+    "south windsor (conn.)",
+    "glastonbury (conn.)",
+    "https://id.oclc.org/worldcat/entity/e39pbjvcjhwfvmbcmprmtfyghc",
+    "hartford"
+  ],
+  "timestamp": "2024-12-15T23:04:41.016Z",
+  "title": "Image 1 of The East Hartford gazette (East Hartford, Conn.), September 19, 1957",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85009852/1957-09-19/ed-1/?sp=1&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fct%2Fbatch_ct_carpsurprise_ver01%2Fdata%2Fsn85009852%2F00517174890%2F1957091901%2F0439.xml&q=nuclear&relevant_snippet=1"
+}

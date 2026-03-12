@@ -1,0 +1,131 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16139/?sp=4"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1819-06-08",
+  "dates": [
+    "1819-06-08"
+  ],
+  "description": [
+    "THE BENGAL HURKARU EE sufficient time to send some particulars which are very n teresting and important to our family I told you I had succeeded in overtaking the anfeel ing rascal and in rescuing our dear child from the felons grasp with and sent a discharge for her addressed to the go vernor of the house of correction Braka where the child was recovered and Charles Rennett was taken is under the government of Olden burgh and on Mr Horsleys teaving the office he Ri thea _ proceeded to the secretary of states office for the colo Rennett is now in safe custody and the dar boy is in nial department in DowningStreet to apply to Eari the possession of Mrs Macnamara the WIS of the consul Bathurst for the necessary official documents to be _tran from whence this letter is addressed 1 have had our boy smitted to Braka authorising the officers of that govern in my arms I have kissed him My fetings were too ment to deliver Charles Rennett into custody to be brought acute to attempt to describe them He clung round my to England to take his trial for the offence of stealing Mr"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16139/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16139:0004/full/pct:6.25/0/default.jpg#h=363&w=274",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16139:0004/full/pct:12.5/0/default.jpg#h=726&w=548",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16139:0004/full/pct:25.0/0/default.jpg#h=1452&w=1097",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16139:0004/full/pct:50.0/0/default.jpg#h=2904&w=2194",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16139:0004/full/pct:100.0/0/default.jpg#h=5808&w=4388",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16139/0004.alto.xml&format=alto_xml"
+  ],
+  "index": 34,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "india",
+    "calcutta"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "sn88063570",
+    "0000000004",
+    "sn88063571",
+    "sn88063569",
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16139-0004-alto",
+  "partof": [
+    "asian division",
+    "general collections",
+    "world newspapers",
+    "catalog",
+    "south asian digital collection",
+    "serial and government publications division",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "world digital library"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16139/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16139/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "india",
+    "calcutta"
+  ],
+  "timestamp": "2025-12-12T07:20:40.508Z",
+  "title": "Image 4 of Volume 29, Number 1298, Tuesday, June 8, 1819 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16139/?sp=4&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16139%2F0004.alto.xml&q=great+war&relevant_snippet=1"
+}

@@ -1,0 +1,34 @@
+{
+  "creator": "FBI",
+  "description": "The FBI's entire main (Headquarters) file on Martin Luther King, Jr. (16,600+ pages) -- posted online for the first time by the original Memory Hole. More info: www.thememoryhole2.org/blog/mlk-complete-fbi-file",
+  "format": [
+    "Abbyy GZ",
+    "Additional Text PDF",
+    "Archive BitTorrent",
+    "Cloth Cover Detection Log",
+    "DjVuTXT",
+    "Djvu XML",
+    "EPUB",
+    "Image Container PDF",
+    "Item Tile",
+    "Metadata",
+    "OCR Page Index",
+    "OCR Search Text",
+    "Page Numbers JSON",
+    "Scandata",
+    "Single Page Processed JP2 ZIP",
+    "ZIP",
+    "chOCR",
+    "hOCR"
+  ],
+  "identifier": "fbi_file_mlk",
+  "language": "English",
+  "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "mediatype": "texts",
+  "subject": [
+    "FBI",
+    "MLK",
+    "civil rights"
+  ],
+  "title": "FBI's full file on Martin Luther King, Jr."
+}

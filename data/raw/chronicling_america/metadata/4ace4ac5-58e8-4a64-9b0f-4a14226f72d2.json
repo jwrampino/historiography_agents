@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84026749/1924-01-02/ed-1/?sp=7"
+  ],
+  "batch": [
+    "dlc_melville_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1924-01-02",
+  "dates": [
+    "1924-01-02"
+  ],
+  "description": [
+    "DAVIS SUBMITS NEW ALIEN BILE 4 M v Plan Provides for Emigrant Examination in Ports Abroad The Administrations new immi gration bill drafted by Secretary of Labor Davie with the approval of President Coolidge was formally Uid before the House Immigration committee today The Davis immigration plan makes it necessary for every person desir ing to emigrate to the United States to pass an examination at an Amer ican consular office abroad before his departure for this country Is approved Suspension of immigration quotas was suggested by Davis for two purposes To admit agricultural and other laborers when labor of this kind cannot be found in the United States and to bar all immigration during periods of unemployment in this country To Cut Present Basis Secretary Davis new bill did not provide for any percentage basts of fixing immigration quotas but the committee is now drafting this put of the bill to reduce the pres ent basis of three per cent of the 1910 alien population to two per cent of the alien population in 1890 Recommendations were made by Davis however for the extension of any immigration restrictions im posed to Canada Mexico Central gnd South America These coun"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-07T20:33:04.355Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84026749/1924-01-02/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_melville_ver02:data:sn84026749:00222254073:1924010201:0031/full/pct:3.125/0/default.jpg#h=319&w=256",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_melville_ver02:data:sn84026749:00222254073:1924010201:0031/full/pct:6.25/0/default.jpg#h=638&w=513",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_melville_ver02/data/sn84026749/00222254073/1924010201/0031.xml&format=alto_xml"
+  ],
+  "index": 143,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "district of columbia",
+    "washington d.c.",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "5",
+    "0000000007",
+    "2",
+    "4",
+    "1",
+    "7",
+    "sn84026749"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84026749"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "2",
+    "2",
+    "2",
+    "5",
+    "4",
+    "0",
+    "7",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Washington times herald"
+  ],
+  "page_id": "sn84026749-1924-01-02-ed-1-0031",
+  "partof": [
+    "chronicling america",
+    "the washington times (washington [d.c.]) 1902-1939",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington times (washington [d.c.]) 1902-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84026749/1924-01-02/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84026749/1924-01-02/ed-1/"
+  ],
+  "shelf_id": "07",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "washington",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2023-08-08T13:29:09.464Z",
+  "title": "Image 7 of The Washington times (Washington [D.C.]), January 2, 1924",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84026749/1924-01-02/ed-1/?sp=7&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_melville_ver02%2Fdata%2Fsn84026749%2F00222254073%2F1924010201%2F0031.xml&q=immigration&relevant_snippet=1"
+}

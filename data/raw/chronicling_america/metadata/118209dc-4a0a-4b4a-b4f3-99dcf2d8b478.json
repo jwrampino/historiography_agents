@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84020558/1898-05-25/ed-1/?sp=1"
+  ],
+  "batch": [
+    "az_elk_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/arizona/",
+    "2/united states/arizona/maricopa/",
+    "3/united states/arizona/maricopa/phoenix/"
+  ],
+  "contributor": [
+    "arizona state library, archives and public records; phoenix, az"
+  ],
+  "date": "1898-05-25",
+  "dates": [
+    "1898-05-25"
+  ],
+  "description": [
+    "UBMCAM NINTH YEAR PHCENIX ARIZONA WEDNESDAY MORNING MAY 25 18S8 VOL IX NO 7 ARIZONA BEJP The Navy Department of an Engagement PLEDGED TO TELL THE PEOPLE The Cutting of One More Cable Will Leave Havana San Juan de Porto Rico Spain and Admiral Cer vera Groping Blindly Washington May 24 There was a lapse into sensational war rumors in Washington today after a week of comparative quiet The rumors ranged all the way from the capture of the little Mangrove with her crew of thirteen men to the reported destruction of the entire Spanish fleet by Sampsons and Schleys combined forces They were circulated with per sistence notwitnstanding their denial as soon as they could be brought to the attention of any official capable of passing judgment on their accuracy As the day rolled along the officials themselves became apprehensive as was shown by tne frequency with which they called for uie latest newspaper bul letins At the close of the day however it was again announced in the most positive manner that the navy department had no information to warrant the report of any sort of an engagement in uie Windward Passage This did not specifically cover the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-09T14:49:01.308Z",
+  "group": [
+    "ndnp/az",
+    "arizona-state-university-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84020558/1898-05-25/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elk_ver01:data:sn84020558:00202192634:1898052501:0207/full/pct:6.25/0/default.jpg#h=404&w=288",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elk_ver01:data:sn84020558:00202192634:1898052501:0207/full/pct:12.5/0/default.jpg#h=809&w=577",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/az/batch_az_elk_ver01/data/sn84020558/00202192634/1898052501/0207.xml&format=alto_xml"
+  ],
+  "index": 183,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "maricopa",
+    "arizona",
+    "united states",
+    "maricopa county",
+    "phoenix"
+  ],
+  "location_city": [
+    "phoenix"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "maricopa"
+  ],
+  "location_state": [
+    "arizona"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "3",
+    "sn84020558",
+    "1",
+    "2",
+    "6",
+    "4",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84020558"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "2",
+    "1",
+    "9",
+    "2",
+    "6",
+    "3",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Daily republican"
+  ],
+  "page_id": "sn84020558-1898-05-25-ed-1-0207",
+  "partof": [
+    "chronicling america",
+    "arizona republican (phoenix, ariz.) 1890-1930",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "arizona republican (phoenix, ariz.) 1890-1930"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84020558/1898-05-25/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84020558/1898-05-25/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "maricopa",
+    "arizona",
+    "phoenix (ariz.)",
+    "united states",
+    "newspapers",
+    "maricopa county",
+    "maricopa county (ariz.)",
+    "phoenix"
+  ],
+  "timestamp": "2024-01-09T22:55:11.068Z",
+  "title": "Image 1 of Arizona republican (Phoenix, Ariz.), May 25, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84020558/1898-05-25/ed-1/?sp=1&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Faz%2Fbatch_az_elk_ver01%2Fdata%2Fsn84020558%2F00202192634%2F1898052501%2F0207.xml&q=cuba&relevant_snippet=1"
+}

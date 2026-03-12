@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86076216/1919-05-03/ed-1/?sp=4"
+  ],
+  "batch": [
+    "nvln_arrowhead_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nevada/",
+    "2/united states/nevada/lyon/",
+    "3/united states/nevada/lyon/yerington/"
+  ],
+  "contributor": [
+    "university of nevada las vegas university libraries"
+  ],
+  "date": "1919-05-03",
+  "dates": [
+    "1919-05-03"
+  ],
+  "description": [
+    "NO CHANGE HERE FORBOLSHEVIKI The following act passed by the late legislature shows where Nev ada stands with regard to the 1 W W and Bolsheviki AN ACT DEFINING CRIMINAL SYNDICALISM AND PROVID ING A PUNISHMENT THERE FOR The people of the State of Nevada represented in Senate and Assembly do enact as follows Section 1 Criminal syndicalism is the doctrine which advocates or teaches crime sabotage violence or unlawful methods of terrorism as a means of accomplishing industrial or political reform The advocacy or teaching of such doctrine whether by word of mouth or writing is a felony punishable as in this act otherwise provided fec 2 Any person who tl By word of mouth or writing advocates or teaches the duty nec essity or propriety of crime sabotage violence or other unlawful methods of terrorism as a means of accom plishing indfytrial or political reform or 2 Prints publishes edits issues or knowingly circulates sells dis tributes or publicly displays any book paper document or written matter in any form containing or advocating advising or teaching the doctrine that industrial or political reform should be brought about by crime sabotage violence or other unlawful methods of terrorism or"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-06-30T14:51:36.243Z",
+  "group": [
+    "ndnp/nvln",
+    "university-of-nevada-las-vegas-university-libraries-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86076216/1919-05-03/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_arrowhead_ver01:data:sn86076216:00279554607:1919050301:0145/full/pct:6.25/0/default.jpg#h=420&w=268",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_arrowhead_ver01:data:sn86076216:00279554607:1919050301:0145/full/pct:12.5/0/default.jpg#h=841&w=537",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nvln/batch_nvln_arrowhead_ver01/data/sn86076216/00279554607/1919050301/0145.xml&format=alto_xml"
+  ],
+  "index": 48,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "lyon",
+    "yerington",
+    "nevada"
+  ],
+  "location_city": [
+    "yerington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lyon"
+  ],
+  "location_state": [
+    "nevada"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000004",
+    "9",
+    "2",
+    "6",
+    "5",
+    "sn86076216",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86076216"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "5",
+    "4",
+    "6",
+    "0",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86076216-1919-05-03-ed-1-0145",
+  "partof": [
+    "chronicling america",
+    "yerington times (yerington, nev.) 1907-1932",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "yerington times (yerington, nev.) 1907-1932"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86076216/1919-05-03/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86076216/1919-05-03/ed-1/"
+  ],
+  "shelf_id": "04",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "lyon",
+    "yerington",
+    "nevada"
+  ],
+  "timestamp": "2023-06-30T15:25:16.489Z",
+  "title": "Image 4 of Yerington times (Yerington, Nev.), May 3, 1919",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86076216/1919-05-03/ed-1/?sp=4&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnvln%2Fbatch_nvln_arrowhead_ver01%2Fdata%2Fsn86076216%2F00279554607%2F1919050301%2F0145.xml&q=terrorism&relevant_snippet=1"
+}

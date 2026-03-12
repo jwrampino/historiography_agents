@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn92073229/1963-04-28/ed-1/?sp=7"
+  ],
+  "batch": [
+    "ncu_earnhardt_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/north carolina/",
+    "2/united states/north carolina/orange/",
+    "3/united states/north carolina/orange/chapel hill/"
+  ],
+  "contributor": [
+    "university of north carolina at chapel hill library, chapel hill, nc"
+  ],
+  "date": "1963-04-28",
+  "dates": [
+    "1963-04-28"
+  ],
+  "description": [
+    "Sunday April 281963 UNCs New Graduate Dean Reports To The Natives The text of an address deliver ed Monday night before the UNC Chapter of the American Asso elation of University Professors Dr Holman Kenan Professor of English succeeded Dr Alexand er Heard as Dean of the Graduate School on Feb 1 By C HUGH HOLMAN Henry David Thoreau in Wald en said of his life in his small hometown I have travelled a great deal in Concord After these travels Thoreau came back to report to the natives what he stated as something about your condition especially your outward condition or circumstances in the world in this town and he ob served that everywhere the inhabitants have appeared to be doing penance in a thousand re markable ways During the past twelve weeks I too have been traveling a great deal in a small geographic al area the campus of this Uni versity where I have now visited fortyseven departments schools and programs that offer work leading to degrees in the Gradu ate School As Thoreau found in his small town a microcosm of the great world so I have found here a reflection of the multifarious great world"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-12T17:33:55.696Z",
+  "group": [
+    "ndnp/ncu",
+    "university-of-north-carolina-chapel-hill-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn92073229/1963-04-28/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn92073229:00332891819:1963042801:0523/full/pct:3.125/0/default.jpg#h=292&w=209",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn92073229:00332891819:1963042801:0523/full/pct:6.25/0/default.jpg#h=585&w=419",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn92073229:00332891819:1963042801:0523/full/pct:12.5/0/default.jpg#h=1171&w=838",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ncu/batch_ncu_earnhardt_ver01/data/sn92073229/00332891819/1963042801/0523.xml&format=alto_xml"
+  ],
+  "index": 108,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "orange",
+    "north carolina",
+    "orange county",
+    "chapel hill",
+    "united states"
+  ],
+  "location_city": [
+    "chapel hill"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "orange"
+  ],
+  "location_state": [
+    "north carolina"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn92073229",
+    "1",
+    "8",
+    "2",
+    "0",
+    "9",
+    "0000000007",
+    "3"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn92073229"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "1",
+    "8",
+    "1",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn92073229-1963-04-28-ed-1-0523",
+  "partof": [
+    "chronicling america",
+    "the chapel hill weekly (chapel hill, n.c.) 1923-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the chapel hill weekly (chapel hill, n.c.) 1923-1972"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn92073229/1963-04-28/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn92073229/1963-04-28/ed-1/"
+  ],
+  "shelf_id": "07",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "orange",
+    "north carolina",
+    "orange county",
+    "orange county (n.c.)",
+    "chapel hill",
+    "chapel hill (n.c.)",
+    "united states"
+  ],
+  "timestamp": "2023-08-13T01:50:28.516Z",
+  "title": "Image 7 of The Chapel Hill weekly (Chapel Hill, N.C.), April 28, 1963, (B)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn92073229/1963-04-28/ed-1/?sp=7&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fncu%2Fbatch_ncu_earnhardt_ver01%2Fdata%2Fsn92073229%2F00332891819%2F1963042801%2F0523.xml&q=computers&relevant_snippet=1"
+}

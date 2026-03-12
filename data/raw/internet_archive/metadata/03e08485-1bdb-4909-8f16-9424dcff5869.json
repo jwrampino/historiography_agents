@@ -1,0 +1,28 @@
+{
+  "description": "Archive from EnglishPod podcast. This podcast has closed down since EnglishPod moved to OpenLanguage in 2013.\u00a0 Link Files: - Podcast: englishpod_0xxxpb.mp3 - Dialog: englishpod_0xxxdg.mp3 - Review: englishpod_0xxxrv.mp3 - Transcript of dialog: englishpod_0xxxdg.txt - PDF: englishpod_0xxx.pdf\u00a0 - HTML: englishpod_0xxx.html",
+  "format": [
+    "Abbyy GZ",
+    "Archive BitTorrent",
+    "Columbia Peaks",
+    "Comma-Separated Values",
+    "DjVuTXT",
+    "Djvu XML",
+    "HTML",
+    "Item Tile",
+    "JSON",
+    "Metadata",
+    "Ogg Vorbis",
+    "PNG",
+    "Scandata",
+    "Single Page Processed JP2 ZIP",
+    "Spectrogram",
+    "Text",
+    "Text PDF",
+    "VBR MP3"
+  ],
+  "identifier": "englishpod_all",
+  "language": "eng",
+  "mediatype": "audio",
+  "subject": "EnglishPod",
+  "title": "EnglishPod_All"
+}

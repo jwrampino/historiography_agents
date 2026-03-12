@@ -1,0 +1,172 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn91069201/1941-08-20/ed-1/?sp=2"
+  ],
+  "batch": [
+    "ohi_carrie_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/meigs/",
+    "3/united states/ohio/meigs/pomeroy/",
+    "2/united states/ohio/franklin/",
+    "3/united states/ohio/franklin/columbus/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1941-08-20",
+  "dates": [
+    "1941-08-20"
+  ],
+  "description": [
+    "Scew Clee Mattet OtMtr ft 1913 st the Peel USrc et Caliabu Ohle m4r Um Act t Marek II Accept fe MiHn ei eeeil rete f petaee frniMi kH Hf Act et October 1917 selherisei Pcctifcet 14 1918 Pak\u00fccitiM OEee 32 War res St \u00d6le ebea Ohle Published every Wednesday Send Net ice Per 3678 to Werthinstee Obie RiliwvH dt 26 August iflll Die einen sagen mit Donoso Cor ies das die kommende Katastrophe in der Geschichte die katastrophalste aller Katastrophen sein wird weil es so enklar ist das die Gesellschaft nicht gerettet sein will Die anderen glau ben mit Joseph de Maistre ia\u00df das Christentum mif eine au\u00dferordentliche Weise erneuert und verj\u00fcngt wird und dos darum die gr\u00f6\u00dfte aller Konver sionen vor der T\u00fcre steht Die moder lie Revolution wird an ihrem Kreuze wieder katholisch werden vch halte es Hier mit Joseph de Maisire Ich glaube an die Wieder holung der Bekehrung des Disnias Die Geschichte des rechten Schachers liegt int Dunkel Die Legende will aber wissen da\u00df er der Sohn eines N\u00e4uberhauptlnanns war Angeblich \u00e4gyptischer Herkunft Also ein Heide Er geh\u00f6rte einer der zahhlosen Ban den an wiche damals das Land In d\u00e4a unsicher machten Ein Schwerver Brecher"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:15:34.932Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn91069201/1941-08-20/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_carrie_ver01:data:sn91069201:00279556203:1941082001:0730/full/pct:6.25/0/default.jpg#h=385&w=277",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_carrie_ver01:data:sn91069201:00279556203:1941082001:0730/full/pct:12.5/0/default.jpg#h=771&w=554",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_carrie_ver01/data/sn91069201/00279556203/1941082001/0730.xml&format=alto_xml"
+  ],
+  "index": 5,
+  "language": [
+    "german",
+    "english"
+  ],
+  "location": [
+    "ohio",
+    "meigs",
+    "pomeroy",
+    "franklin",
+    "united states",
+    "columbus"
+  ],
+  "location_city": [
+    "pomeroy",
+    "columbus"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "meigs",
+    "franklin"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn91069201",
+    "9",
+    "2",
+    "6",
+    "5",
+    "3",
+    "0000000002",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn91069201"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "5",
+    "6",
+    "2",
+    "0",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn91069201-1941-08-20-ed-1-0730",
+  "partof": [
+    "ohio waisenfreund (pomeroy, o. [ohio]) 1874-1953",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "ohio waisenfreund (pomeroy, o. [ohio]) 1874-1953"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn91069201/1941-08-20/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn91069201/1941-08-20/ed-1/"
+  ],
+  "shelf_id": "02",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "ohio",
+    "meigs",
+    "german americans",
+    "german",
+    "pomeroy",
+    "franklin",
+    "catholics",
+    "newspapers",
+    "columbus"
+  ],
+  "subject_ethnicity": [
+    "german"
+  ],
+  "timestamp": "2023-09-05T05:00:06.817Z",
+  "title": "Image 2 of Ohio Waisenfreund (Pomeroy, O. [Ohio]), August 20, 1941",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn91069201/1941-08-20/ed-1/?sp=2&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_carrie_ver01%2Fdata%2Fsn91069201%2F00279556203%2F1941082001%2F0730.xml&q=revolution&relevant_snippet=1"
+}

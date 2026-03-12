@@ -1,0 +1,174 @@
+{
+  "dataControlGroup": {
+    "groupId": "ou=NREA,ou=groups",
+    "groupCd": "RMKC"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "false",
+  "digitalObjects": [
+    {
+      "objectFilename": "ChinLee_001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/94/68/12006894/content/arcmedia/central-plains/kansas-city/6862011/ChinLee_001.jpg",
+      "objectFileSize": 2663634,
+      "objectId": "15845033",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "ChinLee_002.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/94/68/12006894/content/arcmedia/central-plains/kansas-city/6862011/ChinLee_002.jpg",
+      "objectFileSize": 1685206,
+      "objectId": "15845035",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "ChinLee_003.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/94/68/12006894/content/arcmedia/central-plains/kansas-city/6862011/ChinLee_003.jpg",
+      "objectFileSize": 2392460,
+      "objectId": "15845036",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "ChinLee_004.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/94/68/12006894/content/arcmedia/central-plains/kansas-city/6862011/ChinLee_004.jpg",
+      "objectFileSize": 1609783,
+      "objectId": "15845037",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "ChinLee_005.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/94/68/12006894/content/arcmedia/central-plains/kansas-city/6862011/ChinLee_005.jpg",
+      "objectFileSize": 2499646,
+      "objectId": "15845038",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "ChinLee_006.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/94/68/12006894/content/arcmedia/central-plains/kansas-city/6862011/ChinLee_006.jpg",
+      "objectFileSize": 2352785,
+      "objectId": "15845039",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "ChinLee_007.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/94/68/12006894/content/arcmedia/central-plains/kansas-city/6862011/ChinLee_007.jpg",
+      "objectFileSize": 2173435,
+      "objectId": "15845040",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "ChinLee_008.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/94/68/12006894/content/arcmedia/central-plains/kansas-city/6862011/ChinLee_008.jpg",
+      "objectFileSize": 2187301,
+      "objectId": "15845041",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "ChinLee_009.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/94/68/12006894/content/arcmedia/central-plains/kansas-city/6862011/ChinLee_009.jpg",
+      "objectFileSize": 2889898,
+      "objectId": "15845042",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "ChinLee_010.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/94/68/12006894/content/arcmedia/central-plains/kansas-city/6862011/ChinLee_010.jpg",
+      "objectFileSize": 1866885,
+      "objectId": "15845043",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "ChinLee.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/94/68/12006894/content/arcmedia/central-plains/kansas-city/6862011/ChinLee.pdf",
+      "objectFileSize": 0,
+      "objectId": "15845034",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1685,
+        "logicalDate": "1685-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 21,
+      "inclusiveEndDate": {
+        "year": 2009,
+        "logicalDate": "2009-12-31"
+      },
+      "title": "Records of District Courts of the United States",
+      "naId": 350
+    },
+    {
+      "inclusiveStartDate": {
+        "month": 11,
+        "year": 1900,
+        "day": 14,
+        "logicalDate": "1900-11-14"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "U.S. District Court for the Eastern (St. Louis) Division of the Eastern District of Missouri. 2/28/1887-",
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 2,
+            "year": 1887,
+            "day": 28,
+            "logicalDate": "1887-02-28"
+          },
+          "naId": 10459091
+        }
+      ],
+      "inclusiveEndDate": {
+        "month": 5,
+        "year": 1925,
+        "day": 1,
+        "logicalDate": "1925-05-01"
+      },
+      "title": "Chinese Exclusion Case Files",
+      "naId": 6862011
+    }
+  ],
+  "title": "Chinese Exclusion Case File for Lee Chin",
+  "naId": 12006894,
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Kansas City",
+          "phone": "816-268-8000",
+          "address1": "400 West Pershing Road",
+          "postalCode": "64108",
+          "name": "National Archives at Kansas City",
+          "state": "MO",
+          "fax": "816-268-8038",
+          "email": "kansascity.archives@nara.gov",
+          "mailCode": "RM-KC"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  }
+}

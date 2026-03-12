@@ -1,0 +1,149 @@
+{
+  "custodialHistoryNote": "Transferred to the Photographs from the Oscar L. Chapman Papers.",
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "subjects": [
+    {
+      "heading": "Chapman, Oscar L. (Oscar Littleton), 1896-1978",
+      "deathDate": {
+        "year": 1978,
+        "logicalDate": "1978-12-31"
+      },
+      "authorityType": "person",
+      "birthDate": {
+        "year": 1896,
+        "logicalDate": "1896-01-01"
+      },
+      "naId": 10571795
+    },
+    {
+      "heading": "Award presentations",
+      "authorityType": "topicalSubject",
+      "naId": 10640734
+    },
+    {
+      "heading": "Awards",
+      "authorityType": "topicalSubject",
+      "naId": 10636597
+    },
+    {
+      "heading": "Cabinet officers",
+      "authorityType": "topicalSubject",
+      "naId": 10638284
+    }
+  ],
+  "useRestriction": {
+    "note": "The copyright status of this photograph is unknown.",
+    "status": "Undetermined"
+  },
+  "audiovisual": "False",
+  "title": "Chapman and Sons of American Revolution",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Independence",
+          "phone": "816-268-8272",
+          "address1": "500 West U.S. Highway 24",
+          "postalCode": "64050-1798",
+          "name": "Harry S. Truman Library",
+          "state": "MO",
+          "fax": "816-268-8295",
+          "email": "truman.reference@nara.gov",
+          "mailCode": "LP-HST"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Photographic Materials"
+          ],
+          "specificMediaType": "Photographic Print",
+          "dimension": "8x10 inches"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupId": "ou=NLHST,ou=groups",
+    "groupCd": "LPHST"
+  },
+  "generalRecordsTypes": [
+    "Photographs and other Graphic Materials"
+  ],
+  "localIdentifier": "2013-1602",
+  "productionDates": [
+    {
+      "month": 11,
+      "year": 1949,
+      "day": 30,
+      "logicalDate": "1949-11-30"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "2013-1602.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/photographs/2013/2013-1602.jpg",
+      "objectFileSize": 130508,
+      "objectId": "348544623",
+      "objectType": "Image (JPG)"
+    }
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "HST-PHC",
+      "inclusiveStartDate": {
+        "year": 1957,
+        "logicalDate": "1957-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "year": 2023,
+        "logicalDate": "2023-12-31"
+      },
+      "title": "Photograph Collection",
+      "naId": 1207
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1957,
+        "logicalDate": "1957-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "National Archives and Records Administration. Office of Presidential Libraries. Harry S. Truman Library. (4/1/1985 - 7/31/2011)",
+          "abolishDate": {
+            "month": 7,
+            "year": 2011,
+            "day": 31,
+            "logicalDate": "2011-07-31"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 4,
+            "year": 1985,
+            "day": 1,
+            "logicalDate": "1985-04-01"
+          },
+          "naId": 10498627
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 2023,
+        "logicalDate": "2023-12-31"
+      },
+      "title": "Photographs Relating to the Administration, Family, and Personal Life of Harry S. Truman",
+      "naId": 198606
+    }
+  ],
+  "scopeAndContentNote": "Under Secretary of the Interior Oscar Chapman (left) receives a gold medal from an unidentified representative of the Sons of the American Revolution. From: Oscar Chapman Scrapbook",
+  "naId": 348544622
+}

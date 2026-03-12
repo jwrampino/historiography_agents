@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2019270505/1952-07-03/ed-1/?sp=1"
+  ],
+  "batch": [
+    "nbu_indescribablebeast_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nebraska/",
+    "2/united states/nebraska/lancaster/",
+    "3/united states/nebraska/lancaster/lincoln/"
+  ],
+  "contributor": [
+    "university of nebraska-lincoln libraries, lincoln, ne"
+  ],
+  "date": "1952-07-03",
+  "dates": [
+    "1952-07-03"
+  ],
+  "description": [
+    "p VOL 6 No 34 i Pool Boycotted At Conference LAKE JUNALUSKA S C ANPBecause a Negro girl was refused permission to swim here most of the delegates attending a Methodist leadership conference of college students refrained from swimming themselves Despite an appeal by Miss Vivien Tostell Lakeland Fla the lone colored girl urging the group to reconsider its decision most of the delegates stood by their deci sion The group previously had adopted a resolution by a vote of 25012 not to use the Methodist Assemblys swimming facilities until the ban on interracial swim ming was lifted Assembly officials probably will not take any official action on the resolution since rules an regula tions here are laid down by the church In attempting to get the dele gates to take advantage of the facilities during the 90degree weather Misi Tostell said It would be a shame for you to deny yourselves swimming privileges just because of me and besides I cant swim The resolution said in part The regulation is a source of embarrassment to us especially when the youth of other countries meet with us to study Christian beliefs and world brotherhood Owen Troy Is First Negro ThD"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:41:52.396Z",
+  "group": [
+    "ndnp/nbu",
+    "university-of-nebraska-of-nebraska-lincoln-libraries-lincoln-ne-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2019270505/1952-07-03/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indescribablebeast_ver01:data:2019270505:00332899284:1952070301:0746/full/pct:6.25/0/default.jpg#h=408&w=291",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indescribablebeast_ver01:data:2019270505:00332899284:1952070301:0746/full/pct:12.5/0/default.jpg#h=817&w=583",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nbu/batch_nbu_indescribablebeast_ver01/data/2019270505/00332899284/1952070301/0746.xml&format=alto_xml"
+  ],
+  "index": 89,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "lancaster",
+    "lincoln",
+    "nebraska"
+  ],
+  "location_city": [
+    "lincoln"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lancaster"
+  ],
+  "location_state": [
+    "nebraska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "0000000001",
+    "2",
+    "2019270505",
+    "8",
+    "3",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2019270505"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "9",
+    "2",
+    "8",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2019270505-1952-07-03-ed-1-0746",
+  "partof": [
+    "chronicling america",
+    "the voice (lincoln, nebraska) 1946-195?",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the voice (lincoln, nebraska) 1946-195?"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2019270505/1952-07-03/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2019270505/1952-07-03/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "nebraska",
+    "lancaster",
+    "african american newspapers",
+    "african american",
+    "lincoln (neb.)",
+    "united states",
+    "newspapers",
+    "african americans",
+    "lincoln"
+  ],
+  "subject_ethnicity": [
+    "african american"
+  ],
+  "timestamp": "2025-12-15T05:09:19.057Z",
+  "title": "Image 1 of The voice (Lincoln, Nebraska), July 3, 1952",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2019270505/1952-07-03/ed-1/?sp=1&q=civil+rights",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnbu%2Fbatch_nbu_indescribablebeast_ver01%2Fdata%2F2019270505%2F00332899284%2F1952070301%2F0746.xml&q=civil+rights&relevant_snippet=1"
+}

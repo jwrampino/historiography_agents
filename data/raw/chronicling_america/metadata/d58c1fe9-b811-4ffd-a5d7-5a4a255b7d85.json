@@ -1,0 +1,154 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82016181/1944-10-09/ed-1/?sp=12"
+  ],
+  "batch": [
+    "dlc_cameron_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1944-10-09",
+  "dates": [
+    "1944-10-09"
+  ],
+  "description": [
+    "gJTHX WASHINGTON DAILY NIWS MONDAY OCTOBXR IMA And With Their Shoes On Acme Photo by Bert Brandt lor the War Fool The lads with the hobnailed boots lounging in the bed of the late Ger man Kaisers former home near Spa Belgium are V S war correspond ents And wait until their editors see this Pacific Continued from Page 3 Island in the southern Palaus Admiral Nimitz also disclosed that American planes apparently operating from Peleliu Airfield raided Babel thuap principal Palau island Saturday destroying a fuel dump and two small buildings in the villages of Ngatpang and Bamliangel Nimitz meantime announced that military government was established Sept 16 on Peleliu where Jap dead have reached 11 083 The communique revealed new aerial assaults on Iwo Jima in the Volcanoes Wake Island and Nauru west of the Gilberts 25 Enemy Vessels Hit in Philippines Indies ALLIED HEADQUARTERS South west Pacific Oct 9Allied bombers and fighters destroyed or damaged 25 more Jap ships and five planes in new attacks on the southern Phillipines and the Dutch East Indies it was an nounced today Tire biggest toll of dwindling Jap shipping was taken Friday by Mitchell medium bombers and Lightning fight ers"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-04-20T03:39:42.370Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82016181/1944-10-09/ed-1/?sp=12",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cameron_ver01:data:sn82016181:00529040027:1944100901:1240/full/pct:6.25/0/default.jpg#h=298&w=228",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cameron_ver01:data:sn82016181:00529040027:1944100901:1240/full/pct:12.5/0/default.jpg#h=597&w=456",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cameron_ver01:data:sn82016181:00529040027:1944100901:1240/full/pct:25/0/default.jpg#h=1195&w=913",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_cameron_ver01/data/sn82016181/00529040027/1944100901/1240.xml&format=alto_xml"
+  ],
+  "index": 103,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "2",
+    "sn82016181",
+    "0000000012",
+    "5",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82016181"
+  ],
+  "number_page": [
+    "0000000012"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "2",
+    "9",
+    "0",
+    "4",
+    "0",
+    "0",
+    "2",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82016181-1944-10-09-ed-1-1240",
+  "partof": [
+    "chronicling america",
+    "the washington daily news (washington, d.c.) 1921-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington daily news (washington, d.c.) 1921-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82016181/1944-10-09/ed-1/?sp=12"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82016181/1944-10-09/ed-1/"
+  ],
+  "shelf_id": "12",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2025-04-20T04:16:35.049Z",
+  "title": "Image 12 of The Washington daily news (Washington, D.C.), October 9, 1944",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82016181/1944-10-09/ed-1/?sp=12&q=phillipines",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_cameron_ver01%2Fdata%2Fsn82016181%2F00529040027%2F1944100901%2F1240.xml&q=phillipines&relevant_snippet=1"
+}

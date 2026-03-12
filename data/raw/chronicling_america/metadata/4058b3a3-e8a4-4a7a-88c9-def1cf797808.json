@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1937-04-04/ed-1/?sp=7"
+  ],
+  "batch": [
+    "dlc_1johns_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1937-04-04",
+  "dates": [
+    "1937-04-04"
+  ],
+  "description": [
+    "Admit Costs Too High Changing Concepts Are Outlined Sr Me Associated Press NEW YORK April 3The Ameri can Foundation after 18 months of Inquiry made public today an ex haustive survey of medicine in the United States with special emphasis on the problem of making adequate medical care available to a large por tion of the population now without it The report titled American Medi etneExpert Testimony Out of Court immmarlzes an extensive correspond ence with leading doctors surgeons and specialists in every State chiefly those that have been In practice 20 years or more There was no questionnaire The correspondents were asked to com ment freely on all phases of the ques tion of whether they felt any change was needed in the present system of medical care and if so in what di rection The report makes no recommenda tions Rnd sets forth no program of its own The foundation established And endowed by the late Edward W Bok desired only to illuminate condi tions and present a comprehensive Analysis of the entire structure of Aiwurioon rvrHirw Economics Part of Problem The summary of the report pre pared by Esther Everett Lape mem berincharge of the foundation says"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:38:17.629Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1937-04-04/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1johns_ver01:data:sn83045462:00280601901:1937040401:0533/full/pct:6.25/0/default.jpg#h=483&w=346",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1johns_ver01:data:sn83045462:00280601901:1937040401:0533/full/pct:12.5/0/default.jpg#h=966&w=693",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1johns_ver01/data/sn83045462/00280601901/1937040401/0533.xml&format=alto_xml"
+  ],
+  "index": 74,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "district of columbia",
+    "washington d.c.",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "6",
+    "0000000007",
+    "2",
+    "1",
+    "sn83045462",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "1",
+    "9",
+    "0",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1937-04-04-ed-1-0533",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1937-04-04/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1937-04-04/ed-1/"
+  ],
+  "shelf_id": "007",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "washington",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-24T20:23:03.989Z",
+  "title": "Image 7 of Evening star (Washington, D.C.), April 4, 1937",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1937-04-04/ed-1/?sp=7&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_1johns_ver01%2Fdata%2Fsn83045462%2F00280601901%2F1937040401%2F0533.xml&q=medicine&relevant_snippet=1"
+}

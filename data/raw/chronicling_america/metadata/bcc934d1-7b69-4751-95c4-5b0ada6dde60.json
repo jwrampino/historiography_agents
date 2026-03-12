@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1924-06-22/ed-1/?sp=39"
+  ],
+  "batch": [
+    "dlc_carmichael_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1924-06-22",
+  "dates": [
+    "1924-06-22"
+  ],
+  "description": [
+    "EDITORIAL PAGE NATIONAL PROBLEMS 1 SPECIAL ARTICLES Part 216 Pages PEOPLE SWINGING AWAY FROM CONSERVATIVES European Countries Notably England and France Now Led by Liberal Political Elements BY FRANK H SIMON Oft NOW that the American cam paign is well launched one of the problems which is submitted is obviously whether the American democracy will in any measure follow the British and French Recent events in France demonstrated in a striking fashion the degree to which the French peo ple have moved away from their con servative pelitical leaders of recent years and turned not exactly to new men but to men and parties which were dominant at the moment when the world war broke In a word France has done two things she has turned to more radical leaders and she has broken with the war psychology In many ways the French election of May was no more than a close im itation of that in Great Britain in December with the patent difference that Britain being an island and having thus no contiguous German neighbor could afford to go further than France with an open eastern boundary The difference bet ween Ramsay MacDonald and Edouard Har riot pretty"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:52:44.281Z",
+  "group": [
+    "ndnp/dlc-2017_2017",
+    "library-of-congress-washington-dc-awardee-6"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1924-06-22/ed-1/?sp=39",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_carmichael_ver01:data:sn83045462:00280657554:1924062201:0638/full/pct:3.125/0/default.jpg#h=261&w=205",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_carmichael_ver01:data:sn83045462:00280657554:1924062201:0638/full/pct:6.25/0/default.jpg#h=523&w=410",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_carmichael_ver01:data:sn83045462:00280657554:1924062201:0638/full/pct:12.5/0/default.jpg#h=1047&w=820",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_carmichael_ver01/data/sn83045462/00280657554/1924062201/0638.xml&format=alto_xml"
+  ],
+  "index": 54,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "5",
+    "0000000039",
+    "7",
+    "4",
+    "sn83045462",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000039"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "7",
+    "5",
+    "5",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1924-06-22-ed-1-0638",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1924-06-22/ed-1/?sp=39"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1924-06-22/ed-1/"
+  ],
+  "shelf_id": "39",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-24T16:44:48.321Z",
+  "title": "Image 39 of Evening star (Washington, D.C.), June 22, 1924",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1924-06-22/ed-1/?sp=39&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_carmichael_ver01%2Fdata%2Fsn83045462%2F00280657554%2F1924062201%2F0638.xml&q=child+labor&relevant_snippet=1"
+}

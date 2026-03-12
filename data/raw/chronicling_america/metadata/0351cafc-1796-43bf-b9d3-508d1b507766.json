@@ -1,0 +1,154 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84026749/1933-05-01/ed-1/?sp=26"
+  ],
+  "batch": [
+    "dlc_deanwood_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1933-05-01",
+  "dates": [
+    "1933-05-01"
+  ],
+  "description": [
+    "EDITORIAL PAGE OF THE Quite a Car His Highness Travels in Safety Comfort Exclusiveness ft i i _ MMI r _ r 7 4 m vUks _v __ fyrsgM 9 uEZj I I JH I I A SPECIAL CAR BUILT FOR HIS HIGHNESS ABBAS HILMI 11 FORMERLY KHEDIVE OF EGYPT This country land of the automobile with more selfmov ing vehicles than all the rest of the world put together will be interested in this Mansion on Wheels built for an East ern prince His Highness Abbas Hilmi 11 whose mental workings you could not imagine any more than you could Imagine the mental workings of a sea lion knows just how he wants to travel and here you see it He has two men in front with bulletproof glass all around them He himself sits inside back of those bulletproof metal doors How can he see the country He cant see it but that does not worry him He would say like Samuel Johnson invited out to the green fields When you have seen one green field you have seen all green fields Inside this house on wheels His Highness rests drinks eats entertains any gentleman or lady invited"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-07T20:30:46.122Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84026749/1933-05-01/ed-1/?sp=26",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deanwood_ver01:data:sn84026749:00205696556:1933050101:0026/full/pct:3.125/0/default.jpg#h=303&w=239",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deanwood_ver01:data:sn84026749:00205696556:1933050101:0026/full/pct:6.25/0/default.jpg#h=606&w=478",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_deanwood_ver01/data/sn84026749/00205696556/1933050101/0026.xml&format=alto_xml"
+  ],
+  "index": 129,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn84026749",
+    "9",
+    "2",
+    "0000000026",
+    "5",
+    "6",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84026749"
+  ],
+  "number_page": [
+    "0000000026"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "5",
+    "6",
+    "9",
+    "6",
+    "5",
+    "5",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Washington times herald"
+  ],
+  "page_id": "sn84026749-1933-05-01-ed-1-0026",
+  "partof": [
+    "chronicling america",
+    "the washington times (washington [d.c.]) 1902-1939",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington times (washington [d.c.]) 1902-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84026749/1933-05-01/ed-1/?sp=26"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84026749/1933-05-01/ed-1/"
+  ],
+  "shelf_id": "26",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-08-08T02:49:09.675Z",
+  "title": "Image 26 of The Washington times (Washington [D.C.]), May 1, 1933",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84026749/1933-05-01/ed-1/?sp=26&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_deanwood_ver01%2Fdata%2Fsn84026749%2F00205696556%2F1933050101%2F0026.xml&q=great+war&relevant_snippet=1"
+}

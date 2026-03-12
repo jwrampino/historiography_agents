@@ -1,0 +1,170 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85025431/1898-04-27/ed-1/?sp=5"
+  ],
+  "batch": [
+    "mnhi_rolls_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/minnesota/",
+    "2/united states/minnesota/mower/",
+    "3/united states/minnesota/mower/austin/",
+    "3/united states/minnesota/mower/lansing/"
+  ],
+  "contributor": [
+    "minnesota historical society; saint paul, mn"
+  ],
+  "date": "1898-04-27",
+  "dates": [
+    "1898-04-27"
+  ],
+  "description": [
+    "Copyright 1898 by the Author Cnba 1 It ia a name that now is fa miliar to every household in all the civilized earth The suffering of its people the dying groans of its tortured patriots have farmed the minor key of sorrow in the worlds grand song of progress And yet in spite of the fact that it has long held the interest and sympathy of fair minded people no land is so little known and so greatly underestimated The traveler who glimpses for the first time her marvel ous shores is overcome with astonish ment at the panorama of immense pos sibility that lies shimmering before him for even now her richest vest ments shredded her body bleeding un der the violent hands of an unnatural parent Cuba remains the indestructible Pearl of the Antilles with such wealth in her soil and under it as no earthly power can take away As everybody knows the develop ment of Cuba had been from its earliest occupancy retarded and at times prac tically stopped by the rule of Spain Soon after the foot of Columbus touched her virgin soil the dark ckrad of oppres sion began to hover over her"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-04T17:05:45.370Z",
+  "group": [
+    "ndnp/mnhi",
+    "minnesota-historical-society-saint-paul-mn-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85025431/1898-04-27/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479925:1898042701:0135/full/pct:3.125/0/default.jpg#h=282&w=191",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479925:1898042701:0135/full/pct:6.25/0/default.jpg#h=564&w=383",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479925:1898042701:0135/full/pct:12.5/0/default.jpg#h=1128&w=766",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mnhi/batch_mnhi_rolls_ver01/data/sn85025431/00212479925/1898042701/0135.xml&format=alto_xml"
+  ],
+  "index": 39,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "austin",
+    "lansing",
+    "mower",
+    "minnesota",
+    "mower county"
+  ],
+  "location_city": [
+    "austin",
+    "lansing"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "mower"
+  ],
+  "location_state": [
+    "minnesota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "0000000005",
+    "sn85025431",
+    "9",
+    "5",
+    "7",
+    "4",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85025431"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "2",
+    "4",
+    "7",
+    "9",
+    "9",
+    "2",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Mower Co. transcript"
+  ],
+  "page_id": "sn85025431-1898-04-27-ed-1-0135",
+  "partof": [
+    "mower county transcript (lansing, minn.) 1868-1915",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "mower county transcript (lansing, minn.) 1868-1915"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85025431/1898-04-27/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85025431/1898-04-27/ed-1/"
+  ],
+  "shelf_id": "5",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "lansing (minn.)",
+    "austin",
+    "austin (minn.)",
+    "lansing",
+    "mower county (minn.)",
+    "newspapers",
+    "mower",
+    "minnesota",
+    "mower county"
+  ],
+  "timestamp": "2024-01-05T14:31:28.826Z",
+  "title": "Image 5 of Mower County transcript (Lansing, Minn.), April 27, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85025431/1898-04-27/ed-1/?sp=5&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmnhi%2Fbatch_mnhi_rolls_ver01%2Fdata%2Fsn85025431%2F00212479925%2F1898042701%2F0135.xml&q=cuba&relevant_snippet=1"
+}

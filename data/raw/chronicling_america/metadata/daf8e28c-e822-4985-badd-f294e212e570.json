@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn2001063133/1898-05-05/ed-1/?sp=3"
+  ],
+  "batch": [
+    "sdhi_eagle_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/south dakota/",
+    "2/united states/south dakota/turner/",
+    "3/united states/south dakota/turner/hurley/"
+  ],
+  "contributor": [
+    "south dakota state historical society \u2013 state archives"
+  ],
+  "date": "1898-05-05",
+  "dates": [
+    "1898-05-05"
+  ],
+  "description": [
+    "s 1 nXflRSrV p lite f4 J 1 f SLORIQU 181 V 1 1 1 SPS if Sv I w 0S V frW St Iaul May 3Tho Pioneer Tress prints the following copyrighted cable from the London correspondent of the New York Herald The Asiatic squadron of the United States Commodore Dewey commaiul lns yesterday engaged and completely defeated the Asiatic squadron of Spain in lie harbor of Manilla in the Philip pine islands All the news of the great naval bat tle thus far received is coming from Spanish sources This shows conclus ively that Manilla has not yet been taken by the American forces and that the cable lines are still under the con trol of Spain SPAINS ASIATIC SQUADRON COMPLETE W From the fact that even the advices received from Madrid show that the American warships fared the bes there is hardly any doubt that when complete details are obtainable it will be learned that is was a crushing de feat for spain Reports of the battle thus far are coming piecemeal Dur ing the two engagements that took place Commodore Montejo command ing the Spanish fleet lost three of his largest ships His flagship the ar"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-06-25T23:46:42.041Z",
+  "group": [
+    "ndnp/sdhi",
+    "south-dakota-state-historical-society-state-archives-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn2001063133/1898-05-05/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_eagle_ver01:data:sn2001063133:00415623276:1898050501:0722/full/pct:3.125/0/default.jpg#h=291&w=204",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_eagle_ver01:data:sn2001063133:00415623276:1898050501:0722/full/pct:6.25/0/default.jpg#h=583&w=409",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_eagle_ver01:data:sn2001063133:00415623276:1898050501:0722/full/pct:12.5/0/default.jpg#h=1166&w=819",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/sdhi/batch_sdhi_eagle_ver01/data/sn2001063133/00415623276/1898050501/0722.xml&format=alto_xml"
+  ],
+  "index": 65,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "turner",
+    "hurley",
+    "south dakota",
+    "turner county",
+    "united states"
+  ],
+  "location_city": [
+    "hurley"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "turner"
+  ],
+  "location_state": [
+    "south dakota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000003",
+    "sn2001063133",
+    "2",
+    "6",
+    "5",
+    "3",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn2001063133"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "2",
+    "3",
+    "2",
+    "7",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn2001063133-1898-05-05-ed-1-0722",
+  "partof": [
+    "turner county herald (hurley, dakota [s.d.]) 1883-19??",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "turner county herald (hurley, dakota [s.d.]) 1883-19??"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn2001063133/1898-05-05/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn2001063133/1898-05-05/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "turner",
+    "hurley",
+    "south dakota",
+    "turner county (s.d.)",
+    "turner county",
+    "united states",
+    "newspapers",
+    "hurley (s.d.)"
+  ],
+  "timestamp": "2023-06-26T05:01:43.997Z",
+  "title": "Image 3 of Turner County herald (Hurley, Dakota [S.D.]), May 5, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn2001063133/1898-05-05/ed-1/?sp=3&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fsdhi%2Fbatch_sdhi_eagle_ver01%2Fdata%2Fsn2001063133%2F00415623276%2F1898050501%2F0722.xml&q=spanish&relevant_snippet=1"
+}

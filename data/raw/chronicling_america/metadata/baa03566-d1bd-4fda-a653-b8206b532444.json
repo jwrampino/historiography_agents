@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045555/1906-04-07/ed-1/?sp=18"
+  ],
+  "batch": [
+    "uuml_ten_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/utah/",
+    "2/united states/utah/salt lake/",
+    "3/united states/utah/salt lake/salt lake city/"
+  ],
+  "contributor": [
+    "university of utah, marriott library"
+  ],
+  "date": "1906-04-07",
+  "dates": [
+    "1906-04-07"
+  ],
+  "description": [
+    "rrLcJ1rrv I d JlJt I 1T sgt y ry f l h 18 DESEHET EVENING NEWS SATURDAY APIUL JOOG t elves will need to play This passport i department la a very Important netV t p fr ati a of the hun committee tied Is coin a posed of men nnd women expert who t practically spend their liver In ropylnx the signatures of Husilun rnllltuiy and r civil officials And they reach buch n i n state of perfection that passports tho p blanks for which oro stolen from the gt I r government oillres signed by them 1 pass the scrutiny not of the frontier gendarmes alone but of the very men J C I s whoes signatures are forged I y ors r UNIFORMS AND IASSPOllTS 4 t l Once the unlfmnm and passpoits nn obtnned the liumls executive commit tee appoint a member whom It can s 0 trust to do the work coolly to go to 1 r elf one of the arsenals and enter the ulllcc ti s liS a clerk from another powder mngi y kt zinc on pretext of sum business Ala v l which naturally varies as clrumi I stnnese may"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T16:05:43.348Z",
+  "group": [
+    "ndnp/uuml",
+    "university-of-utah-marriott-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045555/1906-04-07/ed-1/?sp=18",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_ten_ver01:data:sn83045555:00175048832:1906040701:0612/full/pct:6.25/0/default.jpg#h=456&w=326",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_ten_ver01:data:sn83045555:00175048832:1906040701:0612/full/pct:12.5/0/default.jpg#h=913&w=653",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/uuml/batch_uuml_ten_ver01/data/sn83045555/00175048832/1906040701/0612.xml&format=alto_xml"
+  ],
+  "index": 109,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "salt lake city",
+    "salt lake",
+    "utah"
+  ],
+  "location_city": [
+    "salt lake city"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "salt lake"
+  ],
+  "location_state": [
+    "utah"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "8",
+    "5",
+    "sn83045555",
+    "7",
+    "4",
+    "3",
+    "2",
+    "0",
+    "0000000018"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045555"
+  ],
+  "number_page": [
+    "0000000018"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "1",
+    "7",
+    "5",
+    "0",
+    "4",
+    "8",
+    "8",
+    "3",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83045555-1906-04-07-ed-1-0612",
+  "partof": [
+    "deseret evening news (great salt lake city [utah]) 1867-1920",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "deseret evening news (great salt lake city [utah]) 1867-1920"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045555/1906-04-07/ed-1/?sp=18"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045555/1906-04-07/ed-1/"
+  ],
+  "shelf_id": "18",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "salt lake",
+    "salt lake city",
+    "utah",
+    "salt lake city (utah)",
+    "newspapers"
+  ],
+  "timestamp": "2022-11-28T23:09:23.758Z",
+  "title": "Image 18 of Deseret evening news (Great Salt Lake City [Utah]), April 7, 1906, (Last Edition, Part Two)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045555/1906-04-07/ed-1/?sp=18&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fuuml%2Fbatch_uuml_ten_ver01%2Fdata%2Fsn83045555%2F00175048832%2F1906040701%2F0612.xml&q=terrorism&relevant_snippet=1"
+}

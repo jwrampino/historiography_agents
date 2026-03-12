@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1911-02-22/ed-1/?sp=1"
+  ],
+  "batch": [
+    "dlc_martian_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1911-02-22",
+  "dates": [
+    "1911-02-22"
+  ],
+  "description": [
+    "Jtuenittg In Washington about every one who reads at all reads The Star Largest circulationdaily and Sundav Li No 18410 WASHINGTON D C WEDNESDAY FEBRUARY 22 1911EIGHTEEN PAGES ONE CENT President Taft Determined to Secure Vote on Reci procity Agreement RECEIVES INTIMATION OF REVOLT IN SENATE Cummins to Lead Movement Against Action at This Session BESOBT TO FILIBUSTER TACTICS Call for the Reconvening of Con j gress to Issue Immediate ly Following Ad journment President Taft has practically made all arrangements tu call an extia session of Congress Today tor the first time his informa tion is not favorable to approval of Cana dian reciprocity at the present session The information has come to him it was learned in such a way that he cannot doubt its accuracy although immensely surprised at the influences that are re ported to be working to kill the treaty under the supposition that the chief ex ecutive has not the nerve or backbone to call an extra session The story reaching the White House about which however there cannot be j had a single official word of confirmation j or denial is that the real enemy to Ca j nadian reciprocity at this session"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:34:49.295Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1911-02-22/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_martian_ver02:data:sn83045462:00280657852:1911022201:0553/full/pct:3.125/0/default.jpg#h=302&w=242",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_martian_ver02:data:sn83045462:00280657852:1911022201:0553/full/pct:6.25/0/default.jpg#h=604&w=484",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_martian_ver02/data/sn83045462/00280657852/1911022201/0553.xml&format=alto_xml"
+  ],
+  "index": 157,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000001",
+    "2",
+    "sn83045462",
+    "8",
+    "6",
+    "5",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "7",
+    "8",
+    "5",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1911-02-22-ed-1-0553",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1911-02-22/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1911-02-22/ed-1/"
+  ],
+  "shelf_id": "01",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2022-10-21T03:32:57.135Z",
+  "title": "Image 1 of Evening star (Washington, D.C.), February 22, 1911",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1911-02-22/ed-1/?sp=1&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_martian_ver02%2Fdata%2Fsn83045462%2F00280657852%2F1911022201%2F0553.xml&q=immigration&relevant_snippet=1"
+}

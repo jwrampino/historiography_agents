@@ -1,0 +1,166 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84022060/1888-10-12/ed-1/?sp=2"
+  ],
+  "batch": [
+    "nvln_bullfrog_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nevada/",
+    "2/united states/nevada/humboldt/",
+    "3/united states/nevada/humboldt/unionville/",
+    "3/united states/nevada/humboldt/winnemucca/"
+  ],
+  "contributor": [
+    "university of nevada las vegas university libraries"
+  ],
+  "date": "1888-10-12",
+  "dates": [
+    "1888-10-12"
+  ],
+  "description": [
+    "TO 1 I THE SILVER STATE PUBLISHED r ERY DAY SUNDAYS EX CEPTED BY j J HILL CO TERMS OF SUBSCRIPTION Oatlcopy one year by mail8 0 OH copy si months by mail 00 One copy throe months by mail 2 60 Delivered bv Carrier 25 Cent tier eoV RATES OF ADVERTISING Square 10 lines first insertion Sz 60 achsubscqunt insertionper squar 1 00 A liberal reduction to regular advertisers AGENTS D J Hadley is authorized to mare oollctions Or the Silver State and receipt icr the sami S R Young is authorized to collect and jeeipt for subscription to the oBAKR at Biff Aieadcwe Heypy I Rule is authorized to coiect and re jeipt for subscriptions to thej Sil kr i in Spring City J B Case is authorized to c an re ceipt for subscriptions to the guava n Paradise Valioy L P Fisher San Francisco CaUiornu iriuuj CHINESE EXCLI8IM ACT Jn the House of Representatives Barnes of Missouri reported from the Committee on Appropriations a bill ap propriating 50000 for the enforcement of the Chinese exclusion act and it was passed without debate This appropria tion was made at the suggestion of the Secretary of the Treasury"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-06-30T14:52:13.153Z",
+  "group": [
+    "ndnp/nvln",
+    "university-of-nevada-las-vegas-university-libraries-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84022060/1888-10-12/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_bullfrog_ver01:data:sn84022060:00332890529:1888101201:0965/full/pct:6.25/0/default.jpg#h=427&w=277",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_bullfrog_ver01:data:sn84022060:00332890529:1888101201:0965/full/pct:12.5/0/default.jpg#h=854&w=555",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nvln/batch_nvln_bullfrog_ver01/data/sn84022060/00332890529/1888101201/0965.xml&format=alto_xml"
+  ],
+  "index": 149,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "humboldt",
+    "nevada",
+    "winnemucca",
+    "unionville"
+  ],
+  "location_city": [
+    "unionville",
+    "winnemucca"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "humboldt"
+  ],
+  "location_state": [
+    "nevada"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "9",
+    "5",
+    "3",
+    "sn84022060",
+    "0000000002",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84022060"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "0",
+    "5",
+    "2",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Daily silver state",
+    "Winnemucca republican"
+  ],
+  "page_id": "sn84022060-1888-10-12-ed-1-0965",
+  "partof": [
+    "serial and government publications division",
+    "the silver state (unionville, nev.) 1870-1903",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the silver state (unionville, nev.) 1870-1903"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84022060/1888-10-12/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84022060/1888-10-12/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "humboldt",
+    "nevada",
+    "newspapers",
+    "winnemucca",
+    "unionville (nev.)",
+    "unionville",
+    "winnemucca (nev.)"
+  ],
+  "timestamp": "2023-06-30T16:47:34.002Z",
+  "title": "Image 2 of The Silver state (Unionville, Nev.), October 12, 1888",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84022060/1888-10-12/ed-1/?sp=2&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnvln%2Fbatch_nvln_bullfrog_ver01%2Fdata%2Fsn84022060%2F00332890529%2F1888101201%2F0965.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

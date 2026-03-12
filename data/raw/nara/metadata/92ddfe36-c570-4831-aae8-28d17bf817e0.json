@@ -1,0 +1,158 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "subjects": [
+    {
+      "heading": "Okinawa (Japan)",
+      "authorityType": "geographicPlaceName",
+      "naId": 10036683
+    }
+  ],
+  "useRestriction": {
+    "note": "Some or all of this material may be restricted by copyright or other intellectual property rights restrictions.",
+    "specificUseRestrictions": [
+      "Copyright"
+    ],
+    "status": "Restricted - Possibly"
+  },
+  "audiovisual": "True",
+  "title": "Field Medicine",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-3540",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Motion Pictures",
+          "state": "MD",
+          "fax": "301-837-3622",
+          "email": "mopix@nara.gov",
+          "mailCode": "RRSM"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "pieceCount": 1,
+          "generalMediaTypes": [
+            "Motion Picture Film"
+          ],
+          "specificMediaType": "Film Reel",
+          "dimension": "Film: 16 mm"
+        }
+      ],
+      "copyStatus": "Preservation"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupName": "National Archives at College Park \u2013 Motion Pictures",
+    "groupId": "RRAM",
+    "groupCd": "RRAM"
+  },
+  "generalRecordsTypes": [
+    "Moving Images"
+  ],
+  "localIdentifier": "127-R-1188",
+  "productionDates": [
+    {
+      "month": 5,
+      "year": 1945,
+      "logicalDate": "1945-05-01"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "127-r-1188-page-1.jpg",
+      "objectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/mopix/127/R/Batch02cards/127-r-1188-page-1.jpg",
+      "objectFileSize": 1234,
+      "objectId": "542317359",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "127-r-1188-page-2.jpg",
+      "objectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/mopix/127/R/Batch02cards/127-r-1188-page-2.jpg",
+      "objectFileSize": 1234,
+      "objectId": "542317360",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "127-r-1188-page-3.jpg",
+      "objectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/mopix/127/R/Batch02cards/127-r-1188-page-3.jpg",
+      "objectFileSize": 1234,
+      "objectId": "542317361",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "127-r-1188-page-4.jpg",
+      "objectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/mopix/127/R/Batch02cards/127-r-1188-page-4.jpg",
+      "objectFileSize": 1234,
+      "objectId": "542317362",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "127-r-1188-page-5.jpg",
+      "objectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/mopix/127/R/Batch02cards/127-r-1188-page-5.jpg",
+      "objectFileSize": 1234,
+      "objectId": "542317363",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "127-R-1188.pdf",
+      "objectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/mopix/127/R/Batch02cards/127-R-1188.pdf",
+      "objectFileSize": 1234,
+      "objectId": "542317358",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1775,
+        "logicalDate": "1775-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 127,
+      "inclusiveEndDate": {
+        "year": 9999,
+        "logicalDate": "9999-12-31"
+      },
+      "title": "Records of the U.S. Marine Corps",
+      "naId": 456
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1939,
+        "logicalDate": "1939-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "Department of Defense. Department of the Navy. U.S. Marine Corps. (09/18/1947 - )",
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 9,
+            "year": 1947,
+            "day": 18,
+            "logicalDate": "1947-09-18"
+          },
+          "naId": 10476969
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1965,
+        "logicalDate": "1965-12-31"
+      },
+      "title": "Films of Marine Corps Activities",
+      "naId": 6277103
+    }
+  ],
+  "naId": 542317357
+}

@@ -1,0 +1,167 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045366/1902-06-18/ed-1/?sp=8"
+  ],
+  "batch": [
+    "mnhi_amboy_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/minnesota/",
+    "2/united states/minnesota/hennepin/",
+    "3/united states/minnesota/hennepin/minneapolis/"
+  ],
+  "contributor": [
+    "minnesota historical society; saint paul, mn"
+  ],
+  "date": "1902-06-18",
+  "dates": [
+    "1902-06-18"
+  ],
+  "description": [
+    "JSW r THE MmEAPOLIS JOURNALi L WEDNESDAY EVENING JUNE i 1902 RECIPROCITY WITH CUBA Leading Republicans of Minnesota Generally Support the President _ An Inquiry Prosecuted by Journal Correspondents in All Parts This State Develops a Remarkable Preponderance of Sen timent in Favor of the Administrations Policy If 2 of The question whether the republicans of Minnesota generally indorse the action Q their delegation in congress in opposing the national administration in its Cuban reciprocity policy having been suggested by the appearance of the presidents last ressage T h e J o u r n a l instructed its correspondents in fifty or sixty of the more Important centers of the state to interview leading republicans arid furnish this paper with the result of their inquiry They were instructed to ask those inter viewed whether they supported the Minnesota delegation or the president on Cuban reciprocity T h e J o u r n a l has been confident from the beginning of this Cuban reci procity discussion that the sentiment of the people of the state was in favor of carrying out our national obligations to Cubaby granting to that country the most favorable commercial relations The result of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-04T16:56:19.510Z",
+  "group": [
+    "ndnp/mnhi",
+    "minnesota-historical-society-saint-paul-mn-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045366/1902-06-18/ed-1/?sp=8",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_amboy_ver02:data:sn83045366:00206538764:1902061801:0247/full/pct:3.125/0/default.jpg#h=290&w=219",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_amboy_ver02:data:sn83045366:00206538764:1902061801:0247/full/pct:6.25/0/default.jpg#h=581&w=439",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_amboy_ver02:data:sn83045366:00206538764:1902061801:0247/full/pct:12.5/0/default.jpg#h=1162&w=879",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mnhi/batch_mnhi_amboy_ver02/data/sn83045366/00206538764/1902061801/0247.xml&format=alto_xml"
+  ],
+  "index": 5,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "hennepin",
+    "minneapolis",
+    "minnesota"
+  ],
+  "location_city": [
+    "minneapolis"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hennepin"
+  ],
+  "location_state": [
+    "minnesota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "5",
+    "sn83045366",
+    "0000000008",
+    "7",
+    "4",
+    "3",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045366"
+  ],
+  "number_page": [
+    "0000000008"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "6",
+    "5",
+    "3",
+    "8",
+    "7",
+    "6",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday journal",
+    "Journal junior",
+    "Evening journal",
+    "Minneapolis evening journal"
+  ],
+  "page_id": "sn83045366-1902-06-18-ed-1-0247",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the minneapolis journal (minneapolis, minn.) 1888-1939"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the minneapolis journal (minneapolis, minn.) 1888-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045366/1902-06-18/ed-1/?sp=8"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045366/1902-06-18/ed-1/"
+  ],
+  "shelf_id": "08",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "hennepin",
+    "newspapers",
+    "minnesota",
+    "minneapolis (minn.)",
+    "minneapolis"
+  ],
+  "timestamp": "2024-01-04T04:57:21.698Z",
+  "title": "Image 8 of The Minneapolis journal (Minneapolis, Minn.), June 18, 1902",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045366/1902-06-18/ed-1/?sp=8&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmnhi%2Fbatch_mnhi_amboy_ver02%2Fdata%2Fsn83045366%2F00206538764%2F1902061801%2F0247.xml&q=cuba&relevant_snippet=1"
+}

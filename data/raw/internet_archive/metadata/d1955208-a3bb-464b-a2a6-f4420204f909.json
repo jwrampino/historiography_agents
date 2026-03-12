@@ -1,0 +1,20 @@
+{
+  "description": "A collection of high-quality preservation copies of&nbsp; vintage software, with an emphasis on NEC PC-9800 and PC-8800 series computers .scp = multi-revolution flux image, for preservation and converting to other formats .mfi = single-revolution flux image, for using copy-protected software on MAME .hfe = single-revolution bitstream image, for writing new floppies and HxC/Gotek use .d88 = emulator-friendly image, cracked (when needed) using OG Japanese \"personal backup\" software (aka \"filers\") A key feature of these dumps is that copy-protection schemes are preserved. To run them on emulators, use the cracked .d88 images provided. With MAME specifically, you can also use the protected .mfi images, but note that there are still issues with some protection types. Whichever route you take, p lease refrain from using Reviews for any type of tech support, and take your questions to a proper enthusiast forum. (Also whatever you do, don't beg me for files - doing so will just make me hate you.) --- Filename Tags --- [WizV5] [Charm Copy] etc. = Software used for cracking .d88 images [AS,KF=OK] [HxC=NG] = Contains iffy sections that only resolve correctly in Applesauce and KryoFlux software / resolve incorrectly in HxC, but correctly in other (unspecified) software [Tampered] = Flux transitions have been manually altered to fix bad sectors --- Writing images to floppies --- Be sure to use the .hfe files for this purpose, as floppy-writing software (including gw.exe) apparently only take into account the first revolution of a multi-rev .scp file, resulting in bad sectors with dumps where the original disk was in less than ideal condition (which is to say, a lot of them... ) --- Recommended tools --- HxC Floppy Emulator software (scroll down to Software) for file format conversions and flux image analysis Applesauce is a similar tool, indispensable for flux stream editing Greaseweazle for dumping disks, and writing .hfe images to floppies --- Updates --- - Some of the newly uploaded MFI images had bad sectors in them, but I've now fixed them manually. If you still find suspicious MFI images, do let me know. - Zipped up dumps to save space (up to 85% per game!) - Added MFI conversions (now that HxC got MFI export support), so people can play even the uncracked games on emulators (=MAME) - Moving Win95+ and Mac CD releases into a separate collection, when I amass enough uploads to get it approved - Started adding jacket and manual scans. Exciting!",
+  "format": [
+    "Archive BitTorrent",
+    "Item Image",
+    "Item Tile",
+    "Metadata",
+    "Text"
+  ],
+  "identifier": "flux-dumps",
+  "mediatype": "collection",
+  "subject": [
+    "PC-98",
+    "PC-88",
+    "Floppy disk",
+    "Greaseweazle",
+    "Flux dump"
+  ],
+  "title": "Flux dumps"
+}

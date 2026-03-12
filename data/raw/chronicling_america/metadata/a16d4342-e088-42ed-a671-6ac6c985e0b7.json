@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1929-02-25/ed-1/?sp=7"
+  ],
+  "batch": [
+    "dlc_lateef_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1929-02-25",
+  "dates": [
+    "1929-02-25"
+  ],
+  "description": [
+    "S VANDYKtBROOKE DIES OF INJURIES Assistant W R E Treas urer Second Victim of Fairfax Auto Crash Samuel Van Dyke Brooke 43 years old of 2455 Twentieth street died at Alexandria Hospital early today the econd victim of an automobile acci dent Saturday night in which Mrs Julia Kelly 39 of Fairfax Court House Va also lost her life and five others were injured when the machine driven by Brooke skidded from the road be tween Fairfax and Annandale and toppled into a ditch Brooke expired shortly before 2 oclock this morning as the result of a ruptured lung and possibly other in ternal injuries The body has been removed to the W W Chambers Co undertaking parlors at 1400 Chapin street wher the funeral services will be held arrangements for which have not been completed Prominrnt Official Here Mr Brooke was assistant treasurer of I ffhc Washington Railway Electric Co and the Potomac Electric Power Co and also secretary of the Washington Railway Relief Association an organi zation composed of more than 2000 employes of that railway He was a member of St Johns Lodge of Masons No 11 Mr Brooke was the son of Mrs Anne L Brooke"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:31:28.211Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1929-02-25/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lateef_ver01:data:sn83045462:00280600118:1929022501:0458/full/pct:3.125/0/default.jpg#h=267&w=202",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lateef_ver01:data:sn83045462:00280600118:1929022501:0458/full/pct:6.25/0/default.jpg#h=535&w=405",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lateef_ver01:data:sn83045462:00280600118:1929022501:0458/full/pct:12.5/0/default.jpg#h=1070&w=810",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_lateef_ver01/data/sn83045462/00280600118/1929022501/0458.xml&format=alto_xml"
+  ],
+  "index": 81,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "sn83045462",
+    "0000000007",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "0",
+    "1",
+    "1",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1929-02-25-ed-1-0458",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1929-02-25/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1929-02-25/ed-1/"
+  ],
+  "shelf_id": "07",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-25T12:25:07.264Z",
+  "title": "Image 7 of Evening star (Washington, D.C.), February 25, 1929",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1929-02-25/ed-1/?sp=7&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_lateef_ver01%2Fdata%2Fsn83045462%2F00280600118%2F1929022501%2F0458.xml&q=immigration&relevant_snippet=1"
+}

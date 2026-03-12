@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87057262/1918-04-22/ed-1/?sp=7"
+  ],
+  "batch": [
+    "iahi_elgin_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/iowa/",
+    "2/united states/iowa/lee/",
+    "3/united states/iowa/lee/keokuk/"
+  ],
+  "contributor": [
+    "state historical society of iowa"
+  ],
+  "date": "1918-04-22",
+  "dates": [
+    "1918-04-22"
+  ],
+  "description": [
+    "MONDAY APRIL 22 in W ILL RADIATORS FREEZE trSUALLY BEEOSE NOW But In Three Years in Succession It Froze Here In May Although it r Generally Stop Early 1 AMiL Say can I take the anitreeze out of my radiator or is St going to freeze again some night asked a motorist over the telephone thlB morning Everybody asks anything of The Gate City by telephone appar els the temperature going to all below freezing any more this spring The Gate City man asked Observer Gosewisch passing the buck to the United States government Nobody in the weather bureau is allowed to make forecasts for over thirtysix hours ahead except in the home office at Washington where they now state the probabilities for a week ahead But the Keokuk weath er veteran pulled down a big book filled with little figures in rows up and down and crosswise Those fig gave the following facts When Last Freeze Came In the quarter of a century from 1892 to 1917 the temperature at Keo kuk has reached the freezing point after this date only four timesin 1903 1908 1909 and 1910 In each of those four years the temperature went below 32"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-05-16T11:54:33.393Z",
+  "group": [
+    "ndnp/iahi",
+    "state-historical-society-of-iowa-state-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87057262/1918-04-22/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_elgin_ver01:data:sn87057262:00295875239:1918042201:0279/full/pct:6.25/0/default.jpg#h=505&w=395",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_elgin_ver01:data:sn87057262:00295875239:1918042201:0279/full/pct:12.5/0/default.jpg#h=1011&w=790",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iahi/batch_iahi_elgin_ver01/data/sn87057262/00295875239/1918042201/0279.xml&format=alto_xml"
+  ],
+  "index": 156,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "lee",
+    "united states",
+    "iowa",
+    "keokuk"
+  ],
+  "location_city": [
+    "keokuk"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lee"
+  ],
+  "location_state": [
+    "iowa"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "1",
+    "8",
+    "2",
+    "0",
+    "7",
+    "9",
+    "0000000007",
+    "3",
+    "sn87057262"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87057262"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "5",
+    "8",
+    "7",
+    "5",
+    "2",
+    "3",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Daily Gate City",
+    "Keokuk daily Gate City"
+  ],
+  "page_id": "sn87057262-1918-04-22-ed-1-0279",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the daily gate city and constitution-democrat (keokuk, iowa) 1916-1922"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the daily gate city and constitution-democrat (keokuk, iowa) 1916-1922"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87057262/1918-04-22/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87057262/1918-04-22/ed-1/"
+  ],
+  "shelf_id": "7",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "iowa",
+    "keokuk (iowa)",
+    "lee",
+    "keokuk",
+    "united states"
+  ],
+  "timestamp": "2023-07-03T21:48:41.607Z",
+  "title": "Image 7 of The daily Gate City and constitution-Democrat (Keokuk, Iowa), April 22, 1918",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87057262/1918-04-22/ed-1/?sp=7&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiahi%2Fbatch_iahi_elgin_ver01%2Fdata%2Fsn87057262%2F00295875239%2F1918042201%2F0279.xml&q=great+war&relevant_snippet=1"
+}

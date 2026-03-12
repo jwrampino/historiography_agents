@@ -1,0 +1,128 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "Great River Road - Civil War Reenactment",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-0561",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Still Pictures",
+          "state": "MD",
+          "fax": "301-837-3621",
+          "email": "stillpix@nara.gov",
+          "mailCode": "RRSS"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "specificMediaType": "Magnetic Disk"
+        }
+      ],
+      "copyStatus": "Preservation"
+    },
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-0561",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Still Pictures",
+          "state": "MD",
+          "fax": "301-837-3621",
+          "email": "stillpix@nara.gov",
+          "mailCode": "RRSS"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "specificMediaType": "Magnetic Disk: Hard Drive"
+        }
+      ],
+      "copyStatus": "Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupName": "National Archives at College Park \u2013 Still Pictures",
+    "groupId": "RRAS",
+    "groupCd": "RRAS"
+  },
+  "generalRecordsTypes": [
+    "Photographs and other Graphic Materials"
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "406-NSB-053-Civil_War_Reenactment.jpg",
+      "type": "Former ARC Identifier"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "406-NSB-053-Civil_War_Reenactment.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/92/7188/7718892/content/arcmedia/stillpix/406-nsb/406-NSB-053/406-NSB-053-Civil_War_Reenactment.jpg",
+      "objectFileSize": 752360,
+      "objectId": "15243428",
+      "objectType": "Image (JPG)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1956,
+        "logicalDate": "1956-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 406,
+      "inclusiveEndDate": {
+        "year": 2008,
+        "logicalDate": "2008-12-31"
+      },
+      "title": "Records of the Federal Highway Administration",
+      "naId": 702
+    },
+    {
+      "inclusiveStartDate": {
+        "dateQualifier": "ca.",
+        "year": 1995,
+        "logicalDate": "1995-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "Department of Transportation. Federal Highway Administration. Office of Planning, Environment, and Realty. Office of Natural and Human Environment. National Scenic Byways Program. (1991 - )",
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1991,
+            "logicalDate": "1991-01-01"
+          },
+          "naId": 10479434
+        }
+      ],
+      "inclusiveEndDate": {
+        "dateQualifier": "ca.",
+        "year": 2013,
+        "logicalDate": "2013-12-31"
+      },
+      "title": "Digital Photographs Relating to America's Byways",
+      "naId": 7455326
+    }
+  ],
+  "scopeAndContentNote": "The original finding aid described this photograph as:\n\nOriginal Caption: As part of a Civil War reenactment at Port Hudson State Historic Site, soldiers fire cannons across the site as spectators look on in the distance.\n\nLocation: Location: Louisiana\n\nStatus: Public domain. Patrick Salisbury",
+  "naId": 7718892
+}

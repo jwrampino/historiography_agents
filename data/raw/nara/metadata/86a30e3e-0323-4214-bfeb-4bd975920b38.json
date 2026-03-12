@@ -1,0 +1,136 @@
+{
+  "accessionNumbers": [
+    "1970-NLF-125"
+  ],
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "subjects": [
+    {
+      "heading": "American Revolution Bicentennial, 1776-1976",
+      "authorityType": "topicalSubject",
+      "naId": 10638803
+    }
+  ],
+  "useRestriction": {
+    "note": "Some or all of the records may be subject to copyright restrictions. Researchers should contact the publisher for further information.",
+    "status": "Restricted - Possibly"
+  },
+  "audiovisual": "false",
+  "title": "American Revolution Bicentennial Administration - General",
+  "coverageEndDate": {
+    "month": 9,
+    "year": 1976,
+    "logicalDate": "1976-09-01"
+  },
+  "physicalOccurrences": [
+    {
+      "extent": "74 pages",
+      "referenceUnits": [
+        {
+          "city": "Ann Arbor",
+          "phone": "734-205-0555",
+          "address1": "1000 Beal Avenue",
+          "postalCode": "48109-2114",
+          "name": "Gerald R. Ford Library",
+          "state": "MI",
+          "fax": "734-205-0571",
+          "email": "ford.library@nara.gov",
+          "mailCode": "PL-GRF"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "depth": 0,
+          "width": 0,
+          "specificMediaType": "Paper",
+          "containerId": "64",
+          "reproductionCount": 65,
+          "height": 0
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "note": "Some material may have been removed due to donor or other restrictions.",
+    "status": "Restricted - Possibly"
+  },
+  "coverageStartDate": {
+    "month": 5,
+    "year": 1974,
+    "logicalDate": "1974-05-01"
+  },
+  "dataControlGroup": {
+    "groupName": "Gerald R. Ford Library",
+    "groupId": "PL-GRF",
+    "groupCd": "PL-GRF"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "006700475",
+      "type": "PRESNET Number"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "1563259.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/59/5632/1563259/content/library/document/0067/1563259.pdf",
+      "objectFileSize": 123456,
+      "objectId": "24908238",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "GRF-0067",
+      "inclusiveStartDate": {
+        "year": 1974,
+        "logicalDate": "1974-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "year": 1977,
+        "logicalDate": "1977-01-01"
+      },
+      "title": "John O. Marsh Files (Ford Administration)",
+      "naId": 1131
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1974,
+        "logicalDate": "1974-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "President (1974-1977 : Ford). Office of the Counsellor to the President. (08/1974 - 01/1977)",
+          "abolishDate": {
+            "month": 1,
+            "year": 1977,
+            "logicalDate": "1977-01-01"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 8,
+            "year": 1974,
+            "logicalDate": "1974-08-01"
+          },
+          "naId": 10452163
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1976,
+        "logicalDate": "1976-01-01"
+      },
+      "title": "John Marsh's Bicentennial Subject Files",
+      "naId": 642996
+    }
+  ],
+  "naId": 1563259
+}

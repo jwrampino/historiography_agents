@@ -1,0 +1,171 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85042243/1918-12-02/ed-1/?sp=6"
+  ],
+  "batch": [
+    "ndhi_fargo_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/north dakota/",
+    "2/united states/north dakota/burleigh/",
+    "3/united states/north dakota/burleigh/bismarck/",
+    "2/united states/north dakota/morton/",
+    "3/united states/north dakota/morton/mandan/"
+  ],
+  "contributor": [
+    "state historical society of north dakota"
+  ],
+  "date": "1918-12-02",
+  "dates": [
+    "1918-12-02"
+  ],
+  "description": [
+    "PAGES Established 1907 FRENCH AND ITALIAN OF RECONSTRUCTION PLANNED LONG BEFORE END OF WAR Program Nov Being Entered Upon Without DelayLatin Coun tries Get Quick Action on Rehabilitation of Factories and Farms FRANCE BY LIEUT MAURICE BOYER In charge of Reconstruction for ths Washington D C Reconstruction charge of the economic life in the lib erated parts of France One of its services looks after the provisioning of the population through the local administrations another looks after the reestablishment of local authori ties and school A third attends to relief work Another servue of ibi first ile partnient is rosi nsiile for sjrh iiis tions as tho a tessmeir damages wrought by the war an 1 in in lemni ties to which th nhajitait are on tilled STIFF JOINTS ISCLE Liaber Up Quickly Undsr ths Soothi Feaetrsting Applicsticn of Hamlins Wizard Oil In crjcs of rheumatism rnJ lame bccl it penetrates quickly drives out soreness aad limbers up stiff aching joints ard muscles Wizard Oil is an absolutely reli able antieptic application for cuts burns bites and stings Sprains and brvires heal readily under its sooth ing penetrating qualities ict it from druggists for 30 cents If uot satisfied return"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-25T19:26:44.932Z",
+  "group": [
+    "ndnp/ndhi",
+    "state-histrorical-society-of-north-dakota-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85042243/1918-12-02/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_fargo_ver01:data:sn85042243:00212478672:1918120201:0625/full/pct:3.125/0/default.jpg#h=275&w=212",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_fargo_ver01:data:sn85042243:00212478672:1918120201:0625/full/pct:6.25/0/default.jpg#h=551&w=425",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_fargo_ver01:data:sn85042243:00212478672:1918120201:0625/full/pct:12.5/0/default.jpg#h=1102&w=850",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ndhi/batch_ndhi_fargo_ver01/data/sn85042243/00212478672/1918120201/0625.xml&format=alto_xml"
+  ],
+  "index": 184,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "mandan",
+    "bismarck",
+    "morton",
+    "burleigh",
+    "north dakota"
+  ],
+  "location_city": [
+    "bismarck",
+    "mandan"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "burleigh",
+    "morton"
+  ],
+  "location_state": [
+    "north dakota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "0000000006",
+    "7",
+    "4",
+    "sn85042243",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85042243"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "2",
+    "4",
+    "7",
+    "8",
+    "6",
+    "7",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Bismarck daily tribune",
+    "Bismarck evening tribune"
+  ],
+  "page_id": "sn85042243-1918-12-02-ed-1-0625",
+  "partof": [
+    "serial and government publications division",
+    "the bismarck tribune (bismarck, n.d.) 1916-current",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the bismarck tribune (bismarck, n.d.) 1916-current"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85042243/1918-12-02/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85042243/1918-12-02/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "bismarck (n.d.)",
+    "united states",
+    "mandan",
+    "newspapers",
+    "bismarck",
+    "burleigh",
+    "morton",
+    "north dakota"
+  ],
+  "timestamp": "2023-08-26T04:48:05.453Z",
+  "title": "Image 6 of The Bismarck tribune (Bismarck, N.D.), December 2, 1918",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85042243/1918-12-02/ed-1/?sp=6&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fndhi%2Fbatch_ndhi_fargo_ver01%2Fdata%2Fsn85042243%2F00212478672%2F1918120201%2F0625.xml&q=reconstruction&relevant_snippet=1"
+}

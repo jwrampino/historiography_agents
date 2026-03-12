@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88085733/1934-06-08/ed-1/?sp=3"
+  ],
+  "batch": [
+    "wa_ivorygull_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/washington/",
+    "2/united states/washington/king/",
+    "3/united states/washington/king/seattle/"
+  ],
+  "contributor": [
+    "washington state library; olympia, wa"
+  ],
+  "date": "1934-06-08",
+  "dates": [
+    "1934-06-08"
+  ],
+  "description": [
+    "FRIDAY JUNE 8 1934 FISHERMEN WIN STRIKE INBC GET PAY INCREASE Price for Fish Up From 7 to 35 Cents Through Militant Rank and File Leadership in Union Clocose B Canada Gill netters of Nitinat Lake an isolated district of the coast of B have just terminated a victorious strike under the leadership of the Fish ermen and Cannery Workers In dustrial Union of Canada The Packers offered 7 cents to the fish ermen considerable less than last year The fishermen struck de manding 40 cents per fish with the result that the strike was settled on the basis of the fishermen get ting 35 cents per fish The boss fish packers of Canada have always paid less to the Can adian fishermen than what the fish ermen across the line in U S A receive This is mainly due to the fact that in the past the Canadian fishermen have been unorganized or else under the leadership of fakers and bosses agents Now the fishermen are beginning to realize the necessity of using revolution ary tactics in order to win any concessions from the bosses Fisherman Correspondent Juveniles Get Breaks Over Workers in Bank Uqilldatrners o Seattle Wn June"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-04-26T11:27:39.718Z",
+  "group": [
+    "ndnp/wa",
+    "washington-state-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88085733/1934-06-08/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_ivorygull_ver01:data:sn88085733:00414189945:1934060801:0809/full/pct:6.25/0/default.jpg#h=409&w=307",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_ivorygull_ver01:data:sn88085733:00414189945:1934060801:0809/full/pct:12.5/0/default.jpg#h=819&w=614",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wa/batch_wa_ivorygull_ver01/data/sn88085733/00414189945/1934060801/0809.xml&format=alto_xml"
+  ],
+  "index": 193,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "seattle",
+    "king",
+    "washington",
+    "united states"
+  ],
+  "location_city": [
+    "seattle"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "king"
+  ],
+  "location_state": [
+    "washington"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn88085733",
+    "8",
+    "0",
+    "0000000003",
+    "9",
+    "1",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88085733"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "1",
+    "8",
+    "9",
+    "9",
+    "4",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88085733-1934-06-08-ed-1-0809",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "voice of action (seattle, wash.) 1933-1936"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "voice of action (seattle, wash.) 1933-1936"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88085733/1934-06-08/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88085733/1934-06-08/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "washington (state)",
+    "seattle (wash.)",
+    "king",
+    "seattle",
+    "washington",
+    "united states"
+  ],
+  "timestamp": "2024-04-27T04:08:54.437Z",
+  "title": "Image 3 of Voice of action (Seattle, Wash.), June 8, 1934",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88085733/1934-06-08/ed-1/?sp=3&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwa%2Fbatch_wa_ivorygull_ver01%2Fdata%2Fsn88085733%2F00414189945%2F1934060801%2F0809.xml&q=fascism&relevant_snippet=1"
+}

@@ -1,0 +1,173 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84020097/1924-01-23/ed-1/?sp=2"
+  ],
+  "batch": [
+    "iune_emerald_ver03"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/",
+    "1/united states/illinois/",
+    "2/united states/illinois/cook/",
+    "3/united states/illinois/cook/chicago/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1924-01-23",
+  "dates": [
+    "1924-01-23"
+  ],
+  "description": [
+    "Page Two SOVIET POWER PROTECTION OF WORKERS RULE PUN FUNERAL FUR SATURDAY MEETINGS HERE Zinoviev Sends News to Workers Everywhere Continued from page 1 Soviet Congress who are about to assemble will take steps to insure the continuation of government mat ters The death of Lenin is the great est blow since the workman and peasants gained power It will move not only our peasants apd workers but the whole world The masses of the working world mourn his death He is no more amongst us but his work remains The Soviet Government will con tinue on the route established by Lenin Soviet power stands for pro tection of the revolution of the pro letariat Minister Zinoviev cabled to repre sentatives in all parts of the world as follows At 650 Lenin suddenly died of paralysis of the respiratory organs The funeral will be Saturday The Communist International has lost its best leader and teacher and the international proletariat has suf fered the heaviest loss since the death of Karl Marx Let us bow before the fresh grave of the great teacher of the working class The workers of the world know whom they lost with Lenin The Communist International"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:19:46.160Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84020097/1924-01-23/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_emerald_ver03:data:sn84020097:00332897731:1924012301:0076/full/pct:3.125/0/default.jpg#h=272&w=212",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_emerald_ver03:data:sn84020097:00332897731:1924012301:0076/full/pct:6.25/0/default.jpg#h=545&w=424",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_emerald_ver03:data:sn84020097:00332897731:1924012301:0076/full/pct:12.5/0/default.jpg#h=1091&w=848",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_emerald_ver03/data/sn84020097/00332897731/1924012301/0076.xml&format=alto_xml"
+  ],
+  "index": 151,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "new york",
+    "chicago",
+    "illinois",
+    "new york city",
+    "cook"
+  ],
+  "location_city": [
+    "new york",
+    "chicago"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york",
+    "cook"
+  ],
+  "location_state": [
+    "new york",
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "9",
+    "7",
+    "3",
+    "0000000002",
+    "sn84020097",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84020097"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "7",
+    "7",
+    "3",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84020097-1924-01-23-ed-1-0076",
+  "partof": [
+    "the daily worker (chicago, ill.;new york, n.y.) 1924-1958",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the daily worker (chicago, ill.;new york, n.y.) 1924-1958"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84020097/1924-01-23/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84020097/1924-01-23/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "new york",
+    "labor unions",
+    "chicago (ill.)",
+    "chicago",
+    "illinois",
+    "labor movement",
+    "new york (state)",
+    "newspapers",
+    "communism",
+    "cook",
+    "new york (n.y.)"
+  ],
+  "timestamp": "2025-05-22T01:09:10.027Z",
+  "title": "Image 2 of The daily worker (Chicago, Ill.;New York, N.Y.), January 23, 1924",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84020097/1924-01-23/ed-1/?sp=2&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_emerald_ver03%2Fdata%2Fsn84020097%2F00332897731%2F1924012301%2F0076.xml&q=revolution&relevant_snippet=1"
+}

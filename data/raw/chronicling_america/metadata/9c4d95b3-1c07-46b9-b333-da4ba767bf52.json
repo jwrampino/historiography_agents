@@ -1,0 +1,167 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn94056869/1917-01-25/ed-1/?sp=6"
+  ],
+  "batch": [
+    "nmu_austen_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new mexico/",
+    "2/united states/new mexico/santa fe/",
+    "3/united states/new mexico/santa fe/santa fe/"
+  ],
+  "contributor": [
+    "university of new mexico"
+  ],
+  "date": "1917-01-25",
+  "dates": [
+    "1917-01-25"
+  ],
+  "description": [
+    "OAKTA FE NEW MEXICAN V I NfW MEXICAN fRINTINt COMPANY i Y B ROI SON M CUTTINO I DANA JCHN30N RALPH M HElTOBR\u00cdOff MUfllEl A OlliRO Sr BnUrU aa Boa4 Class Mat WBCRIPTION miCE AOVERfltIM RATES Display W men Slngls Oolamn per iasertio Msdtnc oticss pr Una put Insertion Ufa Notifies per Una Mr usertioa Cualfld Advt mt word inssrtkia Hardly an Authority H O Bursum thinks tHat the businesslike recommendations of the governor as to the administration of ths state laud commis sioners office re generally understood to bo partisan Mr Bureura tblnks that of fices held by Democrats should have receiv ed more attention from the governor It Is Just possible that the statesman who has been twice repudiated by the voters of this state for governor may be a trifle pre judiced In this matter He takes the posi tion so generally assumed by his confreres hat the land commisslonershlp Is a sacred permanent Republican Institution instead of aa office supposed to be controlled by the people of New Mexico Any word spoken about it Is regarded as lose majeste It outrageous to suggest that the enormous sum of nearly three quarters of a million dollars of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T13:10:45.482Z",
+  "group": [
+    "ndnp/nmu",
+    "university-of-new-mexico-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn94056869/1917-01-25/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_austen_ver01:data:sn94056869:00296025690:1917012501:0029/full/pct:6.25/0/default.jpg#h=396&w=311",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_austen_ver01:data:sn94056869:00296025690:1917012501:0029/full/pct:12.5/0/default.jpg#h=793&w=622",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nmu/batch_nmu_austen_ver01/data/sn94056869/00296025690/1917012501/0029.xml&format=alto_xml"
+  ],
+  "index": 45,
+  "language": [
+    "english",
+    "spanish"
+  ],
+  "location": [
+    "santa fe",
+    "united states",
+    "santa fe county",
+    "new mexico",
+    "santa fe."
+  ],
+  "location_city": [
+    "santa fe."
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "santa fe"
+  ],
+  "location_state": [
+    "new mexico"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "5",
+    "6",
+    "2",
+    "1",
+    "0000000006",
+    "sn94056869"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn94056869"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "6",
+    "0",
+    "2",
+    "5",
+    "6",
+    "9",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Nuevo mejicano"
+  ],
+  "page_id": "sn94056869-1917-01-25-ed-1-0029",
+  "partof": [
+    "el nuevo mexicano (santa fe, n.m.) 1890-1958",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "el nuevo mexicano (santa fe, n.m.) 1890-1958"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn94056869/1917-01-25/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn94056869/1917-01-25/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "santa fe",
+    "united states",
+    "hispanic americans",
+    "santa fe county",
+    "newspapers",
+    "santa fe county (n.m.)",
+    "new mexico",
+    "latin american",
+    "santa fe (n.m.)"
+  ],
+  "subject_ethnicity": [
+    "latin american"
+  ],
+  "timestamp": "2022-11-22T16:00:16.816Z",
+  "title": "Image 6 of El Nuevo mexicano (Santa Fe, N.M.), January 25, 1917, (Weekly Santa Fe New Mexican)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn94056869/1917-01-25/ed-1/?sp=6&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnmu%2Fbatch_nmu_austen_ver01%2Fdata%2Fsn94056869%2F00296025690%2F1917012501%2F0029.xml&q=manifest+destiny&relevant_snippet=1"
+}

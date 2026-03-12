@@ -1,0 +1,170 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88078683/1921-01-01/ed-1/?sp=6"
+  ],
+  "batch": [
+    "ohi_byrd_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/",
+    "1/united states/ohio/",
+    "2/united states/ohio/cuyahoga/",
+    "3/united states/ohio/cuyahoga/cleveland/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1921-01-01",
+  "dates": [
+    "1921-01-01"
+  ],
+  "description": [
+    "PAGE 6 T E TOILER SATURDAY JAN 1 1921 Soviet Work in Agriculture After the October Revolution the Soviet Gov ernment was faced with the complex problem of reorganizing agriculture on new lines paying attention in the first place to the necessity of raising the productivity of labour Underlaying the agricultural policy of the Soviet Government is the fact that the interest i of town and country are interdependent By the decree of the 26th of October 1917 all the land was transferred to the toiling peasantry The Fundamental Law on the Socialization of the Land promulgated on the 19th February 1919 abolished for ever all proprietary rights in land mineral deposits water forest and living powers of nature and turned over the land without any compensation for the use of the toiling people In accordance with this law only personal labour gives one the right to use agricultural land The subjoined figures give us a picture of the distribution of land prior to the revolution of 1905 and after the October revolution in 1919 Prior to the Revolution of 1905 Private estates and state domains 237 per cent land in the hand of peasants 763 per cent in 32"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:15:28.475Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88078683/1921-01-01/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn88078683:00280774789:1921010101:0494/full/pct:12.5/0/default.jpg#h=470&w=349",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn88078683:00280774789:1921010101:0494/full/pct:25/0/default.jpg#h=940&w=698",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_byrd_ver01/data/sn88078683/00280774789/1921010101/0494.xml&format=alto_xml"
+  ],
+  "index": 172,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ohio",
+    "united states",
+    "new york",
+    "cuyahoga",
+    "new york city",
+    "cleveland"
+  ],
+  "location_city": [
+    "new york",
+    "cleveland"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york",
+    "cuyahoga"
+  ],
+  "location_state": [
+    "new york",
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "9",
+    "0000000006",
+    "7",
+    "4",
+    "sn88078683",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88078683"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "7",
+    "7",
+    "4",
+    "7",
+    "8",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88078683-1921-01-01-ed-1-0494",
+  "partof": [
+    "the toiler (cleveland, ohio) 1919-1922",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the toiler (cleveland, ohio) 1919-1922"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88078683/1921-01-01/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88078683/1921-01-01/ed-1/"
+  ],
+  "shelf_id": "06",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "ohio",
+    "united states",
+    "new york",
+    "cuyahoga",
+    "labor movement",
+    "new york (state)",
+    "newspapers",
+    "cleveland",
+    "cleveland (ohio)",
+    "communism",
+    "new york (n.y.)"
+  ],
+  "timestamp": "2023-09-05T04:41:47.109Z",
+  "title": "Image 6 of The toiler (Cleveland, Ohio), January 1, 1921",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88078683/1921-01-01/ed-1/?sp=6&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_byrd_ver01%2Fdata%2Fsn88078683%2F00280774789%2F1921010101%2F0494.xml&q=revolution&relevant_snippet=1"
+}

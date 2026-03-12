@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83030313/1878-07-26/ed-1/?sp=9"
+  ],
+  "batch": [
+    "dlc_crowfoot_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1878-07-26",
+  "dates": [
+    "1878-07-26"
+  ],
+  "description": [
+    "YACHTING The Great Catboat Raoe in Newport Harbor FINE WEATHEH AND PLENTI OF WIND _ I The Wauderer Harvest Jerboa aad Murllia First Prize Winners BY TKZiKOBAPa TO THE HERALn 1 Nkwokt K I July 26 18T8 Tbi great oatboat race vu sailed today onder very 1 avorable circumstanoes At an early bour be harbor irus alive wttb ibe oralis who were to compete lor the prises ivea by bo summer residents Philip Schuyler Fleet Captain or the New York Yacht Club was 1 early astir and tbauks to his energy tbe boats were tn readluess on time He was aided by the otner 1 fudges Mr Robert Center ol New York who Is known to every yacbtrman IB the country and Mr 1 Sluyvesam Loroy Profaaaor Agassis of Harvard College placed bis steam launch tltua at tbe disposal of loose having cbsrge ot ibo race and Commodore Kane of the New York Yacbt Club who came here purposely to assist in making tbe event a sncooss also teudered bis yaobl Restless lor tbe use of the judges and tbeir Irlends Tbo Restless was bundlomely trimmed with bunting and presented a very i toe appearance Tbe Newport boatmen will not"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:56:08.654Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83030313/1878-07-26/ed-1/?sp=9",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271744031:1878072601:0297/full/pct:3.125/0/default.jpg#h=273&w=188",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271744031:1878072601:0297/full/pct:6.25/0/default.jpg#h=546&w=377",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271744031:1878072601:0297/full/pct:12.5/0/default.jpg#h=1093&w=754",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_crowfoot_ver01/data/sn83030313/00271744031/1878072601/0297.xml&format=alto_xml"
+  ],
+  "index": 198,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "new york",
+    "united states",
+    "new york county",
+    "new york city"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "2",
+    "3",
+    "4",
+    "1",
+    "0000000009",
+    "7",
+    "sn83030313"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83030313"
+  ],
+  "number_page": [
+    "0000000009"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "1",
+    "7",
+    "4",
+    "4",
+    "0",
+    "3",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "New York daily herald"
+  ],
+  "page_id": "sn83030313-1878-07-26-ed-1-0297",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the new york herald (new york [n.y.]) 1840-1920"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the new york herald (new york [n.y.]) 1840-1920"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83030313/1878-07-26/ed-1/?sp=9"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83030313/1878-07-26/ed-1/"
+  ],
+  "shelf_id": "09",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "new york",
+    "new york (state)",
+    "united states",
+    "new york county",
+    "new york county (n.y.)",
+    "newspapers",
+    "new york (n.y.)"
+  ],
+  "timestamp": "2022-10-20T03:03:39.058Z",
+  "title": "Image 9 of The New York herald (New York [N.Y.]), July 26, 1878",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83030313/1878-07-26/ed-1/?sp=9&q=indian+territory",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_crowfoot_ver01%2Fdata%2Fsn83030313%2F00271744031%2F1878072601%2F0297.xml&q=indian+territory&relevant_snippet=1"
+}

@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1947-02-09/ed-1/?sp=71"
+  ],
+  "batch": [
+    "dlc_2calder_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1947-02-09",
+  "dates": [
+    "1947-02-09"
+  ],
+  "description": [
+    "HOUSES FOR SALENW Cost VAcANtImmediate possession and priced to Mil at once A completely recondi tioned and artistically designed semide tached brick with bedroom arrangement including heated sleeping porch makes an Ideal combination for family Open Sat urday and Sunday afternoons 41 Pea body at nw GATEWOOD 8 BENNETT 1427 Eye at nw NA 6341 eves Mr Cullen DU 4820 8 4630 ALBEMARLE ST NWOpen daily 12 to 6 Colonial brick home only 5 yrs old Containi lie liv rm with fireplace nice om rm fully equipped kit 3 bed rms 2 baths on 2nd floor stairs to stor ate attic oil ac heat Priced to sell 8 R MARTIN A CO Realtors exclusive agents DU 6366 or EM 4062 8 KENT ABEA Detached bungalowtype home 1st floor living room dmni room kitchen 2 bedrooms and bath 2nd floor 2 rooms with running water and plumbing lor bath gas heat price 12800 INEZ CUSHARD 4830 Wla ave OR 4232 eve nings WI 5867 10 CHEVY CHASEPractically new Colonial white brick full center hall with beautiful stairway 6 large rooms 2 baths fire place complete kitchen screened back porch gas heat large attic garage bus at corner only 526500 Open Sunday"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:41:52.935Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1947-02-09/ed-1/?sp=71",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_2calder_ver01:data:sn83045462:00280604094:1947020901:0586/full/pct:6.25/0/default.jpg#h=490&w=345",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_2calder_ver01:data:sn83045462:00280604094:1947020901:0586/full/pct:12.5/0/default.jpg#h=981&w=691",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_2calder_ver01/data/sn83045462/00280604094/1947020901/0586.xml&format=alto_xml"
+  ],
+  "index": 148,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "district of columbia",
+    "washington d.c.",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "6",
+    "2",
+    "4",
+    "1",
+    "0000000071",
+    "sn83045462",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000071"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "4",
+    "0",
+    "9",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1947-02-09-ed-1-0586",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1947-02-09/ed-1/?sp=71"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1947-02-09/ed-1/"
+  ],
+  "shelf_id": "071",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "washington",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-25T05:01:53.388Z",
+  "title": "Image 71 of Evening star (Washington, D.C.), February 9, 1947",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1947-02-09/ed-1/?sp=71&q=oil",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_2calder_ver01%2Fdata%2Fsn83045462%2F00280604094%2F1947020901%2F0586.xml&q=oil&relevant_snippet=1"
+}

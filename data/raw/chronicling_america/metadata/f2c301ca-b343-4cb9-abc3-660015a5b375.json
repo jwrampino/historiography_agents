@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85059732/1915-12-19/ed-1/?sp=11"
+  ],
+  "batch": [
+    "wvu_oliver_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/west virginia/",
+    "2/united states/west virginia/harrison/",
+    "3/united states/west virginia/harrison/clarksburg/"
+  ],
+  "contributor": [
+    "west virginia university"
+  ],
+  "date": "1915-12-19",
+  "dates": [
+    "1915-12-19"
+  ],
+  "description": [
+    "PASTOR ON FORD SHIP DOSENT EVEN KNOW OBJECT OF TRIP T2nAUr W is About All That Dr C F Aked is Certain Of S S OSCAR II via CAPE RACE V 18Dr Charl c Ak pastor of the First CoamL Cal rf n ChU jh ot Sln Fraficlfco k deilTcd tho following sermon on board the Henry Ford peaco blp r kcd chosc a his text Act 26 d i on the Sabbath dav wo wout the city by a riv whcre wo supposed there was n5 i prajor atl o sat down and spake unto the women that were come together e Dr Aked spoke as follows They were In Europe at last they 1 fh m8 oub of what are now tho blood stained hills of Armenia I ifCAlattMinoSr Whthr0lgl1 that pa I the BrttUh here tbe Turk8 me British arc contending in this I hour they had taken ship at a ford but a few miles to the south of the sulaeDS0int0f the Galllpoll penln aula the Hands of which arp hninv watered by the best of blood ot Aus tralia and Canada They had miii fande6 SlaIV Sanothracla and had landed at a little European port"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-27T17:06:16.296Z",
+  "group": [
+    "ndnp/wvu",
+    "west-virginia-university-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85059732/1915-12-19/ed-1/?sp=11",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_oliver_ver01:data:sn85059732:00295869951:1915121901:0216/full/pct:6.25/0/default.jpg#h=351&w=256",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_oliver_ver01:data:sn85059732:00295869951:1915121901:0216/full/pct:12.5/0/default.jpg#h=703&w=513",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wvu/batch_wvu_oliver_ver01/data/sn85059732/00295869951/1915121901/0216.xml&format=alto_xml"
+  ],
+  "index": 150,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "harrison",
+    "united states",
+    "west virginia",
+    "clarksburg"
+  ],
+  "location_city": [
+    "clarksburg"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "harrison"
+  ],
+  "location_state": [
+    "west virginia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000011",
+    "9",
+    "2",
+    "8",
+    "5",
+    "6",
+    "sn85059732",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85059732"
+  ],
+  "number_page": [
+    "0000000011"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "5",
+    "8",
+    "6",
+    "9",
+    "9",
+    "5",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85059732-1915-12-19-ed-1-0216",
+  "partof": [
+    "chronicling america",
+    "the sunday telegram (clarksburg, w. va.) 1914-1927",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the sunday telegram (clarksburg, w. va.) 1914-1927"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85059732/1915-12-19/ed-1/?sp=11"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85059732/1915-12-19/ed-1/"
+  ],
+  "shelf_id": "11",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "west virginia",
+    "harrison",
+    "clarksburg (w. va.)",
+    "united states",
+    "newspapers",
+    "clarksburg"
+  ],
+  "timestamp": "2025-07-17T10:49:06.569Z",
+  "title": "Image 11 of The Sunday telegram (Clarksburg, W. Va.), December 19, 1915",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85059732/1915-12-19/ed-1/?sp=11&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwvu%2Fbatch_wvu_oliver_ver01%2Fdata%2Fsn85059732%2F00295869951%2F1915121901%2F0216.xml&q=manifest+destiny&relevant_snippet=1"
+}

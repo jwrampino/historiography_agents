@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1951-06-08/ed-1/?sp=25"
+  ],
+  "batch": [
+    "dlc_2magritte_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1951-06-08",
+  "dates": [
+    "1951-06-08"
+  ],
+  "description": [
+    "A timely tip from your neighborhood druggist For Safetys Sake REFILL YOUR MEDICINE CHEST Visit your druggist now Your druggist plays a vital role in the health of your community He has had special training and experience to guide and advise you on your medicine chert needs He is the man who knows medicine chest items best Turn to YOUR DRUGGIST when you refill your medicine chest Ask your druggist for this FREE first aid chart f This important first aid chart should be put on the inside of your medicine chest door It lists the accidents that might happen around the home tells what first aid measures to take should they occur It also gives important civilian defense informa tion about what to do in case of a major catastrophe All persons are likely at some time or other to have the responsibility of aiding an injured personperhaps your emergency case will be someone in your own family The first place youll turn at such a time is your medicine chest Be sure the chart is there for your use when you need it Your druggist has one of these free FIRST AID charts for you Ask for it"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:43:47.314Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1951-06-08/ed-1/?sp=25",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_2magritte_ver01:data:sn83045462:00280605980:1951060801:0588/full/pct:6.25/0/default.jpg#h=503&w=346",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_2magritte_ver01:data:sn83045462:00280605980:1951060801:0588/full/pct:12.5/0/default.jpg#h=1006&w=692",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_2magritte_ver01/data/sn83045462/00280605980/1951060801/0588.xml&format=alto_xml"
+  ],
+  "index": 21,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "0000000025",
+    "2",
+    "sn83045462",
+    "6",
+    "8",
+    "5",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000025"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "5",
+    "9",
+    "8",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1951-06-08-ed-1-0588",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1951-06-08/ed-1/?sp=25"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1951-06-08/ed-1/"
+  ],
+  "shelf_id": "25",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2022-10-25T10:38:36.511Z",
+  "title": "Image 25 of Evening star (Washington, D.C.), June 8, 1951",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1951-06-08/ed-1/?sp=25&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_2magritte_ver01%2Fdata%2Fsn83045462%2F00280605980%2F1951060801%2F0588.xml&q=medicine&relevant_snippet=1"
+}

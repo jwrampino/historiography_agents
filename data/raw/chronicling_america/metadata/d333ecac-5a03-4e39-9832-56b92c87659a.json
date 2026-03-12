@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83030312/1839-06-13/ed-1/?sp=6"
+  ],
+  "batch": [
+    "dlc_laceflower_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1839-06-13",
+  "dates": [
+    "1839-06-13"
+  ],
+  "description": [
+    "THE RESURRECTION OK PBUUR PILLS 5Zf In order that this valuable medicine should not be counterfeited we hare a plat representing a Per sian arena that is atrunk oa each bill one of wkiab accompanies eauh Ikx We deem it unnecessary u publish a long liat of Certihcaiea aa they will neither add to nor ditaimah the rirtaeaof this admirable cam pound 5upertr to the Hygtiaa Brondreths Eoans India Pur gat it the Matchless priced Sanative mr any other Pills or Compound before the public at certified by physicians and others 03 Let none condemn them until they hare tried them and then we are certain they will not IT ia now a settled point with all who hare used the Vegetable Persia Pilla that they are pre eminenly the beat and most efficacious family Medicine that haa ret been used in America If every family eould l become acquainted with their Sovereign poteer over dis ease they would keep them and be prepared with a aure REMEDY to apply on the Hrst appearance oldis eaae aad then how much distress would be avoided and money saved as well as the lives of thousands who are hurried out of time"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:30:27.306Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83030312/1839-06-13/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030312:00271743130:1839061301:0255/full/pct:3.125/0/default.jpg#h=280&w=188",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030312:00271743130:1839061301:0255/full/pct:6.25/0/default.jpg#h=560&w=376",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030312:00271743130:1839061301:0255/full/pct:12.5/0/default.jpg#h=1121&w=752",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_laceflower_ver01/data/sn83030312/00271743130/1839061301/0255.xml&format=alto_xml"
+  ],
+  "index": 58,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "new york county",
+    "new york city",
+    "new york"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "1",
+    "2",
+    "0000000006",
+    "4",
+    "7",
+    "sn83030312"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83030312"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "1",
+    "7",
+    "4",
+    "3",
+    "1",
+    "3",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83030312-1839-06-13-ed-1-0255",
+  "partof": [
+    "chronicling america",
+    "morning herald (new york [n.y.]) 1837-1840",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "morning herald (new york [n.y.]) 1837-1840"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83030312/1839-06-13/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83030312/1839-06-13/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "new york (n.y.)",
+    "united states",
+    "newspapers",
+    "new york",
+    "new york (state)",
+    "new york county",
+    "new york county (n.y.)"
+  ],
+  "timestamp": "2022-10-20T23:51:41.819Z",
+  "title": "Image 6 of Morning herald (New York [N.Y.]), June 13, 1839",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83030312/1839-06-13/ed-1/?sp=6&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_laceflower_ver01%2Fdata%2Fsn83030312%2F00271743130%2F1839061301%2F0255.xml&q=medicine&relevant_snippet=1"
+}

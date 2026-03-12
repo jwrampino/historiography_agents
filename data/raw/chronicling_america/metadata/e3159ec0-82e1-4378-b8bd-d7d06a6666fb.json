@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85047084/1897-08-05/ed-1/?sp=4"
+  ],
+  "batch": [
+    "hihouml_caliban_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/hawaii/",
+    "2/united states/hawaii/honolulu/",
+    "3/united states/hawaii/honolulu/honolulu/"
+  ],
+  "contributor": [
+    "university of hawaii at manoa; honolulu, hi"
+  ],
+  "date": "1897-08-05",
+  "dates": [
+    "1897-08-05"
+  ],
+  "description": [
+    "2 1897 THE PACIFIC COMMERCIAL ADVERTISER HONOLULU AUGUST THK 1WCLFIC W N ARMSTRONG EDITOR THURSDAY AUGUST 5 AHBITUAIIOX The reference of our dispute with Japan to arbitration does not take us out of the wood Any lawver who savs ours is a clear caMy belongs to a class of attor neys who always believe their own cases are clear and are always be ing thrown out of Court because their cases are not clear Courts of Arbitration are like Courts of Jus tice very uncertain bodies So England found when she was con demned to pay 15000000 in the Alabama case when the damage was about 3000000 So the United States found when 1 000000 was awarded against them in the Halifax fisheries case while the real damage was nominal So again the United States found in the recent Behring sea affair when the Arbitrators knocked them out of Court Of course the Ameri can lawyers said its a clear case England hasnt a leg to stand on but the Arbitrators quietly turned Uncle Sam down and ordered him to pay a big bill of costs All this does not mean that we have not got a good case nor"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:58:36.474Z",
+  "group": [
+    "ndnp/hihouml",
+    "university-of-hawaii-at-manoa-honolulu-hi-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85047084/1897-08-05/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_caliban_ver02:data:sn85047084:00202195970:1897080501:0245/full/pct:3.125/0/default.jpg#h=309&w=237",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_caliban_ver02:data:sn85047084:00202195970:1897080501:0245/full/pct:6.25/0/default.jpg#h=619&w=474",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/hihouml/batch_hihouml_caliban_ver02/data/sn85047084/00202195970/1897080501/0245.xml&format=alto_xml"
+  ],
+  "index": 119,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "honolulu",
+    "united states",
+    "hawaii"
+  ],
+  "location_city": [
+    "honolulu"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "honolulu"
+  ],
+  "location_state": [
+    "hawaii"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn85047084",
+    "0000000004",
+    "9",
+    "2",
+    "5",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85047084"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "2",
+    "1",
+    "9",
+    "5",
+    "9",
+    "7",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Daily Pacific commercial advertiser",
+    "Sunday advertiser"
+  ],
+  "page_id": "sn85047084-1897-08-05-ed-1-0245",
+  "partof": [
+    "the pacific commercial advertiser (honolulu, hawaiian islands) 1885-1921",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the pacific commercial advertiser (honolulu, hawaiian islands) 1885-1921"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85047084/1897-08-05/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85047084/1897-08-05/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "honolulu",
+    "honolulu (hawaii)",
+    "united states",
+    "newspapers",
+    "hawaii"
+  ],
+  "timestamp": "2022-11-21T17:23:41.416Z",
+  "title": "Image 4 of The Pacific commercial advertiser (Honolulu, Hawaiian Islands), August 5, 1897",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85047084/1897-08-05/ed-1/?sp=4&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fhihouml%2Fbatch_hihouml_caliban_ver02%2Fdata%2Fsn85047084%2F00202195970%2F1897080501%2F0245.xml&q=manifest+destiny&relevant_snippet=1"
+}

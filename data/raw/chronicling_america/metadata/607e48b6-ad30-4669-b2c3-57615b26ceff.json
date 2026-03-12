@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84038367/1856-08-07/ed-1/?sp=2"
+  ],
+  "batch": [
+    "iune_albatross_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/illinois/",
+    "2/united states/illinois/fulton/",
+    "3/united states/illinois/fulton/canton/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1856-08-07",
+  "dates": [
+    "1856-08-07"
+  ],
+  "description": [
+    "CANTOiV BEGISTER CITY or AMOV THURSDAY ORIROAUGDST T TEAhu of srBVRIPTIOSnn copyt on year41 5i rVAxcu 1 75 if noi paid within three month and 2 AO if not paid within six monthswhich willbestrictly adhered to_ 1PTo Club of ten 41 25 in advanceftT FDR PRESIDENT JOHN C FREMONT of California FlR VICE PRESIDENT WUTIAM 1j DAYTON i f New Jersey For iorernor l illani H of ct Clair county For Lieut iovernnr Frauii A IIoilman of Iu Page county For Secretary of State O M HATCH of Fiko county For Auditor of Public Accounts JFSK K IU IIOIS of Lawrence county For Treasurer JAMES MILLER of McLean county Superintendent of Public Instruction WM II POWELL of Peoria county For Congress Hon Wm Kellogg of Fulton county Anlicbraska Electoral Ticket Electors at Large A LINCOLN of Sangamon county FREDERICK HECK tit of 8t Clair county District Electors 1st Euba P FitRiiy of Iaikc county 2d liHtMB J Rkamisset Rock Inland county Id Wm Fithian of Vermillion county 4th T Jvtw w Hale of Knox county Mb Abraham Jokah of Adams county titta Wm If llEBKroM of Sangamon county 7th ff V If Bwwnruof Fayette county xih F B RnTHrnroBt of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:15:44.393Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84038367/1856-08-07/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151118:1856080701:0049/full/pct:6.25/0/default.jpg#h=348&w=257",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151118:1856080701:0049/full/pct:12.5/0/default.jpg#h=697&w=515",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_albatross_ver01/data/sn84038367/00514151118/1856080701/0049.xml&format=alto_xml"
+  ],
+  "index": 147,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "fulton",
+    "canton",
+    "illinois",
+    "united states"
+  ],
+  "location_city": [
+    "canton"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "fulton"
+  ],
+  "location_state": [
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn84038367",
+    "8",
+    "0000000002",
+    "0",
+    "1",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84038367"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "4",
+    "1",
+    "5",
+    "1",
+    "1",
+    "1",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Canton register"
+  ],
+  "page_id": "sn84038367-1856-08-07-ed-1-0049",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "canton weekly register (canton, ill.) 1850-1872"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "canton weekly register (canton, ill.) 1850-1872"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84038367/1856-08-07/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84038367/1856-08-07/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "fulton",
+    "canton",
+    "canton (ill.)",
+    "illinois",
+    "united states"
+  ],
+  "timestamp": "2025-05-21T10:25:29.139Z",
+  "title": "Image 2 of Canton weekly register (Canton, Ill.), August 7, 1856",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84038367/1856-08-07/ed-1/?sp=2&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_albatross_ver01%2Fdata%2Fsn84038367%2F00514151118%2F1856080701%2F0049.xml&q=slavery&relevant_snippet=1"
+}

@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85042002/1856-07-19/ed-1/?sp=4"
+  ],
+  "batch": [
+    "dlc_alicanto_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1856-07-19",
+  "dates": [
+    "1856-07-19"
+  ],
+  "description": [
+    "R R r HOMES RHNOWNED REMEDIES FOR th radical Cure f Coughs Colds mpuon Creup Wboping Cough Ac Avoid 11 qusckery u medicines prepared by reruiar pbysiciau 7 nil ROSES EXPECTORANT OH COUOH SYRUP For Consumption Cold Cougha Asthma Spittinp of Blood Bronchitis and all diseases of the Lung Tbe best Cough Syrup in the world Dr J 8 Ross of Philadelphia has had an exten sive practice of medicine in tnat city the past thirty years and his Cough Syrup is one of the most popu lar prescriptions forCous Colds Consumption and all complaints of the Breast and Lungs It not only cures ths above complaints but fortifies the system against future attacks Thousands have been cured of Consumption by this rateable preparation It in now used and recommended by medical men at home and abroad ss the best Cough and Consumption Medicine in tbe world This no quack prepara tion but it is prepared with great care by Dr J 8 Keee himself an eminent and regularly educated physician When you see a medicine puffed to cure Coughs Consumption Croup aud Wnooping Cough dhsases entirely dissimilar put it down as a quack medicine hence Dr Rose prepares a"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:46:26.042Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85042002/1856-07-19/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415661009:1856071901:0791/full/pct:3.125/0/default.jpg#h=281&w=205",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415661009:1856071901:0791/full/pct:6.25/0/default.jpg#h=562&w=411",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415661009:1856071901:0791/full/pct:12.5/0/default.jpg#h=1124&w=822",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_alicanto_ver02/data/sn85042002/00415661009/1856071901/0791.xml&format=alto_xml"
+  ],
+  "index": 118,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn85042002",
+    "5",
+    "6",
+    "9",
+    "0000000004",
+    "4",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85042002"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "6",
+    "1",
+    "0",
+    "0",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "American organ"
+  ],
+  "page_id": "sn85042002-1856-07-19-ed-1-0791",
+  "partof": [
+    "serial and government publications division",
+    "daily american organ (washington, d.c.) 1854-1856",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "daily american organ (washington, d.c.) 1854-1856"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85042002/1856-07-19/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85042002/1856-07-19/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-19T22:36:08.557Z",
+  "title": "Image 4 of Daily American organ (Washington, D.C.), July 19, 1856",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85042002/1856-07-19/ed-1/?sp=4&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_alicanto_ver02%2Fdata%2Fsn85042002%2F00415661009%2F1856071901%2F0791.xml&q=medicine&relevant_snippet=1"
+}

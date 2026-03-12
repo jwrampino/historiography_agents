@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1920-10-17/ed-1/?sp=43"
+  ],
+  "batch": [
+    "dlc_hooloovoo_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1920-10-17",
+  "dates": [
+    "1920-10-17"
+  ],
+  "description": [
+    "1 w i editorial page I EDITORIAL SECTION r l Sunday fta J I Part 216 Pago WASHINGTON I C SUNDAY MORNING OCTOBER 17 1920 U S WILL C TO BE AL Influx From Russia Austria Watchec i Chief Elemei THE United States will continue to be the mecca for Europeans who are anxious to change their place of living in the belief of those who are closely identified with the immigration activities of this country The question is naturally asked from what part of the world will the main ody of this immigration comesay during the next twentyfive or fifty years This is unquestionably looked upon as the real problem of the absorption of our immigration and it wfll be watched with the closest scrutiny during the next few years In this connection the immigration from Russia and from what was once Aus j tria is said to continue to be the I chief element of danger to our institutions It is believed that this dan ger will however prove in the end to be as remote as that which was anticipated from the earlier immigrants who found their way to our shores Maay Good Citizens In this connection"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:19:19.365Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1920-10-17/ed-1/?sp=43",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hooloovoo_ver01:data:sn83045462:00280656823:1920101701:0343/full/pct:6.25/0/default.jpg#h=461&w=356",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hooloovoo_ver01:data:sn83045462:00280656823:1920101701:0343/full/pct:12.5/0/default.jpg#h=923&w=712",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_hooloovoo_ver01/data/sn83045462/00280656823/1920101701/0343.xml&format=alto_xml"
+  ],
+  "index": 67,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "district of columbia",
+    "washington d.c.",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "0000000043",
+    "6",
+    "2",
+    "5",
+    "1",
+    "sn83045462",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000043"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "6",
+    "8",
+    "2",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1920-10-17-ed-1-0343",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1920-10-17/ed-1/?sp=43"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1920-10-17/ed-1/"
+  ],
+  "shelf_id": "43",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "washington",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-20T16:17:15.168Z",
+  "title": "Image 43 of Evening star (Washington, D.C.), October 17, 1920",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1920-10-17/ed-1/?sp=43&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_hooloovoo_ver01%2Fdata%2Fsn83045462%2F00280656823%2F1920101701%2F0343.xml&q=immigration&relevant_snippet=1"
+}

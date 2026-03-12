@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2025200882/1903-08-07/ed-1/?sp=4"
+  ],
+  "batch": [
+    "dlc_cheetah_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/pennsylvania/",
+    "2/united states/pennsylvania/cumberland/",
+    "3/united states/pennsylvania/cumberland/carlisle/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1903-08-07",
+  "dates": [
+    "1903-08-07"
+  ],
+  "description": [
+    "REINDEER IN ALASKA it will be remembered that our friend Dr Sheldon Jackson General Agent of Education in Alaska started the rein deer enterprise several years A As Col Pratt and family have gone to Alas ka not so far north however as the reindeerherding the foliowin seems the more interesting clippin A newspaper correspondent writing from Dutch Harbor Alaska asserts that reindeerherding bids fair to become al most as successful an industry in north ern and western Alaska as it is in Lap land it is hoped that the native popu lation of Alaska will yet rely on this means of subsistance as universally as do the Lapps to whom the reindeer sup ply food clothing and sole means of transportation Most of the herds in Alaska are thriv ing and multiplying Reports from the reindeer stations are most encouraging and it is generally admitted that the pro ject has passed the experimental stage The Eskimos at Cape Prince of Wales have become expert drivers and herders A missionary at that place named Lapp has a herd of more than five hundred reindeer which have multiplied from a small number brought over from Siberia by the government The station"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-09-14T05:42:00.501Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2025200882/1903-08-07/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cheetah_ver02:data:2025200882:00543171736:1903080701:0630/full/pct:6.25/0/default.jpg#h=414&w=274",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cheetah_ver02:data:2025200882:00543171736:1903080701:0630/full/pct:12.5/0/default.jpg#h=828&w=549",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_cheetah_ver02/data/2025200882/00543171736/1903080701/0630.xml&format=alto_xml"
+  ],
+  "index": 123,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "carlisle",
+    "united states",
+    "cumberland",
+    "pennsylvania"
+  ],
+  "location_city": [
+    "carlisle"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cumberland"
+  ],
+  "location_state": [
+    "pennsylvania"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000004",
+    "6",
+    "3",
+    "5",
+    "2025200882",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2025200882"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "3",
+    "1",
+    "7",
+    "1",
+    "7",
+    "3",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2025200882-1903-08-07-ed-1-0630",
+  "partof": [
+    "chronicling america",
+    "the red man and helper (carlisle, pa.) 1900-1904",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the red man and helper (carlisle, pa.) 1900-1904"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2025200882/1903-08-07/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2025200882/1903-08-07/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "cumberland",
+    "indians, treatment of",
+    "united states indian school (carlisle, pa.)",
+    "carlisle",
+    "pennsylvania",
+    "education",
+    "indians of north america",
+    "carlisle (pa.)",
+    "united states",
+    "newspapers"
+  ],
+  "subject_ethnicity": [
+    "indians of north america"
+  ],
+  "timestamp": "2025-09-14T05:47:15.629Z",
+  "title": "Image 4 of The Red man and helper (Carlisle, Pa.), August 7, 1903",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2025200882/1903-08-07/ed-1/?sp=4&q=indian+territory",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_cheetah_ver02%2Fdata%2F2025200882%2F00543171736%2F1903080701%2F0630.xml&q=indian+territory&relevant_snippet=1"
+}

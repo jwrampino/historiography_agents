@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn92053389/1841-12-11/ed-1/?sp=2"
+  ],
+  "batch": [
+    "iune_albatross_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/illinois/",
+    "2/united states/illinois/la salle/",
+    "3/united states/illinois/la salle/lowell/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1841-12-11",
+  "dates": [
+    "1841-12-11"
+  ],
+  "description": [
+    "ORIGINAL POETRY FOR THE GENIUS OF LIBERTY THE AFRICAN SABBATH SCHOOL Oer regions long benighted rr The light begins to shine The African long slighted Now hears of truth divine The news of free salvation At length has reached his ears The words of consolation His drooping spirit cheers As from deep slumber waking See Ethiopia rise j Errors dark clouds are breaking And rolling from her skies They who have groaned in sadness Beneath the oppressors rod Now rising in their gladness Stretch forth their hands to God From God we all inherit The freedom of the inind The free immortal spirit Mans art can never bind The light of Revelation To man in mercy given Will show to every nation The road that leads to Heaven The color form or features Our God will not regard He gives to all IIis creatures A just and true reward A broken contrite spirit He never will despise The humble shall inherit The joys of Paradise The Gospel light is shining Where once thick darkness lay Enlightening and refining Thy sons O Africa From their deep degradation Beneath the tyrants rod They rise to take their station Among the sons of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:15:42.216Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn92053389/1841-12-11/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn92053389:00514151179:1841121101:0157/full/pct:6.25/0/default.jpg#h=373&w=237",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn92053389:00514151179:1841121101:0157/full/pct:12.5/0/default.jpg#h=747&w=474",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_albatross_ver01/data/sn92053389/00514151179/1841121101/0157.xml&format=alto_xml"
+  ],
+  "index": 107,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "la salle",
+    "united states",
+    "illinois",
+    "lowell",
+    "la salle county"
+  ],
+  "location_city": [
+    "lowell"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "la salle"
+  ],
+  "location_state": [
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn92053389",
+    "5",
+    "9",
+    "7",
+    "4",
+    "0000000002",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn92053389"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "4",
+    "1",
+    "5",
+    "1",
+    "1",
+    "7",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn92053389-1841-12-11-ed-1-0157",
+  "partof": [
+    "serial and government publications division",
+    "genius of liberty (lowell, la salle county, ill.) 1840-1842",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "genius of liberty (lowell, la salle county, ill.) 1840-1842"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn92053389/1841-12-11/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn92053389/1841-12-11/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "la salle",
+    "la salle county (ill.)",
+    "illinois",
+    "lowell (ill.)",
+    "lowell",
+    "newspapers",
+    "la salle county",
+    "antislavery movements"
+  ],
+  "timestamp": "2025-05-21T11:11:09.186Z",
+  "title": "Image 2 of Genius of liberty (Lowell, La Salle County, Ill.), December 11, 1841",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn92053389/1841-12-11/ed-1/?sp=2&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_albatross_ver01%2Fdata%2Fsn92053389%2F00514151179%2F1841121101%2F0157.xml&q=slavery&relevant_snippet=1"
+}

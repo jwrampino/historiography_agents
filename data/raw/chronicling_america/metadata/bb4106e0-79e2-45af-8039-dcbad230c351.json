@@ -1,0 +1,152 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82016181/1937-04-10/ed-1/?sp=16"
+  ],
+  "batch": [
+    "dlc_avedon_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1937-04-10",
+  "dates": [
+    "1937-04-10"
+  ],
+  "description": [
+    "The News Gie ugAt and the people will jind their ows way A SCRIPPSHOWARD NEWSPAPER 1013 13th St N W Phone District 7777 By Carrier Week 10c By Mail Month 60c Year 720 LOWELL MELLETT Editor HOWARD PARISE Business Manager OVER THE BORDER THE DEPRESSION visited Canada and the United States with the same impartiality as last summers drought Born of the misery of that economic famine were those twin panaceasthe idea conceived in southern California that the cureall for our woes was to give every old person 200 a month to spend and the thought originating in Canadas western province of Alberta that all could be made right again by giving every man and woman regardless of age a spending credit of 25 a month The winds of returning prosperity which have carried the Townsend Plan vision over the horizon of the past likewise are scattering the social credit theories of Premier Eberhart And these same winds have ushered in a socialeconomic conflict over how the returning prosperity shall be shared It was to be expected that what started in the auto factories of the United States should spread over the border to the auto factories of Canada The"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-09-28T04:39:29.034Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82016181/1937-04-10/ed-1/?sp=16",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_avedon_ver01:data:sn82016181:00516999573:1937041001:1520/full/pct:6.25/0/default.jpg#h=330&w=226",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_avedon_ver01:data:sn82016181:00516999573:1937041001:1520/full/pct:12.5/0/default.jpg#h=660&w=453",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_avedon_ver01/data/sn82016181/00516999573/1937041001/1520.xml&format=alto_xml"
+  ],
+  "index": 149,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn82016181",
+    "6",
+    "5",
+    "9",
+    "0000000016",
+    "7",
+    "3",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82016181"
+  ],
+  "number_page": [
+    "0000000016"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "9",
+    "5",
+    "7",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82016181-1937-04-10-ed-1-1520",
+  "partof": [
+    "serial and government publications division",
+    "the washington daily news (washington, d.c.) 1921-1972",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington daily news (washington, d.c.) 1921-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82016181/1937-04-10/ed-1/?sp=16"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82016181/1937-04-10/ed-1/"
+  ],
+  "shelf_id": "16",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2025-09-28T05:16:39.606Z",
+  "title": "Image 16 of The Washington daily news (Washington, D.C.), April 10, 1937",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82016181/1937-04-10/ed-1/?sp=16&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_avedon_ver01%2Fdata%2Fsn82016181%2F00516999573%2F1937041001%2F1520.xml&q=child+labor&relevant_snippet=1"
+}

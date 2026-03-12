@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88085733/1935-01-18/ed-1/?sp=1"
+  ],
+  "batch": [
+    "wa_ivorygull_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/washington/",
+    "2/united states/washington/king/",
+    "3/united states/washington/king/seattle/"
+  ],
+  "contributor": [
+    "washington state library; olympia, wa"
+  ],
+  "date": "1935-01-18",
+  "dates": [
+    "1935-01-18"
+  ],
+  "description": [
+    "lO4 Collected in 2000 Voice of Action Canpai ExSeattle Workers Letter on Conditions In Soviet Union Page One VOLUME 2 HUGE MASS SENDOFF FOR UNEMPLOYMENT INSURANCE DELEGATES MOOSE HALL JAN 26 Aberdeen Raises One Fourth of Quota for Drive Collections Should Be o Sent to Yoice Immediately SEATTLE Jan 17While the Voice of Action S2OOO drive enters its third weekleaving nine weeks to go over the topdrive managers are asking that all funds be sent into the headquar ters as soon as they are collected Some campaign committees and organizations are holding their funds collected to send in at a later date stated Robert F Roberts Voice of Action business and drive manger This is impermissable Ro berts declared It slows up the whole campaign destroys the spirit of Socialist competition be tween cities and states and makes workers think whats the use of working hard Im still keeping up with what the rest have turned in We must turn in our re ports and collections day by day Roberts concluded Drive headquarters is 302 Mar itime building Seattle Up to Monday night lO4 had been collected toward the 2000 quota Aberdeen had already turned in 24 per cent of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-04-26T11:27:40.248Z",
+  "group": [
+    "ndnp/wa",
+    "washington-state-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88085733/1935-01-18/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_ivorygull_ver01:data:sn88085733:00414189945:1935011801:0935/full/pct:6.25/0/default.jpg#h=401&w=303",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_ivorygull_ver01:data:sn88085733:00414189945:1935011801:0935/full/pct:12.5/0/default.jpg#h=803&w=607",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wa/batch_wa_ivorygull_ver01/data/sn88085733/00414189945/1935011801/0935.xml&format=alto_xml"
+  ],
+  "index": 60,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "seattle",
+    "united states",
+    "washington",
+    "king"
+  ],
+  "location_city": [
+    "seattle"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "king"
+  ],
+  "location_state": [
+    "washington"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "8",
+    "9",
+    "5",
+    "4",
+    "sn88085733",
+    "0",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88085733"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "1",
+    "8",
+    "9",
+    "9",
+    "4",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88085733-1935-01-18-ed-1-0935",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "voice of action (seattle, wash.) 1933-1936"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "voice of action (seattle, wash.) 1933-1936"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88085733/1935-01-18/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88085733/1935-01-18/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "seattle (wash.)",
+    "washington",
+    "seattle",
+    "newspapers",
+    "washington (state)",
+    "king"
+  ],
+  "timestamp": "2024-04-27T04:09:42.008Z",
+  "title": "Image 1 of Voice of action (Seattle, Wash.), January 18, 1935",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88085733/1935-01-18/ed-1/?sp=1&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwa%2Fbatch_wa_ivorygull_ver01%2Fdata%2Fsn88085733%2F00414189945%2F1935011801%2F0935.xml&q=fascism&relevant_snippet=1"
+}

@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2010270504/1921-01-11/ed-1/?sp=5"
+  ],
+  "batch": [
+    "nbu_irons_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nebraska/",
+    "2/united states/nebraska/lincoln/",
+    "3/united states/nebraska/lincoln/north platte/"
+  ],
+  "contributor": [
+    "university of nebraska-lincoln libraries, lincoln, ne"
+  ],
+  "date": "1921-01-11",
+  "dates": [
+    "1921-01-11"
+  ],
+  "description": [
+    "NORTH PLATTE SEMIWEEKLY TRIBUNE J a PENNfiTOOMPANYiA NATIONWIDE INSTITUTION J C PSNNEY COMPANY A NATIONWIDE INSTITUTION J C PENNEY COMPANY A NATIONWIDE INSTITUTIOI H 4 Putting Our House in Order m 1 Hi o O fc 3 to Meet New Conditions The J C PENNEY CO Operating 312 Department Stores in 27 States on 6 2 Opened its Doors Believing the time has arrived when a revision of prices is warranted by replacement value having discounted our merchandise thousands of dollars in our inventory just completed we therefore give to the public the full bene fit of the loss we sustain Remember we have said OUR REPLACEMENT PRICE which should prove doubly attractive Buying for 312 stores doing a yearly business of ap proximately FIFTY MILLION DOLLARS should be sufficent proof that our replacement price is substantially lower than that of our competitors LADIES COATS Any ladies cloth coat in the house all sizes and colors RECONSTRUCTION PRICE 1475 HOSIERY Ladies hose in cotton also Xor the children all sizes in black tan and RECONSTRUCTION PRICE15c 19c pair MENS OVERALLS Mens high grade over alls 220 den RECONSTRUCTION PRICE 3130 MENS WORK SHIRTS Mens Pay Day work shirts in blue"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:42:31.663Z",
+  "group": [
+    "ndnp/nbu",
+    "university-of-nebraska-of-nebraska-lincoln-libraries-lincoln-ne-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2010270504/1921-01-11/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_irons_ver01:data:2010270504:00237284781:1921011101:0214/full/pct:6.25/0/default.jpg#h=448&w=313",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_irons_ver01:data:2010270504:00237284781:1921011101:0214/full/pct:12.5/0/default.jpg#h=896&w=626",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nbu/batch_nbu_irons_ver01/data/2010270504/00237284781/1921011101/0214.xml&format=alto_xml"
+  ],
+  "index": 4,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "nebraska",
+    "lincoln",
+    "north platte"
+  ],
+  "location_city": [
+    "north platte"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lincoln"
+  ],
+  "location_state": [
+    "nebraska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "4",
+    "2",
+    "1",
+    "7",
+    "0000000005",
+    "8",
+    "2010270504"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2010270504"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "3",
+    "7",
+    "2",
+    "8",
+    "4",
+    "7",
+    "8",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2010270504-1921-01-11-ed-1-0214",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the north platte semi-weekly tribune (north platte, neb.) 1895-1922"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the north platte semi-weekly tribune (north platte, neb.) 1895-1922"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2010270504/1921-01-11/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2010270504/1921-01-11/ed-1/"
+  ],
+  "shelf_id": "05",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "north platte (neb.)",
+    "united states",
+    "lincoln",
+    "newspapers",
+    "north platte",
+    "nebraska"
+  ],
+  "timestamp": "2025-12-15T07:12:13.103Z",
+  "title": "Image 5 of The North Platte semi-weekly tribune (North Platte, Neb.), January 11, 1921",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2010270504/1921-01-11/ed-1/?sp=5&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnbu%2Fbatch_nbu_irons_ver01%2Fdata%2F2010270504%2F00237284781%2F1921011101%2F0214.xml&q=reconstruction&relevant_snippet=1"
+}

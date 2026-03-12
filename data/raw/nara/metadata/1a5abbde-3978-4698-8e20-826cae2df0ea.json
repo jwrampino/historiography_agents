@@ -1,0 +1,133 @@
+{
+  "beginCongress": 79,
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "subjects": [
+    {
+      "heading": "Caricatures and cartoons",
+      "authorityType": "specificRecordsType",
+      "naId": 10630287
+    }
+  ],
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "Untitled. [Tidelands Oil]",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "Room 8E, 7th and Pennsylvania Avenue NW",
+          "city": "Washington",
+          "phone": "202-357-5350",
+          "address1": "National Archives Building",
+          "postalCode": "20408",
+          "name": "Center for Legislative Archives",
+          "state": "DC",
+          "fax": "202-357-5911",
+          "email": "legislative.archives@nara.gov",
+          "mailCode": "LL"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "endCongress": 79,
+  "dataControlGroup": {
+    "groupName": "Center for Legislative Archives",
+    "groupId": "RPL",
+    "groupCd": "RPL"
+  },
+  "generalRecordsTypes": [
+    "Photographs and other Graphic Materials"
+  ],
+  "productionDates": [
+    {
+      "month": 7,
+      "year": 1946,
+      "day": 25,
+      "logicalDate": "1946-07-25"
+    }
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "NWL-46-BERRYMAN-A057",
+      "type": "NAIL Control Number"
+    }
+  ],
+  "contributors": [
+    {
+      "heading": "Berryman, Clifford Kennedy, 1869-1949",
+      "deathDate": {
+        "year": 1949,
+        "logicalDate": "1949-12-31"
+      },
+      "contributorType": "Artist",
+      "authorityType": "person",
+      "birthDate": {
+        "year": 1869,
+        "logicalDate": "1869-01-01"
+      },
+      "naId": 10572594
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "a0571.gif",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/36/3061/306136/content/arcmedia/media/images/50/1/a0571.gif",
+      "objectFileSize": 65958,
+      "objectId": "15026850",
+      "objectType": "Image (GIF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1789,
+        "logicalDate": "1789-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 46,
+      "inclusiveEndDate": {
+        "year": 2023,
+        "logicalDate": "2023-12-31"
+      },
+      "title": "Records of the U.S. Senate",
+      "naId": 375
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1896,
+        "logicalDate": "1896-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "U.S. Senate. Office of Senate Curator. (? - )",
+          "authorityType": "organization",
+          "naId": 10468782
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1949,
+        "logicalDate": "1949-12-31"
+      },
+      "title": "Berryman Political Cartoon Collection",
+      "naId": 306080
+    }
+  ],
+  "scopeAndContentNote": "This cartoon features Secretary of the Interior Harold LeClaire Ickes, Pauley, the United States Senate, and Tidelands Oil.",
+  "naId": 306136
+}

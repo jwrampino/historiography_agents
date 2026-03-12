@@ -1,0 +1,141 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83030362/1848-06-25/ed-1/?sp=4"
+  ],
+  "batch": [
+    "dlc_angelou_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1848-06-25",
+  "dates": [
+    "1848-06-25"
+  ],
+  "description": [
+    "Who Dare to Die Theres a light that shineth a lamp that burne th Before the brave And he is the slave of Time who turneth Back from the grave By sword or flood by fire or wave When glares Deaths eye All under the sun who have great deeds done Will dare to die Will the monarch quit his lofty throne That mighty thing And shrink not to wrestle with Death alone A king with king Ay he will dare the chance of the ring As well he can If he hath lived and himself believed Less King than Man Will the beggar in his rags dare death Yeaif his mind Be free from fraud when he weeping saith O pray be kind I have left many darling ones behind Dying for bread With a Christians faith what is there in Death That he should dread Will the gaudyplumed warrior fear to die Who hand in hand Hath walked with Death and heard his sharp cry On sea and land Where Death is so red he may fear not his brand But after the fight It itweil for his errors if Death have no terrors dvutU is white Will"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-07T20:29:41.320Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83030362/1848-06-25/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110016:1848062501:0004/full/pct:3.125/0/default.jpg#h=268&w=208",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110016:1848062501:0004/full/pct:6.25/0/default.jpg#h=537&w=416",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110016:1848062501:0004/full/pct:12.5/0/default.jpg#h=1074&w=832",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_angelou_ver01/data/sn83030362/print00211110016/1848062501/0004.xml&format=alto_xml"
+  ],
+  "index": 182,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "new york",
+    "new york county",
+    "new york city"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "0000000004",
+    "sn83030362"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83030362"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83030362-1848-06-25-ed-1-0004",
+  "partof": [
+    "serial and government publications division",
+    "sunday dispatch (new york [n.y.]) 1845-1854",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "sunday dispatch (new york [n.y.]) 1845-1854"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83030362/1848-06-25/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83030362/1848-06-25/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "new york",
+    "new york county (n.y.)",
+    "new york (state)",
+    "newspapers",
+    "new york county",
+    "new york (n.y.)"
+  ],
+  "timestamp": "2023-08-07T22:29:09.788Z",
+  "title": "Image 4 of Sunday dispatch (New York [N.Y.]), June 25, 1848",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83030362/1848-06-25/ed-1/?sp=4&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_angelou_ver01%2Fdata%2Fsn83030362%2Fprint00211110016%2F1848062501%2F0004.xml&q=medicine&relevant_snippet=1"
+}

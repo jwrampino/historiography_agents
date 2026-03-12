@@ -1,0 +1,110 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "Map of Indian Territory",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-3200",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Cartographic",
+          "state": "MD",
+          "fax": "301-837-3622",
+          "email": "carto@nara.gov",
+          "mailCode": "RRSC"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupName": "National Archives at College Park \u2013 Cartographic",
+    "groupId": "RRAC",
+    "groupCd": "RRAC"
+  },
+  "generalRecordsTypes": [
+    "Maps and Charts"
+  ],
+  "localIdentifier": "CMF 1311.5",
+  "productionDates": [
+    {
+      "year": 1883,
+      "logicalDate": "1883-01-01"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "305482_01311_half_01.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/cartographic/rg-075/305482/Batch0002B/305482_01311_half_01.jpg",
+      "objectFileSize": 1234,
+      "objectId": "232925264",
+      "objectType": "Image (JPG)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1793,
+        "logicalDate": "1793-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 75,
+      "inclusiveEndDate": {
+        "year": 1999,
+        "logicalDate": "1999-12-31"
+      },
+      "title": "Records of the Bureau of Indian Affairs",
+      "naId": 404
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1824,
+        "logicalDate": "1824-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "Department of the Interior. Bureau of Indian Affairs. (09/17/1947 - )",
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 9,
+            "year": 1947,
+            "day": 17,
+            "logicalDate": "1947-09-17"
+          },
+          "naId": 10452220
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1960,
+        "logicalDate": "1960-12-31"
+      },
+      "title": "Central Map File",
+      "naId": 305482
+    }
+  ],
+  "scopeAndContentNote": "The information on this map was compiled from official records of the General Land Office and other sources by G. P Strum, Principal Draughtsman, General Land Office, Department of the Interior. Lithography by Julius Bien and Company, 139 Duane Street, New York.\n\nThe lands owned by each Indian Nation are color-coded and numbered.",
+  "naId": 232925263
+}

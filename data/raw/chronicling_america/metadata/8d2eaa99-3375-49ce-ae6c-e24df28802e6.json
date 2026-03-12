@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88053087/1898-05-31/ed-1/?sp=1"
+  ],
+  "batch": [
+    "deu_glisseo_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/delaware/",
+    "2/united states/delaware/new castle/",
+    "3/united states/delaware/new castle/wilmington/"
+  ],
+  "contributor": [
+    "university of delaware library, newark, de"
+  ],
+  "date": "1898-05-31",
+  "dates": [
+    "1898-05-31"
+  ],
+  "description": [
+    "npnr X X lrL SUN WILMINGTON DELAWARE TUESDAY MAY 31 1898 VOLJf NO 217 ONE CENT SCHLEY WANTS TO FIGHT The Commodore Would Enter the Harbor of Santiago de Cuba and Engage Cer veras Fleet CORK PLACED IN THE BOTTLE 1 Have Got Them and They Will Never Get Home 44 it The Spanish Admiral Unable to Ex tricate Himself From His Dan PositionMuch Gratl genius Heal ion Expressed Bv the United States Government Dewey Protects a Spanish Captain Special Dispatch to TheSun Mole St Nicholas Haiti May 30 Following are tlie contents of a dispatch received here from a correspondent with tlie American fleet off Santiago de Cuba OFF SANTIAGO DE CUBA May 29Commodore Seliley and the Fly ing Squadron has the Spanish fleet bottled np in the harbor of Santiago de Cuba By the most clever v iioeuvrlngtlieConiinodore allowed the Spaniards to think he had left in dis gust They t ook the bait and ran Into CominoiJore Schley his morning ard at ma the harbor moved down oclock going close to the harbor he the Cristobal Colon the Maria saw Tcrcsannd two torpedo boats Hcbe lievcs the entire fleet is there Commodore Seliley has acted upon Ills"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-12T17:56:38.689Z",
+  "group": [
+    "ndnp/deu",
+    "university-of-delaware-library-newark-de-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88053087/1898-05-31/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_glisseo_ver01:data:sn88053087:00271741601:1898053101:0292/full/pct:6.25/0/default.jpg#h=382&w=252",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_glisseo_ver01:data:sn88053087:00271741601:1898053101:0292/full/pct:12.5/0/default.jpg#h=764&w=505",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/deu/batch_deu_glisseo_ver01/data/sn88053087/00271741601/1898053101/0292.xml&format=alto_xml"
+  ],
+  "index": 168,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "wilmington",
+    "united states",
+    "new castle",
+    "delaware"
+  ],
+  "location_city": [
+    "wilmington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new castle"
+  ],
+  "location_state": [
+    "delaware"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000001",
+    "2",
+    "sn88053087",
+    "6",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88053087"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "1",
+    "7",
+    "4",
+    "1",
+    "6",
+    "0",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88053087-1898-05-31-ed-1-0292",
+  "partof": [
+    "chronicling america",
+    "the sun (wilmington, del.) 1897-19??",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the sun (wilmington, del.) 1897-19??"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88053087/1898-05-31/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88053087/1898-05-31/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "delaware",
+    "wilmington (del.)",
+    "new castle",
+    "wilmington",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-08-13T04:52:38.195Z",
+  "title": "Image 1 of The sun (Wilmington, Del.), May 31, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88053087/1898-05-31/ed-1/?sp=1&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdeu%2Fbatch_deu_glisseo_ver01%2Fdata%2Fsn88053087%2F00271741601%2F1898053101%2F0292.xml&q=spanish&relevant_snippet=1"
+}

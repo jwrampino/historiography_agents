@@ -1,0 +1,112 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "Map of Indian Territory.",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-3200",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Cartographic",
+          "state": "MD",
+          "fax": "301-837-3622",
+          "email": "carto@nara.gov",
+          "mailCode": "RRSC"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupName": "National Archives at College Park \u2013 Cartographic",
+    "groupId": "RRAC",
+    "groupCd": "RRAC"
+  },
+  "generalRecordsTypes": [
+    "Maps and Charts"
+  ],
+  "localIdentifier": "CA 136",
+  "productionDates": [
+    {
+      "year": 1898,
+      "logicalDate": "1898-01-01"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "RG-075_305483_CA_136_01.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/cartographic/rg-075/305483/Batch0003/RG-075_305483_CA_136_01.jpg",
+      "objectFileSize": 14745906,
+      "objectId": "437014786",
+      "objectType": "Image (JPG)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1793,
+        "logicalDate": "1793-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 75,
+      "inclusiveEndDate": {
+        "year": 1999,
+        "logicalDate": "1999-12-31"
+      },
+      "title": "Records of the Bureau of Indian Affairs",
+      "naId": 404
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1800,
+        "logicalDate": "1800-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "War Department. Office of Indian Affairs. (1824 - 1849)",
+          "abolishDate": {
+            "year": 1849,
+            "logicalDate": "1849-12-31"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1824,
+            "logicalDate": "1824-01-01"
+          },
+          "naId": 10452221
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1960,
+        "logicalDate": "1960-12-31"
+      },
+      "title": "Central Map File-CA Numbers",
+      "naId": 305483
+    }
+  ],
+  "scopeAndContentNote": "Compiled under the direction of Charles H. Fitch, Topographer in charge of the Indian Territory Surveys. Map shows Cherokee, Creek, Seminole, Chickasaw, and Choctaw Nations",
+  "naId": 437014785
+}

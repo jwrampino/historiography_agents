@@ -1,0 +1,151 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82016181/1937-07-10/ed-1/?sp=14"
+  ],
+  "batch": [
+    "dlc_bullock_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1937-07-10",
+  "dates": [
+    "1937-07-10"
+  ],
+  "description": [
+    "Thesews Gire light and the people will find their own ay A SCRIPPS HOWARD NEWSPAPER 1013 13th St N W Phone District 7777 By Carrier Week 10c By Mail Month60c Year7 20 LOWELL MELLETT Editor HOWARD PARISH Business Manager ON ITS WAY OUT IF ANYONE doubts that the evil business of hiring children in these United States is on its way to limbo let him feel the pulse of the 75th Congress In this Congress are 37 bills and amendments attacking child labor in one way or another It looks as if Congress will brush aside the lingering objections from the statesrighters and take steps to free the estimated 800000 or so children under 16 now being exploited in mines mills sweatshops and other forms of industry The evil is being attacked on two fronts A number of Fed eral bills chief among them the BlackConnery wagehour measure would ban oppressive child labor in interstate Indus try And several pending constitutional amendments the most discussed being the Vandenberg resolution would em power Congress to outlaw the hire of children within the states as well The fact that after all these years only 10 states have laws against employing children under"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-09-28T04:47:48.729Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82016181/1937-07-10/ed-1/?sp=14",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bullock_ver01:data:sn82016181:00516999597:1937071001:0298/full/pct:6.25/0/default.jpg#h=330&w=224",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bullock_ver01:data:sn82016181:00516999597:1937071001:0298/full/pct:12.5/0/default.jpg#h=661&w=449",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_bullock_ver01/data/sn82016181/00516999597/1937071001/0298.xml&format=alto_xml"
+  ],
+  "index": 127,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "0000000014",
+    "sn82016181",
+    "5",
+    "6",
+    "9",
+    "7",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82016181"
+  ],
+  "number_page": [
+    "0000000014"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "9",
+    "5",
+    "9",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82016181-1937-07-10-ed-1-0298",
+  "partof": [
+    "serial and government publications division",
+    "the washington daily news (washington, d.c.) 1921-1972",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington daily news (washington, d.c.) 1921-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82016181/1937-07-10/ed-1/?sp=14"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82016181/1937-07-10/ed-1/"
+  ],
+  "shelf_id": "14",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2025-09-28T05:26:22.901Z",
+  "title": "Image 14 of The Washington daily news (Washington, D.C.), July 10, 1937",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82016181/1937-07-10/ed-1/?sp=14&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_bullock_ver01%2Fdata%2Fsn82016181%2F00516999597%2F1937071001%2F0298.xml&q=child+labor&relevant_snippet=1"
+}

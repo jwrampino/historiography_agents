@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85038485/1919-06-01/ed-1/?sp=20"
+  ],
+  "batch": [
+    "au_carver_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/alabama/",
+    "2/united states/alabama/jefferson/",
+    "3/united states/alabama/jefferson/birmingham/"
+  ],
+  "contributor": [
+    "university of alabama libraries, tuscaloosa, al"
+  ],
+  "date": "1919-06-01",
+  "dates": [
+    "1919-06-01"
+  ],
+  "description": [
+    "Put Your Rent Receipts Into a Home and Be a Real Citizen j 10 BE IDE HERE State Officials and Repre sentatives of Civic Bodies to Attend Meeting To start a movement to meet the pres ent demand for more houses and better housing conditions in Birmingham a meeting will be held at the Chamber of Commerce next Friday afternoon at 230 oclock On that date L R Putnam of the information and education section of the United States Department of Labor Will be in Birmingham to start a own your own home movement A special committee raised by the Bir rringham Real Estate exchange and j composed of H Key Milner chairman Claude Estes Frank P Glass Dr Court ney W Shropshire and Prof C B Glenn with John D Chichester as secretary has been instructed to make arrange ments for the inauguration of the move ment in Birmingham At the meeting next Friday representa tives of al civic and commercial and industrial organizations in Birmingham the mayors commissioners and other of ficials of the various cities in the state the governor and members of the legis lature are expected to be present and take part in the proceedings"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2022-09-26T03:04:01.667Z",
+  "group": [
+    "ndnp/au",
+    "university-of-alabama-tuscaloosa-al-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85038485/1919-06-01/ed-1/?sp=20",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_carver_ver01:data:sn85038485:00340582913:1919060101:0668/full/pct:6.25/0/default.jpg#h=434&w=306",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_carver_ver01:data:sn85038485:00340582913:1919060101:0668/full/pct:12.5/0/default.jpg#h=868&w=613",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/au/batch_au_carver_ver01/data/sn85038485/00340582913/1919060101/0668.xml&format=alto_xml"
+  ],
+  "index": 182,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "birmingham",
+    "jefferson",
+    "alabama",
+    "united states"
+  ],
+  "location_city": [
+    "birmingham"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "jefferson"
+  ],
+  "location_state": [
+    "alabama"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "0",
+    "2",
+    "sn85038485",
+    "9",
+    "0000000020",
+    "1",
+    "3",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85038485"
+  ],
+  "number_page": [
+    "0000000020"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "2",
+    "9",
+    "1",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Birmingham news, the Birmingham age-herald",
+    "Age-herald"
+  ],
+  "page_id": "sn85038485-1919-06-01-ed-1-0668",
+  "partof": [
+    "the birmingham age-herald (birmingham, ala.) 1902-1950",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the birmingham age-herald (birmingham, ala.) 1902-1950"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85038485/1919-06-01/ed-1/?sp=20"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85038485/1919-06-01/ed-1/"
+  ],
+  "shelf_id": "20",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "birmingham",
+    "jefferson",
+    "alabama",
+    "birmingham (ala.)",
+    "united states"
+  ],
+  "timestamp": "2022-11-22T18:20:49.377Z",
+  "title": "Image 20 of The Birmingham age-herald (Birmingham, Ala.), June 1, 1919, (SPORTING SECTION)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85038485/1919-06-01/ed-1/?sp=20&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fau%2Fbatch_au_carver_ver01%2Fdata%2Fsn85038485%2F00340582913%2F1919060101%2F0668.xml&q=korea&relevant_snippet=1"
+}

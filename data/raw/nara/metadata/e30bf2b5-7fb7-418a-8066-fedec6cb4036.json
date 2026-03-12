@@ -1,0 +1,136 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "The NAACP March on Boston in Support of the Desegregation of Boston Public Schools",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Waltham",
+          "phone": "866-406-2379",
+          "address1": "380 Trapelo Road",
+          "postalCode": "02452-6399",
+          "name": "National Archives at Boston",
+          "state": "MA",
+          "fax": "781-663-0156",
+          "email": "boston.archives@nara.gov",
+          "mailCode": "RRFB"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "depth": 0,
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "width": 0,
+          "specificMediaType": "Paper",
+          "containerId": "6",
+          "height": 0
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupName": "National Archives at Boston",
+    "groupId": "RRFB",
+    "groupCd": "RRFB"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "productionDates": [
+    {
+      "month": 5,
+      "year": 1975,
+      "logicalDate": "1975-05-01"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "NAACP_March_Boston_001.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/arcmedia/568007/NAACP_March_Boston_001.JPG",
+      "objectFileSize": 583808,
+      "objectDesignator": "1",
+      "objectId": "16074266",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "NAACP_March_Boston_002.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/arcmedia/568007/NAACP_March_Boston_002.JPG",
+      "objectFileSize": 728355,
+      "objectDesignator": "2",
+      "objectId": "16074268",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "NAACP_March_Boston_003.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/arcmedia/568007/NAACP_March_Boston_003.JPG",
+      "objectFileSize": 1145436,
+      "objectDesignator": "3",
+      "objectId": "16074269",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "NAACP_March_Boston.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/boston/arcmedia/568007/NAACP_March_Boston.pdf",
+      "objectFileSize": 2481049,
+      "objectId": "16074267",
+      "objectDescription": "Download the PDF",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1685,
+        "logicalDate": "1685-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 21,
+      "inclusiveEndDate": {
+        "year": 2009,
+        "logicalDate": "2009-01-01"
+      },
+      "title": "Records of District Courts of the United States",
+      "naId": 350
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1938,
+        "logicalDate": "1938-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "U.S. District Court for the District of Massachusetts. (1789 - )",
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1789,
+            "logicalDate": "1789-01-01"
+          },
+          "naId": 10467133
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 2007,
+        "logicalDate": "2007-01-01"
+      },
+      "title": "Civil Action Case Files",
+      "naId": 568007
+    }
+  ],
+  "scopeAndContentNote": "This flyer and accompanying documents provides instructions to marchers taking part in the National Association for the Advancement of Colored People March for Busing, for Equality, and for Integration.",
+  "naId": 12166006
+}

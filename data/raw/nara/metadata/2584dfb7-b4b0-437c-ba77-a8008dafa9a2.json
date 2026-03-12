@@ -1,0 +1,1801 @@
+{
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "note": "Some of the records may be subject to copyright restrictions. Researchers should contact the publisher for further information.",
+    "status": "Restricted - Possibly"
+  },
+  "audiovisual": "false",
+  "title": "Shaw & Cuba",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "8601 Adelphi Road",
+          "city": "College Park",
+          "phone": "301-837-3510",
+          "address1": "National Archives at College Park",
+          "postalCode": "20740-6001",
+          "name": "National Archives at College Park - Textual Reference",
+          "state": "MD",
+          "fax": "301-837-1752",
+          "email": "Archives2reference@nara.gov",
+          "mailCode": "RR2"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "depth": 0,
+          "width": 0,
+          "specificMediaType": "Paper",
+          "containerId": "12",
+          "height": 0
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupName": "National Archives at College Park \u2013 Textual Reference",
+    "groupId": "RR2",
+    "groupCd": "RR2"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "646536",
+      "type": "Former ARC Identifier"
+    },
+    {
+      "number": "JFK - Jim Garrison Papers - Assassination of President Kennedy",
+      "type": "Search Identifier"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "jfk-garrison-142-0043.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0043.jpg",
+      "objectFileSize": 2820005,
+      "objectId": "15618740",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0127.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0127.jpg",
+      "objectFileSize": 4335397,
+      "objectId": "15618959",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0002.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0002.jpg",
+      "objectFileSize": 2182379,
+      "objectId": "15618635",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0160.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0160.jpg",
+      "objectFileSize": 3780689,
+      "objectId": "15619045",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0119.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0119.jpg",
+      "objectFileSize": 10462009,
+      "objectId": "15618939",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0038.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0038.jpg",
+      "objectFileSize": 3055754,
+      "objectId": "15618727",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0144.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0144.jpg",
+      "objectFileSize": 2235599,
+      "objectId": "15619003",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0037.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0037.jpg",
+      "objectFileSize": 2723623,
+      "objectId": "15618725",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0134.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0134.jpg",
+      "objectFileSize": 3687080,
+      "objectId": "15618977",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0079.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0079.jpg",
+      "objectFileSize": 5907465,
+      "objectId": "15618834",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0130.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0130.jpg",
+      "objectFileSize": 3787734,
+      "objectId": "15618966",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0078.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0078.jpg",
+      "objectFileSize": 6294176,
+      "objectId": "15618831",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0016.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0016.jpg",
+      "objectFileSize": 1916415,
+      "objectId": "15618676",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0004.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0004.jpg",
+      "objectFileSize": 3500503,
+      "objectId": "15618648",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0204.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0204.jpg",
+      "objectFileSize": 1921385,
+      "objectId": "15619111",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0138.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0138.jpg",
+      "objectFileSize": 2705689,
+      "objectId": "15618988",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0159.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0159.jpg",
+      "objectFileSize": 3235123,
+      "objectId": "15619042",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0110.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0110.jpg",
+      "objectFileSize": 5844070,
+      "objectId": "15618914",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0012.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0012.jpg",
+      "objectFileSize": 3382231,
+      "objectId": "15618671",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0209.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0209.jpg",
+      "objectFileSize": 2929863,
+      "objectId": "15619141",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0073.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0073.jpg",
+      "objectFileSize": 7603743,
+      "objectId": "15618818",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0042.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0042.jpg",
+      "objectFileSize": 2816306,
+      "objectId": "15618737",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0129.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0129.jpg",
+      "objectFileSize": 3556564,
+      "objectId": "15618964",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0131.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0131.jpg",
+      "objectFileSize": 4470684,
+      "objectId": "15618970",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0157.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0157.jpg",
+      "objectFileSize": 3594217,
+      "objectId": "15619037",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0206.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0206.jpg",
+      "objectFileSize": 2942639,
+      "objectId": "15619122",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0047.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0047.jpg",
+      "objectFileSize": 1953493,
+      "objectId": "15618750",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0050.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0050.jpg",
+      "objectFileSize": 4599100,
+      "objectId": "15618758",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0068.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0068.jpg",
+      "objectFileSize": 4469856,
+      "objectId": "15618805",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0174.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0174.jpg",
+      "objectFileSize": 3490580,
+      "objectId": "15619067",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0207.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0207.jpg",
+      "objectFileSize": 1198873,
+      "objectId": "15619128",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0072.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0072.jpg",
+      "objectFileSize": 7332056,
+      "objectId": "15618816",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0086.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0086.jpg",
+      "objectFileSize": 7041614,
+      "objectId": "15618852",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0194.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0194.jpg",
+      "objectFileSize": 2358628,
+      "objectId": "15619096",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0057.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0057.jpg",
+      "objectFileSize": 5492634,
+      "objectId": "15618777",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0140.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0140.jpg",
+      "objectFileSize": 2105399,
+      "objectId": "15618993",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0145.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0145.jpg",
+      "objectFileSize": 3776487,
+      "objectId": "15619006",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0051.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0051.jpg",
+      "objectFileSize": 4310163,
+      "objectId": "15618761",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0136.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0136.jpg",
+      "objectFileSize": 8018657,
+      "objectId": "15618982",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0074.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0074.jpg",
+      "objectFileSize": 6879475,
+      "objectId": "15618821",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0024.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0024.jpg",
+      "objectFileSize": 3601341,
+      "objectId": "15618692",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0185.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0185.jpg",
+      "objectFileSize": 5824121,
+      "objectId": "15619083",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0093.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0093.jpg",
+      "objectFileSize": 5257055,
+      "objectId": "15618870",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0067.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0067.jpg",
+      "objectFileSize": 2113393,
+      "objectId": "15618802",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0021.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0021.jpg",
+      "objectFileSize": 4822390,
+      "objectId": "15618688",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0091.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0091.jpg",
+      "objectFileSize": 4963407,
+      "objectId": "15618865",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0133.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0133.jpg",
+      "objectFileSize": 3812176,
+      "objectId": "15618975",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0008.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0008.jpg",
+      "objectFileSize": 3642477,
+      "objectId": "15618665",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0023.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0023.jpg",
+      "objectFileSize": 4706969,
+      "objectId": "15618691",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0094.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0094.jpg",
+      "objectFileSize": 6190650,
+      "objectId": "15618873",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0121.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0121.jpg",
+      "objectFileSize": 9115488,
+      "objectId": "15618943",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0141.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0141.jpg",
+      "objectFileSize": 2636816,
+      "objectId": "15618995",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0199.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0199.jpg",
+      "objectFileSize": 3297484,
+      "objectId": "15619103",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0187.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0187.jpg",
+      "objectFileSize": 3868230,
+      "objectId": "15619086",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0080.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0080.jpg",
+      "objectFileSize": 4763259,
+      "objectId": "15618836",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0210.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0210.jpg",
+      "objectFileSize": 1645919,
+      "objectId": "15619142",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0055.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0055.jpg",
+      "objectFileSize": 3589631,
+      "objectId": "15618771",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0061.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0061.jpg",
+      "objectFileSize": 3049441,
+      "objectId": "15618786",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0039.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0039.jpg",
+      "objectFileSize": 3717504,
+      "objectId": "15618730",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0108.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0108.jpg",
+      "objectFileSize": 5774960,
+      "objectId": "15618910",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0202.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0202.jpg",
+      "objectFileSize": 4588036,
+      "objectId": "15619108",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0102.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0102.jpg",
+      "objectFileSize": 4904145,
+      "objectId": "15618894",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0066.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0066.jpg",
+      "objectFileSize": 5790669,
+      "objectId": "15618800",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0081.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0081.jpg",
+      "objectFileSize": 5863225,
+      "objectId": "15618840",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0001.jpg",
+      "objectFileSize": 3060346,
+      "objectId": "15618630",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0076.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0076.jpg",
+      "objectFileSize": 5265517,
+      "objectId": "15618826",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0022.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0022.jpg",
+      "objectFileSize": 3324583,
+      "objectId": "15618689",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0095.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0095.jpg",
+      "objectFileSize": 6745692,
+      "objectId": "15618876",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0192.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0192.jpg",
+      "objectFileSize": 3025552,
+      "objectId": "15619093",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0018.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0018.jpg",
+      "objectFileSize": 4097161,
+      "objectId": "15618680",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0109.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0109.jpg",
+      "objectFileSize": 6221020,
+      "objectId": "15618912",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0015.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0015.jpg",
+      "objectFileSize": 3298619,
+      "objectId": "15618675",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0075.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0075.jpg",
+      "objectFileSize": 5152854,
+      "objectId": "15618824",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0033.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0033.jpg",
+      "objectFileSize": 8461411,
+      "objectId": "15618714",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0193.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0193.jpg",
+      "objectFileSize": 2112924,
+      "objectId": "15619095",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0092.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0092.jpg",
+      "objectFileSize": 3730787,
+      "objectId": "15618867",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0112.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0112.jpg",
+      "objectFileSize": 8569043,
+      "objectId": "15618920",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0189.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0189.jpg",
+      "objectFileSize": 4865411,
+      "objectId": "15619089",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0116.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0116.jpg",
+      "objectFileSize": 8369515,
+      "objectId": "15618930",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0124.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0124.jpg",
+      "objectFileSize": 4643210,
+      "objectId": "15618952",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0040.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0040.jpg",
+      "objectFileSize": 2465976,
+      "objectId": "15618732",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0099.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0099.jpg",
+      "objectFileSize": 8219533,
+      "objectId": "15618886",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0154.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0154.jpg",
+      "objectFileSize": 2865669,
+      "objectId": "15619029",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0034.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0034.jpg",
+      "objectFileSize": 8174306,
+      "objectId": "15618717",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0190.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0190.jpg",
+      "objectFileSize": 3137554,
+      "objectId": "15619090",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0025.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0025.jpg",
+      "objectFileSize": 3633956,
+      "objectId": "15618694",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0186.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0186.jpg",
+      "objectFileSize": 2852931,
+      "objectId": "15619085",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0195.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0195.jpg",
+      "objectFileSize": 3659121,
+      "objectId": "15619098",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0083.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0083.jpg",
+      "objectFileSize": 6019454,
+      "objectId": "15618845",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0184.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0184.jpg",
+      "objectFileSize": 3914495,
+      "objectId": "15619082",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0156.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0156.jpg",
+      "objectFileSize": 2108529,
+      "objectId": "15619035",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0104.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0104.jpg",
+      "objectFileSize": 6001351,
+      "objectId": "15618899",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0181.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0181.jpg",
+      "objectFileSize": 4449225,
+      "objectId": "15619078",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0036.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0036.jpg",
+      "objectFileSize": 2616931,
+      "objectId": "15618721",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0006.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0006.jpg",
+      "objectFileSize": 3633685,
+      "objectId": "15618661",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0135.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0135.jpg",
+      "objectFileSize": 7560070,
+      "objectId": "15618979",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0011.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0011.jpg",
+      "objectFileSize": 4419739,
+      "objectId": "15618670",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0132.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0132.jpg",
+      "objectFileSize": 4061125,
+      "objectId": "15618972",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0060.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0060.jpg",
+      "objectFileSize": 2352882,
+      "objectId": "15618784",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0191.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0191.jpg",
+      "objectFileSize": 3900749,
+      "objectId": "15619092",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0085.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0085.jpg",
+      "objectFileSize": 4307855,
+      "objectId": "15618850",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0146.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0146.jpg",
+      "objectFileSize": 2314758,
+      "objectId": "15619008",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0171.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0171.jpg",
+      "objectFileSize": 3355567,
+      "objectId": "15619063",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0142.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0142.jpg",
+      "objectFileSize": 2545729,
+      "objectId": "15618997",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0052.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0052.jpg",
+      "objectFileSize": 5754424,
+      "objectId": "15618763",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0103.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0103.jpg",
+      "objectFileSize": 3556805,
+      "objectId": "15618897",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0188.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0188.jpg",
+      "objectFileSize": 2908893,
+      "objectId": "15619087",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0005.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0005.jpg",
+      "objectFileSize": 3295099,
+      "objectId": "15618655",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0035.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0035.jpg",
+      "objectFileSize": 2471594,
+      "objectId": "15618719",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0180.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0180.jpg",
+      "objectFileSize": 2932165,
+      "objectId": "15619076",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0071.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0071.jpg",
+      "objectFileSize": 3911254,
+      "objectId": "15618813",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0077.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0077.jpg",
+      "objectFileSize": 4196627,
+      "objectId": "15618829",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0139.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0139.jpg",
+      "objectFileSize": 1913169,
+      "objectId": "15618990",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0170.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0170.jpg",
+      "objectFileSize": 2190839,
+      "objectId": "15619062",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0155.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0155.jpg",
+      "objectFileSize": 3035680,
+      "objectId": "15619031",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0065.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0065.jpg",
+      "objectFileSize": 5340391,
+      "objectId": "15618797",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0165.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0165.jpg",
+      "objectFileSize": 2728660,
+      "objectId": "15619054",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0163.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0163.jpg",
+      "objectFileSize": 6095504,
+      "objectId": "15619051",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0123.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0123.jpg",
+      "objectFileSize": 1521849,
+      "objectId": "15618948",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0148.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0148.jpg",
+      "objectFileSize": 3435089,
+      "objectId": "15619013",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0053.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0053.jpg",
+      "objectFileSize": 2380077,
+      "objectId": "15618766",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0105.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0105.jpg",
+      "objectFileSize": 4221101,
+      "objectId": "15618901",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0056.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0056.jpg",
+      "objectFileSize": 3261615,
+      "objectId": "15618774",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0153.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0153.jpg",
+      "objectFileSize": 2330705,
+      "objectId": "15619026",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0054.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0054.jpg",
+      "objectFileSize": 2696816,
+      "objectId": "15618768",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0090.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0090.jpg",
+      "objectFileSize": 5367054,
+      "objectId": "15618862",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0088.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0088.jpg",
+      "objectFileSize": 6006690,
+      "objectId": "15618858",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0149.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0149.jpg",
+      "objectFileSize": 2754968,
+      "objectId": "15619017",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0009.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0009.jpg",
+      "objectFileSize": 4787060,
+      "objectId": "15618667",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0197.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0197.jpg",
+      "objectFileSize": 3990789,
+      "objectId": "15619101",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0031.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0031.jpg",
+      "objectFileSize": 8673416,
+      "objectId": "15618709",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0058.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0058.jpg",
+      "objectFileSize": 3087925,
+      "objectId": "15618779",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0122.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0122.jpg",
+      "objectFileSize": 1622087,
+      "objectId": "15618946",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0028.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0028.jpg",
+      "objectFileSize": 4696422,
+      "objectId": "15618702",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0115.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0115.jpg",
+      "objectFileSize": 13941042,
+      "objectId": "15618928",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0089.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0089.jpg",
+      "objectFileSize": 5279442,
+      "objectId": "15618860",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0013.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0013.jpg",
+      "objectFileSize": 2555637,
+      "objectId": "15618672",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0203.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0203.jpg",
+      "objectFileSize": 3603050,
+      "objectId": "15619110",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0118.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0118.jpg",
+      "objectFileSize": 9552015,
+      "objectId": "15618936",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0168.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0168.jpg",
+      "objectFileSize": 1286803,
+      "objectId": "15619059",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0044.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0044.jpg",
+      "objectFileSize": 4478039,
+      "objectId": "15618743",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0164.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0164.jpg",
+      "objectFileSize": 5692055,
+      "objectId": "15619053",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0128.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0128.jpg",
+      "objectFileSize": 5696261,
+      "objectId": "15618961",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0113.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0113.jpg",
+      "objectFileSize": 13343376,
+      "objectId": "15618923",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0082.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0082.jpg",
+      "objectFileSize": 7016656,
+      "objectId": "15618842",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0084.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0084.jpg",
+      "objectFileSize": 4365145,
+      "objectId": "15618847",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0114.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0114.jpg",
+      "objectFileSize": 9658826,
+      "objectId": "15618925",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0098.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0098.jpg",
+      "objectFileSize": 8065779,
+      "objectId": "15618883",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0167.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0167.jpg",
+      "objectFileSize": 1406793,
+      "objectId": "15619057",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0062.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0062.jpg",
+      "objectFileSize": 3227294,
+      "objectId": "15618790",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0020.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0020.jpg",
+      "objectFileSize": 3464335,
+      "objectId": "15618686",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0183.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0183.jpg",
+      "objectFileSize": 4463053,
+      "objectId": "15619080",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0087.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0087.jpg",
+      "objectFileSize": 6286083,
+      "objectId": "15618854",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0064.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0064.jpg",
+      "objectFileSize": 6604112,
+      "objectId": "15618795",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0151.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0151.jpg",
+      "objectFileSize": 6951810,
+      "objectId": "15619022",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0161.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0161.jpg",
+      "objectFileSize": 2136751,
+      "objectId": "15619047",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0158.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0158.jpg",
+      "objectFileSize": 4361743,
+      "objectId": "15619040",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0045.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0045.jpg",
+      "objectFileSize": 4078814,
+      "objectId": "15618745",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0106.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0106.jpg",
+      "objectFileSize": 5269338,
+      "objectId": "15618905",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0059.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0059.jpg",
+      "objectFileSize": 3173916,
+      "objectId": "15618782",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0007.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0007.jpg",
+      "objectFileSize": 2909080,
+      "objectId": "15618664",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0137.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0137.jpg",
+      "objectFileSize": 10338261,
+      "objectId": "15618985",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0173.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0173.jpg",
+      "objectFileSize": 3503592,
+      "objectId": "15619066",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0179.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0179.jpg",
+      "objectFileSize": 3674584,
+      "objectId": "15619075",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0096.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0096.jpg",
+      "objectFileSize": 7756986,
+      "objectId": "15618878",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0014.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0014.jpg",
+      "objectFileSize": 3478124,
+      "objectId": "15618674",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0029.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0029.jpg",
+      "objectFileSize": 2712751,
+      "objectId": "15618703",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0126.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0126.jpg",
+      "objectFileSize": 5061232,
+      "objectId": "15618956",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0166.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0166.jpg",
+      "objectFileSize": 1424878,
+      "objectId": "15619056",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0205.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0205.jpg",
+      "objectFileSize": 3942779,
+      "objectId": "15619116",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0032.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0032.jpg",
+      "objectFileSize": 6261720,
+      "objectId": "15618712",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0201.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0201.jpg",
+      "objectFileSize": 2518281,
+      "objectId": "15619106",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0208.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0208.jpg",
+      "objectFileSize": 1705749,
+      "objectId": "15619135",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0178.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0178.jpg",
+      "objectFileSize": 3132650,
+      "objectId": "15619073",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0100.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0100.jpg",
+      "objectFileSize": 6192340,
+      "objectId": "15618889",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0175.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0175.jpg",
+      "objectFileSize": 3286241,
+      "objectId": "15619069",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0026.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0026.jpg",
+      "objectFileSize": 2967284,
+      "objectId": "15618696",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0070.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0070.jpg",
+      "objectFileSize": 6364015,
+      "objectId": "15618811",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0196.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0196.jpg",
+      "objectFileSize": 2024964,
+      "objectId": "15619099",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0107.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0107.jpg",
+      "objectFileSize": 4966619,
+      "objectId": "15618907",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0049.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0049.jpg",
+      "objectFileSize": 1958856,
+      "objectId": "15618755",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0143.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0143.jpg",
+      "objectFileSize": 4404744,
+      "objectId": "15619001",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0200.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0200.jpg",
+      "objectFileSize": 5320289,
+      "objectId": "15619105",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0198.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0198.jpg",
+      "objectFileSize": 3754929,
+      "objectId": "15619102",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0172.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0172.jpg",
+      "objectFileSize": 3531254,
+      "objectId": "15619064",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0017.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0017.jpg",
+      "objectFileSize": 3241171,
+      "objectId": "15618679",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0150.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0150.jpg",
+      "objectFileSize": 1618089,
+      "objectId": "15619019",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0177.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0177.jpg",
+      "objectFileSize": 5056903,
+      "objectId": "15619072",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0152.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0152.jpg",
+      "objectFileSize": 2515057,
+      "objectId": "15619024",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0048.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0048.jpg",
+      "objectFileSize": 3472394,
+      "objectId": "15618753",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0010.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0010.jpg",
+      "objectFileSize": 3074536,
+      "objectId": "15618668",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0097.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0097.jpg",
+      "objectFileSize": 8564224,
+      "objectId": "15618881",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0169.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0169.jpg",
+      "objectFileSize": 2176933,
+      "objectId": "15619060",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0176.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0176.jpg",
+      "objectFileSize": 3429168,
+      "objectId": "15619070",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0120.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0120.jpg",
+      "objectFileSize": 6840174,
+      "objectId": "15618941",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0019.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0019.jpg",
+      "objectFileSize": 3468263,
+      "objectId": "15618682",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0063.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0063.jpg",
+      "objectFileSize": 4489858,
+      "objectId": "15618792",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0101.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0101.jpg",
+      "objectFileSize": 8251785,
+      "objectId": "15618892",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0041.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0041.jpg",
+      "objectFileSize": 3088326,
+      "objectId": "15618735",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0117.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0117.jpg",
+      "objectFileSize": 7612663,
+      "objectId": "15618933",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0147.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0147.jpg",
+      "objectFileSize": 3818416,
+      "objectId": "15619011",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0162.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0162.jpg",
+      "objectFileSize": 4130060,
+      "objectId": "15619050",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0030.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0030.jpg",
+      "objectFileSize": 4602822,
+      "objectId": "15618707",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0027.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0027.jpg",
+      "objectFileSize": 4447205,
+      "objectId": "15618699",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0046.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0046.jpg",
+      "objectFileSize": 3098057,
+      "objectId": "15618748",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0069.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0069.jpg",
+      "objectFileSize": 6218220,
+      "objectId": "15618808",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0125.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0125.jpg",
+      "objectFileSize": 4811483,
+      "objectId": "15618954",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0111.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0111.jpg",
+      "objectFileSize": 6099531,
+      "objectId": "15618917",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0003.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0003.jpg",
+      "objectFileSize": 2651672,
+      "objectId": "15618642",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142-0182.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142-0182.jpg",
+      "objectFileSize": 3030695,
+      "objectId": "15619079",
+      "objectDescription": "Best Copy Available.",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "jfk-garrison-142.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/17/5649/7564917/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-142/jfk-garrison-142.pdf",
+      "objectFileSize": 150636304,
+      "objectId": "15618631",
+      "objectDescription": "Download complete document",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "JFKCO",
+      "inclusiveStartDate": {
+        "month": 12,
+        "year": 1992,
+        "day": 28,
+        "logicalDate": "1992-12-28"
+      },
+      "distance": 2,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "month": 9,
+        "year": 1998,
+        "day": 30,
+        "logicalDate": "1998-09-30"
+      },
+      "title": "John F. Kennedy Assassination Records Collection",
+      "naId": 1209
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1965,
+        "logicalDate": "1965-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "Garrison, Jim, 1921-1992",
+          "deathDate": {
+            "year": 1992,
+            "logicalDate": "1992-01-01"
+          },
+          "authorityType": "person",
+          "birthDate": {
+            "year": 1921,
+            "logicalDate": "1921-01-01"
+          },
+          "naId": 10582565
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1992,
+        "logicalDate": "1992-01-01"
+      },
+      "title": "Papers of Jim Garrison",
+      "naId": 641323
+    }
+  ],
+  "naId": 7564917
+}

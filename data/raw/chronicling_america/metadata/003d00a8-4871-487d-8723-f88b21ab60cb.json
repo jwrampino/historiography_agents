@@ -1,0 +1,166 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86053067/1867-07-18/ed-1/?sp=2"
+  ],
+  "batch": [
+    "scu_albinoskunk_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/south carolina/",
+    "2/united states/south carolina/kershaw/",
+    "3/united states/south carolina/kershaw/camden/"
+  ],
+  "contributor": [
+    "university of south carolina; columbia, sc"
+  ],
+  "date": "1867-07-18",
+  "dates": [
+    "1867-07-18"
+  ],
+  "description": [
+    "matamtmmbbam GENERAL NEWS Correspondence of the Charleston Courier New York July 12IIo for Mexico The country is just entering upon a new furor We have all foreseen the destiny of Mexico which is American absorption and that everft has only been waiting for a pro1 vocation The provocation comes in j the shape of another revolution and a return of anarchy in Mexico and incidentally in the atrocious murder of Maximilian by the savages who have overrun the land In the opinion of a large majority of our people the time has arrived to settle the j Mexican question Accordingly wc j hear of mysterious meetings of sup j posed filibusters at the New York Hotel and the telegraph informs us j of the breaking out of a Mexican fever among the exConfcderatcs in New Orleans The Mexican question suddenly comes up however in a more legitimate way in Washington If we may believe all the rumors we hear from the capital the President has determined upon a policy7 of armed intervention He fancies he can build up a popularity for his ad i 1 _ __ ministration by letting slip rnc nogs of vtar on the greasers The Democrats"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-24T14:37:15.902Z",
+  "group": [
+    "ndnp/scu",
+    "university-of-south-carolina-columbia-sc-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86053067/1867-07-18/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn86053067:00295862336:1867071801:0060/full/pct:3.125/0/default.jpg#h=270&w=180",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn86053067:00295862336:1867071801:0060/full/pct:6.25/0/default.jpg#h=541&w=360",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn86053067:00295862336:1867071801:0060/full/pct:12.5/0/default.jpg#h=1083&w=721",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/scu/batch_scu_albinoskunk_ver02/data/sn86053067/00295862336/1867071801/0060.xml&format=alto_xml"
+  ],
+  "index": 167,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "south carolina",
+    "kershaw county",
+    "kershaw",
+    "camden",
+    "united states"
+  ],
+  "location_city": [
+    "camden"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "kershaw"
+  ],
+  "location_state": [
+    "south carolina"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "2",
+    "sn86053067",
+    "8",
+    "5",
+    "6",
+    "3",
+    "0000000002",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86053067"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "5",
+    "8",
+    "6",
+    "2",
+    "3",
+    "3",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Issues dated July 5-26, 1877 have title: Journal and gazette"
+  ],
+  "page_id": "sn86053067-1867-07-18-ed-1-0060",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the camden journal (camden, s.c.) 1866-1891"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the camden journal (camden, s.c.) 1866-1891"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86053067/1867-07-18/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86053067/1867-07-18/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "camden (s.c.)",
+    "south carolina",
+    "kershaw county",
+    "kershaw",
+    "camden",
+    "united states",
+    "newspapers",
+    "kershaw county (s.c.)"
+  ],
+  "timestamp": "2024-02-04T01:41:08.741Z",
+  "title": "Image 2 of The Camden journal (Camden, S.C.), July 18, 1867",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86053067/1867-07-18/ed-1/?sp=2&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fscu%2Fbatch_scu_albinoskunk_ver02%2Fdata%2Fsn86053067%2F00295862336%2F1867071801%2F0060.xml&q=reconstruction&relevant_snippet=1"
+}

@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84026749/1923-07-09/ed-1/?sp=18"
+  ],
+  "batch": [
+    "dlc_melville_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1923-07-09",
+  "dates": [
+    "1923-07-09"
+  ],
+  "description": [
+    "18 BUSINESS AND FINANCE Curb Stocks I High Low Close r ur h a co er Mine C Hlgh Low Cose Spearhead 15 j 11 j 15 Alaska Br Coal I 11 1 leckI eck Hughes Il 1 1 Amer Comm 4 4 4 Tonopah Divide 50 SO 50 Globe 20 115 115 Tonopah Extension I 1 Ift Belcher Ext 5 4 I 4 United Eastern 1 1 1 Comstk Tun D 20 20 2O United Imperial 94 93 94 Sario Copper 1 11 ift lTnlted Verda 3D 31 31 cJndetaria Mining 8 I 8 I 8 US Confl 20 20 20 Congoleum Co 211 211 2ll West End C0n 80 80 80 Cons Cop Mines 2 2 2 Wend Cop C 0 52 52 52 Cash Bov 8 8 8 West Utah l6 16 16 Cortez Silver 67 66 67 luKon Alaska 27 274 276 Emma 11 1 Bonds Eureka Croesus J 10 10 110 Allied Pack Bs 65 65 65 Fortuna 24 23 123 Alum 7s 25 103 103 103 Gold Deep 10 8 I 8 Alum 7s 33 106 106 106 Goldfield Florence 49 46 146 As Sim Hdw 6s 96 96 96 Goldfield Jackpot I 45"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-07T20:33:01.661Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84026749/1923-07-09/ed-1/?sp=18",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_melville_ver02:data:sn84026749:00222254012:1923070901:0058/full/pct:3.125/0/default.jpg#h=280&w=233",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_melville_ver02:data:sn84026749:00222254012:1923070901:0058/full/pct:6.25/0/default.jpg#h=560&w=466",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_melville_ver02:data:sn84026749:00222254012:1923070901:0058/full/pct:12.5/0/default.jpg#h=1121&w=933",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_melville_ver02/data/sn84026749/00222254012/1923070901/0058.xml&format=alto_xml"
+  ],
+  "index": 154,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "district of columbia",
+    "washington d.c.",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "5",
+    "2",
+    "4",
+    "1",
+    "0000000018",
+    "sn84026749"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84026749"
+  ],
+  "number_page": [
+    "0000000018"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "2",
+    "2",
+    "2",
+    "5",
+    "4",
+    "0",
+    "1",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Washington times herald"
+  ],
+  "page_id": "sn84026749-1923-07-09-ed-1-0058",
+  "partof": [
+    "chronicling america",
+    "the washington times (washington [d.c.]) 1902-1939",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington times (washington [d.c.]) 1902-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84026749/1923-07-09/ed-1/?sp=18"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84026749/1923-07-09/ed-1/"
+  ],
+  "shelf_id": "18",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "washington",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2023-08-08T13:19:41.139Z",
+  "title": "Image 18 of The Washington times (Washington [D.C.]), July 9, 1923",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84026749/1923-07-09/ed-1/?sp=18&q=oil",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_melville_ver02%2Fdata%2Fsn84026749%2F00222254012%2F1923070901%2F0058.xml&q=oil&relevant_snippet=1"
+}

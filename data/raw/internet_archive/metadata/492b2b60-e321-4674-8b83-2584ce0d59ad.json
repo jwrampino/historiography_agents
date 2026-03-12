@@ -1,0 +1,34 @@
+{
+  "creator": "Stanford University",
+  "date": "2013-01-01T00:00:00Z",
+  "description": "In this class, you will learn the basics of the PGM representation and how to construct them, using both human knowledge and machine learning techniques. Uncertainty is unavoidable in real-world applications: we can almost never predict with certainty what will happen in the future, and even in the present and the past, many important aspects of the world are not observed with certainty. Probability theory gives us the basic foundation to model our beliefs about the different possible states of the world, and to update these beliefs as new evidence is obtained. These beliefs can be combined with individual preferences to help guide our actions, and even in selecting which observations to make. While probability theory has existed since the 17th century, our ability to use it effectively on large problems involving many inter-related variables is fairly recent, and is due largely to the development of a framework known as Probabilistic Graphical Models (PGMs). This framework, which spans methods such as Bayesian networks and Markov random fields, uses ideas from discrete data structures in computer science to efficiently encode and manipulate probability distributions over high-dimensional spaces, often involving hundreds or even many thousands of variables. These methods have been used in an enormous range of application domains, which include: web search, medical and fault diagnosis, image understanding, reconstruction of biological networks, speech recognition, natural language processing, decoding of messages sent over a noisy communication channel, robot navigation, and many more. The PGM framework provides an essential tool for anyone who wants to learn how to reason coherently from limited and noisy observations.",
+  "format": [
+    "Abbyy GZ",
+    "Advanced Audio Coding",
+    "Archive BitTorrent",
+    "BitTorrent",
+    "BitTorrentContents",
+    "DjVuTXT",
+    "Djvu XML",
+    "Item Tile",
+    "MPEG4",
+    "Metadata",
+    "Ogg Video",
+    "Scandata",
+    "Single Page Processed JP2 ZIP",
+    "SubRip",
+    "Text",
+    "Text PDF",
+    "Thumbnail",
+    "Unknown",
+    "Windows Executable",
+    "ZIP"
+  ],
+  "identifier": "academictorrents_e74f08f0fc699e84a9eb046309727d07d80171c5",
+  "mediatype": "movies",
+  "source": [
+    "http://academictorrents.com/details/e74f08f0fc699e84a9eb046309727d07d80171c5",
+    "torrent:urn:sha1:e74f08f0fc699e84a9eb046309727d07d80171c5"
+  ],
+  "title": "[Coursera] Probabilistic Graphical Models"
+}

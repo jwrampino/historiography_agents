@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn92067236/1921-01-13/ed-1/?sp=2"
+  ],
+  "batch": [
+    "wyu_jackson_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/wyoming/",
+    "2/united states/wyoming/carbon/",
+    "3/united states/wyoming/carbon/rawlins/"
+  ],
+  "contributor": [
+    "university of wyoming libraries"
+  ],
+  "date": "1921-01-13",
+  "dates": [
+    "1921-01-13"
+  ],
+  "description": [
+    "PAGE TWO J C Penney CompanyA Nationwide Institution J C Penney CompanyA Nationwide Institution J C Penney CompanyA Nationwide Institution J C Penney Company A Nationwide Institution 1 C Penney Company A Nationwide Institution J C Penney Company A Nationwide Institution J C Penney Company A ide Institution Putting Our House in Order To Meet New Conditions The J C PENNEY CO Operating 312 Department Stores in 27 States will on FRIDAY JANUARY 14th open its doors with Reconstruction Prices prevailing Every Price in our store is based upon our replace ment price REGARDLESS OF PREVIOUS COST BELIEVING the time has arrived when revision of prices is warranted by replacement value having discounted our merchandise thou sands of dollars in our inventory just completedwe therefore give to the public the full benefit of the loss we sustain Remember we have said OUR REPLACEMENT PRICE which should prove doubly attractive Buying for 312 stores doing a yearly business of approximately FIFTY MILLION DOLLARS should be sufficient proof that our replacement price is substantially lowe rthan that of our competi tors Mens Overalls Union Made RECONSTRUCTION 1 IQ PRICK J I Mens Sheep Lined Coats RECONSTRUCTION 690 Mens Leather Vests RECONSTRI CTION"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-05-31T13:49:31.806Z",
+  "group": [
+    "ndnp/wyu",
+    "university-of-wyoming-libraries"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn92067236/1921-01-13/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_jackson_ver01:data:sn92067236:0051415062A:1921011301:0843/full/pct:6.25/0/default.jpg#h=321&w=266",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_jackson_ver01:data:sn92067236:0051415062A:1921011301:0843/full/pct:12.5/0/default.jpg#h=643&w=533",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wyu/batch_wyu_jackson_ver01/data/sn92067236/0051415062A/1921011301/0843.xml&format=alto_xml"
+  ],
+  "index": 9,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "carbon county",
+    "carbon",
+    "united states",
+    "rawlins",
+    "wyoming"
+  ],
+  "location_city": [
+    "rawlins"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "carbon"
+  ],
+  "location_state": [
+    "wyoming"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn92067236",
+    "5",
+    "4",
+    "1",
+    "6",
+    "2",
+    "a",
+    "0000000002"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn92067236"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "4",
+    "1",
+    "5",
+    "0",
+    "6",
+    "2",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Semi-weekly Republican",
+    "Rawlins Republican and Wyoming reporter"
+  ],
+  "page_id": "sn92067236-1921-01-13-ed-1-0843",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "rawlins republican (rawlins, wyo.) 1901-1935"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "rawlins republican (rawlins, wyo.) 1901-1935"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn92067236/1921-01-13/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn92067236/1921-01-13/ed-1/"
+  ],
+  "shelf_id": "02",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "rawlins (wyo.)",
+    "carbon county",
+    "carbon",
+    "united states",
+    "newspapers",
+    "rawlins",
+    "carbon county (wyo.)",
+    "wyoming"
+  ],
+  "timestamp": "2023-06-28T09:09:02.592Z",
+  "title": "Image 2 of Rawlins Republican (Rawlins, Wyo.), January 13, 1921",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn92067236/1921-01-13/ed-1/?sp=2&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwyu%2Fbatch_wyu_jackson_ver01%2Fdata%2Fsn92067236%2F0051415062A%2F1921011301%2F0843.xml&q=reconstruction&relevant_snippet=1"
+}

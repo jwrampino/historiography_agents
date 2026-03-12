@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn92053739/1921-01-14/ed-1/?sp=7"
+  ],
+  "batch": [
+    "iune_heron_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/illinois/",
+    "2/united states/illinois/saint clair/",
+    "3/united states/illinois/saint clair/east saint louis/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1921-01-14",
+  "dates": [
+    "1921-01-14"
+  ],
+  "description": [
+    "J C PENNEY COMPANYA NATIONWIDE INSTITUTION 3 C PENNEY COMPANYA NATIONWIDE INSTITUTION J C PENNEY COMPANYA NATIONWIDE INSTITUTION 7l J C PENNEY COMPANYA NATIONWIDE INSTITUTION J C PENNEY COMPANY A NATIONWIDE INSTITUTION J C PENNEY COMPANYA NATIONWIDE INSTITUTION J C PENNEY COMPANYA NATIONWIDE NNSTITUTION t A Putting Our House in 5 n Order X To Meet New Conditions Hie J C PENNEY CO Operating 312 Department Stores in 27 States will on SATURDAY JANUARY 15th open its doors with Reconstruction Prices prevailingEvery price in our stores is based upon our replacement price REGARDLESS OF PREVIOUS COST i B ELIEVING the time has arrived when revision of prices is warranted by replacement valuehaving discounted our merchandise thousands of dollars in our inventory just com pletedwe therefore give to the public the full benefit of the loss we sustain Remember we have said Our Replacement Price which should prove doubly attractive Buying for 312 stores doing a yearly business of approximately Fifty Million Dollars should be sufficient proof that our replacement price is sub stantially lower than that of our competitors Do not confuse this with the usual mark up and mark down special sale commonly held by other merchants The J"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:22:15.041Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn92053739/1921-01-14/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_heron_ver01:data:sn92053739:00542864801:1921011401:0130/full/pct:6.25/0/default.jpg#h=464&w=316",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_heron_ver01:data:sn92053739:00542864801:1921011401:0130/full/pct:12.5/0/default.jpg#h=929&w=633",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_heron_ver01/data/sn92053739/00542864801/1921011401/0130.xml&format=alto_xml"
+  ],
+  "index": 3,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "illinois",
+    "saint clair",
+    "east saint louis"
+  ],
+  "location_city": [
+    "east saint louis"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "saint clair"
+  ],
+  "location_state": [
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "5",
+    "0000000007",
+    "2",
+    "4",
+    "6",
+    "1",
+    "sn92053739",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn92053739"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "2",
+    "8",
+    "6",
+    "4",
+    "8",
+    "0",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "East Saint Louis daily journal"
+  ],
+  "page_id": "sn92053739-1921-01-14-ed-1-0130",
+  "partof": [
+    "chronicling america",
+    "east st. louis daily journal (east st. louis, ill.) 1918-1932",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "east st. louis daily journal (east st. louis, ill.) 1918-1932"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn92053739/1921-01-14/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn92053739/1921-01-14/ed-1/"
+  ],
+  "shelf_id": "07",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "illinois",
+    "united states",
+    "newspapers",
+    "east saint louis (ill.)",
+    "saint clair",
+    "east saint louis"
+  ],
+  "timestamp": "2025-05-22T09:28:56.646Z",
+  "title": "Image 7 of East St. Louis daily journal (East St. Louis, Ill.), January 14, 1921",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn92053739/1921-01-14/ed-1/?sp=7&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_heron_ver01%2Fdata%2Fsn92053739%2F00542864801%2F1921011401%2F0130.xml&q=reconstruction&relevant_snippet=1"
+}

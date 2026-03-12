@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85042002/1856-04-08/ed-1/?sp=4"
+  ],
+  "batch": [
+    "dlc_alicanto_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1856-04-08",
+  "dates": [
+    "1856-04-08"
+  ],
+  "description": [
+    "AMERICAN ORGAN rOK TUB AJtBSlCXM OMAN On the Death of Rachel the Beloved Daughter of Mr Kobt Cohen Those that hare seen thj look in death Need sever fear to die Waiting uear the close of life See her gentle spirit Anxious for the mortal strife Heaven to inherit Wilt ibou not my sufferings end Let mo die in peaoe Jesus uow an angel send Sign my sweet release Wilt thou not an angel send No for thou art near Through the cheerless rale to attend Hushed be eveVy fear Calm be now my anxious breast Jesus thou wilt guide Through the valley to my rest Where bleat fountains glide Near the ever blessed throne Near the trees immortal Where the pure in heart hare gone Through the golden portal Father dry the bitter tear Mother weep no more Sister quell the rising fear Ive only gone before God shall make my heart rejoice With eternal pieaaures Seraph notes shall tune my voice With angelic measures Prussian Aristocracy The Minister of Police Herr Von Hinkeldey has been killed in a duel outside of Berlin by Iierr Vod Rochow Tho Times narrates as follows the cause of the fatal quarrel It"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:46:23.833Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85042002/1856-04-08/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415661009:1856040801:0409/full/pct:3.125/0/default.jpg#h=281&w=203",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415661009:1856040801:0409/full/pct:6.25/0/default.jpg#h=562&w=406",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415661009:1856040801:0409/full/pct:12.5/0/default.jpg#h=1124&w=813",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_alicanto_ver02/data/sn85042002/00415661009/1856040801/0409.xml&format=alto_xml"
+  ],
+  "index": 81,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn85042002",
+    "0000000004",
+    "9",
+    "6",
+    "5",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85042002"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "6",
+    "1",
+    "0",
+    "0",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "American organ"
+  ],
+  "page_id": "sn85042002-1856-04-08-ed-1-0409",
+  "partof": [
+    "chronicling america",
+    "daily american organ (washington, d.c.) 1854-1856",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "daily american organ (washington, d.c.) 1854-1856"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85042002/1856-04-08/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85042002/1856-04-08/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2022-10-19T22:33:28.050Z",
+  "title": "Image 4 of Daily American organ (Washington, D.C.), April 8, 1856",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85042002/1856-04-08/ed-1/?sp=4&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_alicanto_ver02%2Fdata%2Fsn85042002%2F00415661009%2F1856040801%2F0409.xml&q=medicine&relevant_snippet=1"
+}

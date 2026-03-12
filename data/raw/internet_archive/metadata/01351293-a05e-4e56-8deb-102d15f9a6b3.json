@@ -1,0 +1,15 @@
+{
+  "date": "2021-01-01T00:00:00Z",
+  "description": "Captures by Perma.cc from 2021-12-04 (one WARC file and XML metadata file per webpage)",
+  "format": [
+    "Archive BitTorrent",
+    "Item CDX Index",
+    "Item CDX Meta-Index",
+    "Metadata",
+    "WARC CDX Index",
+    "Web ARChive GZ"
+  ],
+  "identifier": "daily_perma_cc_2021-12-04",
+  "mediatype": "web",
+  "title": "2021-12-04 Perma.cc Captures"
+}

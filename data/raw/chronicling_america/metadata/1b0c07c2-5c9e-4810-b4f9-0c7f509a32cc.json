@@ -1,0 +1,173 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84020097/1926-03-31/ed-1/?sp=3"
+  ],
+  "batch": [
+    "iune_emerald_ver03"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/",
+    "1/united states/illinois/",
+    "2/united states/illinois/cook/",
+    "3/united states/illinois/cook/chicago/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1926-03-31",
+  "dates": [
+    "1926-03-31"
+  ],
+  "description": [
+    "1 t THIS PAGE Is Devoted to the Activity and Interests of the Trade Union Educational League T V E L North American Section of the RED INTERNATIONAL OF LABOR UNIONS R I L U SM i 11 THE T V E L Represents the Left Wing of the Labor Movement Its Purpose Is to Strengthen the Labor Unions by Amalgamation of Existing Unions Organization of the Unorganized and by Replacing Reactionary and Class Collaboration Polloles with a Unified Program for the Transformation of the Unions Into Organs of Revolutionary Class Struggle for he Overthrowal of Capitalism and the Establishment of a Workers and Farm srs Government I STRIKE ASSESSMENT MUST BE PAID IS CALL OF THE PROGRESSIVE MINERS v Statement Issued by the Progressive Miners Committee District No 5 r NUMBER of miners members of the United Mine Workers of America fail to pay the monthly assessment levied by the union for the purpose of giving assistance to the men who are out on strike in several mines against the 1917 scale The Progressive Miners Committee considers it necessary to issue this appeal to all members of the United Mine Workers of America generally and to the progressive miners"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:19:50.448Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84020097/1926-03-31/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_emerald_ver03:data:sn84020097:00332897779:1926033101:0539/full/pct:3.125/0/default.jpg#h=272&w=213",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_emerald_ver03:data:sn84020097:00332897779:1926033101:0539/full/pct:6.25/0/default.jpg#h=544&w=426",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_emerald_ver03:data:sn84020097:00332897779:1926033101:0539/full/pct:12.5/0/default.jpg#h=1088&w=853",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_emerald_ver03/data/sn84020097/00332897779/1926033101/0539.xml&format=alto_xml"
+  ],
+  "index": 154,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "new york",
+    "chicago",
+    "new york city",
+    "illinois",
+    "cook",
+    "united states"
+  ],
+  "location_city": [
+    "new york",
+    "chicago"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york",
+    "cook"
+  ],
+  "location_state": [
+    "new york",
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000003",
+    "9",
+    "2",
+    "8",
+    "3",
+    "sn84020097",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84020097"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "7",
+    "7",
+    "7",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84020097-1926-03-31-ed-1-0539",
+  "partof": [
+    "the daily worker (chicago, ill.;new york, n.y.) 1924-1958",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the daily worker (chicago, ill.;new york, n.y.) 1924-1958"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84020097/1926-03-31/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84020097/1926-03-31/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "new york",
+    "new york (state)",
+    "chicago",
+    "labor unions",
+    "communism",
+    "chicago (ill.)",
+    "illinois",
+    "cook",
+    "labor movement",
+    "united states",
+    "newspapers",
+    "new york (n.y.)"
+  ],
+  "timestamp": "2025-05-22T01:23:51.652Z",
+  "title": "Image 3 of The daily worker (Chicago, Ill.;New York, N.Y.), March 31, 1926, (New York Edition)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84020097/1926-03-31/ed-1/?sp=3&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_emerald_ver03%2Fdata%2Fsn84020097%2F00332897779%2F1926033101%2F0539.xml&q=terrorism&relevant_snippet=1"
+}

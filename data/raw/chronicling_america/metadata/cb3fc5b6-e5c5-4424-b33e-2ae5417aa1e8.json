@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82014085/1936-09-11/ed-1/?sp=5"
+  ],
+  "batch": [
+    "ct_foulois_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/connecticut/",
+    "2/united states/connecticut/new haven/",
+    "3/united states/connecticut/new haven/waterbury/"
+  ],
+  "contributor": [
+    "connecticut state library, hartford, ct"
+  ],
+  "date": "1936-09-11",
+  "dates": [
+    "1936-09-11"
+  ],
+  "description": [
+    "If ankee Division Units to Convene Sunday in Stamfora National Commander 2 Congressmen Among Distinguished Guests parade of World Wars Veterans to Precede Big State Conference Local Unit to Invite Delegates to WaterbaryElsie Janis to Entertain A E P Leaders whose names are promi nently Identified with military so cial political and economic enter prises will be among the honored ALBERT HERMAN Commander guests In Stamrord Sunday when several hundred Yankee Division veterans convene In one of the most Important state meetings In years Buddies now living in New York Massachusetts and New Jersey will make It a point to be present at the session to renew acquaintances and to greet the new national com mander Albert Herman of Norwalk A large delegation representing P C Vlgneulles post which Is the official monicker of the local YD unit will be present Guests of Honor Among the guests of honor will be Congressman Schuyler Merritt of Connecticut and William Connery of Massachusetts Mayor Alfred N Phillips Colonel J Henry Machine Gun Parker one of the most col orful figures In the big war Major Leonard Maloney former national commander Ray Doucette state commander of Massachusetts and an oldtime friendffilsle Janls for"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-06-01T13:38:51.753Z",
+  "group": [
+    "ndnp/ct",
+    "connecticut-state-library-hartford-ct-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82014085/1936-09-11/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_foulois_ver01:data:sn82014085:00393346899:1936091101:0162/full/pct:6.25/0/default.jpg#h=444&w=327",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_foulois_ver01:data:sn82014085:00393346899:1936091101:0162/full/pct:12.5/0/default.jpg#h=889&w=654",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ct/batch_ct_foulois_ver01/data/sn82014085/00393346899/1936091101/0162.xml&format=alto_xml"
+  ],
+  "index": 71,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "waterbury",
+    "connecticut",
+    "united states",
+    "new haven"
+  ],
+  "location_city": [
+    "waterbury"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new haven"
+  ],
+  "location_state": [
+    "connecticut"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "3",
+    "4",
+    "6",
+    "1",
+    "0000000005",
+    "sn82014085",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82014085"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "9",
+    "3",
+    "3",
+    "4",
+    "6",
+    "8",
+    "9",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82014085-1936-09-11-ed-1-0162",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the waterbury democrat (waterbury, conn.) 1917-1946"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the waterbury democrat (waterbury, conn.) 1917-1946"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82014085/1936-09-11/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82014085/1936-09-11/ed-1/"
+  ],
+  "shelf_id": "05",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "waterbury",
+    "connecticut",
+    "newspapers",
+    "new haven",
+    "waterbury (conn.)"
+  ],
+  "timestamp": "2023-06-28T15:27:00.317Z",
+  "title": "Image 5 of The Waterbury Democrat (Waterbury, Conn.), September 11, 1936",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82014085/1936-09-11/ed-1/?sp=5&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fct%2Fbatch_ct_foulois_ver01%2Fdata%2Fsn82014085%2F00393346899%2F1936091101%2F0162.xml&q=terrorism&relevant_snippet=1"
+}

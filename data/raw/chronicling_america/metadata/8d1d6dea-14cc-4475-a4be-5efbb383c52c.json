@@ -1,0 +1,145 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84031492/1880-12-12/ed-1/?sp=9"
+  ],
+  "batch": [
+    "dlc_north_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/illinois/",
+    "2/united states/illinois/cook/",
+    "3/united states/illinois/cook/chicago/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1880-12-12",
+  "dates": [
+    "1880-12-12"
+  ],
+  "description": [
+    "FATHER LOVER SON BROTHER POH THB I Argue thus FATHER A Dressing Robe Perhaps a Suit Or an Overcoat Fine Underwear Warm Cloves Excellent Suspenders Shirts and Collars Warm Muffler All above articles are Novelties and in the greatest variety suitable for ullages and stations in life and adapted to all purses Special prepara H SEND EOB CHART OF FASHIONS PRICE LIST AND MEASUREMENTS CANADA The Changes in the Constitution of the Dominion Parlia ment Canadian navigation of the Columbia Elver and Lake Michigan tz Ferranlt on the Manifest Destiny of the United States Oomnmmnlly One People from Mexico to the North Pole Athatftbe Pstifk Railway Syndicate the 111 Jisorbing Topic THE DOMINION PARLIAMENT Special Dimlcb to The Chicago Tribune Ottawa Dec 11 The changes in the constitution of Parliament since the open ing day of last session have been numerous la the Senate Mr George Brown isnolhore Mr North wood of Chatham has been nom inated his successor In the House of Com mons Ur Angers has been appointed Judge at Montmaguy Mr Baby Judge at Three Rivers Mr J B Bobinson LieutenantGovernor of Ontario Death has claimed Mr Holton of Chateau s Mr Chandler of Brome and Mr"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:38:49.783Z",
+  "group": [
+    "sgpchicagotribune/dlc",
+    "chicago-tribune"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84031492/1880-12-12/ed-1/?sp=9",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880121201:0009/full/pct:6.25/0/default.jpg#h=413&w=301",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880121201:0009/full/pct:12.5/0/default.jpg#h=827&w=603",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_north_ver02/data/sn84031492/no_reel/1880121201/0009.xml&format=alto_xml"
+  ],
+  "index": 128,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "chicago",
+    "illinois",
+    "cook",
+    "united states",
+    "cook county"
+  ],
+  "location_city": [
+    "chicago"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cook"
+  ],
+  "location_state": [
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn84031492",
+    "1",
+    "0000000009"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84031492"
+  ],
+  "number_page": [
+    "0000000009"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Chicago tribune",
+    "Chicago Sunday tribune"
+  ],
+  "page_id": "sn84031492-1880-12-12-ed-1-0009",
+  "partof": [
+    "chronicling america",
+    "chicago daily tribune (chicago, ill.) 1872-1963",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "chicago daily tribune (chicago, ill.) 1872-1963"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84031492/1880-12-12/ed-1/?sp=9"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84031492/1880-12-12/ed-1/"
+  ],
+  "shelf_id": "09",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "cook county",
+    "chicago",
+    "chicago (ill.)",
+    "illinois",
+    "cook",
+    "united states",
+    "newspapers",
+    "cook county (ill.)"
+  ],
+  "timestamp": "2022-11-28T06:50:42.544Z",
+  "title": "Image 9 of Chicago daily tribune (Chicago, Ill.), December 12, 1880",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84031492/1880-12-12/ed-1/?sp=9&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_north_ver02%2Fdata%2Fsn84031492%2Fno_reel%2F1880121201%2F0009.xml&q=manifest+destiny&relevant_snippet=1"
+}

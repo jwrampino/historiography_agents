@@ -1,0 +1,171 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82015425/1963-07-03/ed-1/?sp=2"
+  ],
+  "batch": [
+    "gu_harpy_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/georgia/",
+    "2/united states/georgia/fulton/",
+    "3/united states/georgia/fulton/atlanta/"
+  ],
+  "contributor": [
+    "digital library of georgia, a project of galileo located at the university of georgia libraries"
+  ],
+  "date": "1963-07-03",
+  "dates": [
+    "1963-07-03"
+  ],
+  "description": [
+    "2 ATLANTA DAILY WORLD Wednosdoy July 3 1943 H v Wk I i i p ft W wk B II F ift n dl w ft IHr 4 E IByhrii 1 NEW FARMERS OF AMERICA SUPERIOR FARM ERSJohn Tauriac 20 year old farmer and Jos eph Lopez 22 both of New Iberia Louisiana are shown with their Vocational Agriculture Teacher Louie Hadnott center The two Louisi ELEANOR A WARNING IN MISSISSIPPI Republished by Langston Hughes in 1956 In His Book I Wonder As I Wander 41 Southern University on the Mississippi near Baton Rouge with its charming old campus beneath the live oaks and hanging masts was our next stop Then into the state of Mississippi to Jackson Piney Woods Holly Springs and Meridian At Meridian a kindly old white gentleman iin the audience came up and said genlly I just want to warn you that you shouldnt be reading thoje raceequality poems in Meridian and youd better be care ful Jelling your books There are folks in this state who wouldnt likewhot you say I knew that tl re were towns in Mississippi where Ntvro newspapers from the North were not allowed to be sold openly Vendors had to"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-04-13T06:41:36.829Z",
+  "group": [
+    "ndnp/gu",
+    "digital-library-of-georgia-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82015425/1963-07-03/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_harpy_ver01:data:sn82015425:00529041123:1963070301:0010/full/pct:3.125/0/default.jpg#h=284&w=222",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_harpy_ver01:data:sn82015425:00529041123:1963070301:0010/full/pct:6.25/0/default.jpg#h=568&w=445",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_harpy_ver01:data:sn82015425:00529041123:1963070301:0010/full/pct:12.5/0/default.jpg#h=1136&w=890",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/gu/batch_gu_harpy_ver01/data/sn82015425/00529041123/1963070301/0010.xml&format=alto_xml"
+  ],
+  "index": 184,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "fulton county",
+    "fulton",
+    "united states",
+    "georgia",
+    "atlanta"
+  ],
+  "location_city": [
+    "atlanta"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "fulton"
+  ],
+  "location_state": [
+    "georgia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "3",
+    "5",
+    "2",
+    "4",
+    "1",
+    "sn82015425",
+    "0000000002"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82015425"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "2",
+    "9",
+    "0",
+    "4",
+    "1",
+    "1",
+    "2",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Published occasionally in 1934-1945 as: Atlanta world"
+  ],
+  "page_id": "sn82015425-1963-07-03-ed-1-0010",
+  "partof": [
+    "chronicling america",
+    "atlanta daily world (atlanta, georgia) 1932-current",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "atlanta daily world (atlanta, georgia) 1932-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82015425/1963-07-03/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82015425/1963-07-03/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "fulton county",
+    "atlanta (ga.)",
+    "fulton",
+    "united states",
+    "georgia",
+    "newspapers",
+    "african americans",
+    "african american",
+    "african american newspapers",
+    "fulton county (ga.)",
+    "atlanta"
+  ],
+  "subject_ethnicity": [
+    "african american"
+  ],
+  "timestamp": "2025-04-13T07:30:31.620Z",
+  "title": "Image 2 of Atlanta daily world (Atlanta, Georgia), July 3, 1963, (City Edition)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82015425/1963-07-03/ed-1/?sp=2&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fgu%2Fbatch_gu_harpy_ver01%2Fdata%2Fsn82015425%2F00529041123%2F1963070301%2F0010.xml&q=computers&relevant_snippet=1"
+}

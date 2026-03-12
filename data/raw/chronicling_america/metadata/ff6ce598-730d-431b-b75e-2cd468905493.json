@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84025841/1902-06-21/ed-1/?sp=1"
+  ],
+  "batch": [
+    "vi_creed_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/virginia/",
+    "3/united states/virginia/richmond/"
+  ],
+  "contributor": [
+    "library of virginia; richmond, va"
+  ],
+  "date": "1902-06-21",
+  "dates": [
+    "1902-06-21"
+  ],
+  "description": [
+    "VOL XIX NO 28 RICHMOND VIRGINIA SATURDAY JUNK 2110O2 m TTrram i RCHMOMnlbWUrttIOEFlVB 5 CENTS President Senda Message to Con grass Asking Aid For Cuba QUOTE PRE81DENT McKINLEY Colonel Roosevelt Say That It 1 the Moral Duty of This Country to Grant Cuba Reciprocal Relationa and Low ering Duties Wont Hurt Protection Washington June 14President Roosevelt sent a spadai message to congress yesterday afternoon reiterat ing his former recommendation for the passage of a law creating reciprocity with Cuba and presenting additional argumenta thereon The text of the message la as follows To the senate and house of represen tativesElsewhere I have discussed the question of reciprocity In the case of Cuba however there are weighty reasons of morality and of na tional Interest why the policy should be held to have a peculiar application and I most earnestly ask your attention to the wisdom indeed to the vital need of providing for a substantial reduction in the tariff duties on Cuban imports into the United States Cuba has in ber constitution affirmed what we de slred that she should stand in interna tional matters In closer and more friendly relations with us than with any other powers and we"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-02-09T12:50:25.913Z",
+  "group": [
+    "ndnp/vi",
+    "library-of-virginia-richmond-va-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84025841/1902-06-21/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_creed_ver01:data:sn84025841:00175047141:1902062101:0495/full/pct:3.125/0/default.jpg#h=275&w=225",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_creed_ver01:data:sn84025841:00175047141:1902062101:0495/full/pct:6.25/0/default.jpg#h=550&w=450",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_creed_ver01:data:sn84025841:00175047141:1902062101:0495/full/pct:12.5/0/default.jpg#h=1101&w=900",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/vi/batch_vi_creed_ver01/data/sn84025841/00175047141/1902062101/0495.xml&format=alto_xml"
+  ],
+  "index": 65,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "virginia",
+    "united states",
+    "richmond"
+  ],
+  "location_city": [
+    "richmond"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "virginia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn84025841",
+    "1",
+    "5",
+    "7",
+    "4",
+    "0",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84025841"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "1",
+    "7",
+    "5",
+    "0",
+    "4",
+    "7",
+    "1",
+    "4",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Planet"
+  ],
+  "page_id": "sn84025841-1902-06-21-ed-1-0495",
+  "partof": [
+    "richmond planet (richmond, va.) 1883-1938",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "richmond planet (richmond, va.) 1883-1938"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84025841/1902-06-21/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84025841/1902-06-21/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "african american newspapers",
+    "african american",
+    "virginia",
+    "newspapers",
+    "richmond (va.)",
+    "african americans",
+    "richmond"
+  ],
+  "subject_ethnicity": [
+    "african american"
+  ],
+  "timestamp": "2025-02-09T15:58:48.544Z",
+  "title": "Image 1 of Richmond planet (Richmond, Va.), June 21, 1902",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84025841/1902-06-21/ed-1/?sp=1&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fvi%2Fbatch_vi_creed_ver01%2Fdata%2Fsn84025841%2F00175047141%2F1902062101%2F0495.xml&q=cuba&relevant_snippet=1"
+}

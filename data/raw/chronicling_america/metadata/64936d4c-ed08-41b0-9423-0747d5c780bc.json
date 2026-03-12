@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84026749/1923-06-16/ed-1/?sp=17"
+  ],
+  "batch": [
+    "dlc_melville_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1923-06-16",
+  "dates": [
+    "1923-06-16"
+  ],
+  "description": [
+    "ADVANCING WASHING TONS INTERESTS STOCKS DISPLAY LISTLESS TONE Extreme Dullness Prevails in Trading With Exception of Railroad Shares By W S COUSINS Copyright 1923 by Cosmopolitan News f Service NEWYORK June 16Extreme prevailed in the stock market Bullish demonstrations in the rails such as featured last Saturdays session were entirely lacking and little Interest was dis played in either the industrial or the motor stocks The failure of Knauth Nachod and Kuhne one of the most active houses in the field of oil securi ties fras regarded as one explana tion for the steady liquidation of oil stocks which has been in progress in recent weeks The clearing of this mystery is also expected to signalize the completion i nf the distress selling which has hanging over the market and slightly better prices prevailed after the publication of the news Railroad stocks continued to dis play a confident tone if the ability to maintain prices at the previous closing level may be so inter preted The volume of transactions was very small however and inter est was confined to only three or four of the active zones Atchison sold up above 104 Southern Rail way was active around 37 and"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-07T20:33:01.661Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84026749/1923-06-16/ed-1/?sp=17",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_melville_ver02:data:sn84026749:00222254000:1923061601:0253/full/pct:3.125/0/default.jpg#h=279&w=233",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_melville_ver02:data:sn84026749:00222254000:1923061601:0253/full/pct:6.25/0/default.jpg#h=558&w=467",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_melville_ver02:data:sn84026749:00222254000:1923061601:0253/full/pct:12.5/0/default.jpg#h=1117&w=934",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_melville_ver02/data/sn84026749/00222254000/1923061601/0253.xml&format=alto_xml"
+  ],
+  "index": 86,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn84026749",
+    "2",
+    "5",
+    "4",
+    "1",
+    "0000000017"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84026749"
+  ],
+  "number_page": [
+    "0000000017"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "2",
+    "2",
+    "2",
+    "5",
+    "4",
+    "0",
+    "0",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Washington times herald"
+  ],
+  "page_id": "sn84026749-1923-06-16-ed-1-0253",
+  "partof": [
+    "chronicling america",
+    "the washington times (washington [d.c.]) 1902-1939",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington times (washington [d.c.]) 1902-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84026749/1923-06-16/ed-1/?sp=17"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84026749/1923-06-16/ed-1/"
+  ],
+  "shelf_id": "17",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-08-08T13:18:44.315Z",
+  "title": "Image 17 of The Washington times (Washington [D.C.]), June 16, 1923",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84026749/1923-06-16/ed-1/?sp=17&q=oil",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_melville_ver02%2Fdata%2Fsn84026749%2F00222254000%2F1923061601%2F0253.xml&q=oil&relevant_snippet=1"
+}

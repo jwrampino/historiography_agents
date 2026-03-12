@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85033781/1898-03-30/ed-1/?sp=2"
+  ],
+  "batch": [
+    "mimtptc_gaylord_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/michigan/",
+    "2/united states/michigan/van buren/",
+    "3/united states/michigan/van buren/paw paw/"
+  ],
+  "contributor": [
+    "central michigan university, clark historical library"
+  ],
+  "date": "1898-03-30",
+  "dates": [
+    "1898-03-30"
+  ],
+  "description": [
+    "5 PEARL OF THE ANTILLES THE STORY OF CUBA HER PEOPLE AND HER RESOURCES rCopyrlpht IMS by the Author Cuba It is a name that now is fa miliar to every household in all the civilized earth The suffering of its people the dying groans of its tortured patriots have formed the minor key of sorrow in the worlds grand song of progress And yet in spite of the fact that it has long held the interest and aympathy of fair minded people no land is mo little known and so greatly underestimated The traveler who glimpses for the first time her marvel ous shores is overcome with astonish ment at the panorama of immense pos sibility that lies shimmering before him for even now her richest vest ments shredded her body bleeding un der the violent hands of an unnatural parent Cuba remains the indestructible Pearl of the Antilles with such wealth in her soil and under it as no earthly power can take away As everybody knows the develop meutof Cuba had been from its earliest occupancy retarded and at times prac tically stopped by the rule of Spain Soon after the foot of Columbus touched her virgin"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-16T21:40:08.343Z",
+  "group": [
+    "ndnp/mimtptc",
+    "central-michigan-university-clark-historical-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85033781/1898-03-30/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023826:1898033001:0058/full/pct:3.125/0/default.jpg#h=328&w=231",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023826:1898033001:0058/full/pct:6.25/0/default.jpg#h=657&w=462",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mimtptc/batch_mimtptc_gaylord_ver02/data/sn85033781/00296023826/1898033001/0058.xml&format=alto_xml"
+  ],
+  "index": 34,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "van buren county",
+    "paw paw",
+    "van buren",
+    "michigan"
+  ],
+  "location_city": [
+    "paw paw"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "van buren"
+  ],
+  "location_state": [
+    "michigan"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "sn85033781",
+    "8",
+    "9",
+    "6",
+    "3",
+    "0000000002",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85033781"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "6",
+    "0",
+    "2",
+    "3",
+    "8",
+    "2",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85033781-1898-03-30-ed-1-0058",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the true northerner (paw paw, mich.) 1855-1920"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the true northerner (paw paw, mich.) 1855-1920"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85033781/1898-03-30/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85033781/1898-03-30/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "van buren county",
+    "paw paw",
+    "paw paw (mich.)",
+    "van buren",
+    "newspapers",
+    "michigan",
+    "van buren county (mich.)"
+  ],
+  "timestamp": "2024-01-17T09:41:41.702Z",
+  "title": "Image 2 of The true northerner (Paw Paw, Mich.), March 30, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85033781/1898-03-30/ed-1/?sp=2&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmimtptc%2Fbatch_mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023826%2F1898033001%2F0058.xml&q=cuba&relevant_snippet=1"
+}

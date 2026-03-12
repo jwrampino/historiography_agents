@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87065462/1905-06-21/ed-1/?sp=7"
+  ],
+  "batch": [
+    "msar_icydrop_ver05"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/mississippi/",
+    "2/united states/mississippi/chickasaw/",
+    "3/united states/mississippi/chickasaw/okolona/"
+  ],
+  "contributor": [
+    "mississippi department of archives and history"
+  ],
+  "date": "1905-06-21",
+  "dates": [
+    "1905-06-21"
+  ],
+  "description": [
+    "ii Miction or n tiss l mi vm nrtCML i I i V 7 J 7 WHERE ii pTTHE first question asked by any man looking at a new section of country or a section with which he is little acquainted but inclined to investigate is will his money if he should invest it be buried or will it come back to him with interest at any time he may desire to dis pose of that which he possesses himself In other words one who is persuaded that he wishes to locate in any particular locality likes to know that if from any cause he should become dissatis fied and desire to dispose of his property there and go elsewhere would he be compelled to offer his holdings at a sacrifice in order to getaway This is net a selfish position to assume but rather a sensible one Any one is likely to find some reason fordesiring a change even from a section where he feels everything is most enticing The question then is can he make a change without loss if such a de sire should happen to seize him Today new men are locating all over the South"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:43:37.883Z",
+  "group": [
+    "ndnp/msar",
+    "mississippi-department-of-archives-and-history"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87065462/1905-06-21/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn87065462:00415662282:1905062101:1193/full/pct:6.25/0/default.jpg#h=459&w=305",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn87065462:00415662282:1905062101:1193/full/pct:12.5/0/default.jpg#h=919&w=611",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/msar/batch_msar_icydrop_ver05/data/sn87065462/00415662282/1905062101/1193.xml&format=alto_xml"
+  ],
+  "index": 81,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "okolona",
+    "chickasaw",
+    "united states",
+    "mississippi",
+    "chickasaw county"
+  ],
+  "location_city": [
+    "okolona"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "chickasaw"
+  ],
+  "location_state": [
+    "mississippi"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "5",
+    "0000000007",
+    "4",
+    "1",
+    "6",
+    "2",
+    "sn87065462",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87065462"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "6",
+    "2",
+    "2",
+    "8",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87065462-1905-06-21-ed-1-1193",
+  "partof": [
+    "okolona messenger (okolona, miss.) 1900-current",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "okolona messenger (okolona, miss.) 1900-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87065462/1905-06-21/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87065462/1905-06-21/ed-1/"
+  ],
+  "shelf_id": "7",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "okolona",
+    "chickasaw county (miss.)",
+    "united states",
+    "chickasaw",
+    "newspapers",
+    "mississippi",
+    "okolona (miss.)",
+    "chickasaw county"
+  ],
+  "timestamp": "2023-07-06T01:41:44.045Z",
+  "title": "Image 7 of Okolona messenger (Okolona, Miss.), June 21, 1905",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87065462/1905-06-21/ed-1/?sp=7&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmsar%2Fbatch_msar_icydrop_ver05%2Fdata%2Fsn87065462%2F00415662282%2F1905062101%2F1193.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84026089/1910-09-23/ed-1/?sp=6"
+  ],
+  "batch": [
+    "njr_asburypark_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new jersey/",
+    "2/united states/new jersey/hunterdon/",
+    "3/united states/new jersey/hunterdon/lambertville/"
+  ],
+  "contributor": [
+    "rutgers university libraries"
+  ],
+  "date": "1910-09-23",
+  "dates": [
+    "1910-09-23"
+  ],
+  "description": [
+    "WeylerBooKJ Justifies Our Irten venfion in Oubbj ITH an unpardonable lack of tact or a grew some attempt at u sinister piece of hu mor Gen Valeriana Weyler the former Spanish captain gen eral of Cuba who gained for himself the unenviable title of butcher has al lowed the publishers to print the title of H which he attempts to defend his onduct while the representative of he Spanish crown on that island MI MANDO EN CUBA My Command in Cuba In letters of gory scarlet on a pa per of livid gray Whatever the motive may have seen that prompted such a choice that bloody eye catcher of a line atly symbolizes the man and the work which caused so many years af discontent in Cuba Weyler has Deen on trial before public opinion for butchering his WbYLEQ enemies instead or fighting them and he flaunts in our faces the ugly stains that show where he wiped off his knife Captain General of the most fertile province of Spain and a province which more thaii nnce manifested her Intention to throw aff the Bourbon yoke he makes such n case against the country that buys his services as no"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:38:53.530Z",
+  "group": [
+    "ndnp/njr",
+    "rutgers-university-libraries-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84026089/1910-09-23/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155938:1910092301:0899/full/pct:6.25/0/default.jpg#h=439&w=301",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155938:1910092301:0899/full/pct:12.5/0/default.jpg#h=878&w=603",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/njr/batch_njr_asburypark_ver01/data/sn84026089/00514155938/1910092301/0899.xml&format=alto_xml"
+  ],
+  "index": 163,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "lambertville",
+    "new jersey",
+    "hunterdon"
+  ],
+  "location_city": [
+    "lambertville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hunterdon"
+  ],
+  "location_state": [
+    "new jersey"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "sn84026089",
+    "8",
+    "5",
+    "3",
+    "4",
+    "1",
+    "0000000006"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84026089"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "4",
+    "1",
+    "5",
+    "5",
+    "9",
+    "3",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84026089-1910-09-23-ed-1-0899",
+  "partof": [
+    "the lambertville record (lambertville, n.j.) 1872-1968",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the lambertville record (lambertville, n.j.) 1872-1968"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84026089/1910-09-23/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84026089/1910-09-23/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "lambertville (n.j.)",
+    "hunterdon",
+    "lambertville",
+    "united states",
+    "newspapers",
+    "new jersey"
+  ],
+  "timestamp": "2025-12-01T14:27:57.760Z",
+  "title": "Image 6 of The Lambertville record (Lambertville, N.J.), September 23, 1910",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84026089/1910-09-23/ed-1/?sp=6&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnjr%2Fbatch_njr_asburypark_ver01%2Fdata%2Fsn84026089%2F00514155938%2F1910092301%2F0899.xml&q=cuba&relevant_snippet=1"
+}

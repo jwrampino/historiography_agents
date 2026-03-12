@@ -1,0 +1,153 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86053569/1840-02-01/ed-1/?sp=1"
+  ],
+  "batch": [
+    "dlc_firedrake_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1840-02-01",
+  "dates": [
+    "1840-02-01"
+  ],
+  "description": [
+    "VOL 111 jiii im iub WASHINGTON CITY SATURDAY No 25 Pr Intel by J C DUNN for the N A Association PUBLISHED EVERY SATURDAY TKRMSSubscriptions foi one year 2 50 in advance I or 3 00 if paid at the end of three months For six months 1 50 in advance Advertisements inserted ut the usual rates All letters relating to the pecuniary interests of the Pa per to be addressed postage paid to the Publisher JAMES C DUNN All letters relative to the Editorial department to be di directed postage paid to the Editor ofihe Native American Those subscribers lor a year who do not give iiotice of their wish to have the paper discontinued at ti e end of their year will be presumed as desiring its continuance until countermanded and it will accordingly be contin ued at the option of the publisher UNITED STATES INFIRMARY Corner of 9th and E streets adjoining the Methodist Pro testant Church Rev Mr Websters opoHte the Rev O B Brown residence about eighty yards ftorn the mw General Post Office Washington City DR BENJAMIN THOMSON the Founder of the Thomtonian Botanic Infirmaries in Boston Massa chusetts and Concord N Hand more"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:09:10.826Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86053569/1840-02-01/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1840020101:0537/full/pct:3.125/0/default.jpg#h=266&w=190",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1840020101:0537/full/pct:6.25/0/default.jpg#h=533&w=380",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1840020101:0537/full/pct:12.5/0/default.jpg#h=1066&w=760",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_firedrake_ver01/data/sn86053569/00415661502/1840020101/0537.xml&format=alto_xml"
+  ],
+  "index": 109,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn86053569",
+    "1",
+    "5",
+    "6",
+    "4",
+    "2",
+    "0",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86053569"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "6",
+    "1",
+    "5",
+    "0",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86053569-1840-02-01-ed-1-0537",
+  "partof": [
+    "the native american (washington city [i.e. washington, d.c.]) 1837-1840",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the native american (washington city [i.e. washington, d.c.]) 1837-1840"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86053569/1840-02-01/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86053569/1840-02-01/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-20T13:11:06.037Z",
+  "title": "Image 1 of The native American (Washington City [i.e. Washington, D.C.]), February 1, 1840",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86053569/1840-02-01/ed-1/?sp=1&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_firedrake_ver01%2Fdata%2Fsn86053569%2F00415661502%2F1840020101%2F0537.xml&q=medicine&relevant_snippet=1"
+}

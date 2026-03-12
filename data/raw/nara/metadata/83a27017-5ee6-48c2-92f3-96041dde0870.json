@@ -1,0 +1,164 @@
+{
+  "beginCongress": 68,
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "Delaware Certification of the Child Labor Amendment",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "Room 8E, 7th and Pennsylvania Avenue NW",
+          "city": "Washington",
+          "phone": "202-357-5350",
+          "address1": "National Archives Building",
+          "postalCode": "20408",
+          "name": "Center for Legislative Archives",
+          "state": "DC",
+          "fax": "202-357-5911",
+          "email": "legislative.archives@nara.gov",
+          "mailCode": "LL"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper",
+          "containerId": "246"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "endCongress": 68,
+  "dataControlGroup": {
+    "groupName": "Center for Legislative Archives",
+    "groupId": "RPL",
+    "groupCd": "RPL"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "localIdentifier": "Sen 68A-J34",
+  "variantControlNumbers": [
+    {
+      "number": "NWL-18703",
+      "type": "HMS/MLR Entry Number"
+    },
+    {
+      "note": "This is the NARA internal exhibit tracking number.",
+      "number": "28103",
+      "type": "Other Identifier"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "28103-2015-001-ac.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/rediscovery/28001-28500/28103-2015-001-ac.jpg",
+      "objectFileSize": 16427790,
+      "objectDesignator": "1",
+      "objectId": "23944332",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "28103-2015-002-ac.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/rediscovery/28001-28500/28103-2015-002-ac.jpg",
+      "objectFileSize": 12709016,
+      "objectDesignator": "2",
+      "objectId": "23944333",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "28103-2015-003-ac.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/rediscovery/28001-28500/28103-2015-003-ac.jpg",
+      "objectFileSize": 11710668,
+      "objectDesignator": "3",
+      "objectId": "23944334",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "28103-2015-004-ac.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/rediscovery/28001-28500/28103-2015-004-ac.jpg",
+      "objectFileSize": 12123097,
+      "objectDesignator": "4",
+      "objectId": "23944335",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "28103-2015-005-ac.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/rediscovery/28001-28500/28103-2015-005-ac.jpg",
+      "objectFileSize": 12854949,
+      "objectDesignator": "5",
+      "objectId": "23944336",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "28103-2015-006-ac.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/rediscovery/28001-28500/28103-2015-006-ac.jpg",
+      "objectFileSize": 12808054,
+      "objectDesignator": "6",
+      "objectId": "23944337",
+      "objectType": "Image (JPG)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1789,
+        "logicalDate": "1789-01-01"
+      },
+      "distance": 3,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 46,
+      "inclusiveEndDate": {
+        "year": 2023,
+        "logicalDate": "2023-12-31"
+      },
+      "title": "Records of the U.S. Senate",
+      "naId": 375
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1816,
+        "logicalDate": "1816-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "U.S. Senate. Committee on the Judiciary. (12/10/1816 - )",
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 12,
+            "year": 1816,
+            "day": 10,
+            "logicalDate": "1816-12-10"
+          },
+          "naId": 10458558
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 2024,
+        "logicalDate": "2024-12-31"
+      },
+      "title": "Committee Papers of the Committee on the Judiciary",
+      "naId": 559828
+    },
+    {
+      "distance": 1,
+      "levelOfDescription": "fileUnit",
+      "title": "Petitions and Memorials, Resolutions of State Legislatures, and Related Documents, which were Referred to the Committee on the Judiciary from the 68th Congress",
+      "naId": 18538142
+    }
+  ],
+  "naId": 23914182
+}

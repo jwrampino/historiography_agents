@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87057096/1900-06-28/ed-1/?sp=1"
+  ],
+  "batch": [
+    "iahi_gallup_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/iowa/",
+    "2/united states/iowa/decatur/",
+    "3/united states/iowa/decatur/leon/"
+  ],
+  "contributor": [
+    "state historical society of iowa"
+  ],
+  "date": "1900-06-28",
+  "dates": [
+    "1900-06-28"
+  ],
+  "description": [
+    "Hi 9 IP ESTABLISHED 1854 THE LEON REPORTER O E IIULL Publisher I EON Vt IOWA Snbacriptioa Rates N One year flBO glx months 75 Three month 40 Aieredaiecond clatl matter at the LeonTown Postofflce A Negro Presidential ticket will be s nominated and placed in the field this ar v A coieful survey of the Philadelphia convention revealed the fact that Rath bone and Neeley were present only in Spirit The Kansas City convention ought to be supplied with ice furnished by the democratic ice trust of New York City Leon Journal Wonder if the Philadelphia conven tion ate Algers embalmed beef n8Sr gp Six republican members of ine Ohio delegation in the house have have been defeated for nomination and two others are making a doubtful tight That does nt indicate the presence of pease and hqminy among the Ohio repulbicans The rapidly accumulating array of scandals in many different departments of the government is causing consider able uneasiness to those engaged in pre paring the way for President McKinleys reelection Not since the worst day of Grants administration has there been uch a general carnival of corruption as is bring shown to have flourished since the beginning"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-05-16T11:55:23.051Z",
+  "group": [
+    "ndnp/iahi",
+    "state-historical-society-of-iowa-state-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87057096/1900-06-28/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gallup_ver01:data:sn87057096:00415622971:1900062801:0350/full/pct:3.125/0/default.jpg#h=290&w=221",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gallup_ver01:data:sn87057096:00415622971:1900062801:0350/full/pct:6.25/0/default.jpg#h=580&w=442",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gallup_ver01:data:sn87057096:00415622971:1900062801:0350/full/pct:12.5/0/default.jpg#h=1161&w=885",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iahi/batch_iahi_gallup_ver01/data/sn87057096/00415622971/1900062801/0350.xml&format=alto_xml"
+  ],
+  "index": 136,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "iowa",
+    "united states",
+    "leon",
+    "decatur"
+  ],
+  "location_city": [
+    "leon"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "decatur"
+  ],
+  "location_state": [
+    "iowa"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "0000000001",
+    "2",
+    "6",
+    "5",
+    "4",
+    "sn87057096",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87057096"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "2",
+    "2",
+    "9",
+    "7",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87057096-1900-06-28-ed-1-0350",
+  "partof": [
+    "the leon reporter (leon, iowa) 1887-1930",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the leon reporter (leon, iowa) 1887-1930"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87057096/1900-06-28/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87057096/1900-06-28/ed-1/"
+  ],
+  "shelf_id": "01",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "leon (iowa)",
+    "decatur",
+    "leon",
+    "iowa",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-07-04T01:07:06.087Z",
+  "title": "Image 1 of The Leon reporter (Leon, Iowa), June 28, 1900",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87057096/1900-06-28/ed-1/?sp=1&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiahi%2Fbatch_iahi_gallup_ver01%2Fdata%2Fsn87057096%2F00415622971%2F1900062801%2F0350.xml&q=manifest+destiny&relevant_snippet=1"
+}

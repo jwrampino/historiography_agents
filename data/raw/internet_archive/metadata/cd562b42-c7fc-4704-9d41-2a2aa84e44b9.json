@@ -1,0 +1,30 @@
+{
+  "creator": "ICE",
+  "description": "A mirror of the documents (currently missing) from the \"proactive disclosure\" page of ICE's FOIA site: https://www.ice.gov/foia/proactive",
+  "format": [
+    "Abbyy GZ",
+    "Additional Text PDF",
+    "Archive BitTorrent",
+    "DjVuTXT",
+    "Djvu XML",
+    "Excel",
+    "Image Container PDF",
+    "Item Tile",
+    "Metadata",
+    "Scandata",
+    "Single Page Processed JP2 ZIP",
+    "Text PDF"
+  ],
+  "identifier": "ICE-FOIA-proactive-disclosures",
+  "language": "English",
+  "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "mediatype": "texts",
+  "subject": [
+    "ICE",
+    "Immigration and Customs Enforcement",
+    "DHS",
+    "Department of Homeland Security",
+    "FOIA"
+  ],
+  "title": "ICE FOIA proactive disclosures"
+}

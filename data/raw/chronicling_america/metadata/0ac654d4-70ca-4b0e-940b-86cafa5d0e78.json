@@ -1,0 +1,136 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2004540423/1917-10-22/ed-1/?sp=75"
+  ],
+  "batch": [
+    "dlc_1genovia_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1917-10-22",
+  "dates": [
+    "1917-10-22"
+  ],
+  "description": [
+    "HERMAN BERNSTEIN WRITES OF THE PLOTS OF NICHOLAS LENIN How Lenin Brought Russia Almost to Verge of Ruin CONTINUED FROM PAGE NINE thusiastic followers immediately His counsel pleased the mob His doctrines proved extremely popular with the half intelligent the dissatisfied the hungry the needy the cowardly and the slaves who failed to appreciate their new free dom In simpler form the Lenin message was practically as follows You have no food Take it wherever you can get it Take it by force You have no money There are the hanks which belong to the capitalists Help yourselves You are the masters how You have no land All Russia belongs to you The land is ours Take it End the war at once Establish the dictatorship of the proletariat It is quite easy to understand how under such circumstances the Lenin influence and popularity grew with fabulous rapid ity He became the most formidable power against the provisional government The apostle of anarchy and lawlessness found multitudes of adherents among the ignorant dissatisfied masses ready to j plunder to attack the provisional govern i ment to murder the capitalists and the Ministers whom they accused of being the hirelings of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-19T00:31:09.109Z",
+  "group": [
+    "sgpww1newspaperclippings/dlc",
+    "wwi-newspaper-clippings"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2004540423/1917-10-22/ed-1/?sp=75",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_1genovia_ver01:data:2004540423:print00192512414:1917102201:0075/full/pct:6.25/0/default.jpg#h=457&w=339",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_1genovia_ver01:data:2004540423:print00192512414:1917102201:0075/full/pct:12.5/0/default.jpg#h=914&w=679",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/sgp/sgpbatches/batch_dlc_1genovia_ver01/data/2004540423/print00192512414/1917102201/0075.xml&format=alto_xml"
+  ],
+  "index": 143,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "new york",
+    "germany",
+    "united states"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "2004540423",
+    "0000000075",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2004540423"
+  ],
+  "number_page": [
+    "0000000075"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2004540423-1917-10-22-ed-1-0075",
+  "partof": [
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-",
+    "serial and government publications division",
+    "world war history: newspaper clippings, 1914-1926"
+  ],
+  "partof_collection": [
+    "world war history: newspaper clippings, 1914-1926"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2004540423/1917-10-22/ed-1/?sp=75"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2004540423/1917-10-22/ed-1/"
+  ],
+  "shelf_id": "075",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "armistices",
+    "history",
+    "allied occupation",
+    "germany",
+    "sources",
+    "new york",
+    "world war",
+    "united states"
+  ],
+  "timestamp": "2022-11-09T15:35:54.363Z",
+  "title": "Image 75 of World War history : daily records and comments as appeared in American and foreign newspapers, 1914-1926 (New York), October 22, 1917, (1917 October 22-27)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2004540423/1917-10-22/ed-1/?sp=75&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fsgp%2Fsgpbatches%2Fbatch_dlc_1genovia_ver01%2Fdata%2F2004540423%2Fprint00192512414%2F1917102201%2F0075.xml&q=revolution&relevant_snippet=1"
+}

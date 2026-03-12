@@ -1,0 +1,151 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82016181/1940-05-27/ed-1/?sp=6"
+  ],
+  "batch": [
+    "dlc_jacobi_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1940-05-27",
+  "dates": [
+    "1940-05-27"
+  ],
+  "description": [
+    "Page 6 Norris to Fight Shift of Immigration Bureau President Roosevelts reorganization plan No 5 transferring the Immigration and Naturalization Bureau from the Labor to the Justice Department is expected to be ap proved this week but with misgivings on t he part of some members of Congress They regard the step with apprehen sion because of the suspicion that the Federal Bureau of Investigation under J Edgar Hoover may assume influence over the Immigration Bureau They fear that the FBI in a period of war hysteria might direct its ac tivities into some thing approaching the notorious red raids and whole sale deportations of the postWorld War period when Mr Hoover was in charge of counter radical activities Sen Norris Ind Neb who recent ly has criticized Mr Stokes the FBI on the Senate floor particularly for methods used in the Spanish Loyalist arrests in Detroit is going to raise his voice from the floor against the bureau transfer I dont believe the Justice Depart ment is as well equipped to administer naturalization and deportation as the Department of Labor the Senator said today From that standpoint I dont see why the bureau should be transferred In the next"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-06-01T02:34:47.993Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82016181/1940-05-27/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jacobi_ver01:data:sn82016181:00516999767:1940052701:0938/full/pct:6.25/0/default.jpg#h=334&w=232",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jacobi_ver01:data:sn82016181:00516999767:1940052701:0938/full/pct:12.5/0/default.jpg#h=668&w=464",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_jacobi_ver01/data/sn82016181/00516999767/1940052701/0938.xml&format=alto_xml"
+  ],
+  "index": 165,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "sn82016181",
+    "6",
+    "5",
+    "1",
+    "0000000006",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82016181"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "9",
+    "7",
+    "6",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82016181-1940-05-27-ed-1-0938",
+  "partof": [
+    "chronicling america",
+    "the washington daily news (washington, d.c.) 1921-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington daily news (washington, d.c.) 1921-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82016181/1940-05-27/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82016181/1940-05-27/ed-1/"
+  ],
+  "shelf_id": "06",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2025-06-01T03:01:07.078Z",
+  "title": "Image 6 of The Washington daily news (Washington, D.C.), May 27, 1940",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82016181/1940-05-27/ed-1/?sp=6&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_jacobi_ver01%2Fdata%2Fsn82016181%2F00516999767%2F1940052701%2F0938.xml&q=immigration&relevant_snippet=1"
+}

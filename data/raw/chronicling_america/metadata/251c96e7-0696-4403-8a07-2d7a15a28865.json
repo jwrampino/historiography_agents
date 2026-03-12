@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84026749/1913-03-17/ed-1/?sp=7"
+  ],
+  "batch": [
+    "dlc_frontier_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1913-03-17",
+  "dates": [
+    "1913-03-17"
+  ],
+  "description": [
+    "tdaaybai iiSVK jrssv 7rs THE WASHINGTON TIMES MOISTXVY MARCH IT 1913 agfill f i PALM SUNDAY RITES LA FOLLETTE SPURNS CHELDIN CHURCHES Appropriate Sermons and Songs Usher in the Special Holy Week Services v COMMITTEES OFFER Senator Will Not Accept Place on New Banking Preferring the Finance Post The entrf of Christ Into Jerusalem was celebrated In all the Episcopal and Catholic churches in Washington cs terday with special services and musl cal programs In the Catholic churches thousands of palms were distributed to members of the congregations Through out Holy week beginning today spe cial services will be held in the churches of Washington commemorat insthe last days of Jesus Christ In earthy guise Bishop Alfred Harding after oM brating holy communion in his private chapel opened the services beginning Holy Week in St Margarets Church yesterday Holy Communion will be celebrated there ever day this week except on Thursday when the services tv ill be held at S oclock at night Bishop Harding also chose Palm Sun day for his annual visit to Emmanuel Church in Anacostla where he con firmed a large class last night which had been prepared for entrance nto cnurcn memDership by tne itev"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-12-09T13:43:32.281Z",
+  "group": [
+    "ndnp/dlc-2009_2010",
+    "library-of-congress-washington-dc-awardee-3"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84026749/1913-03-17/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frontier_ver01:data:sn84026749:00294557751:1913031701:0572/full/pct:6.25/0/default.jpg#h=442&w=370",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frontier_ver01:data:sn84026749:00294557751:1913031701:0572/full/pct:12.5/0/default.jpg#h=884&w=741",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_frontier_ver01/data/sn84026749/00294557751/1913031701/0572.xml&format=alto_xml"
+  ],
+  "index": 189,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "9",
+    "5",
+    "sn84026749",
+    "7",
+    "4",
+    "0000000007",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84026749"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "4",
+    "5",
+    "5",
+    "7",
+    "7",
+    "5",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Washington times herald"
+  ],
+  "page_id": "sn84026749-1913-03-17-ed-1-0572",
+  "partof": [
+    "serial and government publications division",
+    "the washington times (washington [d.c.]) 1902-1939",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington times (washington [d.c.]) 1902-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84026749/1913-03-17/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84026749/1913-03-17/ed-1/"
+  ],
+  "shelf_id": "07",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "https://id.oclc.org/worldcat/entity/e39pbjfcwcmmjdpvk8h8hpkccp",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2024-12-10T03:57:45.951Z",
+  "title": "Image 7 of The Washington times (Washington [D.C.]), March 17, 1913, (LAST AND HOME EDITION)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84026749/1913-03-17/ed-1/?sp=7&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_frontier_ver01%2Fdata%2Fsn84026749%2F00294557751%2F1913031701%2F0572.xml&q=child+labor&relevant_snippet=1"
+}

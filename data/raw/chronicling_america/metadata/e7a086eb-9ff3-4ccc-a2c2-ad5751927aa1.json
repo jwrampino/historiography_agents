@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84027253/1860-10-26/ed-1/?sp=1"
+  ],
+  "batch": [
+    "iahi_bellsprout_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/iowa/",
+    "2/united states/iowa/muscatine/",
+    "3/united states/iowa/muscatine/muscatine/"
+  ],
+  "contributor": [
+    "state historical society of iowa"
+  ],
+  "date": "1860-10-26",
+  "dates": [
+    "1860-10-26"
+  ],
+  "description": [
+    "i rim l6EteWir fl Mi ia BY JOHN MAHIN Weekly journal OBM Story Maaonlo Building Ssoond St Terns ot Sukscrlytlon On Copy nu ysr 160 Tao Ooplef to one addrtm 1000 INVARIABLY IN ADVANC Subicriptisua reeeivtd for ux months at yearly Bate of MveMlilnfi fquare 12 lin or Wu insertion 1 2 100 160 250 600 10 00 1500 1 1 nonti I 8 i 1 i 6 1 1 yeer fBtA llbsral deduction made on largir adver tisamcnU pmk transient ndverthemen most be paid lorin advance Lovejoy Speech We commence publishing this morning at the request ot many of onr readers the brilliant and eloquent speech of Owen Love joy at the Wigwam in Chicago which is substantially the same speech delivered by bim at Rock Island on the 12th inst It has been the custom ot oar opponents to take especial pains and delight in slan dering Owen Lovejoy and representing him as haiftiend haltbeast possessed of all the oombined furies of earth and hell He ha9 been called a traitor a disunionist a mad man a fanatic and all the mean acd hard Barnes in the dictionary This oalumuy and falsehood has bee par sisted in until"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-05-16T11:53:04.571Z",
+  "group": [
+    "ndnp/iahi",
+    "state-historical-society-of-iowa-state-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84027253/1860-10-26/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1860102601:0586/full/pct:3.125/0/default.jpg#h=282&w=222",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1860102601:0586/full/pct:6.25/0/default.jpg#h=565&w=445",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1860102601:0586/full/pct:12.5/0/default.jpg#h=1131&w=890",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iahi/batch_iahi_bellsprout_ver01/data/sn84027253/00279528517/1860102601/0586.xml&format=alto_xml"
+  ],
+  "index": 141,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "muscatine",
+    "muscatine county",
+    "iowa",
+    "united states"
+  ],
+  "location_city": [
+    "muscatine"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "muscatine"
+  ],
+  "location_state": [
+    "iowa"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "0",
+    "2",
+    "7",
+    "9",
+    "1",
+    "0000000001",
+    "sn84027253"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84027253"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "2",
+    "8",
+    "5",
+    "1",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Weekly journal"
+  ],
+  "page_id": "sn84027253-1860-10-26-ed-1-0586",
+  "partof": [
+    "muscatine weekly journal (muscatine, iowa) 185?-1890",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "muscatine weekly journal (muscatine, iowa) 185?-1890"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84027253/1860-10-26/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84027253/1860-10-26/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "iowa",
+    "muscatine county (iowa)",
+    "muscatine county",
+    "muscatine",
+    "muscatine (iowa)",
+    "united states"
+  ],
+  "timestamp": "2023-07-03T15:36:25.166Z",
+  "title": "Image 1 of Muscatine weekly journal (Muscatine, Iowa), October 26, 1860",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84027253/1860-10-26/ed-1/?sp=1&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiahi%2Fbatch_iahi_bellsprout_ver01%2Fdata%2Fsn84027253%2F00279528517%2F1860102601%2F0586.xml&q=slavery&relevant_snippet=1"
+}

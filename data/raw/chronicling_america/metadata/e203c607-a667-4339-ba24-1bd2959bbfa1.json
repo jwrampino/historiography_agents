@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84026749/1914-02-11/ed-1/?sp=3"
+  ],
+  "batch": [
+    "dlc_continental_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1914-02-11",
+  "dates": [
+    "1914-02-11"
+  ],
+  "description": [
+    "THE WASHINGTON TDIES WEDNESDAY FEBRUARY 11 1914 D M MITE NARROW THEFT EO TO FEW Detectives Draw Net Closer on Jhose Believed Responsible for Mysterious Case DIRECTOR OF BUREAU SAYS FOUR OR FIVE SUSPECTED Secret Service Operatives arid Washington Police Are Busy Today Joseph E Ralph director of tlje Bu reau of Engraving and Printing today announced that suspicion for the mys terious disappearance and equally mys terious rcapparancc of the sheets of bank notes had been narrowed to four or five Individuals Secret Service operatives and Wash 3Ston detectives aro drawing the net closer on those believed to havo been responsible for the theft Air Ralph declared he did not have even a thought that tho bills might bftve been taken with a view to dis crediting his administration hut he was confident this Tvas a plain case or theft It was the realization that the num ber of persons who could possibly be suspected was belnrr limited Mr Ralph believes that Induced the return of the notes Tho Investigation he said has been In progress several weeks Mr Ralph declined to tell how tho money waa returned on the ground that it might thwart the Investigators in fixing"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-12-09T13:42:22.880Z",
+  "group": [
+    "ndnp/dlc-2009_2010",
+    "library-of-congress-washington-dc-awardee-3"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84026749/1914-02-11/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn84026749:00294557830:1914021101:0637/full/pct:6.25/0/default.jpg#h=446&w=372",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn84026749:00294557830:1914021101:0637/full/pct:12.5/0/default.jpg#h=892&w=745",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_continental_ver02/data/sn84026749/00294557830/1914021101/0637.xml&format=alto_xml"
+  ],
+  "index": 180,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000003",
+    "1",
+    "8",
+    "9",
+    "5",
+    "sn84026749",
+    "7",
+    "4",
+    "3",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84026749"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "4",
+    "5",
+    "5",
+    "7",
+    "8",
+    "3",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Washington times herald"
+  ],
+  "page_id": "sn84026749-1914-02-11-ed-1-0637",
+  "partof": [
+    "serial and government publications division",
+    "the washington times (washington [d.c.]) 1902-1939",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington times (washington [d.c.]) 1902-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84026749/1914-02-11/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84026749/1914-02-11/ed-1/"
+  ],
+  "shelf_id": "03",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "https://id.oclc.org/worldcat/entity/e39pbjfcwcmmjdpvk8h8hpkccp",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2024-12-09T20:41:04.794Z",
+  "title": "Image 3 of The Washington times (Washington [D.C.]), February 11, 1914, (LAST AND HOME EDITION)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84026749/1914-02-11/ed-1/?sp=3&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_continental_ver02%2Fdata%2Fsn84026749%2F00294557830%2F1914021101%2F0637.xml&q=child+labor&relevant_snippet=1"
+}

@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83007243/1955-12-23/ed-1/?sp=10"
+  ],
+  "batch": [
+    "ohi_ivy_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/franklin/",
+    "3/united states/ohio/franklin/columbus/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1955-12-23",
+  "dates": [
+    "1955-12-23"
+  ],
+  "description": [
+    "10THE CATHOLIC TIMES Friday Dec 231955 CINCINNATI Recovery Inc a fastgrowing movement for mental patients was described in Cincinnati as an effective medical technique that is thor oughly in accord with the princi ples of Christian asceticism Fa ther John H Higgins St Louis a victim of mental illness 25 years ago made the statement at the local groups second anniversary dinner A Ik A ADA BUYERS guide Passenger Cars A Trucks Parts and Accessories Liberty Chevrolet Sales Inc MI Ad 143 lADA NURSING HOME Fee Men and Women Ambulatory and Bod Patients 24Heor Nunring Service Conraleecento 4 Beetere Available at aB Hom i Opal Clay Manager IM 8 GUbert Phene 333 THOMAS LOW DOWN PAYMENTS 5019 N High St Open Eves TERGO WHITE LUSTRE ROSE Chemical Products He Welting Three Barbers Grandview Barber Shop HU S1S8S tee Mdelfe Bay UUey IW W Sth C Ridetfe Patrick Ruddy Son Plumbing Service 1U4 W 1st HU 3421S HU lU HU 81113 Information THIMMES BROS Quality Meats Groceries 351 S Columbus Lancaster Phono 809 BAKER Typowriter Ca Royal Typewriters JL C Allen And Victor Adding Machines 117 N Columbus St Lancaster Phone 2633W DIAN A BARRY PAINT IMPERIAL WALLPAPER Tho Fairfield Paint"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:21:03.462Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83007243/1955-12-23/ed-1/?sp=10",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ivy_ver01:data:sn83007243:00340580217:1955122301:0290/full/pct:3.125/0/default.jpg#h=286&w=204",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ivy_ver01:data:sn83007243:00340580217:1955122301:0290/full/pct:6.25/0/default.jpg#h=573&w=408",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ivy_ver01:data:sn83007243:00340580217:1955122301:0290/full/pct:12.5/0/default.jpg#h=1146&w=817",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_ivy_ver01/data/sn83007243/00340580217/1955122301/0290.xml&format=alto_xml"
+  ],
+  "index": 126,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ohio",
+    "franklin",
+    "united states",
+    "columbus"
+  ],
+  "location_city": [
+    "columbus"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "franklin"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "5",
+    "4",
+    "2",
+    "1",
+    "0000000010",
+    "7",
+    "8",
+    "sn83007243"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83007243"
+  ],
+  "number_page": [
+    "0000000010"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "0",
+    "2",
+    "1",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83007243-1955-12-23-ed-1-0290",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the catholic times (columbus, ohio) 1951-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the catholic times (columbus, ohio) 1951-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83007243/1955-12-23/ed-1/?sp=10"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83007243/1955-12-23/ed-1/"
+  ],
+  "shelf_id": "10",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "ohio",
+    "columbus (ohio)",
+    "united states",
+    "franklin",
+    "newspapers",
+    "catholic church",
+    "columbus"
+  ],
+  "timestamp": "2023-09-05T23:48:20.502Z",
+  "title": "Image 10 of The Catholic times (Columbus, Ohio), December 23, 1955",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83007243/1955-12-23/ed-1/?sp=10&q=vietnam",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_ivy_ver01%2Fdata%2Fsn83007243%2F00340580217%2F1955122301%2F0290.xml&q=vietnam&relevant_snippet=1"
+}

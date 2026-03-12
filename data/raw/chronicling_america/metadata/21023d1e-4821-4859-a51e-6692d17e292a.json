@@ -1,0 +1,151 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82016181/1936-12-19/ed-1/?sp=16"
+  ],
+  "batch": [
+    "dlc_leibovitz_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1936-12-19",
+  "dates": [
+    "1936-12-19"
+  ],
+  "description": [
+    "Page 16 TheJews Olc light and the people win find their mt wag A SCRIPPSHOWARD NEWSPAPER 1013 13th SL N W Phone District 7777 By Carrier Week 10c By Mail Month Oc Year 720 LOWELL MELLETT HOWARD PARISH Edi for Business Manager MAKE LOCAL SHARE RELIEF JMPORTANT as we believe it is that work relief should con tinue we have no notion that Uncle Sam can go on indefi nitely borrowing money to pay work relief wages to all the people that all the local governments would like to have the Federal Government support The local governmentsstates cities countiesshould be given an Incentive to help the Federal Government hold its work relief pay roll within reasonable bounds and reduce it as it can be reduced without human suffering They would have that incentive if they were strictly required to pay a fair but specific share of the cost of the Works Progress Administration program WPA started on the assumption that this would be done The Federal Government would pay wages and administrative costs The local governments would pay for materials and for project plans and supervision In return they would get jobs for their unemployed and they would also get"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-18T05:56:38.169Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82016181/1936-12-19/ed-1/?sp=16",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leibovitz_ver01:data:sn82016181:0051699955A:1936121901:2004/full/pct:6.25/0/default.jpg#h=337&w=236",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leibovitz_ver01:data:sn82016181:0051699955A:1936121901:2004/full/pct:12.5/0/default.jpg#h=675&w=473",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_leibovitz_ver01/data/sn82016181/0051699955A/1936121901/2004.xml&format=alto_xml"
+  ],
+  "index": 102,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "district of columbia",
+    "washington d.c.",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "6",
+    "5",
+    "1",
+    "a",
+    "0000000016",
+    "sn82016181"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82016181"
+  ],
+  "number_page": [
+    "0000000016"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "9",
+    "5",
+    "5",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82016181-1936-12-19-ed-1-2004",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the washington daily news (washington, d.c.) 1921-1972"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington daily news (washington, d.c.) 1921-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82016181/1936-12-19/ed-1/?sp=16"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82016181/1936-12-19/ed-1/"
+  ],
+  "shelf_id": "16",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "washington",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2025-05-18T06:06:09.869Z",
+  "title": "Image 16 of The Washington daily news (Washington, D.C.), December 19, 1936",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82016181/1936-12-19/ed-1/?sp=16&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_leibovitz_ver01%2Fdata%2Fsn82016181%2F0051699955A%2F1936121901%2F2004.xml&q=child+labor&relevant_snippet=1"
+}

@@ -1,0 +1,124 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "Remarks of the Vice President at the Dedication of the Old Senate Chamber, The Capitol, Washington D.C. [Speeches by Others]",
+  "physicalOccurrences": [
+    {
+      "extent": "2 pages",
+      "referenceUnits": [
+        {
+          "city": "Ann Arbor",
+          "phone": "734-205-0555",
+          "address1": "1000 Beal Avenue",
+          "postalCode": "48109-2114",
+          "name": "Gerald R. Ford Library",
+          "state": "MI",
+          "fax": "734-205-0571",
+          "email": "ford.library@nara.gov",
+          "mailCode": "PL-GRF"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "depth": 0,
+          "width": 0,
+          "specificMediaType": "Paper",
+          "containerId": "27",
+          "reproductionCount": 2,
+          "height": 0
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupName": "Gerald R. Ford Library",
+    "groupId": "PL-GRF",
+    "groupCd": "PL-GRF"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "productionDates": [
+    {
+      "month": 6,
+      "year": 1976,
+      "day": 16,
+      "logicalDate": "1976-06-16"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "whpr19760616-020.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/46/3445/7344546/content/library/document/0248/whpr19760616-020.pdf",
+      "objectFileSize": 0,
+      "objectId": "16055518",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "GRF-0248",
+      "inclusiveStartDate": {
+        "year": 1974,
+        "logicalDate": "1974-01-01"
+      },
+      "distance": 3,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "year": 1977,
+        "logicalDate": "1977-01-01"
+      },
+      "title": "White House Press Releases (Ford Administration)",
+      "naId": 653576
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1974,
+        "logicalDate": "1974-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "President (1974-1977 : Ford). White House Press Release Unit. (08/09/1974 - 01/20/1977)",
+          "abolishDate": {
+            "month": 1,
+            "year": 1977,
+            "day": 20,
+            "logicalDate": "1977-01-20"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 8,
+            "year": 1974,
+            "day": 9,
+            "logicalDate": "1974-08-09"
+          },
+          "naId": 10455884
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1977,
+        "logicalDate": "1977-01-01"
+      },
+      "title": "Press Releases",
+      "naId": 653577
+    },
+    {
+      "distance": 1,
+      "levelOfDescription": "fileUnit",
+      "title": "Press Releases, June 16, 1976",
+      "naId": 7344526
+    }
+  ],
+  "naId": 7344546
+}

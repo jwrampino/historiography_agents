@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045293/1923-07-15/ed-1/?sp=12"
+  ],
+  "batch": [
+    "whi_feta_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/wisconsin/",
+    "2/united states/wisconsin/milwaukee/",
+    "3/united states/wisconsin/milwaukee/milwaukee/"
+  ],
+  "contributor": [
+    "wisconsin historical society"
+  ],
+  "date": "1923-07-15",
+  "dates": [
+    "1923-07-15"
+  ],
+  "description": [
+    "EDITORIAL PAGE Vol 12No 186 The Milwaukee Leader Entered as secondclass matter August 25 1920 at the postotfice at i Milwaukee Wisconsin under the Act of March 3 1879 I \u00fcblished every evening except Sunday by the Milwaukee Social Democratic Publishing Company at Chestnut and Sixth Streets VICTOR L BERGER Editor ASSOCIATE EDITORS h 11 THOMAS JOHN M WORK ASSISTANT MANAGER META BERGER 23 Chestnut St Milwaukee Wia SUBSCRIPTION RATESThe mail editions of The Milwaukee Deader ar y subscriber in thvs United States for 150 for three montns 300 for six months SCOO for one year In foreign countries frV J 0 tJ3ree months SGOO for six months 1200 for one year This \u00fcbscriution rate includes foreign postage Ahe Dome Edition is delivered bv carriers in Milwaukee and county a month 4 Week F 65 a month Elsewhere by carrier 18c a week or 800 FOREIGN ADVERTISING REPRESENTATIVE New m FRALICK BATES New lork Tribune Bldg Chicago 605 N Michigan Ave nf T Atlanta Candler Annex Bldg Office Honrs S A M to 6 I M Tel Grand 7500 AN OPENER OF DOORS Now it is a Racine paper that deplores discontent little dreaming that discontent with present conditions is"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-10-20T02:08:49.154Z",
+  "group": [
+    "ndnp/whi",
+    "wisconsin-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045293/1923-07-15/ed-1/?sp=12",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_feta_ver01:data:sn83045293:00517012543:1923071501:0546/full/pct:3.125/0/default.jpg#h=290&w=229",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_feta_ver01:data:sn83045293:00517012543:1923071501:0546/full/pct:6.25/0/default.jpg#h=580&w=459",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_feta_ver01:data:sn83045293:00517012543:1923071501:0546/full/pct:12.5/0/default.jpg#h=1160&w=919",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/whi/batch_whi_feta_ver01/data/sn83045293/00517012543/1923071501/0546.xml&format=alto_xml"
+  ],
+  "index": 19,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "milwaukee",
+    "wisconsin",
+    "united states"
+  ],
+  "location_city": [
+    "milwaukee"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "milwaukee"
+  ],
+  "location_state": [
+    "wisconsin"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "5",
+    "sn83045293",
+    "7",
+    "0000000012",
+    "4",
+    "3",
+    "2",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045293"
+  ],
+  "number_page": [
+    "0000000012"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "0",
+    "1",
+    "2",
+    "5",
+    "4",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83045293-1923-07-15-ed-1-0546",
+  "partof": [
+    "serial and government publications division",
+    "the milwaukee leader (milwaukee, wis.) 1911-1938",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the milwaukee leader (milwaukee, wis.) 1911-1938"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045293/1923-07-15/ed-1/?sp=12"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045293/1923-07-15/ed-1/"
+  ],
+  "shelf_id": "12",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "https://id.oclc.org/worldcat/entity/e39pbjj8j7dbwccgbfpvchw3cp",
+    "wisconsin",
+    "milwaukee (wis.)",
+    "milwaukee",
+    "newspapers",
+    "socialism"
+  ],
+  "timestamp": "2024-10-20T02:36:22.057Z",
+  "title": "Image 12 of The Milwaukee leader (Milwaukee, Wis.), July 15, 1923, (Morning Edition)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045293/1923-07-15/ed-1/?sp=12&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwhi%2Fbatch_whi_feta_ver01%2Fdata%2Fsn83045293%2F00517012543%2F1923071501%2F0546.xml&q=manifest+destiny&relevant_snippet=1"
+}

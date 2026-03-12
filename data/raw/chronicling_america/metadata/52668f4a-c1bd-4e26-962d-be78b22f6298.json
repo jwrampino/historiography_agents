@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85038119/1898-08-25/ed-1/?sp=2"
+  ],
+  "batch": [
+    "ohi_delta_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/hocking/",
+    "3/united states/ohio/hocking/logan/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1898-08-25",
+  "dates": [
+    "1898-08-25"
+  ],
+  "description": [
+    "VrX V The Hocking Sentinel IaOGjJST OHIO 1KWIS GKKEN Publisher IlflllH As a Result of a Col lision in Massa chusetts An Bxnress a Local a Mil Tlic Terms of the Surrender of Manila Restricted to the City A Batch of Miscellaneous Tel egraph News from All Parts of the World Collided nml Telescoped A local train from Providence B 1 on the New York Now Haven and Hart ford Railroad at Sharon Mass while standing at tlio depot was telescoped by an express train from New Bedford Be tween thirty and forty people were killed besides a large num bcr injured Tlio two trains which were in collision were usually combined into one long train but at tho time of tho accident it was divided the first soetion running as a local accommodation while the second which started from Mansfield fifteen min utes later than the first ran as an ex press The local train was duo at Sharon at 702 but was thirteen minutes late No warning was given by tho conductor of tho Mansfield local to show the approach ing train that the truck was not clear wiihln 400 feet of the station and the en gineer"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:16:28.029Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85038119/1898-08-25/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_delta_ver01:data:sn85038119:00237286418:1898082501:0142/full/pct:6.25/0/default.jpg#h=503&w=389",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_delta_ver01:data:sn85038119:00237286418:1898082501:0142/full/pct:12.5/0/default.jpg#h=1007&w=779",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_delta_ver01/data/sn85038119/00237286418/1898082501/0142.xml&format=alto_xml"
+  ],
+  "index": 46,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "hocking",
+    "logan",
+    "ohio",
+    "united states"
+  ],
+  "location_city": [
+    "logan"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hocking"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn85038119",
+    "8",
+    "0000000002",
+    "0",
+    "2",
+    "7",
+    "1",
+    "3",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85038119"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "3",
+    "7",
+    "2",
+    "8",
+    "6",
+    "4",
+    "1",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85038119-1898-08-25-ed-1-0142",
+  "partof": [
+    "the hocking sentinel (logan, ohio) 1871-1906",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the hocking sentinel (logan, ohio) 1871-1906"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85038119/1898-08-25/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85038119/1898-08-25/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "ohio",
+    "logan (ohio)",
+    "hocking",
+    "logan",
+    "united states"
+  ],
+  "timestamp": "2023-09-05T07:51:35.090Z",
+  "title": "Image 2 of The Hocking sentinel (Logan, Ohio), August 25, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85038119/1898-08-25/ed-1/?sp=2&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_delta_ver01%2Fdata%2Fsn85038119%2F00237286418%2F1898082501%2F0142.xml&q=spanish&relevant_snippet=1"
+}

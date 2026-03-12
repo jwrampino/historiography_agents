@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87080287/1898-05-05/ed-1/?sp=4"
+  ],
+  "batch": [
+    "pst_lydia_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/pennsylvania/",
+    "2/united states/pennsylvania/luzerne/",
+    "3/united states/pennsylvania/luzerne/freeland/"
+  ],
+  "contributor": [
+    "penn state university libraries; university park, pa"
+  ],
+  "date": "1898-05-05",
+  "dates": [
+    "1898-05-05"
+  ],
+  "description": [
+    "FREELAND TRIBUNE Established 1883 PUBLISHED EVERY MONDAY AND THURSDAY TRIBUNE PRINTING COMPANY Limited Oc PICE MAIN STREET ABOVE CENTRE 1 SUBSCRIPTION RATES one Year 150 j six Month 75 Four Months 50 j Two Months 35 I The date which the subscription is paid to is j 011 the address label of each paper the change of which to a subsequent date beoomea a 1 receipt for remittance Keep the figures in i advance of the present dute Report prompt ly to this office whenever paper is notroceived i Arrearages must be paid when subsetiption j i discontinued MrtUc iill money order check etc itaualAc t iln Tribune Printing Out pang Limited FREELAND PA MAY 5 1898 THE FORTS DESTROYED Shell After Shell Poured Into the Center of the Enemys Fortifications 2 With Unerring Aim Admiral Sampson Flagship New York Backed by ilie Monitor Puritan and the rtiier Cincinnati Fired on hy Shore Baft eric Gallantly Sail Ititotlie Harbor aiul Batters the Fort to PiecesFirst Battle for Cuba Libre a Victory Key West Fla May 5 Admiral Simpson has bombarded silenced and pretty well destroyed the Spanish batteries 1 in position and in course of construction at the entrance of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-10-08T16:39:57.743Z",
+  "group": [
+    "ndnp/pst",
+    "penn-state-university-libraries-university-park-pa-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87080287/1898-05-05/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028782:1898050501:1682/full/pct:6.25/0/default.jpg#h=358&w=288",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028782:1898050501:1682/full/pct:12.5/0/default.jpg#h=716&w=577",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/pst/batch_pst_lydia_ver01/data/sn87080287/00296028782/1898050501/1682.xml&format=alto_xml"
+  ],
+  "index": 198,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "luzerne",
+    "pennsylvania",
+    "freeland"
+  ],
+  "location_city": [
+    "freeland"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "luzerne"
+  ],
+  "location_state": [
+    "pennsylvania"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000004",
+    "sn87080287",
+    "8",
+    "2",
+    "0",
+    "7",
+    "9",
+    "1",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87080287"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "6",
+    "0",
+    "2",
+    "8",
+    "7",
+    "8",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87080287-1898-05-05-ed-1-1682",
+  "partof": [
+    "freeland tribune (freeland, pa.) 1888-1921",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "freeland tribune (freeland, pa.) 1888-1921"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87080287/1898-05-05/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87080287/1898-05-05/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "freeland (pa.)",
+    "luzerne",
+    "freeland",
+    "pennsylvania",
+    "united states"
+  ],
+  "timestamp": "2022-10-28T13:39:44.248Z",
+  "title": "Image 4 of Freeland tribune (Freeland, Pa.), May 5, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87080287/1898-05-05/ed-1/?sp=4&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fpst%2Fbatch_pst_lydia_ver01%2Fdata%2Fsn87080287%2F00296028782%2F1898050501%2F1682.xml&q=spanish&relevant_snippet=1"
+}

@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87080287/1892-05-19/ed-1/?sp=2"
+  ],
+  "batch": [
+    "pst_lydia_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/pennsylvania/",
+    "2/united states/pennsylvania/luzerne/",
+    "3/united states/pennsylvania/luzerne/freeland/"
+  ],
+  "contributor": [
+    "penn state university libraries; university park, pa"
+  ],
+  "date": "1892-05-19",
+  "dates": [
+    "1892-05-19"
+  ],
+  "description": [
+    "FREELMD TRIBUNE Published Every Thursday Afternoon BY TIIOS A BUOKLEV EDITOR AND PROPRIETOR TERMS SIOO PER YEAR Entered at the Freeland Postoffice as Second Class Matter FREELAND PA MAY 19 1892 DEMOCRATIC TICKET STATE Judge of Bupreme Court Christopher Hoydrick Veuango County CongressmenatLarge George Allen Erie County Thomas P Merrltt Berks County Tub postoffice department has at last come to ttie conclusion to drop the letter h in burg Heretofore the department insisted that all towns ending with burg should he spelled burgh and in issuing cancelling stamps money orders etc invariable use the final h Now the h will have to go THE expression And should it be deemed expedient to come to the great West is the way the states with favorite sons have of hedging It means that Indiana prefers Gray to Palmer Illinois Palmer to Boies lowa Boies to Carlisle and so on But it does not in any way indicate that any Western state lias wavered in its allegiance to Cleveland THE conventions of Wisconsin and Michigan instructed for Cleveland with a whoop and knocked out the silver fail with lusty blow much to the disgust of the free coinage men of both parties It"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-10-08T16:30:58.496Z",
+  "group": [
+    "ndnp/pst",
+    "penn-state-university-libraries-university-park-pa-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87080287/1892-05-19/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028770:1892051901:0661/full/pct:6.25/0/default.jpg#h=364&w=291",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028770:1892051901:0661/full/pct:12.5/0/default.jpg#h=728&w=583",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/pst/batch_pst_lydia_ver01/data/sn87080287/00296028770/1892051901/0661.xml&format=alto_xml"
+  ],
+  "index": 62,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "pennsylvania",
+    "freeland",
+    "luzerne"
+  ],
+  "location_city": [
+    "freeland"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "luzerne"
+  ],
+  "location_state": [
+    "pennsylvania"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn87080287",
+    "9",
+    "2",
+    "6",
+    "8",
+    "0000000002",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87080287"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "6",
+    "0",
+    "2",
+    "8",
+    "7",
+    "7",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87080287-1892-05-19-ed-1-0661",
+  "partof": [
+    "chronicling america",
+    "freeland tribune (freeland, pa.) 1888-1921",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "freeland tribune (freeland, pa.) 1888-1921"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87080287/1892-05-19/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87080287/1892-05-19/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "freeland (pa.)",
+    "pennsylvania",
+    "united states",
+    "newspapers",
+    "freeland",
+    "luzerne"
+  ],
+  "timestamp": "2022-10-28T13:26:50.892Z",
+  "title": "Image 2 of Freeland tribune (Freeland, Pa.), May 19, 1892",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87080287/1892-05-19/ed-1/?sp=2&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fpst%2Fbatch_pst_lydia_ver01%2Fdata%2Fsn87080287%2F00296028770%2F1892051901%2F0661.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

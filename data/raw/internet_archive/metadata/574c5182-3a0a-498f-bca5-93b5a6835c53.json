@@ -1,0 +1,14 @@
+{
+  "creator": "Archive-It",
+  "date": "2012-01-01T00:00:00Z",
+  "description": "recurrence=ANNUAL, maxDuration=432000, maxDocumentCount=null, isTestCrawl=false, seedCount=430, accountId=318, organizationName=\"University of Texas, San Antonio\", collectionId=1893, collectionName=\"Immigration/Borderlands Web Collection \"",
+  "format": [
+    "Item CDX Index",
+    "Metadata",
+    "WARC CDX Index",
+    "Web ARChive GZ"
+  ],
+  "identifier": "ARCHIVEIT-1893-ANNUAL-AHAAAB-00000",
+  "mediatype": "web",
+  "title": "ARCHIVEIT-1893-ANNUAL-AHAAAB-20120618152356-00003-crawling210.us.archive.org-6682.warc.gz"
+}

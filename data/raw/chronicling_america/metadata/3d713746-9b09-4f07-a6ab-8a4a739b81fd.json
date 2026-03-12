@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82007637/1960-04-08/ed-1/?sp=5"
+  ],
+  "batch": [
+    "ohi_goyle_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/lucas/",
+    "3/united states/ohio/lucas/toledo/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1960-04-08",
+  "dates": [
+    "1960-04-08"
+  ],
+  "description": [
+    "New Senate Filibuster Looms 6 6 AntiLabor Provision Added To HousePassed Rights Bill p The Senate has resumed its civil rights debate adopt ing in rapidfire order a series of amendmentsone of which the AFLCIO called illconsidered unnecessary and potentially antiunion which the Judiciary Committee had tacked on to a fivepart measure passed overwhelmingly r w by the House Wholesale rewriting of the House bill brought charge by civil rights advocates that legis lation to safeguard voting and other minority rights was being seriously watered down Organized labor directed its criticism against one change whereby a section of the House measure which would make it a crime to interfere with school desegregation orders was broad ened to apply criminal penalties to violators of any federal court order m POLITICAL TRAINING course for Big Business Professionals Heres a typical example of how Big Business is priming its ex ecutive and professional people for the 1960 political campaign For some weeks now the Her cules Powder Company has been calling 21 of its top personnel off their jobs at the Hercules di Research Center near Wilming ton Del to study a course in practical politics That is the course which the U"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-04-13T08:05:43.404Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82007637/1960-04-08/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_goyle_ver01:data:sn82007637:00516993844:1960040801:0123/full/pct:6.25/0/default.jpg#h=415&w=304",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_goyle_ver01:data:sn82007637:00516993844:1960040801:0123/full/pct:12.5/0/default.jpg#h=830&w=608",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_goyle_ver01/data/sn82007637/00516993844/1960040801/0123.xml&format=alto_xml"
+  ],
+  "index": 34,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ohio",
+    "lucas",
+    "united states",
+    "toledo",
+    "lucas county"
+  ],
+  "location_city": [
+    "toledo"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lucas"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "3",
+    "sn82007637",
+    "5",
+    "6",
+    "1",
+    "4",
+    "0000000005",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82007637"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "3",
+    "8",
+    "4",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82007637-1960-04-08-ed-1-0123",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "toledo union journal (toledo, ohio) 1942-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "toledo union journal (toledo, ohio) 1942-current"
+  ],
+  "publication_frequency": [
+    "biweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82007637/1960-04-08/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82007637/1960-04-08/ed-1/"
+  ],
+  "shelf_id": "5",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "ohio",
+    "international union, united automobile workers of america (cio)",
+    "local 12 (toledo, ohio)",
+    "lucas",
+    "united states",
+    "labor unions",
+    "newspapers",
+    "lucas county (ohio)",
+    "toledo",
+    "lucas county",
+    "toledo (ohio)"
+  ],
+  "timestamp": "2025-04-13T10:36:48.941Z",
+  "title": "Image 5 of Toledo union journal (Toledo, Ohio), April 8, 1960",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82007637/1960-04-08/ed-1/?sp=5&q=civil+rights",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_goyle_ver01%2Fdata%2Fsn82007637%2F00516993844%2F1960040801%2F0123.xml&q=civil+rights&relevant_snippet=1"
+}

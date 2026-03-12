@@ -1,0 +1,116 @@
+{
+  "dataControlGroup": {
+    "groupName": "Harry S. Truman Library",
+    "groupId": "PL-HST",
+    "groupCd": "PL-HST"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "digitalObjects": [
+    {
+      "objectFilename": "1697670-01-001.tif",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-pn/1125610/1697670/1697670-01-001.tif",
+      "objectFileSize": 43509432,
+      "objectId": "423864156",
+      "objectType": "Image (TIFF)"
+    },
+    {
+      "objectFilename": "1697670-01-002.tif",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-pn/1125610/1697670/1697670-01-002.tif",
+      "objectFileSize": 43496440,
+      "objectId": "423864158",
+      "objectType": "Image (TIFF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "HST-PN",
+      "inclusiveStartDate": {
+        "year": 1925,
+        "logicalDate": "1925-01-01"
+      },
+      "distance": 3,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "year": 1998,
+        "logicalDate": "1998-12-31"
+      },
+      "title": "Philleo Nash Papers",
+      "naId": 623511
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1942,
+        "logicalDate": "1942-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "Nash, Philleo, 1909-1987",
+          "deathDate": {
+            "year": 1987,
+            "logicalDate": "1987-12-31"
+          },
+          "authorityType": "person",
+          "birthDate": {
+            "year": 1909,
+            "logicalDate": "1909-01-01"
+          },
+          "naId": 10568774
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1952,
+        "logicalDate": "1952-12-31"
+      },
+      "title": "Office of War Information Files",
+      "naId": 1125610
+    },
+    {
+      "distance": 1,
+      "levelOfDescription": "fileUnit",
+      "title": "Alphabetical File (OWI-Archives): Pope, Generoso-Regarding Appointment to War Finance Committee and His Pro-Fascist Background, August 1943",
+      "naId": 1697670
+    }
+  ],
+  "title": "\"Analysis of Mr. [Generoso] Pope's New York Daily's For the Period of April 25th to April 29th, Inclusive\"",
+  "naId": 423864150,
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Independence",
+          "phone": "816-268-8272",
+          "address1": "500 West U.S. Highway 24",
+          "postalCode": "64050-1798",
+          "name": "Harry S. Truman Library",
+          "state": "MO",
+          "fax": "816-268-8295",
+          "email": "truman.reference@nara.gov",
+          "mailCode": "PL-HST"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  }
+}

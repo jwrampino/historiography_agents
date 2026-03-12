@@ -1,0 +1,131 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16123/?sp=4"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1819-05-20",
+  "dates": [
+    "1819-05-20"
+  ],
+  "description": [
+    "THE BENGAL HURKARU ATR AE LESSEE EE a A ee TRE BEI SF CAT AS A TS BR AR ORC AEE EE eA RCT tS GARNER kicebE 5 COURT OF CHANCERY Wednesday Nov 11 THE WARQUis OF BLANDFORD SON v HIS GRACE THE DUKE OF MARLBOROUGH HIS FATHER The SorrcitorGenerat said he was instructed to move the Court to grant an injunction for restraining his Grace the Duke of Marlborough from proceeding te cut down the grown timber iv Blenheim Park or in any manner removing the ornamental and The question was one of particula importance as it involved the rights ofa tenaut entail and ander the present circumstances he bad no doubt the Court would The property in question was by two Acts of Parliament in the 3d and 4th of Queen Anne given to the then Dake of Marlborough in consideration of the very great that illustrious warrior had rendered to the country Bythe Sth of Queen Anne the property in question Wuke for the benefit of himself and successors aud il was rendered incapablo of being ever disposed of or put away The Court would see this by the section of the other timber in that district"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16123/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16123:0004/full/pct:6.25/0/default.jpg#h=356&w=274",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16123:0004/full/pct:12.5/0/default.jpg#h=712&w=549",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16123:0004/full/pct:25.0/0/default.jpg#h=1424&w=1099",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16123:0004/full/pct:50.0/0/default.jpg#h=2849&w=2199",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16123:0004/full/pct:100.0/0/default.jpg#h=5698&w=4398",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16123/0004.alto.xml&format=alto_xml"
+  ],
+  "index": 23,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "calcutta",
+    "india"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "0000000004",
+    "sn88063571",
+    "2025-08-13t13:59:42.400000",
+    "sn88063570",
+    "sn88063569"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16123-0004-alto",
+  "partof": [
+    "catalog",
+    "world digital library",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "asian division",
+    "serial and government publications division",
+    "south asian digital collection",
+    "world newspapers",
+    "general collections"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16123/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16123/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "calcutta",
+    "india"
+  ],
+  "timestamp": "2025-12-12T07:20:29.766Z",
+  "title": "Image 4 of Volume 29, Number 1282, Thursday, May 20, 1819 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16123/?sp=4&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16123%2F0004.alto.xml&q=spanish&relevant_snippet=1"
+}

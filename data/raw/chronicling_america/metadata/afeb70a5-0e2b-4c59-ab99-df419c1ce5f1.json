@@ -1,0 +1,137 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2004540423/1917-04-22/ed-1/?sp=159"
+  ],
+  "batch": [
+    "dlc_2jumanji_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1917-04-22",
+  "dates": [
+    "1917-04-22"
+  ],
+  "description": [
+    "PATRIOTISM AND PRODUCTION Th most critical pliase of the war has heen ire ached Unable to defeat the Allies on land the enemy is concentrating on the submarine cam paign and seriously threatens to offset his declin ing military power by cutting off the supplies so essential to the successful prosecution of the war by Britain and her allies The President of the j i\u00dfoard of Trade in England points out the seri ous danger that menaces the Allied cause We hai e not yet found a way of dealing 1 th the submarine so as to remove the dan ger of its being an enormously important factor in determining the outcome of the war The effect of the submarine upon the existence of the British Empire is simply this that we cannot continue to bring into this country all the supplies and materials required for our existence for the continu ance of the war and for the actual needs of our industries This is the most serious pronouncement since the opening of the submarine campaign Lord IDevonport the Pood Controller is equally em phatic that the mercantile shipping on which in the last resort tire security of the Empire"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-19T00:31:37.557Z",
+  "group": [
+    "sgpww1newspaperclippings/dlc",
+    "wwi-newspaper-clippings"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2004540423/1917-04-22/ed-1/?sp=159",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_2jumanji_ver01:data:2004540423:print00189481974:1917042201:0159/full/pct:6.25/0/default.jpg#h=464&w=356",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_2jumanji_ver01:data:2004540423:print00189481974:1917042201:0159/full/pct:12.5/0/default.jpg#h=928&w=713",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/sgp/sgpbatches/batch_dlc_2jumanji_ver01/data/2004540423/print00189481974/1917042201/0159.xml&format=alto_xml"
+  ],
+  "index": 198,
+  "language": [
+    "german",
+    "english"
+  ],
+  "location": [
+    "new york",
+    "germany",
+    "united states"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000159",
+    "2004540423",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2004540423"
+  ],
+  "number_page": [
+    "0000000159"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2004540423-1917-04-22-ed-1-0159",
+  "partof": [
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-",
+    "serial and government publications division",
+    "world war history: newspaper clippings, 1914-1926"
+  ],
+  "partof_collection": [
+    "world war history: newspaper clippings, 1914-1926"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2004540423/1917-04-22/ed-1/?sp=159"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2004540423/1917-04-22/ed-1/"
+  ],
+  "shelf_id": "159",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "armistices",
+    "history",
+    "allied occupation",
+    "germany",
+    "sources",
+    "new york",
+    "world war",
+    "united states"
+  ],
+  "timestamp": "2022-11-09T18:22:09.067Z",
+  "title": "Image 159 of World War history : daily records and comments as appeared in American and foreign newspapers, 1914-1926 (New York), April 22, 1917, (1917 April 22-28)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2004540423/1917-04-22/ed-1/?sp=159&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fsgp%2Fsgpbatches%2Fbatch_dlc_2jumanji_ver01%2Fdata%2F2004540423%2Fprint00189481974%2F1917042201%2F0159.xml&q=revolution&relevant_snippet=1"
+}

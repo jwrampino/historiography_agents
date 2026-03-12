@@ -1,0 +1,136 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2004540423/1918-10-20/ed-1/?sp=35"
+  ],
+  "batch": [
+    "dlc_2kessel_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1918-10-20",
+  "dates": [
+    "1918-10-20"
+  ],
+  "description": [
+    "THE IMPERATIVE NEETHSf RECONSTRUCTION By JACOB GOULD SCHURMAN President of Cornell University IN England I found that a Ministry of Reconstruction has been work ins for more than two years It has a great many subcommittees and through the work of the members of these committees legislation has al ready been enacted In England there lias been an effort to prepare Uerseif for the afterwar adjustment 1 have been told that Germany is much fur ther along even than England in this respect while Franco has been making the effort for a long time to open the era of peace with a fair amount of preparation Therefore I was much concerned on returning to America to discover that we have as yet done practically noth ing toward solving the problems of reconstruction I do not think that too great an emphasis can be placed upon the necessity that confronts this na tion to begin at once a sane preparation for peace While it may be that peace is yet some distance off still I feel that we have already lost too much time The country is now in a state Of more or less artificial activity caused by the war"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-19T00:31:37.557Z",
+  "group": [
+    "sgpww1newspaperclippings/dlc",
+    "wwi-newspaper-clippings"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2004540423/1918-10-20/ed-1/?sp=35",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_2kessel_ver02:data:2004540423:print00209542122:1918102001:0035/full/pct:6.25/0/default.jpg#h=457&w=344",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_2kessel_ver02:data:2004540423:print00209542122:1918102001:0035/full/pct:12.5/0/default.jpg#h=914&w=689",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/sgp/sgpbatches/batch_dlc_2kessel_ver02/data/2004540423/print00209542122/1918102001/0035.xml&format=alto_xml"
+  ],
+  "index": 186,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "germany",
+    "united states",
+    "new york"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000035",
+    "1",
+    "2004540423"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2004540423"
+  ],
+  "number_page": [
+    "0000000035"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2004540423-1918-10-20-ed-1-0035",
+  "partof": [
+    "world war history: newspaper clippings, 1914-1926",
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "world war history: newspaper clippings, 1914-1926"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2004540423/1918-10-20/ed-1/?sp=35"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2004540423/1918-10-20/ed-1/"
+  ],
+  "shelf_id": "035",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "sources",
+    "new york",
+    "germany",
+    "world war",
+    "history",
+    "allied occupation",
+    "armistices"
+  ],
+  "timestamp": "2022-11-09T18:29:49.479Z",
+  "title": "Image 35 of World War history : daily records and comments as appeared in American and foreign newspapers, 1914-1926 (New York), October 20, 1918, (1918 October 20-23)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2004540423/1918-10-20/ed-1/?sp=35&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fsgp%2Fsgpbatches%2Fbatch_dlc_2kessel_ver02%2Fdata%2F2004540423%2Fprint00209542122%2F1918102001%2F0035.xml&q=reconstruction&relevant_snippet=1"
+}

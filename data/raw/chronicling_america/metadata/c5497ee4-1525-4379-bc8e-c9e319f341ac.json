@@ -1,0 +1,168 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84022053/1883-10-20/ed-1/?sp=2"
+  ],
+  "batch": [
+    "nvln_tonopah_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nevada/",
+    "2/united states/nevada/lyon/",
+    "3/united states/nevada/lyon/yerington/",
+    "3/united states/nevada/lyon/silver city/",
+    "3/united states/nevada/lyon/dayton/"
+  ],
+  "contributor": [
+    "university of nevada las vegas university libraries"
+  ],
+  "date": "1883-10-20",
+  "dates": [
+    "1883-10-20"
+  ],
+  "description": [
+    "LYON COUNTY TIMES DA YTONNEVA DA SATURDAYOCTOBER 20 1883 AVOIDANCE QF THE CHINESE RESTRICTION ACT It is alleged that nine out of ten of ail the Chinese arriving on the steam ers from Hongkong are of the identi cal class intended to be excluded by the tenyear Chinese Exclusion Act that by means of certificates issued by the Superintendent of Customs hundreds of Chinese come to the coast under the guise of traders stu dents merchants and travelers who are really ander the banot the re striction law that our own Custom officers have no discretion in the matter and are under the law com pelled to accept the Chinese certifi cate of the right of the Chinaman hearing it to land and that there is no check whatever to the issuance of these certificates by the officials in China If these things are true and the evidences certainly appear to substantiate the allegations then so far as our Restriction Act is concerned it is wholly at the mercy of Chinese officials in China who have no care whatever regarding the enforcement of our laws and probably secretly enjoy the power they possess to nul ify our enactments The Ban"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-06-30T14:57:13.431Z",
+  "group": [
+    "ndnp/nvln",
+    "university-of-nevada-las-vegas-university-libraries-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84022053/1883-10-20/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554474:1883102001:0172/full/pct:6.25/0/default.jpg#h=331&w=202",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554474:1883102001:0172/full/pct:12.5/0/default.jpg#h=663&w=404",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nvln/batch_nvln_tonopah_ver01/data/sn84022053/00279554474/1883102001/0172.xml&format=alto_xml"
+  ],
+  "index": 122,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "yerington",
+    "silver city",
+    "united states",
+    "lyon",
+    "dayton",
+    "nevada"
+  ],
+  "location_city": [
+    "yerington",
+    "silver city",
+    "dayton"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lyon"
+  ],
+  "location_state": [
+    "nevada"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "5",
+    "2",
+    "4",
+    "1",
+    "7",
+    "0000000002",
+    "sn84022053"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84022053"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "5",
+    "4",
+    "4",
+    "7",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84022053-1883-10-20-ed-1-0172",
+  "partof": [
+    "chronicling america",
+    "lyon county times (silver city, nev.) 1874-1907",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "lyon county times (silver city, nev.) 1874-1907"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84022053/1883-10-20/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84022053/1883-10-20/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "silver city",
+    "yerington",
+    "united states",
+    "newspapers",
+    "history",
+    "nevada",
+    "silver city (nev.)",
+    "lyon",
+    "dayton (nev.)",
+    "dayton",
+    "sources"
+  ],
+  "timestamp": "2023-07-01T06:42:21.715Z",
+  "title": "Image 2 of Lyon County times (Silver City, Nev.), October 20, 1883",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84022053/1883-10-20/ed-1/?sp=2&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnvln%2Fbatch_nvln_tonopah_ver01%2Fdata%2Fsn84022053%2F00279554474%2F1883102001%2F0172.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

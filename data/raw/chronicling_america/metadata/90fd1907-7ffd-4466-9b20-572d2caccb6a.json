@@ -1,0 +1,152 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84026749/1909-01-27/ed-1/?sp=3"
+  ],
+  "batch": [
+    "dlc_sierra_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1909-01-27",
+  "dates": [
+    "1909-01-27"
+  ],
+  "description": [
+    "I ITHE J J JI I THE WASHINGTON W WASIIINCTONTDJES SHINrrO TIMES WEDNESDAY W YEIE LILJATJAMnx Iil JANUARY 27 7 lJH 3 SMALL CHANGE NOW NOWFOR NO NOFOR 4 FOR BEVERIDGE BILL BILLChild BilLChild BILLChild Child Labor Regulation RegulationPlan RegulationPlan RegulationPlan Plan Not Regarded Feas Feasible Feasible Feasible ible By Senators SenatorsUNCONSTITUTIONAL SenatorsUNCONSTITUTIONAL SenatorsUNCONSTITUTIONAL UNCONSTITUTIONAL UNCONSTITUTIONALIS IS THE BELIEF NOW NOWme NOYISCl1cme NOWScieme SCl1cme me to Employ Commerce CommerceGteaae CommerceCltttoc CommerceCtti3c Gteaae Atoo Not in Favor Ftyorin Favorin FsyorI I in the South Southtienalor SouthlieAator SouthenttOt tienalor Btfvaridges a wsrIda child labor bill billwhich binIdcb bilLwhich which Idcb has aroused discussion from onend OIM OIMelMl on oftend end of the fib country i117 to the other has hasboon uuIbeeR baJbesit boon put ut out of the running for the rest restof ratof restof of this snarton InITIkMLTIle snartonTba a1o a1oThe TIle 8c 8eltate Suite ate not only will not pass it itthis itU t tthis this U sesston aon n but it will not be given givenany JCtv4many gtvtflany any extended x attenUon Indeed thereare therer there thereare are r indications lncU tlons that the movement to togat topi tochild gat child labor regulated by the Gov GovRramnat GovenMDt G0VeramfIlt"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:45:11.685Z",
+  "group": [
+    "ndnp/dlc-2004_2006",
+    "library-of-congress-washington-dc-awardee-1"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84026749/1909-01-27/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_sierra_ver01:data:sn84026749:100492842:1909012701:0376/full/pct:3.125/0/default.jpg#h=310&w=239",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_sierra_ver01:data:sn84026749:100492842:1909012701:0376/full/pct:6.25/0/default.jpg#h=621&w=478",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_sierra_ver01/data/sn84026749/100492842/1909012701/0376.xml&format=alto_xml"
+  ],
+  "index": 182,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "0000000003",
+    "8",
+    "9",
+    "sn84026749",
+    "4",
+    "2",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84026749"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "1",
+    "0",
+    "0",
+    "4",
+    "9",
+    "2",
+    "8",
+    "4",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Washington times herald"
+  ],
+  "page_id": "sn84026749-1909-01-27-ed-1-0376",
+  "partof": [
+    "serial and government publications division",
+    "the washington times (washington [d.c.]) 1902-1939",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington times (washington [d.c.]) 1902-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84026749/1909-01-27/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84026749/1909-01-27/ed-1/"
+  ],
+  "shelf_id": "03",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-12T03:21:10.525Z",
+  "title": "Image 3 of The Washington times (Washington [D.C.]), January 27, 1909, (Last Edition)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84026749/1909-01-27/ed-1/?sp=3&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_sierra_ver01%2Fdata%2Fsn84026749%2F100492842%2F1909012701%2F0376.xml&q=child+labor&relevant_snippet=1"
+}

@@ -1,0 +1,154 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86075250/1961-01-20/ed-1/?sp=2"
+  ],
+  "batch": [
+    "mthi_joliet_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/blaine/",
+    "3/united states/montana/blaine/harlem/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1961-01-20",
+  "dates": [
+    "1961-01-20"
+  ],
+  "description": [
+    "The Harlem News JOHNSONS PUBLBHEBS IVcfl E Johnson Maufw Maxine Johnson SecyTress Entered as secooddass matter at the post office at Har lem Montana July 13 1908 under the Act of March 9 1879 MBTION At loi TOR lAt ASSOCrATIN SUBSCRIPTION PRICES One year hi county 3 0Q Six months 175 One year outside county 350 Six months M 9 One year In Canada 4J9 Work tar a Greater aad Mare Praaperoas Maataaa TM to a inject that abaaM tndade aB Meataaaae Payable to Advance MUtOUS FIFTEEN YEARS Tha KipJinger Magazines Changing Times predicts that by 1975 our nation will have grown to 230 million in popu lation will have built an additional 22 million homes os well os many other radical changes Now that we are into the first year 1961 of the fabulous fifteen years ahead lets take o look at what the Changing Time predicts A population growth to 230 million a gross national pro duct in the neighborhood of a trillion dollars inflation that wilt shrink the dollar another 25 per cent individual incomes stp 50 per cent The growth will be in the West Southwest Southeast ond the upper tier of the midwestem states they"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-10-15T00:10:51.881Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86075250/1961-01-20/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_joliet_ver01:data:sn86075250:00517179127:1961012001:0018/full/pct:6.25/0/default.jpg#h=493&w=359",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_joliet_ver01:data:sn86075250:00517179127:1961012001:0018/full/pct:12.5/0/default.jpg#h=986&w=719",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_joliet_ver01/data/sn86075250/00517179127/1961012001/0018.xml&format=alto_xml"
+  ],
+  "index": 67,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "montana",
+    "harlem",
+    "blaine",
+    "united states"
+  ],
+  "location_city": [
+    "harlem"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "blaine"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0000000002",
+    "0",
+    "2",
+    "sn86075250",
+    "7",
+    "9",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86075250"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "9",
+    "1",
+    "2",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86075250-1961-01-20-ed-1-0018",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the harlem news (harlem, mont.) 1908-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the harlem news (harlem, mont.) 1908-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86075250/1961-01-20/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86075250/1961-01-20/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "montana",
+    "harlem",
+    "blaine",
+    "united states"
+  ],
+  "timestamp": "2023-10-15T00:25:25.523Z",
+  "title": "Image 2 of The Harlem news (Harlem, Mont.), January 20, 1961",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86075250/1961-01-20/ed-1/?sp=2&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_joliet_ver01%2Fdata%2Fsn86075250%2F00517179127%2F1961012001%2F0018.xml&q=computers&relevant_snippet=1"
+}

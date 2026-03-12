@@ -1,0 +1,783 @@
+{
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "subjects": [
+    {
+      "heading": "Race discrimination",
+      "authorityType": "topicalSubject",
+      "naId": 10643291
+    },
+    {
+      "heading": "Discrimination in employment",
+      "authorityType": "topicalSubject",
+      "naId": 10639692
+    },
+    {
+      "heading": "African Americans",
+      "authorityType": "topicalSubject",
+      "naId": 10637399
+    },
+    {
+      "heading": "Discrimination",
+      "authorityType": "topicalSubject",
+      "naId": 10639691
+    }
+  ],
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "title": "California Oil Companies",
+  "coverageEndDate": {
+    "month": 11,
+    "year": 1944,
+    "day": 26,
+    "logicalDate": "1944-11-26"
+  },
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "San Bruno",
+          "phone": "650-238-3501",
+          "address1": "1000 Commodore Drive",
+          "postalCode": "94066-2350",
+          "name": "National Archives at San Francisco",
+          "state": "CA",
+          "fax": "650-238-3510",
+          "email": "sanbruno.archives@nara.gov",
+          "mailCode": "RRFS"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper",
+          "containerId": "1"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "coverageStartDate": {
+    "month": 11,
+    "year": 1944,
+    "day": 26,
+    "logicalDate": "1944-11-26"
+  },
+  "dataControlGroup": {
+    "groupName": "National Archives at San Francisco",
+    "groupId": "RRFS",
+    "groupCd": "RRFS"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "12000826-california-oil_001.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_001.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752354",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_002.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_002.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752355",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_003.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_003.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752356",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_004.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_004.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752357",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_005.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_005.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752358",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_006.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_006.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752359",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_007.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_007.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752360",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_008.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_008.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752361",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_009.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_009.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752362",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_010.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_010.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752363",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_011.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_011.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752364",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_012.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_012.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752365",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_013.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_013.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752366",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_014.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_014.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752367",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_015.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_015.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752368",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_016.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_016.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752369",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_017.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_017.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752370",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_018.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_018.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752371",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_019.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_019.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752372",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_020.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_020.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752373",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_021.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_021.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752374",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_022.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_022.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752375",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_023.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_023.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752376",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_024.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_024.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752377",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_025.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_025.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752378",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_026.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_026.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752379",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_027.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_027.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752380",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_028.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_028.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752381",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_029.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_029.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752382",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_030.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_030.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752383",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_031.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_031.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752384",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_032.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_032.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752385",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_033.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_033.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752386",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_034.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_034.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752387",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_035.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_035.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752388",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_036.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_036.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752389",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_037.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_037.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752390",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_038.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_038.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752391",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_039.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_039.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752392",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_040.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_040.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752393",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_041.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_041.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752394",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_042.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_042.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752395",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_043.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_043.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752396",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_044.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_044.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752397",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_045.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_045.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752398",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_046.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_046.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752399",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_047.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_047.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752400",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_048.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_048.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752401",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_049.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_049.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752402",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_050.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_050.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752403",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_051.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_051.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752404",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_052.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_052.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752405",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_053.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_053.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752406",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_054.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_054.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752407",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_055.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_055.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752408",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_056.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_056.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752409",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_057.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_057.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752410",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_058.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_058.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752411",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_059.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_059.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752412",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_060.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_060.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752413",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_061.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_061.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752414",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_062.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_062.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752415",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_063.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_063.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752416",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_064.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_064.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752417",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_065.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_065.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752418",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_066.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_066.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752419",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_067.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_067.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752420",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_068.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_068.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752421",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_069.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_069.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752422",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_070.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_070.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752423",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_071.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_071.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752424",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_072.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_072.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752425",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_073.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_073.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752426",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_074.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_074.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752427",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_075.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_075.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752428",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_076.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_076.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752429",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_077.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_077.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752430",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_078.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_078.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752431",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_079.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_079.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752432",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_080.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_080.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752433",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil_081.jpg",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil_081.jpg",
+      "objectFileSize": 123456,
+      "objectId": "400752434",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "12000826-california-oil.pdf",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/san-francisco/rg-228/12000826/12000826-california-oil.pdf",
+      "objectFileSize": 123456,
+      "objectId": "400752353",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1940,
+        "logicalDate": "1940-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 228,
+      "inclusiveEndDate": {
+        "year": 1946,
+        "logicalDate": "1946-01-01"
+      },
+      "title": "Records of the Committee on Fair Employment Practice",
+      "naId": 555
+    },
+    {
+      "inclusiveStartDate": {
+        "month": 8,
+        "year": 1941,
+        "logicalDate": "1941-08-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "Office for Emergency Management. Committee on Fair Employment Practice. Division of Field Operations. ( 05/27/1943 - 06/28/1946)",
+          "abolishDate": {
+            "month": 6,
+            "year": 1946,
+            "day": 28,
+            "logicalDate": "1946-06-28"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 5,
+            "year": 1943,
+            "day": 27,
+            "logicalDate": "1943-05-27"
+          },
+          "naId": 10454719
+        },
+        {
+          "creatorType": "Predecessor",
+          "heading": "Office for Emergency Management. War Manpower Commission. Committee on Fair Employment Practice. ( 07/30/1942 - 05/27/1943)",
+          "abolishDate": {
+            "month": 5,
+            "year": 1943,
+            "day": 27,
+            "logicalDate": "1943-05-27"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 7,
+            "year": 1942,
+            "day": 30,
+            "logicalDate": "1942-07-30"
+          },
+          "naId": 10462845
+        },
+        {
+          "creatorType": "Predecessor",
+          "heading": "Office for Emergency Management. Office of Production Management. Committee on Fair Employment Practice. ( 06/25/1941 - 01/24/1942)",
+          "abolishDate": {
+            "month": 1,
+            "year": 1942,
+            "day": 24,
+            "logicalDate": "1942-01-24"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 6,
+            "year": 1941,
+            "day": 25,
+            "logicalDate": "1941-06-25"
+          },
+          "naId": 10462667
+        },
+        {
+          "creatorType": "Predecessor",
+          "heading": "Office for Emergency Management. Committee on Fair Employment Practice. Division of Field Operations. Region XII. ( 09/01/1943 - 12/15/1945)",
+          "abolishDate": {
+            "month": 12,
+            "year": 1945,
+            "day": 15,
+            "logicalDate": "1945-12-15"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 9,
+            "year": 1943,
+            "day": 1,
+            "logicalDate": "1943-09-01"
+          },
+          "naId": 10453029
+        },
+        {
+          "creatorType": "Predecessor",
+          "heading": "Office for Emergency Management. War Production Board. Committee on Fair Employment Practice. ( 01/24/1942 - 07/30/1942)",
+          "abolishDate": {
+            "month": 7,
+            "year": 1942,
+            "day": 30,
+            "logicalDate": "1942-07-30"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 1,
+            "year": 1942,
+            "day": 24,
+            "logicalDate": "1942-01-24"
+          },
+          "naId": 10462668
+        }
+      ],
+      "inclusiveEndDate": {
+        "month": 3,
+        "year": 1946,
+        "logicalDate": "1946-03-01"
+      },
+      "title": "Closed Case Files",
+      "naId": 12000826
+    }
+  ],
+  "scopeAndContentNote": "The following data is associated with this file unit: \nClaimant Name: Epps, Sterling Bernard\nEmployer: City of Taft\nDiscrimination Type: Race (Black Person)\nReferral Source: Complainant - Letter",
+  "naId": 400752352
+}

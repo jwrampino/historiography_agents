@@ -1,0 +1,123 @@
+{
+  "onlineResources": [
+    {
+      "note": "This file was scanned as part of a collaboration effort between Fold3 and the National Archives.",
+      "description": "Fold3",
+      "url": "https://www.fold3.com/image/147394454"
+    }
+  ],
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "title": "Cajlingold, Kalman - Soviet Union",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Chicago",
+          "phone": "773-948-9001",
+          "address1": "7358 South Pulaski Road",
+          "postalCode": "60629-5898",
+          "name": "National Archives at Chicago",
+          "state": "IL",
+          "fax": "773-948-9050",
+          "email": "chicago.archives@nara.gov",
+          "mailCode": "RM-CH"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupId": "ou=NRDA,ou=groups",
+    "groupCd": "RMCH"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "microformPublications": [
+    {
+      "identifier": "M1995",
+      "note": "The start of this file can be found on Roll 241.",
+      "title": "M1995 - Naturalization Petition and Record Books for the United States District Court for the Northern district of Ohio, Eastern Division, Cleveland, 1907-1946."
+    }
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "Fold3 2019",
+      "type": "Search Identifier"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "1208.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/microfilm-publications/M1995-NatPet_NorthDistOhio_1907-1946/0002/export_M1995-NatPet_NorthDistOhio_1907-1946_0241_28603/images/1208.jpg",
+      "objectFileSize": 513487,
+      "objectDesignator": "Fold3 File #147394454",
+      "objectId": "147814725",
+      "objectDescription": "Other, 1938. Image provided by Fold3.",
+      "objectType": "Image (JPG)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1685,
+        "logicalDate": "1685-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 21,
+      "inclusiveEndDate": {
+        "year": 2009,
+        "logicalDate": "2009-12-31"
+      },
+      "title": "Records of District Courts of the United States",
+      "naId": 350
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1867,
+        "logicalDate": "1867-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "U.S. District Court for the Eastern (Cleveland) Division of the Northern District of Ohio. 6/8/1878-",
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 6,
+            "year": 1878,
+            "day": 8,
+            "logicalDate": "1878-06-08"
+          },
+          "naId": 10448303
+        }
+      ],
+      "inclusiveEndDate": {
+        "month": 9,
+        "year": 1991,
+        "day": 26,
+        "logicalDate": "1991-09-26"
+      },
+      "title": "Naturalization Petitions",
+      "naId": 1127790
+    }
+  ],
+  "naId": 147814724
+}

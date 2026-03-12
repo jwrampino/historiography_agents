@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85059809/1900-10-18/ed-1/?sp=1"
+  ],
+  "batch": [
+    "wvu_bacall_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/west virginia/",
+    "2/united states/west virginia/cabell/",
+    "3/united states/west virginia/cabell/huntington/"
+  ],
+  "contributor": [
+    "west virginia university"
+  ],
+  "date": "1900-10-18",
+  "dates": [
+    "1900-10-18"
+  ],
+  "description": [
+    "fpjjllj Established Sept t 1887 Huntington W Va Thursday Evening October 181900 Price l Cents wy You should buy your shoes at Broh j Bros uptodate shoe store i 1st That we carry none but the most reliable makes 2nd That our stock is always new j and uptodate 3rd That lour prices are right for good quality 4th That we guarantee our prices to be the lowest and we will refund the money at all times to anyone not satis i fied i 5th That we do a strictly one price i business and you can always feel as j sured of obtaining the very best shoe for the lowest price i SOLE IGEPTS FF i i Hanan Sons fine Mens shoes j Hanan Sons fine Ladies shoes Drew Selby Cosfine Ladies shoes i The Famons Budds Childrens shoes J The Walk over 350 Mens shoes Stacy Adams Cos fine shoes Rochester Make of Ladies shoes In fact our agencies are the pick of j the country BROH BROS u The One Price Clothiers and Shoe Men 312 I 2ss2 CorTMnHHe9th st m Ladies Bazaar Tne Ladies Bazaar Grand GM ooenino At The Ladies Bazaar Friday October 19th This"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-27T16:56:38.467Z",
+  "group": [
+    "ndnp/wvu",
+    "west-virginia-university-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85059809/1900-10-18/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_bacall_ver02:data:sn85059809:00514158253:1900101801:0522/full/pct:6.25/0/default.jpg#h=499&w=335",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_bacall_ver02:data:sn85059809:00514158253:1900101801:0522/full/pct:12.5/0/default.jpg#h=998&w=670",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wvu/batch_wvu_bacall_ver02/data/sn85059809/00514158253/1900101801/0522.xml&format=alto_xml"
+  ],
+  "index": 99,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "cabell",
+    "west virginia",
+    "united states",
+    "huntington"
+  ],
+  "location_city": [
+    "huntington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cabell"
+  ],
+  "location_state": [
+    "west virginia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn85059809",
+    "0",
+    "3",
+    "5",
+    "4",
+    "1",
+    "2",
+    "0000000001",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85059809"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "4",
+    "1",
+    "5",
+    "8",
+    "2",
+    "5",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday advertiser",
+    "Herald-advertiser"
+  ],
+  "page_id": "sn85059809-1900-10-18-ed-1-0522",
+  "partof": [
+    "the huntington advertiser (huntington, w. va.) 1885-1979",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the huntington advertiser (huntington, w. va.) 1885-1979"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85059809/1900-10-18/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85059809/1900-10-18/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "cabell",
+    "newspapers",
+    "huntington",
+    "west virginia",
+    "huntington (w. va.)"
+  ],
+  "timestamp": "2025-07-15T23:41:46.543Z",
+  "title": "Image 1 of The Huntington advertiser (Huntington, W. Va.), October 18, 1900",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85059809/1900-10-18/ed-1/?sp=1&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwvu%2Fbatch_wvu_bacall_ver02%2Fdata%2Fsn85059809%2F00514158253%2F1900101801%2F0522.xml&q=manifest+destiny&relevant_snippet=1"
+}

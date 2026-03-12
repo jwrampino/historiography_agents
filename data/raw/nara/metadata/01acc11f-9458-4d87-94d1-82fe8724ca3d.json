@@ -1,0 +1,125 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "Remarks Regarding the Soviet Union",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Independence",
+          "phone": "816-268-8272",
+          "address1": "500 West U.S. Highway 24",
+          "postalCode": "64050-1798",
+          "name": "Harry S. Truman Library",
+          "state": "MO",
+          "fax": "816-268-8295",
+          "email": "truman.reference@nara.gov",
+          "mailCode": "PL-HST"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "depth": 0,
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "width": 0,
+          "specificMediaType": "Paper",
+          "height": 0
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupName": "Harry S. Truman Library",
+    "groupId": "PL-HST",
+    "groupCd": "PL-HST"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "productionDates": [
+    {
+      "year": 1949,
+      "logicalDate": "1949-01-01"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "967751-02-001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602209/967751/967751-02-001.jpg",
+      "objectFileSize": 1234,
+      "objectId": "183568257",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "967751-02-002.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/truman/hst-psf/602209/967751/967751-02-002.jpg",
+      "objectFileSize": 1234,
+      "objectId": "183568258",
+      "objectType": "Image (JPG)"
+    }
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "HST-PSF",
+      "inclusiveStartDate": {
+        "year": 1945,
+        "logicalDate": "1945-01-01"
+      },
+      "distance": 3,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "year": 1960,
+        "logicalDate": "1960-01-01"
+      },
+      "title": "President's Secretary's Files (Truman Administration)",
+      "naId": 1205
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1945,
+        "logicalDate": "1945-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "President (1945-1953 : Truman). Office of the Personal Secretary. (1945 - 1953)",
+          "abolishDate": {
+            "year": 1953,
+            "logicalDate": "1953-01-01"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1945,
+            "logicalDate": "1945-01-01"
+          },
+          "naId": 10467188
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1953,
+        "logicalDate": "1953-01-01"
+      },
+      "title": "Personal Files",
+      "naId": 602209
+    },
+    {
+      "distance": 1,
+      "levelOfDescription": "fileUnit",
+      "title": "Ross, Mr. and Mrs. Charles G. [Truman's Potsdam diary]",
+      "naId": 967751
+    }
+  ],
+  "naId": 183568256
+}

@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1949-04-24/ed-1/?sp=54"
+  ],
+  "batch": [
+    "dlc_2hayden_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1949-04-24",
+  "dates": [
+    "1949-04-24"
+  ],
+  "description": [
+    "Maginot Line Psychology j Underrates Soviet Might Reports on Russias Lagging Heavy Industry Compared With Pessimism About Nazi War Power in 1938 By Constantine Brown The occupation of armchair strategist normally is an inter esting and mnaingend harmlesspastime But when persons in responsible official positions indulge ini it they may create a serious situation For some time now we have seen arising a Maginot Line men tality with respect to the possibility of another world war One group of officials has been dis counting the likelihood of an EastWest armed conflict with the argument that Russian indus trial production is 90 low that the Soviet Army is not capable of a major effort Another group holds that in any event the United States Air Force could win a war against Russia in a very short time ranging from three days to three months Nazi Might Misjudged Most estimates presented to President Truman and toprank ing Defense and State Depart ment officials emphasize the fact that Russias flveyear plan for her heavy industry is far behind schedule It is pointed out with a wealth of circumstantial evi dence that the factories have not filled their quotas and that the transportation system"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:42:51.879Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1949-04-24/ed-1/?sp=54",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_2hayden_ver02:data:sn83045462:00280604963:1949042401:0060/full/pct:6.25/0/default.jpg#h=493&w=349",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_2hayden_ver02:data:sn83045462:00280604963:1949042401:0060/full/pct:12.5/0/default.jpg#h=987&w=699",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_2hayden_ver02/data/sn83045462/00280604963/1949042401/0060.xml&format=alto_xml"
+  ],
+  "index": 92,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "8",
+    "6",
+    "9",
+    "4",
+    "0000000054",
+    "3",
+    "sn83045462",
+    "2",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000054"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "4",
+    "9",
+    "6",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1949-04-24-ed-1-0060",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1949-04-24/ed-1/?sp=54"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1949-04-24/ed-1/"
+  ],
+  "shelf_id": "054",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-25T07:36:08.311Z",
+  "title": "Image 54 of Evening star (Washington, D.C.), April 24, 1949",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1949-04-24/ed-1/?sp=54&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_2hayden_ver02%2Fdata%2Fsn83045462%2F00280604963%2F1949042401%2F0060.xml&q=child+labor&relevant_snippet=1"
+}

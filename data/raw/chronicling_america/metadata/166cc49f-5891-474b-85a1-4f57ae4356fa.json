@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn89053706/1893-05-09/ed-1/?sp=3"
+  ],
+  "batch": [
+    "gu_fornax_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/georgia/",
+    "2/united states/georgia/fulton/",
+    "3/united states/georgia/fulton/atlanta/"
+  ],
+  "contributor": [
+    "digital library of georgia, a project of galileo located at the university of georgia libraries"
+  ],
+  "date": "1893-05-09",
+  "dates": [
+    "1893-05-09"
+  ],
+  "description": [
+    "DR HATHAWAY CO IrouiaU over tue United States Our cures are PEttM A EXT No poisonous medicines used MEN Write to us If you have any of the following diseases Night Emissions Weak or Undeveloped Organs Impoteney Nervous De bility Gonorrhoea Gleet Stricture Syphilis Piles Sores Pimples or any Private Disease WOMEN Consult us if you are suffering from any of the following diseases Female Weakness Displacements Irregularities Bar renness Whites Bearing Down Pains Poor Circulation Nervousness Pimples on Face or any Disease Patients treated by mail and medicines sent to nil parts of the world free from observation Address Dr Hathaway Co 22 12 South Broad street Atlanta Ga References given if desired Q2O Years of marvel ous success in the treatment of MEN and WOMEN Or WAI Bowes ATLANTA CA SPECIALIST IN Chronic Nervous Blood and Skin Diseases VARICOCELE and Hydrocele permanent ly cured in every ease NERVOUS debility seminal losses de Bpondency effects of bad habits STERILITY I MPOTENCE Those desiring to marrybut are physically incapaci tated iuiOly restored Blood and Skin diseases Syphilis and its effects Ulcers and Sores Urinary Kidney and Bladder trouble Enlarged Prostate Urethral Stricture permanently cured without cutting or caustics at home"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-05-22T12:56:39.660Z",
+  "group": [
+    "ndnp/gu",
+    "digital-library-of-georgia-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn89053706/1893-05-09/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fornax_ver01:data:sn89053706:00393344660:1893050901:0265/full/pct:3.125/0/default.jpg#h=265&w=180",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fornax_ver01:data:sn89053706:00393344660:1893050901:0265/full/pct:6.25/0/default.jpg#h=531&w=360",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fornax_ver01:data:sn89053706:00393344660:1893050901:0265/full/pct:12.5/0/default.jpg#h=1062&w=721",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/gu/batch_gu_fornax_ver01/data/sn89053706/00393344660/1893050901/0265.xml&format=alto_xml"
+  ],
+  "index": 7,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "georgia",
+    "fulton county",
+    "atlanta",
+    "fulton"
+  ],
+  "location_city": [
+    "atlanta"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "fulton"
+  ],
+  "location_state": [
+    "georgia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000003",
+    "1",
+    "9",
+    "6",
+    "4",
+    "3",
+    "sn89053706",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn89053706"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "9",
+    "3",
+    "3",
+    "4",
+    "4",
+    "6",
+    "6",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Weekly constitution"
+  ],
+  "page_id": "sn89053706-1893-05-09-ed-1-0265",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the atlanta constitution (atlanta, ga.) 1885-19??"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the atlanta constitution (atlanta, ga.) 1885-19??"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn89053706/1893-05-09/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn89053706/1893-05-09/ed-1/"
+  ],
+  "shelf_id": "03",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "georgia",
+    "atlanta (ga.)",
+    "united states",
+    "fulton county",
+    "atlanta",
+    "fulton county (ga.)",
+    "newspapers",
+    "fulton"
+  ],
+  "timestamp": "2024-05-22T22:01:38.893Z",
+  "title": "Image 3 of The Atlanta constitution (Atlanta, Ga.), May 9, 1893",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn89053706/1893-05-09/ed-1/?sp=3&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fgu%2Fbatch_gu_fornax_ver01%2Fdata%2Fsn89053706%2F00393344660%2F1893050901%2F0265.xml&q=cuba&relevant_snippet=1"
+}

@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn89055091/1893-02-09/ed-1/?sp=1"
+  ],
+  "batch": [
+    "idhi_damascus_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/idaho/",
+    "2/united states/idaho/washington/",
+    "3/united states/idaho/washington/weiser/"
+  ],
+  "contributor": [
+    "idaho state historical society"
+  ],
+  "date": "1893-02-09",
+  "dates": [
+    "1893-02-09"
+  ],
+  "description": [
+    "g JK Hurrah for Washington Co on General Principles Hcisie the Day when True 1 Progress Strikes Us NO 9 WEISER IDAHO THURSDAY FEBRUARY 9 3893 YOL III 0 S L Time Table EAST bound fJo 3 Past mail No 8 Express No 22 Freight No 24 Freight 337 p m i 504 a m 327 p m 655 a m WEST BOUND 153 p m 339 a m 327 p m p m jlo 1 Fast Mail No 7 Express No 21 Freight No 23 Freight 7 BOISE BRANCH Close connection made at Nampa with trains Nos 2 and 8 A E Roberts Agent IS1 HARVEY NOTARY PUBLIC o and LOAN BROKER MONEY to loan on improved ranches at a low rate of interest plats of all surveyed land in the county also blanks for all kinds of conveyancing Am agent for Home Ph\u0153nix Royal Lan cashire Lion Imperial and Hamburg Bremen Insurance companies WKI8JSK IDAHO I have land office W DANIELS Negotiator of Loans BOISE CITY IDAHO All desiring loans on ranch or town property long or short time can find ac commodations by writing to John Daniels Boise Idaho You can obtain either private money for any"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-06T12:33:53.080Z",
+  "group": [
+    "ndnp/idhi",
+    "idaho-state-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn89055091/1893-02-09/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_damascus_ver01:data:sn89055091:0041421180A:1893020901:0468/full/pct:6.25/0/default.jpg#h=418&w=318",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_damascus_ver01:data:sn89055091:0041421180A:1893020901:0468/full/pct:12.5/0/default.jpg#h=836&w=636",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/idhi/batch_idhi_damascus_ver01/data/sn89055091/0041421180A/1893020901/0468.xml&format=alto_xml"
+  ],
+  "index": 150,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "weiser",
+    "washington",
+    "idaho",
+    "united states"
+  ],
+  "location_city": [
+    "weiser"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "washington"
+  ],
+  "location_state": [
+    "idaho"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "a",
+    "0000000001",
+    "2",
+    "sn89055091",
+    "8",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn89055091"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "2",
+    "1",
+    "1",
+    "8",
+    "0",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Signal"
+  ],
+  "page_id": "sn89055091-1893-02-09-ed-1-0468",
+  "partof": [
+    "chronicling america",
+    "the weiser signal (weiser, idaho) 1890-1904",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the weiser signal (weiser, idaho) 1890-1904"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn89055091/1893-02-09/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn89055091/1893-02-09/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "idaho",
+    "weiser",
+    "weiser (idaho)",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-07-06T16:47:04.853Z",
+  "title": "Image 1 of The Weiser signal (Weiser, Idaho), February 9, 1893",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn89055091/1893-02-09/ed-1/?sp=1&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fidhi%2Fbatch_idhi_damascus_ver01%2Fdata%2Fsn89055091%2F0041421180A%2F1893020901%2F0468.xml&q=computers&relevant_snippet=1"
+}

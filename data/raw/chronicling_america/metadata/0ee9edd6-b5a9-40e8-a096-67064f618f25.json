@@ -1,0 +1,131 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16136/?sp=2"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1819-06-04",
+  "dates": [
+    "1819-06-04"
+  ],
+  "description": [
+    "TO CORRESPONDENTS We have received the communication of Snart on the subject 6f the Vestry and might be disposed to give it insertion were we able to comprehend its drift It s meant perhaps to be satirical but irony is a weapon that requires to be weilded by a powerful hand since it cuts offen both ways and may wound in places that it was never intended toreach We regret that the subject is not laid at rest as it might easily be by a spirit of mutnal gandouar and conciliation No farther areuments are wanted to guide disinterested persons in forming their estimate of itstrue bearings and wit is misapplied when it has the tendency to keep up irrita tion and dissentions We thank A Frtenn for his poetry which is brilliant bat flows too strong for the Hurkaru BENGAL HURKARU CALCUTTA TRIDAY JUNE 4 1819 Yesterday arrived the ship llergill Captain Potton from England the 29th of December and Gibraltar the 11th February also the Elizabeth Captain Osiler from Bombay the 27th April and Eskapilly the 25th of May The arrival of the Ellergill although she car farnish no newspapers Of later date than what might have been"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16136/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16136:0002/full/pct:6.25/0/default.jpg#h=344&w=273",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16136:0002/full/pct:12.5/0/default.jpg#h=689&w=546",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16136:0002/full/pct:25.0/0/default.jpg#h=1379&w=1093",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16136:0002/full/pct:50.0/0/default.jpg#h=2758&w=2186",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16136:0002/full/pct:100.0/0/default.jpg#h=5517&w=4373",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16136/0002.alto.xml&format=alto_xml"
+  ],
+  "index": 58,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "india",
+    "calcutta"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "sn88063570",
+    "sn88063571",
+    "sn88063569",
+    "2025-08-13t13:59:42.400000",
+    "0000000002"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16136-0002-alto",
+  "partof": [
+    "asian division",
+    "general collections",
+    "world newspapers",
+    "catalog",
+    "south asian digital collection",
+    "serial and government publications division",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "world digital library"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16136/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16136/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "india",
+    "calcutta"
+  ],
+  "timestamp": "2025-12-12T07:20:38.221Z",
+  "title": "Image 2 of Volume 29, Number 1295, Friday, June 4, 1819 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16136/?sp=2&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16136%2F0002.alto.xml&q=great+war&relevant_snippet=1"
+}

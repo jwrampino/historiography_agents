@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1922-07-15/ed-1/?sp=12"
+  ],
+  "batch": [
+    "dlc_cylon_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1922-07-15",
+  "dates": [
+    "1922-07-15"
+  ],
+  "description": [
+    "N Y Curb Market Quotations furnished by the Associated Press A4IO 600 100 300 ir 1300 800 1 H 500 1100 800 500 10 1400 100 100 21 K 1500 LUX ioo 200 100 roo 500 4H 100 200 1M 300 SOU 1200 1 M M k aoo 10 800 500 700 100 200 Acme Cosl American Drug Stor Amn Metals Tar Light Celluloid pd chic Nipple n Chicago Nipple Cleveland Auto Columbia Kmerald Daniel Motor Duhlier Con A Bad Durant Motors Jibson Howell Gillette Safety R Ooldwyn Pictures Goodyear Tire Grant Motor Hayes Wheel Heyden Chemical Hudson A Man Llbhy McNeill Iiina Loco wi Lima Loco rts Mercer Motors Mercer Mot v t ctf Moon Motors Packard Motor Peerless Motors Philip Morrla Pyrene Mfg Radio Corp com Radio Corp pr South Coal A Iron Swift International Todd Shipyards I S Light Heat In Prof Sliar new Inited Ittuil and Wavne Coal West Eud Chemical STANDARD 800 Anglo Arner Oil lOOO Atlantic Ixihos 50 Buckeye Pipe Line 90 Galena Signal Oil 25 Iniierial Oil Can 80 Prairie Pipe Line 13000 Stan Oil of Ind 100 Stan Oil Ky new 100 Stun Oil of N Y 95 1H 40 53 93"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:56:50.723Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1922-07-15/ed-1/?sp=12",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cylon_ver01:data:sn83045462:00280657153:1922071501:0044/full/pct:6.25/0/default.jpg#h=424&w=327",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cylon_ver01:data:sn83045462:00280657153:1922071501:0044/full/pct:12.5/0/default.jpg#h=848&w=655",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_cylon_ver01/data/sn83045462/00280657153/1922071501/0044.xml&format=alto_xml"
+  ],
+  "index": 130,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "district of columbia",
+    "washington d.c.",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "6",
+    "2",
+    "5",
+    "0000000012",
+    "1",
+    "7",
+    "sn83045462",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000012"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "7",
+    "1",
+    "5",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1922-07-15-ed-1-0044",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1922-07-15/ed-1/?sp=12"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1922-07-15/ed-1/"
+  ],
+  "shelf_id": "12",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "washington",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-20T04:11:19.173Z",
+  "title": "Image 12 of Evening star (Washington, D.C.), July 15, 1922",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1922-07-15/ed-1/?sp=12&q=oil",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_cylon_ver01%2Fdata%2Fsn83045462%2F00280657153%2F1922071501%2F0044.xml&q=oil&relevant_snippet=1"
+}

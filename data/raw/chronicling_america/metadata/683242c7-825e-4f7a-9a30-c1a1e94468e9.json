@@ -1,0 +1,131 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16112/?sp=2"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1819-05-07",
+  "dates": [
+    "1819-05-07"
+  ],
+  "description": [
+    "RR BENGAL HURKARU CALCUTTA FRIDAY MAY 7 3819 No arrivals from sea were reported yesterday neither did the dawk putus in possession of any letters containing novel intelligence Fresh SWes terly gales prevail at present at the head of the Bay with thick hazy weather Sir Thomas Hislop is hourly expected from Madvas as he proposed to quit that place about the Ist instant on a visit to his Excellency the Marquis of Hastings This evening the Historical Play of Henry the Fourth will be performed at the Chowringhee Theatre and anticipations are high with regard 16 the extent of gratification that will be afforded Whatever may liave been the commercial suc cess of the vessels Which have already proceeded from Caleutta to South America they have been certainly fortunate in avoiding the risks of seizure e whieh ate attendant on speculations to a coun trv where civil commotions rage and where com merce has been usually shackled by the most vrievous restraints of a narrow and monopolizing policy The Spaniards where they maintain their ground in the new world are said to hav\u00e9 become more friendly to the enterprize of foreign traders however the following statement attests sufficiently that"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16112/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16112:0002/full/pct:6.25/0/default.jpg#h=352&w=274",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16112:0002/full/pct:12.5/0/default.jpg#h=704&w=548",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16112:0002/full/pct:25.0/0/default.jpg#h=1409&w=1096",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16112:0002/full/pct:50.0/0/default.jpg#h=2818&w=2193",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16112:0002/full/pct:100.0/0/default.jpg#h=5637&w=4386",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16112/0002.alto.xml&format=alto_xml"
+  ],
+  "index": 26,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "calcutta",
+    "india"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "0000000002",
+    "sn88063571",
+    "2025-08-13t13:59:42.400000",
+    "sn88063570",
+    "sn88063569"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16112-0002-alto",
+  "partof": [
+    "catalog",
+    "world digital library",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "asian division",
+    "serial and government publications division",
+    "south asian digital collection",
+    "world newspapers",
+    "general collections"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16112/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16112/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "calcutta",
+    "india"
+  ],
+  "timestamp": "2025-12-12T07:20:21.449Z",
+  "title": "Image 2 of Volume 29, Number 1271, Friday, May 7, 1819 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16112/?sp=2&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16112%2F0002.alto.xml&q=spanish&relevant_snippet=1"
+}

@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84024808/1920-04-18/ed-1/?sp=19"
+  ],
+  "batch": [
+    "mthi_alderfly_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/cascade/",
+    "3/united states/montana/cascade/great falls/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1920-04-18",
+  "dates": [
+    "1920-04-18"
+  ],
+  "description": [
+    "PART TWO j EflMri s Mh s M I GREAT FALLS MONTANA SUNDAY MORNING APRIL 181920 Socmyu GERMANY IS FACING NEW POLITICAL CRISIS IN ITS BATTLE Struggle to Throw Off Yoke of Japanese Has Changed People Are Transformed Race After Year of Fighting and Suffering By FRAZIER HUNT Chicago Tribune Foreign News Service Seoul March 12A year of fighting and suffering for independence has made a new people of the Koreans They are nothing short of a transformed race fi nally awakened from the lethargy that has chained them for countless genera tions There are few stories in the world more dramatic or thrilling than this story of the rebirth of Korea It is the actual coming to life of a nation that j had died and passed on Modern Korea has always been mis ruled The court had degenerated into a fat flabby weak affair that permitted great power to the governors of the rovinees and the local magistrates and armed out the a l important task of col lecting the taxes Graft was everywhere and the eternal system of squeezing that has worked such harm to China was rampant The country had no backbone no morale no spiritual"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:44:23.759Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84024808/1920-04-18/ed-1/?sp=19",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_alderfly_ver01:data:sn84024808:00212477497:1920041801:0422/full/pct:6.25/0/default.jpg#h=473&w=367",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_alderfly_ver01:data:sn84024808:00212477497:1920041801:0422/full/pct:12.5/0/default.jpg#h=946&w=735",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_alderfly_ver01/data/sn84024808/00212477497/1920041801/0422.xml&format=alto_xml"
+  ],
+  "index": 92,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "cascade",
+    "montana",
+    "great falls",
+    "united states"
+  ],
+  "location_city": [
+    "great falls"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cascade"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn84024808",
+    "1",
+    "9",
+    "0000000019",
+    "7",
+    "4",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84024808"
+  ],
+  "number_page": [
+    "0000000019"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "2",
+    "4",
+    "7",
+    "7",
+    "4",
+    "9",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84024808-1920-04-18-ed-1-0422",
+  "partof": [
+    "great falls daily tribune (great falls, mont.) 1895-1921",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "great falls daily tribune (great falls, mont.) 1895-1921"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84024808/1920-04-18/ed-1/?sp=19"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84024808/1920-04-18/ed-1/"
+  ],
+  "shelf_id": "19",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "cascade",
+    "great falls",
+    "montana",
+    "great falls (mont.)",
+    "newspapers"
+  ],
+  "timestamp": "2023-07-05T14:15:12.839Z",
+  "title": "Image 19 of Great Falls daily tribune (Great Falls, Mont.), April 18, 1920",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84024808/1920-04-18/ed-1/?sp=19&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_alderfly_ver01%2Fdata%2Fsn84024808%2F00212477497%2F1920041801%2F0422.xml&q=korea&relevant_snippet=1"
+}

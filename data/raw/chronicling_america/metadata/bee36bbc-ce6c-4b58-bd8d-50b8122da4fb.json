@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82007637/1957-07-26/ed-1/?sp=4"
+  ],
+  "batch": [
+    "ohi_goyle_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/lucas/",
+    "3/united states/ohio/lucas/toledo/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1957-07-26",
+  "dates": [
+    "1957-07-26"
+  ],
+  "description": [
+    "THE UNION JOURNALS Editorial Page Friday July 26 1S57 SUB in Trouble Again UPPLEMENTAL Unemployment Bene 1 fit plans SUB negotiated by unions S and employers are designed to supplement state unemployment compensation by an additional payment from a fund estab lished by the employer Where such plans are truly operating the unemployed worker gets his SUB payment from the employer the same week he gets a pay ment of state unemployment compensa tion When Ohio ruled against such concur rent payments in May of 1956 it forced into operation alternative methods of pay ing SUB In the case of Steelworkers the unemployed person was to receive a lump sum SUB payment when he returned to work In case of an Auto Worker the sub stitute plan would operate by the claim ant not applying for state compensation every third or fourth week but instead getting a SUB payment from the fund cre ated by the employer On Friday of last week the Admin istrator of the Ohio Bureau of Unemploy ment Compensation ruled against even these substitute plans holding that any such SUB payments would have to be con sidered as remuneration and allocated to previous weeks of unemployment"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-04-13T08:01:24.834Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82007637/1957-07-26/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_goyle_ver01:data:sn82007637:00516993820:1957072601:0856/full/pct:6.25/0/default.jpg#h=422&w=306",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_goyle_ver01:data:sn82007637:00516993820:1957072601:0856/full/pct:12.5/0/default.jpg#h=845&w=613",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_goyle_ver01/data/sn82007637/00516993820/1957072601/0856.xml&format=alto_xml"
+  ],
+  "index": 59,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ohio",
+    "toledo",
+    "lucas county",
+    "united states",
+    "lucas"
+  ],
+  "location_city": [
+    "toledo"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lucas"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "8",
+    "5",
+    "6",
+    "9",
+    "0000000004",
+    "3",
+    "2",
+    "0",
+    "sn82007637"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82007637"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "3",
+    "8",
+    "2",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82007637-1957-07-26-ed-1-0856",
+  "partof": [
+    "toledo union journal (toledo, ohio) 1942-current",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "toledo union journal (toledo, ohio) 1942-current"
+  ],
+  "publication_frequency": [
+    "biweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82007637/1957-07-26/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82007637/1957-07-26/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "ohio",
+    "toledo",
+    "lucas county",
+    "united states",
+    "international union, united automobile workers of america (cio)",
+    "labor unions",
+    "lucas county (ohio)",
+    "newspapers",
+    "local 12 (toledo, ohio)",
+    "toledo (ohio)",
+    "lucas"
+  ],
+  "timestamp": "2025-04-13T10:33:16.204Z",
+  "title": "Image 4 of Toledo union journal (Toledo, Ohio), July 26, 1957",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82007637/1957-07-26/ed-1/?sp=4&q=civil+rights",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_goyle_ver01%2Fdata%2Fsn82007637%2F00516993820%2F1957072601%2F0856.xml&q=civil+rights&relevant_snippet=1"
+}

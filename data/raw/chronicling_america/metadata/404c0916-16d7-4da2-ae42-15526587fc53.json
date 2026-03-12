@@ -1,0 +1,165 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045863/1957-03-09/ed-1/?sp=1"
+  ],
+  "batch": [
+    "mb_bia_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/massachusetts/",
+    "2/united states/massachusetts/suffolk/",
+    "3/united states/massachusetts/suffolk/boston/"
+  ],
+  "contributor": [
+    "boston public library"
+  ],
+  "date": "1957-03-09",
+  "dates": [
+    "1957-03-09"
+  ],
+  "description": [
+    "VOICE of NEW ENGLANF NATIONS SALUTE AFRICAS GHANA BOSTON BAKED By MABE KOUNTZE The day lias arrived when champions for equal rights must raise their right hand and declare I am not and have never been a member of the NAACP It does not mat ter if the NAACP is a loyal American organization seek ing to implement not destroy the U S Constitution It does not mater that the NAACP is composed of loyal catholics Protestants and Jews All that matters is that the NAACP offends the Dixiecrats and those upholding Jim crow DIXIESRATS powerful in key political positions and propaganda pages plus a le gion of brainwashed North erners who cry aloud for free doms abroad are comprising the core which is seeking to smear and destory the NAACP calling it subversive for dar ing to oppose the exslave holders cn the issues of civ il rights So now any southern worker upholding the NAACP is subject to be firedor fired at Not in Russia but right here in Dixie U S A THE SUPREME COURT having already been branded as subversive by the Dixie crate who want impeach ment and since Presidents Roosevelt Truman and even Ike"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-21T20:00:53.446Z",
+  "group": [
+    "ndnp/mb",
+    "massachusetts-boston-public-library"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045863/1957-03-09/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83045863:00517172029:1957030901:0859/full/pct:3.125/0/default.jpg#h=283&w=202",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83045863:00517172029:1957030901:0859/full/pct:6.25/0/default.jpg#h=567&w=404",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83045863:00517172029:1957030901:0859/full/pct:12.5/0/default.jpg#h=1135&w=809",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mb/batch_mb_bia_ver01/data/sn83045863/00517172029/1957030901/0859.xml&format=alto_xml"
+  ],
+  "index": 90,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "suffolk",
+    "boston",
+    "new england",
+    "massachusetts",
+    "united states"
+  ],
+  "location_city": [
+    "boston"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "suffolk"
+  ],
+  "location_state": [
+    "massachusetts"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "2",
+    "0",
+    "7",
+    "9",
+    "1",
+    "0000000001",
+    "sn83045863"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045863"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "2",
+    "0",
+    "2",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83045863-1957-03-09-ed-1-0859",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the guardian (boston, mass.) 1901-1960"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the guardian (boston, mass.) 1901-1960"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045863/1957-03-09/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045863/1957-03-09/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "african americans",
+    "african american",
+    "suffolk",
+    "massachusetts",
+    "boston",
+    "new england",
+    "boston (mass.)",
+    "united states"
+  ],
+  "subject_ethnicity": [
+    "african american"
+  ],
+  "timestamp": "2023-08-21T21:09:52.288Z",
+  "title": "Image 1 of The guardian (Boston, Mass.), March 9, 1957",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045863/1957-03-09/ed-1/?sp=1&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmb%2Fbatch_mb_bia_ver01%2Fdata%2Fsn83045863%2F00517172029%2F1957030901%2F0859.xml&q=nuclear&relevant_snippet=1"
+}

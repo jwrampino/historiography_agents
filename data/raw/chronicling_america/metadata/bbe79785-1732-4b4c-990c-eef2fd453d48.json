@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn95047216/1907-02-23/ed-1/?sp=9"
+  ],
+  "batch": [
+    "dlc_aricia_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/florida/",
+    "2/united states/florida/leon/",
+    "3/united states/florida/leon/tallahassee/",
+    "2/united states/florida/duval/",
+    "3/united states/florida/duval/jacksonville/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1907-02-23",
+  "dates": [
+    "1907-02-23"
+  ],
+  "description": [
+    "JOURNALISTIC PANDERERS SHOULD BE SQUELCHED It takes a man like Hearst or Pulitzer who gets out a paper every hour to keep ahead of this man we have in the White House on suggesting thingsgood things as well as bad things The man who gets out a weekly paper is hopelessly left in the race to get there first with an idea nearly every time when he is up against this continuous thinker in spurs and khaki who has a pack of secretaries to take down his ideas as fast as they come to him and a long string of reporters tagging after him ready to grab em hot off the bat and make em public As soon as I saw that the Metropolis unblushingly printed the indecent details in Mrs Evelyn Nesbit Thaws testimony the thought came to me that papers so lost to a sense of propriety decency and good taste should be excluded from the mails I had the same thought again accentdated this time when I saw the same details printed in the TimesUnion of the day follow ing But before I could get this idea into print Roosevelt beat me to it He has already"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2026-02-23T20:46:33.918Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn95047216/1907-02-23/ed-1/?sp=9",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_aricia_ver01:data:sn95047216:print:1907022301:0009/full/pct:6.25/0/default.jpg#h=279&w=214",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_aricia_ver01:data:sn95047216:print:1907022301:0009/full/pct:12.5/0/default.jpg#h=559&w=429",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_aricia_ver01:data:sn95047216:print:1907022301:0009/full/pct:25/0/default.jpg#h=1119&w=858",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_aricia_ver01/data/sn95047216/print/1907022301/0009.xml&format=alto_xml"
+  ],
+  "index": 190,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "duval",
+    "jacksonville",
+    "duval county",
+    "tallahassee",
+    "florida",
+    "leon county",
+    "leon",
+    "united states"
+  ],
+  "location_city": [
+    "tallahassee",
+    "jacksonville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "leon",
+    "duval"
+  ],
+  "location_state": [
+    "florida"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn95047216",
+    "1",
+    "0000000009"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn95047216"
+  ],
+  "number_page": [
+    "0000000009"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn95047216-1907-02-23-ed-1-0009",
+  "partof": [
+    "chronicling america",
+    "the sun (jacksonville, fla.) 1905-1908",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the sun (jacksonville, fla.) 1905-1908"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn95047216/1907-02-23/ed-1/?sp=9"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn95047216/1907-02-23/ed-1/"
+  ],
+  "shelf_id": "09",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "duval",
+    "jacksonville",
+    "duval county (fla.)",
+    "jacksonville (fla.)",
+    "duval county",
+    "tallahassee",
+    "florida",
+    "leon county",
+    "leon county (fla.)",
+    "leon",
+    "united states",
+    "newspapers",
+    "tallahassee (fla.)"
+  ],
+  "timestamp": "2026-02-23T22:56:53.912Z",
+  "title": "Image 9 of The sun (Jacksonville, Fla.), February 23, 1907",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn95047216/1907-02-23/ed-1/?sp=9&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_aricia_ver01%2Fdata%2Fsn95047216%2Fprint%2F1907022301%2F0009.xml&q=immigration&relevant_snippet=1"
+}

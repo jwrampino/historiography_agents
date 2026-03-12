@@ -1,0 +1,153 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86053569/1840-05-02/ed-1/?sp=4"
+  ],
+  "batch": [
+    "dlc_firedrake_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1840-05-02",
+  "dates": [
+    "1840-05-02"
+  ],
+  "description": [
+    "D a taylors balsam of Liverwort J for consumption ami liver complaint coughs colds asthma difficulty 1 breathing pains in the side or bieast tpitting of blood catarrhs palpitation of the heait op predion and boreness of the chest whooping cough pleurisy hectic fever night sweats difficult or proluse expectoration and all other affections of the chest lungs and liver This Medicine is for sale by the proprietor at S75 Bowery between Fointh and Fifth streets New Yoik K H Coleman 138 Market street Baltimore and by LEWIS JOHNSON at his SnufF Tobacco and Fancy Store four doors ea t of the Washington City Post Of fice abo numerous agents throughout the United States As an example of the multitude of certificates we have received in approbation of this medicine the following ar submitted Dear Sir I feel unequivocal pleasure in the opportu nity now offered me ol expressing my apf lobatory opinion ol yiurSalsm of Liverwort ami the succes I have ever obtained from its administration I have used your med icines in upwards of sixty cases comprising all stages of disease from incipent cold and cough to advanced phthisic and have invariably found immediate reliet J recommend it"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:09:10.826Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86053569/1840-05-02/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1840050201:0588/full/pct:3.125/0/default.jpg#h=264&w=195",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1840050201:0588/full/pct:6.25/0/default.jpg#h=528&w=390",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1840050201:0588/full/pct:12.5/0/default.jpg#h=1056&w=780",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_firedrake_ver01/data/sn86053569/00415661502/1840050201/0588.xml&format=alto_xml"
+  ],
+  "index": 70,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "district of columbia",
+    "washington d.c.",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "4",
+    "5",
+    "1",
+    "6",
+    "2",
+    "0000000004",
+    "sn86053569"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86053569"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "6",
+    "1",
+    "5",
+    "0",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86053569-1840-05-02-ed-1-0588",
+  "partof": [
+    "the native american (washington city [i.e. washington, d.c.]) 1837-1840",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the native american (washington city [i.e. washington, d.c.]) 1837-1840"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86053569/1840-05-02/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86053569/1840-05-02/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "washington",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-20T13:11:18.511Z",
+  "title": "Image 4 of The native American (Washington City [i.e. Washington, D.C.]), May 2, 1840",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86053569/1840-05-02/ed-1/?sp=4&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_firedrake_ver01%2Fdata%2Fsn86053569%2F00415661502%2F1840050201%2F0588.xml&q=medicine&relevant_snippet=1"
+}

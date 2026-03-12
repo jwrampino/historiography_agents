@@ -1,0 +1,131 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16105/?sp=3"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1805-12-31",
+  "dates": [
+    "1805-12-31"
+  ],
+  "description": [
+    "ge tien i Wg i hy Child Ce aif i i Sr hy Xo hy Bo na I i Uiehag i h nt Mtg I an P tai Slochin g tNonh bat af t Bary f vn Nh cht dad an ed b hen CaN OF the dea TS te Goren CO Was eel DI ERS ty LACLAB T uy i AULLY ith Dick and ovep rch ras placed th hountel with bla an erly hou i ETD tRitning th Ml WEE compel rholl and lane Juttiy to remark 1 pogt of a Far exceeded a in Indias LORI in the my BY aprointl ly Hae 9 on the late ABLE oe CO RIWALYS Death Renener ore thee and that the fentence of the Peace ayt hiscame ad for be ist ret e thandeith His Body st oule aie bli His Bady is And thou fat ek I not de His Baty i re broken of Lita His Baty is J ho will Cay cto lim His Body i tt and hall aot unl hath decr\u00e9tofith 4 fet him in feet Hig Boly ist ee whio tau his a i His Bali th round abl ten m His Boly i"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16105/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16105:0003/full/pct:6.25/0/default.jpg#h=489&w=329",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16105:0003/full/pct:12.5/0/default.jpg#h=979&w=659",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16105:0003/full/pct:25.0/0/default.jpg#h=1958&w=1318",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16105:0003/full/pct:50.0/0/default.jpg#h=3917&w=2637",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16105:0003/full/pct:100.0/0/default.jpg#h=7835&w=5274",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16105/0003.alto.xml&format=alto_xml"
+  ],
+  "index": 96,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "india",
+    "calcutta"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "sn88063570",
+    "0000000003",
+    "sn88063571",
+    "sn88063569",
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16105-0003-alto",
+  "partof": [
+    "asian division",
+    "general collections",
+    "world newspapers",
+    "catalog",
+    "south asian digital collection",
+    "serial and government publications division",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "world digital library"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16105/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16105/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "india",
+    "calcutta"
+  ],
+  "timestamp": "2025-12-12T07:20:16.157Z",
+  "title": "Image 3 of Volume 11, Number 572, Tuesday, December 31, 1805 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16105/?sp=3&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16105%2F0003.alto.xml&q=great+war&relevant_snippet=1"
+}

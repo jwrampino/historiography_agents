@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn97065763/1898-05-21/ed-2/?sp=2"
+  ],
+  "batch": [
+    "sdhi_daikon_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/south dakota/",
+    "2/united states/south dakota/custer/",
+    "3/united states/south dakota/custer/custer/"
+  ],
+  "contributor": [
+    "south dakota state historical society \u2013 state archives"
+  ],
+  "date": "1898-05-21",
+  "dates": [
+    "1898-05-21"
+  ],
+  "description": [
+    "CUSTER CHRONICLE JOSEPH KUBLEIi In a certain town in MassachuseU not far from flic Rhode Island line re sides a woman of Portuguese birth whose husband is a Spaniard Slie flung a national flag to the breeze to show her loyalty and patriotism and incidentally to be on an equality with her deor neighliors The dear neigh bor did not recognize the Hag an a previous rain storm or two had caused the colors to run a little Several war meeting were held in neighboring kitchens old cigarette picture ulbuius showing the Hags of all nations were consulted but with little or no success Then the gossips got in their fine work Tho woman was Portuguese her hus band wns a Spaniard ergo the Hag must le Spanishit must come down Tho constable was appealed to and thiH functionary without goiug to see whether it was a Spanish flag or not railed upon tho woman at jicr place of business and commanded her in the name of tho peyplo of the town and be commonwealth of Massachusetts to haul down that Spanish rag forth with Regarding tho constable with a look that would have withered n book agent sh said"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-06-25T23:46:31.420Z",
+  "group": [
+    "ndnp/sdhi",
+    "south-dakota-state-historical-society-state-archives-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn97065763/1898-05-21/ed-2/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_daikon_ver02:data:sn97065763:00332899697:1898052102:0091/full/pct:3.125/0/default.jpg#h=335&w=247",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_daikon_ver02:data:sn97065763:00332899697:1898052102:0091/full/pct:6.25/0/default.jpg#h=670&w=494",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/sdhi/batch_sdhi_daikon_ver02/data/sn97065763/00332899697/1898052102/0091.xml&format=alto_xml"
+  ],
+  "index": 171,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "custer county",
+    "custer",
+    "south dakota"
+  ],
+  "location_city": [
+    "custer"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "custer"
+  ],
+  "location_state": [
+    "south dakota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn97065763",
+    "9",
+    "2",
+    "8",
+    "3",
+    "6",
+    "0000000002",
+    "7"
+  ],
+  "number_edition": [
+    "2"
+  ],
+  "number_lccn": [
+    "sn97065763"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "9",
+    "6",
+    "9",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn97065763-1898-05-21-ed-2-0091",
+  "partof": [
+    "chronicling america",
+    "custer weekly chronicle (custer city, s.d.) 1890-1931",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "custer weekly chronicle (custer city, s.d.) 1890-1931"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn97065763/1898-05-21/ed-2/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn97065763/1898-05-21/ed-2/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "custer",
+    "south dakota",
+    "custer county (s.d.)",
+    "custer (s.d.)",
+    "custer county",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-06-26T04:26:32.185Z",
+  "title": "Image 2 of Custer weekly chronicle (Custer City, S.D.), May 21, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn97065763/1898-05-21/ed-2/?sp=2&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fsdhi%2Fbatch_sdhi_daikon_ver02%2Fdata%2Fsn97065763%2F00332899697%2F1898052102%2F0091.xml&q=spanish&relevant_snippet=1"
+}

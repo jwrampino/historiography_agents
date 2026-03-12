@@ -1,0 +1,104 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "Index Card for Fort Sill, Indian Territory",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "7th and Pennsylvania Avenue NW",
+          "city": "Washington",
+          "phone": "202-357-5385",
+          "address1": "National Archives Building",
+          "postalCode": "20408",
+          "name": "National Archives at Washington, DC - Textual Reference",
+          "state": "DC",
+          "fax": "202-357-5936",
+          "email": "Archives1reference@nara.gov",
+          "mailCode": "RDT1"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Cards"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupId": "ou=RDTP1,ou=groups",
+    "groupCd": "RDTP1"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "4656221_0082.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-092/4656221/4656221_0082.jpg",
+      "objectFileSize": 924125,
+      "objectId": "148031163",
+      "objectType": "Image (JPG)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1774,
+        "logicalDate": "1774-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 92,
+      "inclusiveEndDate": {
+        "year": 1985,
+        "logicalDate": "1985-12-31"
+      },
+      "title": "Records of the Office of the Quartermaster General",
+      "naId": 421
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1888,
+        "logicalDate": "1888-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "War Department. Office of the Quartermaster General. Reservation Branch. 1888-1895",
+          "abolishDate": {
+            "year": 1895,
+            "logicalDate": "1895-12-31"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1888,
+            "logicalDate": "1888-01-01"
+          },
+          "naId": 10495282
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1889,
+        "logicalDate": "1889-12-31"
+      },
+      "title": "Name Card Index to Correspondence, Maps, and Other Papers Relating to Historical Sketches of Reservations",
+      "naId": 4656221
+    }
+  ],
+  "scopeAndContentNote": "This index card indicates that there was a file for Fort Sill, Indian Territory, filed under the number K-56 in the related series, \"Correspondence, Plans, and Other Papers Relating to Historical Sketches of Reservations, 1888-1889\" (NAID 4656223).",
+  "naId": 148031162
+}

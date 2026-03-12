@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85034357/1960-06-10/ed-1/?sp=4"
+  ],
+  "batch": [
+    "vi_fortis_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/virginia/",
+    "2/united states/virginia/tazewell/",
+    "3/united states/virginia/tazewell/tazewell/",
+    "3/united states/virginia/tazewell/jeffersonville/"
+  ],
+  "contributor": [
+    "library of virginia; richmond, va"
+  ],
+  "date": "1960-06-10",
+  "dates": [
+    "1960-06-10"
+  ],
+  "description": [
+    "The Civil WarDay By Day One Hundred Years Ago By William H McHenry On June 2 1860 the Harpers Ferry Investigating Committee of the U S Senate closed its work j It is doubtful said the Wash ington Constitution if the Com mittee will even make a report It is easy for us after this hundred years to look back and say Had the Committee investi gating the John Brown affair done a good job the War Between the States may have been avoid ed To the Americans of one hun dred years ago the words My country usually meant My j state The people were the pro ducts of their sections with all j their inborn prejudices and lack of understanding of the people a few states away When the Harpers Ferry Com mittee ceased operations it had been over seven months since John Brown and about 20 other men had seized the government arsenal at Harpers Ferry and had tried to rouse the slaves to armed rebellion Levelheaded people insisted that John Brown was a crackpot but no matter how levelheaded a person was he also had to admit that the affair set dangerous precedents Most northern people"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-07-07T00:31:03.913Z",
+  "group": [
+    "ndnp/vi",
+    "library-of-virginia-richmond-va-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85034357/1960-06-10/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fortis_ver01:data:sn85034357:00542867164:1960061001:0126/full/pct:6.25/0/default.jpg#h=427&w=313",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fortis_ver01:data:sn85034357:00542867164:1960061001:0126/full/pct:12.5/0/default.jpg#h=854&w=627",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/vi/batch_vi_fortis_ver01/data/sn85034357/00542867164/1960061001/0126.xml&format=alto_xml"
+  ],
+  "index": 15,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "tazewell",
+    "united states",
+    "virginia",
+    "jeffersonville"
+  ],
+  "location_city": [
+    "tazewell",
+    "jeffersonville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "tazewell"
+  ],
+  "location_state": [
+    "virginia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0000000004",
+    "8",
+    "2",
+    "0",
+    "7",
+    "1",
+    "sn85034357",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85034357"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "2",
+    "8",
+    "6",
+    "7",
+    "1",
+    "6",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85034357-1960-06-10-ed-1-0126",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "clinch valley news (jeffersonville, va.) 18??-2019"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "clinch valley news (jeffersonville, va.) 18??-2019"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85034357/1960-06-10/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85034357/1960-06-10/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "virginia",
+    "jeffersonville",
+    "tazewell (va.)",
+    "tazewell",
+    "united states"
+  ],
+  "timestamp": "2024-07-07T00:59:26.429Z",
+  "title": "Image 4 of Clinch Valley news (Jeffersonville, Va.), June 10, 1960",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85034357/1960-06-10/ed-1/?sp=4&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fvi%2Fbatch_vi_fortis_ver01%2Fdata%2Fsn85034357%2F00542867164%2F1960061001%2F0126.xml&q=computers&relevant_snippet=1"
+}

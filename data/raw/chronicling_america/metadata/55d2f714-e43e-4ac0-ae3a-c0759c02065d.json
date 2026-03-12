@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2010270508/1907-01-04/ed-1/?sp=13"
+  ],
+  "batch": [
+    "nbu_harrison_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nebraska/",
+    "2/united states/nebraska/nemaha/",
+    "3/united states/nebraska/nemaha/nemaha/",
+    "3/united states/nebraska/nemaha/nemaha city/"
+  ],
+  "contributor": [
+    "university of nebraska-lincoln libraries, lincoln, ne"
+  ],
+  "date": "1907-01-04",
+  "dates": [
+    "1907-01-04"
+  ],
+  "description": [
+    "7 f i fcortone History of Iftebraefca fv Hutbcntk 1400 to 1906 Complete Copyrighted 1000 All rights resetted Dy courteiy of Editors and Publishers of Mortons Hisioiy the Publishers Newspaper Union of Lincoln Nebraska Is permitted Its reproduction la papers e thslr Issue r V A CHAPTER IV CONTINTED 12 From tho timo of tho admission of Missouri as a stato in 1821 until 1834 all the remaining part of tho territory Was loft without any government Whatever By tho act of Congress of June 30 1834 All that part of tho United States west of tho Mississippi river and not within tho states of Missouri and Louisiana or tho terri tory of Arkansas and also that part of tho United States east of tho Mis sissippi river and not within any state to which tho Indian title has not been extinguished for tho purposes of thlB act shall bo taken and deemed to be Indian country Tho object of this act was to deflno and regulate relations of tho United States with the Indians of tho territory In ques tion and Jurisdiction of questions aris ing under it in all tho torrltory south of tho north lino of tho"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:41:17.894Z",
+  "group": [
+    "ndnp/nbu",
+    "university-of-nebraska-of-nebraska-lincoln-libraries-lincoln-ne-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2010270508/1907-01-04/ed-1/?sp=13",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_harrison_ver01:data:2010270508:00237284811:1907010401:0060/full/pct:6.25/0/default.jpg#h=467&w=306",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_harrison_ver01:data:2010270508:00237284811:1907010401:0060/full/pct:12.5/0/default.jpg#h=934&w=612",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nbu/batch_nbu_harrison_ver01/data/2010270508/00237284811/1907010401/0060.xml&format=alto_xml"
+  ],
+  "index": 9,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "nemaha city",
+    "nemaha",
+    "nebraska"
+  ],
+  "location_city": [
+    "nemaha",
+    "nemaha city"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "nemaha"
+  ],
+  "location_state": [
+    "nebraska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000013",
+    "2010270508",
+    "2",
+    "8",
+    "3",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2010270508"
+  ],
+  "number_page": [
+    "0000000013"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "3",
+    "7",
+    "2",
+    "8",
+    "4",
+    "8",
+    "1",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2010270508-1907-01-04-ed-1-0060",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the nebraska advertiser (nemaha city, neb.) 18??-1909"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the nebraska advertiser (nemaha city, neb.) 18??-1909"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2010270508/1907-01-04/ed-1/?sp=13"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2010270508/1907-01-04/ed-1/"
+  ],
+  "shelf_id": "13",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "nemaha city",
+    "nebraska",
+    "nemaha",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2025-12-15T03:04:20.012Z",
+  "title": "Image 13 of The Nebraska advertiser (Nemaha City, Neb.), January 4, 1907, (SUPPLEMENT)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2010270508/1907-01-04/ed-1/?sp=13&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnbu%2Fbatch_nbu_harrison_ver01%2Fdata%2F2010270508%2F00237284811%2F1907010401%2F0060.xml&q=slavery&relevant_snippet=1"
+}

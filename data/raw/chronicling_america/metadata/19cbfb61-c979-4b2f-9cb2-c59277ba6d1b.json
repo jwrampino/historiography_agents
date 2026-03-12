@@ -1,0 +1,165 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86063034/1898-04-07/ed-1/?sp=1"
+  ],
+  "batch": [
+    "gu_fletcher_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/georgia/",
+    "2/united states/georgia/chatham/",
+    "3/united states/georgia/chatham/savannah/"
+  ],
+  "contributor": [
+    "digital library of georgia, a project of galileo located at the university of georgia libraries"
+  ],
+  "date": "1898-04-07",
+  "dates": [
+    "1898-04-07"
+  ],
+  "description": [
+    "THE MORNING NEWS ret itllsliCi ISC Incorporated IBS V j h ESTILL President j IDHI Spain to Propose an Armis tice in Cuba lee asked for delay Americans Could Not Leave Island in Time PEACE HIGHLY PROBABLE Queen Regent Expected to Agree to Independence Washington April 6Swift as a can non s flash changed fhe Cuban situation today The galleries of Congress were crowded senators and representatives were anxious end agitated even the diplomatic corps was in a ferment awaiting a message from the President of the United States to tiie Congress of the American people that might mean war when with excite ment at the very highest like an electric larh the word was passed that there would be no message today Its suddenness stunned the public which heard the news in distracted forms and amazed veteran members of Con gress Ultimately it became known that not cnly would there be no message today but no message this week and that it was at least a possibility the message written and approved might never go to Congress at ail The first reason for the delay was that fhe administration received advices from Consul General Lee at Havana indicating that"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-05-22T12:56:29.823Z",
+  "group": [
+    "ndnp/gu",
+    "digital-library-of-georgia-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86063034/1898-04-07/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182239:1898040701:1033/full/pct:6.25/0/default.jpg#h=436&w=336",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182239:1898040701:1033/full/pct:12.5/0/default.jpg#h=872&w=672",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/gu/batch_gu_fletcher_ver01/data/sn86063034/00414182239/1898040701/1033.xml&format=alto_xml"
+  ],
+  "index": 187,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "georgia",
+    "chatham county",
+    "savannah",
+    "chatham"
+  ],
+  "location_city": [
+    "savannah"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "chatham"
+  ],
+  "location_state": [
+    "georgia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "9",
+    "4",
+    "1",
+    "2",
+    "sn86063034",
+    "0000000001",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86063034"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "1",
+    "8",
+    "2",
+    "2",
+    "3",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Savannah morning news",
+    "Sunday issue may sometimes be known as: Sunday news",
+    "Sunday issue may sometimes be known as: Sunday morning news"
+  ],
+  "page_id": "sn86063034-1898-04-07-ed-1-1033",
+  "partof": [
+    "the morning news (savannah, ga.) 1887-1900",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the morning news (savannah, ga.) 1887-1900"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86063034/1898-04-07/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86063034/1898-04-07/ed-1/"
+  ],
+  "shelf_id": "01",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "georgia",
+    "newspapers",
+    "chatham county",
+    "savannah",
+    "chatham",
+    "savannah (ga.)",
+    "chatham county (ga.)"
+  ],
+  "timestamp": "2024-05-22T21:18:43.502Z",
+  "title": "Image 1 of The morning news (Savannah, Ga.), April 7, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86063034/1898-04-07/ed-1/?sp=1&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fgu%2Fbatch_gu_fletcher_ver01%2Fdata%2Fsn86063034%2F00414182239%2F1898040701%2F1033.xml&q=cuba&relevant_snippet=1"
+}

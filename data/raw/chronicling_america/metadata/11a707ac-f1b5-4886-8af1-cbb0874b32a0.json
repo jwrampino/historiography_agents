@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn91070618/1960-05-20/ed-1/?sp=6"
+  ],
+  "batch": [
+    "rp_invisiblestalker_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/rhode island/",
+    "2/united states/rhode island/newport/",
+    "3/united states/rhode island/newport/newport/"
+  ],
+  "contributor": [
+    "rhode island digital newspaper project"
+  ],
+  "date": "1960-05-20",
+  "dates": [
+    "1960-05-20"
+  ],
+  "description": [
+    "JOINT CHIEFS The Joint hlefs of Stuff military leaders of the nations IWrr for Peace are from left Gen Lyman 1 Mmniter Army CS AIM Arleigh A Burke NO AF tirn Nathan I Twin ing S hairman Gen Thomas I AA tilt AF CS and Gen David M shotip CMC US Power For Peace Must Remain In Force It in one of the tragic ironies f history that the inited States with its vast potential for con tributing direct far reaching ben fits to the present and the future must divert so much of its na tional wealth and energy to the implements and implications of w ar How long this situation will pertain no one can predict with certainty It is sensible to assume AIK FORCE By tin end of 1961 13 Air Force heavy bomber wings 111 Im iilpNd xxllli B525 a large number of which will be ciilped xxlth Hound Dog missiles as Illustrated Ever ready and alert Air Force units stationed at home and abroad are a powerful deterrent to xx ar COAST AKD The Guardian of our coasts and waterways the Coast Guard Is continually on the alert to aid In rescue missions no matter"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-04-27T04:22:45.193Z",
+  "group": [
+    "ndnp/rp",
+    "rhode-island-digital-newspaper-project"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn91070618/1960-05-20/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_invisiblestalker_ver01:data:sn91070618:00516991811:1960052001:0121/full/pct:6.25/0/default.jpg#h=341&w=289",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_invisiblestalker_ver01:data:sn91070618:00516991811:1960052001:0121/full/pct:12.5/0/default.jpg#h=683&w=578",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/rp/batch_rp_invisiblestalker_ver01/data/sn91070618/00516991811/1960052001/0121.xml&format=alto_xml"
+  ],
+  "index": 88,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "rhode island",
+    "newport",
+    "united states"
+  ],
+  "location_city": [
+    "newport"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "newport"
+  ],
+  "location_state": [
+    "rhode island"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn91070618",
+    "8",
+    "0",
+    "0000000006",
+    "9",
+    "1",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn91070618"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "1",
+    "8",
+    "1",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Issues for Jan. 8-Sept. 9, 1988 published as: Navalog"
+  ],
+  "page_id": "sn91070618-1960-05-20-ed-1-0121",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "newport navalog (newport, r.i.) 1944-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "newport navalog (newport, r.i.) 1944-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn91070618/1960-05-20/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn91070618/1960-05-20/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "rhode island",
+    "newspapers",
+    "military bases",
+    "newport (r.i.)",
+    "newport",
+    "united states"
+  ],
+  "timestamp": "2025-04-27T04:36:47.425Z",
+  "title": "Image 6 of Newport navalog (Newport, R.I.), May 20, 1960",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn91070618/1960-05-20/ed-1/?sp=6&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Frp%2Fbatch_rp_invisiblestalker_ver01%2Fdata%2Fsn91070618%2F00516991811%2F1960052001%2F0121.xml&q=nuclear&relevant_snippet=1"
+}

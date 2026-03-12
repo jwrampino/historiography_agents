@@ -1,0 +1,175 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84020097/1932-02-20/ed-1/?sp=6"
+  ],
+  "batch": [
+    "iune_fluorite_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/",
+    "1/united states/illinois/",
+    "2/united states/illinois/cook/",
+    "3/united states/illinois/cook/chicago/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1932-02-20",
+  "dates": [
+    "1932-02-20"
+  ],
+  "description": [
+    "Page Six Party Recruiting Drive January 11 March 18 1932 THE PARTY IN THE DRESS STRIKE By I AMTER The Party is the leader of all the struggles of the workers This consists not only in form ulating the policy for the workers not only In giving direct strike leadership at the top but particularly in the work that the rank and file ot the Party carries on among the rank and file of the strikers The Party formulates the policy for the strike not in the offices of the Party but In direct consultation with the workers Only in this way will the strike policythe general policy and the strategy and tactics of the strike be correct The Party has made mistakes in the past in formulating the demands of strikes outstand ing in this respect being the last dress strike But this time the Party directly consulted the workers discussed the demands with them and then knew that the de rnds were correct not in the abstract but in that they would rally the workers and that the workers feeling an knowing that these were the necessary de nds In the ituation would be willing to fight or"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:20:28.693Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84020097/1932-02-20/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_fluorite_ver01:data:sn84020097:0033289769A:1932022001:0182/full/pct:3.125/0/default.jpg#h=269&w=209",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_fluorite_ver01:data:sn84020097:0033289769A:1932022001:0182/full/pct:6.25/0/default.jpg#h=539&w=418",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_fluorite_ver01:data:sn84020097:0033289769A:1932022001:0182/full/pct:12.5/0/default.jpg#h=1078&w=837",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_fluorite_ver01/data/sn84020097/0033289769A/1932022001/0182.xml&format=alto_xml"
+  ],
+  "index": 134,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "illinois",
+    "cook",
+    "united states",
+    "new york",
+    "new york city",
+    "chicago"
+  ],
+  "location_city": [
+    "new york",
+    "chicago"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york",
+    "cook"
+  ],
+  "location_state": [
+    "new york",
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "9",
+    "6",
+    "2",
+    "0000000006",
+    "1",
+    "sn84020097",
+    "a",
+    "7",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84020097"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "3",
+    "2",
+    "8",
+    "9",
+    "7",
+    "6",
+    "9",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84020097-1932-02-20-ed-1-0182",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the daily worker (chicago, ill.;new york, n.y.) 1924-1958"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the daily worker (chicago, ill.;new york, n.y.) 1924-1958"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84020097/1932-02-20/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84020097/1932-02-20/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "illinois",
+    "new york (n.y.)",
+    "cook",
+    "united states",
+    "labor unions",
+    "newspapers",
+    "new york",
+    "new york (state)",
+    "communism",
+    "chicago (ill.)",
+    "labor movement",
+    "chicago"
+  ],
+  "timestamp": "2025-05-22T03:46:18.384Z",
+  "title": "Image 6 of The daily worker (Chicago, Ill.;New York, N.Y.), February 20, 1932, (City Edition)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84020097/1932-02-20/ed-1/?sp=6&q=soviet+union",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_fluorite_ver01%2Fdata%2Fsn84020097%2F0033289769A%2F1932022001%2F0182.xml&q=soviet+union&relevant_snippet=1"
+}

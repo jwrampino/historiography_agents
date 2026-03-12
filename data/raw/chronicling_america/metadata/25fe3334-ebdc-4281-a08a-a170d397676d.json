@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2025200871/1894-03-01/ed-1/?sp=3"
+  ],
+  "batch": [
+    "dlc_cheetah_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/pennsylvania/",
+    "2/united states/pennsylvania/cumberland/",
+    "3/united states/pennsylvania/cumberland/carlisle/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1894-03-01",
+  "dates": [
+    "1894-03-01"
+  ],
+  "description": [
+    "and thankless post he showed great tact and ability in his private life he devel oped much financial skill ami amassed a large fortune but the bulk of this was swept away in the general crash that fol lowed the failure of Jay Cooke Any one who cares to get a glimpse of the jolly and genial side of eneral Parkers nature should read Innocents Abroad He is one of that party of travelers made fa mous by Mark Twain ami figures in the pages of the humorists book the Old Seneca The General married at Wash ington early in the seventies The wed ding was a very swell affair and was raced by the presence of nearly every body prominent in public life His only daughter is now about 15 years old and is a very charming and beautiful girl In 1876 he became a resident of New York city and Police Commissioner Clinton Wheeler secured his appointment as Sup ply Clerk in the Police Department That place he has held ever since He is a splendid specimen of the pure blooded North American Indian and by his own career has shown that an educated red man can cope"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-09-14T05:40:40.501Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2025200871/1894-03-01/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cheetah_ver02:data:2025200871:00543171748:1894030101:0409/full/pct:6.25/0/default.jpg#h=397&w=269",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cheetah_ver02:data:2025200871:00543171748:1894030101:0409/full/pct:12.5/0/default.jpg#h=794&w=538",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_cheetah_ver02/data/2025200871/00543171748/1894030101/0409.xml&format=alto_xml"
+  ],
+  "index": 98,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "cumberland",
+    "carlisle",
+    "pennsylvania"
+  ],
+  "location_city": [
+    "carlisle"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cumberland"
+  ],
+  "location_state": [
+    "pennsylvania"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000003",
+    "0",
+    "3",
+    "1",
+    "5",
+    "4",
+    "7",
+    "2025200871",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2025200871"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "3",
+    "1",
+    "7",
+    "1",
+    "7",
+    "4",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2025200871-1894-03-01-ed-1-0409",
+  "partof": [
+    "chronicling america",
+    "the red man (carlisle, pa.) 1888-1900",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the red man (carlisle, pa.) 1888-1900"
+  ],
+  "publication_frequency": [
+    "monthly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2025200871/1894-03-01/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2025200871/1894-03-01/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states indian school (carlisle, pa.)",
+    "united states",
+    "carlisle (pa.)",
+    "newspapers",
+    "pennsylvania",
+    "carlisle",
+    "cumberland",
+    "indians of north america"
+  ],
+  "subject_ethnicity": [
+    "indians of north america"
+  ],
+  "timestamp": "2025-09-14T05:43:57.715Z",
+  "title": "Image 3 of The Red man (Carlisle, Pa.), March 1, 1894",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2025200871/1894-03-01/ed-1/?sp=3&q=indian+territory",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_cheetah_ver02%2Fdata%2F2025200871%2F00543171748%2F1894030101%2F0409.xml&q=indian+territory&relevant_snippet=1"
+}

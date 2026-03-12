@@ -1,0 +1,154 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86075284/1955-10-28/ed-1/?sp=4"
+  ],
+  "batch": [
+    "mthi_glasgow_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/roosevelt/",
+    "3/united states/montana/roosevelt/poplar/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1955-10-28",
+  "dates": [
+    "1955-10-28"
+  ],
+  "description": [
+    "Page Four THE POPLAR STANDARD and contruation of THE BROCKTON BULLETIN NATIONAL EDITORIAL Entered as Second Class Matter on May 10 1910 at the Postoffice at Poplar Mont under the Act of March 1879 Subscription 300 Per Year 400 Per Year Outside Poplar Trade Area Outside of State of Montana 500 Mrs Ethel Marquardt Associate Editor Harry N Downs and Mike M Vukelich Owners and Publishers The Best in Newspaper and Job Printing Service TELEPHONE 3171 THIRTEEN SURE WAYS TO KILL YOUR HOME TOWN Dont pay taxes Let the other fellow pay his Vote against taxes Then fuss because the streets are not kept up Never attend any meetings called for the good of the town If you do dont have anything to say Wait until you get outside and then cuss those who made suggestions Find fault with everything that was done Get all the city will give you and dont give any thing in return Write unsigned letters to the editor demanding more for your tax money Talk cooperation but dont do any work for your city unless you get paid for it And by all means refuse to serve unless they make you chairman Never accept an"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-29T23:22:24.626Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86075284/1955-10-28/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_glasgow_ver01:data:sn86075284:00517178809:1955102801:0266/full/pct:6.25/0/default.jpg#h=459&w=348",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_glasgow_ver01:data:sn86075284:00517178809:1955102801:0266/full/pct:12.5/0/default.jpg#h=918&w=696",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_glasgow_ver01/data/sn86075284/00517178809/1955102801/0266.xml&format=alto_xml"
+  ],
+  "index": 22,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "poplar",
+    "united states",
+    "montana",
+    "roosevelt"
+  ],
+  "location_city": [
+    "poplar"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "roosevelt"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "8",
+    "5",
+    "9",
+    "7",
+    "0000000004",
+    "sn86075284",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86075284"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "8",
+    "8",
+    "0",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86075284-1955-10-28-ed-1-0266",
+  "partof": [
+    "the poplar standard (poplar, mont.) 1910-1976",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the poplar standard (poplar, mont.) 1910-1976"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86075284/1955-10-28/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86075284/1955-10-28/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "poplar",
+    "united states",
+    "montana",
+    "roosevelt"
+  ],
+  "timestamp": "2023-07-29T23:37:11.040Z",
+  "title": "Image 4 of The Poplar standard (Poplar, Mont.), October 28, 1955",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86075284/1955-10-28/ed-1/?sp=4&q=soviet+union",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_glasgow_ver01%2Fdata%2Fsn86075284%2F00517178809%2F1955102801%2F0266.xml&q=soviet+union&relevant_snippet=1"
+}

@@ -1,0 +1,153 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86091130/1919-05-09/ed-1/?sp=2"
+  ],
+  "batch": [
+    "idhi_kellerman_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/idaho/",
+    "2/united states/idaho/cassia/",
+    "3/united states/idaho/cassia/oakley/"
+  ],
+  "contributor": [
+    "idaho state historical society"
+  ],
+  "date": "1919-05-09",
+  "dates": [
+    "1919-05-09"
+  ],
+  "description": [
+    "PLACES READJUSTMENT DATA AT COMMAND OF BUSINESS WORLD Research Division of the Council of National Defense Offers All Its Facilities to Aid in Reorganization of Industry and Resumption of TradeBurden of Reconstruc tion Must Fall on Industry t Wh hingt onThe rov of national defense amviioces Us pin re ihe ccrriraand of the business world the the voluminous collection brought together classified Indexed atd partly digested by Us reconstruc tion resoarrh division the services cf this division In the procurement of such further special Information ns may he desired and which may aid In the reorganization of Industry and the resumption of trade or which may in any other manner promote progress In the recon struction Just what Ihe Information here of fered consists of may be Indicated best by reference to some of Its sources nml by mention of n few subjects under which the material Is suhclasslfled Official Information The division bas undertaken to chart all the fed eral official bodies that have a point of contact with demobilization or re construction and to possess firsthand uptodate Information as to accom plishments and plnns of each such body or bureau Furthermore through Us field service branching out Into"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-06T12:37:23.292Z",
+  "group": [
+    "ndnp/idhi",
+    "idaho-state-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86091130/1919-05-09/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_kellerman_ver01:data:sn86091130:00415666767:1919050901:0928/full/pct:6.25/0/default.jpg#h=415&w=295",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_kellerman_ver01:data:sn86091130:00415666767:1919050901:0928/full/pct:12.5/0/default.jpg#h=830&w=591",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/idhi/batch_idhi_kellerman_ver01/data/sn86091130/00415666767/1919050901/0928.xml&format=alto_xml"
+  ],
+  "index": 107,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "oakley",
+    "cassia",
+    "idaho"
+  ],
+  "location_city": [
+    "oakley"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cassia"
+  ],
+  "location_state": [
+    "idaho"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn86091130",
+    "4",
+    "6",
+    "5",
+    "0000000002",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86091130"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "6",
+    "6",
+    "7",
+    "6",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86091130-1919-05-09-ed-1-0928",
+  "partof": [
+    "the oakley herald (oakley, idaho) 1908-1961",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the oakley herald (oakley, idaho) 1908-1961"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86091130/1919-05-09/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86091130/1919-05-09/ed-1/"
+  ],
+  "shelf_id": "02",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "cassia",
+    "idaho",
+    "oakley",
+    "oakley (idaho)",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-07-07T02:21:31.777Z",
+  "title": "Image 2 of The Oakley herald (Oakley, Idaho), May 9, 1919",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86091130/1919-05-09/ed-1/?sp=2&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fidhi%2Fbatch_idhi_kellerman_ver01%2Fdata%2Fsn86091130%2F00415666767%2F1919050901%2F0928.xml&q=reconstruction&relevant_snippet=1"
+}

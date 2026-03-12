@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86063823/1905-01-05/ed-1/?sp=2"
+  ],
+  "batch": [
+    "nmu_graywolf_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new mexico/",
+    "2/united states/new mexico/chaves/",
+    "3/united states/new mexico/chaves/roswell/"
+  ],
+  "contributor": [
+    "university of new mexico"
+  ],
+  "date": "1905-01-05",
+  "dates": [
+    "1905-01-05"
+  ],
+  "description": [
+    "ROSYELL DAILY RECORD Democratic In Politic H F M BEAR Editor Entered May 19 1903 at Roswell New Mexico under the act ofCon gresa of March 3 1879 TERMS OF SUBSCRIPTION Deity per week 15 Daily per month 60 Paid in Advance 50 Dally Six Months 300 Dally One Year 500 Daily Except Sunday MEMBER ASSOCIATED PRESS mean that It will be passed at once and the people of New Mexico and Arizona will have to decade whether or not they want douDie statehood The little ring of office holders at Santa Fe and eleswhere are using ev ery string they can pull to defeat the bill but it is believed they will not succeed THE RECORD IS THE OFFICIAL PAPER OF THE COUNTY OF CHAVES AND THE CITY OF ROSWELL All advertisements te Insure Inser tion in the same days Issue of The Record should be In the printers hands before eleven oclock in the morning Orders for taking out any standing ad should also be In the of fice by eleven oclock to prevent its being run that day ANNOUNCEMENT I hereby announce myself a candi date for the office of Constable for Precinct No 1 of Chaves"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T13:24:11.733Z",
+  "group": [
+    "ndnp/nmu",
+    "university-of-new-mexico-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86063823/1905-01-05/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_graywolf_ver02:data:sn86063823:00296025744:1905010501:0015/full/pct:6.25/0/default.jpg#h=423&w=324",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_graywolf_ver02:data:sn86063823:00296025744:1905010501:0015/full/pct:12.5/0/default.jpg#h=847&w=648",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nmu/batch_nmu_graywolf_ver02/data/sn86063823/00296025744/1905010501/0015.xml&format=alto_xml"
+  ],
+  "index": 101,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "roswell",
+    "chaves county",
+    "chaves",
+    "new mexico",
+    "united states"
+  ],
+  "location_city": [
+    "roswell"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "chaves"
+  ],
+  "location_state": [
+    "new mexico"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "4",
+    "9",
+    "2",
+    "6",
+    "5",
+    "sn86063823",
+    "0000000002",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86063823"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "6",
+    "0",
+    "2",
+    "5",
+    "7",
+    "4",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86063823-1905-01-05-ed-1-0015",
+  "partof": [
+    "chronicling america",
+    "the roswell daily record (roswell, n.m.) 1903-current",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the roswell daily record (roswell, n.m.) 1903-current"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86063823/1905-01-05/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86063823/1905-01-05/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "roswell",
+    "chaves county",
+    "chaves county (n.m.)",
+    "chaves",
+    "new mexico",
+    "roswell (n.m.)",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2022-11-23T03:18:09.378Z",
+  "title": "Image 2 of The Roswell daily record (Roswell, N.M.), January 5, 1905",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86063823/1905-01-05/ed-1/?sp=2&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnmu%2Fbatch_nmu_graywolf_ver02%2Fdata%2Fsn86063823%2F00296025744%2F1905010501%2F0015.xml&q=manifest+destiny&relevant_snippet=1"
+}

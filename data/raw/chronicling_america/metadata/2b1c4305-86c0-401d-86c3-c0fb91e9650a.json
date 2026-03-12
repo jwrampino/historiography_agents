@@ -1,0 +1,129 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16080/?sp=9"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1805-07-16",
+  "dates": [
+    "1805-07-16"
+  ],
+  "description": [
+    "BOSTON moDECEMBER 7 1804 A letter from Wathington received at Phie fladelphia fays Ie is Para flated that Rrong fears are entertained by the Minifterial party as tothe refult of the meditated trial of Jud Chafe Some wellinformed perfons have afirme that the impeachment if not relinquifhed will eventually fail of its purpofe Grofbois the late eftate of Moreau has been pute chafed by Marfhall Murat together with fome foo refts and lands which Barras the former owner of Grofboishad kept Barras is at prefent at Paris and has obtained leave to refide at the place of hie birth in Province Since the begining of the prefent war according to Les Annales AntiBritanniques by Barrere Bona parte has received no lefs than 466 plans for the conqueft of England Of thefe two have beem refented by Portuguefe eight by Spaniards forty ocr by Italians fiftyfive by Germans fix by Swifs one by a Dutchman ten by Danes three by Swedes three by Ruffians fixteen by Irifhmen four by Englifhmen and the remainder by French citizens If thefe plans were printed they would make four volumes in folio In the new French National Almanack for 1805 the year is called the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16080/?sp=9",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16080:0009/full/pct:12.5/0/default.jpg#h=505&w=326",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16080:0009/full/pct:25.0/0/default.jpg#h=1010&w=652",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16080:0009/full/pct:50.0/0/default.jpg#h=2020&w=1305",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16080:0009/full/pct:100.0/0/default.jpg#h=4041&w=2611",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16080/0009.alto.xml&format=alto_xml"
+  ],
+  "index": 41,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "india",
+    "calcutta"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "sn88063570",
+    "sn88063571",
+    "sn88063569",
+    "2025-08-13t13:59:42.400000",
+    "0000000009"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000009"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16080-0009-alto",
+  "partof": [
+    "asian division",
+    "general collections",
+    "world newspapers",
+    "catalog",
+    "south asian digital collection",
+    "serial and government publications division",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "world digital library"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16080/?sp=9"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16080/"
+  ],
+  "shelf_id": "09",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "india",
+    "calcutta"
+  ],
+  "timestamp": "2025-12-12T07:19:55.493Z",
+  "title": "Image 9 of Volume 11, Number 548, Tuesday, July 16, 1805 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16080/?sp=9&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16080%2F0009.alto.xml&q=great+war&relevant_snippet=1"
+}

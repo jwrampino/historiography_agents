@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85040437/1899-11-29/ed-1/?sp=4"
+  ],
+  "batch": [
+    "whi_doxy_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/wisconsin/",
+    "2/united states/wisconsin/bayfield/",
+    "3/united states/wisconsin/bayfield/washburn/"
+  ],
+  "contributor": [
+    "wisconsin historical society"
+  ],
+  "date": "1899-11-29",
+  "dates": [
+    "1899-11-29"
+  ],
+  "description": [
+    "THE TIMES PUBLISHED WEEKLY BY J E JONES 2 A YEAR Advertising Rates made known on application Sfcerecl at tfce postoffice at Washburn Wisconsin as secondclass mail matter Washburn Wis Nov 29 99 the convening of congress Congress will convene next week Just now ihe important thing among the members are the committee ap pointments In this respect Wis consin and especially the Tenth district will undoubtedly fare well The members will likely not get down to active work until after the holidays There is much to engage the attention of congress this ses sion the most important proposed legislation however being the bill providing for a single gold stand ard and the formulating of a plan of government for our new colonies It would seemin the light of events of the past two years that a single gold standard would best meet the demands of the business world and the country And Congress will likely adopt such a measure There appears too to be urgent need of providing civil government for the Dew territory we have acquired and of letting the people of the Phil lipses and of Porto Rico and Cuba know just what they may expect from"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-22T16:18:55.967Z",
+  "group": [
+    "ndnp/whi",
+    "wisconsin-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85040437/1899-11-29/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_doxy_ver01:data:sn85040437:00414214642:1899112901:0084/full/pct:3.125/0/default.jpg#h=331&w=230",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_doxy_ver01:data:sn85040437:00414214642:1899112901:0084/full/pct:6.25/0/default.jpg#h=663&w=460",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/whi/batch_whi_doxy_ver01/data/sn85040437/00414214642/1899112901/0084.xml&format=alto_xml"
+  ],
+  "index": 37,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "wisconsin",
+    "bayfield",
+    "washburn"
+  ],
+  "location_city": [
+    "washburn"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "bayfield"
+  ],
+  "location_state": [
+    "wisconsin"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "sn85040437",
+    "6",
+    "0000000004",
+    "4",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85040437"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "2",
+    "1",
+    "4",
+    "6",
+    "4",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85040437-1899-11-29-ed-1-0084",
+  "partof": [
+    "serial and government publications division",
+    "chronicling america",
+    "the washburn times (washburn, wis.) 1896-1976"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washburn times (washburn, wis.) 1896-1976"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85040437/1899-11-29/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85040437/1899-11-29/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "bayfield",
+    "wisconsin",
+    "washburn",
+    "washburn (wis.)",
+    "newspapers"
+  ],
+  "timestamp": "2023-08-22T22:27:42.328Z",
+  "title": "Image 4 of The Washburn times (Washburn, Wis.), November 29, 1899",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85040437/1899-11-29/ed-1/?sp=4&q=phillipines",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwhi%2Fbatch_whi_doxy_ver01%2Fdata%2Fsn85040437%2F00414214642%2F1899112901%2F0084.xml&q=phillipines&relevant_snippet=1"
+}

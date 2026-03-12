@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83016244/1962-06-08/ed-1/?sp=12"
+  ],
+  "batch": [
+    "fu_eatonville_ver03"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/florida/",
+    "2/united states/florida/monroe/",
+    "3/united states/florida/monroe/key west/"
+  ],
+  "contributor": [
+    "university of florida"
+  ],
+  "date": "1962-06-08",
+  "dates": [
+    "1962-06-08"
+  ],
+  "description": [
+    "THE KEY WEST CITIZEN Friday June 8 IHI Page 12 12 Boys Staters Will Learn About Florida Government Twelve local students will leave Saturday afternoon on the 5 oclock bus to participate in the 1962 Am erican Legion Boys State to be held at the Florida State University Tallahassee June 10 16 Vance C Stirrup Boys State chairman announced today Boys State is an Americanism program of the American Legion to assist in the education of our youth in the duties privileges rights and responsibilities of Amer ican citizenship As future office holders and vot ers the Legion feels the youth of Florida should have an understand ing of the problems of public of ficials their duties their functions and the laws which grant and con trol the actions of free men The Constitution The following boys will partici pate Ronald Heginbotham son of Mrs John Graham 1501 Washington Street sponsored by the Kiwanis Club Joe Hines son of Mr and Mrs Eugene Hines Big Coppitt Key sponsored by the Scottish Rite Ma sons Larry Roberts son of Mr and Mrs Joseph Roberts 911 Virginia Street sponsored by the Lions Club Robert Menendez son of Mrs Louis Menendez 320 Elizabeth"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2026-01-27T16:59:58.966Z",
+  "group": [
+    "ndnp/fu",
+    "university-of-florida-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83016244/1962-06-08/ed-1/?sp=12",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_eatonville_ver03:data:sn83016244:00517170161:1962060801:0530/full/pct:3.125/0/default.jpg#h=300&w=214",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_eatonville_ver03:data:sn83016244:00517170161:1962060801:0530/full/pct:6.25/0/default.jpg#h=600&w=429",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/fu/batch_fu_eatonville_ver03/data/sn83016244/00517170161/1962060801/0530.xml&format=alto_xml"
+  ],
+  "index": 120,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "monroe county",
+    "key west",
+    "monroe",
+    "florida"
+  ],
+  "location_city": [
+    "key west"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "monroe"
+  ],
+  "location_state": [
+    "florida"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "5",
+    "6",
+    "7",
+    "0000000012",
+    "sn83016244",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83016244"
+  ],
+  "number_page": [
+    "0000000012"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "0",
+    "1",
+    "6",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83016244-1962-06-08-ed-1-0530",
+  "partof": [
+    "serial and government publications division",
+    "the key west citizen (key west, fla.) 1879-current",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the key west citizen (key west, fla.) 1879-current"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83016244/1962-06-08/ed-1/?sp=12"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83016244/1962-06-08/ed-1/"
+  ],
+  "shelf_id": "12",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "monroe county (fla.)",
+    "key west",
+    "monroe county",
+    "key west (fla.)",
+    "newspapers",
+    "monroe",
+    "florida"
+  ],
+  "timestamp": "2026-01-28T01:19:01.423Z",
+  "title": "Image 12 of The Key West citizen (Key West, Fla.), June 8, 1962",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83016244/1962-06-08/ed-1/?sp=12&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Ffu%2Fbatch_fu_eatonville_ver03%2Fdata%2Fsn83016244%2F00517170161%2F1962060801%2F0530.xml&q=terrorism&relevant_snippet=1"
+}

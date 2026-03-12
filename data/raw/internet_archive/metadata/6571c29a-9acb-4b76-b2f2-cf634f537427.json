@@ -1,0 +1,13 @@
+{
+  "description": "This collection contains .tar or .zip files of the collections of these sites, which are then browsable using the Internet Archive's archive view functionality. Created in 1971 (and refined in 1985), the File Transfer Protocol allowed Internet or network-connected computers to transfer binary and ASCII files between each other. To facilitate transferring of files in a pre-WWW era, FTP sites allowing anonymous or open-access connections became available worldwide. As they were often connected to machines with sizable resources, these FTP Sites became magnets for large amounts of data, totaling in the hundreds of megabytes (and later gigabytes) and allowing hundreds (later thousands) of simultaneous users. As websites provided easier and easier access, FTP sites have fallen by the wayside as primary distribution channels, and decade-plus sites that were once the primary sources for various types of files have fallen into disrepair or quiet deaths.",
+  "format": [
+    "Archive BitTorrent",
+    "Item Image",
+    "JPEG",
+    "JPEG Thumb",
+    "Metadata"
+  ],
+  "identifier": "ftpsites",
+  "mediatype": "collection",
+  "title": "The FTP Site Boneyard"
+}

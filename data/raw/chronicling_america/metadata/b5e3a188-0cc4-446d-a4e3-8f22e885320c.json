@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1963-03-31/ed-1/?sp=27"
+  ],
+  "batch": [
+    "dlc_ivory_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1963-03-31",
+  "dates": [
+    "1963-03-31"
+  ],
+  "description": [
+    "U S Expert Sees Rising Soviet Oil Offensive Editors note George F Getty 11 president of the Tide water Oil Co recently returned from an inspection tour of the Soviet oil industry Here are ex cerpts from a report he made to the American Petroleum Instit tute meeting in Fort Worth Tex earlier this month We meet today as the oil in dustry is threatened on many fronts Such a confrontation is not unusual for us but todays threats are possibly the most om inous to date in our industrys history Most of you are concerned mainly with exploration and pro w duction work Your work is chal lenging and difficult It would be doubly challengingin fact con founding if you had to work amidst violent revolutions border wars or Communist subversion Yet this was the case recently for our oilmen in Iraq and Yemen while those working in Venezuela are in the middle of communisms No 1 target in Latin America Added to the oil operators troubles these days is the cut throat competition of the largest oil organization in the worldthe governmentcontrolled Soviet oil industry We think our domestic oil business is competitive Well many of you may"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-07T20:32:19.031Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1963-03-31/ed-1/?sp=27",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ivory_ver01:data:sn83045462:00280609432:1963033101:0785/full/pct:3.125/0/default.jpg#h=297&w=184",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ivory_ver01:data:sn83045462:00280609432:1963033101:0785/full/pct:6.25/0/default.jpg#h=594&w=369",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ivory_ver01:data:sn83045462:00280609432:1963033101:0785/full/pct:12.5/0/default.jpg#h=1188&w=739",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_ivory_ver01/data/sn83045462/00280609432/1963033101/0785.xml&format=alto_xml"
+  ],
+  "index": 72,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "9",
+    "0000000027",
+    "4",
+    "3",
+    "sn83045462",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000027"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "9",
+    "4",
+    "3",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday issues for Mar. 26, 1905-July 9,1972 called: Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1963-03-31-ed-1-0785",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1963-03-31/ed-1/?sp=27"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1963-03-31/ed-1/"
+  ],
+  "shelf_id": "027",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2023-08-08T10:19:18.011Z",
+  "title": "Image 27 of Evening star (Washington, D.C.), March 31, 1963",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1963-03-31/ed-1/?sp=27&q=oil",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_ivory_ver01%2Fdata%2Fsn83045462%2F00280609432%2F1963033101%2F0785.xml&q=oil&relevant_snippet=1"
+}

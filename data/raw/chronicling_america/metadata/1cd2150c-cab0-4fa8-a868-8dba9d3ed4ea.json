@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84023819/1864-07-09/ed-1/?sp=4"
+  ],
+  "batch": [
+    "nhd_eisenhower_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new hampshire/",
+    "2/united states/new hampshire/hillsboro/",
+    "3/united states/new hampshire/hillsboro/manchester/"
+  ],
+  "contributor": [
+    "dartmouth college"
+  ],
+  "date": "1864-07-09",
+  "dates": [
+    "1864-07-09"
+  ],
+  "description": [
+    "THE WEEKLY MIRROR SThe Btramger See Venice and die say the Venetians See Concord and die should be the motto of every Concord paper for from them we judge that in seeing Concord should culmin ate the desire of every beari the acme of every hope after this man has nothing to live forhis busbel is full his horn of plenty running over his earthly desires gratified and satiated And yet we saw Concord three weeks since and did not die nor even find our love for life lessened in the least degree We left it thinking there might possibly be other joys to live for other objects to obtain and other goals to strive for in fact we considered our selves very far from dying and our health seemed wonderfully good while our dreams gave no omen of our coming dissolution for all we bad seen Concord But on land ing here for the szcond time this morn we found that though we still live it is a pre carious life we are covered with cuts and wounds of which we had before no intima tion We met an acquaintance on the street and in reply to an inquiry"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-08-04T01:22:16.995Z",
+  "group": [
+    "ndnp/nhd",
+    "new-hampshire-dartmouth-college"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84023819/1864-07-09/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_eisenhower_ver01:data:sn84023819:00517015465:1864070901:0312/full/pct:3.125/0/default.jpg#h=310&w=230",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_eisenhower_ver01:data:sn84023819:00517015465:1864070901:0312/full/pct:6.25/0/default.jpg#h=620&w=460",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nhd/batch_nhd_eisenhower_ver01/data/sn84023819/00517015465/1864070901/0312.xml&format=alto_xml"
+  ],
+  "index": 32,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "manchester",
+    "new hampshire",
+    "hillsboro"
+  ],
+  "location_city": [
+    "manchester"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hillsboro"
+  ],
+  "location_state": [
+    "new hampshire"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "5",
+    "1",
+    "4",
+    "6",
+    "7",
+    "0000000004",
+    "sn84023819"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84023819"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "0",
+    "1",
+    "5",
+    "4",
+    "6",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "New Hampshire journal of agriculture"
+  ],
+  "page_id": "sn84023819-1864-07-09-ed-1-0312",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "dollar weekly mirror and new hampshire journal of agriculture (manchester, n.h.) 1863-1865"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "dollar weekly mirror and new hampshire journal of agriculture (manchester, n.h.) 1863-1865"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84023819/1864-07-09/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84023819/1864-07-09/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "hillsboro",
+    "united states",
+    "newspapers",
+    "new hampshire",
+    "manchester (n.h.)",
+    "manchester"
+  ],
+  "timestamp": "2024-08-04T02:17:05.649Z",
+  "title": "Image 4 of Dollar weekly mirror and New Hampshire journal of agriculture (Manchester, N.H.), July 9, 1864",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84023819/1864-07-09/ed-1/?sp=4&q=great+depressiom",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnhd%2Fbatch_nhd_eisenhower_ver01%2Fdata%2Fsn84023819%2F00517015465%2F1864070901%2F0312.xml&q=great+depressiom&relevant_snippet=1"
+}

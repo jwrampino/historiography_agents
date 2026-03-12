@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045474/1917-03-16/ed-1/?sp=1"
+  ],
+  "batch": [
+    "ohi_ericson_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/hamilton/",
+    "3/united states/ohio/hamilton/cincinnati/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1917-03-16",
+  "dates": [
+    "1917-03-16"
+  ],
+  "description": [
+    ""
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:17:40.707Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045474/1917-03-16/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ericson_ver01:data:sn83045474:00296026748:1917031601:0756/full/pct:6.25/0/default.jpg#h=422&w=325",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ericson_ver01:data:sn83045474:00296026748:1917031601:0756/full/pct:12.5/0/default.jpg#h=845&w=650",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_ericson_ver01/data/sn83045474/00296026748/1917031601/0756.xml&format=alto_xml"
+  ],
+  "index": 24,
+  "language": [
+    "german"
+  ],
+  "location": [
+    "united states",
+    "hamilton",
+    "cincinnati",
+    "ohio"
+  ],
+  "location_city": [
+    "cincinnati"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hamilton"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn83045474",
+    "9",
+    "0000000001",
+    "2",
+    "6",
+    "8",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045474"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "6",
+    "0",
+    "2",
+    "6",
+    "7",
+    "4",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83045474-1917-03-16-ed-1-0756",
+  "partof": [
+    "t\u00e4gliches cincinnatier volksblatt (cincinnati [ohio]) 1885-1919",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "t\u00e4gliches cincinnatier volksblatt (cincinnati [ohio]) 1885-1919"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045474/1917-03-16/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045474/1917-03-16/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "ohio",
+    "german americans",
+    "hamilton",
+    "cincinnati",
+    "germans",
+    "newspapers",
+    "cincinnati (ohio)",
+    "german"
+  ],
+  "subject_ethnicity": [
+    "german"
+  ],
+  "timestamp": "2023-09-05T11:53:55.955Z",
+  "title": "Image 1 of Ta\u0308gliches Cincinnatier volksblatt (Cincinnati [Ohio]), March 16, 1917",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045474/1917-03-16/ed-1/?sp=1&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_ericson_ver01%2Fdata%2Fsn83045474%2F00296026748%2F1917031601%2F0756.xml&q=revolution&relevant_snippet=1"
+}

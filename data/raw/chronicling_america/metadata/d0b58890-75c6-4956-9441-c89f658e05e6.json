@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn92067163/1921-01-21/ed-1/?sp=2"
+  ],
+  "batch": [
+    "wyu_karig_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/wyoming/",
+    "2/united states/wyoming/lincoln/",
+    "3/united states/wyoming/lincoln/kemmerer/"
+  ],
+  "contributor": [
+    "university of wyoming libraries"
+  ],
+  "date": "1921-01-21",
+  "dates": [
+    "1921-01-21"
+  ],
+  "description": [
+    "OLSONS VIEWS ON BANK SERVICE Advantage in Local Service Discusses Plight of Live stock Men Much has been said and written con cerning the devastation which has been wrought among the stockmen of the West by a combination of free trade foollegislation and administra tive inefficiency which has brought a great wealthproducing industry to the verge of bankruptcy Admitting that the subject has been fairly well covered and that the next move is to provide a remedy that will to some extent repair the grevious wrong already done or at any rate prevent a recurrence of present con ditions the fact remains that each day seems to bring out some new as pect of the stock growers condition and the wrongs which have brought it about P W Olson who is himself heavily interested in the stock business and who not only travels extensively but is a shrewd observer and a keen stud1 ent of everything that affects the in 1 dustry in which his life has been spent never fails to hit the subject from an interesting and instructive angle Eastern vs Western Banks While in the city a few days ago he said I am more than ever"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-12-17T00:23:50.865Z",
+  "group": [
+    "ndnp/wyu",
+    "university-of-wyoming-libraries"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn92067163/1921-01-21/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_karig_ver02:data:sn92067163:00542862117:1921012101:0018/full/pct:6.25/0/default.jpg#h=348&w=237",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_karig_ver02:data:sn92067163:00542862117:1921012101:0018/full/pct:12.5/0/default.jpg#h=696&w=475",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wyu/batch_wyu_karig_ver02/data/sn92067163/00542862117/1921012101/0018.xml&format=alto_xml"
+  ],
+  "index": 81,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "lincoln",
+    "kemmerer",
+    "lincoln county",
+    "wyoming"
+  ],
+  "location_city": [
+    "kemmerer"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lincoln"
+  ],
+  "location_state": [
+    "wyoming"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "5",
+    "6",
+    "sn92067163",
+    "7",
+    "4",
+    "0000000002",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn92067163"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "2",
+    "8",
+    "6",
+    "2",
+    "1",
+    "1",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn92067163-1921-01-21-ed-1-0018",
+  "partof": [
+    "the kemmerer republican (kemmerer, wyo.) 1913-1924",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the kemmerer republican (kemmerer, wyo.) 1913-1924"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn92067163/1921-01-21/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn92067163/1921-01-21/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "lincoln county (wyo.)",
+    "lincoln",
+    "kemmerer",
+    "newspapers",
+    "kemmerer (wyo.)",
+    "wyoming"
+  ],
+  "timestamp": "2023-12-17T00:33:32.203Z",
+  "title": "Image 2 of The Kemmerer Republican (Kemmerer, Wyo.), January 21, 1921",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn92067163/1921-01-21/ed-1/?sp=2&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwyu%2Fbatch_wyu_karig_ver02%2Fdata%2Fsn92067163%2F00542862117%2F1921012101%2F0018.xml&q=reconstruction&relevant_snippet=1"
+}

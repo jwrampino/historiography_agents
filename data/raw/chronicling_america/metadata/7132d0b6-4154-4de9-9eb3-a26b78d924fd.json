@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85042148/1867-08-28/ed-1/?sp=4"
+  ],
+  "batch": [
+    "ncu_broad_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/north carolina/",
+    "2/united states/north carolina/wake/",
+    "3/united states/north carolina/wake/raleigh/"
+  ],
+  "contributor": [
+    "university of north carolina at chapel hill library, chapel hill, nc"
+  ],
+  "date": "1867-08-28",
+  "dates": [
+    "1867-08-28"
+  ],
+  "description": [
+    "i 1 l tvle position f 3i OF THK REPUBLICAN AND DEMOCRATS PARTIES A y Suit 1 Dialogue between a White Bepnblkan and a VI jiIoTenilitn y Published by the Union RepuWlcan CongreBslon at Committee Washington Dl C fi f T TM following is a dialogue between a ne ly enfranchised Ireedman ana a r sonra Radical Republican fhenew 1 niid voter is seeking light upon the c Btibft of his political duties and his iriulicrd friend gives ihiin plain facts and demonstrates clearly withwhich vy he and all like Jum should act It would be well for colored voters gen enilly to seek out some tried Radical friend and question him upon all snb yjecEs about which they have any ddubt Vhn flinlotrna is submitted with the I t V hope that the facts set forth therein will remove doubts from tho dinds of iAr tuariT who have been unable to recpivo proper information upon the position f L LliL Vil T1 atnnd nt this in time winch they should stand at tnis fQpesonl yth which party should the colored man vote r Answer Xhe Union Republican part yj t c rt V QWhy should the colored man vote"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-12T17:31:45.051Z",
+  "group": [
+    "ndnp/ncu",
+    "university-of-north-carolina-chapel-hill-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85042148/1867-08-28/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042148:00296022676:1867082801:0356/full/pct:6.25/0/default.jpg#h=476&w=335",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042148:00296022676:1867082801:0356/full/pct:12.5/0/default.jpg#h=953&w=670",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ncu/batch_ncu_broad_ver01/data/sn85042148/00296022676/1867082801/0356.xml&format=alto_xml"
+  ],
+  "index": 83,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "wake",
+    "north carolina",
+    "wake county",
+    "raleigh"
+  ],
+  "location_city": [
+    "raleigh"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "wake"
+  ],
+  "location_state": [
+    "north carolina"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "9",
+    "6",
+    "sn85042148",
+    "0000000004",
+    "7",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85042148"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "6",
+    "0",
+    "2",
+    "2",
+    "6",
+    "7",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Published from Sept. 30-Oct. 7, 1868 as: North Carolina standard",
+    "Weekly standard"
+  ],
+  "page_id": "sn85042148-1867-08-28-ed-1-0356",
+  "partof": [
+    "serial and government publications division",
+    "the weekly north-carolina standard (raleigh, n.c.) 186?-1869",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the weekly north-carolina standard (raleigh, n.c.) 186?-1869"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85042148/1867-08-28/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85042148/1867-08-28/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "raleigh (n.c.)",
+    "wake county (n.c.)",
+    "newspapers",
+    "wake",
+    "north carolina",
+    "wake county",
+    "raleigh"
+  ],
+  "timestamp": "2023-08-12T21:05:55.993Z",
+  "title": "Image 4 of The weekly North-Carolina standard (Raleigh, N.C.), August 28, 1867",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85042148/1867-08-28/ed-1/?sp=4&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fncu%2Fbatch_ncu_broad_ver01%2Fdata%2Fsn85042148%2F00296022676%2F1867082801%2F0356.xml&q=reconstruction&relevant_snippet=1"
+}

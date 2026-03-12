@@ -1,0 +1,16 @@
+{
+  "creator": "Archive-It",
+  "date": "2016-01-01T00:00:00Z",
+  "description": "jobId=209833, recurrence=MONTHLY, maxDuration=259200, maxDocumentCount=null, isTestCrawl=false, isPatchCrawl=false, oneTimeSubtype=null, seedCount=15, accountId=735, accountType=SUBSCRIBER, organizationName=\"University of Miami\", collectionId=3996, collectionName=\"Civil Society in Cuba Web Collection\", collectionPublic=true",
+  "format": [
+    "Item CDX Index",
+    "Item CDX Meta-Index",
+    "Metadata",
+    "WARC CDX Index",
+    "WARC HostLinks GZ",
+    "Web ARChive GZ"
+  ],
+  "identifier": "ARCHIVEIT-3996-MONTHLY-JOB209833-00000",
+  "mediatype": "web",
+  "title": "Archive-It Crawl Data: Partner 735 Collection 3996 Recurrence MONTHLY (around 2016-04-28T18:54:38Z)"
+}

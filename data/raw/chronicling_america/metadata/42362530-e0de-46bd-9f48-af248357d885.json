@@ -1,0 +1,170 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2010270509/1955-01-27/ed-1/?sp=9"
+  ],
+  "batch": [
+    "nbu_equus_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nebraska/",
+    "2/united states/nebraska/holt/",
+    "3/united states/nebraska/holt/o'neill/",
+    "3/united states/nebraska/holt/o'neill city/"
+  ],
+  "contributor": [
+    "university of nebraska-lincoln libraries, lincoln, ne"
+  ],
+  "date": "1955-01-27",
+  "dates": [
+    "1955-01-27"
+  ],
+  "description": [
+    "State Capitol News School Land Sale Prospects Dim LINCOLNAs the legislature this week plunged on toward the end of the bill introduction period some indications of strength on major issues were becoming clear Monday January 31 will mark the final day on which bills may be introduced by individual mem bers A great rush of bills similar to the final days total of 174 in the 1953 session is expected This would push the bill mark over the 600 reached two years ago It is not until after all the bills are introduced that lines start forming on major measures But already a breach has opened between the populous counties and those more thinly populated over the split in the part of the state gasoline tax which goes to the counties The populous counties like the present formula which uses the latest census and motor vehicle figures As they keep growing they keep getting a bigger slice of the revenue But the thinly populated coun ties feel that something must be done to keep from losing ground so steadily They want to change the formula Newspaper reporters figured out that 14 senators would probably vote to keep the present formula"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:39:36.741Z",
+  "group": [
+    "ndnp/nbu",
+    "university-of-nebraska-of-nebraska-lincoln-libraries-lincoln-ne-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2010270509/1955-01-27/ed-1/?sp=9",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_equus_ver01:data:2010270509:00279527586:1955012701:0552/full/pct:3.125/0/default.jpg#h=259&w=198",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_equus_ver01:data:2010270509:00279527586:1955012701:0552/full/pct:6.25/0/default.jpg#h=519&w=396",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_equus_ver01:data:2010270509:00279527586:1955012701:0552/full/pct:12.5/0/default.jpg#h=1039&w=793",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nbu/batch_nbu_equus_ver01/data/2010270509/00279527586/1955012701/0552.xml&format=alto_xml"
+  ],
+  "index": 18,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "holt",
+    "nebraska",
+    "o'neill",
+    "holt county",
+    "united states",
+    "o'neill city"
+  ],
+  "location_city": [
+    "o'neill",
+    "o'neill city"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "holt"
+  ],
+  "location_state": [
+    "nebraska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "2010270509",
+    "9",
+    "2",
+    "8",
+    "5",
+    "6",
+    "1",
+    "0000000009",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2010270509"
+  ],
+  "number_page": [
+    "0000000009"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "2",
+    "7",
+    "5",
+    "8",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Publisher's box title: O'Neill frontier"
+  ],
+  "page_id": "2010270509-1955-01-27-ed-1-0552",
+  "partof": [
+    "the frontier (o'neill city, holt county, neb.) 1880-1965",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the frontier (o'neill city, holt county, neb.) 1880-1965"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2010270509/1955-01-27/ed-1/?sp=9"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2010270509/1955-01-27/ed-1/"
+  ],
+  "shelf_id": "09",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "holt",
+    "nebraska",
+    "o'neill",
+    "o'neill (neb.)",
+    "holt county (neb.)",
+    "holt county",
+    "united states",
+    "newspapers",
+    "o'neill city"
+  ],
+  "timestamp": "2025-12-14T21:24:38.843Z",
+  "title": "Image 9 of The frontier (O'Neill City, Holt County, Neb.), January 27, 1955",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2010270509/1955-01-27/ed-1/?sp=9&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnbu%2Fbatch_nbu_equus_ver01%2Fdata%2F2010270509%2F00279527586%2F1955012701%2F0552.xml&q=nuclear&relevant_snippet=1"
+}

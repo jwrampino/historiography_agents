@@ -1,0 +1,149 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85038615/1907-11-24/ed-1/?sp=36"
+  ],
+  "batch": [
+    "vi_chatham_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/virginia/",
+    "3/united states/virginia/richmond/"
+  ],
+  "contributor": [
+    "library of virginia; richmond, va"
+  ],
+  "date": "1907-11-24",
+  "dates": [
+    "1907-11-24"
+  ],
+  "description": [
+    "nd Offer Par Our Plan Vo wlll lastio nnd sell llvo hundred 500 bonds of lhe face value of ix hundred 600 dollars each for the purpose of preparlng plantlng and cullivatlng our Innd ln Plneapplos Lcmons Orangos and Grapcfrult Sald bonds wlll bear 6 per cent annual intoroat payable semlannuary and sccurod by a flrst mortgiigo upon all land and proporty of the coit runy In Culm Security of Bonds Tho security tor bonds Is moro than ample to guarantoo ahsoluto pro tectlon to all bondholdcrs Tho value of tho Innd wlth frult trccs and tho Improvements thereon ln threo on four yoars wlll bo from 1000 to 2000 pcr acro at tho lowost valtlution whlch will nican that each bond of 000 wll havo proportlonatcly property actually worth from 2000 to 4000 an security How Bonds Are Sold Bonds will be sold for all cash or 200 cash and 200 in ono and two years or 20 cash and 20 monthly untll fully paid for Purchascr wlll havo tho privllcgc to pay up ln ful or mako nny number of payments ln advance at any tlmo beforo bonds are fully pald for The earller tha bonds nre pald"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-02-09T12:47:34.315Z",
+  "group": [
+    "ndnp/vi",
+    "library-of-virginia-richmond-va-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85038615/1907-11-24/ed-1/?sp=36",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chatham_ver01:data:sn85038615:00100480049:1907112401:0424/full/pct:6.25/0/default.jpg#h=460&w=343",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chatham_ver01:data:sn85038615:00100480049:1907112401:0424/full/pct:12.5/0/default.jpg#h=920&w=686",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/vi/batch_vi_chatham_ver01/data/sn85038615/00100480049/1907112401/0424.xml&format=alto_xml"
+  ],
+  "index": 12,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "virginia",
+    "united states",
+    "richmond"
+  ],
+  "location_city": [
+    "richmond"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "virginia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000036",
+    "1",
+    "8",
+    "9",
+    "4",
+    "sn85038615",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85038615"
+  ],
+  "number_page": [
+    "0000000036"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "4",
+    "8",
+    "0",
+    "0",
+    "4",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85038615-1907-11-24-ed-1-0424",
+  "partof": [
+    "serial and government publications division",
+    "the times dispatch (richmond, va.) 1903-1914",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the times dispatch (richmond, va.) 1903-1914"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85038615/1907-11-24/ed-1/?sp=36"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85038615/1907-11-24/ed-1/"
+  ],
+  "shelf_id": "36",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "virginia",
+    "newspapers",
+    "richmond (va.)",
+    "richmond"
+  ],
+  "timestamp": "2025-02-09T15:52:24.950Z",
+  "title": "Image 36 of The times dispatch (Richmond, Va.), November 24, 1907, (INDUSTRIAL SECTION)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85038615/1907-11-24/ed-1/?sp=36&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fvi%2Fbatch_vi_chatham_ver01%2Fdata%2Fsn85038615%2F00100480049%2F1907112401%2F0424.xml&q=cuba&relevant_snippet=1"
+}

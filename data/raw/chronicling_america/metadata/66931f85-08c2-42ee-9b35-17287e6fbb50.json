@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1943-05-30/ed-1/?sp=73"
+  ],
+  "batch": [
+    "dlc_1young_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1943-05-30",
+  "dates": [
+    "1943-05-30"
+  ],
+  "description": [
+    "GRAVURE SECTION 6 PAGES OF PICTURES W e Sunday fat _WASHINGTON D C_ MAY 30 1943 10 CENTS PER COPY Col Gen Jurgen vcn Arnim comes to his finol retreat The captured commander in chief of the Axis armies in Tunisia is shown arriving at his temporary British home a barbed wire enclosure somewhere in England A little private matter first Dignitaries of state were waiting ot Union Station to greet Prime Minister W L Mackenzie King of Canada but he first shook hands with some of Uncle Sams Army about to leove the station in a truck They are left to right Pvts Jay Flammer Santa Monica Calif Valter le Count Philippine Islands Werner Speer Union N J and Dale Constantine Waterloo Iowa King came to Washington for the big war conference The Duke of Windsor ad mires some New Jersey as paragus He exhibits it on his visit to truck farms in the State now employing natives from the Bahama Islands of which the Duke is Governor General Pcorl Buck meets some warm supporters Outside the House Immigration Committee room where she had just urged repeal of the Chinese exclusion act the author of Chinese novels receives the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:41:04.894Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1943-05-30/ed-1/?sp=73",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1young_ver01:data:sn83045462:00280603430:1943053001:0541/full/pct:6.25/0/default.jpg#h=447&w=326",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1young_ver01:data:sn83045462:00280603430:1943053001:0541/full/pct:12.5/0/default.jpg#h=895&w=653",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1young_ver01/data/sn83045462/00280603430/1943053001/0541.xml&format=alto_xml"
+  ],
+  "index": 141,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "8",
+    "6",
+    "0000000073",
+    "4",
+    "3",
+    "sn83045462",
+    "2",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000073"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "3",
+    "4",
+    "3",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1943-05-30-ed-1-0541",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1943-05-30/ed-1/?sp=73"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1943-05-30/ed-1/"
+  ],
+  "shelf_id": "073",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-25T03:14:51.898Z",
+  "title": "Image 73 of Evening star (Washington, D.C.), May 30, 1943",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1943-05-30/ed-1/?sp=73&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_1young_ver01%2Fdata%2Fsn83045462%2F00280603430%2F1943053001%2F0541.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

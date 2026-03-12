@@ -1,0 +1,167 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83030214/1918-04-13/ed-1/?sp=10"
+  ],
+  "batch": [
+    "dlc_allen_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1918-04-13",
+  "dates": [
+    "1918-04-13"
+  ],
+  "description": [
+    "Books Authors PublishersNews Reviews Comment Interests of the Nations The Panorama of the World By Willis Fletcher Johnson China Historical Descriptive and Re ligious CHINA Bi 11 II Parker With frontispiece and maps Svo pp 4P1 E P Dutton eu Co CHINA FROM WITHIN By Charleas Ernest Scott Illustrated 8ro pp 327 The Fleming H Kevell Company MANDARIN AND MISSIONARY IN CHINA By E F BorstMuHh With Illustrations and maps vo pi 26S Seseley Service A Co London THE HISTORICAL DEVELOPMENT OF RELIG ION IN CHINA By W J Clcrnell 12mo pp I 260 VE I Dutton Co This second edition of Professor Parkers well known work is welcome The lirst edition issued more than six teen years ago was properly accepted as a standard authority at that time The second has been brought down to date covering1 the great reforms in legislation which began in 1905 the revolution and the establishment of the Chinese Republic Professor Parker takes a most sympathetic and friendly view of the Chinese but does not per mit fiis partiality for them to warp his judgment or obscure the clarity of his vision It is a book of indispensable value to the student of Chinese"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-12-09T13:41:32.327Z",
+  "group": [
+    "ndnp/dlc-2009_2010",
+    "library-of-congress-washington-dc-awardee-3"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83030214/1918-04-13/ed-1/?sp=10",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_allen_ver02:data:sn83030214:00206532257:1918041301:0252/full/pct:3.125/0/default.jpg#h=264&w=206",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_allen_ver02:data:sn83030214:00206532257:1918041301:0252/full/pct:6.25/0/default.jpg#h=528&w=412",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_allen_ver02:data:sn83030214:00206532257:1918041301:0252/full/pct:12.5/0/default.jpg#h=1056&w=825",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_allen_ver02/data/sn83030214/00206532257/1918041301/0252.xml&format=alto_xml"
+  ],
+  "index": 174,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "new york",
+    "new york county",
+    "new york city",
+    "united states"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "2",
+    "0",
+    "0000000010",
+    "sn83030214",
+    "7",
+    "1",
+    "3",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83030214"
+  ],
+  "number_page": [
+    "0000000010"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "6",
+    "5",
+    "3",
+    "2",
+    "2",
+    "5",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Due to strike, published jointly with other newspapers as: Combined New York morning newspapers",
+    "Combined New York Sunday newspapers",
+    "New-York daily tribune"
+  ],
+  "page_id": "sn83030214-1918-04-13-ed-1-0252",
+  "partof": [
+    "chronicling america",
+    "new-york tribune (new york [n.y.]) 1866-1924",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "new-york tribune (new york [n.y.]) 1866-1924"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83030214/1918-04-13/ed-1/?sp=10"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83030214/1918-04-13/ed-1/"
+  ],
+  "shelf_id": "10",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "new york (state)",
+    "https://id.oclc.org/worldcat/entity/e39qbtfrvqh7864jh4rdgbfdwc",
+    "https://id.oclc.org/worldcat/entity/e39pbjpj8ktvrv6gp6v6tp7pwc",
+    "new york (n.y.)",
+    "new york county",
+    "new york",
+    "new york county (n.y.)",
+    "united states"
+  ],
+  "timestamp": "2024-12-09T15:13:17.027Z",
+  "title": "Image 10 of New-York tribune (New York [N.Y.]), April 13, 1918",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83030214/1918-04-13/ed-1/?sp=10&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_allen_ver02%2Fdata%2Fsn83030214%2F00206532257%2F1918041301%2F0252.xml&q=great+war&relevant_snippet=1"
+}

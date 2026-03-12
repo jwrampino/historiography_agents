@@ -1,0 +1,153 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84024692/1853-01-08/ed-1/?sp=2"
+  ],
+  "batch": [
+    "vi_icelandic_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/virginia/",
+    "3/united states/virginia/richmond/"
+  ],
+  "contributor": [
+    "library of virginia; richmond, va"
+  ],
+  "date": "1853-01-08",
+  "dates": [
+    "1853-01-08"
+  ],
+  "description": [
+    "Tin KM 11MOTD TIMES IHtlVi MOTT V IO Prririn i VIiTFlt H IRVINS i uHN OOTT Editor l iU MAS B AIL IEAsiitnt Editor R I C H MOND V A vTt nnn TiouiniJ jrRT n HIE KM II MOMt TinKM p II LIS BCD DAILY AN P 8EMI1VEK IY Is the or k ial jouril of the Council of tlie City ot Richmond it U aso been selected as one of the journals thnaeh wV b to publish the Laws of the United States it now enjoys a fine city and country circulation and is therefore an excellent medium for advertisers SUBSCRIPTION TERMS Daily Paterper annum in advanced5 00 it not paid in advance 6 00 Per month 50 Per week 10 Country PaperPer annum 4 00 JPor six months 2 50 For three months 1 50 ADVERTISING TERMS Transient advertisers are chanted the current rates to wit Daily paper first insertion 50 cents and each sub sequent lusertion cents Semi weekly paper 75 cents first insertion and 50 cents each subsequent insertion advertisements ordered in the semiweekly paper appear also in the daily paper free of charge AGENTS Postm asters throughout the State of Virginia are au thorized"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-02-06T12:41:38.789Z",
+  "group": [
+    "ndnp/vi",
+    "library-of-virginia-richmond-va-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84024692/1853-01-08/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348410:1853010801:0029/full/pct:6.25/0/default.jpg#h=450&w=322",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348410:1853010801:0029/full/pct:12.5/0/default.jpg#h=900&w=645",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/vi/batch_vi_icelandic_ver01/data/sn84024692/00393348410/1853010801/0029.xml&format=alto_xml"
+  ],
+  "index": 109,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "virginia",
+    "united states",
+    "richmond"
+  ],
+  "location_city": [
+    "richmond"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "virginia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn84024692",
+    "8",
+    "9",
+    "4",
+    "3",
+    "0000000002",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84024692"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "9",
+    "3",
+    "3",
+    "4",
+    "8",
+    "4",
+    "1",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Daily Richmond times"
+  ],
+  "page_id": "sn84024692-1853-01-08-ed-1-0029",
+  "partof": [
+    "richmond daily times (richmond [va.]) 1850-1853",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "richmond daily times (richmond [va.]) 1850-1853"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84024692/1853-01-08/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84024692/1853-01-08/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "virginia",
+    "newspapers",
+    "richmond (va.)",
+    "richmond"
+  ],
+  "timestamp": "2024-02-07T12:09:50.075Z",
+  "title": "Image 2 of Richmond daily times (Richmond [Va.]), January 8, 1853",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84024692/1853-01-08/ed-1/?sp=2&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fvi%2Fbatch_vi_icelandic_ver01%2Fdata%2Fsn84024692%2F00393348410%2F1853010801%2F0029.xml&q=cuba&relevant_snippet=1"
+}

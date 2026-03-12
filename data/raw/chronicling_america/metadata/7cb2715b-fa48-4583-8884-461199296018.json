@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84026355/1898-05-13/ed-1/?sp=1"
+  ],
+  "batch": [
+    "pst_atherton_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/pennsylvania/",
+    "2/united states/pennsylvania/lackawanna/",
+    "3/united states/pennsylvania/lackawanna/scranton/"
+  ],
+  "contributor": [
+    "penn state university libraries; university park, pa"
+  ],
+  "date": "1898-05-13",
+  "dates": [
+    "1898-05-13"
+  ],
+  "description": [
+    "Sk iHtTi SSmm fcw 1111 lUilf HHI TWO CENTS SCUAOTON PA nUDAY MORNING MAY TEN PAGES 1S9S THV PAGES TWO CENTS S drsBESMlSCHftWIWfflHfiaBfcY J BB53aFr mr 36 13 ADMIRAL SAMPSON STORMS SAN JUAN His Gunners Reduce the Citys Defenses to a Heap of Ruins in a Twink lingThe Battleship Iowa Hurls the First Missile Spanish Steamer Captured Cape Verde Fleet Located Copyright 1898 by the Associated Press PortauPrince May 12 The American fleet under Real Admiral Sampson bom barded San Juan de Porto Rico today The following are the details of the bombardment chus far received The bombardment arrived before San Juan shot which took effect Then the battleship Indiana opened fire and in a few minutes Morro fort was re duced to a heap of ruins The fort made little effort to respond and was silenced almost immediately The Spanish steamer Rita was captured by the United States auxiliary cruiser Yale which took her crew on board Thousands of the population and the foreign consuls sought refuge in the interior of the islands The foregoing dispatch from Port anPrlnce was not carried there by the dispatch boat of the Associated Pre ss which Is with Admiral Sampsons squadron and"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-10-07T22:20:39.038Z",
+  "group": [
+    "ndnp/pst",
+    "penn-state-university-libraries-university-park-pa-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84026355/1898-05-13/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100291:1898051301:0367/full/pct:6.25/0/default.jpg#h=455&w=340",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100291:1898051301:0367/full/pct:12.5/0/default.jpg#h=910&w=681",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/pst/batch_pst_atherton_ver01/data/sn84026355/00211100291/1898051301/0367.xml&format=alto_xml"
+  ],
+  "index": 129,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "lackawanna county",
+    "scranton",
+    "lackawanna",
+    "pennsylvania"
+  ],
+  "location_city": [
+    "scranton"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lackawanna"
+  ],
+  "location_state": [
+    "pennsylvania"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "sn84026355",
+    "9",
+    "2",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84026355"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "1",
+    "1",
+    "0",
+    "0",
+    "2",
+    "9",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84026355-1898-05-13-ed-1-0367",
+  "partof": [
+    "the scranton tribune (scranton, pa.) 1891-1910",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the scranton tribune (scranton, pa.) 1891-1910"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84026355/1898-05-13/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84026355/1898-05-13/ed-1/"
+  ],
+  "shelf_id": "01",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "scranton",
+    "lackawanna county (pa.)",
+    "scranton (pa.)",
+    "newspapers",
+    "lackawanna",
+    "pennsylvania"
+  ],
+  "timestamp": "2022-10-27T13:24:36.187Z",
+  "title": "Image 1 of The Scranton tribune (Scranton, Pa.), May 13, 1898, (Morning)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84026355/1898-05-13/ed-1/?sp=1&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fpst%2Fbatch_pst_atherton_ver01%2Fdata%2Fsn84026355%2F00211100291%2F1898051301%2F0367.xml&q=spanish&relevant_snippet=1"
+}

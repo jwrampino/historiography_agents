@@ -1,0 +1,136 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2004540423/1917-03-12/ed-1/?sp=152"
+  ],
+  "batch": [
+    "dlc_2endor_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1917-03-12",
+  "dates": [
+    "1917-03-12"
+  ],
+  "description": [
+    "all the news THATS FIT TO PRINT part ii TSAR NICHOLAS OF RUSSIA HAS ABDICATED HIS BROTHER MICHAEL IS NAMED REGENT FOLLOWING A DEMOCRATIC REVOLUTION jl ihhkih shut ik no is IMS 111 MB Grand Duke Michael Alexandrovitch Becomes RegentPro visional Cabinet Organized with Support of the Lead ers at the Front One Thousand Policemen Seized in Moscow Empress of Russia Placed Under Guard London Hears By Cable to the Associated Press LONDON Friday 248 A M A Petrograd despatch to the Daily Chronicle dated Wednes day says the Empress of Russia has been placed under guard By Cable to the Associated Press LONDON Friday Andrew Bonar Law Chancellor of Ihe Exchequer announced in the Houseof Commons last night that Emperor Nicholas had abdi cated and that Grand Duke Michael Alexandrovitch had been ap pointed Regent The soldiers sided with the Duma biit there was no Serious loss of life The Chancellor added that it was comforting to know that the movement by Russia was not directed at obtaining peace A telegram received by the Naval Attache of the Russian Embassy in Paris reported that the railways and public sendees in Petrograd had resumed work said Mr Bonar Law The"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-19T00:31:28.148Z",
+  "group": [
+    "sgpww1newspaperclippings/dlc",
+    "wwi-newspaper-clippings"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2004540423/1917-03-12/ed-1/?sp=152",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_2endor_ver01:data:2004540423:print00189481318:1917031201:0152/full/pct:6.25/0/default.jpg#h=457&w=341",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_2endor_ver01:data:2004540423:print00189481318:1917031201:0152/full/pct:12.5/0/default.jpg#h=914&w=683",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/sgp/sgpbatches/batch_dlc_2endor_ver01/data/2004540423/print00189481318/1917031201/0152.xml&format=alto_xml"
+  ],
+  "index": 92,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "new york",
+    "germany",
+    "united states"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "2004540423",
+    "0000000152",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2004540423"
+  ],
+  "number_page": [
+    "0000000152"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2004540423-1917-03-12-ed-1-0152",
+  "partof": [
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-",
+    "serial and government publications division",
+    "world war history: newspaper clippings, 1914-1926"
+  ],
+  "partof_collection": [
+    "world war history: newspaper clippings, 1914-1926"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2004540423/1917-03-12/ed-1/?sp=152"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2004540423/1917-03-12/ed-1/"
+  ],
+  "shelf_id": "152",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "armistices",
+    "history",
+    "allied occupation",
+    "germany",
+    "sources",
+    "new york",
+    "world war",
+    "united states"
+  ],
+  "timestamp": "2022-11-09T17:56:55.370Z",
+  "title": "Image 152 of World War history : daily records and comments as appeared in American and foreign newspapers, 1914-1926 (New York), March 12, 1917, (1917 March 12-16)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2004540423/1917-03-12/ed-1/?sp=152&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fsgp%2Fsgpbatches%2Fbatch_dlc_2endor_ver01%2Fdata%2F2004540423%2Fprint00189481318%2F1917031201%2F0152.xml&q=revolution&relevant_snippet=1"
+}

@@ -1,0 +1,136 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2004540423/1918-06-01/ed-1/?sp=162"
+  ],
+  "batch": [
+    "dlc_1kokomo_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1918-06-01",
+  "dates": [
+    "1918-06-01"
+  ],
+  "description": [
+    "aims of the bolshevik GOVERNMENT IN RUSSIA It Is Not Experimenting with Political and Economic Institu tions Correspondent Says but Is Building a Society Vvhich Labor Will Create and Direct By ALEXANDER TRACHTENBERG Director Department of Labor Research Hand School of Social Science To the Editor of the Evening Post Sir The metropolitan press your esteemed journal in particular have recently been devoting a great deal of space to Russian affairs The Soviet government lias come in for a great deal of criticism from Its enemies both in the bourgeois and Socialist camps The first are hurling anathema at the present Russian government because they see in it a challenge to the existing social and economic system The others although not a very numerous group are doing all within their power to discredit the Bolshevik government because they bear a traditional hatred toward the Bolsheviks There are those who cal themselves Socialists and who would rather see the Czar restored to his throne than have Russia under the control of the Bolsheviks While in Russia the writer belonged to the socalled Menshevik wing of the Social Democratic party He still is in disagreement With the Bolsheviks on a number of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-19T00:31:09.109Z",
+  "group": [
+    "sgpww1newspaperclippings/dlc",
+    "wwi-newspaper-clippings"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2004540423/1918-06-01/ed-1/?sp=162",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_1kokomo_ver01:data:2004540423:print00192513686:1918060101:0162/full/pct:6.25/0/default.jpg#h=455&w=353",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_1kokomo_ver01:data:2004540423:print00192513686:1918060101:0162/full/pct:12.5/0/default.jpg#h=911&w=706",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/sgp/sgpbatches/batch_dlc_1kokomo_ver01/data/2004540423/print00192513686/1918060101/0162.xml&format=alto_xml"
+  ],
+  "index": 90,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "new york",
+    "germany",
+    "united states"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "2004540423",
+    "0000000162"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2004540423"
+  ],
+  "number_page": [
+    "0000000162"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2004540423-1918-06-01-ed-1-0162",
+  "partof": [
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-",
+    "serial and government publications division",
+    "world war history: newspaper clippings, 1914-1926"
+  ],
+  "partof_collection": [
+    "world war history: newspaper clippings, 1914-1926"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2004540423/1918-06-01/ed-1/?sp=162"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2004540423/1918-06-01/ed-1/"
+  ],
+  "shelf_id": "162",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "armistices",
+    "history",
+    "allied occupation",
+    "germany",
+    "sources",
+    "new york",
+    "world war",
+    "united states"
+  ],
+  "timestamp": "2022-11-09T16:04:29.577Z",
+  "title": "Image 162 of World War history : daily records and comments as appeared in American and foreign newspapers, 1914-1926 (New York), June 1, 1918, (1918 June 1-4)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2004540423/1918-06-01/ed-1/?sp=162&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fsgp%2Fsgpbatches%2Fbatch_dlc_1kokomo_ver01%2Fdata%2F2004540423%2Fprint00192513686%2F1918060101%2F0162.xml&q=revolution&relevant_snippet=1"
+}

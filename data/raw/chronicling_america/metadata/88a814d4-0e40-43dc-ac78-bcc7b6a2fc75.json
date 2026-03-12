@@ -1,0 +1,165 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88077226/1948-07-21/ed-1/?sp=2"
+  ],
+  "batch": [
+    "ohi_amaryllis_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/montgomery/",
+    "3/united states/ohio/montgomery/dayton/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1948-07-21",
+  "dates": [
+    "1948-07-21"
+  ],
+  "description": [
+    "P dA NATIONAL The OHIO DAILY EXPRESS AMtm The congress is not the only body put on the spot by this con vention however The nomination of Sen Alben Barkley as vice president and its effect on the south and on the Negro the fu ture attitude of the south toward party and the future of the Demo crats are also questions brought to the front by the convention Because the President has call ed congree to meet voters will have a first hand chance to look at the record just before an elec tion Negroes will be watching es pecially the action on civil rights The Republicans will be watch ed because they are the majority group in congress The Democrats must be careful too because of what the southerners may do This congress may well determine the unity and future of the party In his acceptance speeh the Presi dent called for unity in the party He said There have been differences of opinion and that is the Demo cratic way These differences have been settled by a majority vote as they should be and it is time for us to get together and beat the common enemy"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:14:12.196Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88077226/1948-07-21/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_amaryllis_ver01:data:sn88077226:00414210387:1948072101:0629/full/pct:6.25/0/default.jpg#h=452&w=314",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_amaryllis_ver01:data:sn88077226:00414210387:1948072101:0629/full/pct:12.5/0/default.jpg#h=904&w=629",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_amaryllis_ver01/data/sn88077226/00414210387/1948072101/0629.xml&format=alto_xml"
+  ],
+  "index": 24,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ohio",
+    "united states",
+    "montgomery county",
+    "montgomery",
+    "dayton"
+  ],
+  "location_city": [
+    "dayton"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "montgomery"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn88077226",
+    "0000000002",
+    "2",
+    "8",
+    "3",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88077226"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "2",
+    "1",
+    "0",
+    "3",
+    "8",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88077226-1948-07-21-ed-1-0629",
+  "partof": [
+    "the ohio daily-express (dayton, ohio) 1946-1950",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the ohio daily-express (dayton, ohio) 1946-1950"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88077226/1948-07-21/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88077226/1948-07-21/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "ohio",
+    "african american",
+    "dayton (ohio)",
+    "united states",
+    "newspapers",
+    "montgomery county",
+    "african americans",
+    "montgomery",
+    "montgomery county (ohio)",
+    "dayton"
+  ],
+  "subject_ethnicity": [
+    "african american"
+  ],
+  "timestamp": "2023-09-04T23:56:50.001Z",
+  "title": "Image 2 of The Ohio daily-express (Dayton, Ohio), July 21, 1948",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88077226/1948-07-21/ed-1/?sp=2&q=civil+rights",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_amaryllis_ver01%2Fdata%2Fsn88077226%2F00414210387%2F1948072101%2F0629.xml&q=civil+rights&relevant_snippet=1"
+}

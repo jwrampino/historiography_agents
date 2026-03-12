@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84027524/1949-04-15/ed-1/?sp=6"
+  ],
+  "batch": [
+    "mthi_douglasfir_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/flathead/",
+    "3/united states/montana/flathead/columbia falls/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1949-04-15",
+  "dates": [
+    "1949-04-15"
+  ],
+  "description": [
+    "Nine Flatheadians To Become Citizens Nine Flathead county residents are scheduled to become American citizen May 4 in proceedings be fore District Judge Dean King with Examiner O J Valentine They are Olga Laveme Will ows Martin City a native of Can ada Claro Calio Bermudez Hun gry Horse the Phillipines Mar guerite L Schonenberger Somers Switzerland Seraflno Casna Kal ispell Route 1 Tyrol Italy Flor ence C Herron Marion Canada Elizabeth Massey Dac\u00f9wald Whitefish Scotland and Venan\u00e9io Labrado Bucanza Dementria Cab arero Bucanza Nemesio Caban eno 11 Whitefish and from the Phillipines LaSalle Briefs Wednesday afternoon the Mis sionary Circle of the First Baptist church of Columbia Falls met at the home of Mrs D L McDon ald During the afternoon devot ionals were held and also a busi ness meeting Lunch was served by the hostess to 15 which con cluded an enjoyable afternoon Mr and Mrs Gerald Keller and son Micheal spent the past wees visiting at the Mike Keller home Frances and Yvonne Cole of Frenchtown Mont spent the week end visiting their sister and family Mr and Mrs Robert Graham and Linda Mr and Mrs Paul Buck and son David of Great Falls and Mr"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:45:43.388Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84027524/1949-04-15/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_douglasfir_ver01:data:sn84027524:00340581453:1949041501:1165/full/pct:6.25/0/default.jpg#h=440&w=303",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_douglasfir_ver01:data:sn84027524:00340581453:1949041501:1165/full/pct:12.5/0/default.jpg#h=881&w=606",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_douglasfir_ver01/data/sn84027524/00340581453/1949041501/1165.xml&format=alto_xml"
+  ],
+  "index": 141,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "montana",
+    "columbia falls",
+    "flathead",
+    "united states"
+  ],
+  "location_city": [
+    "columbia falls"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "flathead"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "5",
+    "4",
+    "0000000006",
+    "1",
+    "sn84027524",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84027524"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "1",
+    "4",
+    "5",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84027524-1949-04-15-ed-1-1165",
+  "partof": [
+    "chronicling america",
+    "hungry horse news (columbia falls, mont.) 1948-current",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "hungry horse news (columbia falls, mont.) 1948-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84027524/1949-04-15/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84027524/1949-04-15/ed-1/"
+  ],
+  "shelf_id": "06",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "montana",
+    "columbia falls",
+    "flathead",
+    "columbia falls (mont.)",
+    "periodicals"
+  ],
+  "timestamp": "2023-07-05T20:31:11.360Z",
+  "title": "Image 6 of Hungry Horse news (Columbia Falls, Mont.), April 15, 1949",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84027524/1949-04-15/ed-1/?sp=6&q=phillipines",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_douglasfir_ver01%2Fdata%2Fsn84027524%2F00340581453%2F1949041501%2F1165.xml&q=phillipines&relevant_snippet=1"
+}

@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045012/1931-12-18/ed-1/?sp=4"
+  ],
+  "batch": [
+    "ohi_buttercup_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/butler/",
+    "3/united states/ohio/butler/hamilton/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1931-12-18",
+  "dates": [
+    "1931-12-18"
+  ],
+  "description": [
+    "r 5 if S Sf if s v v y r s V 8 V if s if v if if if if if 2r if if if if if if if if if y V Lubbock Texas ILNSIn lieu of plentiful labor farmers of the South Plains have begun to use mechanical cotton pickers in order to harvest their crops Dozens of these contri vances drawn by horses have been introduced in the fields while a few tractordriven machines are used This year the use of mechanical cot C6 _rZ vST 6 2 V 3 5 MWs Tfcxas Farmers Now Using Cotton Picking Machines s From The Lewis Cigar Store Ours is a Store For Ladies as well as Men A Few of Our Xmas Specials CIGARS Box of 50 Sobo Cigars 5c 170 jg y Box of 10 Havana Sweets 45c CANDIES jjjf 5lb Johnson Assorted Chocolates 149 J3 y 3lb Rainbow Delights 98 Jjf 5lb Primrose 100 filled L25 ft 5 5lb Daggetts Assorted Chocolates 249 A s 1lb Choosev Cherries 9 5r OUR FOURTH ANNUAL SALE ON LADIES PURSES MENS BILLFOLDS KEY CASES ETC IS WELL WORTH YOUR SHOPPING We carry a complete line of Pipes"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:15:08.379Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045012/1931-12-18/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_buttercup_ver01:data:sn83045012:00340580515:1931121801:0314/full/pct:3.125/0/default.jpg#h=305&w=229",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_buttercup_ver01:data:sn83045012:00340580515:1931121801:0314/full/pct:6.25/0/default.jpg#h=611&w=458",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_buttercup_ver01/data/sn83045012/00340580515/1931121801/0314.xml&format=alto_xml"
+  ],
+  "index": 152,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "hamilton",
+    "butler",
+    "ohio"
+  ],
+  "location_city": [
+    "hamilton"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "butler"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000004",
+    "8",
+    "3",
+    "5",
+    "4",
+    "1",
+    "sn83045012"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045012"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "0",
+    "5",
+    "1",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83045012-1931-12-18-ed-1-0314",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the butler county press (hamilton, ohio) 1900-1946"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the butler county press (hamilton, ohio) 1900-1946"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045012/1931-12-18/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045012/1931-12-18/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "ohio",
+    "hamilton (ohio)",
+    "butler",
+    "hamilton",
+    "newspapers"
+  ],
+  "timestamp": "2023-09-05T03:39:14.709Z",
+  "title": "Image 4 of The Butler County press (Hamilton, Ohio), December 18, 1931",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045012/1931-12-18/ed-1/?sp=4&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_buttercup_ver01%2Fdata%2Fsn83045012%2F00340580515%2F1931121801%2F0314.xml&q=terrorism&relevant_snippet=1"
+}

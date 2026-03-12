@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045085/1919-08-12/ed-1/?sp=2"
+  ],
+  "batch": [
+    "mthi_moose_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/silver bow/",
+    "3/united states/montana/silver bow/butte/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1919-08-12",
+  "dates": [
+    "1919-08-12"
+  ],
+  "description": [
+    "CUT THIS OUT Keep it handy that you may know where you can make your purchases and support those who are helping to support your paper The following business houses advertise in the Bulletin thus proving that they do not take orders from the agents of the Employers association which is trying to put your paper out of business These advertisers prove they are with you show them that you appreciate their support by dealing with them thev are worthy of your sunnort Restaturantlls The Famous Cafe 124 E Park Creamery Cafe 19 W Broadway Rex Cafe Great Falls Montana Leland Cafe 72 E Park streetl Spokane Cafe 17 S Main st Moxom Cafe 29 W Broadway Crystal Cafe 69 E Park street Golden West Cafe 227 S Main Pool Rooms Lambros Pool Hall 42 E Park st Golden Gate Pool Hall 272 E Park Park Music Houses Howard Music Co 213 N Main Drugs WoodyDuall Co 29 S MIain Jacques Drug Co 1957 Harrison av Piano Tuner Thomas Joyce 208 W Broadway Trunks and Luggage Montana Trunk Store 1i9 West Park Chili Parlors Pony Chili Parlor 338 E Iark Classic Chili Parlor 210 N NMain Tobaccos and onfections The"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:48:55.175Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045085/1919-08-12/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_moose_ver01:data:sn83045085:00212476900:1919081201:0239/full/pct:6.25/0/default.jpg#h=430&w=341",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_moose_ver01:data:sn83045085:00212476900:1919081201:0239/full/pct:12.5/0/default.jpg#h=860&w=682",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_moose_ver01/data/sn83045085/00212476900/1919081201/0239.xml&format=alto_xml"
+  ],
+  "index": 1,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "montana",
+    "butte",
+    "silver bow",
+    "united states"
+  ],
+  "location_city": [
+    "butte"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "silver bow"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000002",
+    "0",
+    "2",
+    "7",
+    "sn83045085",
+    "9",
+    "1",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045085"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "2",
+    "4",
+    "7",
+    "6",
+    "9",
+    "0",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83045085-1919-08-12-ed-1-0239",
+  "partof": [
+    "chronicling america",
+    "the butte daily bulletin (butte, mont.) 1918-1921",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the butte daily bulletin (butte, mont.) 1918-1921"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045085/1919-08-12/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045085/1919-08-12/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "working class",
+    "butte",
+    "labor",
+    "montana",
+    "silver bow",
+    "united states"
+  ],
+  "timestamp": "2023-07-06T11:24:28.417Z",
+  "title": "Image 2 of The Butte daily bulletin (Butte, Mont.), August 12, 1919",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045085/1919-08-12/ed-1/?sp=2&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_moose_ver01%2Fdata%2Fsn83045085%2F00212476900%2F1919081201%2F0239.xml&q=korea&relevant_snippet=1"
+}

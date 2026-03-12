@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86075258/1950-08-23/ed-1/?sp=9"
+  ],
+  "batch": [
+    "mthi_adderstongue_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/yellowstone/",
+    "3/united states/montana/yellowstone/laurel/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1950-08-23",
+  "dates": [
+    "1950-08-23"
+  ],
+  "description": [
+    "LEGAL NOTICES NOTICE OF CLOSE OF REGISTRATION Notice is hereby grfven that the registration for the General Elec tion will close on September 22 1950 at 5 oclock P M Electors may register for the ensuing election by appearing be fore the County Clerk at his office in the courthouse or by appearing before a deputy registrar or before any notary public or justice of the peace within Yellowstone County in the manner provided by law Dated at Billings Montana Au gpist 10 1950 EARLE KNIGHT County Clerk and ExOfficio County Registrar of Yellow stone County Montana First Pub Aug 23 19505t NOTICE TO BIDDERS Purchase of Transport Trailer The Board of County Commis sioners Montana will receive sealed bids until 1030 oclock A M Friday August 18th 1950 for the purchase of one drop platform type trans port semitrailer of not less than twentytwo 22 tons capacity to be equipped with air or vacuum brakes tandem rear axle with 8825x15 heavy duty tires Bid ders are requested to submit with their bids literature fully describ ing their product The county will entertain bids covering any used trailer meeting above specifica of Yellowstone County tions provided such used trailer shall"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:44:18.717Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86075258/1950-08-23/ed-1/?sp=9",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_adderstongue_ver01:data:sn86075258:00340581799:1950082301:0362/full/pct:6.25/0/default.jpg#h=449&w=333",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_adderstongue_ver01:data:sn86075258:00340581799:1950082301:0362/full/pct:12.5/0/default.jpg#h=898&w=666",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_adderstongue_ver01/data/sn86075258/00340581799/1950082301/0362.xml&format=alto_xml"
+  ],
+  "index": 117,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "montana",
+    "laurel",
+    "yellowstone"
+  ],
+  "location_city": [
+    "laurel"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "yellowstone"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "9",
+    "sn86075258",
+    "5",
+    "0000000009",
+    "4",
+    "1",
+    "7",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86075258"
+  ],
+  "number_page": [
+    "0000000009"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "1",
+    "7",
+    "9",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86075258-1950-08-23-ed-1-0362",
+  "partof": [
+    "chronicling america",
+    "laurel outlook (laurel, mont.) 1909-current",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "laurel outlook (laurel, mont.) 1909-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86075258/1950-08-23/ed-1/?sp=9"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86075258/1950-08-23/ed-1/"
+  ],
+  "shelf_id": "09",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "montana",
+    "laurel",
+    "yellowstone"
+  ],
+  "timestamp": "2023-07-05T13:52:08.220Z",
+  "title": "Image 9 of Laurel outlook (Laurel, Mont.), August 23, 1950",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86075258/1950-08-23/ed-1/?sp=9&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_adderstongue_ver01%2Fdata%2Fsn86075258%2F00340581799%2F1950082301%2F0362.xml&q=korea&relevant_snippet=1"
+}

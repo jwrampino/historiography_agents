@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1932-08-09/ed-1/?sp=16"
+  ],
+  "batch": [
+    "dlc_1bernal_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1932-08-09",
+  "dates": [
+    "1932-08-09"
+  ],
+  "description": [
+    "SMON SPEECH WARNING \u0399\u039f \u03a4\u039f\u039a\u0399\u039f Hints U S Would Join Other Nations Against Aggressive Policy in Manchuria The text of Secretary Stimsons ad dress on the KelloggBriand pact de livered in the National Padio Forum last night and broadcast over a coast tocoast network of the National Broad casting Co follows Pour years ago the United States ijoined with Prance in the initiation of the socalled Bri andKellogg Pact for the Renunciation of War A year later in 1929 the pact became formally effective and it has now been adhered to by 62 nations Scarcely had its ratification been announced cm July 24 1929 whn it became subjected to the first of a series of difficult chal lenges which are still going cn In the defense of the pact in these tests the American Government has been a leader I believe it would be ap propriate in the light of this three years history to take stock now of what the pact is the direction in Which it is developing and the part which we may hope that It eventually Will play in the affairs of the world Events have bser moving so rapidly since the Great War and we"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:36:35.003Z",
+  "group": [
+    "ndnp/dlc-2018_2019",
+    "library-of-congress-washington-dc-awardee-7"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1932-08-09/ed-1/?sp=16",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1bernal_ver01:data:sn83045462:00280600738:1932080901:0606/full/pct:6.25/0/default.jpg#h=499&w=368",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1bernal_ver01:data:sn83045462:00280600738:1932080901:0606/full/pct:12.5/0/default.jpg#h=998&w=737",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1bernal_ver01/data/sn83045462/00280600738/1932080901/0606.xml&format=alto_xml"
+  ],
+  "index": 136,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "2",
+    "sn83045462",
+    "6",
+    "8",
+    "3",
+    "0000000016",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000016"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "0",
+    "7",
+    "3",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1932-08-09-ed-1-0606",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1932-08-09/ed-1/?sp=16"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1932-08-09/ed-1/"
+  ],
+  "shelf_id": "16",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2022-10-24T15:25:25.786Z",
+  "title": "Image 16 of Evening star (Washington, D.C.), August 9, 1932",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1932-08-09/ed-1/?sp=16&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_1bernal_ver01%2Fdata%2Fsn83045462%2F00280600738%2F1932080901%2F0606.xml&q=great+war&relevant_snippet=1"
+}

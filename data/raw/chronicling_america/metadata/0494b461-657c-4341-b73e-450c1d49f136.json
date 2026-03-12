@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82014085/1946-08-08/ed-1/?sp=10"
+  ],
+  "batch": [
+    "ct_kendall_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/connecticut/",
+    "2/united states/connecticut/new haven/",
+    "3/united states/connecticut/new haven/waterbury/"
+  ],
+  "contributor": [
+    "connecticut state library, hartford, ct"
+  ],
+  "date": "1946-08-08",
+  "dates": [
+    "1946-08-08"
+  ],
+  "description": [
+    "Behind Oak Ridge Walls It Takes Bells Gongs Homs Buzzers to Run Pile of Atoms This is the face of the Clinton laboratory pile at Oak Ridge a wall of concrete with numbered aper tures plugged by lead blocks In the center of the picture the lead coffin has been wheeled up to an opening on a dolly and the pull rod has been inserted through the coffin to bring out a sample of activated material At left Dr Willi a health physicist holds aerobeearTe S to measure radtoaetivity with the Geiger counter slung over his shoulder checking to see if tion may proceed with safety opera SKaJRwPSlS How to ship an isotope While William Morgan cheeks with a Cutie r Irnter HJaWUnS lleft PPs cover for lead coffin container m which radioactive isotopes are shipped First of two dispatchesi BY PETER EDSOV Oak Ridge Tenn Aug 8 1NEA1 They opened up the Monsanto Clinton Laboratorys atomic pile to bunch of reporters down here the ether day to show how they make isotopes and all that The reporters were herded into ft mediumsized graypainted gal vanized iron factory building with ft tall blacktopped smokestack out HERES A T I P"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-06-01T13:39:24.930Z",
+  "group": [
+    "ndnp/ct",
+    "connecticut-state-library-hartford-ct-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82014085/1946-08-08/ed-1/?sp=10",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_kendall_ver01:data:sn82014085:00393346875:1946080801:0504/full/pct:6.25/0/default.jpg#h=442&w=323",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_kendall_ver01:data:sn82014085:00393346875:1946080801:0504/full/pct:12.5/0/default.jpg#h=885&w=647",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ct/batch_ct_kendall_ver01/data/sn82014085/00393346875/1946080801/0504.xml&format=alto_xml"
+  ],
+  "index": 195,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "new haven",
+    "united states",
+    "connecticut",
+    "waterbury"
+  ],
+  "location_city": [
+    "waterbury"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new haven"
+  ],
+  "location_state": [
+    "connecticut"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "0000000010",
+    "8",
+    "9",
+    "6",
+    "5",
+    "sn82014085",
+    "7",
+    "4",
+    "3",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82014085"
+  ],
+  "number_page": [
+    "0000000010"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "9",
+    "3",
+    "3",
+    "4",
+    "6",
+    "8",
+    "7",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82014085-1946-08-08-ed-1-0504",
+  "partof": [
+    "serial and government publications division",
+    "the waterbury democrat (waterbury, conn.) 1917-1946",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the waterbury democrat (waterbury, conn.) 1917-1946"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82014085/1946-08-08/ed-1/?sp=10"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82014085/1946-08-08/ed-1/"
+  ],
+  "shelf_id": "10",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "connecticut",
+    "waterbury (conn.)",
+    "newspapers",
+    "waterbury",
+    "new haven"
+  ],
+  "timestamp": "2023-06-28T22:27:26.050Z",
+  "title": "Image 10 of The Waterbury Democrat (Waterbury, Conn.), August 8, 1946",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82014085/1946-08-08/ed-1/?sp=10&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fct%2Fbatch_ct_kendall_ver01%2Fdata%2Fsn82014085%2F00393346875%2F1946080801%2F0504.xml&q=nuclear&relevant_snippet=1"
+}

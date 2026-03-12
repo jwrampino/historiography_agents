@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84036106/1951-01-18/ed-1/?sp=6"
+  ],
+  "batch": [
+    "mthi_joliet_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/lake/",
+    "3/united states/montana/lake/saint ignatius/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1951-01-18",
+  "dates": [
+    "1951-01-18"
+  ],
+  "description": [
+    "WEEKLY NEWS ANALYSIS Reds Launch Offensive in Korea US Works on Japanese Treaty Army Calls for 80000 Draftees EDITORS NOTE When opinions are expressed in these folnmni they are those o 1 Western Newspaper Unions news analysts and not necessarily of this newspaper J A B i I TOCnONXCnuNCnON 7 C Cf A y C THCs6uth kqka 7z North Korean and Chinese Communist troops concentrated for another blow on U N forces below the 38th parallel Chief concentration points were at Yonchon 1 and northwest of Seoul 2 A Red attack 3 northeast of Kumchon pushed back the South Koreans more than a mile Red patrols were near Kaesong 4 South Korean troops fought a preliminary battle near Hyon 5 Reds were also massed north of Chunchon 6 KOREA The Story Repeated The story of the Korean battle seemed to repeat itself Forced to withdraw from North Korea after pushing the Communists cut of South Korea and almost to the Man churian border U N forces re ceived the full force of Chinese and North Korean troopsas they plunged south of the 38th parallel U N troops gave ground and further retreats appear in store for them The main feature"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-10-15T00:01:22.559Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84036106/1951-01-18/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_joliet_ver01:data:sn84036106:00517179176:1951011801:0658/full/pct:6.25/0/default.jpg#h=329&w=220",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_joliet_ver01:data:sn84036106:00517179176:1951011801:0658/full/pct:12.5/0/default.jpg#h=659&w=440",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_joliet_ver01/data/sn84036106/00517179176/1951011801/0658.xml&format=alto_xml"
+  ],
+  "index": 137,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "saint ignatius",
+    "lake",
+    "montana"
+  ],
+  "location_city": [
+    "saint ignatius"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lake"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn84036106",
+    "9",
+    "6",
+    "5",
+    "1",
+    "0000000006",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84036106"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "9",
+    "1",
+    "7",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Saint Ignatius post"
+  ],
+  "page_id": "sn84036106-1951-01-18-ed-1-0658",
+  "partof": [
+    "chronicling america",
+    "st. ignatius post (st. ignatius, mont.) 1946-1962",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "st. ignatius post (st. ignatius, mont.) 1946-1962"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84036106/1951-01-18/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84036106/1951-01-18/ed-1/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "saint ignatius",
+    "lake",
+    "montana"
+  ],
+  "timestamp": "2023-10-15T00:15:17.376Z",
+  "title": "Image 6 of St. Ignatius post (St. Ignatius, Mont.), January 18, 1951",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84036106/1951-01-18/ed-1/?sp=6&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_joliet_ver01%2Fdata%2Fsn84036106%2F00517179176%2F1951011801%2F0658.xml&q=korea&relevant_snippet=1"
+}

@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85026954/1876-10-12/ed-1/?sp=2"
+  ],
+  "batch": [
+    "scu_kershawhogjam_ver03"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/south carolina/",
+    "2/united states/south carolina/beaufort/",
+    "3/united states/south carolina/beaufort/beaufort/"
+  ],
+  "contributor": [
+    "university of south carolina; columbia, sc"
+  ],
+  "date": "1876-10-12",
+  "dates": [
+    "1876-10-12"
+  ],
+  "description": [
+    "1 1 L K 1M_1M KOVAI STANDARD and COMMERCIAL A Jr THOMAS Editor Beaufort S C OH 12 1876 SIBSCKIFTIOXS Onr Yfr Si 00 4 Months 1 00 WWTTBT in N HI wnnrw 710TS 1AJT U dklwi ll nvmtiuit FOR PRESIDENT RUTHERFORD B HAYES OF 01110 FOR VICE PRESIDENT WILLIAM A WHEELER OF NEW YORK FOR GOVERNOR D H CHAMBERLAIN ATtnTWATJ tuj jtuv RICHD H CLEAVESTO CONGRESS5th DISTEICT ROBERT SMALLS OP BEAUFORT Fr PresMfiifial Eifdors At LargeC C BO WEN JOHN WINSMITIT KratlistrictT B JOHNSTON Saooad DistrictT HURLEY FkW DiriciW B NASH few XfctriotWILSON COOK FiftkDiatriotW P MYERS For W of State a E HAYNR Jor Cbaip Oeueral T C DUNN Slate Treasurer F L CARDOZO For AttyGeneral R B ELLIOTT For State 8upt of Education J R TOLBERT For Adjt InspectorGeneral J D KENNEDY For Solicitor Second Circuit S J LEE The Executive of the United States will do his duty and I shall do mine and it xhal be seen by the world whether the right to a peaceful and free ballot by the citizens of this State conferred and nuule inviolable by the constitution and laws oj State and nation alike can be trampled uwlcr foot by"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-24T14:42:42.186Z",
+  "group": [
+    "ndnp/scu",
+    "university-of-south-carolina-columbia-sc-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85026954/1876-10-12/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85026954:0041562010A:1876101201:0182/full/pct:3.125/0/default.jpg#h=337&w=238",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85026954:0041562010A:1876101201:0182/full/pct:6.25/0/default.jpg#h=675&w=477",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/scu/batch_scu_kershawhogjam_ver03/data/sn85026954/0041562010A/1876101201/0182.xml&format=alto_xml"
+  ],
+  "index": 6,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "south carolina",
+    "beaufort county",
+    "beaufort",
+    "united states"
+  ],
+  "location_city": [
+    "beaufort"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "beaufort"
+  ],
+  "location_state": [
+    "south carolina"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn85026954",
+    "5",
+    "6",
+    "4",
+    "a",
+    "2",
+    "0000000002",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85026954"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "2",
+    "0",
+    "1",
+    "0",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85026954-1876-10-12-ed-1-0182",
+  "partof": [
+    "port royal standard and commercial (beaufort, s.c.) 1874-1876",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "port royal standard and commercial (beaufort, s.c.) 1874-1876"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85026954/1876-10-12/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85026954/1876-10-12/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "beaufort county (s.c.)",
+    "newspapers",
+    "beaufort",
+    "south carolina",
+    "beaufort (s.c.)",
+    "beaufort county"
+  ],
+  "timestamp": "2024-02-04T17:51:21.878Z",
+  "title": "Image 2 of Port Royal standard and commercial (Beaufort, S.C.), October 12, 1876",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85026954/1876-10-12/ed-1/?sp=2&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fscu%2Fbatch_scu_kershawhogjam_ver03%2Fdata%2Fsn85026954%2F0041562010A%2F1876101201%2F0182.xml&q=terrorism&relevant_snippet=1"
+}

@@ -1,0 +1,150 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "Raymond Anthony Mungo Speech",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Waltham",
+          "phone": "866-406-2379",
+          "address1": "380 Trapelo Road",
+          "postalCode": "02452-6399",
+          "name": "National Archives at Boston",
+          "state": "MA",
+          "fax": "781-663-0156",
+          "email": "boston.archives@nara.gov",
+          "mailCode": "RRFB"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "depth": 0,
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "width": 0,
+          "specificMediaType": "Paper",
+          "containerId": "6",
+          "height": 0
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupName": "National Archives at Boston",
+    "groupId": "RRFB",
+    "groupCd": "RRFB"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "productionDates": [
+    {
+      "month": 10,
+      "year": 1967,
+      "day": 16,
+      "logicalDate": "1967-10-16"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "Mungo_speech-01.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/72/5812/27581272/content/boston/rg-118/4477105/Mungo_speech-01.JPG",
+      "objectFileSize": 2427300,
+      "objectDesignator": "1",
+      "objectId": "27581273",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Mungo_speech-02.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/72/5812/27581272/content/boston/rg-118/4477105/Mungo_speech-02.JPG",
+      "objectFileSize": 3429566,
+      "objectDesignator": "2",
+      "objectId": "27581274",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Mungo_speech-03.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/72/5812/27581272/content/boston/rg-118/4477105/Mungo_speech-03.JPG",
+      "objectFileSize": 4645690,
+      "objectDesignator": "3",
+      "objectId": "27581275",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Mungo_speech-04.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/72/5812/27581272/content/boston/rg-118/4477105/Mungo_speech-04.JPG",
+      "objectFileSize": 4770196,
+      "objectDesignator": "4",
+      "objectId": "27581276",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "Mungo_speech.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/72/5812/27581272/content/boston/rg-118/4477105/Mungo_speech.pdf",
+      "objectFileSize": 15174871,
+      "objectId": "27581277",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1821,
+        "logicalDate": "1821-01-01"
+      },
+      "distance": 3,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 118,
+      "inclusiveEndDate": {
+        "year": 2022,
+        "logicalDate": "2022-01-01"
+      },
+      "title": "Records of U.S. Attorneys",
+      "naId": 447
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1928,
+        "logicalDate": "1928-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "Department of Justice. Office of the U.S. Attorney for the Judicial District of Massachusetts. (1789 - )",
+          "authorityType": "organization",
+          "establishDate": {
+            "year": 1789,
+            "logicalDate": "1789-01-01"
+          },
+          "naId": 10468315
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1976,
+        "logicalDate": "1976-01-01"
+      },
+      "title": "Precedent Case Files",
+      "naId": 4477105
+    },
+    {
+      "distance": 1,
+      "levelOfDescription": "fileUnit",
+      "title": "Boston Common",
+      "naId": 27581271
+    }
+  ],
+  "scopeAndContentNote": "This item is a copy of the speech given by college student Raymond Anthony Mungo at the Boston Common for an anti-Vietnam draft rally.",
+  "naId": 27581272
+}

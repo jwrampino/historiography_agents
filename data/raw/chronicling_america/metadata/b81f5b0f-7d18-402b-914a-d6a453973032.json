@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1924-09-14/ed-1/?sp=33"
+  ],
+  "batch": [
+    "dlc_carmichael_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1924-09-14",
+  "dates": [
+    "1924-09-14"
+  ],
+  "description": [
+    "CHILD LABOR LAW TEXT BOOK ISSUED Womans Committee Booklet Contradicts Claims of Amendments Foes Definitely contradicting certain statements of the opposition to the child labor amendment and answer ing their contentions in detail the 18 national organizations composing the womens committee for the chil drens amendment are issuing a rati fication campaign text book for use in the State election campaigns The State and local branches of these organizations will work to send men and women to the State legislatures who are pledged to ratification The womens ratifiction text book sets forth what the amend ment Is and does the text book also emphasizing what it is not and does not do among other points these The amendment is an enabling act not a statute To become effective it must be followed by a Federal sta tute which Congress at present is without power to enact as demon strated by two adverse Supreme Court decisions It grants power to Congress here after to make laws against the ex ploitation of childhood at premature or injurious labor In other words it enables Congress to fix a Federal minimum standard for the employment of children a minimum determined by the majority sentiment"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:52:50.579Z",
+  "group": [
+    "ndnp/dlc-2017_2017",
+    "library-of-congress-washington-dc-awardee-6"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1924-09-14/ed-1/?sp=33",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_carmichael_ver01:data:sn83045462:00280657761:1924091401:0485/full/pct:3.125/0/default.jpg#h=260&w=203",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_carmichael_ver01:data:sn83045462:00280657761:1924091401:0485/full/pct:6.25/0/default.jpg#h=521&w=406",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_carmichael_ver01:data:sn83045462:00280657761:1924091401:0485/full/pct:12.5/0/default.jpg#h=1043&w=812",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_carmichael_ver01/data/sn83045462/00280657761/1924091401/0485.xml&format=alto_xml"
+  ],
+  "index": 100,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "5",
+    "0000000033",
+    "7",
+    "sn83045462",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000033"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "7",
+    "7",
+    "6",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1924-09-14-ed-1-0485",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1924-09-14/ed-1/?sp=33"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1924-09-14/ed-1/"
+  ],
+  "shelf_id": "033",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-24T17:01:07.533Z",
+  "title": "Image 33 of Evening star (Washington, D.C.), September 14, 1924",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1924-09-14/ed-1/?sp=33&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_carmichael_ver01%2Fdata%2Fsn83045462%2F00280657761%2F1924091401%2F0485.xml&q=child+labor&relevant_snippet=1"
+}

@@ -1,0 +1,152 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82016181/1937-03-24/ed-1/?sp=3"
+  ],
+  "batch": [
+    "dlc_avedon_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1937-03-24",
+  "dates": [
+    "1937-03-24"
+  ],
+  "description": [
+    "Rebel Forces Dig in to Defend Siguenza 9 Loyalists Claim to Have Inflicted Losses on Fresh Insurgents By United Press WITH LOYALIST ARMY Madrid Front Insurgent forces concentrating near Al madrones for a new drive on Madrid suffered the heaviest losses today army dispatches reported when they were re peatedly attacked by Loyalist fliers who dropped 460 bombs and fired 15000 machine gun bullets into their ranks An artillery duel broke out as the Rebel army its retreat from Guad i alajara halted began to entrenchj on a line about 12 miles south of Siguenza base of operations in the recent disastrous offensive against Madrid Gen Jose Miaja Loyalist com mander in chief rushed several thousand reserves from Madrid last night to oppose the Insurgent army ITALIANS REPLACED Gen Francisco Franco Insurgent leader pulled out his Italian units sent them to Saragosa for a com plete reorganization and replaced them with 7000 Spanish and Moor ish troops the dispatches reported Under Francos personal command the Rebels halted their weeklong retreat from Guadalajara and dug in along the CogolludoJadraque AlmadronesCifuentes line holding these positions against repeated Loy alist attacks Reinforcements for Francos army were reported to be constantly arriv ing Army"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-09-28T04:39:29.034Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82016181/1937-03-24/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_avedon_ver01:data:sn82016181:00516999573:1937032401:0876/full/pct:6.25/0/default.jpg#h=330&w=226",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_avedon_ver01:data:sn82016181:00516999573:1937032401:0876/full/pct:12.5/0/default.jpg#h=661&w=453",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_avedon_ver01/data/sn82016181/00516999573/1937032401/0876.xml&format=alto_xml"
+  ],
+  "index": 158,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000003",
+    "9",
+    "sn82016181",
+    "6",
+    "5",
+    "3",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82016181"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "9",
+    "5",
+    "7",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82016181-1937-03-24-ed-1-0876",
+  "partof": [
+    "chronicling america",
+    "the washington daily news (washington, d.c.) 1921-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington daily news (washington, d.c.) 1921-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82016181/1937-03-24/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82016181/1937-03-24/ed-1/"
+  ],
+  "shelf_id": "03",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2025-09-28T05:15:48.141Z",
+  "title": "Image 3 of The Washington daily news (Washington, D.C.), March 24, 1937",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82016181/1937-03-24/ed-1/?sp=3&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_avedon_ver01%2Fdata%2Fsn82016181%2F00516999573%2F1937032401%2F0876.xml&q=child+labor&relevant_snippet=1"
+}

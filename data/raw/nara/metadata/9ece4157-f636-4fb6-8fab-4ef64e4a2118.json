@@ -1,0 +1,215 @@
+{
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "note": "Some or all of the records may be subject to copyright restrictions. Researchers should contact the publisher for further information.",
+    "specificUseRestrictions": [
+      "Copyright"
+    ],
+    "status": "Restricted - Possibly"
+  },
+  "title": "Terrorism",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Little Rock",
+          "phone": "501-244-2877",
+          "address1": "1200 President Clinton Avenue",
+          "postalCode": "72201",
+          "name": "William J. Clinton Library",
+          "state": "AR",
+          "fax": "501-244-2881",
+          "email": "clinton.library@nara.gov",
+          "mailCode": "LP-WJC"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper",
+          "containerId": "16"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "note": "These records may need to be screened for personal privacy, and law enforcement under 5 U.S.C. 552 (b) prior to public release.",
+    "specificAccessRestrictions": [
+      {
+        "securityClassification": "Secret",
+        "restriction": "FOIA (b)(1) National Security"
+      },
+      {
+        "restriction": "FOIA (b)(6) Personal Information"
+      },
+      {
+        "restriction": "FOIA (b)(7c) Law Enforcement"
+      },
+      {
+        "restriction": "FOIA (b)(7e) Law Enforcement"
+      },
+      {
+        "restriction": "FOIA (b)(7f) Law Enforcement"
+      }
+    ],
+    "status": "Restricted - Partly"
+  },
+  "dataControlGroup": {
+    "groupId": "ou=NLWJC,ou=groups",
+    "groupCd": "LPWJC"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "LPWJC 2006-0458-F",
+      "type": "FOIA Tracking Number"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "42_t_7431981_20060458F_016_011_2014_Page_001.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/14/5466/18546614/content/presidential-libraries/clinton/foia/2006-0458-F/2006-0458-F-JPG/Box_016/42-t-7431981-20060458F-016-011-2014/42_t_7431981_20060458F_016_011_2014_Page_001.JPG",
+      "objectFileSize": 303104,
+      "objectId": "32678563",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431981_20060458F_016_011_2014_Page_002.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/14/5466/18546614/content/presidential-libraries/clinton/foia/2006-0458-F/2006-0458-F-JPG/Box_016/42-t-7431981-20060458F-016-011-2014/42_t_7431981_20060458F_016_011_2014_Page_002.JPG",
+      "objectFileSize": 208645,
+      "objectId": "32678564",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431981_20060458F_016_011_2014_Page_003.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/14/5466/18546614/content/presidential-libraries/clinton/foia/2006-0458-F/2006-0458-F-JPG/Box_016/42-t-7431981-20060458F-016-011-2014/42_t_7431981_20060458F_016_011_2014_Page_003.JPG",
+      "objectFileSize": 237568,
+      "objectId": "32678565",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431981_20060458F_016_011_2014_Page_004.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/14/5466/18546614/content/presidential-libraries/clinton/foia/2006-0458-F/2006-0458-F-JPG/Box_016/42-t-7431981-20060458F-016-011-2014/42_t_7431981_20060458F_016_011_2014_Page_004.JPG",
+      "objectFileSize": 730835,
+      "objectId": "32678566",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431981_20060458F_016_011_2014_Page_005.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/14/5466/18546614/content/presidential-libraries/clinton/foia/2006-0458-F/2006-0458-F-JPG/Box_016/42-t-7431981-20060458F-016-011-2014/42_t_7431981_20060458F_016_011_2014_Page_005.JPG",
+      "objectFileSize": 630784,
+      "objectId": "32678567",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431981_20060458F_016_011_2014_Page_006.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/14/5466/18546614/content/presidential-libraries/clinton/foia/2006-0458-F/2006-0458-F-JPG/Box_016/42-t-7431981-20060458F-016-011-2014/42_t_7431981_20060458F_016_011_2014_Page_006.JPG",
+      "objectFileSize": 737280,
+      "objectId": "32678568",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431981_20060458F_016_011_2014_Page_007.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/14/5466/18546614/content/presidential-libraries/clinton/foia/2006-0458-F/2006-0458-F-JPG/Box_016/42-t-7431981-20060458F-016-011-2014/42_t_7431981_20060458F_016_011_2014_Page_007.JPG",
+      "objectFileSize": 630784,
+      "objectId": "32678569",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431981_20060458F_016_011_2014_Page_008.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/14/5466/18546614/content/presidential-libraries/clinton/foia/2006-0458-F/2006-0458-F-JPG/Box_016/42-t-7431981-20060458F-016-011-2014/42_t_7431981_20060458F_016_011_2014_Page_008.JPG",
+      "objectFileSize": 393216,
+      "objectId": "32678570",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431981_20060458F_016_011_2014_Page_009.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/14/5466/18546614/content/presidential-libraries/clinton/foia/2006-0458-F/2006-0458-F-JPG/Box_016/42-t-7431981-20060458F-016-011-2014/42_t_7431981_20060458F_016_011_2014_Page_009.JPG",
+      "objectFileSize": 344064,
+      "objectId": "32678571",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431981_20060458F_016_011_2014_Page_010.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/14/5466/18546614/content/presidential-libraries/clinton/foia/2006-0458-F/2006-0458-F-JPG/Box_016/42-t-7431981-20060458F-016-011-2014/42_t_7431981_20060458F_016_011_2014_Page_010.JPG",
+      "objectFileSize": 442368,
+      "objectId": "32678572",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431981_20060458F_016_011_2014_Page_011.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/14/5466/18546614/content/presidential-libraries/clinton/foia/2006-0458-F/2006-0458-F-JPG/Box_016/42-t-7431981-20060458F-016-011-2014/42_t_7431981_20060458F_016_011_2014_Page_011.JPG",
+      "objectFileSize": 360448,
+      "objectId": "32678573",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42-t-7431981-20060458F-016-011-2014.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/14/5466/18546614/content/presidential-libraries/clinton/foia/2006-0458-F/2006-0458-F-PDF/Box_016/42-t-7431981-20060458F-016-011-2014.pdf",
+      "objectFileSize": 373018,
+      "objectId": "32678562",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "otherTitles": [
+    "42-t-7431981-20060458F-016-011-2014"
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "WJC-OC",
+      "inclusiveStartDate": {
+        "year": 1993,
+        "logicalDate": "1993-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "year": 2001,
+        "logicalDate": "2001-12-31"
+      },
+      "title": "Records of the Office of Communications (Clinton Administration)",
+      "naId": 2524457
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1994,
+        "logicalDate": "1994-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "President (1993-2001 : Clinton). Office of Communications 1/20/1993-1/20/2001",
+          "abolishDate": {
+            "month": 1,
+            "year": 2001,
+            "day": 20,
+            "logicalDate": "2001-01-20"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 1,
+            "year": 1993,
+            "day": 20,
+            "logicalDate": "1993-01-20"
+          },
+          "naId": 10514354
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1997,
+        "logicalDate": "1997-12-31"
+      },
+      "title": "Don Baer's Files",
+      "naId": 7431981
+    }
+  ],
+  "naId": 18546614
+}

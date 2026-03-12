@@ -1,0 +1,170 @@
+{
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "note": "Some or all of the records may be subject to copyright restrictions. Researchers should contact the copyright holder for further information.",
+    "specificUseRestrictions": [
+      "Copyright"
+    ],
+    "status": "Restricted - Possibly"
+  },
+  "audiovisual": "false",
+  "title": "[Institute of Medicine]",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Little Rock",
+          "phone": "501-244-2877",
+          "address1": "1200 President Clinton Avenue",
+          "postalCode": "72201",
+          "name": "William J. Clinton Library",
+          "state": "AR",
+          "fax": "501-244-2881",
+          "email": "clinton.library@nara.gov",
+          "mailCode": "LP-WJC"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "note": "These records may need to be screened for personal privacy, and law enforcement under 5 U.S.C. 552 (b) prior to public release.",
+    "specificAccessRestrictions": [
+      {
+        "restriction": "FOIA (b)(4) Trade Secrets and Commercial or Financial Information"
+      },
+      {
+        "restriction": "FOIA (b)(6) Personal Information"
+      },
+      {
+        "restriction": "FOIA (b)(7c) Law Enforcement"
+      },
+      {
+        "restriction": "FOIA (b)(7e) Law Enforcement"
+      },
+      {
+        "restriction": "FOIA (b)(7f) Law Enforcement"
+      }
+    ],
+    "status": "Restricted - Partly"
+  },
+  "arrangement": "Records that are responsive to this FOIA request were found in one collection area \u2014 Clinton Presidential Records: White House Staff and Office Files. As policy, staff and office files are processed at the folder level, that is, individual documents are not selected and removed from a folder for processing. While this method maintains folder integrity, it frequently results in the incidental processing of documents that are not wholly responsive to the subject area.",
+  "dataControlGroup": {
+    "groupName": "William J. Clinton Library",
+    "groupId": "ou=NLWJC,ou=groups",
+    "groupCd": "LPWJC"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "LPWJC 2006-0885-F (Seg 1)",
+      "type": "FOIA Tracking Number"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "42_t_12092985_20060885f_Seg1_004_010_2015_Page_001.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/27/8860/16886027/content/presidential-libraries/clinton/foia/2006-0885-F-Seg-1/2006-0885-F-Seg-1-JPG/Box_004/42-t-12092985-20060885f-Seg1-004-010-2015/42_t_12092985_20060885f_Seg1_004_010_2015_Page_001.JPG",
+      "objectFileSize": 335872,
+      "objectId": "34830123",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_12092985_20060885f_Seg1_004_010_2015_Page_002.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/27/8860/16886027/content/presidential-libraries/clinton/foia/2006-0885-F-Seg-1/2006-0885-F-Seg-1-JPG/Box_004/42-t-12092985-20060885f-Seg1-004-010-2015/42_t_12092985_20060885f_Seg1_004_010_2015_Page_002.JPG",
+      "objectFileSize": 204800,
+      "objectId": "34830124",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_12092985_20060885f_Seg1_004_010_2015_Page_003.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/27/8860/16886027/content/presidential-libraries/clinton/foia/2006-0885-F-Seg-1/2006-0885-F-Seg-1-JPG/Box_004/42-t-12092985-20060885f-Seg1-004-010-2015/42_t_12092985_20060885f_Seg1_004_010_2015_Page_003.JPG",
+      "objectFileSize": 1138688,
+      "objectId": "34830125",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_12092985_20060885f_Seg1_004_010_2015_Page_004.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/27/8860/16886027/content/presidential-libraries/clinton/foia/2006-0885-F-Seg-1/2006-0885-F-Seg-1-JPG/Box_004/42-t-12092985-20060885f-Seg1-004-010-2015/42_t_12092985_20060885f_Seg1_004_010_2015_Page_004.JPG",
+      "objectFileSize": 1114112,
+      "objectId": "34830126",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_12092985_20060885f_Seg1_004_010_2015_Page_005.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/27/8860/16886027/content/presidential-libraries/clinton/foia/2006-0885-F-Seg-1/2006-0885-F-Seg-1-JPG/Box_004/42-t-12092985-20060885f-Seg1-004-010-2015/42_t_12092985_20060885f_Seg1_004_010_2015_Page_005.JPG",
+      "objectFileSize": 1228800,
+      "objectId": "34830127",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_12092985_20060885f_Seg1_004_010_2015_Page_006.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/27/8860/16886027/content/presidential-libraries/clinton/foia/2006-0885-F-Seg-1/2006-0885-F-Seg-1-JPG/Box_004/42-t-12092985-20060885f-Seg1-004-010-2015/42_t_12092985_20060885f_Seg1_004_010_2015_Page_006.JPG",
+      "objectFileSize": 917504,
+      "objectId": "34830128",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42-t-12092985-20060885f-Seg1-004-010-2015.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/27/8860/16886027/content/presidential-libraries/clinton/foia/2006-0885-F-Seg-1/2006-0885-F-Seg-1-PDF/Box_004/42-t-12092985-20060885f-Seg1-004-010-2015.pdf",
+      "objectFileSize": 2952410,
+      "objectId": "34830122",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "otherTitles": [
+    "42-t-12092985-20060885f-Seg1-004-010-2015"
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "WJC-TFNHC",
+      "inclusiveStartDate": {
+        "year": 1993,
+        "logicalDate": "1993-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "year": 1994,
+        "logicalDate": "1994-12-31"
+      },
+      "title": "Records of the Task Force on National Health Care (Clinton Administration)",
+      "naId": 7410105
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1993,
+        "logicalDate": "1993-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "White House Health Care Task Force (U.S.)",
+          "authorityType": "organization",
+          "naId": 10443060
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1994,
+        "logicalDate": "1994-12-31"
+      },
+      "title": "Ira Magaziner's Files",
+      "naId": 12092985
+    }
+  ],
+  "scopeAndContentNote": "The materials in FOIA 2006-0885-F (segment 1) are a selective, not necessarily all inclusive body of documents responsive to the topic of the FOIA. Researchers should consult the archivist about related materials. \nFOIA request 2006-0885-F (segment 1) consists of Ira Magaziner\u2019s Health Care Task Force files. Ira Magaziner, a Senior Advisor to the President for Policy Development, was heavily involved in health care reform. In January 1993, President Clinton announced the creation of the Task Force on National Health Care Reform and designated First Lady Hillary Rodham Clinton as its chair. Magaziner assisted the Task Force by coordinating health care policy development through the formation of numerous working groups. Magaziner and the First Lady were the President\u2019s primary advisors on health care. The Health Care Task Force eventually produced the administration\u2019s health care plan, introduced to Congress as the Health Security Act. This bill failed to pass in 1994.\nThe White House Staff and Office files contain materials maintained by individual offices and staff members. The records responsive to this FOIA are Health Care Task Force files determined to have been created by Ira Magaziner. This series contains various types of correspondence, press clippings, and publications. In addition, throughout these files one may find materials on the Health Security Act. These records include general information on the administration\u2019s health care reform proposal, comparison between it and other health care plans, analysis of the Health Security Act, briefing materials, and correspondence between Ira Magaziner and other White House staff involved in health care reform. \nLocated at the beginning of this series, the correspondence includes letters and responses to the Health Security Act from professional, educational, and non-profit organizations , as well as critiques of the plan from other executive branch agencies. In addition, these files also contain correspondence to Ira Magaziner and other members of the Clinton Administration, from private citizens. Many of these offered either approval or disagreement with the Clinton health care plan and are dated between the second half of 1993 and the end of 1994. A copy of Magaziner\u2019s response attached accompanies many of the letters. This correspondence from individual citizens is arranged initially by topic, and later alphabetically. In addition, the correspondence files contain statistics and analysis regarding the handling of correspondence received by Magaziner\u2019s office, as well as telephone and mail logs. \nNumerous files containing press clippings follow the correspondence. These files contain articles, press releases, and papers discussing health care reform, as well as daily clippings and summaries of relevant news items provided to Magaziner by the White House and by the Department of Health and Human Services. These daily clippings are in chronological order and date from 1993 through 1995. \nPublications sent to Ira Magaziner are located at the end of this series. These books, pamphlets, and reports generally represent topics relevant to health care reform, though some discuss unrelated matters. Magaziner received these materials from individual citizens, external organizations, state governments, and other federal government agencies.",
+  "naId": 16886027
+}

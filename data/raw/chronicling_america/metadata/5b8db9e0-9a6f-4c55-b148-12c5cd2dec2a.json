@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn96076641/1898-04-21/ed-1/?sp=2"
+  ],
+  "batch": [
+    "mimtptc_franklin_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/michigan/",
+    "2/united states/michigan/ionia/",
+    "3/united states/michigan/ionia/belding/"
+  ],
+  "contributor": [
+    "central michigan university, clark historical library"
+  ],
+  "date": "1898-04-21",
+  "dates": [
+    "1898-04-21"
+  ],
+  "description": [
+    "The Belding Banner CJowctln fc Laphatn Editors and PublUHers BELDINO MICHIGAN 0 8 MM GALLED OUT Concentrated at Points of Easy Ac cess to Cuba NAVAL RESERVES GIVEN SHIPS Uncle Sum Itujlng More Veaitel for Crula era anil Transport Spain Ainu Pre paring for the tonlllct Queen lie geut Prefers AVar to Humiliation Decided the most wnrlike step taken ly the war department in preparing for the possibility of an encounter with Spain was inaugurated when orders were issued for the concentration at four points in the south of six regi ments of cavalry 2 regiments of in fantry and the light batteries of five regiments of artillery At Chickamauga there will be six regiments of cavalry and the light bat teries of five regiments of artillery ut New Orleans eight regiments of infan try at Tampa seven regiments of in fantry and at Mobile seven regiments of infantry The department has so distributed the 22 regiments of infantry at conven ient places on the gulf that they will be necessable for transportation to Cuba Proposals have been invited from foccamship companies for charter ing vessels to the government for this work Since the civil war no such propor tion"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-16T21:39:44.563Z",
+  "group": [
+    "ndnp/mimtptc",
+    "central-michigan-university-clark-historical-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn96076641/1898-04-21/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_franklin_ver01:data:sn96076641:00415669550:1898042101:0338/full/pct:3.125/0/default.jpg#h=304&w=201",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_franklin_ver01:data:sn96076641:00415669550:1898042101:0338/full/pct:6.25/0/default.jpg#h=608&w=403",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mimtptc/batch_mimtptc_franklin_ver01/data/sn96076641/00415669550/1898042101/0338.xml&format=alto_xml"
+  ],
+  "index": 51,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "belding",
+    "ionia county",
+    "ionia",
+    "michigan"
+  ],
+  "location_city": [
+    "belding"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "ionia"
+  ],
+  "location_state": [
+    "michigan"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "5",
+    "6",
+    "9",
+    "4",
+    "sn96076641",
+    "0000000002",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn96076641"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "6",
+    "9",
+    "5",
+    "5",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn96076641-1898-04-21-ed-1-0338",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "belding banner (belding, mich.) 1889-1918"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "belding banner (belding, mich.) 1889-1918"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn96076641/1898-04-21/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn96076641/1898-04-21/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "belding",
+    "ionia county",
+    "newspapers",
+    "ionia",
+    "belding (mich.)",
+    "michigan",
+    "ionia county (mich.)"
+  ],
+  "timestamp": "2024-01-17T08:05:31.694Z",
+  "title": "Image 2 of Belding banner (Belding, Mich.), April 21, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn96076641/1898-04-21/ed-1/?sp=2&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmimtptc%2Fbatch_mimtptc_franklin_ver01%2Fdata%2Fsn96076641%2F00415669550%2F1898042101%2F0338.xml&q=cuba&relevant_snippet=1"
+}

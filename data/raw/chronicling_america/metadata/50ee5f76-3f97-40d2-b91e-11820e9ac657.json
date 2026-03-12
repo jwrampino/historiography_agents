@@ -1,0 +1,154 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85053044/1951-04-13/ed-1/?sp=4"
+  ],
+  "batch": [
+    "mthi_anaconda_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/glacier/",
+    "3/united states/montana/glacier/browning/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1951-04-13",
+  "dates": [
+    "1951-04-13"
+  ],
+  "description": [
+    "THt MtOWNINC CHIEF John E Davies Editor and Owner A weekly newspaper published every Friday at Browning Glacier County Montana Entered as 2nd class matter July 15 1931 at the postoffice at Browning Montana under act of March 3 1879 Subscription 200 year in advance A HOMEFRONT TEST Intimations of possible open intervention by Russia in Korea tighten an already taut situation They test with new tensions the intelligence and steadfastness of the American people Speaker Rayburn is no cheap alarmist When he says that we stand in face of terrible danger and perhaps the beginning of World War III his words de serve sober attention Also British intelligence reports that Russia has given the Chinese Reds 3000 planes for a spring offensive and enemy air activity has markedly increased in Korea in the last few days We should not assume the Soviet will take an open psrt in Korean hostilities Russia so far has shown a distinct disposition to limit the war in Korea But American thinking must be pre pared for a new venture in ag gression Already the prevent ive war school of opinion has been advocating an ultimatum to Moscow threatening direct attack unless Russia calls"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:49:31.984Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85053044/1951-04-13/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_anaconda_ver01:data:sn85053044:00517178147:1951041301:0116/full/pct:6.25/0/default.jpg#h=320&w=226",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_anaconda_ver01:data:sn85053044:00517178147:1951041301:0116/full/pct:12.5/0/default.jpg#h=641&w=453",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_anaconda_ver01/data/sn85053044/00517178147/1951041301/0116.xml&format=alto_xml"
+  ],
+  "index": 168,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "montana",
+    "browning",
+    "glacier",
+    "united states"
+  ],
+  "location_city": [
+    "browning"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "glacier"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn85053044",
+    "0000000004",
+    "8",
+    "0",
+    "7",
+    "1",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85053044"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "8",
+    "1",
+    "4",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85053044-1951-04-13-ed-1-0116",
+  "partof": [
+    "chronicling america",
+    "browning chief (browning, mont.) 1941-1953",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "browning chief (browning, mont.) 1941-1953"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85053044/1951-04-13/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85053044/1951-04-13/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "montana",
+    "browning",
+    "glacier",
+    "united states"
+  ],
+  "timestamp": "2023-07-05T14:31:37.704Z",
+  "title": "Image 4 of Browning chief (Browning, Mont.), April 13, 1951",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85053044/1951-04-13/ed-1/?sp=4&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_anaconda_ver01%2Fdata%2Fsn85053044%2F00517178147%2F1951041301%2F0116.xml&q=korea&relevant_snippet=1"
+}

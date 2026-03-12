@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn91070618/1961-03-17/ed-1/?sp=2"
+  ],
+  "batch": [
+    "rp_invisiblestalker_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/rhode island/",
+    "2/united states/rhode island/newport/",
+    "3/united states/rhode island/newport/newport/"
+  ],
+  "contributor": [
+    "rhode island digital newspaper project"
+  ],
+  "date": "1961-03-17",
+  "dates": [
+    "1961-03-17"
+  ],
+  "description": [
+    "TWO MAP LAI Qj Our Wcfujc By liaplain Gordon I Gale A thousand may fall at your Hide tn thousand nt your right hand but it will not come min you You will only look with your vm and the recoin pclisi of the Wicked Because you have made the Ixird your refuge the Most High your habi tation no evil shall befall you no Hcourge come near your tent IsalniH 91 7Hi I think 1 can nay that thin gen eration more than any other in Hecking for peace in our tunc It wan Henry Van Dyke who wan fond of Haying There ih no prv nent reality for uh human beings without memory and hope Lose tiic first and you arc dead lone the second and you are buried If wv lone our memory we for get the awfulness of war and failing to remember that we could be drawn into another con flict Can we rver forget the car toon carried by the New York Herald Tribune picturing the world after an atomic war as a burning smoking devastated The Navys Oldest Newspaper Established 1901 Mon than 7000 Readers I s Naval Station I S Naval Base"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-04-27T04:22:45.193Z",
+  "group": [
+    "ndnp/rp",
+    "rhode-island-digital-newspaper-project"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn91070618/1961-03-17/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_invisiblestalker_ver01:data:sn91070618:00516991811:1961031701:0369/full/pct:6.25/0/default.jpg#h=339&w=280",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_invisiblestalker_ver01:data:sn91070618:00516991811:1961031701:0369/full/pct:12.5/0/default.jpg#h=678&w=560",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/rp/batch_rp_invisiblestalker_ver01/data/sn91070618/00516991811/1961031701/0369.xml&format=alto_xml"
+  ],
+  "index": 73,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "newport",
+    "rhode island"
+  ],
+  "location_city": [
+    "newport"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "newport"
+  ],
+  "location_state": [
+    "rhode island"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "6",
+    "5",
+    "1",
+    "sn91070618",
+    "0000000002",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn91070618"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "1",
+    "8",
+    "1",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Issues for Jan. 8-Sept. 9, 1988 published as: Navalog"
+  ],
+  "page_id": "sn91070618-1961-03-17-ed-1-0369",
+  "partof": [
+    "chronicling america",
+    "newport navalog (newport, r.i.) 1944-current",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "newport navalog (newport, r.i.) 1944-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn91070618/1961-03-17/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn91070618/1961-03-17/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "military bases",
+    "newport (r.i.)",
+    "newspapers",
+    "rhode island",
+    "newport"
+  ],
+  "timestamp": "2025-04-27T04:37:07.190Z",
+  "title": "Image 2 of Newport navalog (Newport, R.I.), March 17, 1961",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn91070618/1961-03-17/ed-1/?sp=2&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Frp%2Fbatch_rp_invisiblestalker_ver01%2Fdata%2Fsn91070618%2F00516991811%2F1961031701%2F0369.xml&q=nuclear&relevant_snippet=1"
+}

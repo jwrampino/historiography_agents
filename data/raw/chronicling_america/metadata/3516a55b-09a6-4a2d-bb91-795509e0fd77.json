@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84024221/1944-09-13/ed-1/?sp=4"
+  ],
+  "batch": [
+    "ohi_foxglove_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/montgomery/",
+    "3/united states/ohio/montgomery/dayton/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1944-09-13",
+  "dates": [
+    "1944-09-13"
+  ],
+  "description": [
+    "Page 4 JAZZ CALLED WEAPON AGAINST FASCISM By WILLARD MOORE An eminent peer of the arts stated recently Jazz is a weapon against fascism it is an instrument for building interracial solidarity it is a tool that welds peoples to gether Let us examine this statement carefully probing and weighing the evidence We go into a ballroom or theatre where entertainment is lav ishly waxed with the music of good hot jazz As we enter the loud steady gutbucket tempo reaches out and warmly greets us There are supple dancers nim ble jitterbugs hustling scurrying about A shrieking congregation of people who being merry whirl in thumpmad happiness If you will You Can Depend on Your Thrifty Druggist Take a moment to think of the part your druggist plays in your life You depend upon him in times of emergencyas well as you can In time of illness con sult your Physicianand then be assured that the prescription needed quickly will always be filled accurately by our Registered Pharmacist DRUGS GERMANTOWN AT BMABWAY MARKET REPORT Wednesday September 13 Bond6267000 Stock880420 THE SELECTION 643 THE OLD RELIABLE O R Bond910 O R Stock685 PREVIOUS DAY 205 O R Bond211 O Stock861"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:18:05.723Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84024221/1944-09-13/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_foxglove_ver01:data:sn84024221:00340580072:1944091301:0047/full/pct:6.25/0/default.jpg#h=406&w=274",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_foxglove_ver01:data:sn84024221:00340580072:1944091301:0047/full/pct:12.5/0/default.jpg#h=812&w=549",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_foxglove_ver01/data/sn84024221/00340580072/1944091301/0047.xml&format=alto_xml"
+  ],
+  "index": 97,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "dayton",
+    "ohio",
+    "montgomery"
+  ],
+  "location_city": [
+    "dayton"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "montgomery"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "5",
+    "4",
+    "2",
+    "1",
+    "sn84024221",
+    "7",
+    "0000000004",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84024221"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "0",
+    "0",
+    "7",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84024221-1944-09-13-ed-1-0047",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the daily bulletin (dayton, ohio) 1942-1946"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the daily bulletin (dayton, ohio) 1942-1946"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84024221/1944-09-13/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84024221/1944-09-13/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "ohio",
+    "united states",
+    "newspapers",
+    "african americans",
+    "dayton (ohio)",
+    "african american",
+    "montgomery",
+    "dayton"
+  ],
+  "subject_ethnicity": [
+    "african american"
+  ],
+  "timestamp": "2023-09-05T13:41:34.013Z",
+  "title": "Image 4 of The daily bulletin (Dayton, Ohio), September 13, 1944",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84024221/1944-09-13/ed-1/?sp=4&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_foxglove_ver01%2Fdata%2Fsn84024221%2F00340580072%2F1944091301%2F0047.xml&q=fascism&relevant_snippet=1"
+}

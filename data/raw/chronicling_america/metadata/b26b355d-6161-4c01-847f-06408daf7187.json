@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83025294/1903-09-05/ed-1/?sp=2"
+  ],
+  "batch": [
+    "mthi_goldeneye_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/silver bow/",
+    "3/united states/montana/silver bow/butte/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1903-09-05",
+  "dates": [
+    "1903-09-05"
+  ],
+  "description": [
+    "BROBEeK 135 W Broadway Phone 691 B SOME COffEE DRINKERS Are very particular about the Coffee they drink Some like strong black Coffee others a mild aromatic cup and still oth ers like to strike a happy mediuma Cof fee that has the strength and delicious fla vor combined Whatever yours may be we can please you We can also please your pocketbook We have the prices to do that Our Coffees Are Always Fresh Roasted GEE WHIZA good Coffee all coffee per pound 12rAC BEST RIOA strong Coffee per pound 15C GOLDEN RIOA fine flavor per pound 18C SANTOS snakes a mild cup per pound 25C MONEYWORTH BLENDJust what the name suggeststhats what you get when you buy a pound at 30 HOFFMAN HOUSEOur pet brand a fine Mocha and Java and rTebcrry We cant help it but we are partial to this blend because we dont think it can be beaten for the price 35c per pound j3 pounds O100 GENUINE ARABIAN Mocha and Ma dahling Javatwo good colfres scarce in this country at once rich in flavor and delicious pqund OC Try our Coffees money back if not satisfactory PROMPT DELIVERY NEW TBROS SALE of Kent flair"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:46:46.800Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83025294/1903-09-05/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_goldeneye_ver01:data:sn83025294:00212476857:1903090501:0047/full/pct:6.25/0/default.jpg#h=441&w=313",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_goldeneye_ver01:data:sn83025294:00212476857:1903090501:0047/full/pct:12.5/0/default.jpg#h=883&w=627",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_goldeneye_ver01/data/sn83025294/00212476857/1903090501/0047.xml&format=alto_xml"
+  ],
+  "index": 190,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "butte",
+    "montana",
+    "silver bow"
+  ],
+  "location_city": [
+    "butte"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "silver bow"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "4",
+    "2",
+    "6",
+    "8",
+    "5",
+    "sn83025294",
+    "0000000002",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83025294"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "2",
+    "4",
+    "7",
+    "6",
+    "8",
+    "5",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Butte intermountain"
+  ],
+  "page_id": "sn83025294-1903-09-05-ed-1-0047",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the butte inter mountain (butte, mont.) 1901-1912"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the butte inter mountain (butte, mont.) 1901-1912"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83025294/1903-09-05/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83025294/1903-09-05/ed-1/"
+  ],
+  "shelf_id": "02",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "butte (mont.)",
+    "silver bow",
+    "butte",
+    "newspapers",
+    "montana"
+  ],
+  "timestamp": "2023-07-06T01:12:00.099Z",
+  "title": "Image 2 of The Butte inter mountain (Butte, Mont.), September 5, 1903",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83025294/1903-09-05/ed-1/?sp=2&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_goldeneye_ver01%2Fdata%2Fsn83025294%2F00212476857%2F1903090501%2F0047.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

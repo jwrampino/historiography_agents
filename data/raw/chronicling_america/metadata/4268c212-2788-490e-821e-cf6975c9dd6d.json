@@ -1,0 +1,137 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2004540423/1917-10-17/ed-1/?sp=99"
+  ],
+  "batch": [
+    "dlc_2glubbdubdrib_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1917-10-17",
+  "dates": [
+    "1917-10-17"
+  ],
+  "description": [
+    "ABOUT the Russian revolution one feels what Heraclitus felt about the nature of things It is in continual flux and any assertion which one may make about it will have ceased to e true as one speaks The safest plan would be to wag a symbolic finger as the wise man recom mended by way of indicating that it flows Ministries chase each other across the field of vision after one congress to restore the nations unity it is safe to predict that another will be necessary in a month the little Cossack Korniloff in spite of his pitiable failure may not be the last of the Napoleons and the Maximalists will demon strate again and yet again It is the way of revo lutions to generate energy by explosion To the steady gaze however the flux reveals itself as a stream which moves in conscious and determined currents The instability and confusion at the center of power is far from meaning chaos it is on the contrary the oscillating index of a struggle of tendencies as rational and inevitable as any clash of wills which can occur in any human society Our English newspapers attribute the whole conflict to"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-19T00:31:37.557Z",
+  "group": [
+    "sgpww1newspaperclippings/dlc",
+    "wwi-newspaper-clippings"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2004540423/1917-10-17/ed-1/?sp=99",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_2glubbdubdrib_ver01:data:2004540423:print00192512360:1917101701:0099/full/pct:6.25/0/default.jpg#h=456&w=338",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_2glubbdubdrib_ver01:data:2004540423:print00192512360:1917101701:0099/full/pct:12.5/0/default.jpg#h=913&w=677",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/sgp/sgpbatches/batch_dlc_2glubbdubdrib_ver01/data/2004540423/print00192512360/1917101701/0099.xml&format=alto_xml"
+  ],
+  "index": 164,
+  "language": [
+    "german",
+    "english"
+  ],
+  "location": [
+    "germany",
+    "united states",
+    "new york"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "2004540423",
+    "1",
+    "0000000099"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2004540423"
+  ],
+  "number_page": [
+    "0000000099"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2004540423-1917-10-17-ed-1-0099",
+  "partof": [
+    "world war history: newspaper clippings, 1914-1926",
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "world war history: newspaper clippings, 1914-1926"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2004540423/1917-10-17/ed-1/?sp=99"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2004540423/1917-10-17/ed-1/"
+  ],
+  "shelf_id": "099",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "sources",
+    "new york",
+    "germany",
+    "world war",
+    "history",
+    "allied occupation",
+    "armistices"
+  ],
+  "timestamp": "2022-11-09T18:10:13.574Z",
+  "title": "Image 99 of World War history : daily records and comments as appeared in American and foreign newspapers, 1914-1926 (New York), October 17, 1917, (1917 October 17-22)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2004540423/1917-10-17/ed-1/?sp=99&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fsgp%2Fsgpbatches%2Fbatch_dlc_2glubbdubdrib_ver01%2Fdata%2F2004540423%2Fprint00192512360%2F1917101701%2F0099.xml&q=revolution&relevant_snippet=1"
+}

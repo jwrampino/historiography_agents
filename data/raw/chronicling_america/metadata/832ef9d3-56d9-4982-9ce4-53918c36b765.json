@@ -1,0 +1,167 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2010270509/1958-09-18/ed-1/?sp=9"
+  ],
+  "batch": [
+    "nbu_equus_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nebraska/",
+    "2/united states/nebraska/holt/",
+    "3/united states/nebraska/holt/o'neill/",
+    "3/united states/nebraska/holt/o'neill city/"
+  ],
+  "contributor": [
+    "university of nebraska-lincoln libraries, lincoln, ne"
+  ],
+  "date": "1958-09-18",
+  "dates": [
+    "1958-09-18"
+  ],
+  "description": [
+    "Legal Notices First pub Sept 4 1958 William W Griffin Attorney NOTICE TO CREDITORS AND HEIRS COUNTY COURT OF HOLT COUNTY NEBRASKA E S TATE OF JOHN NTEWOHN ER DECEASED THE STATE OF NEBRASKA TO ALL CONCERNED NOTICE is hereby given that Edward T Campbell Adminis trator of said Estate has filed a petition herein alleging that said deceased died February 13th 1958 a resident of Holt County Nebraska and intestate that the deceased left him surviving as his sole and only heirs at law and the sole and only persons in terested in his estate or entitled to inherit the same his widow Marie Niewohner his sisters Mamie Hunke Anna Kemp Kath erine Wolken and Christine Tem me his brother William Niewoh ner and his niece Delores Aus demore that the prayer of said petition is to have the Court en ter a decree determining the identity of the heirs at law of the deceased their degrees of kin ship and the right of descent of real and personal property be longing to the deceased Said petition will be for hear ing in this Court on the 25th day of September 1958 at ten o clock AM IjOUIS W"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:39:35.156Z",
+  "group": [
+    "ndnp/nbu",
+    "university-of-nebraska-of-nebraska-lincoln-libraries-lincoln-ne-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2010270509/1958-09-18/ed-1/?sp=9",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_equus_ver01:data:2010270509:00279527562:1958091801:0596/full/pct:6.25/0/default.jpg#h=490&w=372",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_equus_ver01:data:2010270509:00279527562:1958091801:0596/full/pct:12.5/0/default.jpg#h=981&w=745",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nbu/batch_nbu_equus_ver01/data/2010270509/00279527562/1958091801/0596.xml&format=alto_xml"
+  ],
+  "index": 48,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "o'neill city",
+    "o'neill",
+    "holt",
+    "holt county",
+    "nebraska"
+  ],
+  "location_city": [
+    "o'neill",
+    "o'neill city"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "holt"
+  ],
+  "location_state": [
+    "nebraska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "2010270509",
+    "9",
+    "5",
+    "6",
+    "0000000009",
+    "7",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2010270509"
+  ],
+  "number_page": [
+    "0000000009"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "2",
+    "7",
+    "5",
+    "6",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Publisher's box title: O'Neill frontier"
+  ],
+  "page_id": "2010270509-1958-09-18-ed-1-0596",
+  "partof": [
+    "the frontier (o'neill city, holt county, neb.) 1880-1965",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the frontier (o'neill city, holt county, neb.) 1880-1965"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2010270509/1958-09-18/ed-1/?sp=9"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2010270509/1958-09-18/ed-1/"
+  ],
+  "shelf_id": "09",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "o'neill (neb.)",
+    "united states",
+    "o'neill city",
+    "o'neill",
+    "holt",
+    "newspapers",
+    "holt county",
+    "holt county (neb.)",
+    "nebraska"
+  ],
+  "timestamp": "2025-12-14T21:20:56.147Z",
+  "title": "Image 9 of The frontier (O'Neill City, Holt County, Neb.), September 18, 1958, (Section 1)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2010270509/1958-09-18/ed-1/?sp=9&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnbu%2Fbatch_nbu_equus_ver01%2Fdata%2F2010270509%2F00279527562%2F1958091801%2F0596.xml&q=nuclear&relevant_snippet=1"
+}

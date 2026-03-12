@@ -1,0 +1,171 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn91069201/1943-07-28/ed-1/?sp=2"
+  ],
+  "batch": [
+    "ohi_carrie_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/meigs/",
+    "3/united states/ohio/meigs/pomeroy/",
+    "2/united states/ohio/franklin/",
+    "3/united states/ohio/franklin/columbus/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1943-07-28",
+  "dates": [
+    "1943-07-28"
+  ],
+  "description": [
+    "entered1as Second Class Blatter October 51913 at the Post Office at Colrnnlras \u00f6Mo unser the Act of March 81879 Acceptance tor eotioe lie6 At of Oceober l wn attwrttt Dealw H 1MB nhtieatieti otttoe WiraSWCelrnnlral AMERICAN HEROES Whvn our mortars were pounding Muknassy Hill near Sidi BuSid in Africa Private James ltugolo of Brooklyn New York was one of the men bringing up the ammunition Struck by shrapnel he kept going until he dropped was awarded the Purple Heart On every battlefront men like Rugolo press the attack relentlessly regardless of personal cost Are you doing enough to keep our attack rolling through Payroll Savings 91 Ohio Waisenfrcund Mittwoch den 28 Juli 1943 US Treasury Department K\u00f6lns ewiger Dom Unter dieser Aufschrift entwirft Der Wunderer eilt gedankenreiches anschauliches Bild \u00fcber die Zerst\u00f6run gen mit K\u00f6lner Tom in Worten wel che jedem Tentschgeborenen aus der Seele gesprochen sind Aus dent furchtbaren Zerst\u00f6rung Wetter das verheerend \u00fcber Europa braust dr\u00f6hnte ain Montag dieser Woche mit Jahrestag der Sch\u00fcsse von Serajewo an denen sich vor 29 Jah ren der lang aufgeh\u00e4ufte politische Brennstoff entz\u00fcndete von K\u00f6ln her ein unheimlich krachender Tonner schlag Gleich einer gewaltigen Posau ne des Gerichts schmetterte er \u00fcber deutsche"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:15:35.839Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn91069201/1943-07-28/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_carrie_ver01:data:sn91069201:00279556215:1943072801:0852/full/pct:6.25/0/default.jpg#h=413&w=286",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_carrie_ver01:data:sn91069201:00279556215:1943072801:0852/full/pct:12.5/0/default.jpg#h=826&w=572",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_carrie_ver01/data/sn91069201/00279556215/1943072801/0852.xml&format=alto_xml"
+  ],
+  "index": 109,
+  "language": [
+    "german",
+    "english"
+  ],
+  "location": [
+    "meigs",
+    "franklin",
+    "columbus",
+    "pomeroy",
+    "ohio",
+    "united states"
+  ],
+  "location_city": [
+    "pomeroy",
+    "columbus"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "meigs",
+    "franklin"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn91069201",
+    "0",
+    "2",
+    "0000000002",
+    "7",
+    "9",
+    "1",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn91069201"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "5",
+    "6",
+    "2",
+    "1",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn91069201-1943-07-28-ed-1-0852",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "ohio waisenfreund (pomeroy, o. [ohio]) 1874-1953"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "ohio waisenfreund (pomeroy, o. [ohio]) 1874-1953"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn91069201/1943-07-28/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn91069201/1943-07-28/ed-1/"
+  ],
+  "shelf_id": "02",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "meigs",
+    "franklin",
+    "german",
+    "columbus",
+    "catholics",
+    "pomeroy",
+    "ohio",
+    "german americans",
+    "united states"
+  ],
+  "subject_ethnicity": [
+    "german"
+  ],
+  "timestamp": "2023-09-05T05:01:56.971Z",
+  "title": "Image 2 of Ohio Waisenfreund (Pomeroy, O. [Ohio]), July 28, 1943",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn91069201/1943-07-28/ed-1/?sp=2&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_carrie_ver01%2Fdata%2Fsn91069201%2F00279556215%2F1943072801%2F0852.xml&q=revolution&relevant_snippet=1"
+}

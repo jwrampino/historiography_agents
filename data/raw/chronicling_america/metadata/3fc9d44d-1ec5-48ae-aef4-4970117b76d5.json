@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1912-12-22/ed-1/?sp=16"
+  ],
+  "batch": [
+    "dlc_protoss_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1912-12-22",
+  "dates": [
+    "1912-12-22"
+  ],
+  "description": [
+    "IMMIGK XITHE IM COMMISSIONS E By Frederic Tiie investigation made by the immigrat on commission into all phase of tlie subject of immigration represents the most thorough and at the same time the most expensive inquiry into the migration of mankind that ever has been made In IPoT Congress revised the immigration laws to some degree but at the same time provided for future legislation by the creation of tlie immigration commission which it directed to gather the facts upon which such new legislation should le based The commission was composed of three senators appointed by the President of the Senate three members of the Ho use of Representatives appoint j ed by the Speaker and three persons appointed by the President It was given full Dower to investigate and at the same time was supplied with unlimited funds the law creating it providing that such sums of money as may he necessary art1 hereby appropriated and authorised to be paid out of the immigration fund The commission decided to make a firsthand investigation rather than to act merely as a compiler of data already gathered It investigated every possible phase of the question in Kurope and America going with"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:41:53.382Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1912-12-22/ed-1/?sp=16",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_protoss_ver01:data:sn83045462:00280658133:1912122201:0042/full/pct:3.125/0/default.jpg#h=295&w=238",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_protoss_ver01:data:sn83045462:00280658133:1912122201:0042/full/pct:6.25/0/default.jpg#h=590&w=477",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_protoss_ver01:data:sn83045462:00280658133:1912122201:0042/full/pct:12.5/0/default.jpg#h=1181&w=955",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_protoss_ver01/data/sn83045462/00280658133/1912122201/0042.xml&format=alto_xml"
+  ],
+  "index": 145,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "district of columbia",
+    "washington d.c.",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "6",
+    "2",
+    "5",
+    "1",
+    "0000000016",
+    "sn83045462",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000016"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "8",
+    "1",
+    "3",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1912-12-22-ed-1-0042",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1912-12-22/ed-1/?sp=16"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1912-12-22/ed-1/"
+  ],
+  "shelf_id": "16",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "washington",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-21T08:05:55.695Z",
+  "title": "Image 16 of Evening star (Washington, D.C.), December 22, 1912",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1912-12-22/ed-1/?sp=16&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_protoss_ver01%2Fdata%2Fsn83045462%2F00280658133%2F1912122201%2F0042.xml&q=immigration&relevant_snippet=1"
+}

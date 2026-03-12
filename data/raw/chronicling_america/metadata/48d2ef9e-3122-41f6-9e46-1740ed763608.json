@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88085947/1908-03-14/ed-1/?sp=2"
+  ],
+  "batch": [
+    "wa_columbia_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/washington/",
+    "2/united states/washington/spokane/",
+    "3/united states/washington/spokane/spokane/"
+  ],
+  "contributor": [
+    "washington state library; olympia, wa"
+  ],
+  "date": "1908-03-14",
+  "dates": [
+    "1908-03-14"
+  ],
+  "description": [
+    "t THE SPOKANE PRESS I Published Every Evening Except Sunday By the Spokane Newspaper Co UNITED PRESS ASSOCIATION NEWS SERVICE Delivered by carrier twentyfive cents per month 300 per year By mail twentyfive cents per month 125 six months 200 per year No free copies TO MAIL SUBSCRIBERSThe date when your subscription ex pires is on the address label of each paper When that date arrives if your subscription has not again been paid in advance your name is taken from the list A change of d ate on the address label is a receipt City subscribers who fail to receive their copy of The Press before 630 oclock p m will confer a favor by reporting such to Main 375 616 Front Avenue Telephone Main 375 rostoffice Box 4 THE GAG WONT CURE REDS After such events as the assassination of President MeKinley the brutal killing of the priest at Denver while administering the sacrament to his slayer and the attack on Chief Shippy in Chicago it is natural that the anger of the American people should flame up and that we should clinch our teeth and se red as we swear to extirpate anarchy We do not palter"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-04-26T11:24:45.166Z",
+  "group": [
+    "ndnp/wa",
+    "washington-state-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88085947/1908-03-14/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_columbia_ver01:data:sn88085947:00211108587:1908031401:0319/full/pct:6.25/0/default.jpg#h=428&w=366",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_columbia_ver01:data:sn88085947:00211108587:1908031401:0319/full/pct:12.5/0/default.jpg#h=857&w=732",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wa/batch_wa_columbia_ver01/data/sn88085947/00211108587/1908031401/0319.xml&format=alto_xml"
+  ],
+  "index": 77,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "spokane",
+    "washington",
+    "united states"
+  ],
+  "location_city": [
+    "spokane"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "spokane"
+  ],
+  "location_state": [
+    "washington"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "2",
+    "sn88085947",
+    "8",
+    "5",
+    "0000000002",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88085947"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "1",
+    "1",
+    "0",
+    "8",
+    "5",
+    "8",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88085947-1908-03-14-ed-1-0319",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the spokane press (spokane, wash.) 1902-1939"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the spokane press (spokane, wash.) 1902-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88085947/1908-03-14/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88085947/1908-03-14/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (state)",
+    "spokane",
+    "united states",
+    "newspapers",
+    "spokane (wash.)"
+  ],
+  "timestamp": "2024-04-26T16:33:02.215Z",
+  "title": "Image 2 of The Spokane press (Spokane, Wash.), March 14, 1908",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88085947/1908-03-14/ed-1/?sp=2&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwa%2Fbatch_wa_columbia_ver01%2Fdata%2Fsn88085947%2F00211108587%2F1908031401%2F0319.xml&q=terrorism&relevant_snippet=1"
+}

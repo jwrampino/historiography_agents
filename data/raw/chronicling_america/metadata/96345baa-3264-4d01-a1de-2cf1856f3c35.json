@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn90051903/1918-12-21/ed-1/?sp=14"
+  ],
+  "batch": [
+    "cohi_genoa_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/colorado/",
+    "2/united states/colorado/denver/",
+    "3/united states/colorado/denver/denver/"
+  ],
+  "contributor": [
+    "history colorado"
+  ],
+  "date": "1918-12-21",
+  "dates": [
+    "1918-12-21"
+  ],
+  "description": [
+    "Page Two OFFICERS W A nOVER President ALBERT A REED HENRY T BOOERS VicePresident VicePresident and Trust Oficer A C FOSTER VicePresident E C ELLETT Cashier JAMES RINGuLD VicePresident B B ALEY Asst Cashier and Auditor CONDENSED REPORT OF THE CONDITION OF THE UNITED STATES NATIONAL BANK MEMBER OF FEDERAL RESERVE BANK DISTRICT NO 10 DENVER CO LORA IX AT THE CLOSE OF BUSINESS NOVEMBER 1 1918 RESOURCES Loans and Discounts 803591799 United States Bonds par 40000000 Other Bonds and Securities 103839919 Federal Reserve Bank Stock 2400000 Furniture and Fixtures 300000 Interest Earned but not Collected 8103603 Cash in Vault U S Government Securities Due from U S Treasurer Federal Reserve Bank and Other Banks 422429509 1380664830 LIABILITIES Capital Stock 40000000 Surplus 40000000 Undivided Profits 25552494 Interest and Discount Collected but not Earned 3676248 Reserve for Interest and Taxes f 5374089 Circulation 39999500 Due to Federal Reserve Bank 80000000 Deposits 1146062499 1380664830 The Spirit of Wise Christmas Giving Suggests Shoes Pumps Oxfords High Boots f 7 Boudoir and Comfy Slippers K all the Latest Styles and Colors l EXPERT FITTING SERVICE AND REASONABLE K I PRICES p As shoes cannot be bought in a hurry we suggest Jl y your"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-12-27T19:34:17.927Z",
+  "group": [
+    "ndnp/cohi",
+    "history-colorado-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn90051903/1918-12-21/ed-1/?sp=14",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_genoa_ver01:data:sn90051903:00340585665:1918122101:0317/full/pct:6.25/0/default.jpg#h=301&w=262",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_genoa_ver01:data:sn90051903:00340585665:1918122101:0317/full/pct:12.5/0/default.jpg#h=602&w=525",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/cohi/batch_cohi_genoa_ver01/data/sn90051903/00340585665/1918122101/0317.xml&format=alto_xml"
+  ],
+  "index": 127,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "colorado",
+    "united states",
+    "denver"
+  ],
+  "location_city": [
+    "denver"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "denver"
+  ],
+  "location_state": [
+    "colorado"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn90051903",
+    "8",
+    "5",
+    "3",
+    "6",
+    "4",
+    "1",
+    "0000000014"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn90051903"
+  ],
+  "number_page": [
+    "0000000014"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "4",
+    "0",
+    "5",
+    "8",
+    "5",
+    "6",
+    "6",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Denver labor bulletin incorporating union label league bulletin"
+  ],
+  "page_id": "sn90051903-1918-12-21-ed-1-0317",
+  "partof": [
+    "denver labor bulletin (denver, colo.) 1915-19??",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "denver labor bulletin (denver, colo.) 1915-19??"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn90051903/1918-12-21/ed-1/?sp=14"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn90051903/1918-12-21/ed-1/"
+  ],
+  "shelf_id": "14",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "labor unions",
+    "labor",
+    "denver",
+    "denver (colo.)",
+    "colorado",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-12-28T06:43:55.038Z",
+  "title": "Image 14 of Denver labor bulletin (Denver, Colo.), December 21, 1918",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn90051903/1918-12-21/ed-1/?sp=14&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fcohi%2Fbatch_cohi_genoa_ver01%2Fdata%2Fsn90051903%2F00340585665%2F1918122101%2F0317.xml&q=reconstruction&relevant_snippet=1"
+}

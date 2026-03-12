@@ -1,0 +1,463 @@
+{
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "note": "Some or all of the records may be subject to copyright restrictions. Researchers should contact the publisher for further information.",
+    "specificUseRestrictions": [
+      "Copyright"
+    ],
+    "status": "Restricted - Possibly"
+  },
+  "title": "School Reconstruction [5]",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Little Rock",
+          "phone": "501-244-2877",
+          "address1": "1200 President Clinton Avenue",
+          "postalCode": "72201",
+          "name": "William J. Clinton Library",
+          "state": "AR",
+          "fax": "501-244-2881",
+          "email": "clinton.library@nara.gov",
+          "mailCode": "LP-WJC"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper",
+          "containerId": "21"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "note": "These records may need to be screened for personal privacy, and law enforcement under 5 U.S.C. 552 (b) prior to public release.",
+    "specificAccessRestrictions": [
+      {
+        "securityClassification": "Secret",
+        "restriction": "FOIA (b)(1) National Security"
+      },
+      {
+        "restriction": "FOIA (b)(3) Statute"
+      },
+      {
+        "restriction": "FOIA (b)(6) Personal Information"
+      },
+      {
+        "restriction": "FOIA (b)(7c) Law Enforcement"
+      },
+      {
+        "restriction": "FOIA (b)(7e) Law Enforcement"
+      },
+      {
+        "restriction": "FOIA (b)(7f) Law Enforcement"
+      }
+    ],
+    "status": "Restricted - Partly"
+  },
+  "dataControlGroup": {
+    "groupId": "ou=NLWJC,ou=groups",
+    "groupCd": "LPWJC"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "LPWJC 2006-1734-F",
+      "type": "FOIA Tracking Number"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_001.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_001.JPG",
+      "objectFileSize": 319488,
+      "objectId": "38775432",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_002.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_002.JPG",
+      "objectFileSize": 491520,
+      "objectId": "38775433",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_003.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_003.JPG",
+      "objectFileSize": 163840,
+      "objectId": "38775434",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_004.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_004.JPG",
+      "objectFileSize": 262144,
+      "objectId": "38775435",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_005.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_005.JPG",
+      "objectFileSize": 221184,
+      "objectId": "38775436",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_006.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_006.JPG",
+      "objectFileSize": 180224,
+      "objectId": "38775437",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_007.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_007.JPG",
+      "objectFileSize": 688128,
+      "objectId": "38775438",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_008.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_008.JPG",
+      "objectFileSize": 507904,
+      "objectId": "38775439",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_009.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_009.JPG",
+      "objectFileSize": 401408,
+      "objectId": "38775440",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_010.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_010.JPG",
+      "objectFileSize": 475136,
+      "objectId": "38775441",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_011.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_011.JPG",
+      "objectFileSize": 286720,
+      "objectId": "38775442",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_012.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_012.JPG",
+      "objectFileSize": 499712,
+      "objectId": "38775443",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_013.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_013.JPG",
+      "objectFileSize": 253952,
+      "objectId": "38775444",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_014.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_014.JPG",
+      "objectFileSize": 860160,
+      "objectId": "38775445",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_015.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_015.JPG",
+      "objectFileSize": 688128,
+      "objectId": "38775446",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_016.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_016.JPG",
+      "objectFileSize": 491520,
+      "objectId": "38775447",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_017.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_017.JPG",
+      "objectFileSize": 573440,
+      "objectId": "38775448",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_018.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_018.JPG",
+      "objectFileSize": 655360,
+      "objectId": "38775449",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_019.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_019.JPG",
+      "objectFileSize": 614400,
+      "objectId": "38775450",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_020.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_020.JPG",
+      "objectFileSize": 561025,
+      "objectId": "38775451",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_021.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_021.JPG",
+      "objectFileSize": 524288,
+      "objectId": "38775452",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_022.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_022.JPG",
+      "objectFileSize": 794624,
+      "objectId": "38775453",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_023.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_023.JPG",
+      "objectFileSize": 581632,
+      "objectId": "38775454",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_024.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_024.JPG",
+      "objectFileSize": 475136,
+      "objectId": "38775455",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_025.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_025.JPG",
+      "objectFileSize": 122880,
+      "objectId": "38775456",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_026.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_026.JPG",
+      "objectFileSize": 122880,
+      "objectId": "38775457",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_027.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_027.JPG",
+      "objectFileSize": 131072,
+      "objectId": "38775458",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_028.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_028.JPG",
+      "objectFileSize": 616596,
+      "objectId": "38775459",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_029.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_029.JPG",
+      "objectFileSize": 516096,
+      "objectId": "38775460",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_030.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_030.JPG",
+      "objectFileSize": 344064,
+      "objectId": "38775461",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_031.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_031.JPG",
+      "objectFileSize": 671744,
+      "objectId": "38775462",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_032.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_032.JPG",
+      "objectFileSize": 860160,
+      "objectId": "38775463",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_033.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_033.JPG",
+      "objectFileSize": 654594,
+      "objectId": "38775464",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_034.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_034.JPG",
+      "objectFileSize": 746913,
+      "objectId": "38775465",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_035.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_035.JPG",
+      "objectFileSize": 565248,
+      "objectId": "38775466",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_036.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_036.JPG",
+      "objectFileSize": 172032,
+      "objectId": "38775467",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_037.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_037.JPG",
+      "objectFileSize": 450560,
+      "objectId": "38775468",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_038.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_038.JPG",
+      "objectFileSize": 458752,
+      "objectId": "38775469",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_039.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_039.JPG",
+      "objectFileSize": 589824,
+      "objectId": "38775470",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_040.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_040.JPG",
+      "objectFileSize": 892928,
+      "objectId": "38775471",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_041.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_041.JPG",
+      "objectFileSize": 843776,
+      "objectId": "38775472",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_042.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_042.JPG",
+      "objectFileSize": 663552,
+      "objectId": "38775473",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_043.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_043.JPG",
+      "objectFileSize": 712704,
+      "objectId": "38775474",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_044.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_044.JPG",
+      "objectFileSize": 516096,
+      "objectId": "38775475",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_045.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_045.JPG",
+      "objectFileSize": 122880,
+      "objectId": "38775476",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_7431943_20061734_F_021_007_2015_Page_046.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-JPG/Box_021/42-t-7431943-20061734-F-021-007-2015/42_t_7431943_20061734_F_021_007_2015_Page_046.JPG",
+      "objectFileSize": 483328,
+      "objectId": "38775477",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42-t-7431943-20061734-F-021-007-2015.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/2/9042/23904202/content/presidential-libraries/clinton/foia/2006-1734-F/2006-1734-F-PDF/Box_021/42-t-7431943-20061734-F-021-007-2015.pdf",
+      "objectFileSize": 1728286,
+      "objectId": "38775431",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "otherTitles": [
+    "42-t-7431943-20061734-F-021-007-2015"
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "WJC-OS",
+      "inclusiveStartDate": {
+        "year": 1993,
+        "logicalDate": "1993-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "year": 2001,
+        "logicalDate": "2001-12-31"
+      },
+      "title": "Records of the Office of Speechwriting (Clinton Administration)",
+      "naId": 2534571
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1995,
+        "logicalDate": "1995-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "President (1993-2001 : Clinton). Office of Speechwriting. 1/20/1993-1/20/2001",
+          "abolishDate": {
+            "month": 1,
+            "year": 2001,
+            "day": 20,
+            "logicalDate": "2001-01-20"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 1,
+            "year": 1993,
+            "day": 20,
+            "logicalDate": "1993-01-20"
+          },
+          "naId": 10514210
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1998,
+        "logicalDate": "1998-12-31"
+      },
+      "title": "David Shipley's Files",
+      "naId": 7431943
+    }
+  ],
+  "naId": 23904202
+}

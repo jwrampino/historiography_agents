@@ -1,0 +1,131 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16119/?sp=4"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1819-05-15",
+  "dates": [
+    "1819-05-15"
+  ],
+  "description": [
+    "THE BENGAL HURKARU Talhot to accept ofhis public acknowledgement of the advantage who commanded the attack and on the whole of the Officers and he has derived from his exertions new Composing the Detachment under his immediate command The Major General is sorry le had not anv opportanity of em and sincerely hopes that the public service will not long be de ploying the Madras Cavalry as he feels confident that their con prived of the services of the two gallant Officers of His Majestys duct would have been highle meritortous He has however 89h Regiment who were wounded on the occasion appreciated the zeal of Cornet Blidges of all cecasions and par The Governor in Council also notioes with much satisfaction the ticularly noticed the dashing stile in which be led bis Detachment commendation bestowed by the Major General in the active and across the river tu the suppert efthe advaneed guard on ihe 9th cordia eooperation of Lieotenant Tanner and the Officers and instant men ofthe Honorable Companys Cruizer Thetis whose con duct on this occasion fully entitles them to the approbation o Governinent amounted to twentytwo thousand The Marquis he adds had the courage to attack that"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16119/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16119:0004/full/pct:6.25/0/default.jpg#h=346&w=271",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16119:0004/full/pct:12.5/0/default.jpg#h=692&w=543",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16119:0004/full/pct:25.0/0/default.jpg#h=1385&w=1086",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16119:0004/full/pct:50.0/0/default.jpg#h=2771&w=2173",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16119:0004/full/pct:100.0/0/default.jpg#h=5543&w=4347",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16119/0004.alto.xml&format=alto_xml"
+  ],
+  "index": 17,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "calcutta",
+    "india"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "0000000004",
+    "sn88063571",
+    "2025-08-13t13:59:42.400000",
+    "sn88063570",
+    "sn88063569"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16119-0004-alto",
+  "partof": [
+    "catalog",
+    "world digital library",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "asian division",
+    "serial and government publications division",
+    "south asian digital collection",
+    "world newspapers",
+    "general collections"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16119/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16119/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "calcutta",
+    "india"
+  ],
+  "timestamp": "2025-12-12T07:20:26.703Z",
+  "title": "Image 4 of Volume 29, Number 1278, Saturday, May 15, 1819 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16119/?sp=4&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16119%2F0004.alto.xml&q=spanish&relevant_snippet=1"
+}

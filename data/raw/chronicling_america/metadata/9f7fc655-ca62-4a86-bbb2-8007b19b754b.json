@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83035337/1917-04-07/ed-1/?sp=7"
+  ],
+  "batch": [
+    "ohi_atticus_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/cuyahoga/",
+    "3/united states/ohio/cuyahoga/cleveland/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1917-04-07",
+  "dates": [
+    "1917-04-07"
+  ],
+  "description": [
+    "Samstag 7 Avril 1017 A v 0 s e H i i s 2 Am United Brotherhood of Carpenters and Joiners Local Union No 182 GUSTAV SCHROETER A MURSCHINSKI ProtokollSekr FinanzSekr THEODOR WEIHRICH JOHN HAHN Office 337 Superior Ave N W Bell Main 5230 Cuy Central 1071 MARK LAMBS HOTEL GEO SCHUERMANS Grocery und SelibatcfKnlade 3141 West 25 5tra\u00dfe MOHAWK BUFFET America Trust Building visavis beut CouribauS Ecke W 25 etr und 5lark Avenue Be Harvard 500 G A u s a e o w u e n i n Xchre 3900 f\u00fcr 10090000 Lire _\u00fct Sie rujtdie Keootolien und Die Anfflafieit \u00f6nr Wal DtmoBralie \u00c4u\u00dftanDs N u a i n Die onnrtfmtifchett Zeitungen schildern die Tatsachen so als ob der flemze Streit sich zwischen den pro ermanElemente und den Liberalen Entwickelte Sie wollen auch aus den evolution\u00e4ren Ereignissen den Pro fit f\u00fcr ihre Banditenpolitik und ihre kriegerische Gel\u00fcste ziehen w\u00e4hrend in der Wirklichkeit diese Ereignisse te gr\u00f6\u00dfte Warnung f\u00fcr alle Regie rungen bedeuten e Tie Lasten des Krieges das ist 2ie unmittelbare Ursache der Revolu tion Tie Stra\u00dfendemonstrationen die gro\u00dfen Streiks gegen die Teuerung die revolution\u00e4re Bewe gung gegen den Krieg und die mili l\u00e4tischcrt sowie auch Arbeiterauf st\u00e4nde"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:14:35.405Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83035337/1917-04-07/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_atticus_ver01:data:sn83035337:00279556070:1917040701:0539/full/pct:3.125/0/default.jpg#h=272&w=218",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_atticus_ver01:data:sn83035337:00279556070:1917040701:0539/full/pct:6.25/0/default.jpg#h=545&w=437",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_atticus_ver01:data:sn83035337:00279556070:1917040701:0539/full/pct:12.5/0/default.jpg#h=1091&w=874",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_atticus_ver01/data/sn83035337/00279556070/1917040701/0539.xml&format=alto_xml"
+  ],
+  "index": 6,
+  "language": [
+    "german",
+    "english"
+  ],
+  "location": [
+    "united states",
+    "cuyahoga",
+    "cleveland",
+    "ohio"
+  ],
+  "location_city": [
+    "cleveland"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cuyahoga"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn83035337",
+    "0000000007",
+    "9",
+    "2",
+    "6",
+    "5",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83035337"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "5",
+    "6",
+    "0",
+    "7",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83035337-1917-04-07-ed-1-0539",
+  "partof": [
+    "chronicling america",
+    "echo : wochenblatt der vereinigten deutschen socialisten clevelands (cleveland, o. [ohio]) 1911-1920",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "echo : wochenblatt der vereinigten deutschen socialisten clevelands (cleveland, o. [ohio]) 1911-1920"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83035337/1917-04-07/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83035337/1917-04-07/ed-1/"
+  ],
+  "shelf_id": "7",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "cleveland",
+    "ohio",
+    "cuyahoga",
+    "cleveland (ohio)",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-09-05T01:25:56.025Z",
+  "title": "Image 7 of Echo : Wochenblatt der Vereinigten Deutschen Socialisten Clevelands (Cleveland, O. [Ohio]), April 7, 1917",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83035337/1917-04-07/ed-1/?sp=7&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_atticus_ver01%2Fdata%2Fsn83035337%2F00279556070%2F1917040701%2F0539.xml&q=revolution&relevant_snippet=1"
+}

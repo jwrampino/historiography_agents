@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88085733/1934-09-21/ed-1/?sp=1"
+  ],
+  "batch": [
+    "wa_ivorygull_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/washington/",
+    "2/united states/washington/king/",
+    "3/united states/washington/king/seattle/"
+  ],
+  "contributor": [
+    "washington state library; olympia, wa"
+  ],
+  "date": "1934-09-21",
+  "dates": [
+    "1934-09-21"
+  ],
+  "description": [
+    "LUMBER WORKERS This issue is jammed withyour news VOLUME 2 TheFRONT LI BY NE ALAN MAX Step To Communism A number of letters have ap peared in the Voice of Action on the question of Technocraey as to whether or not Tech nocracy is a fascist movement and how militant workers should be within the organiz ation There are two varieities of Technoeracy the original Howard Scott Technocracy and the Continental Committee on Technoeracy Howard Scotts organization is clearly fascist It is advocat ed by army officers in the CCC camps as a bloodless revolu tion against the capitalist sys tem Of course the bloodless revolution is to be guided by the army and the new technoc cratic state will be a military dictatorship under the direc tionnot of scientists out of the universitiesbut of army engineers But it is the Continental Committee on Technoceracy which has considerable follow ing in the Northwest Not only are many middle elass people in its ranks but also thousands of workers and farmers attend its meetings Technocracy is spoken of everywhere It is this brand of Technocracy that we will deal with in this ar ticle What does Technoeracy teach That under a"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-04-26T11:27:40.248Z",
+  "group": [
+    "ndnp/wa",
+    "washington-state-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88085733/1934-09-21/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_ivorygull_ver01:data:sn88085733:00414189945:1934092101:0867/full/pct:6.25/0/default.jpg#h=408&w=311",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_ivorygull_ver01:data:sn88085733:00414189945:1934092101:0867/full/pct:12.5/0/default.jpg#h=817&w=622",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wa/batch_wa_ivorygull_ver01/data/sn88085733/00414189945/1934092101/0867.xml&format=alto_xml"
+  ],
+  "index": 171,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "king",
+    "washington",
+    "seattle",
+    "united states"
+  ],
+  "location_city": [
+    "seattle"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "king"
+  ],
+  "location_state": [
+    "washington"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "0000000001",
+    "sn88085733",
+    "8",
+    "5",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88085733"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "1",
+    "8",
+    "9",
+    "9",
+    "4",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88085733-1934-09-21-ed-1-0867",
+  "partof": [
+    "voice of action (seattle, wash.) 1933-1936",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "voice of action (seattle, wash.) 1933-1936"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88085733/1934-09-21/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88085733/1934-09-21/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "seattle (wash.)",
+    "washington (state)",
+    "king",
+    "seattle",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2024-04-27T04:09:29.405Z",
+  "title": "Image 1 of Voice of action (Seattle, Wash.), September 21, 1934",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88085733/1934-09-21/ed-1/?sp=1&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwa%2Fbatch_wa_ivorygull_ver01%2Fdata%2Fsn88085733%2F00414189945%2F1934092101%2F0867.xml&q=fascism&relevant_snippet=1"
+}

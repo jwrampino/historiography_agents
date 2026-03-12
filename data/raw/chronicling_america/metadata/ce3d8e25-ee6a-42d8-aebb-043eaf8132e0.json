@@ -1,0 +1,173 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045399/1954-06-12/ed-1/?sp=1"
+  ],
+  "batch": [
+    "mimtptc_fostoria_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/michigan/",
+    "2/united states/michigan/wayne/",
+    "3/united states/michigan/wayne/detroit/"
+  ],
+  "contributor": [
+    "central michigan university, clark historical library"
+  ],
+  "date": "1954-06-12",
+  "dates": [
+    "1954-06-12"
+  ],
+  "description": [
+    "Mix a si y fgMB w\u0162 V V\u0103fceer i m _ _ I JUI w Romanul American Cum Va Conduce Partidul Republican Campania Electorala din Anul Curent The Romanian American Detroit 11 Mich June 12 1954 Its a threat to J Ministrul de Justi\u0163ie Brownell \u00een\u0163elege s\u00e2 respecte constitu\u0163ia \u0163\u0103rii oferind oamenilor muncii proiecte de legi cari s\u0103 distrug\u0103 uni unile lor \u00een tocmai cum a f\u0103cut regimul fascist al lui Mussolini 9 cel nazist al lui Hitler DETROIT Peste 4000 de muncitori dela fabrica de au tomobile Hudson \u00ee\u015fi pierd lu crul pentruc\u0103 compania \u00ee\u015fi mut\u0103 afacerea la fabricile din Milwaukee \u015fi Kenosha Wis Muncitori \u015fi muncitoare cu o vechime dela 10 p\u00een\u0103 la 30 de ani se vor g\u0103si pe strad\u0103 f\u0103r\u0103 a avea speran\u0163\u0103 de a mai fi angaja\u0163i de alt\u0103 firm\u0103 Compania de automobile Packard a \u00eenchiriat marea fa bric\u0103 de p\u0103r\u0163i de automobie Conner apar\u0163in\u0103toare compa niei Chrysler Prin aceast\u0103 transac\u0163ie aproape 2000 mun citori angaja\u0163i de Chrysler \u00ee\u015fi pierd lucrul lor fiindc\u0103 com pania Packard a declarat c\u0103 contractul prevede ca Packard s\u0103\u015fi angajeze muncitorii ei Prin aceast\u0103 afacere sindi catul 742 UAWCIO dispare Tex Edward P Bohland D Mass \u015fi Frazier Reams Ind"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-01-16T21:39:42.322Z",
+  "group": [
+    "ndnp/mimtptc",
+    "central-michigan-university-clark-historical-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045399/1954-06-12/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_fostoria_ver01:data:sn83045399:0027955176A:1954061201:0280/full/pct:3.125/0/default.jpg#h=284&w=226",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_fostoria_ver01:data:sn83045399:0027955176A:1954061201:0280/full/pct:6.25/0/default.jpg#h=569&w=452",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_fostoria_ver01:data:sn83045399:0027955176A:1954061201:0280/full/pct:12.5/0/default.jpg#h=1138&w=904",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mimtptc/batch_mimtptc_fostoria_ver01/data/sn83045399/0027955176A/1954061201/0280.xml&format=alto_xml"
+  ],
+  "index": 136,
+  "language": [
+    "english",
+    "romanian"
+  ],
+  "location": [
+    "wayne county",
+    "united states",
+    "wayne",
+    "michigan",
+    "detroit"
+  ],
+  "location_city": [
+    "detroit"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "wayne"
+  ],
+  "location_state": [
+    "michigan"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn83045399",
+    "0",
+    "9",
+    "5",
+    "2",
+    "1",
+    "6",
+    "a",
+    "7",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045399"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "5",
+    "1",
+    "7",
+    "6",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Roumanian-American"
+  ],
+  "page_id": "sn83045399-1954-06-12-ed-1-0280",
+  "partof": [
+    "rom\u00e2nul american (detroit, mich.) 1939-1968",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "rom\u00e2nul american (detroit, mich.) 1939-1968"
+  ],
+  "publication_frequency": [
+    "biweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045399/1954-06-12/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045399/1954-06-12/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "wayne county",
+    "romanian",
+    "united states",
+    "romanian americans",
+    "newspapers",
+    "detroit (mich.)",
+    "romanians",
+    "wayne county (mich.)",
+    "wayne",
+    "michigan",
+    "detroit"
+  ],
+  "subject_ethnicity": [
+    "romanian"
+  ],
+  "timestamp": "2024-01-17T07:57:58.860Z",
+  "title": "Image 1 of Roma\u0302nul American (Detroit, Mich.), June 12, 1954",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045399/1954-06-12/ed-1/?sp=1&q=vietnam",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmimtptc%2Fbatch_mimtptc_fostoria_ver01%2Fdata%2Fsn83045399%2F0027955176A%2F1954061201%2F0280.xml&q=vietnam&relevant_snippet=1"
+}

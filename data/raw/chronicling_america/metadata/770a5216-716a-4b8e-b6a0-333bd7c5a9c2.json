@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045293/1931-07-10/ed-1/?sp=12"
+  ],
+  "batch": [
+    "whi_jarlsburg_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/wisconsin/",
+    "2/united states/wisconsin/milwaukee/",
+    "3/united states/wisconsin/milwaukee/milwaukee/"
+  ],
+  "contributor": [
+    "wisconsin historical society"
+  ],
+  "date": "1931-07-10",
+  "dates": [
+    "1931-07-10"
+  ],
+  "description": [
+    "EDITORS SECTION Gifts Private and Public Uncle Sam cannot spare a nickel for the unemployed but he can refund 16000000 to the British Astors It seems that the legal ground upon which the refund was made is that the government did not have a right under the inheritance tax law to tax a gift made by Baron Astor to his children shortly before his death The gift consisted almost entirely of New York real estate So Norman Thomas and Paul Blanshard sent a cablegram to Lord and Lady Astor asking them if they did not want to contribute half of their winnings to the relief of the New York unemployed who along with other workers of hand and brain had created all this wealth We do not suppose they expect a reply but it is well enough to call the attention of all recipients of unearned income to the fact that it was produced or earned by others There is evidently a leak in the federal inheritance tax a leak that ought to be closed If it cannot be done by amending the in heritance tax law then there should be a law enacted which would tax gifts made to"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-10-06T01:23:27.423Z",
+  "group": [
+    "ndnp/whi",
+    "wisconsin-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045293/1931-07-10/ed-1/?sp=12",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jarlsburg_ver01:data:sn83045293:00542868958:1931071001:0084/full/pct:3.125/0/default.jpg#h=310&w=228",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jarlsburg_ver01:data:sn83045293:00542868958:1931071001:0084/full/pct:6.25/0/default.jpg#h=620&w=456",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/whi/batch_whi_jarlsburg_ver01/data/sn83045293/00542868958/1931071001/0084.xml&format=alto_xml"
+  ],
+  "index": 31,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "wisconsin",
+    "milwaukee"
+  ],
+  "location_city": [
+    "milwaukee"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "milwaukee"
+  ],
+  "location_state": [
+    "wisconsin"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn83045293",
+    "9",
+    "2",
+    "8",
+    "0000000012",
+    "5",
+    "6",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045293"
+  ],
+  "number_page": [
+    "0000000012"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "2",
+    "8",
+    "6",
+    "8",
+    "9",
+    "5",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83045293-1931-07-10-ed-1-0084",
+  "partof": [
+    "chronicling america",
+    "the milwaukee leader (milwaukee, wis.) 1911-1938",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the milwaukee leader (milwaukee, wis.) 1911-1938"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045293/1931-07-10/ed-1/?sp=12"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045293/1931-07-10/ed-1/"
+  ],
+  "shelf_id": "12",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "https://id.oclc.org/worldcat/entity/e39pbjj8j7dbwccgbfpvchw3cp",
+    "socialism",
+    "wisconsin",
+    "milwaukee",
+    "united states",
+    "newspapers",
+    "milwaukee (wis.)"
+  ],
+  "timestamp": "2024-10-06T01:47:51.043Z",
+  "title": "Image 12 of The Milwaukee leader (Milwaukee, Wis.), July 10, 1931, (Home Edition)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045293/1931-07-10/ed-1/?sp=12&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwhi%2Fbatch_whi_jarlsburg_ver01%2Fdata%2Fsn83045293%2F00542868958%2F1931071001%2F0084.xml&q=fascism&relevant_snippet=1"
+}

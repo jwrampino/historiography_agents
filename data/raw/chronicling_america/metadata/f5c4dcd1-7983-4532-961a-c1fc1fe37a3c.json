@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85053223/1950-07-20/ed-1/?sp=7"
+  ],
+  "batch": [
+    "mthi_dillon_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/sanders/",
+    "3/united states/montana/sanders/hot springs/",
+    "3/united states/montana/sanders/camas/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1950-07-20",
+  "dates": [
+    "1950-07-20"
+  ],
+  "description": [
+    "ju s s jilllll FJfiWP Small Favor A tramp entered a drugstore and asked for five cents worth of insect powder The clerk paid no attention to him and he repeated his request Say said the clerk do you think Ive got nothing else to do but waste time wrap ping up five cents worth of insect powder Who said anything about wrapping it up asked the tramp and added pulling out his collar All I want you to do is shake it down me neck Shaw Said England and America are two countries separated by the same language An Englishman does every thing on principle he fights you on patriotic principles he robs you on business principles he enslaves you on imperial prin ciples An Englishman thinks he is moral when he is only uncom fortable He who can does he who can not teaches Hoot Mon A Londoner was visiting an American friend who lived in the suburbs of a large city in the United States One evening the two men went for a walk and while passing through a wooded area heard a strange hooting sound Whats that queried the Londoner Oh just and owl re plied"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:49:54.726Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85053223/1950-07-20/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_dillon_ver01:data:sn85053223:00517178470:1950072001:0221/full/pct:6.25/0/default.jpg#h=343&w=282",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_dillon_ver01:data:sn85053223:00517178470:1950072001:0221/full/pct:12.5/0/default.jpg#h=686&w=565",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_dillon_ver01/data/sn85053223/00517178470/1950072001/0221.xml&format=alto_xml"
+  ],
+  "index": 195,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "hot springs",
+    "camas",
+    "montana",
+    "sanders",
+    "united states"
+  ],
+  "location_city": [
+    "hot springs",
+    "camas"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "sanders"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn85053223",
+    "8",
+    "0",
+    "7",
+    "1",
+    "0000000007",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85053223"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "8",
+    "4",
+    "7",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85053223-1950-07-20-ed-1-0221",
+  "partof": [
+    "chronicling america",
+    "the camas hot springs exchange (camas, mont.) 1926-1959",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the camas hot springs exchange (camas, mont.) 1926-1959"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85053223/1950-07-20/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85053223/1950-07-20/ed-1/"
+  ],
+  "shelf_id": "7",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "hot springs",
+    "camas",
+    "montana",
+    "sanders",
+    "united states"
+  ],
+  "timestamp": "2023-07-05T19:46:20.663Z",
+  "title": "Image 7 of The Camas Hot Springs exchange (Camas, Mont.), July 20, 1950",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85053223/1950-07-20/ed-1/?sp=7&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_dillon_ver01%2Fdata%2Fsn85053223%2F00517178470%2F1950072001%2F0221.xml&q=korea&relevant_snippet=1"
+}

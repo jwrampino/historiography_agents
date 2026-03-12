@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85053044/1947-02-07/ed-1/?sp=2"
+  ],
+  "batch": [
+    "mthi_anaconda_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/glacier/",
+    "3/united states/montana/glacier/browning/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1947-02-07",
+  "dates": [
+    "1947-02-07"
+  ],
+  "description": [
+    "NO DOGS LIFE Oldtimers of Caning Kingdom Boast of Interesting Careers WNV Features It may be a dogs life but its still a good life it is revealed in a series of unusual animal stories compiled by Gaines Dog Research center of New York in connection with its quest for the oldest dog in America Pampered oldsters of the human race command no more at tention than do their counterparts in the canine realm and occa sionally too their owners sadly admit even doddering old dogs are inclined to go to the dogs The homesick dog which trav led 1800 miles through strange ter ritory to find his family the talking dog the dog credited with killing more than 600 coyotes the dog which went to school daily and after his mistress graduation accom panied her to the office every morn ing all these and many other yarns of a sensational character were uncovered by the Gaines cen ter in response to its query concern ing the oldest dog Reports on more than 200 dogs were received from 43 states and Canada Ranks as Oldest Oldest is Laddie Boy named after the late President Hardings dog a 25 jyearold male"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:49:30.082Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85053044/1947-02-07/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_anaconda_ver01:data:sn85053044:00517178123:1947020701:0042/full/pct:6.25/0/default.jpg#h=318&w=224",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_anaconda_ver01:data:sn85053044:00517178123:1947020701:0042/full/pct:12.5/0/default.jpg#h=637&w=449",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_anaconda_ver01/data/sn85053044/00517178123/1947020701/0042.xml&format=alto_xml"
+  ],
+  "index": 163,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "montana",
+    "browning",
+    "glacier",
+    "united states"
+  ],
+  "location_city": [
+    "browning"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "glacier"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn85053044",
+    "8",
+    "0000000002",
+    "0",
+    "2",
+    "7",
+    "1",
+    "3"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85053044"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "8",
+    "1",
+    "2",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85053044-1947-02-07-ed-1-0042",
+  "partof": [
+    "chronicling america",
+    "browning chief (browning, mont.) 1941-1953",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "browning chief (browning, mont.) 1941-1953"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85053044/1947-02-07/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85053044/1947-02-07/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "montana",
+    "browning",
+    "glacier",
+    "united states"
+  ],
+  "timestamp": "2023-07-05T14:27:44.979Z",
+  "title": "Image 2 of Browning chief (Browning, Mont.), February 7, 1947",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85053044/1947-02-07/ed-1/?sp=2&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_anaconda_ver01%2Fdata%2Fsn85053044%2F00517178123%2F1947020701%2F0042.xml&q=korea&relevant_snippet=1"
+}

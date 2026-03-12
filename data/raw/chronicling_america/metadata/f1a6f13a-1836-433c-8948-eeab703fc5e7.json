@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn96060774/1954-09-03/ed-1/?sp=5"
+  ],
+  "batch": [
+    "az_hematite_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/arizona/",
+    "2/united states/arizona/santa cruz/",
+    "3/united states/arizona/santa cruz/nogales/"
+  ],
+  "contributor": [
+    "arizona state library, archives and public records; phoenix, az"
+  ],
+  "date": "1954-09-03",
+  "dates": [
+    "1954-09-03"
+  ],
+  "description": [
+    "NOGALES INTERNATIONALNogaIes Home Newspaper PATAGONIA NEWS ITEMS MRS ANNA FORTUNE Patagonia Correspondent Mr and Mrs Art Smith have an ncunced the engagement of their daughter Jennie Mae to Mr A W Hatfield of Pasadena Calif Date of the marriage has not been set Jennie has been visiting with her sister Betty and family who have moved from Paramount to Pasadena Calif Bill Holbrook and sdn Bucky re turned from their vacation in Cali fourla this week Mrs Bert Blabon left Tuesday for Washington DC She will be a representative of the Ladies Aux iliary of the Vererans of Foreign j LIVESTOCK AUCTION SOUTHERN ARIZONAS OLDEST AND LARGEST CATTLE MARKET Sales Each Saturday 130 PM FOWLER COMMISSION CO 29th St at Freeway Dial 31372Tucson CHAS FOWLER JR Home Phone 64233 WE HANDLE ONLY THE BEST Vita Gro Poultry and Stock Feeds Mortons Salt Products Advance and Northrup King Seeds Dr Salsburys Poultry Remedies We Also Have BABY CHICKS J M MUNGUIA SON FEED SEED HAY GRAIN 249 Grand Ave Telephone 300 WILLCOX SHERIFFS POSSE RODEO WILLCOX ARIZONA LABOR DAY WEEKEND SEPT 5 and 6 Native Fresh Stock Entries Close at 10 AM Sept 5 HdqChamber of Commerce Phone 368 Willcox Ariz"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-07-07T00:44:36.318Z",
+  "group": [
+    "ndnp/az",
+    "arizona-state-university-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn96060774/1954-09-03/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_hematite_ver01:data:sn96060774:00517018806:1954090301:0495/full/pct:3.125/0/default.jpg#h=269&w=209",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_hematite_ver01:data:sn96060774:00517018806:1954090301:0495/full/pct:6.25/0/default.jpg#h=539&w=419",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_hematite_ver01:data:sn96060774:00517018806:1954090301:0495/full/pct:12.5/0/default.jpg#h=1078&w=839",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/az/batch_az_hematite_ver01/data/sn96060774/00517018806/1954090301/0495.xml&format=alto_xml"
+  ],
+  "index": 30,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "arizona",
+    "nogales",
+    "santa cruz county",
+    "united states",
+    "santa cruz"
+  ],
+  "location_city": [
+    "nogales"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "santa cruz"
+  ],
+  "location_state": [
+    "arizona"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "5",
+    "1",
+    "6",
+    "7",
+    "0000000005",
+    "sn96060774",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn96060774"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "0",
+    "1",
+    "8",
+    "8",
+    "0",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn96060774-1954-09-03-ed-1-0495",
+  "partof": [
+    "nogales international (nogales, ariz.) 1926-1979",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "nogales international (nogales, ariz.) 1926-1979"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn96060774/1954-09-03/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn96060774/1954-09-03/ed-1/"
+  ],
+  "shelf_id": "5",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "arizona",
+    "nogales",
+    "santa cruz county (ariz.)",
+    "santa cruz county",
+    "united states",
+    "newspapers",
+    "nogales (ariz.)",
+    "santa cruz"
+  ],
+  "timestamp": "2024-07-07T01:29:25.212Z",
+  "title": "Image 5 of Nogales international (Nogales, Ariz.), September 3, 1954",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn96060774/1954-09-03/ed-1/?sp=5&q=vietnam",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Faz%2Fbatch_az_hematite_ver01%2Fdata%2Fsn96060774%2F00517018806%2F1954090301%2F0495.xml&q=vietnam&relevant_snippet=1"
+}

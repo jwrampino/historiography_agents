@@ -1,0 +1,136 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2004540423/1917-07-05/ed-1/?sp=114"
+  ],
+  "batch": [
+    "dlc_2glubbdubdrib_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1917-07-05",
+  "dates": [
+    "1917-07-05"
+  ],
+  "description": [
+    "FROM THE EAGLES SPECIAL FOREIGN CARTOON SERVICE Neutral and Belligerent Artists Express in Sketches Tkeir Ideas of What the Trend of the War Is i Mmh JB IpMryTk Wm rjfy __ r v Soon the neutrals will have to eat the tablecloth Nebelspalter Zurich j John BullWhat Not starv When We March Away We do not cross the briny deep o rob to slaughter and to seize 0 murder babies in their sleep r do such gentle deeds as these Re do not go because we choose to bring to men a fear of Might nor yet because we wish to lose all sense of decency and right We do not go because since birth we have been trained and drilled and taught to bring a curse upon the earth to joy in barbarism THE RUSSIAN EXEMPRESS Afjj IJ lf liiir ryf r 1 I lured reSS t P risoner Where were you cap GermanAt Dvinsk in an attack Satiri e n S 7ei d 0n RussiaNoyy THE BROOKLYN DAILY EAGLE NEUTRAL HUNGER ENCOURAGING ng yetLondon Opinion wrought to worship one whose mad designs would make the world a place of fear We go to Join the battle lines because"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-19T00:31:37.557Z",
+  "group": [
+    "sgpww1newspaperclippings/dlc",
+    "wwi-newspaper-clippings"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2004540423/1917-07-05/ed-1/?sp=114",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_2glubbdubdrib_ver01:data:2004540423:print00192512037:1917070501:0114/full/pct:6.25/0/default.jpg#h=457&w=341",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_2glubbdubdrib_ver01:data:2004540423:print00192512037:1917070501:0114/full/pct:12.5/0/default.jpg#h=915&w=683",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/sgp/sgpbatches/batch_dlc_2glubbdubdrib_ver01/data/2004540423/print00192512037/1917070501/0114.xml&format=alto_xml"
+  ],
+  "index": 185,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "germany",
+    "new york"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "2004540423",
+    "0000000114"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2004540423"
+  ],
+  "number_page": [
+    "0000000114"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2004540423-1917-07-05-ed-1-0114",
+  "partof": [
+    "world war history: newspaper clippings, 1914-1926",
+    "serial and government publications division",
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-"
+  ],
+  "partof_collection": [
+    "world war history: newspaper clippings, 1914-1926"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2004540423/1917-07-05/ed-1/?sp=114"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2004540423/1917-07-05/ed-1/"
+  ],
+  "shelf_id": "114",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "world war",
+    "armistices",
+    "united states",
+    "history",
+    "new york",
+    "germany",
+    "allied occupation",
+    "sources"
+  ],
+  "timestamp": "2022-11-09T18:09:00.584Z",
+  "title": "Image 114 of World War history : daily records and comments as appeared in American and foreign newspapers, 1914-1926 (New York), July 5, 1917, (1917 July 5-8)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2004540423/1917-07-05/ed-1/?sp=114&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fsgp%2Fsgpbatches%2Fbatch_dlc_2glubbdubdrib_ver01%2Fdata%2F2004540423%2Fprint00192512037%2F1917070501%2F0114.xml&q=terrorism&relevant_snippet=1"
+}

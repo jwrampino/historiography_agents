@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84026749/1929-11-29/ed-1/?sp=26"
+  ],
+  "batch": [
+    "dlc_adamsmorgan_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1929-11-29",
+  "dates": [
+    "1929-11-29"
+  ],
+  "description": [
+    "26 Bill Names Bag Limit For Migratory Birds A uniform bag limit for ducks and other birds embraced in the Federal Migratory Bird law is Srovided in a bill introduced by enator McNary of Oregon The limits are Ducks fifteen a day geese four snipe ten wood cock four coots ten sora rail fifteen other rails twenty mourning doves ten Escape rom Plane At Bottom of River DETROIT Nov 29Lieuten ant Commander George R Pond of the United States Naval Re serve and his mechanic James Bradley narrowly escaped drown ing when an airplane piloted by Pond fell into the Detroit River near Belle Isle Pond broke the glass of the cabin and dragged Bradley who was knocked unconscious to the surface MILLERS HERB EXTRACT REACHES TREMENDOUS SALE OF TWO BOTTLES PER MINUTE IN THIRTY CITIES ALONE 1165000 BOTTLES OF THIS PREPARATION WERE SOLD IN TWELVE MONTHS Seems Almost Impossible That Any One Medicine Could Attain Such a Re markable Sales Record But When You Realize How Quickly It Gives Relief i Even in the Most Severe Cases of Chronic Constipation You Will Readily See Why It Has Been Proclaimed the Greatest Tonic Laxative of All Times THOUSANDS IN WASHINGTON"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-07T20:29:16.614Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84026749/1929-11-29/ed-1/?sp=26",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_adamsmorgan_ver01:data:sn84026749:00222254668:1929112901:0697/full/pct:3.125/0/default.jpg#h=315&w=251",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_adamsmorgan_ver01:data:sn84026749:00222254668:1929112901:0697/full/pct:6.25/0/default.jpg#h=631&w=503",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_adamsmorgan_ver01/data/sn84026749/00222254668/1929112901/0697.xml&format=alto_xml"
+  ],
+  "index": 26,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "5",
+    "6",
+    "sn84026749",
+    "4",
+    "0000000026",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84026749"
+  ],
+  "number_page": [
+    "0000000026"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "2",
+    "2",
+    "2",
+    "5",
+    "4",
+    "6",
+    "6",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Washington times herald"
+  ],
+  "page_id": "sn84026749-1929-11-29-ed-1-0697",
+  "partof": [
+    "serial and government publications division",
+    "the washington times (washington [d.c.]) 1902-1939",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington times (washington [d.c.]) 1902-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84026749/1929-11-29/ed-1/?sp=26"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84026749/1929-11-29/ed-1/"
+  ],
+  "shelf_id": "26",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2023-08-07T20:52:03.209Z",
+  "title": "Image 26 of The Washington times (Washington [D.C.]), November 29, 1929",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84026749/1929-11-29/ed-1/?sp=26&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_adamsmorgan_ver01%2Fdata%2Fsn84026749%2F00222254668%2F1929112901%2F0697.xml&q=medicine&relevant_snippet=1"
+}

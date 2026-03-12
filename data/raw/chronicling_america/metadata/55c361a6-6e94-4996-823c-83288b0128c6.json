@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1922-06-03/ed-1/?sp=6"
+  ],
+  "batch": [
+    "dlc_cylon_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1922-06-03",
+  "dates": [
+    "1922-06-03"
+  ],
+  "description": [
+    "JTHE EVENING STAR _ Wtt Sday Mornhig WA8HIIOIOH D C SATURDAY June 3 1932 THEODORE W NOTES Editor Evening star Newspaper Company Offie 11th St and Peoujrtraslt An Now York Oflka ISO Kaaaau St fi10 Int Nattaaal Bank BaUMaa Bnrepean Office S Recent St London England tar w Snaday morning 2f iwnd hy carrier wltMn the city at eg ati per month daily only 45 cnti ner month Sunday only 30 cent per month Or V mt y un f telephone Main rl Collection la made by camera at th d of each month Rate by 3UflPayable in Advance Maryland and Virginia Oany and Sunday 1 yr 840 1 mo 70c pally only l yr 00 1 mo SOc Bunday only 1 yr 24 1 mo 10c All Other States jjajy and Sunday1 yr 1000 1 mo SHc Jaily only i yr 700 l mo 60c Sunday only yr HOP I mo sc gE t m Poincare Firmly is Saddle Premier Lloyd George of Great Brit ain has nothing on Premier Poin care of France Each has been given an overwhelming vote of confidence by his parliament and a free hand to carry out his program of foreign poli cies"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:56:50.723Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1922-06-03/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cylon_ver01:data:sn83045462:00280657128:1922060301:0689/full/pct:6.25/0/default.jpg#h=420&w=330",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cylon_ver01:data:sn83045462:00280657128:1922060301:0689/full/pct:12.5/0/default.jpg#h=841&w=660",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_cylon_ver01/data/sn83045462/00280657128/1922060301/0689.xml&format=alto_xml"
+  ],
+  "index": 44,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "5",
+    "0000000006",
+    "7",
+    "sn83045462",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "7",
+    "1",
+    "2",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1922-06-03-ed-1-0689",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1922-06-03/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1922-06-03/ed-1/"
+  ],
+  "shelf_id": "06",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-20T04:08:44.114Z",
+  "title": "Image 6 of Evening star (Washington, D.C.), June 3, 1922",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1922-06-03/ed-1/?sp=6&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_cylon_ver01%2Fdata%2Fsn83045462%2F00280657128%2F1922060301%2F0689.xml&q=child+labor&relevant_snippet=1"
+}

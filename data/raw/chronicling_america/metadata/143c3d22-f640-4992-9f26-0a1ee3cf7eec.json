@@ -1,0 +1,153 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82016181/1923-09-03/ed-1/?sp=5"
+  ],
+  "batch": [
+    "dlc_iooss_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1923-09-03",
+  "dates": [
+    "1923-09-03"
+  ],
+  "description": [
+    "CHILD LABOR ON THE INCREASE IN VARIOUS STATES Five Times as Many at Man chester N H Child labor is increasing in the United States Latest figures indi cate an increase in child labor in 1922 as compared with 1921 and in 1923 as compared with 1922 Tho legislatures in 44 states have met since the national child labor tax law was declared unconstitu tional only eight states have taken steps to improve upon their child labor laws In the other states employers em boldened by the action of the Su preme Court have increared the numbers of their child laborers In Manchester N H five times as many children were employed in factories in the first half of 1923 as in 1922 The U S childrens bureau finds that the nation is confronted with two alternativeseither the idea of a minimum standard must be aban doned or by constitutional amend ment we must give to Congress power to regulate or prohibit em ployment of persons under IR years of age Twer Rier iTuP MMIs AMP i He Sells Atlantic City MILES w BEEMER the man who sells Atlantic City to the world dropped in on Washington the other day"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2026-02-23T22:02:03.769Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82016181/1923-09-03/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iooss_ver02:data:sn82016181:0052904561A:1923090301:0039/full/pct:6.25/0/default.jpg#h=338&w=224",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iooss_ver02:data:sn82016181:0052904561A:1923090301:0039/full/pct:12.5/0/default.jpg#h=676&w=448",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_iooss_ver02/data/sn82016181/0052904561A/1923090301/0039.xml&format=alto_xml"
+  ],
+  "index": 138,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000005",
+    "1",
+    "sn82016181",
+    "9",
+    "5",
+    "6",
+    "4",
+    "a",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82016181"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "2",
+    "9",
+    "0",
+    "4",
+    "5",
+    "6",
+    "1",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82016181-1923-09-03-ed-1-0039",
+  "partof": [
+    "serial and government publications division",
+    "the washington daily news (washington, d.c.) 1921-1972",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington daily news (washington, d.c.) 1921-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82016181/1923-09-03/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82016181/1923-09-03/ed-1/"
+  ],
+  "shelf_id": "05",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2026-02-24T00:38:39.184Z",
+  "title": "Image 5 of The Washington daily news (Washington, D.C.), September 3, 1923",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82016181/1923-09-03/ed-1/?sp=5&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_iooss_ver02%2Fdata%2Fsn82016181%2F0052904561A%2F1923090301%2F0039.xml&q=child+labor&relevant_snippet=1"
+}

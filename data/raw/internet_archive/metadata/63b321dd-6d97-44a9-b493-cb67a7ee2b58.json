@@ -1,0 +1,32 @@
+{
+  "creator": "Victorhck",
+  "date": "2020-04-08T00:00:00Z",
+  "description": "PDF con una lista de 400 comandos para sistemas GNU/Linux. Lista recopilada por el Grupo de Usuarios de Tecnolog\u00edas Libres (GUTL) de Cuba. https://gutl.jovenclub.cu/wiki/doku.php?id=/comandos/inicio",
+  "format": [
+    "Abbyy GZ",
+    "Archive BitTorrent",
+    "Daisy",
+    "DjVuTXT",
+    "Djvu XML",
+    "EPUB",
+    "Item Tile",
+    "Metadata",
+    "OCR Page Index",
+    "OCR Search Text",
+    "Page Numbers JSON",
+    "Scandata",
+    "Single Page Processed JP2 ZIP",
+    "Text PDF",
+    "chOCR",
+    "hOCR"
+  ],
+  "identifier": "400comandosLinux",
+  "language": "spa",
+  "licenseurl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "mediatype": "texts",
+  "subject": [
+    "gnu",
+    "linux"
+  ],
+  "title": "400 comandos de Linux"
+}

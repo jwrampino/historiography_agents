@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87060004/1900-09-13/ed-1/?sp=9"
+  ],
+  "batch": [
+    "kyu_hendrix_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/kentucky/",
+    "2/united states/kentucky/hopkins/",
+    "3/united states/kentucky/hopkins/earlington/"
+  ],
+  "contributor": [
+    "university of kentucky, lexington, ky"
+  ],
+  "date": "1900-09-13",
+  "dates": [
+    "1900-09-13"
+  ],
+  "description": [
+    "ti e t 1b x n SUPPLEMENT TOr 1 t D i I i THE J ARLINGTON BEEI oIY fI t fr r r J J vLINGTON KY THURSDAY SEPTEMBER 13 1900 f 1S jIi rItsNot the First Time We Expanded H l f f I4wr i k4ijo 1 r k4ijoII f 05 71y 1 tJlIiU i I II cI iI f 1j 1 o I l E I j 1MxyI4sJoNJNA7 iM7fEDJSTATIi I DFyo l I A 1 I y I 1 Or I 4FTVCfA17 l M EXP4NSioNi i r o 2 wP 803 r D ittoonsenrof yCiTittoonsenrof 1 C Area r r N FX S6S1660B0arna rORl6NAA 1 t gNSON Y t 1 THIR1tFN t A I I STATES i1JI litt 9onrrrt I Area52163100 j i i l I 9 it t fI i I i l i 9Sr 18 RS lytAo 9Srccaoc t ccaoc onsen t RCI LC AAflC r 1 i 1 garrne Arrrp9P3S91pcr e 1 staf rr129l lyllhGUta x t t i44iert I 1 f11it 1 619res 1it If trt st 1J te t syKy r I r t t liifi j 1 t If t I 11 f t 11 04t1gl4Cill0ld 1 I III y A"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-07-21T10:39:05.834Z",
+  "group": [
+    "ndnp/kyu",
+    "university-of-kentucky-lexington-ky-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87060004/1900-09-13/ed-1/?sp=9",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_hendrix_ver01:data:sn87060004:0017504615A:1900091301:1006/full/pct:6.25/0/default.jpg#h=471&w=325",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_hendrix_ver01:data:sn87060004:0017504615A:1900091301:1006/full/pct:12.5/0/default.jpg#h=942&w=650",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/kyu/batch_kyu_hendrix_ver01/data/sn87060004/0017504615A/1900091301/1006.xml&format=alto_xml"
+  ],
+  "index": 194,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "earlington",
+    "united states",
+    "hopkins county",
+    "kentucky",
+    "hopkins"
+  ],
+  "location_city": [
+    "earlington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hopkins"
+  ],
+  "location_state": [
+    "kentucky"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000009",
+    "5",
+    "1",
+    "4",
+    "6",
+    "a",
+    "7",
+    "sn87060004"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87060004"
+  ],
+  "number_page": [
+    "0000000009"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "1",
+    "7",
+    "5",
+    "0",
+    "4",
+    "6",
+    "1",
+    "5",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87060004-1900-09-13-ed-1-1006",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the bee (earlington, ky.) 1889-19??"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the bee (earlington, ky.) 1889-19??"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87060004/1900-09-13/ed-1/?sp=9"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87060004/1900-09-13/ed-1/"
+  ],
+  "shelf_id": "09",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "earlington",
+    "united states",
+    "earlington (ky.)",
+    "newspapers",
+    "hopkins county",
+    "kentucky",
+    "hopkins county (ky.)",
+    "hopkins"
+  ],
+  "timestamp": "2025-07-22T02:35:04.238Z",
+  "title": "Image 9 of The bee (Earlington, Ky.), September 13, 1900, (Supplement)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87060004/1900-09-13/ed-1/?sp=9&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fkyu%2Fbatch_kyu_hendrix_ver01%2Fdata%2Fsn87060004%2F0017504615A%2F1900091301%2F1006.xml&q=manifest+destiny&relevant_snippet=1"
+}

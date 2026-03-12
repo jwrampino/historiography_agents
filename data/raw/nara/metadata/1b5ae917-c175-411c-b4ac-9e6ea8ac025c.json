@@ -1,0 +1,183 @@
+{
+  "beginCongress": 68,
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "subjects": [
+    {
+      "heading": "Cummins, Albert Baird, 1850-1926",
+      "deathDate": {
+        "year": 1926,
+        "logicalDate": "1926-12-31"
+      },
+      "authorityType": "person",
+      "birthDate": {
+        "year": 1850,
+        "logicalDate": "1850-01-01"
+      },
+      "naId": 189390127
+    }
+  ],
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "Arizona Certification of the Child Labor Amendment",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "Room 8E, 7th and Pennsylvania Avenue NW",
+          "city": "Washington",
+          "phone": "202-357-5350",
+          "address1": "National Archives Building",
+          "postalCode": "20408",
+          "name": "Center for Legislative Archives",
+          "state": "DC",
+          "fax": "202-357-5911",
+          "email": "legislative.archives@nara.gov",
+          "mailCode": "LL"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Artworks and Graphic Materials"
+          ],
+          "specificMediaType": "Paper",
+          "containerId": "Box 246 folder 1"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "endCongress": 68,
+  "dataControlGroup": {
+    "groupName": "Center for Legislative Archives",
+    "groupId": "RPL",
+    "groupCd": "RPL"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "localIdentifier": "SEN68A-J34",
+  "productionDates": [
+    {
+      "month": 1,
+      "year": 1925,
+      "day": 29,
+      "logicalDate": "1925-01-29"
+    }
+  ],
+  "variantControlNumbers": [
+    {
+      "note": "This is the NARA internal exhibit tracking number.",
+      "number": "27493",
+      "type": "Other Identifier"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "27493-2014-001-ac.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/rediscovery/27001-27500/27493-2014-001-ac.jpg",
+      "objectFileSize": 13984475,
+      "objectDesignator": "1",
+      "objectId": "16095445",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "27493-2014-002-ac.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/rediscovery/27001-27500/27493-2014-002-ac.jpg",
+      "objectFileSize": 13615794,
+      "objectDesignator": "2",
+      "objectId": "16095447",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "27493-2014-003-ac.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/rediscovery/27001-27500/27493-2014-003-ac.jpg",
+      "objectFileSize": 13407419,
+      "objectDesignator": "3",
+      "objectId": "16095448",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "27493-2014-004-ac.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/rediscovery/27001-27500/27493-2014-004-ac.jpg",
+      "objectFileSize": 14009876,
+      "objectDesignator": "4",
+      "objectId": "16095449",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "27493-2014-005-ac.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/rediscovery/27001-27500/27493-2014-005-ac.jpg",
+      "objectFileSize": 13879541,
+      "objectDesignator": "5",
+      "objectId": "16095450",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "27493-2014.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/rediscovery/27001-27500/27493-2014.pdf",
+      "objectFileSize": 65503676,
+      "objectId": "16095446",
+      "objectDescription": "Download the PDF",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1789,
+        "logicalDate": "1789-01-01"
+      },
+      "distance": 3,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 46,
+      "inclusiveEndDate": {
+        "year": 2023,
+        "logicalDate": "2023-12-31"
+      },
+      "title": "Records of the U.S. Senate",
+      "naId": 375
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1816,
+        "logicalDate": "1816-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "U.S. Senate. Committee on the Judiciary. (12/10/1816 - )",
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 12,
+            "year": 1816,
+            "day": 10,
+            "logicalDate": "1816-12-10"
+          },
+          "naId": 10458558
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 2024,
+        "logicalDate": "2024-12-31"
+      },
+      "title": "Committee Papers of the Committee on the Judiciary",
+      "naId": 559828
+    },
+    {
+      "distance": 1,
+      "levelOfDescription": "fileUnit",
+      "title": "Petitions and Memorials, Resolutions of State Legislatures, and Related Documents, which were Referred to the Committee on the Judiciary from the 68th Congress",
+      "naId": 18538142
+    }
+  ],
+  "naId": 12059577
+}

@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn90066132/1919-12-16/ed-1/?sp=4"
+  ],
+  "batch": [
+    "oru_jefferson_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/oregon/",
+    "2/united states/oregon/marion/",
+    "3/united states/oregon/marion/salem/"
+  ],
+  "contributor": [
+    "university of oregon libraries; eugene, or"
+  ],
+  "date": "1919-12-16",
+  "dates": [
+    "1919-12-16"
+  ],
+  "description": [
+    "rAit FOUR 1 HE DAILY CAPITAL JOURNAL SALEM OREGON TUESDAY TV THE CAPITAL JOURNAL AN LwiSPEVDENT iKWs AKEK tuoiseu every evenn txcept tun day by Tue Capital Journal pruning Co 138 Poutu Commercial street Telephones Circulation and Business Office 81 Editorial rooms a 2 DISGRACING JOURNALISM O PUTNAM Editor and Publisher Entereu as second class mail matter at Salein Oregon SlBSCKIPTION RATE3 V By carer tu cents a momn toy man i RA 1 f jazu tor six months per year By oimr of U S government all mall subscript ns are payable in auvaice XHE SEATTLE POSTINTELLIGENCER one of the leading newspapers of the coast recently accepted an advertisement containing a reprint of an editorial written in The Busiress Chrcnicle by Edwin Selwin immediately after the Centralia massacre which denounc ed the bolshevist conspiracy to overturn the American government and destroy American institutions In this editorial thep was a prrarrrh tht rea Real Americans must rise aa one man In the righteous wrath of out raged patriotism First invoke such legal machnery as we have and if that is not sufficient then hastily construct something fool proof We muBt smash every unAmerican and antiAmerican pranlzation n the land We"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-07-15T14:39:48.014Z",
+  "group": [
+    "ndnp/oru",
+    "university-of-oregon-libraries-eugene-or-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn90066132/1919-12-16/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_jefferson_ver01:data:sn90066132:00295867619:1919121601:0994/full/pct:6.25/0/default.jpg#h=417&w=303",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_jefferson_ver01:data:sn90066132:00295867619:1919121601:0994/full/pct:12.5/0/default.jpg#h=835&w=606",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/oru/batch_oru_jefferson_ver01/data/sn90066132/00295867619/1919121601/0994.xml&format=alto_xml"
+  ],
+  "index": 136,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "oregon",
+    "marion",
+    "salem",
+    "united states"
+  ],
+  "location_city": [
+    "salem"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "marion"
+  ],
+  "location_state": [
+    "oregon"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn90066132",
+    "0000000004",
+    "8",
+    "2",
+    "0",
+    "7",
+    "9",
+    "1",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn90066132"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "5",
+    "8",
+    "6",
+    "7",
+    "6",
+    "1",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn90066132-1919-12-16-ed-1-0994",
+  "partof": [
+    "chronicling america",
+    "capital journal (salem, or.) 1919-1980",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "capital journal (salem, or.) 1919-1980"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn90066132/1919-12-16/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn90066132/1919-12-16/ed-1/"
+  ],
+  "shelf_id": "04",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "marion",
+    "salem",
+    "oregon",
+    "salem (or.)",
+    "united states"
+  ],
+  "timestamp": "2024-07-16T00:11:36.935Z",
+  "title": "Image 4 of Capital journal (Salem, Or.), December 16, 1919",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn90066132/1919-12-16/ed-1/?sp=4&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Foru%2Fbatch_oru_jefferson_ver01%2Fdata%2Fsn90066132%2F00295867619%2F1919121601%2F0994.xml&q=terrorism&relevant_snippet=1"
+}

@@ -1,0 +1,133 @@
+{
+  "accessionNumbers": [
+    "1970-NLF-001"
+  ],
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "subjects": [
+    {
+      "heading": "Crime",
+      "authorityType": "topicalSubject",
+      "naId": 10638047
+    },
+    {
+      "heading": "Inflation (Finance)",
+      "authorityType": "topicalSubject",
+      "naId": 10638421
+    }
+  ],
+  "useRestriction": {
+    "note": "Some of the records may be subject to copyright restrictions. Researchers should contact the publisher for further information.",
+    "status": "Restricted - Possibly"
+  },
+  "title": "Campaign Dinner, Luke Atkinson, GOP Candidate for Congress, 11th District, Asheville, NC, August 1, 1970",
+  "coverageEndDate": {
+    "month": 8,
+    "year": 1970,
+    "logicalDate": "1970-08-31"
+  },
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Ann Arbor",
+          "phone": "734-205-0555",
+          "address1": "1000 Beal Avenue",
+          "postalCode": "48109-2114",
+          "name": "Gerald R. Ford Library",
+          "state": "MI",
+          "fax": "734-205-0571",
+          "email": "ford.library@nara.gov",
+          "mailCode": "LP-GRF"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "specificMediaType": "Paper",
+          "containerId": "D30",
+          "reproductionCount": 4
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "note": "Some material may have been removed due to donor or other restrictions.",
+    "status": "Restricted - Possibly"
+  },
+  "coverageStartDate": {
+    "month": 8,
+    "year": 1970,
+    "logicalDate": "1970-08-01"
+  },
+  "dataControlGroup": {
+    "groupId": "ou=NLGRF,ou=groups",
+    "groupCd": "LPGRF"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "005401517",
+      "type": "PRESNET Number"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "4526304.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/ford/grf-0054/642080/4526304.pdf",
+      "objectFileSize": 1234,
+      "objectId": "172082644",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "GRF-0054",
+      "inclusiveStartDate": {
+        "year": 1948,
+        "logicalDate": "1948-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "year": 1973,
+        "logicalDate": "1973-12-31"
+      },
+      "title": "Gerald R. Ford Congressional Papers",
+      "naId": 642038
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1948,
+        "logicalDate": "1948-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "Ford, Gerald R., 1913-2006",
+          "deathDate": {
+            "year": 2006,
+            "logicalDate": "2006-12-31"
+          },
+          "authorityType": "person",
+          "birthDate": {
+            "year": 1913,
+            "logicalDate": "1913-01-01"
+          },
+          "naId": 10678025
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1973,
+        "logicalDate": "1973-12-31"
+      },
+      "title": "Speeches",
+      "naId": 642080
+    }
+  ],
+  "naId": 4526304
+}

@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88076432/1906-09-06/ed-1/?sp=3"
+  ],
+  "batch": [
+    "ndhi_fluorine_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/north dakota/",
+    "2/united states/north dakota/cavalier/",
+    "3/united states/north dakota/cavalier/langdon/"
+  ],
+  "contributor": [
+    "state historical society of north dakota"
+  ],
+  "date": "1906-09-06",
+  "dates": [
+    "1906-09-06"
+  ],
+  "description": [
+    "OFFICIAL DIRECTORY U 6 SENATE Hausbrough Devils Lake fj McCnmber Wahpeton I CONGRESSMEN I F Marshal Lakotn I FEDERAL OFFICERS 8 District Judre C F Amdou 3 Marshal Attorney Jobn F 8liea P H Rourko 1 CIT S Court J A Montgomery lovVir ioneral E A Williams feu Bauk Examiner ES Tyler Iwfcnr of Customs N E Nelson SvU S Revenue Collectors Jas Elton p0ut u Bhiof Justice Issociato Justices and MSinclair STATE SUPREME COURT D E Morgan E Kneerud and N C Young Lrk of SupremeCourt RbHoskine Iflnortor of Supreme Court F W Amos STATE OFFICERS xwernor Y Sarles Lieutenant Governor David Burtlett crotary of State E F Porter Itate Treasurer A Petersou State Auditor H LHolmes rmir of lusurance h C Cooper mr of Agriculture W C Qilbreatli Kttornoy General C N Fncb fcnt Public Instruction w L Stockwell PiP n o I Hegge State Land Comr Idintant Goneral State Ban Examiner E S Miller D K Briubtbill State Game Warden jClarence Hale State Oil Inspector T W Jackman Tomrrs of Railroads C S Disem chairman 5 StafneMChristianson CCHammondsec DISTRICT COURT budge Seventh District W J Kneeuliaw Court Stenographer Walter M Prince LEGISLATIVE STATIC SENATORS Eighteenth District Henry"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-25T19:26:53.636Z",
+  "group": [
+    "ndnp/ndhi",
+    "state-histrorical-society-of-north-dakota-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88076432/1906-09-06/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_fluorine_ver01:data:sn88076432:0027174075A:1906090601:0726/full/pct:3.125/0/default.jpg#h=286&w=196",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_fluorine_ver01:data:sn88076432:0027174075A:1906090601:0726/full/pct:6.25/0/default.jpg#h=572&w=393",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_fluorine_ver01:data:sn88076432:0027174075A:1906090601:0726/full/pct:12.5/0/default.jpg#h=1144&w=787",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ndhi/batch_ndhi_fluorine_ver01/data/sn88076432/0027174075A/1906090601/0726.xml&format=alto_xml"
+  ],
+  "index": 50,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "north dakota",
+    "langdon",
+    "cavalier",
+    "united states"
+  ],
+  "location_city": [
+    "langdon"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cavalier"
+  ],
+  "location_state": [
+    "north dakota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "0000000003",
+    "5",
+    "sn88076432",
+    "7",
+    "4",
+    "a",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88076432"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "1",
+    "7",
+    "4",
+    "0",
+    "7",
+    "5",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88076432-1906-09-06-ed-1-0726",
+  "partof": [
+    "serial and government publications division",
+    "courier democrat (langdon, n.d.) 1891-1920",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "courier democrat (langdon, n.d.) 1891-1920"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88076432/1906-09-06/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88076432/1906-09-06/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "langdon (n.d.)",
+    "langdon",
+    "newspapers",
+    "north dakota",
+    "cavalier"
+  ],
+  "timestamp": "2023-08-26T05:44:44.562Z",
+  "title": "Image 3 of Courier Democrat (Langdon, N.D.), September 6, 1906",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88076432/1906-09-06/ed-1/?sp=3&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fndhi%2Fbatch_ndhi_fluorine_ver01%2Fdata%2Fsn88076432%2F0027174075A%2F1906090601%2F0726.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

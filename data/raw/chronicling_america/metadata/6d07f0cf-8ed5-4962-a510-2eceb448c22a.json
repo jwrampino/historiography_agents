@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045433/1919-10-19/ed-1/?sp=8"
+  ],
+  "batch": [
+    "dlc_englishsetter_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1919-10-19",
+  "dates": [
+    "1919-10-19"
+  ],
+  "description": [
+    "Wealth in Texas Oil v Would You Risk 10 In an Oil Opportunity That Promises Bigger Returns for the Investment Than Anything Else You Can Buy We Have Put Up Our Own Hard Oash We have purchased with oar own money a number of leases right in the heart of the famous oil lands of Texas These leases have been paid for in full to the last dollar With these leases we have organized and completed the Em pire Texas Oil Co We bare no debts there is no preferred stock no bonds no mortgages We are now ready to develop these leases to drill as many wells as will produce oil And to that end and for that parpte we will sell a Emited amount of capital stock Are You Alive to a Great Opportunity The group of men composing this company are not profes sional promoters we are not speculators we have what we con sider a Fifetime opportunity to make some real money big money by developing the property we already have and may later ac No we need winking capital money for the purpose of t And this is a fast and expensive undertaking All our"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-01-08T13:47:37.037Z",
+  "group": [
+    "ndnp/dlc-2011_2013",
+    "library-of-congress-washington-dc-awardee-4"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045433/1919-10-19/ed-1/?sp=8",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_englishsetter_ver01:data:sn83045433:0028076405A:1919101901:0334/full/pct:6.25/0/default.jpg#h=385&w=293",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_englishsetter_ver01:data:sn83045433:0028076405A:1919101901:0334/full/pct:12.5/0/default.jpg#h=770&w=586",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_englishsetter_ver01/data/sn83045433/0028076405A/1919101901/0334.xml&format=alto_xml"
+  ],
+  "index": 27,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "district of columbia",
+    "washington d.c.",
+    "washington",
+    "united states"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "1",
+    "8",
+    "2",
+    "0",
+    "a",
+    "7",
+    "0000000008",
+    "sn83045433",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045433"
+  ],
+  "number_page": [
+    "0000000008"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "7",
+    "6",
+    "4",
+    "0",
+    "5",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Washington times-herald",
+    "Washington herald times"
+  ],
+  "page_id": "sn83045433-1919-10-19-ed-1-0334",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the washington herald (washington, d.c.) 1906-1939"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington herald (washington, d.c.) 1906-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045433/1919-10-19/ed-1/?sp=8"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045433/1919-10-19/ed-1/"
+  ],
+  "shelf_id": "08",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)",
+    "washington",
+    "united states"
+  ],
+  "timestamp": "2025-01-08T18:37:20.411Z",
+  "title": "Image 8 of The Washington herald (Washington, D.C.), October 19, 1919",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045433/1919-10-19/ed-1/?sp=8&q=oil",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_englishsetter_ver01%2Fdata%2Fsn83045433%2F0028076405A%2F1919101901%2F0334.xml&q=oil&relevant_snippet=1"
+}

@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86063984/1874-01-28/ed-1/?sp=2"
+  ],
+  "batch": [
+    "mohi_dorothea_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/missouri/",
+    "2/united states/missouri/lincoln/",
+    "3/united states/missouri/lincoln/troy/"
+  ],
+  "contributor": [
+    "state historical society of missouri; columbia, mo"
+  ],
+  "date": "1874-01-28",
+  "dates": [
+    "1874-01-28"
+  ],
+  "description": [
+    "THE TEOY HERALD JANUARY 28 1874 TROY J3ERALD WEDNESDAY JAN S8 1874 SPEECH OF A H BUCKNER Thn Houio having under coasldora tlon the civil rights bill Mr lJuckuer laid Mr Speaker it U a palpable misnomer to designate the bill under consideration at bill ta protect all pcrio lu their clrll and legal right It is a itaarna traniuareut uecoptlon 10 to charac terize it A moro appropriate title would be A bill to create social equality in tho lato slaveholding klatoi to consolidate tho two races In hostility to cadi other nnd to dcitroy the public schools Whatever may be the apparent and ostensible pur pose of thu advocates of this legisla tion its real objects cannot be mis taken It professo to apply to all persons native and foreign Euro poau and Asiatic black and white but this thin disguise is thrown oil vr lieu it forbids any distinction to bu made as to admission or accommoda tion in nubile luiis places of publlo amusement iu public carriages of passenger or in public schools of any citizen of the United States be cuuso of race color or previous con ditlon of servitude It is no part of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T11:52:58.834Z",
+  "group": [
+    "ndnp/mohi",
+    "state-historical-society-of-missouri-columbia-mo-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86063984/1874-01-28/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1874012801:0260/full/pct:6.25/0/default.jpg#h=360&w=239",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1874012801:0260/full/pct:12.5/0/default.jpg#h=720&w=478",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mohi/batch_mohi_dorothea_ver01/data/sn86063984/00200292819/1874012801/0260.xml&format=alto_xml"
+  ],
+  "index": 40,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "missouri",
+    "troy",
+    "united states",
+    "lincoln",
+    "lincoln county"
+  ],
+  "location_city": [
+    "troy"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lincoln"
+  ],
+  "location_state": [
+    "missouri"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn86063984",
+    "0",
+    "9",
+    "1",
+    "2",
+    "0000000002",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86063984"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "0",
+    "2",
+    "9",
+    "2",
+    "8",
+    "1",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86063984-1874-01-28-ed-1-0260",
+  "partof": [
+    "chronicling america",
+    "the troy herald (troy, mo.) 1873-1890",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the troy herald (troy, mo.) 1873-1890"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86063984/1874-01-28/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86063984/1874-01-28/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "missouri",
+    "troy",
+    "united states",
+    "lincoln",
+    "newspapers",
+    "troy (mo.)",
+    "lincoln county",
+    "lincoln county (mo.)"
+  ],
+  "timestamp": "2022-10-17T05:55:10.906Z",
+  "title": "Image 2 of The Troy herald (Troy, Mo.), January 28, 1874",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86063984/1874-01-28/ed-1/?sp=2&q=civil+rights",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmohi%2Fbatch_mohi_dorothea_ver01%2Fdata%2Fsn86063984%2F00200292819%2F1874012801%2F0260.xml&q=civil+rights&relevant_snippet=1"
+}

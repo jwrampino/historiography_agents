@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1919-02-22/ed-1/?sp=10"
+  ],
+  "batch": [
+    "dlc_dalek_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1919-02-22",
+  "dates": [
+    "1919-02-22"
+  ],
+  "description": [
+    "MRTAFT REASSERTS fflS FAITH IN LEAGUE V i tfonfinues Criticism of Those Who Oppose Covenant and I I t a r a n l_ I Hnswers denaiur our an SACRAMENTO Cal February 22 William Howard Taft president of the League to Enforce Peace has given out a statement in which he reiterates his assertion that those k who oppose the proposed league of nations covenant on the ground that we should maintain the socalled policy against entangling alliances have a narrow vision of our national duty i He declared he was confident that without specific provision the league of nations would under the covenant as it is maintain the justice and wisdom of the whole Monroe doctrine but if article X was not sufficient he had no doubt such provision could be inserted He denied that the Carnegie Peace Foundation was financing the congresses of the League to Knforce Ieace Corrects Published Statement J T observe the statement said that X have been misquoted in dispatches from San Francisco I have been made to say that 1 would not trust overnight senators opposing this treatv What I said was this _ _ J I yield to 110 man in my"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:57:13.906Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1919-02-22/ed-1/?sp=10",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dalek_ver01:data:sn83045462:00280656537:1919022201:0116/full/pct:6.25/0/default.jpg#h=458&w=358",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dalek_ver01:data:sn83045462:00280656537:1919022201:0116/full/pct:12.5/0/default.jpg#h=917&w=716",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_dalek_ver01/data/sn83045462/00280656537/1919022201/0116.xml&format=alto_xml"
+  ],
+  "index": 75,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000010",
+    "2",
+    "sn83045462",
+    "8",
+    "6",
+    "5",
+    "3",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000010"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "6",
+    "5",
+    "3",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1919-02-22-ed-1-0116",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1919-02-22/ed-1/?sp=10"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1919-02-22/ed-1/"
+  ],
+  "shelf_id": "10",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2022-10-20T04:15:42.818Z",
+  "title": "Image 10 of Evening star (Washington, D.C.), February 22, 1919",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1919-02-22/ed-1/?sp=10&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_dalek_ver01%2Fdata%2Fsn83045462%2F00280656537%2F1919022201%2F0116.xml&q=manifest+destiny&relevant_snippet=1"
+}

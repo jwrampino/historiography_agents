@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1916-08-22/ed-1/?sp=5"
+  ],
+  "batch": [
+    "dlc_fordprefect_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1916-08-22",
+  "dates": [
+    "1916-08-22"
+  ],
+  "description": [
+    "SENT TO MADHOUSE THROUGH MISTAKE Dennis Dowd Underwent Unusual Experience Before Beinn Ifillorl in Pranrp IIIVJ 1MIIVU III I I UIIUVl HIS SENSE OF HUMOR GAINED HIS RELEASE Graduate of Georgetown University Had Many Trying Hardships During War Copyright 1916 BY HERBERT COREY Mr Corey saw Dennis Powd a few days hefore his death and wrote this story He mailed Jt from Paris and while 1r was on the way Powd was killed when he fainted in his aero 1 plane at the French military aviation school t Buc Powds father lives in Brooklyn PARIS August 7I had rather pro through the battle of Champagne over again said Dennis Powd Dowd Is one of the young Americans 1 who enlisted in the foreign legion ak j the beginning of the war A graduate of Georgetown University Washing ton D C and a practicing lawyer he felt very deeply that as a believer in liberty and democracy he should fight 1 for France After the battle of Cham j pagne in which he was wounded mere was little left of his regiment of the foreign legion Most of the Americans were drafted into the 170th Regiment one of the famous regiments"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:10:05.229Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1916-08-22/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fordprefect_ver01:data:sn83045462:00280658558:1916082201:0531/full/pct:6.25/0/default.jpg#h=407&w=329",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fordprefect_ver01:data:sn83045462:00280658558:1916082201:0531/full/pct:12.5/0/default.jpg#h=815&w=659",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_fordprefect_ver01/data/sn83045462/00280658558/1916082201/0531.xml&format=alto_xml"
+  ],
+  "index": 173,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "2",
+    "sn83045462",
+    "8",
+    "6",
+    "5",
+    "1",
+    "0000000005"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "8",
+    "5",
+    "5",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1916-08-22-ed-1-0531",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1916-08-22/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1916-08-22/ed-1/"
+  ],
+  "shelf_id": "05",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2022-10-20T13:40:01.961Z",
+  "title": "Image 5 of Evening star (Washington, D.C.), August 22, 1916",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1916-08-22/ed-1/?sp=5&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_fordprefect_ver01%2Fdata%2Fsn83045462%2F00280658558%2F1916082201%2F0531.xml&q=immigration&relevant_snippet=1"
+}

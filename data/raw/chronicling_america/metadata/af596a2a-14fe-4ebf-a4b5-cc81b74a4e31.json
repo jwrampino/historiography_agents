@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn95047216/1907-04-27/ed-1/?sp=5"
+  ],
+  "batch": [
+    "dlc_aricia_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/florida/",
+    "2/united states/florida/leon/",
+    "3/united states/florida/leon/tallahassee/",
+    "2/united states/florida/duval/",
+    "3/united states/florida/duval/jacksonville/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1907-04-27",
+  "dates": [
+    "1907-04-27"
+  ],
+  "description": [
+    "THIS FOR STATE DEVELOPMENT A measure which seeks to establish a Bureau of Immigration and provide a General Immigration Agent has becn introduced by Representative Knight of Citrus 2 The measure comes in answer to a demand for an appropriation to prose cute the work of inducing desirable iin migration It is stipulated that the sum ov 15000 annually shall be devoted to this work and that it shall be direct ed by the Commissioner of Agricul ture The text of the bilk is given for no subject affecting the industrial wel iare of the State has been so wideiy digcussed It is provided that the Governor shall appoint some suitable person who shall be known as the General Inimigration Agent whose term of of fice shall be for four years from the date of appointment such person to act cojointly in all matters pertain it g to immigration with the Commis sioner of Agriculture the said Gen eral Immigration Agent to receive for his services the sum of 2500 per annum and all necessary traveling ex penses That the Commissioner of Agricul ture together with the General Im migration Agent shall be empowered to employ such clerical assistance as"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2026-02-23T20:46:33.918Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn95047216/1907-04-27/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_aricia_ver01:data:sn95047216:print:1907042701:0021/full/pct:6.25/0/default.jpg#h=278&w=213",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_aricia_ver01:data:sn95047216:print:1907042701:0021/full/pct:12.5/0/default.jpg#h=556&w=427",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_aricia_ver01:data:sn95047216:print:1907042701:0021/full/pct:25/0/default.jpg#h=1112&w=855",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_aricia_ver01/data/sn95047216/print/1907042701/0021.xml&format=alto_xml"
+  ],
+  "index": 20,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "duval",
+    "leon",
+    "jacksonville",
+    "leon county",
+    "tallahassee",
+    "duval county",
+    "florida",
+    "united states"
+  ],
+  "location_city": [
+    "tallahassee",
+    "jacksonville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "leon",
+    "duval"
+  ],
+  "location_state": [
+    "florida"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn95047216",
+    "0000000005",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn95047216"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn95047216-1907-04-27-ed-1-0021",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the sun (jacksonville, fla.) 1905-1908"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the sun (jacksonville, fla.) 1905-1908"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn95047216/1907-04-27/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn95047216/1907-04-27/ed-1/"
+  ],
+  "shelf_id": "05",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "duval",
+    "jacksonville (fla.)",
+    "tallahassee (fla.)",
+    "leon",
+    "leon county (fla.)",
+    "jacksonville",
+    "leon county",
+    "tallahassee",
+    "duval county",
+    "florida",
+    "united states",
+    "duval county (fla.)"
+  ],
+  "timestamp": "2026-02-23T22:57:07.718Z",
+  "title": "Image 5 of The sun (Jacksonville, Fla.), April 27, 1907",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn95047216/1907-04-27/ed-1/?sp=5&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_aricia_ver01%2Fdata%2Fsn95047216%2Fprint%2F1907042701%2F0021.xml&q=immigration&relevant_snippet=1"
+}

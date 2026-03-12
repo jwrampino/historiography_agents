@@ -1,0 +1,21 @@
+{
+  "coverage": "US",
+  "date": "1948-01-01T00:00:00Z",
+  "description": "Nuclear Science Abstracts was an extensive collection of international nuclear science and technology literature. It was established in 1948 and was published semi-monthly by the ERDA Technical Information Center until 1976. The publication provided abstracts and indexing of scientific literature related to nuclear science and engineering, featuring a wide variety of article types, including technical reports, journal articles, and conference papers. Nuclear physics, radiochemistry, reactor technology, radiation physics, isotope applications, and health physics were among the multitude of topics. It covers fundamental research like nuclear reactions, particle physics, and nuclear structure, as well as applied areas such as radiation shielding, medical uses of radioisotopes, and industrial radiography. The abstracts are arranged under broad categories, with indices by author, subject, and geographic location, facilitating efficient literature retrieval.",
+  "format": [
+    "Archive BitTorrent",
+    "Item Image",
+    "Item Tile",
+    "JSON",
+    "Metadata",
+    "Periodicals Metadata JSON",
+    "Publication MARC",
+    "Publication MARC Binary",
+    "Ulrichs JSON"
+  ],
+  "identifier": "pub_nuclear-science-abstracts",
+  "language": "English",
+  "mediatype": "collection",
+  "subject": "Nuclear Science",
+  "title": "Nuclear Science Abstracts"
+}

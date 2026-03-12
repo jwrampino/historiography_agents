@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn91068402/1905-09-14/ed-1/?sp=4"
+  ],
+  "batch": [
+    "ncu_haw_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/north carolina/",
+    "2/united states/north carolina/vance/",
+    "3/united states/north carolina/vance/henderson/"
+  ],
+  "contributor": [
+    "university of north carolina at chapel hill library, chapel hill, nc"
+  ],
+  "date": "1905-09-14",
+  "dates": [
+    "1905-09-14"
+  ],
+  "description": [
+    "THE HENDERSON GOLD LEAF THURSDAY SEPTEMBER 14 1905 f r X I He uuessed it 1 it II 111 I II A3 I III ft H The Gold Leaf THURSDAY SKPT 14 lUOr To Win Jo fone More action Iess said Morv courage More cheerful Iess sad Moiv goodness ISS bad More liking I88 hate More labor Iyss wait Dont Blame Booker Unduly A Sensitive Englishman Brooklyn Kajrlf A baldheaded man entered a New York hotel th other day and regis tered thus Mc London ling The clerk looked at the entry and politely asked him to write the rest of hin name That in all the name I have said the guest The clerk looked at him dubiously for a moment then thought he re membered his face Havent you been here before Yes the guest answered I was here two years ago At his earliest leisure the clerk looked up the registry of two years ago and found the following entry in the same handwriting Harry MHomb Jr M I Lon don Kng When next the guest came to the counter the cler k showed the old reg istry to him You wrote that didnt you Yes the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-12T17:36:01.731Z",
+  "group": [
+    "ndnp/ncu",
+    "university-of-north-carolina-chapel-hill-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn91068402/1905-09-14/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:0029587871A:1905091401:0376/full/pct:3.125/0/default.jpg#h=305&w=229",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:0029587871A:1905091401:0376/full/pct:6.25/0/default.jpg#h=611&w=459",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ncu/batch_ncu_haw_ver01/data/sn91068402/0029587871A/1905091401/0376.xml&format=alto_xml"
+  ],
+  "index": 181,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "henderson",
+    "vance",
+    "north carolina"
+  ],
+  "location_city": [
+    "henderson"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "vance"
+  ],
+  "location_state": [
+    "north carolina"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "5",
+    "2",
+    "1",
+    "a",
+    "7",
+    "0000000004",
+    "sn91068402",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn91068402"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "5",
+    "8",
+    "7",
+    "8",
+    "7",
+    "1",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn91068402-1905-09-14-ed-1-0376",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the gold leaf (henderson, n.c.) 1881-1911"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the gold leaf (henderson, n.c.) 1881-1911"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn91068402/1905-09-14/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn91068402/1905-09-14/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "henderson (n.c.)",
+    "united states",
+    "newspapers",
+    "henderson",
+    "vance",
+    "north carolina"
+  ],
+  "timestamp": "2023-08-13T07:41:49.900Z",
+  "title": "Image 4 of The gold leaf (Henderson, N.C.), September 14, 1905",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn91068402/1905-09-14/ed-1/?sp=4&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fncu%2Fbatch_ncu_haw_ver01%2Fdata%2Fsn91068402%2F0029587871A%2F1905091401%2F0376.xml&q=manifest+destiny&relevant_snippet=1"
+}

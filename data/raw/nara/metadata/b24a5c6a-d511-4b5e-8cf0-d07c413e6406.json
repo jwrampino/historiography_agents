@@ -1,0 +1,153 @@
+{
+  "dataControlGroup": {
+    "groupId": "ou=NREA,ou=groups",
+    "groupCd": "RMKC"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "false",
+  "digitalObjects": [
+    {
+      "objectFilename": "SanLee_001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/20/69/12006920/content/arcmedia/central-plains/kansas-city/6862011/SanLee_001.jpg",
+      "objectFileSize": 2380336,
+      "objectId": "16008807",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "SanLee_002.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/20/69/12006920/content/arcmedia/central-plains/kansas-city/6862011/SanLee_002.JPG",
+      "objectFileSize": 5035461,
+      "objectId": "16008810",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "SanLee_003.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/20/69/12006920/content/arcmedia/central-plains/kansas-city/6862011/SanLee_003.JPG",
+      "objectFileSize": 3102620,
+      "objectId": "16008811",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "SanLee_004.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/20/69/12006920/content/arcmedia/central-plains/kansas-city/6862011/SanLee_004.JPG",
+      "objectFileSize": 5423741,
+      "objectId": "16008812",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "SanLee_005.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/20/69/12006920/content/arcmedia/central-plains/kansas-city/6862011/SanLee_005.JPG",
+      "objectFileSize": 5130593,
+      "objectId": "16008813",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "SanLee_006.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/20/69/12006920/content/arcmedia/central-plains/kansas-city/6862011/SanLee_006.JPG",
+      "objectFileSize": 5120018,
+      "objectId": "16008814",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "SanLee_007.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/20/69/12006920/content/arcmedia/central-plains/kansas-city/6862011/SanLee_007.JPG",
+      "objectFileSize": 4873867,
+      "objectId": "16008815",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "SanLee.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/20/69/12006920/content/arcmedia/central-plains/kansas-city/6862011/SanLee.pdf",
+      "objectFileSize": 0,
+      "objectId": "16008809",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1685,
+        "logicalDate": "1685-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 21,
+      "inclusiveEndDate": {
+        "year": 2009,
+        "logicalDate": "2009-12-31"
+      },
+      "title": "Records of District Courts of the United States",
+      "naId": 350
+    },
+    {
+      "inclusiveStartDate": {
+        "month": 11,
+        "year": 1900,
+        "day": 14,
+        "logicalDate": "1900-11-14"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "U.S. District Court for the Eastern (St. Louis) Division of the Eastern District of Missouri. 2/28/1887-",
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 2,
+            "year": 1887,
+            "day": 28,
+            "logicalDate": "1887-02-28"
+          },
+          "naId": 10459091
+        }
+      ],
+      "inclusiveEndDate": {
+        "month": 5,
+        "year": 1925,
+        "day": 1,
+        "logicalDate": "1925-05-01"
+      },
+      "title": "Chinese Exclusion Case Files",
+      "naId": 6862011
+    }
+  ],
+  "title": "Chinese Exclusion Case File for Lee San",
+  "naId": 12006920,
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Kansas City",
+          "phone": "816-268-8000",
+          "address1": "400 West Pershing Road",
+          "postalCode": "64108",
+          "name": "National Archives at Kansas City",
+          "state": "MO",
+          "fax": "816-268-8038",
+          "email": "kansascity.archives@nara.gov",
+          "mailCode": "RM-KC"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  }
+}

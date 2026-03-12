@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84020422/1960-01-14/ed-1/?sp=3"
+  ],
+  "batch": [
+    "deu_ironman_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/delaware/",
+    "2/united states/delaware/kent/",
+    "3/united states/delaware/kent/smyrna/"
+  ],
+  "contributor": [
+    "university of delaware library, newark, de"
+  ],
+  "date": "1960-01-14",
+  "dates": [
+    "1960-01-14"
+  ],
+  "description": [
+    "EDUCATION IN THE SOVIET UNION Afvpnt nf C A IT C mivclll Ui OUUinik opill FCO U0 t Ft t 1 Interest in KllSSian duration By DR GEORGE V KIRK the Seaford Schools While at Smyrna Dr Kirk has been involved in a building program that has resulted in the addition of 14 classrooms a gymnasium and i n d u s t r i a shops building He has also been instrumental in strengthening the academic program by requiring five ors of all students and improv ing the schoolwide testing pro gram Dr Kirk is a member Smyrna Rotary Club of the of ficial board of Asbury Metho dist Church and of several pro fessional organizations With his wife Shirley and their three children Cheryl 8 George An drew 6 and John 4 he lives on Hamilton Way How It All Began Quite few months ago I received letter inviting me to put my name in nomination with those of other individuals throughout the United States in order to participate in a tour of the Sov iet Union The tour to be spon sored by the National Educa tion Association and the Ameri can Association of School ministrators was"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-12T17:57:47.802Z",
+  "group": [
+    "ndnp/deu",
+    "university-of-delaware-library-newark-de-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84020422/1960-01-14/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_ironman_ver02:data:sn84020422:00513684459:1960011401:0021/full/pct:6.25/0/default.jpg#h=411&w=289",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_ironman_ver02:data:sn84020422:00513684459:1960011401:0021/full/pct:12.5/0/default.jpg#h=822&w=579",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/deu/batch_deu_ironman_ver02/data/sn84020422/00513684459/1960011401/0021.xml&format=alto_xml"
+  ],
+  "index": 13,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "delaware",
+    "smyrna",
+    "kent"
+  ],
+  "location_city": [
+    "smyrna"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "kent"
+  ],
+  "location_state": [
+    "delaware"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "0000000003",
+    "8",
+    "5",
+    "6",
+    "9",
+    "sn84020422",
+    "4",
+    "3",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84020422"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "3",
+    "6",
+    "8",
+    "4",
+    "4",
+    "5",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84020422-1960-01-14-ed-1-0021",
+  "partof": [
+    "smyrna times (smyrna, del.) 1854-1987",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "smyrna times (smyrna, del.) 1854-1987"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84020422/1960-01-14/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84020422/1960-01-14/ed-1/"
+  ],
+  "shelf_id": "03",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "delaware",
+    "smyrna",
+    "newspapers",
+    "smyrna (del.)",
+    "kent"
+  ],
+  "timestamp": "2023-08-13T08:32:14.848Z",
+  "title": "Image 3 of Smyrna times (Smyrna, Del.), January 14, 1960",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84020422/1960-01-14/ed-1/?sp=3&q=soviet+union",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdeu%2Fbatch_deu_ironman_ver02%2Fdata%2Fsn84020422%2F00513684459%2F1960011401%2F0021.xml&q=soviet+union&relevant_snippet=1"
+}

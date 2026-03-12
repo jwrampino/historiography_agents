@@ -1,0 +1,167 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83030214/1919-01-11/ed-1/?sp=9"
+  ],
+  "batch": [
+    "dlc_brown_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1919-01-11",
+  "dates": [
+    "1919-01-11"
+  ],
+  "description": [
+    "Books Au th Studies of War and Peace Philosophical Essays Ry Willis Fletcher Johnson Ulealist Irenics Applied to All the Problems of the Great War yjig GREAT PKACB By 11 H Powers Crown s Si x 3 The Macmillau Company To hear tho other side is always s just and prorltable rule even though t tntolve nt times an cmbarrassing niultitude of counsels ln the vast task of pcaremaking which now lies before the world there are almost innumcrablc questions of essence and moment each one oi which has at least three sides instead of tho traditional two For each of them irvolvcs the interests rights and what not of two disputed nations and also the interests of all the naticna put together in the com monwealth of the world To consider them all in all their phases hic labor hoc ovus cst lt is such a task which Dr Powers here essaya with the serious purpose of ono who is not a propagandist with preconceived convictions and purposes unless thtre be a propaganda of idcal ism but who is an openminded seekcr Httcr light md truth Me discusses practicaly every issue that arises in the settlement of the war"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-12-09T13:42:01.942Z",
+  "group": [
+    "ndnp/dlc-2009_2010",
+    "library-of-congress-washington-dc-awardee-3"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83030214/1919-01-11/ed-1/?sp=9",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_brown_ver02:data:sn83030214:0020653235A:1919011101:0231/full/pct:3.125/0/default.jpg#h=260&w=209",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_brown_ver02:data:sn83030214:0020653235A:1919011101:0231/full/pct:6.25/0/default.jpg#h=521&w=418",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_brown_ver02:data:sn83030214:0020653235A:1919011101:0231/full/pct:12.5/0/default.jpg#h=1043&w=837",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_brown_ver02/data/sn83030214/0020653235A/1919011101/0231.xml&format=alto_xml"
+  ],
+  "index": 140,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "new york",
+    "united states",
+    "new york county",
+    "new york city"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "a",
+    "sn83030214",
+    "2",
+    "6",
+    "5",
+    "3",
+    "1",
+    "0000000009"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83030214"
+  ],
+  "number_page": [
+    "0000000009"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "6",
+    "5",
+    "3",
+    "2",
+    "3",
+    "5",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Due to strike, published jointly with other newspapers as: Combined New York morning newspapers",
+    "Combined New York Sunday newspapers",
+    "New-York daily tribune"
+  ],
+  "page_id": "sn83030214-1919-01-11-ed-1-0231",
+  "partof": [
+    "new-york tribune (new york [n.y.]) 1866-1924",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "new-york tribune (new york [n.y.]) 1866-1924"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83030214/1919-01-11/ed-1/?sp=9"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83030214/1919-01-11/ed-1/"
+  ],
+  "shelf_id": "09",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "new york",
+    "new york (state)",
+    "united states",
+    "https://id.oclc.org/worldcat/entity/e39pbjpj8ktvrv6gp6v6tp7pwc",
+    "https://id.oclc.org/worldcat/entity/e39qbtfrvqh7864jh4rdgbfdwc",
+    "new york county",
+    "new york county (n.y.)",
+    "newspapers",
+    "new york (n.y.)"
+  ],
+  "timestamp": "2024-12-09T18:27:06.278Z",
+  "title": "Image 9 of New-York tribune (New York [N.Y.]), January 11, 1919",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83030214/1919-01-11/ed-1/?sp=9&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_brown_ver02%2Fdata%2Fsn83030214%2F0020653235A%2F1919011101%2F0231.xml&q=great+war&relevant_snippet=1"
+}

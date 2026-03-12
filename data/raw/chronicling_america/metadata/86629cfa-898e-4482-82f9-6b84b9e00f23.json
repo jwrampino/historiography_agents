@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83030313/1906-03-04/ed-1/?sp=34"
+  ],
+  "batch": [
+    "dlc_osage_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1906-03-04",
+  "dates": [
+    "1906-03-04"
+  ],
+  "description": [
+    "3 PLANT 5h rzzzd Santiago MMMcL C dtPedicdtion cffirstl Monument Daiquiri Distinguished Army and Nav Officers Dedicate Tributes to American Valor CUBA GIVES GREETING1 u r ui wuiciaio ui me loicuiu icpuun Assist in Ceremonies in Memory of the Dead STIRRING SCENES RECALLEE Veterans of the Campaign Against Spaii Hold a Reunion on the Deserted Fields ON the morning of February 8 th United States transport Sumne left her anchorage in the EUs River bound for the historic am memorable battlefields of Cuba j carrying on her passenger lis some of the most distinguished of fleers of the army and navy who were tl participate in the dedication of battle mon uments erected on the fields of El Caney Ban Juan Guantanmo Da Guasima Hk land Daiquiri in memory of those win ifell upon the field of honor in the cam yaign of 1898 in that vicinity The party included representatives of th President of the United States the Wa end Navy Department and members of the Army of Santiago de Cuba and com prised the followingGeneral Adna R Chaffee president of the society and Mrs Chaffee and daughters Mrs G F Hamil ton and Miss Helen Dieutenant Colonel A"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-06-04T18:00:48.190Z",
+  "group": [
+    "sgpmiscnews/dlc",
+    "miscellaneous-newspaper"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83030313/1906-03-04/ed-1/?sp=34",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_osage_ver01:data:sn83030313:print1906:1906030401:0102/full/pct:3.125/0/default.jpg#h=283&w=204",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_osage_ver01:data:sn83030313:print1906:1906030401:0102/full/pct:6.25/0/default.jpg#h=566&w=408",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_osage_ver01:data:sn83030313:print1906:1906030401:0102/full/pct:12.5/0/default.jpg#h=1133&w=816",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/sgp/sgpbatches/batch_dlc_osage_ver01/data/sn83030313/print1906/1906030401/0102.xml&format=alto_xml"
+  ],
+  "index": 55,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "new york",
+    "new york county",
+    "new york city"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "r",
+    "1",
+    "p",
+    "0000000034",
+    "9",
+    "6",
+    "i",
+    "n",
+    "sn83030313",
+    "0",
+    "t"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83030313"
+  ],
+  "number_page": [
+    "0000000034"
+  ],
+  "number_reel": [
+    "p",
+    "r",
+    "i",
+    "n",
+    "t",
+    "1",
+    "9",
+    "0",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "New York daily herald"
+  ],
+  "page_id": "sn83030313-1906-03-04-ed-1-0102",
+  "partof": [
+    "serial and government publications division",
+    "chronicling america",
+    "the new york herald (new york [n.y.]) 1840-1920"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the new york herald (new york [n.y.]) 1840-1920"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83030313/1906-03-04/ed-1/?sp=34"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83030313/1906-03-04/ed-1/"
+  ],
+  "shelf_id": "034",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "new york",
+    "new york county (n.y.)",
+    "new york (state)",
+    "newspapers",
+    "new york county",
+    "new york (n.y.)"
+  ],
+  "timestamp": "2025-06-04T18:12:16.974Z",
+  "title": "Image 34 of The New York herald (New York [N.Y.]), March 4, 1906, (THIRD SECTION)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83030313/1906-03-04/ed-1/?sp=34&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fsgp%2Fsgpbatches%2Fbatch_dlc_osage_ver01%2Fdata%2Fsn83030313%2Fprint1906%2F1906030401%2F0102.xml&q=cuba&relevant_snippet=1"
+}

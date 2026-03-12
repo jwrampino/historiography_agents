@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86063325/1849-07-05/ed-1/?sp=1"
+  ],
+  "batch": [
+    "mohi_henri_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/missouri/",
+    "2/united states/missouri/howard/",
+    "3/united states/missouri/howard/glasgow/"
+  ],
+  "contributor": [
+    "state historical society of missouri; columbia, mo"
+  ],
+  "date": "1849-07-05",
+  "dates": [
+    "1849-07-05"
+  ],
+  "description": [
+    "Volume lO rUBUBIICO EVERY THURSDAY OJJice up stairs next tloor to Crenshaws Hulrl Entrance Water Street TEHMS OF PUBLICATION For one year if paid in advance 2 00 If nut paid before llie end of the year 3 00 TEKMSOF ADVERTISING One square 12 linos or lens One TolIar for the first and 00 cents fur cacli subsequent iusertion Liberal deductions made to Merchants and others who advertise by the year JOB PKINTINB Of every description executed with neatne and despatch on reasonable terms justices blanks and blank detps Neatly executed kept constantly on hand and for sale low agents for this rArrn V B Talmer Esq is authorized to pro euro Advertisements receive Subscriptions and nuke Collections for the Times it his of fices in the following cities Philadelphia NorthWest Corner Third and Chesnut streets Baltimore SouthEast Corner of Balti more and Calvert streets New York Tribune Buildings Boston No 5 State street Fayette Andrew J Herndon Hunts i Me Win D Malone liloomington Thomas U Sharp Marshall Wm H M Lewis Glasgow School f I HE Spring Session of this School com JL inenced the 3rd intt Terms of tuition tier Session of five months For Reading Writing"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T12:01:51.768Z",
+  "group": [
+    "ndnp/mohi",
+    "state-historical-society-of-missouri-columbia-mo-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86063325/1849-07-05/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1849070501:0164/full/pct:6.25/0/default.jpg#h=396&w=324",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1849070501:0164/full/pct:12.5/0/default.jpg#h=792&w=649",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mohi/batch_mohi_henri_ver01/data/sn86063325/00200292455/1849070501/0164.xml&format=alto_xml"
+  ],
+  "index": 110,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "howard county",
+    "howard",
+    "missouri",
+    "glasgow"
+  ],
+  "location_city": [
+    "glasgow"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "howard"
+  ],
+  "location_state": [
+    "missouri"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "9",
+    "5",
+    "4",
+    "sn86063325",
+    "2",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86063325"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "0",
+    "2",
+    "9",
+    "2",
+    "4",
+    "5",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86063325-1849-07-05-ed-1-0164",
+  "partof": [
+    "glasgow weekly times (glasgow, mo.) 1848-1861",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "glasgow weekly times (glasgow, mo.) 1848-1861"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86063325/1849-07-05/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86063325/1849-07-05/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "glasgow (mo.)",
+    "united states",
+    "howard county",
+    "howard",
+    "newspapers",
+    "missouri",
+    "howard county (mo.)",
+    "glasgow"
+  ],
+  "timestamp": "2022-10-17T15:56:23.563Z",
+  "title": "Image 1 of Glasgow weekly times (Glasgow, Mo.), July 5, 1849",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86063325/1849-07-05/ed-1/?sp=1&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmohi%2Fbatch_mohi_henri_ver01%2Fdata%2Fsn86063325%2F00200292455%2F1849070501%2F0164.xml&q=slavery&relevant_snippet=1"
+}

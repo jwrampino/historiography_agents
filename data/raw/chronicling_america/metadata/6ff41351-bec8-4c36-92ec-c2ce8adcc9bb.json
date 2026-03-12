@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88084115/1885-01-01/ed-1/?sp=2"
+  ],
+  "batch": [
+    "dlc_cheetah_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/pennsylvania/",
+    "2/united states/pennsylvania/cumberland/",
+    "3/united states/pennsylvania/cumberland/carlisle/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1885-01-01",
+  "dates": [
+    "1885-01-01"
+  ],
+  "description": [
+    "The following Bills and Resolutions relating to Indians have come before Congress thus far this Session Bill to amend an act entitled 66 An act to grant a right of way for a Railway and tele graph line through the lands of the Choctaw and Chickasaw Nations of Indians to the St Louis and San Francisco Railway Company and for other purposes Senate Bill 2355 Resolution of Senate to investigate leasing of lands in Indian Territory Passed Bill to provide for the allotment of lands in severalty to Indians on the various reservations and to extend the protection of the laws of the States and Territories over the Indians and for other purposes Referred to House committee on Indian Affairs Senate Bill 48 the Coke Bill This is Resolution of Senate to print testimony rela tive to condition of California Indians Passed Bill to provide for the sale of the Cherokee Reservation in the state of Arkansas Amend ed and passed the Senate Resolution of inquiry in Senate relative to sale of their lands west of Arkansas River Passed S B 1574 Petition relative to leasing lands on Crow res ervation Resolution of inquiry in Senate rel ative to leasing"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-09-14T05:37:17.412Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88084115/1885-01-01/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cheetah_ver02:data:sn88084115:00543171748:1885010101:0084/full/pct:6.25/0/default.jpg#h=371&w=259",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cheetah_ver02:data:sn88084115:00543171748:1885010101:0084/full/pct:12.5/0/default.jpg#h=742&w=519",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_cheetah_ver02/data/sn88084115/00543171748/1885010101/0084.xml&format=alto_xml"
+  ],
+  "index": 101,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "cumberland",
+    "cumberland county",
+    "carlisle",
+    "pennsylvania",
+    "united states"
+  ],
+  "location_city": [
+    "carlisle"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cumberland"
+  ],
+  "location_state": [
+    "pennsylvania"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn88084115",
+    "4",
+    "8",
+    "3",
+    "5",
+    "0000000002",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88084115"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "3",
+    "1",
+    "7",
+    "1",
+    "7",
+    "4",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88084115-1885-01-01-ed-1-0084",
+  "partof": [
+    "the morning star (carlisle, pa.) 1882-1887",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the morning star (carlisle, pa.) 1882-1887"
+  ],
+  "publication_frequency": [
+    "monthly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88084115/1885-01-01/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88084115/1885-01-01/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "cumberland",
+    "cumberland county (pa.)",
+    "carlisle",
+    "cumberland county",
+    "pennsylvania",
+    "carlisle (pa.)",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2025-09-14T05:51:02.846Z",
+  "title": "Image 2 of The morning star (Carlisle, Pa.), January 1, 1885",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88084115/1885-01-01/ed-1/?sp=2&q=indian+territory",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_cheetah_ver02%2Fdata%2Fsn88084115%2F00543171748%2F1885010101%2F0084.xml&q=indian+territory&relevant_snippet=1"
+}

@@ -1,0 +1,285 @@
+{
+  "accessionNumbers": [
+    "1970-NLF-132"
+  ],
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "subjects": [
+    {
+      "heading": "Puerto Rico",
+      "authorityType": "geographicPlaceName",
+      "naId": 10044925
+    },
+    {
+      "heading": "Independent regulatory commissions",
+      "authorityType": "topicalSubject",
+      "naId": 10639234
+    },
+    {
+      "heading": "Legislation",
+      "authorityType": "topicalSubject",
+      "naId": 10638711
+    },
+    {
+      "heading": "Territories and possessions",
+      "authorityType": "topicalSubject",
+      "naId": 10641294
+    },
+    {
+      "heading": "Treaties",
+      "authorityType": "topicalSubject",
+      "naId": 10644101
+    }
+  ],
+  "useRestriction": {
+    "note": "Some or all of the records may be subject to copyright restrictions. Researchers should contact the publisher for further information.",
+    "status": "Restricted - Possibly"
+  },
+  "audiovisual": "false",
+  "title": "Puerto Rico (3)",
+  "coverageEndDate": {
+    "month": 2,
+    "year": 1976,
+    "logicalDate": "1976-02-29"
+  },
+  "physicalOccurrences": [
+    {
+      "extent": "75 pages",
+      "referenceUnits": [
+        {
+          "city": "Ann Arbor",
+          "phone": "734-205-0555",
+          "address1": "1000 Beal Avenue",
+          "postalCode": "48109-2114",
+          "name": "Gerald R. Ford Library",
+          "state": "MI",
+          "fax": "734-205-0571",
+          "email": "ford.library@nara.gov",
+          "mailCode": "LP-GRF"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper",
+          "containerId": "27",
+          "reproductionCount": 75
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "note": "Some material may have been removed due to donor or other restrictions.",
+    "status": "Restricted - Possibly"
+  },
+  "coverageStartDate": {
+    "month": 4,
+    "year": 1975,
+    "logicalDate": "1975-04-01"
+  },
+  "dataControlGroup": {
+    "groupName": "Gerald R. Ford Library",
+    "groupId": "ou=NLGRF,ou=groups",
+    "groupCd": "LPGRF"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "003900173",
+      "type": "PRESNET Number"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "16988274_Page_02_Image_0001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/ford/grf-0039/635863/16988274/16988274_Page_02_Image_0001.jpg",
+      "objectFileSize": 1234,
+      "objectId": "215448589",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "16988274_Page_02_Image_0002.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/ford/grf-0039/635863/16988274/16988274_Page_02_Image_0002.jpg",
+      "objectFileSize": 1234,
+      "objectId": "215448590",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "16988274_Page_03_Image_0001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/ford/grf-0039/635863/16988274/16988274_Page_03_Image_0001.jpg",
+      "objectFileSize": 1234,
+      "objectId": "215448591",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "16988274_Page_04_Image_0001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/ford/grf-0039/635863/16988274/16988274_Page_04_Image_0001.jpg",
+      "objectFileSize": 1234,
+      "objectId": "215448592",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "16988274_Page_05_Image_0001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/ford/grf-0039/635863/16988274/16988274_Page_05_Image_0001.jpg",
+      "objectFileSize": 1234,
+      "objectId": "215448593",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "16988274_Page_06_Image_0001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/ford/grf-0039/635863/16988274/16988274_Page_06_Image_0001.jpg",
+      "objectFileSize": 1234,
+      "objectId": "215448594",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "16988274_Page_07_Image_0001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/ford/grf-0039/635863/16988274/16988274_Page_07_Image_0001.jpg",
+      "objectFileSize": 1234,
+      "objectId": "215448595",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "16988274_Page_08_Image_0001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/ford/grf-0039/635863/16988274/16988274_Page_08_Image_0001.jpg",
+      "objectFileSize": 1234,
+      "objectId": "215448596",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "16988274_Page_09_Image_0001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/ford/grf-0039/635863/16988274/16988274_Page_09_Image_0001.jpg",
+      "objectFileSize": 1234,
+      "objectId": "215448597",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "16988274_Page_10_Image_0001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/ford/grf-0039/635863/16988274/16988274_Page_10_Image_0001.jpg",
+      "objectFileSize": 1234,
+      "objectId": "215448598",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "16988274_Page_11_Image_0001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/ford/grf-0039/635863/16988274/16988274_Page_11_Image_0001.jpg",
+      "objectFileSize": 1234,
+      "objectId": "215448599",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "16988274_Page_12_Image_0001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/ford/grf-0039/635863/16988274/16988274_Page_12_Image_0001.jpg",
+      "objectFileSize": 1234,
+      "objectId": "215448600",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "16988274_Page_13_Image_0001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/ford/grf-0039/635863/16988274/16988274_Page_13_Image_0001.jpg",
+      "objectFileSize": 1234,
+      "objectId": "215448601",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "16988274_Page_14_Image_0001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/ford/grf-0039/635863/16988274/16988274_Page_14_Image_0001.jpg",
+      "objectFileSize": 1234,
+      "objectId": "215448602",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "16988274_Page_15_Image_0001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/ford/grf-0039/635863/16988274/16988274_Page_15_Image_0001.jpg",
+      "objectFileSize": 1234,
+      "objectId": "215448603",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "16988274_Page_16_Image_0001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/ford/grf-0039/635863/16988274/16988274_Page_16_Image_0001.jpg",
+      "objectFileSize": 1234,
+      "objectId": "215448604",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "16988274_Page_17_Image_0001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/ford/grf-0039/635863/16988274/16988274_Page_17_Image_0001.jpg",
+      "objectFileSize": 1234,
+      "objectId": "215448605",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "16988274_Page_18_Image_0001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/ford/grf-0039/635863/16988274/16988274_Page_18_Image_0001.jpg",
+      "objectFileSize": 1234,
+      "objectId": "215448606",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "16988274.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/ford/grf-0039/635863/16988274.pdf",
+      "objectFileSize": 1234,
+      "objectId": "176237453",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "GRF-0039",
+      "inclusiveStartDate": {
+        "year": 1974,
+        "logicalDate": "1974-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "year": 1977,
+        "logicalDate": "1977-12-31"
+      },
+      "title": "James M. Cannon Files (Ford Administration)",
+      "naId": 635862
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1972,
+        "logicalDate": "1972-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "President (1974-1977 : Ford). Domestic Council. 8/9/1974-1/20/1977",
+          "abolishDate": {
+            "month": 1,
+            "year": 1977,
+            "day": 20,
+            "logicalDate": "1977-01-20"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 8,
+            "year": 1974,
+            "day": 9,
+            "logicalDate": "1974-08-09"
+          },
+          "naId": 10463018
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1977,
+        "logicalDate": "1977-12-31"
+      },
+      "title": "James Cannon's Issues Files",
+      "naId": 635863
+    }
+  ],
+  "scopeAndContentNote": "This file contains materials relating to the Ad hoc Advisory Committee on Puerto Rico and the proposed compact of permanent union.",
+  "naId": 16988274
+}

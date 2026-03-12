@@ -1,0 +1,154 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84026749/1933-05-04/ed-1/?sp=26"
+  ],
+  "batch": [
+    "dlc_deanwood_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1933-05-04",
+  "dates": [
+    "1933-05-04"
+  ],
+  "description": [
+    "EDITORIAL PAGE OF THE Climbing Is Hard Flying Very Easy x k JR tsS i 4xx \u00fcBIUbJSiv yVjfc u wb LALBALU MbmgdgK_j4H AREODROME purnea DOTTED LINES SHOW HOW ENGLISHMEN FLEW ABOUND AND OVER MT EVEREST AND WERE THE FIRST MEN THAT EVER LOOKED DOWN ON THAT TALLEST PEAK The highest mountain in the giant Himalayan range in Asia called Mt Everest 29002 feet high has defied the climb ing power of man through all the ages to this day For thousands of years primitive men never dreamed of trying to climb to the top of the frightful highest peak on earth Even recently natives have believed that to climb that mountain devoted to the gods would be blasphemy and that whoever should succeed would be destroyed Evidently the gods of that mountain region did not know that flying machines were coming so they made no rule about FLYING over their mountain The other day a party of Englishmen following the dotted line from the airdrome near the base of the mountains flew up a carefully chosen path then all around Mt Everest and down again in safety It was necessary to use oxygen at that height the thin air being"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-07T20:30:46.122Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84026749/1933-05-04/ed-1/?sp=26",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deanwood_ver01:data:sn84026749:00205696556:1933050401:0108/full/pct:3.125/0/default.jpg#h=302&w=239",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deanwood_ver01:data:sn84026749:00205696556:1933050401:0108/full/pct:6.25/0/default.jpg#h=605&w=479",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_deanwood_ver01/data/sn84026749/00205696556/1933050401/0108.xml&format=alto_xml"
+  ],
+  "index": 142,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "6",
+    "5",
+    "9",
+    "sn84026749",
+    "0000000026",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84026749"
+  ],
+  "number_page": [
+    "0000000026"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "5",
+    "6",
+    "9",
+    "6",
+    "5",
+    "5",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Washington times herald"
+  ],
+  "page_id": "sn84026749-1933-05-04-ed-1-0108",
+  "partof": [
+    "serial and government publications division",
+    "the washington times (washington [d.c.]) 1902-1939",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington times (washington [d.c.]) 1902-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84026749/1933-05-04/ed-1/?sp=26"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84026749/1933-05-04/ed-1/"
+  ],
+  "shelf_id": "26",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2023-08-08T02:49:18.297Z",
+  "title": "Image 26 of The Washington times (Washington [D.C.]), May 4, 1933",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84026749/1933-05-04/ed-1/?sp=26&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_deanwood_ver01%2Fdata%2Fsn84026749%2F00205696556%2F1933050401%2F0108.xml&q=child+labor&relevant_snippet=1"
+}

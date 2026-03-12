@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85047611/1922-05-17/ed-1/?sp=1"
+  ],
+  "batch": [
+    "in_collins_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/indiana/",
+    "2/united states/indiana/marion/",
+    "3/united states/indiana/marion/indianapolis/"
+  ],
+  "contributor": [
+    "indiana state library"
+  ],
+  "date": "1922-05-17",
+  "dates": [
+    "1922-05-17"
+  ],
+  "description": [
+    "YOULL LIKE HIM If you dont already know him meet Everett True in today s Times VOL xxxv PROMISE RIOT AND BOMBING IN LABOR WAR Letters Cry Defiance at Law and Capitalists BUMPING OFF LIST Others Are Marked for Killings Beside Police CHICAGO May 17Red rtot and de struction are foretold In dozens of threatening letters whih catne through the malls today to high city officials the newspapers the police prosecutors and the judges The letters crying mad defiance at capitalists orderly society and the Inndis wage award are signed by such titles as Real Bombers and The Burners of Chicago As an alternate to such terrorism the letters dictated that the citizens repu diate the Landis award Chief of Police Charles C Fitzmorrls and States Attorney Robert E Crowe were among those receiving warning let 1 ters The communications generally were j typewritten and contained numerous j misspelled words ORDFK COPS TO KILL i fucf Fitzmorrls issued an order shoot to kill all suspeefs found loiter iug around buildings This tion fo lowed the burning last night of seventy two apartment buildings by the terror ists One of the letters asserted that a bumping ofT list has been made"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-22T13:10:43.657Z",
+  "group": [
+    "ndnp/in",
+    "indiana-state-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85047611/1922-05-17/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_collins_ver02:data:sn85047611:00383348651:1922051701:0397/full/pct:6.25/0/default.jpg#h=508&w=406",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_collins_ver02:data:sn85047611:00383348651:1922051701:0397/full/pct:12.5/0/default.jpg#h=1017&w=813",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/in/batch_in_collins_ver02/data/sn85047611/00383348651/1922051701/0397.xml&format=alto_xml"
+  ],
+  "index": 155,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "marion",
+    "marion county",
+    "indiana",
+    "indianapolis",
+    "united states"
+  ],
+  "location_city": [
+    "indianapolis"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "marion"
+  ],
+  "location_state": [
+    "indiana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000001",
+    "8",
+    "3",
+    "6",
+    "5",
+    "4",
+    "1",
+    "sn85047611"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85047611"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "8",
+    "3",
+    "3",
+    "4",
+    "8",
+    "6",
+    "5",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85047611-1922-05-17-ed-1-0397",
+  "partof": [
+    "indiana daily times (indianapolis [ind.]) 1914-1922",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "indiana daily times (indianapolis [ind.]) 1914-1922"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85047611/1922-05-17/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85047611/1922-05-17/ed-1/"
+  ],
+  "shelf_id": "01",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "marion county (ind.)",
+    "marion",
+    "indianapolis (ind.)",
+    "marion county",
+    "indiana",
+    "indianapolis",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-08-22T19:54:19.656Z",
+  "title": "Image 1 of Indiana daily times (Indianapolis [Ind.]), May 17, 1922, (Home Edition)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85047611/1922-05-17/ed-1/?sp=1&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fin%2Fbatch_in_collins_ver02%2Fdata%2Fsn85047611%2F00383348651%2F1922051701%2F0397.xml&q=terrorism&relevant_snippet=1"
+}

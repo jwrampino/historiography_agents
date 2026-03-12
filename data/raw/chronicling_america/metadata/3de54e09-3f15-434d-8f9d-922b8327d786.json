@@ -1,0 +1,174 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/10021978/1910-03-02/ed-1/?sp=5"
+  ],
+  "batch": [
+    "vi_mcqueen_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/georgia/",
+    "2/united states/georgia/fulton/",
+    "3/united states/georgia/fulton/atlanta/",
+    "1/united states/virginia/",
+    "2/united states/virginia/henrico/",
+    "3/united states/virginia/henrico/richmond/"
+  ],
+  "contributor": [
+    "library of virginia; richmond, va"
+  ],
+  "date": "1910-03-02",
+  "dates": [
+    "1910-03-02"
+  ],
+  "description": [
+    "260 THE PRESBYTERIA ble good company watchful attention to practical effects of work food exercise and hours these are among the great physical factors that determine the health of our bodies and to which it is a Christian duty to give heed constantly and conscientiously A cheerful spirit a happy disposition an earnest looking for the best always a clear mind a kindly feeling toward rii win iciiuw men a conscience void ot ottense toward God and man a peace born of consciousness of sin pardoned through Christ these are the spiritual conditions that induce physical wellbeing and happiness no less than the welfare of the soul CHRISTIANITY AND THE SOCIAL CRISIS By Rev E C Gordon D D Those who are well acquainted with the current discussion of the subject indicated by the title of this article will agree that Professor Walter Rauschenbusch is a representative disputant He is a fileleader among the Christian socialists He stands for many of the views advocated by the postmillennarians The socalled liberal Christians of every class and creed will follow his arguments with approval and accept his conclusions without hesitation In view of the representative character of his discussion some criticisms are"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-02-06T12:45:08.511Z",
+  "group": [
+    "ndnp/vi",
+    "library-of-virginia-richmond-va-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/10021978/1910-03-02/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mcqueen_ver01:data:10021978:00271764686:1910030201:0259/full/pct:6.25/0/default.jpg#h=304&w=217",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mcqueen_ver01:data:10021978:00271764686:1910030201:0259/full/pct:12.5/0/default.jpg#h=608&w=434",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/vi/batch_vi_mcqueen_ver01/data/10021978/00271764686/1910030201/0259.xml&format=alto_xml"
+  ],
+  "index": 116,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "richmond",
+    "atlanta",
+    "henrico",
+    "fulton",
+    "virginia",
+    "georgia",
+    "united states"
+  ],
+  "location_city": [
+    "atlanta",
+    "richmond"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "fulton",
+    "henrico"
+  ],
+  "location_state": [
+    "georgia",
+    "virginia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "2",
+    "10021978",
+    "6",
+    "8",
+    "4",
+    "1",
+    "7",
+    "0000000005"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "10021978"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "1",
+    "7",
+    "6",
+    "4",
+    "6",
+    "8",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "10021978-1910-03-02-ed-1-0259",
+  "partof": [
+    "the presbyterian of the south : [combining the] southwestern presbyterian, central presbyterian, southern presbyterian (atlanta, ga.) 1909-1931",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the presbyterian of the south : [combining the] southwestern presbyterian, central presbyterian, southern presbyterian (atlanta, ga.) 1909-1931"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/10021978/1910-03-02/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/10021978/1910-03-02/ed-1/"
+  ],
+  "shelf_id": "05",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "presbyterians",
+    "presbyterian church",
+    "presbyterian church in the u.s.",
+    "atlanta (ga.)",
+    "richmond (va.)",
+    "richmond",
+    "atlanta",
+    "henrico",
+    "fulton",
+    "virginia",
+    "georgia",
+    "united states",
+    "newspapers",
+    "presbyterian church in the u.s"
+  ],
+  "timestamp": "2024-02-07T23:16:56.912Z",
+  "title": "Image 5 of The Presbyterian of the South : [combining the] Southwestern Presbyterian, Central Presbyterian, Southern Presbyterian (Atlanta, Ga.), March 2, 1910",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/10021978/1910-03-02/ed-1/?sp=5&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fvi%2Fbatch_vi_mcqueen_ver01%2Fdata%2F10021978%2F00271764686%2F1910030201%2F0259.xml&q=reconstruction&relevant_snippet=1"
+}

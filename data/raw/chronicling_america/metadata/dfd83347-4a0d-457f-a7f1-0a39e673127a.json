@@ -1,0 +1,165 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85038292/1898-11-26/ed-1/?sp=1"
+  ],
+  "batch": [
+    "mdu_douglass_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/maryland/",
+    "2/united states/maryland/carroll/",
+    "3/united states/maryland/carroll/westminster/"
+  ],
+  "contributor": [
+    "university of maryland, college park, md"
+  ],
+  "date": "1898-11-26",
+  "dates": [
+    "1898-11-26"
+  ],
+  "description": [
+    "1 PER ANNUM jfV jhiL SdQ Wft MiCrt\u00df PW Young and old find joy in this one The goods are coming in on every train llr store is crowded to overflowing ther goods must make way for this all important stocklust now We cannot condense this great stock sufficiently So only one more thing to do Prices must suffer Room we must have These hints from the many The Bargains are principally from our Second Floor as there is where the space is wanted Handsome T f Wraps 1 ay r we have about sixty handsome p lush FyZ 2 Capes all elegantly V i made of fine plush and beautifully triiu med and lined i 8 of j them until now have 9 i 9a been sls and 8121 s today they go on c sale at DOLLARS Each __ The rest of them are jl j h the regular lO and uM I 1 0 ones also splen I fy V didly trimmed but j not so elaborate we say now SEVEN DOLLARS EACH Unt you must haste they will last but a day or two at these greatly reduced prices rJ Childrens Ve mean for Girls JAv"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-03-01T18:24:17.918Z",
+  "group": [
+    "ndnp/mdu",
+    "university-of-maryland-college-park-college-park-md-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85038292/1898-11-26/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623987:1898112601:0211/full/pct:3.125/0/default.jpg#h=292&w=215",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623987:1898112601:0211/full/pct:6.25/0/default.jpg#h=584&w=431",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623987:1898112601:0211/full/pct:12.5/0/default.jpg#h=1168&w=863",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mdu/batch_mdu_douglass_ver01/data/sn85038292/00415623987/1898112601/0211.xml&format=alto_xml"
+  ],
+  "index": 143,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "carroll county",
+    "maryland",
+    "westminster",
+    "carroll",
+    "united states"
+  ],
+  "location_city": [
+    "westminster"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "carroll"
+  ],
+  "location_state": [
+    "maryland"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn85038292",
+    "9",
+    "0000000001",
+    "2",
+    "6",
+    "5",
+    "3",
+    "8",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85038292"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "2",
+    "3",
+    "9",
+    "8",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85038292-1898-11-26-ed-1-0211",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the democratic advocate (westminster, md.) 1865-1972"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the democratic advocate (westminster, md.) 1865-1972"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85038292/1898-11-26/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85038292/1898-11-26/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "carroll county",
+    "politics and government",
+    "carroll",
+    "westminster",
+    "maryland",
+    "newspapers",
+    "carroll county (md.)"
+  ],
+  "timestamp": "2023-03-07T07:33:40.945Z",
+  "title": "Image 1 of The Democratic advocate (Westminster, Md.), November 26, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85038292/1898-11-26/ed-1/?sp=1&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmdu%2Fbatch_mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623987%2F1898112601%2F0211.xml&q=manifest+destiny&relevant_snippet=1"
+}

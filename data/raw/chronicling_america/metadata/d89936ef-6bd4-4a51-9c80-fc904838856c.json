@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82014085/1946-08-09/ed-1/?sp=5"
+  ],
+  "batch": [
+    "ct_kendall_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/connecticut/",
+    "2/united states/connecticut/new haven/",
+    "3/united states/connecticut/new haven/waterbury/"
+  ],
+  "contributor": [
+    "connecticut state library, hartford, ct"
+  ],
+  "date": "1946-08-09",
+  "dates": [
+    "1946-08-09"
+  ],
+  "description": [
+    "Scrap Dearth Cuts Steel Production New York Aug 9NEAAn ther crisis is looming on the indus trial horizon just when everything seemed to be going nicely at last this time it isnt strikes although strikes are an important indirect factor Its a shortage of steel scrap Only about 3 percent of the steel industrys open hearth furnaces are shut down now But if the flow of scrap continues at the present poor rate mill inventories will be virtually gone in four to six weeks American Iron and Steel Institute officials predict Such an eventuality would natur ally affect all manufacturing de pendent on steel from locomotives to common pins A continued short age would repeat the steel strike story of last Winterunemploy ment retarded Industrial recovery further swelling of unsatisfied con sumer demand and another serious inflationary threat To understand the shortage it is necessary to understand first of all that the steel industry must feed upon itself in order to exist By the open hearth method which pro duces about 90 percent of our steel scrap and pig iron are used in ap proximately 5050 proportions Elec tric furnaces use almost all scrap Principal Causes The principal causes of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-06-01T13:39:24.930Z",
+  "group": [
+    "ndnp/ct",
+    "connecticut-state-library-hartford-ct-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82014085/1946-08-09/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_kendall_ver01:data:sn82014085:00393346875:1946080901:0515/full/pct:6.25/0/default.jpg#h=440&w=321",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_kendall_ver01:data:sn82014085:00393346875:1946080901:0515/full/pct:12.5/0/default.jpg#h=880&w=643",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ct/batch_ct_kendall_ver01/data/sn82014085/00393346875/1946080901/0515.xml&format=alto_xml"
+  ],
+  "index": 75,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "waterbury",
+    "connecticut",
+    "united states",
+    "new haven"
+  ],
+  "location_city": [
+    "waterbury"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new haven"
+  ],
+  "location_state": [
+    "connecticut"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "3",
+    "4",
+    "6",
+    "5",
+    "1",
+    "7",
+    "0000000005",
+    "sn82014085",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82014085"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "9",
+    "3",
+    "3",
+    "4",
+    "6",
+    "8",
+    "7",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82014085-1946-08-09-ed-1-0515",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the waterbury democrat (waterbury, conn.) 1917-1946"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the waterbury democrat (waterbury, conn.) 1917-1946"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82014085/1946-08-09/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82014085/1946-08-09/ed-1/"
+  ],
+  "shelf_id": "05",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "waterbury",
+    "connecticut",
+    "newspapers",
+    "new haven",
+    "waterbury (conn.)"
+  ],
+  "timestamp": "2023-06-28T22:27:28.174Z",
+  "title": "Image 5 of The Waterbury Democrat (Waterbury, Conn.), August 9, 1946",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82014085/1946-08-09/ed-1/?sp=5&q=nuclear",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fct%2Fbatch_ct_kendall_ver01%2Fdata%2Fsn82014085%2F00393346875%2F1946080901%2F0515.xml&q=nuclear&relevant_snippet=1"
+}

@@ -1,0 +1,165 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn89051163/1898-04-20/ed-1/?sp=7"
+  ],
+  "batch": [
+    "arhi_aerosmith_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/arkansas/",
+    "2/united states/arkansas/jefferson/",
+    "3/united states/arkansas/jefferson/pine bluff/"
+  ],
+  "contributor": [
+    "arkansas state archives"
+  ],
+  "date": "1898-04-20",
+  "dates": [
+    "1898-04-20"
+  ],
+  "description": [
+    "THE SENATE DECLARES FOR WAR Special To The Graphic WASHINGTON April 16The Senate at 7 oclock tonight passed the Foraker resolution recognizing the Inde pendence of the present Republic of Cuba and declaring ar against Spain The vote was 67 to 21 It is believed at the House will pass this resolution or something nearly as strong as a compromise early next week and that fighting will begin not later than Wednesday IE Is Mrs Jefferson Davis Opinion of a War With Spain ScrippsMcRae Telepram SAVANNAH GA April 18Mrs Jefferson Davis is out in a letter against war with Spain She says it will injure the South The brunt of the war will have to be borne by our people while all the contracts will go to the North Our cities on the sea coast will be destroyed and we must pay our percentage of pen sions She thinks there may be some outcome for the South but cannot see it She says she would not mind the war if the blowing up of the Maine was the cause but hates to see war waged on ac count of sympathy for that miserable mulatto race in Cuba I BUFFALO BILL"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-12-02T16:54:53.444Z",
+  "group": [
+    "ndnp/arhi",
+    "arkansas-state-archives-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn89051163/1898-04-20/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_aerosmith_ver01:data:sn89051163:00393342626:1898042001:0209/full/pct:6.25/0/default.jpg#h=462&w=282",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_aerosmith_ver01:data:sn89051163:00393342626:1898042001:0209/full/pct:12.5/0/default.jpg#h=925&w=565",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/arhi/batch_arhi_aerosmith_ver01/data/sn89051163/00393342626/1898042001/0209.xml&format=alto_xml"
+  ],
+  "index": 53,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "arkansas",
+    "jefferson county",
+    "pine bluff",
+    "jefferson"
+  ],
+  "location_city": [
+    "pine bluff"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "jefferson"
+  ],
+  "location_state": [
+    "arkansas"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn89051163",
+    "9",
+    "2",
+    "6",
+    "4",
+    "3",
+    "0000000007",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn89051163"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "9",
+    "3",
+    "3",
+    "4",
+    "2",
+    "6",
+    "2",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Pine Bluff graphic"
+  ],
+  "page_id": "sn89051163-1898-04-20-ed-1-0209",
+  "partof": [
+    "serial and government publications division",
+    "semi=weekly graphic (pine bluff, ark.) 1895-1902",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "semi=weekly graphic (pine bluff, ark.) 1895-1902"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn89051163/1898-04-20/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn89051163/1898-04-20/ed-1/"
+  ],
+  "shelf_id": "7",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "https://id.oclc.org/worldcat/entity/e39pbjjt34ykpvxydcwh3wkmt3",
+    "pine bluff (ark.)",
+    "arkansas",
+    "https://id.oclc.org/worldcat/entity/e39pbjxgtmbhxdmvvyyqkycrkd",
+    "jefferson county",
+    "pine bluff",
+    "newspapers",
+    "jefferson",
+    "jefferson county (ark.)"
+  ],
+  "timestamp": "2024-12-03T02:40:01.049Z",
+  "title": "Image 7 of Semi=weekly graphic (Pine Bluff, Ark.), April 20, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn89051163/1898-04-20/ed-1/?sp=7&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Farhi%2Fbatch_arhi_aerosmith_ver01%2Fdata%2Fsn89051163%2F00393342626%2F1898042001%2F0209.xml&q=cuba&relevant_snippet=1"
+}

@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85053223/1950-12-21/ed-1/?sp=2"
+  ],
+  "batch": [
+    "mthi_dillon_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/montana/",
+    "2/united states/montana/sanders/",
+    "3/united states/montana/sanders/hot springs/",
+    "3/united states/montana/sanders/camas/"
+  ],
+  "contributor": [
+    "montana historical society; helena, mt"
+  ],
+  "date": "1950-12-21",
+  "dates": [
+    "1950-12-21"
+  ],
+  "description": [
+    "WEEKLY NEWS ANALYSIS Truman Attlee Talk Over World Situation U N Soldiers Retreat WagePrice Controls Are Hinted EDITORS NOTE Whu plalana art axpreaieS la these eelsmas they are these es Western Newspaper Unlona aews analysts and aet neeessarlly es this newspaper SINANJU M J3P if A X jwRTH KOREA vk 4 WUTH A ZIKOREA Communist armies estimated to total 1000000 men plunged out of Manchuria and smashed the United Nations offensive that was launched to end the war Pyongyang capital of North Korea was lost and UN troops retreated southward Military observers were hesitant to name a probable defense line One possibility seemed just north of Seoul capital of South Korea ERUMANATTLEE For Unity and Peace Prime Minister Attlee of Britain and President Truman held a series of conferences in Washington during which the leaders of the two most powerful democratic nations dis cussed the world situation in general and the Korean crisis in particular Although no official announcement had been made on topics under dis cussion reliable sources said they tried to solve three questions 1 Should the divided badly out numbered and already reduced forces of the U N be withdrawn from Korea as soon as possible or"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T13:49:55.370Z",
+  "group": [
+    "ndnp/mthi",
+    "montana-historical-society-helena-mt-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85053223/1950-12-21/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_dillon_ver01:data:sn85053223:00517178470:1950122101:0401/full/pct:6.25/0/default.jpg#h=346&w=285",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_dillon_ver01:data:sn85053223:00517178470:1950122101:0401/full/pct:12.5/0/default.jpg#h=692&w=570",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_dillon_ver01/data/sn85053223/00517178470/1950122101/0401.xml&format=alto_xml"
+  ],
+  "index": 112,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "hot springs",
+    "united states",
+    "sanders",
+    "montana",
+    "camas"
+  ],
+  "location_city": [
+    "hot springs",
+    "camas"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "sanders"
+  ],
+  "location_state": [
+    "montana"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn85053223",
+    "5",
+    "1",
+    "4",
+    "7",
+    "0000000002",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85053223"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "1",
+    "7",
+    "8",
+    "4",
+    "7",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85053223-1950-12-21-ed-1-0401",
+  "partof": [
+    "the camas hot springs exchange (camas, mont.) 1926-1959",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the camas hot springs exchange (camas, mont.) 1926-1959"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85053223/1950-12-21/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85053223/1950-12-21/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "hot springs",
+    "united states",
+    "sanders",
+    "montana",
+    "camas"
+  ],
+  "timestamp": "2023-07-05T19:46:56.435Z",
+  "title": "Image 2 of The Camas Hot Springs exchange (Camas, Mont.), December 21, 1950",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85053223/1950-12-21/ed-1/?sp=2&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmthi%2Fbatch_mthi_dillon_ver01%2Fdata%2Fsn85053223%2F00517178470%2F1950122101%2F0401.xml&q=korea&relevant_snippet=1"
+}

@@ -1,0 +1,700 @@
+{
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "false",
+  "title": "Copies of Ordinances and Other Papers Relating to the Western Territory of the United States",
+  "coverageEndDate": {
+    "year": 1788,
+    "logicalDate": "1788-01-01"
+  },
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "address2": "7th and Pennsylvania Avenue NW",
+          "city": "Washington",
+          "phone": "202-357-5385",
+          "address1": "National Archives Building",
+          "postalCode": "20408",
+          "name": "National Archives at Washington, DC - Textual Reference",
+          "state": "DC",
+          "fax": "202-357-5936",
+          "email": "Archives1reference@nara.gov",
+          "mailCode": "RR1"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "depth": 0,
+          "width": 0,
+          "specificMediaType": "Bound Volume",
+          "height": 0
+        }
+      ],
+      "copyStatus": "Preservation"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "coverageStartDate": {
+    "year": 1787,
+    "logicalDate": "1787-01-01"
+  },
+  "dataControlGroup": {
+    "groupName": "National Archives at Washington, DC \u00a0 \u2013 Textual Reference",
+    "groupId": "RR1",
+    "groupCd": "RR1"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "microformPublications": [
+    {
+      "identifier": "M247",
+      "note": "These records are reproduced on roll 194.",
+      "title": "M247 - Papers of the Continental Congress, 1774-1789."
+    }
+  ],
+  "variantControlNumbers": [
+    {
+      "note": "This number was assigned by William A. Weaver, a clerk in the State Department, in 1835.",
+      "number": "Item 176",
+      "type": "Agency-Assigned Identifier"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "430654.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430654.jp2",
+      "objectFileSize": 880094,
+      "objectId": "472492036",
+      "objectDescription": "Fold3 File #430654; Congress. Ordinance for the Government of the Northwest Territory. 14 p. Copy. (Printed in Journals, 1787, p. 334-343); Date: 1787-07-13; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430657.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430657.jp2",
+      "objectFileSize": 877278,
+      "objectId": "472492037",
+      "objectDescription": "Fold3 File #430657; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430659.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430659.jp2",
+      "objectFileSize": 853669,
+      "objectId": "472492038",
+      "objectDescription": "Fold3 File #430659; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430661.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430661.jp2",
+      "objectFileSize": 865849,
+      "objectId": "472492039",
+      "objectDescription": "Fold3 File #430661; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430665.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430665.jp2",
+      "objectFileSize": 846233,
+      "objectId": "472492040",
+      "objectDescription": "Fold3 File #430665; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430668.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430668.jp2",
+      "objectFileSize": 869150,
+      "objectId": "472492041",
+      "objectDescription": "Fold3 File #430668; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430672.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430672.jp2",
+      "objectFileSize": 847253,
+      "objectId": "472492042",
+      "objectDescription": "Fold3 File #430672; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430675.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430675.jp2",
+      "objectFileSize": 863918,
+      "objectId": "472492043",
+      "objectDescription": "Fold3 File #430675; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430678.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430678.jp2",
+      "objectFileSize": 844250,
+      "objectId": "472492044",
+      "objectDescription": "Fold3 File #430678; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430682.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430682.jp2",
+      "objectFileSize": 910950,
+      "objectId": "472492045",
+      "objectDescription": "Fold3 File #430682; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430685.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430685.jp2",
+      "objectFileSize": 835122,
+      "objectId": "472492046",
+      "objectDescription": "Fold3 File #430685; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430689.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430689.jp2",
+      "objectFileSize": 878946,
+      "objectId": "472492047",
+      "objectDescription": "Fold3 File #430689; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430692.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430692.jp2",
+      "objectFileSize": 866543,
+      "objectId": "472492048",
+      "objectDescription": "Fold3 File #430692; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430697.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430697.jp2",
+      "objectFileSize": 899860,
+      "objectId": "472492049",
+      "objectDescription": "Fold3 File #430697; Congress. Resolves re Northwest Territory. 1 p. Copy. (Printed in Journals, 1787, p. 601); Date: 1787-10-05,1787-10-03; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430700.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430700.jp2",
+      "objectFileSize": 849178,
+      "objectId": "472492050",
+      "objectDescription": "Fold3 File #430700; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430703.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430703.jp2",
+      "objectFileSize": 856709,
+      "objectId": "472492051",
+      "objectDescription": "Fold3 File #430703; Congress. Resolve re Indian treaties in the Northwest Territory. 1 p. Copy, (Printed in Journals, 1787, p. 696); Date: 1787-10-22; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430706.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430706.jp2",
+      "objectFileSize": 862519,
+      "objectId": "472492052",
+      "objectDescription": "Fold3 File #430706; Congress. Resolve re officers 'of the Northwest Territory. 1 p. Copy. (Printed in Journals, 1787, p. 686); Date: 1787-10-16,1787-10-23; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430709.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430709.jp2",
+      "objectFileSize": 898830,
+      "objectId": "472492053",
+      "objectDescription": "Fold3 File #430709; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430712.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430712.jp2",
+      "objectFileSize": 816162,
+      "objectId": "472492054",
+      "objectDescription": "Fold3 File #430712; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430715.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430715.jp2",
+      "objectFileSize": 846448,
+      "objectId": "472492055",
+      "objectDescription": "Fold3 File #430715; Congress. Resolve re Indian treaties in the Northwest Territory. 3 p. Copy. (Printed in Journals, 1787, p. 711-713); Date: 1787-10-26; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430718.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430718.jp2",
+      "objectFileSize": 844975,
+      "objectId": "472492056",
+      "objectDescription": "Fold3 File #430718; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430721.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430721.jp2",
+      "objectFileSize": 866590,
+      "objectId": "472492057",
+      "objectDescription": "Fold3 File #430721; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430724.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430724.jp2",
+      "objectFileSize": 857986,
+      "objectId": "472492058",
+      "objectDescription": "Fold3 File #430724; Congress. Resolve re Indian treaties in the Northwest Territory. 1 p. Copy. (Printed in Journals, 1787,p. 714); Date: 1787-10-27,1788-01-22; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430727.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430727.jp2",
+      "objectFileSize": 848179,
+      "objectId": "472492059",
+      "objectDescription": "Fold3 File #430727; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430732.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430732.jp2",
+      "objectFileSize": 842743,
+      "objectId": "472492060",
+      "objectDescription": "Fold3 File #430732; Congress. Proceedings re John C. Symmes. 1 p. Copy. (Printed in Journals, 1788-89, p.50); Date: 1788-03-06,1788-02-19; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430735.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430735.jp2",
+      "objectFileSize": 857193,
+      "objectId": "472492061",
+      "objectDescription": "Fold3 File #430735; Parsons, Samuel H. Oath of allegiance as a judge of the Northwest Territory. 2 p. Copy sworn before A. St. Clair; Date: 1788-04-04; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430739.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430739.jp2",
+      "objectFileSize": 842925,
+      "objectId": "472492062",
+      "objectDescription": "Fold3 File #430739; Varnum, James M. Oath of allegiance as a judge of the Northwest Territory. 2 p. Copy sworn before A. St. Clair; Date: 1788-04-04; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430742.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430742.jp2",
+      "objectFileSize": 865534,
+      "objectId": "472492063",
+      "objectDescription": "Fold3 File #430742; Clair, Arthur. N.Y. Oath of allegiance as Governor of the Northwest Territory. Feb. 6, 1788. 2 p. Copy sworn before Cyrus Griffin; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430746.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430746.jp2",
+      "objectFileSize": 824687,
+      "objectId": "472492064",
+      "objectDescription": "Fold3 File #430746; Congress. Report of com. re a tract of land in the Illinois Country.8 p. Copy. (Printed in Journals, 1788-89, p. 247-252); Date: 1788-06-20; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430749.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430749.jp2",
+      "objectFileSize": 864986,
+      "objectId": "472492065",
+      "objectDescription": "Fold3 File #430749; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430752.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430752.jp2",
+      "objectFileSize": 832008,
+      "objectId": "472492066",
+      "objectDescription": "Fold3 File #430752; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430756.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430756.jp2",
+      "objectFileSize": 838564,
+      "objectId": "472492067",
+      "objectDescription": "Fold3 File #430756; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430760.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430760.jp2",
+      "objectFileSize": 827025,
+      "objectId": "472492068",
+      "objectDescription": "Fold3 File #430760; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430764.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430764.jp2",
+      "objectFileSize": 865570,
+      "objectId": "472492069",
+      "objectDescription": "Fold3 File #430764; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430768.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430768.jp2",
+      "objectFileSize": 839069,
+      "objectId": "472492070",
+      "objectDescription": "Fold3 File #430768; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430771.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430771.jp2",
+      "objectFileSize": 875548,
+      "objectId": "472492071",
+      "objectDescription": "Fold3 File #430771; Congress. Resolve re Indian treaties in the Northwest Territory. 3 p. Copy. (Printed in Journals, 1788-89, p. 285); Date: 1788-07-02; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430775.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430775.jp2",
+      "objectFileSize": 824798,
+      "objectId": "472492072",
+      "objectDescription": "Fold3 File #430775; Congress. Report of com. re Indian treaties. 2 p. Copy. (Printed in Journals, 1788-89, p. 285-286); Date: 1788-07-02; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430778.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430778.jp2",
+      "objectFileSize": 878248,
+      "objectId": "472492073",
+      "objectDescription": "Fold3 File #430778; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430780.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430780.jp2",
+      "objectFileSize": 825091,
+      "objectId": "472492074",
+      "objectDescription": "Fold3 File #430780; Congress. Supplement to an Ordinance for Disposing of Western Lands. 6 p. Copy. (Printed in Journals, 1788-89, p. 306-310); Date: 1788-07-09; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430783.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430783.jp2",
+      "objectFileSize": 856741,
+      "objectId": "472492075",
+      "objectDescription": "Fold3 File #430783; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430787.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430787.jp2",
+      "objectFileSize": 848255,
+      "objectId": "472492076",
+      "objectDescription": "Fold3 File #430787; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430790.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430790.jp2",
+      "objectFileSize": 902990,
+      "objectId": "472492077",
+      "objectDescription": "Fold3 File #430790; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430794.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430794.jp2",
+      "objectFileSize": 824997,
+      "objectId": "472492078",
+      "objectDescription": "Fold3 File #430794; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430797.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430797.jp2",
+      "objectFileSize": 846839,
+      "objectId": "472492079",
+      "objectDescription": "Fold3 File #430797; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430802.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430802.jp2",
+      "objectFileSize": 878155,
+      "objectId": "472492080",
+      "objectDescription": "Fold3 File #430802; Congress. Proceedings re cession of Geor- gia's western lands. 7 p. Copy. (Printed in Journals, 1788-89, p. 323-327); Date: 1788-07-15; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430807.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430807.jp2",
+      "objectFileSize": 847646,
+      "objectId": "472492081",
+      "objectDescription": "Fold3 File #430807; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430810.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430810.jp2",
+      "objectFileSize": 858487,
+      "objectId": "472492082",
+      "objectDescription": "Fold3 File #430810; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430813.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430813.jp2",
+      "objectFileSize": 853465,
+      "objectId": "472492083",
+      "objectDescription": "Fold3 File #430813; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430816.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430816.jp2",
+      "objectFileSize": 852481,
+      "objectId": "472492084",
+      "objectDescription": "Fold3 File #430816; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430819.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430819.jp2",
+      "objectFileSize": 855128,
+      "objectId": "472492085",
+      "objectDescription": "Fold3 File #430819; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430824.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430824.jp2",
+      "objectFileSize": 853663,
+      "objectId": "472492086",
+      "objectDescription": "Fold3 File #430824; Congress. Resolve re surveyors for western lands. 2 p. Copy. (Printed in Journals, 1788-89,p.331); Date: 1788-07-17; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430828.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430828.jp2",
+      "objectFileSize": 842322,
+      "objectId": "472492087",
+      "objectDescription": "Fold3 File #430828; Congress. Proceedings re Virginia bounty lands. 3 p. Copy. (Printed in Journals, 1788-89,p.332-334); Date: 1788-07-17; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430831.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430831.jp2",
+      "objectFileSize": 824588,
+      "objectId": "472492088",
+      "objectDescription": "Fold3 File #430831; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430834.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430834.jp2",
+      "objectFileSize": 845949,
+      "objectId": "472492089",
+      "objectDescription": "Fold3 File #430834; Congress. Proceedings re lands belonging to Winthrop Sargent and Jonathan Cutler. 2 p.Copy; Date: 1788-07-18; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430837.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430837.jp2",
+      "objectFileSize": 858353,
+      "objectId": "472492090",
+      "objectDescription": "Fold3 File #430837; Congress..Resolve re Luzerne County Pa. I p. Copy. (Printed in Journals, 1788-89, p. 356); Date: 1788-08-01,1788-07-25; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430840.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430840.jp2",
+      "objectFileSize": 862801,
+      "objectId": "472492091",
+      "objectDescription": "Fold3 File #430840; Peter. Phila. To the Pa. delegates. Aug. 6, 1788. 3 p. Copy. (Printed in Journals, 1788-89, p. 408-409); Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430843.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430843.jp2",
+      "objectFileSize": 828213,
+      "objectId": "472492092",
+      "objectDescription": "Fold3 File #430843; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430846.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430846.jp2",
+      "objectFileSize": 850407,
+      "objectId": "472492093",
+      "objectDescription": "Fold3 File #430846; Muhlenberg, Peter. Phila. To the Pa. delegates. 3 p. Copy. (Printed in Journals, 1788-89, p.408-409); Date: 1788-08-06; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430849.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430849.jp2",
+      "objectFileSize": 829418,
+      "objectId": "472492094",
+      "objectDescription": "Fold3 File #430849; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430852.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430852.jp2",
+      "objectFileSize": 850624,
+      "objectId": "472492095",
+      "objectDescription": "Fold3 File #430852; Congress. Report of com. re Presque Isle. 2 p. Copy; Date: 1788-08-20; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430857.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430857.jp2",
+      "objectFileSize": 839404,
+      "objectId": "472492096",
+      "objectDescription": "Fold3 File #430857; Report of com. re a tract of land in the Illinois Country. Aug. 28, 1788. 4 p. Copy. (Printed in Journals, 1788-89, p. 466-468); Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430860.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430860.jp2",
+      "objectFileSize": 828639,
+      "objectId": "472492097",
+      "objectDescription": "Fold3 File #430860; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430863.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430863.jp2",
+      "objectFileSize": 831787,
+      "objectId": "472492098",
+      "objectDescription": "Fold3 File #430863; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430866.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430866.jp2",
+      "objectFileSize": 816647,
+      "objectId": "472492099",
+      "objectDescription": "Fold3 File #430866; Congress. Report of com. re Vincennes. 4 p. Copy. (Printed in Journals, 1788-89, p. 472-474); Date: 1788-08-29; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430869.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430869.jp2",
+      "objectFileSize": 834644,
+      "objectId": "472492100",
+      "objectDescription": "Fold3 File #430869; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430872.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430872.jp2",
+      "objectFileSize": 839683,
+      "objectId": "472492101",
+      "objectDescription": "Fold3 File #430872; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430875.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430875.jp2",
+      "objectFileSize": 683084,
+      "objectId": "472492102",
+      "objectDescription": "Fold3 File #430875; Congress. Report of com. re United Brethren Church. 4 p. Copy. (Printed in Journals; 1788-89, p. 485-487); Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430877.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430877.jp2",
+      "objectFileSize": 878764,
+      "objectId": "472492103",
+      "objectDescription": "Fold3 File #430877; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430882.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430882.jp2",
+      "objectFileSize": 864520,
+      "objectId": "472492104",
+      "objectDescription": "Fold3 File #430882; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430885.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430885.jp2",
+      "objectFileSize": 848248,
+      "objectId": "472492105",
+      "objectDescription": "Fold3 File #430885; Congress. Report of com.re Erie Triangle. 3 p. Copy. (Printed in Journals, 1788-89, p. 499-500); Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430888.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430888.jp2",
+      "objectFileSize": 847748,
+      "objectId": "472492106",
+      "objectDescription": "Fold3 File #430888; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    },
+    {
+      "objectFilename": "430892.jp2",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/partners/dc-metro/rg-360/M247/pcc_430652_0001/430892.jp2",
+      "objectFileSize": 898271,
+      "objectId": "472492107",
+      "objectDescription": "Fold3 File #430892; Image provided by Fold3.",
+      "objectType": "Image (JP2)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1765,
+        "logicalDate": "1765-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 360,
+      "inclusiveEndDate": {
+        "year": 1821,
+        "logicalDate": "1821-01-01"
+      },
+      "title": "Records of the Continental and Confederation Congresses and the Constitutional Convention",
+      "naId": 667
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1774,
+        "logicalDate": "1774-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "Congress of the Confederation. (03/02/1781 - 03/04/1789)",
+          "abolishDate": {
+            "month": 3,
+            "year": 1789,
+            "day": 4,
+            "logicalDate": "1789-03-04"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 3,
+            "year": 1781,
+            "day": 2,
+            "logicalDate": "1781-03-02"
+          },
+          "naId": 10534787
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1789,
+        "logicalDate": "1789-01-01"
+      },
+      "title": "Papers of the Continental Congress",
+      "naId": 1938489
+    }
+  ],
+  "scopeAndContentNote": "These records include, in addition to the Northwest Ordinance and an ordinance of July 9, 1788, for disposing of western lands, oaths of office of Territorial officials and copies of instructions, motions, resolutions, and committee reports of the Confederation Congress concerning the Northwest Territory.",
+  "naId": 2510719
+}

@@ -1,0 +1,151 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82016181/1938-08-04/ed-1/?sp=33"
+  ],
+  "batch": [
+    "dlc_leibovitz_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1938-08-04",
+  "dates": [
+    "1938-08-04"
+  ],
+  "description": [
+    "Buck Newsom Hurling Well for St Louis Any Effort Griffith Might Make to Get Loud Louie Back Into Nat Uniform Will Be Met With Obstacles ST LOUIS Aug 4ls the Nats have any idea about acquir ing winsome Louis Newsom for their very own when it comes up trading time two obstacles stand firmly in the way Tliis is no wild idea you know Louis Norman with 10 victories and 9 defeats to his credit has pitched right fair baseball this year and es tablished himself as the Browns top flinger Just before June 15 called a halt to baseballs genteel game of beggaryourneighbor Clark Griffith was whispering in Manager Gabby Streets ear and the general topic of conversation was Newsom NEED SPEEDBALLER The Griffs as you must know by now need fast ball pitching The only two speedy throwers under con tract do not have enough control Griff despite some of the trouble he had with Noisy Newsom would dear ly love to have the big boy back The 53 licking he handed the Nats here yesterday didnt hurt Loudmouth Louies status any The tip is around that it will take a right fat deal to lure Buck from"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-18T05:56:38.169Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82016181/1938-08-04/ed-1/?sp=33",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leibovitz_ver01:data:sn82016181:00516999652:1938080401:1009/full/pct:6.25/0/default.jpg#h=335&w=231",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leibovitz_ver01:data:sn82016181:00516999652:1938080401:1009/full/pct:12.5/0/default.jpg#h=670&w=462",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_leibovitz_ver01/data/sn82016181/00516999652/1938080401/1009.xml&format=alto_xml"
+  ],
+  "index": 173,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn82016181",
+    "6",
+    "5",
+    "9",
+    "0000000033",
+    "2",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82016181"
+  ],
+  "number_page": [
+    "0000000033"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "9",
+    "6",
+    "5",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82016181-1938-08-04-ed-1-1009",
+  "partof": [
+    "serial and government publications division",
+    "the washington daily news (washington, d.c.) 1921-1972",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington daily news (washington, d.c.) 1921-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82016181/1938-08-04/ed-1/?sp=33"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82016181/1938-08-04/ed-1/"
+  ],
+  "shelf_id": "33",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2025-05-18T06:08:27.970Z",
+  "title": "Image 33 of The Washington daily news (Washington, D.C.), August 4, 1938",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82016181/1938-08-04/ed-1/?sp=33&q=phillipines",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_leibovitz_ver01%2Fdata%2Fsn82016181%2F00516999652%2F1938080401%2F1009.xml&q=phillipines&relevant_snippet=1"
+}

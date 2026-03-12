@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84038462/1859-12-22/ed-1/?sp=1"
+  ],
+  "batch": [
+    "iune_albatross_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/illinois/",
+    "2/united states/illinois/bond/",
+    "3/united states/illinois/bond/greenville/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1859-12-22",
+  "dates": [
+    "1859-12-22"
+  ],
+  "description": [
+    "THE GREENVILLE ADVOCATE tankr VOLUME II SStechln Jfamilu Itelusjtftjm Inkpcnknt uit all Subjects rietor GREENVILLE BOND COUNTY ILLINOIS DECEMBER 22 1839 NUMBER 46 For the Greenville Advocate LIlTfiS by the death of Mr Timothy Read who departed this life November 28th BY MI8 FRIEND P L leath cruel spoiler to invade The faires fields of earth And from the living circle lead A man of parts and worth On virtues side all calm and mild He ever firmly stood And when assaulted or reviled Returned for evil good His pupils miss him in the school For he a friend of youth Instructed them in many a rule And stored their minds with truth Peace to his sorrowing family Part waited at his side And part in Kansas far away Must learn their friend has died This world s saddening world doth seem Yet sadder would it he Did hope net cast a lucid gleam Across deaths stormy sea Then while instinctively we grieve Well ask the reason why Since those best qualified to Iivs Are best prepared to die Senator Trumbull The Missouri Democrat pays the fol lowing merited compliment to this dis tinguished champion of Freedom and genuine republican"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:15:41.348Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84038462/1859-12-22/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038462:00514151039:1859122201:0390/full/pct:6.25/0/default.jpg#h=365&w=278",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038462:00514151039:1859122201:0390/full/pct:12.5/0/default.jpg#h=730&w=556",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_albatross_ver01/data/sn84038462/00514151039/1859122201/0390.xml&format=alto_xml"
+  ],
+  "index": 111,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "bond county",
+    "greenville",
+    "illinois",
+    "bond"
+  ],
+  "location_city": [
+    "greenville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "bond"
+  ],
+  "location_state": [
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn84038462",
+    "5",
+    "9",
+    "4",
+    "3",
+    "0",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84038462"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "4",
+    "1",
+    "5",
+    "1",
+    "0",
+    "3",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84038462-1859-12-22-ed-1-0390",
+  "partof": [
+    "the greenville advocate (greenville, bond county, ill.) 1858-current",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the greenville advocate (greenville, bond county, ill.) 1858-current"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84038462/1859-12-22/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84038462/1859-12-22/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "bond county (ill.)",
+    "united states",
+    "bond county",
+    "greenville",
+    "illinois",
+    "newspapers",
+    "greenville (ill.)",
+    "bond"
+  ],
+  "timestamp": "2025-05-21T10:48:49.352Z",
+  "title": "Image 1 of The Greenville advocate (Greenville, Bond County, Ill.), December 22, 1859",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84038462/1859-12-22/ed-1/?sp=1&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_albatross_ver01%2Fdata%2Fsn84038462%2F00514151039%2F1859122201%2F0390.xml&q=slavery&relevant_snippet=1"
+}

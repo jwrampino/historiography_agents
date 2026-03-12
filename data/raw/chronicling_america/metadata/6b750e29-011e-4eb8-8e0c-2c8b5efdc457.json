@@ -1,0 +1,137 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83026172/1821-06-15/ed-1/?sp=2"
+  ],
+  "batch": [
+    "dlc_eel_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1821-06-15",
+  "dates": [
+    "1821-06-15"
+  ],
+  "description": [
+    "MASSACRE AT MANILLA ACCOUNT OF IT BY MR PRINCE U S Frigate Congress At anchor in Hampton Hoads C June Ist 1821 j Messrs Shields Ashbuuk Co Editors of the American Beacon Norfolk Gentlemen At the request of Capt Henley as well as for my own individual satisfaction I en close you a correct statement of the massacre of the 9th and 10th of October last at Manilla By giving this a place in your paper you will cor rect many errors that arose from the manner in which a former account forwarded by Lieut Al len was published in which account it appears that Mr Allen was the narrator when in fact he only forwarded for publication a hasty narra tive furnished by me at Canton You will be enabled also to correct many er rors of a different nature that I have perceived in the account published in your paper of May 22d although the substance of both accounts is the same With due respect Gentlemen I remain your obedient c SAMUEL PRINCE Jr MASSACRE AT MANILLA On the Ist or 2d of October the inhabitants of Luconia experienced one of the most severe hurricanes they had ever"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-07-20T04:27:52.108Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83026172/1821-06-15/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eel_ver01:data:sn83026172:print:1821061501:0002/full/pct:6.25/0/default.jpg#h=410&w=292",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eel_ver01:data:sn83026172:print:1821061501:0002/full/pct:12.5/0/default.jpg#h=821&w=585",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_eel_ver01/data/sn83026172/print/1821061501/0002.xml&format=alto_xml"
+  ],
+  "index": 112,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000002",
+    "1",
+    "sn83026172"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83026172"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Issues for <Aug. 30-Sept. 22, 1814> published as: National intelligencer",
+    "Sunday issues for Jan. 15-Feb. 5, 1865 published as: Sunday national intelligencer"
+  ],
+  "page_id": "sn83026172-1821-06-15-ed-1-0002",
+  "partof": [
+    "chronicling america",
+    "daily national intelligencer (washington city [d.c.]) 1813-1869",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "daily national intelligencer (washington city [d.c.]) 1813-1869"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83026172/1821-06-15/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83026172/1821-06-15/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2025-07-20T04:47:53.667Z",
+  "title": "Image 2 of Daily national intelligencer (Washington City [D.C.]), June 15, 1821",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83026172/1821-06-15/ed-1/?sp=2&q=phillipines",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_eel_ver01%2Fdata%2Fsn83026172%2Fprint%2F1821061501%2F0002.xml&q=phillipines&relevant_snippet=1"
+}

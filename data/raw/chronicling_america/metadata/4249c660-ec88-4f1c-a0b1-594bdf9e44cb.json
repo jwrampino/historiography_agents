@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86091197/1920-11-15/ed-1/?sp=4"
+  ],
+  "batch": [
+    "idhi_grafton_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/idaho/",
+    "2/united states/idaho/bingham/",
+    "3/united states/idaho/bingham/blackfoot/"
+  ],
+  "contributor": [
+    "idaho state historical society"
+  ],
+  "date": "1920-11-15",
+  "dates": [
+    "1920-11-15"
+  ],
+  "description": [
+    "RECONSTRUCTION PERIOD SALE Bleached Bath Towels 14x30 Inches These towels were purchased since the drop in price to sell at a special at 25 c but our RECONSTRUCTION SALE PRICE IS 20 each Heavy Weight Bleached Bath Towels 20x45 Inches This towel is our 65 c quality now on sale while they last at 50 each Your Opportunity to Save Money Ladies and Childrens Flannelette Gowns Fine quality of material and made in the best styles all Discounted The appreciative response to our Reconstruction Period Sale announcement tinues The people of this community are taking advantage of its opportunities Many new items have been added some of which are listed here con 25 Ladies Silk Underwear Discounted 20 Ladies Suits Ladies Coats Plush Cloth and Leather Ladies Muslin Under v wear Discounted 25 Discount All at a discount of There is still time within which to find pleasure and service with a new fall suit Most of our suits were purchased after the drop in prices which makes them EXCEPTIONAL VALUES True Shape Hosiery Ladies Black Silk RECONSTRUCTION SALE PRICE 125 As good a quality as sold last spring for 2 00 Ladies Mercerised Lisle Hose These come in black"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-06T12:35:36.516Z",
+  "group": [
+    "ndnp/idhi",
+    "idaho-state-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86091197/1920-11-15/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_grafton_ver01:data:sn86091197:00415666676:1920111501:1024/full/pct:6.25/0/default.jpg#h=444&w=304",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_grafton_ver01:data:sn86091197:00415666676:1920111501:1024/full/pct:12.5/0/default.jpg#h=888&w=608",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/idhi/batch_idhi_grafton_ver01/data/sn86091197/00415666676/1920111501/1024.xml&format=alto_xml"
+  ],
+  "index": 70,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "idaho",
+    "blackfoot",
+    "bingham"
+  ],
+  "location_city": [
+    "blackfoot"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "bingham"
+  ],
+  "location_state": [
+    "idaho"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000004",
+    "sn86091197",
+    "6",
+    "5",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86091197"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "6",
+    "6",
+    "6",
+    "7",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn86091197-1920-11-15-ed-1-1024",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the idaho republican (blackfoot, idaho) 1904-1932"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the idaho republican (blackfoot, idaho) 1904-1932"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86091197/1920-11-15/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86091197/1920-11-15/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "idaho",
+    "blackfoot (idaho)",
+    "bingham",
+    "blackfoot",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-07-06T21:51:52.970Z",
+  "title": "Image 4 of The Idaho Republican (Blackfoot, Idaho), November 15, 1920",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86091197/1920-11-15/ed-1/?sp=4&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fidhi%2Fbatch_idhi_grafton_ver01%2Fdata%2Fsn86091197%2F00415666676%2F1920111501%2F1024.xml&q=reconstruction&relevant_snippet=1"
+}

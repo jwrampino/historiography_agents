@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83026172/1853-03-12/ed-1/?sp=3"
+  ],
+  "batch": [
+    "dlc_doubleday_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1853-03-12",
+  "dates": [
+    "1853-03-12"
+  ],
+  "description": [
+    "THE NEW ADMINISTRATION Until the characteristics of the policy of the Ad ministration under our new President are more fully disclosed by its acts we must be content with the general light thrown upon the subject by his Inaugural Address Of that Address we have already apprized our readers there are certain passages which startled us _ 1 E0t pa 1 L 11 ilia the first perusal the objections to which the on second thought has rather confirmed than removed It is to these passages and one or two others of a different character that we would now draw the attention of our readers The trait in the Address which took us most by surprise is the affirmation by the President of the policy as one to be carried out under his Adminis tration of the acquisition of certain possessions not within our jurisdiction eminently important for our protection if not in the future essen 64 tial for the preservation of the rights of commerce 4 and the peace of the world Of the possessions of other Powers thus to be transferred to the United States nothing more definite is stated than what is included in the pre ceding quotation"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-04T04:30:28.245Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83026172/1853-03-12/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_doubleday_ver01:data:sn83026172:00211678185:1853031201:0081/full/pct:3.125/0/default.jpg#h=259&w=198",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_doubleday_ver01:data:sn83026172:00211678185:1853031201:0081/full/pct:6.25/0/default.jpg#h=519&w=396",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_doubleday_ver01:data:sn83026172:00211678185:1853031201:0081/full/pct:12.5/0/default.jpg#h=1039&w=792",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_doubleday_ver01/data/sn83026172/00211678185/1853031201/0081.xml&format=alto_xml"
+  ],
+  "index": 20,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "0000000003",
+    "8",
+    "6",
+    "5",
+    "sn83026172",
+    "7",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83026172"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "1",
+    "6",
+    "7",
+    "8",
+    "1",
+    "8",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Issues for <Aug. 30-Sept. 22, 1814> published as: National intelligencer",
+    "Sunday issues for Jan. 15-Feb. 5, 1865 published as: Sunday national intelligencer"
+  ],
+  "page_id": "sn83026172-1853-03-12-ed-1-0081",
+  "partof": [
+    "serial and government publications division",
+    "daily national intelligencer (washington city [d.c.]) 1813-1869",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "daily national intelligencer (washington city [d.c.]) 1813-1869"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83026172/1853-03-12/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83026172/1853-03-12/ed-1/"
+  ],
+  "shelf_id": "03",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2025-05-04T08:23:48.742Z",
+  "title": "Image 3 of Daily national intelligencer (Washington City [D.C.]), March 12, 1853",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83026172/1853-03-12/ed-1/?sp=3&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_doubleday_ver01%2Fdata%2Fsn83026172%2F00211678185%2F1853031201%2F0081.xml&q=manifest+destiny&relevant_snippet=1"
+}

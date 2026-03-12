@@ -1,0 +1,166 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn93050700/1902-05-09/ed-1/?sp=1"
+  ],
+  "batch": [
+    "okhi_jam_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/oklahoma/",
+    "2/united states/oklahoma/craig/",
+    "3/united states/oklahoma/craig/vinita/"
+  ],
+  "contributor": [
+    "oklahoma historical society"
+  ],
+  "date": "1902-05-09",
+  "dates": [
+    "1902-05-09"
+  ],
+  "description": [
+    "if CHIEPTAII DAILY ID n VINITA INDIAN TERRITORY FRIDAY EVENING MAY 9 1902 PRICE PER WEEK 10c l i M t n i h II s f fi STILL TALKING Vote Was not Reached on the kinibus Statehood Bill Yesterday FEATURE OF DEBATE WaB the Defense of Political Ex pediency by Grosvenor of Ohio who said Politics was the Paramount Issue The statehood battle was con tinued in the house yesterday and a vote will not be reached until sometime today The house organization made a determined opposition to the bill and attempted to defeat the meas ure through the insertion of an amendment providing that one state be formed out of Arizona and New Mexico Mr Moon opened the fight with an eloquent plea for the passage of the bill and was followed by Mr Grosvenor of Ohio in a speech remarkable for its honest confession that politics alone was the question which in spired his opposition The speaker practically con tended that political expediency was more to be considered than the claims of justice Delegates Smith of Arizona and Flynn of Oklahoma both attacked the posi tion of Grosvenor and carried the house with them They were fol"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T15:07:08.884Z",
+  "group": [
+    "ndnp/okhi",
+    "oklahoma-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn93050700/1902-05-09/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_jam_ver01:data:sn93050700:00295864795:1902050901:0030/full/pct:6.25/0/default.jpg#h=415&w=271",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_jam_ver01:data:sn93050700:00295864795:1902050901:0030/full/pct:12.5/0/default.jpg#h=830&w=542",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/okhi/batch_okhi_jam_ver01/data/sn93050700/00295864795/1902050901/0030.xml&format=alto_xml"
+  ],
+  "index": 133,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "craig county",
+    "oklahoma",
+    "craig",
+    "united states",
+    "vinita"
+  ],
+  "location_city": [
+    "vinita"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "craig"
+  ],
+  "location_state": [
+    "oklahoma"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "0000000001",
+    "2",
+    "8",
+    "5",
+    "6",
+    "sn93050700",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn93050700"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "5",
+    "8",
+    "6",
+    "4",
+    "7",
+    "9",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn93050700-1902-05-09-ed-1-0030",
+  "partof": [
+    "chronicling america",
+    "the daily chieftain (vinita, ind. ter. [okla.]) 1898-1902",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the daily chieftain (vinita, ind. ter. [okla.]) 1898-1902"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn93050700/1902-05-09/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn93050700/1902-05-09/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "craig county (okla.)",
+    "vinita (okla.)",
+    "craig county",
+    "oklahoma",
+    "indians of north america",
+    "craig",
+    "united states",
+    "newspapers",
+    "vinita"
+  ],
+  "subject_ethnicity": [
+    "indians of north america"
+  ],
+  "timestamp": "2022-11-18T15:01:47.142Z",
+  "title": "Image 1 of The daily chieftain (Vinita, Ind. Ter. [Okla.]), May 9, 1902",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn93050700/1902-05-09/ed-1/?sp=1&q=indian+territory",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fokhi%2Fbatch_okhi_jam_ver01%2Fdata%2Fsn93050700%2F00295864795%2F1902050901%2F0030.xml&q=indian+territory&relevant_snippet=1"
+}

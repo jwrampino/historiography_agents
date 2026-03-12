@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045433/1921-07-10/ed-1/?sp=32"
+  ],
+  "batch": [
+    "dlc_frenchbulldog_ver04"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1921-07-10",
+  "dates": [
+    "1921-07-10"
+  ],
+  "description": [
+    "GUARDS AM FTER t century of vacillation W W Husband the new Comaeioner Genera of Immigration the United States finally haa found for Itaelf a policy w tb relation to the people to whom it will opei its doora to whom it will offer a share of the assets which belong to It aa the wealthiest of nations Hereafter It would saem if one may Judge from the frame of the public mind aa it la being evidenced in legislation the question which will be asked f thoee who present themselves for admission into this country will be Are they people of our own stock I had gone to Mr Husband to interview him on immigration at thia time when the new law that Congress had given us eiperl J mentally for one year was being put to test I wanted him to visualise for me the immigration situation In the first place because he was the Government official who is charged with the application of the new law An additional reason for talking with him was the fact that be ia generally recognized as the man who haa given more thought and study to this subject during the last"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-01-08T13:47:45.623Z",
+  "group": [
+    "ndnp/dlc-2011_2013",
+    "library-of-congress-washington-dc-awardee-4"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045433/1921-07-10/ed-1/?sp=32",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frenchbulldog_ver04:data:sn83045433:00280764188:1921071001:0426/full/pct:6.25/0/default.jpg#h=379&w=273",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frenchbulldog_ver04:data:sn83045433:00280764188:1921071001:0426/full/pct:12.5/0/default.jpg#h=759&w=546",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_frenchbulldog_ver04/data/sn83045433/00280764188/1921071001/0426.xml&format=alto_xml"
+  ],
+  "index": 11,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "district of columbia",
+    "washington d.c.",
+    "washington",
+    "united states"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn83045433",
+    "8",
+    "0",
+    "2",
+    "7",
+    "1",
+    "0000000032",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045433"
+  ],
+  "number_page": [
+    "0000000032"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "7",
+    "6",
+    "4",
+    "1",
+    "8",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Washington times-herald",
+    "Washington herald times"
+  ],
+  "page_id": "sn83045433-1921-07-10-ed-1-0426",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the washington herald (washington, d.c.) 1906-1939"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington herald (washington, d.c.) 1906-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045433/1921-07-10/ed-1/?sp=32"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045433/1921-07-10/ed-1/"
+  ],
+  "shelf_id": "32",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)",
+    "washington",
+    "united states"
+  ],
+  "timestamp": "2025-01-08T19:37:07.640Z",
+  "title": "Image 32 of The Washington herald (Washington, D.C.), July 10, 1921",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045433/1921-07-10/ed-1/?sp=32&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_frenchbulldog_ver04%2Fdata%2Fsn83045433%2F00280764188%2F1921071001%2F0426.xml&q=immigration&relevant_snippet=1"
+}

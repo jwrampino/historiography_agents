@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83004262/1894-12-21/ed-1/?sp=3"
+  ],
+  "batch": [
+    "wvu_irving_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/west virginia/",
+    "2/united states/west virginia/pocahontas/",
+    "3/united states/west virginia/pocahontas/marlinton/",
+    "3/united states/west virginia/pocahontas/huntersville/"
+  ],
+  "contributor": [
+    "west virginia university"
+  ],
+  "date": "1894-12-21",
+  "dates": [
+    "1894-12-21"
+  ],
+  "description": [
+    "HERMIT KINGDOM FACTS ABOUT KOREA ITS PEO PLE AND HISTORY Americans the First Westerners to Be Admitted to the Country The King and His Subjects A Palace Tragedy THE war between China and Japan oyer Korea which for centuries to use a rather homely figure has been a bone of contention between the two great Oriental countries draws atten tion to a land which for various rea sons is of interest to Americans The United States was the first Western NATIVE KOREANS Power to conclude a treaty with Korea and for this reason and by this act gained in a certain sense the ascend ancy over the representatives of other Governments at Seoul But there are other reasons too to excite the interest of Americans in Korea Americans are treated with especial respect in that country American professors teach Koreans in the royal school founded as the name indicates by the King and American officers hold responsible places in the Korean army having been summoned there to place it on a fighting footing Another reason there is too rather frivolous in a way but with the possi bilities of great advantages to certain American manufacturers and trades menthe Queen of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-27T17:02:40.024Z",
+  "group": [
+    "ndnp/wvu",
+    "west-virginia-university-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83004262/1894-12-21/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irving_ver02:data:sn83004262:00542867875:1894122101:0338/full/pct:6.25/0/default.jpg#h=375&w=259",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irving_ver02:data:sn83004262:00542867875:1894122101:0338/full/pct:12.5/0/default.jpg#h=751&w=519",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wvu/batch_wvu_irving_ver02/data/sn83004262/00542867875/1894122101/0338.xml&format=alto_xml"
+  ],
+  "index": 104,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "marlinton",
+    "pocahontas",
+    "huntersville",
+    "west virginia"
+  ],
+  "location_city": [
+    "marlinton",
+    "huntersville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "pocahontas"
+  ],
+  "location_state": [
+    "west virginia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000003",
+    "0",
+    "5",
+    "2",
+    "4",
+    "6",
+    "1",
+    "7",
+    "sn83004262",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83004262"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "2",
+    "8",
+    "6",
+    "7",
+    "8",
+    "7",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83004262-1894-12-21-ed-1-0338",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "pocahontas times (huntersville, w. va.) 1883-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "pocahontas times (huntersville, w. va.) 1883-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83004262/1894-12-21/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83004262/1894-12-21/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "marlinton",
+    "pocahontas",
+    "newspapers",
+    "huntersville",
+    "west virginia",
+    "huntersville (w. va.)"
+  ],
+  "timestamp": "2025-07-16T22:19:34.231Z",
+  "title": "Image 3 of Pocahontas times (Huntersville, W. Va.), December 21, 1894",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83004262/1894-12-21/ed-1/?sp=3&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwvu%2Fbatch_wvu_irving_ver02%2Fdata%2Fsn83004262%2F00542867875%2F1894122101%2F0338.xml&q=korea&relevant_snippet=1"
+}

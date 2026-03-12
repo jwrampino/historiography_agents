@@ -1,0 +1,173 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/ca06001655/1924-11-21/ed-1/?sp=23"
+  ],
+  "batch": [
+    "dlc_badger_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/kansas/",
+    "2/united states/kansas/douglas/",
+    "3/united states/kansas/douglas/lawrence/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1924-11-21",
+  "dates": [
+    "1924-11-21"
+  ],
+  "description": [
+    "News Items Written by the Eighth Grade The auto mechanics are busy plowing The second band has rehearsals Tuesdays and Thurs days and the boys plan on a concert this winter Miss Elizabeth Silversmith a graduate of 1924 left Monday for her new position at Rosebud S Dak Mr West is planning on taking his agriculture class to Kansas City to seethe American Royal Livestock Show The carpenters are about through replacing the roof of the boiler house that burned last winter an iron one and is not likely to burn again This roof is Last week the bovs received their new uniforms Thev are wool and very nice looking take good care of his uniform Each boy is trying to The mason boys are busy building the new chicken house It is to be added to the last one built and is pro gressing nicely The B1s were the banner class this period having been first in three subjects and in general average and having 7 out of the 12 who were on the honor roll The girls are mourning over the loss of theirgymnasium teacher Miss Higgins who resigned last week Thev hope her place will soon be"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-09-08T14:11:24.868Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/ca06001655/1924-11-21/ed-1/?sp=23",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_badger_ver02:data:ca06001655:00543171682:1924112101:0624/full/pct:6.25/0/default.jpg#h=275&w=196",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_badger_ver02:data:ca06001655:00543171682:1924112101:0624/full/pct:12.5/0/default.jpg#h=551&w=393",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_badger_ver02:data:ca06001655:00543171682:1924112101:0624/full/pct:25/0/default.jpg#h=1102&w=786",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_badger_ver02/data/ca06001655/00543171682/1924112101/0624.xml&format=alto_xml"
+  ],
+  "index": 104,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "kansas",
+    "lawrence",
+    "douglas county",
+    "united states",
+    "douglas"
+  ],
+  "location_city": [
+    "lawrence"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "douglas"
+  ],
+  "location_state": [
+    "kansas"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "ca06001655",
+    "0000000023",
+    "2",
+    "6",
+    "3",
+    "5",
+    "8",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "ca06001655"
+  ],
+  "number_page": [
+    "0000000023"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "3",
+    "1",
+    "7",
+    "1",
+    "6",
+    "8",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "ca06001655-1924-11-21-ed-1-0624",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the indian leader (lawrence, kan.) 1897-????"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the indian leader (lawrence, kan.) 1897-????"
+  ],
+  "publication_frequency": [
+    "biweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/ca06001655/1924-11-21/ed-1/?sp=23"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/ca06001655/1924-11-21/ed-1/"
+  ],
+  "shelf_id": "23",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "haskell institute",
+    "douglas",
+    "college student newspapers and periodicals",
+    "douglas county (kan.)",
+    "kansas",
+    "lawrence (kan.)",
+    "lawrence",
+    "douglas county",
+    "education",
+    "indians of north america",
+    "haskell indian nations university",
+    "united states",
+    "newspapers",
+    "haskell indian junior college"
+  ],
+  "subject_ethnicity": [
+    "indians of north america"
+  ],
+  "timestamp": "2025-09-08T14:19:02.291Z",
+  "title": "Image 23 of The Indian leader (Lawrence, Kan.), November 21, 1924",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/ca06001655/1924-11-21/ed-1/?sp=23&q=phillipines",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_badger_ver02%2Fdata%2Fca06001655%2F00543171682%2F1924112101%2F0624.xml&q=phillipines&relevant_snippet=1"
+}

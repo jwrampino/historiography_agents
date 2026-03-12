@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85038119/1898-08-04/ed-1/?sp=2"
+  ],
+  "batch": [
+    "ohi_delta_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/hocking/",
+    "3/united states/ohio/hocking/logan/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1898-08-04",
+  "dates": [
+    "1898-08-04"
+  ],
+  "description": [
+    "L The Hocking Sentinel TiOGAON OHIO XKWIS GKKEN Publisher II Terms of Peace Sub mitted to Spain is M May See i M of flu War Insurgent Ciicf Agninaldo Do lying Authority of Amer ica at Manila Death of Prince Bismarck the Man of Iron Who Handled Kings as Puppets Peace Terms Oar Government has submitted terms of peace to Ambassador Cambon ol France who has been appointed Envoy Extraordinary and Plenipotentiary for Spain to conduct negotiations lor rcace Spain is expected to reply in a few days The terms are such that Spain will un doubtedly comply Will Await Reinforcements Ponco special No forward movement of the army Is expected for several days The transports with Gen Brookes army corps and the remainder of the First corps aw arriving slowly Our troops will probably remain hero quietly until the bulk of the army has disembarked Agninnldo Defiant A dispatch received from Admiral Dewey announces that Aguinaldo the insurgent chief has assumed a bold atti tude of defiance and that it would tako a large forco from this country to subdue the insurgents Tramps Try to Capture Trains Sioux City Iowa special Keports wero received here of the capture by"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:16:28.029Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85038119/1898-08-04/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_delta_ver01:data:sn85038119:00237286418:1898080401:0133/full/pct:6.25/0/default.jpg#h=508&w=391",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_delta_ver01:data:sn85038119:00237286418:1898080401:0133/full/pct:12.5/0/default.jpg#h=1017&w=783",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_delta_ver01/data/sn85038119/00237286418/1898080401/0133.xml&format=alto_xml"
+  ],
+  "index": 120,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ohio",
+    "logan",
+    "united states",
+    "hocking"
+  ],
+  "location_city": [
+    "logan"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hocking"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "6",
+    "2",
+    "4",
+    "1",
+    "7",
+    "sn85038119",
+    "0000000002",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85038119"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "3",
+    "7",
+    "2",
+    "8",
+    "6",
+    "4",
+    "1",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85038119-1898-08-04-ed-1-0133",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the hocking sentinel (logan, ohio) 1871-1906"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the hocking sentinel (logan, ohio) 1871-1906"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85038119/1898-08-04/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85038119/1898-08-04/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "ohio",
+    "hocking",
+    "united states",
+    "newspapers",
+    "logan",
+    "logan (ohio)"
+  ],
+  "timestamp": "2023-09-05T07:51:33.107Z",
+  "title": "Image 2 of The Hocking sentinel (Logan, Ohio), August 4, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85038119/1898-08-04/ed-1/?sp=2&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_delta_ver01%2Fdata%2Fsn85038119%2F00237286418%2F1898080401%2F0133.xml&q=spanish&relevant_snippet=1"
+}

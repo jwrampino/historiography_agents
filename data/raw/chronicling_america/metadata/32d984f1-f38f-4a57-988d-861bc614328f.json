@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84020712/1867-07-16/ed-1/?sp=3"
+  ],
+  "batch": [
+    "ncu_lumber_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/north carolina/",
+    "2/united states/north carolina/mecklenburg/",
+    "3/united states/north carolina/mecklenburg/charlotte/"
+  ],
+  "contributor": [
+    "university of north carolina at chapel hill library, chapel hill, nc"
+  ],
+  "date": "1867-07-16",
+  "dates": [
+    "1867-07-16"
+  ],
+  "description": [
+    "THE WESTERN D E M 0 C RAT II A III 0 T IE XX tUvn tmocxat W J YATES Editor and Proprietor CHARLOTTE IV C July 16 1807 G RAILROAD COMPANY The annual meeting of thin Company was held in Greensboro on the 1 Ith inst We ham from a friend who was preent that the Directors fleeted by the Stockholders are J L Morebead D A Davis Wni Murdock and Thos Webb The Directors appoluted by Gov Worth for the State are W C Means J M Coffin J W Thomas Peter Adams Josiab Turner Jus Alien K L Tucker and O G Parsley The States Stock was represented by John Iterry At a meeting of the Directors th following officers verc ebcted Josiah Turner President in place of Thos Webb old incumbent W A Caldwell Treasurer in place of Mr Iitiflin James Anderson reelected Surwrintendent and F A Stapg Secretary The office of Auditor was created but we do not know who was elected to till it A new system of By Laws was adopted which it is believed will woik necessary reform The receipts of the Road show a falling off this year from last of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-12T17:38:32.292Z",
+  "group": [
+    "ndnp/ncu",
+    "university-of-north-carolina-chapel-hill-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84020712/1867-07-16/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879208:1867071601:0326/full/pct:3.125/0/default.jpg#h=305&w=230",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879208:1867071601:0326/full/pct:6.25/0/default.jpg#h=610&w=460",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ncu/batch_ncu_lumber_ver01/data/sn84020712/00295879208/1867071601/0326.xml&format=alto_xml"
+  ],
+  "index": 137,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "mecklenburg county",
+    "mecklenburg",
+    "united states",
+    "charlotte",
+    "north carolina"
+  ],
+  "location_city": [
+    "charlotte"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "mecklenburg"
+  ],
+  "location_state": [
+    "north carolina"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000003",
+    "9",
+    "2",
+    "8",
+    "5",
+    "sn84020712",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84020712"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "5",
+    "8",
+    "7",
+    "9",
+    "2",
+    "0",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84020712-1867-07-16-ed-1-0326",
+  "partof": [
+    "the western democrat (charlotte, n.c.) 1852-1870",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the western democrat (charlotte, n.c.) 1852-1870"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84020712/1867-07-16/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84020712/1867-07-16/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "mecklenburg county",
+    "charlotte",
+    "charlotte (n.c.)",
+    "mecklenburg",
+    "mecklenburg county (n.c.)",
+    "united states",
+    "newspapers",
+    "north carolina"
+  ],
+  "timestamp": "2023-08-13T13:13:58.379Z",
+  "title": "Image 3 of The western Democrat (Charlotte, N.C.), July 16, 1867",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84020712/1867-07-16/ed-1/?sp=3&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fncu%2Fbatch_ncu_lumber_ver01%2Fdata%2Fsn84020712%2F00295879208%2F1867071601%2F0326.xml&q=reconstruction&relevant_snippet=1"
+}

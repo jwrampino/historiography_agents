@@ -1,0 +1,177 @@
+{
+  "levelOfDescription": "item",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "audiovisual": "False",
+  "title": "Great Lakes Bulletin",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Chicago",
+          "phone": "773-948-9001",
+          "address1": "7358 South Pulaski Road",
+          "postalCode": "60629-5898",
+          "name": "National Archives at Chicago",
+          "state": "IL",
+          "fax": "773-948-9050",
+          "email": "chicago.archives@nara.gov",
+          "mailCode": "RRFC"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "depth": 0,
+          "width": 0,
+          "specificMediaType": "Paper",
+          "height": 0
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  },
+  "dataControlGroup": {
+    "groupName": "National Archives at Chicago",
+    "groupId": "RRFC",
+    "groupCd": "RRFC"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "productionDates": [
+    {
+      "month": 6,
+      "year": 1944,
+      "day": 16,
+      "logicalDate": "1944-06-16"
+    }
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "Baseball: The National Pastime in the National Archives [ebook]",
+      "type": "Search Identifier"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "great-lakes-bulletin-may_006.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/chicago/arcmedia/great-lakes/650249/great-lakes-bulletin/great-lakes-bulletin-may_006.jpg",
+      "objectFileSize": 1522162,
+      "objectId": "15894998",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "great-lakes-bulletin-may_004.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/chicago/arcmedia/great-lakes/650249/great-lakes-bulletin/great-lakes-bulletin-may_004.jpg",
+      "objectFileSize": 1728538,
+      "objectId": "15894996",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "great-lakes-bulletin-may_005.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/chicago/arcmedia/great-lakes/650249/great-lakes-bulletin/great-lakes-bulletin-may_005.jpg",
+      "objectFileSize": 1865315,
+      "objectId": "15894997",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "great-lakes-bulletin-may_002.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/chicago/arcmedia/great-lakes/650249/great-lakes-bulletin/great-lakes-bulletin-may_002.jpg",
+      "objectFileSize": 1736640,
+      "objectId": "15894994",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "great-lakes-bulletin-may_008.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/chicago/arcmedia/great-lakes/650249/great-lakes-bulletin/great-lakes-bulletin-may_008.jpg",
+      "objectFileSize": 1848241,
+      "objectId": "15895000",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "great-lakes-bulletin-may_007.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/chicago/arcmedia/great-lakes/650249/great-lakes-bulletin/great-lakes-bulletin-may_007.jpg",
+      "objectFileSize": 5073869,
+      "objectId": "15894999",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "great-lakes-bulletin-may_003.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/chicago/arcmedia/great-lakes/650249/great-lakes-bulletin/great-lakes-bulletin-may_003.jpg",
+      "objectFileSize": 1763694,
+      "objectId": "15894995",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "great-lakes-bulletin-may_001.jpg",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/chicago/arcmedia/great-lakes/650249/great-lakes-bulletin/great-lakes-bulletin-may_001.jpg",
+      "objectFileSize": 1828089,
+      "objectId": "15894993",
+      "objectType": "Image (JPG)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1784,
+        "logicalDate": "1784-01-01"
+      },
+      "distance": 3,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 181,
+      "inclusiveEndDate": {
+        "year": 2000,
+        "logicalDate": "2000-01-01"
+      },
+      "title": "Records of Navy Installations Command, Navy Regions, Naval Districts, and Shore Establishments",
+      "naId": 510
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1939,
+        "logicalDate": "1939-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "Department of Defense. Department of the Navy. Ninth Naval District. Office of the Commandant. (09/18/1947 - 06/30/1979)",
+          "abolishDate": {
+            "month": 6,
+            "year": 1979,
+            "day": 30,
+            "logicalDate": "1979-06-30"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 9,
+            "year": 1947,
+            "day": 18,
+            "logicalDate": "1947-09-18"
+          },
+          "naId": 10476834
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1953,
+        "logicalDate": "1953-01-01"
+      },
+      "title": "Central Subject Files",
+      "naId": 650249
+    },
+    {
+      "distance": 1,
+      "levelOfDescription": "fileUnit",
+      "title": "Great Lakes Bulletin",
+      "naId": 7280588
+    }
+  ],
+  "scopeAndContentNote": "This is the weekly newspaper of the Great Lakes U.S. Naval Training Center.",
+  "naId": 7280591
+}

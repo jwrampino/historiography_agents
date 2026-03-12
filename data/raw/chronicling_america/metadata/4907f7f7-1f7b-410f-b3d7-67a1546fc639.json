@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83025232/1919-10-30/ed-1/?sp=12"
+  ],
+  "batch": [
+    "wyu_laramie_ver03"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/wyoming/",
+    "2/united states/wyoming/laramie/",
+    "3/united states/wyoming/laramie/cheyenne/"
+  ],
+  "contributor": [
+    "university of wyoming libraries"
+  ],
+  "date": "1919-10-30",
+  "dates": [
+    "1919-10-30"
+  ],
+  "description": [
+    "PAGE TWLEVE T Cement Highway from to Yellowstone National Park Hd Be the Best Investment Wyomingfyd Make By Fred Patee of Casper Wyo Well Known GeOBB booster Thirtynine years ago last May I became amember of the first good route organization in America For twentyfive years after that I was in a manufacturing business that made good roads a business with me It was just as much my business to at tend ths good roads meetings in every state in the union as it was to buy material for our manufacturing busi neon We had retail stores in twenty fife of the largest cities of the United States and I visited these stores two or three times each year and sold the Jobbers in many of the larger cities where we had no stores And so I wan in a portion to study Toads the mateMals Uy Ye made of and the effect of mood rondsBh the awrrounding country where they were Millt lam telling the readers of the State Tribune these facts so that I sway qualify as a road expert and so that they will know tbs what I have to say after this coatee nqda an ex"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-05-31T13:49:46.943Z",
+  "group": [
+    "ndnp/wyu",
+    "university-of-wyoming-libraries"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83025232/1919-10-30/ed-1/?sp=12",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_laramie_ver03:data:sn83025232:00513687321:1919103001:0028/full/pct:6.25/0/default.jpg#h=398&w=298",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_laramie_ver03:data:sn83025232:00513687321:1919103001:0028/full/pct:12.5/0/default.jpg#h=797&w=596",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wyu/batch_wyu_laramie_ver03/data/sn83025232/00513687321/1919103001/0028.xml&format=alto_xml"
+  ],
+  "index": 29,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "laramie",
+    "laramie county",
+    "united states",
+    "cheyenne",
+    "wyoming"
+  ],
+  "location_city": [
+    "cheyenne"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "laramie"
+  ],
+  "location_state": [
+    "wyoming"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn83025232",
+    "2",
+    "6",
+    "3",
+    "0000000012",
+    "5",
+    "8",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83025232"
+  ],
+  "number_page": [
+    "0000000012"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "3",
+    "6",
+    "8",
+    "7",
+    "3",
+    "2",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn83025232-1919-10-30-ed-1-0028",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "wyoming state tribune (cheyenne, wyo.) 1918-1921"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "wyoming state tribune (cheyenne, wyo.) 1918-1921"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83025232/1919-10-30/ed-1/?sp=12"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83025232/1919-10-30/ed-1/"
+  ],
+  "shelf_id": "12",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "cheyenne (wyo.)",
+    "laramie",
+    "cheyenne",
+    "laramie county",
+    "laramie county (wyo.)",
+    "newspapers",
+    "wyoming"
+  ],
+  "timestamp": "2023-06-28T09:39:18.253Z",
+  "title": "Image 12 of Wyoming state tribune (Cheyenne, Wyo.), October 30, 1919",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83025232/1919-10-30/ed-1/?sp=12&q=reconstruction",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwyu%2Fbatch_wyu_laramie_ver03%2Fdata%2Fsn83025232%2F00513687321%2F1919103001%2F0028.xml&q=reconstruction&relevant_snippet=1"
+}

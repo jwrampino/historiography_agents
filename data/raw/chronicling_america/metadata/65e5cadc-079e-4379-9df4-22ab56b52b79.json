@@ -1,0 +1,136 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2004540423/1918-01-25/ed-1/?sp=68"
+  ],
+  "batch": [
+    "dlc_1hogsmeade_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1918-01-25",
+  "dates": [
+    "1918-01-25"
+  ],
+  "description": [
+    "pr VOLUTDNIN AUSTRIASURE LEADERS SSI EVEN IF NOT ALREADY HERE UPHEAVAL MUST COME SOON AUSTRIAN SOCIALISTS HERE SAY 1 Leaders of the Hungarian Socialist movement in this city were jubilant to day over the news that a successful workingmans revolution in Austria Hungary has started on its way The revolution was interpreted by them into a demand on the part of the Austrian and Hungarian proletariat for the immediate cessation of hostili ties for bread and for the franchise Tfiey declared that the revolution was only the logical result of the long endured enslavement of the people by the military despotisms of Austria and Germany of the unbelievably high prices demanded for the necessities of life and the insistent denial by the rul ing class of the franchise Despotism they say has brought to pass its own doom The war must cease That declare the Socialist leaders is the insistent demand of the people since the con tinuation of the has brought a state ol nearstarvation among the people of the dual empire Nothing less than the immediate cessation of hostilities will suffice the people their loaders here say There are some Hungarian Socialists who shake their heads a little"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-19T00:31:09.109Z",
+  "group": [
+    "sgpww1newspaperclippings/dlc",
+    "wwi-newspaper-clippings"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2004540423/1918-01-25/ed-1/?sp=68",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_1hogsmeade_ver02:data:2004540423:print00192512566:1918012501:0068/full/pct:6.25/0/default.jpg#h=454&w=343",
+    "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_1hogsmeade_ver02:data:2004540423:print00192512566:1918012501:0068/full/pct:12.5/0/default.jpg#h=909&w=687",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/sgp/sgpbatches/batch_dlc_1hogsmeade_ver02/data/2004540423/print00192512566/1918012501/0068.xml&format=alto_xml"
+  ],
+  "index": 16,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "new york",
+    "united states",
+    "germany"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "2004540423",
+    "1",
+    "0000000068"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2004540423"
+  ],
+  "number_page": [
+    "0000000068"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2004540423-1918-01-25-ed-1-0068",
+  "partof": [
+    "world war history: newspaper clippings, 1914-1926",
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "world war history: newspaper clippings, 1914-1926"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "world war history : daily records and comments as appeared in american and foreign newspapers, 1914-1926 (new york) 1928-"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2004540423/1918-01-25/ed-1/?sp=68"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2004540423/1918-01-25/ed-1/"
+  ],
+  "shelf_id": "068",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "new york",
+    "history",
+    "armistices",
+    "allied occupation",
+    "united states",
+    "sources",
+    "germany",
+    "world war"
+  ],
+  "timestamp": "2022-11-09T15:42:49.135Z",
+  "title": "Image 68 of World War history : daily records and comments as appeared in American and foreign newspapers, 1914-1926 (New York), January 25, 1918, (1918 January 25-29)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2004540423/1918-01-25/ed-1/?sp=68&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fsgp%2Fsgpbatches%2Fbatch_dlc_1hogsmeade_ver02%2Fdata%2F2004540423%2Fprint00192512566%2F1918012501%2F0068.xml&q=revolution&relevant_snippet=1"
+}

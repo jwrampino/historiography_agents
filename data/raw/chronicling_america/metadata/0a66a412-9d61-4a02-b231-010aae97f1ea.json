@@ -1,0 +1,155 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2023271006/1946-06-07/ed-1/?sp=2"
+  ],
+  "batch": [
+    "mnhi_falstaff_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/minnesota/",
+    "2/united states/minnesota/hennepin/",
+    "3/united states/minnesota/hennepin/fort snelling/"
+  ],
+  "contributor": [
+    "minnesota historical society; saint paul, mn"
+  ],
+  "date": "1946-06-07",
+  "dates": [
+    "1946-06-07"
+  ],
+  "description": [
+    "ntt Sulkttn Published Weekly for FL Snelling Minnesota Sponsored by Post Central Fund Edited by the Information and Education Office HARRY J KERLEY Colonel Infantry Commanding B H DAVISON Capt CMP Information and Education Officer Tec 4 HENRY K MAKINO Editor Cpl LEROY KRILL Reporter Pfc TOM TAJIRI MISLS Reporter SSgt WILFRED HARVIEUX Staff Photographer Pvt FRED TANIGUCHI MISLS Photographer MSgt TOM OKAMOTO Cartoonist News matter pertaining to the Post released by the Public Relations Office is available for general use The BULLETIN uses material supplied by the Camp News paper Service 205 E 42nd Street New York City Republication of such credited matter prohibited without permission of CNS Republication of other items prohibited unless credited to the BULLETIN The policies and statements reflected through this paper are not to be considered those of the United States Army but rather the personal opinions of the officers and enlisted personnel sub mitting the articles Th Oldt Pott Publication in the U S Army FOR PUBLICATION OF ITEMS CALL EXTENSION 124 PLUME xni 7 JUNE 1946 Ft Snelling Minn No 23 Between You And Me We Americans may not like to think of ourselves as being slow but sure but in at"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-07-10T19:37:39.604Z",
+  "group": [
+    "ndnp/mnhi",
+    "minnesota-historical-society-saint-paul-mn-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2023271006/1946-06-07/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_falstaff_ver01:data:2023271006:00517012282:1946060701:1533/full/pct:6.25/0/default.jpg#h=340&w=235",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_falstaff_ver01:data:2023271006:00517012282:1946060701:1533/full/pct:12.5/0/default.jpg#h=680&w=471",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mnhi/batch_mnhi_falstaff_ver01/data/2023271006/00517012282/1946060701/1533.xml&format=alto_xml"
+  ],
+  "index": 126,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "fort snelling",
+    "hennepin",
+    "minnesota"
+  ],
+  "location_city": [
+    "fort snelling"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "hennepin"
+  ],
+  "location_state": [
+    "minnesota"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "5",
+    "1",
+    "2",
+    "7",
+    "2023271006",
+    "0000000002",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2023271006"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "7",
+    "0",
+    "1",
+    "2",
+    "2",
+    "8",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2023271006-1946-06-07-ed-1-1533",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the fort snelling bulletin (fort snelling, minn.) 1928-1946"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the fort snelling bulletin (fort snelling, minn.) 1928-1946"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2023271006/1946-06-07/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2023271006/1946-06-07/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "fort snelling",
+    "hennepin",
+    "minnesota",
+    "fort snelling (minn.)"
+  ],
+  "timestamp": "2025-07-11T01:03:32.180Z",
+  "title": "Image 2 of The Fort Snelling bulletin (Fort Snelling, Minn.), June 7, 1946",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2023271006/1946-06-07/ed-1/?sp=2&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmnhi%2Fbatch_mnhi_falstaff_ver01%2Fdata%2F2023271006%2F00517012282%2F1946060701%2F1533.xml&q=fascism&relevant_snippet=1"
+}

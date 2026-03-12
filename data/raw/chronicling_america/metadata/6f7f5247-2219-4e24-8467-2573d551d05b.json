@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87080287/1901-12-30/ed-1/?sp=4"
+  ],
+  "batch": [
+    "pst_lydia_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/pennsylvania/",
+    "2/united states/pennsylvania/luzerne/",
+    "3/united states/pennsylvania/luzerne/freeland/"
+  ],
+  "contributor": [
+    "penn state university libraries; university park, pa"
+  ],
+  "date": "1901-12-30",
+  "dates": [
+    "1901-12-30"
+  ],
+  "description": [
+    "FREELAND TRIBUNE lataclilhoi ISC3 PUBLISHED EVERY MONDAY WEDNESDAY AND FRIDAY BY THE TRIBUNE PRINTING COMPANY Limited OFFICE MAIN STREET ABOVE CENTRE LONG DISTANCE TELEPHONE SUBSCRIPTION RATES FREELANDThe TRIBUNE IS delivered by carriers to subscribers in Freelaud at the rate of Li cents a mouth payable every two mouths or 150 a year payable in advance The TRIBUNE may be ordered direct from the carriers or from the otfloe Complaints ot irregular or tardy delivery service wiil receive prompt attention BY MAI LThe TRIBUNE is sent to outof town subscribers for 150 a year payable in advance pro rata terms for shorter periods The date when the subscription expires is ou the address label of each paper Prompt re newals must be made at the expiration other wise the subscription will be discontinued Entered at the Postoflice at Freeland Pa as SecondClass Matter FREELAND PA DECEMBER3OI9OI A_T KL I B ED FOREIGN FACTS The death rate of Madras is now about 110 per thousand or double the mean of the last ten years Onethird of the German exports to Togoland and oneseventh of those to East Africa consist of alcoholic drinks Last year r2000 Russian emigrants to Siberia returned to their"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-10-08T16:45:15.611Z",
+  "group": [
+    "ndnp/pst",
+    "penn-state-university-libraries-university-park-pa-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87080287/1901-12-30/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028800:1901123001:0335/full/pct:6.25/0/default.jpg#h=365&w=251",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028800:1901123001:0335/full/pct:12.5/0/default.jpg#h=730&w=502",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/pst/batch_pst_lydia_ver01/data/sn87080287/00296028800/1901123001/0335.xml&format=alto_xml"
+  ],
+  "index": 182,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "pennsylvania",
+    "freeland",
+    "luzerne"
+  ],
+  "location_city": [
+    "freeland"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "luzerne"
+  ],
+  "location_state": [
+    "pennsylvania"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000004",
+    "sn87080287",
+    "9",
+    "2",
+    "6",
+    "8",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87080287"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "6",
+    "0",
+    "2",
+    "8",
+    "8",
+    "0",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87080287-1901-12-30-ed-1-0335",
+  "partof": [
+    "chronicling america",
+    "freeland tribune (freeland, pa.) 1888-1921",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "freeland tribune (freeland, pa.) 1888-1921"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87080287/1901-12-30/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87080287/1901-12-30/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "freeland (pa.)",
+    "pennsylvania",
+    "united states",
+    "newspapers",
+    "freeland",
+    "luzerne"
+  ],
+  "timestamp": "2022-10-28T13:47:45.452Z",
+  "title": "Image 4 of Freeland tribune (Freeland, Pa.), December 30, 1901",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87080287/1901-12-30/ed-1/?sp=4&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fpst%2Fbatch_pst_lydia_ver01%2Fdata%2Fsn87080287%2F00296028800%2F1901123001%2F0335.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

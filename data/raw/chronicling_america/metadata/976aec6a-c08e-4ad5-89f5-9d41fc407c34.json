@@ -1,0 +1,167 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn86063034/1896-03-03/ed-1/?sp=1"
+  ],
+  "batch": [
+    "gu_endeavour_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/georgia/",
+    "2/united states/georgia/chatham/",
+    "3/united states/georgia/chatham/savannah/"
+  ],
+  "contributor": [
+    "digital library of georgia, a project of galileo located at the university of georgia libraries"
+  ],
+  "date": "1896-03-03",
+  "dates": [
+    "1896-03-03"
+  ],
+  "description": [
+    "the MORNING NEWS i Established Iso Incorporated 188 J H ESTILL President EUROPE SHOWING ITS ENMITY the leadiic newspapers hos tile TO ISCLE SAM Spain Reported to Bt Endeavoring to Secure the Intervention of France Against tlie Tutted States Parisian Papers Not Friendly to This Country In Their Comments The London News Impartial Hfrlin March 2The North German Ga ue commenting upon the demonstra tion in Barcelona yesterday says that Suains indignation and excitement is mite natural Nobody in the meantime however need look upon the reported in cased armament of Spain as tragic Still r President Cleveland should follow up the Senates request and recognise the Cuban rebels as belligerents before the ne gotiations between Washington and Ma drid upon the subject are ended then the negotiations ought to b terminated The Frankfort Zeitung asserts that se cret negotiations are proceeding between Prance and Spain with the object on the part of Spain of procuring the interven tion of France against the United States The Lokal Anzeiger says that the action in regard to Cuba has resulted inter nationally In a natural explosion of Span ish indignation and a determination on the part of the government and the people"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-05-22T12:56:16.143Z",
+  "group": [
+    "ndnp/gu",
+    "digital-library-of-georgia-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn86063034/1896-03-03/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182173:1896030301:0593/full/pct:3.125/0/default.jpg#h=279&w=222",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182173:1896030301:0593/full/pct:6.25/0/default.jpg#h=558&w=445",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182173:1896030301:0593/full/pct:12.5/0/default.jpg#h=1116&w=890",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/gu/batch_gu_endeavour_ver01/data/sn86063034/00414182173/1896030301/0593.xml&format=alto_xml"
+  ],
+  "index": 27,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "georgia",
+    "united states",
+    "savannah",
+    "chatham county",
+    "chatham"
+  ],
+  "location_city": [
+    "savannah"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "chatham"
+  ],
+  "location_state": [
+    "georgia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "8",
+    "sn86063034",
+    "7",
+    "4",
+    "3",
+    "2",
+    "0",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn86063034"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "1",
+    "8",
+    "2",
+    "1",
+    "7",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Savannah morning news",
+    "Sunday issue may sometimes be known as: Sunday news",
+    "Sunday issue may sometimes be known as: Sunday morning news"
+  ],
+  "page_id": "sn86063034-1896-03-03-ed-1-0593",
+  "partof": [
+    "the morning news (savannah, ga.) 1887-1900",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the morning news (savannah, ga.) 1887-1900"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn86063034/1896-03-03/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn86063034/1896-03-03/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "georgia",
+    "united states",
+    "savannah",
+    "savannah (ga.)",
+    "newspapers",
+    "chatham county",
+    "chatham county (ga.)",
+    "chatham"
+  ],
+  "timestamp": "2024-05-22T20:24:15.140Z",
+  "title": "Image 1 of The morning news (Savannah, Ga.), March 3, 1896",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn86063034/1896-03-03/ed-1/?sp=1&q=cuba",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fgu%2Fbatch_gu_endeavour_ver01%2Fdata%2Fsn86063034%2F00414182173%2F1896030301%2F0593.xml&q=cuba&relevant_snippet=1"
+}

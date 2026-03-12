@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn78000873/1903-10-22/ed-1/?sp=3"
+  ],
+  "batch": [
+    "me_camden_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/maine/",
+    "2/united states/maine/waldo/",
+    "3/united states/maine/waldo/belfast/"
+  ],
+  "contributor": [
+    "maine state library"
+  ],
+  "date": "1903-10-22",
+  "dates": [
+    "1903-10-22"
+  ],
+  "description": [
+    "MUMMY HUNTING n Aboriginal Cemetery on the Shore of the Southern Pacific Where Thousands of Mummies May be Had for the Digging special Correspondence of The Journall sAS Marcos de Arica Chili pt 12 1903 To my mind there no more interesting region on e western side of the continent in this which by right belongs Pern hut was seized by Chili during a ent war Besides the nitrate and mo fields IquiquiTarapaca Atacama nd other places familiar to the world includes the important city of Taena uty miles inland and Arica its sea it Approached by steamer the most spicuous feature of the shore is an unions promontory just south of a called the Morro which rises al t perpendicularly out of the Pacific height of 1200 feet and then slips it a steep grade to the sandy plain iml it To the north of the Morro t low line of verdure a cluster of lent built houses a rather handsome ircli and a long molethe latter 1 high with bags bales and boxes crowded with merchants carga s soldiers and civilians This is i the famous port but in spite of mole steamers must cast anchor out in"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-07-03T14:06:19.405Z",
+  "group": [
+    "ndnp/me",
+    "maine-state-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn78000873/1903-10-22/ed-1/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:0027952486A:1903102201:0353/full/pct:6.25/0/default.jpg#h=421&w=304",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:0027952486A:1903102201:0353/full/pct:12.5/0/default.jpg#h=843&w=609",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/me/batch_me_camden_ver01/data/sn78000873/0027952486A/1903102201/0353.xml&format=alto_xml"
+  ],
+  "index": 144,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "waldo",
+    "maine",
+    "belfast"
+  ],
+  "location_city": [
+    "belfast"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "waldo"
+  ],
+  "location_state": [
+    "maine"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000003",
+    "a",
+    "9",
+    "2",
+    "sn78000873",
+    "8",
+    "5",
+    "6",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn78000873"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "2",
+    "4",
+    "8",
+    "6",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn78000873-1903-10-22-ed-1-0353",
+  "partof": [
+    "chronicling america",
+    "the republican journal (belfast, me.) 1829-current",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the republican journal (belfast, me.) 1829-current"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn78000873/1903-10-22/ed-1/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn78000873/1903-10-22/ed-1/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "belfast",
+    "belfast (me.)",
+    "waldo",
+    "maine",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2023-07-05T19:50:50.664Z",
+  "title": "Image 3 of The Republican journal (Belfast, Me.), October 22, 1903",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn78000873/1903-10-22/ed-1/?sp=3&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fme%2Fbatch_me_camden_ver01%2Fdata%2Fsn78000873%2F0027952486A%2F1903102201%2F0353.xml&q=korea&relevant_snippet=1"
+}

@@ -1,0 +1,131 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16091/?sp=3"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1805-10-01",
+  "dates": [
+    "1805-10-01"
+  ],
+  "description": [
+    "eee 6 5 er eg PP CP a aaa Sey 8 3 l eee Se Se ae eS ee a eS LS MADRASSEPTEMBER fr 1805 On the 7th Inftant arrived the Americar Ship William Penn Captain Volens from Philadelphia left the 6th of May We have been favored with the American Papers brought by Capt Volens to the zoth of April and have made the extracts from them which ers will find in the fubfequent Thefe extras confirm in fome meafure our former ftatements refpecting the progrefs of the French in the Weft Indies In addition to the Contributions jevied a St Chriftophers as ftated in the Philadel phia Journal of the 27th of April we learn that the enemy obtained 2000 Guineas from four Gentlemen whom hey detained as hof tages and until that fum was paid the general tenor of their condu\u00e9t mug however be acknowledged to have been liberai and humane not the fmalleft violence was of fered to any Inhabitant of the Ifland The Conduct of the Freach Commanders was equally hamane and corre\u00e9 at Nevis The French Squadron we learn proceeded from the litcle Ifland of Nevis to St Lucia where they levieda Contribution the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16091/?sp=3",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16091:0003/full/pct:6.25/0/default.jpg#h=485&w=328",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16091:0003/full/pct:12.5/0/default.jpg#h=970&w=656",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16091:0003/full/pct:25.0/0/default.jpg#h=1940&w=1313",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16091:0003/full/pct:50.0/0/default.jpg#h=3880&w=2626",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16091:0003/full/pct:100.0/0/default.jpg#h=7760&w=5253",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16091/0003.alto.xml&format=alto_xml"
+  ],
+  "index": 48,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "india",
+    "calcutta"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "sn88063570",
+    "0000000003",
+    "sn88063571",
+    "sn88063569",
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000003"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16091-0003-alto",
+  "partof": [
+    "asian division",
+    "general collections",
+    "world newspapers",
+    "catalog",
+    "south asian digital collection",
+    "serial and government publications division",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "world digital library"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16091/?sp=3"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16091/"
+  ],
+  "shelf_id": "3",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "india",
+    "calcutta"
+  ],
+  "timestamp": "2025-12-12T07:20:04.983Z",
+  "title": "Image 3 of Volume 11, Number 559, Tuesday, October 1, 1805 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16091/?sp=3&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16091%2F0003.alto.xml&q=great+war&relevant_snippet=1"
+}

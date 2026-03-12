@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85034357/1932-02-19/ed-1/?sp=2"
+  ],
+  "batch": [
+    "vi_fortis_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/virginia/",
+    "2/united states/virginia/tazewell/",
+    "3/united states/virginia/tazewell/tazewell/",
+    "3/united states/virginia/tazewell/jeffersonville/"
+  ],
+  "contributor": [
+    "library of virginia; richmond, va"
+  ],
+  "date": "1932-02-19",
+  "dates": [
+    "1932-02-19"
+  ],
+  "description": [
+    "Clinch Valley News J A LESLIE SON Publisher ESTABLISHED 1845 Entered at the Tazewell Va post office as second class mail matter under act of Congress Terms of Subscription In Advance By mail postpaid one year_150 FRIDAY FEBRUARY 10 1932 WHY A citizen living in a Town in the county is interested in knowing the rasons for the Taxpayers League whether it has or can accomplish anything what departments of the county government if any are wast ing the county funds and what is the prospect for tax relief in the county We can answer the first question by saying that the taxpayers league is composed of a group of gentlemen who are acting more in an advisory capacity and have so far cooperated with the Board of Supervisors in their efforts to grant relief wherever possible We are not convinced that the charge that the league was con ceived in iniquity and born of cor ruption is true but we have always believed that its effort to assume the role of reformer and dictator in a county that has been economially run without the slightest hint of misap propriation of funds or mismanage ment will avail nothing The only"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-07-07T00:18:57.004Z",
+  "group": [
+    "ndnp/vi",
+    "library-of-virginia-richmond-va-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85034357/1932-02-19/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fortis_ver01:data:sn85034357:00542867061:1932021901:0032/full/pct:6.25/0/default.jpg#h=408&w=307",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fortis_ver01:data:sn85034357:00542867061:1932021901:0032/full/pct:12.5/0/default.jpg#h=817&w=614",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/vi/batch_vi_fortis_ver01/data/sn85034357/00542867061/1932021901/0032.xml&format=alto_xml"
+  ],
+  "index": 30,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "jeffersonville",
+    "tazewell",
+    "virginia"
+  ],
+  "location_city": [
+    "tazewell",
+    "jeffersonville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "tazewell"
+  ],
+  "location_state": [
+    "virginia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn85034357",
+    "5",
+    "2",
+    "4",
+    "6",
+    "1",
+    "7",
+    "0000000002",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85034357"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "2",
+    "8",
+    "6",
+    "7",
+    "0",
+    "6",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85034357-1932-02-19-ed-1-0032",
+  "partof": [
+    "chronicling america",
+    "clinch valley news (jeffersonville, va.) 18??-2019",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "clinch valley news (jeffersonville, va.) 18??-2019"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85034357/1932-02-19/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85034357/1932-02-19/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "tazewell (va.)",
+    "united states",
+    "newspapers",
+    "tazewell",
+    "jeffersonville",
+    "virginia"
+  ],
+  "timestamp": "2024-07-07T00:41:36.396Z",
+  "title": "Image 2 of Clinch Valley news (Jeffersonville, Va.), February 19, 1932",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85034357/1932-02-19/ed-1/?sp=2&q=great+depressiom",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fvi%2Fbatch_vi_fortis_ver01%2Fdata%2Fsn85034357%2F00542867061%2F1932021901%2F0032.xml&q=great+depressiom&relevant_snippet=1"
+}

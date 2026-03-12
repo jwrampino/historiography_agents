@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84026749/1922-06-02/ed-1/?sp=15"
+  ],
+  "batch": [
+    "dlc_chihuahua_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1922-06-02",
+  "dates": [
+    "1922-06-02"
+  ],
+  "description": [
+    "ADVERTSEMENT RRST BOTTLE RI BROUGHT RELIEF Mrs Thomas Stewart of Dun more Pa Suffered Terrible AfterEffects of Flu Until Re lieved by The Reese Formula R11 1 Ever since I had the Flu two years sgo I have suffered from my stomach liver and kidneys until Reese Formula Rll cured me salti Mrs Thomas Stewart of 61S William street Dunmore Pa Mrs Stewart continued I was constipated my head would ache and I had pains all through my body particularly through my back due to my kidneys Everything I would eat caused Indigestion and severe suffering I tried many remedies aad took all the medicine the doctor prescribed but until I began taking the Reese Formula Rll I received ltttje If any relief Although I have taken only a few bottles of Reese Formula Rll I sm completely recovered and feel even better than I did before I had the Flu I want to heartily rec ommend your great tonic for I know from personal experience what a wonderful medicine It ia Get a bottle of Reese Formula Rll from Peoples Drug Store or any other druK store HEALUPYOURSKIN Broken Out Skin and Itching Eczema Helped Over Night For unsightly"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-01-08T13:47:10.571Z",
+  "group": [
+    "ndnp/dlc-2011_2013",
+    "library-of-congress-washington-dc-awardee-4"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84026749/1922-06-02/ed-1/?sp=15",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chihuahua_ver02:data:sn84026749:00280764863:1922060201:0738/full/pct:6.25/0/default.jpg#h=429&w=355",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chihuahua_ver02:data:sn84026749:00280764863:1922060201:0738/full/pct:12.5/0/default.jpg#h=859&w=710",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_chihuahua_ver02/data/sn84026749/00280764863/1922060201/0738.xml&format=alto_xml"
+  ],
+  "index": 62,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "washington d.c.",
+    "united states",
+    "district of columbia",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "sn84026749",
+    "0000000015",
+    "7",
+    "4",
+    "3",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84026749"
+  ],
+  "number_page": [
+    "0000000015"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "7",
+    "6",
+    "4",
+    "8",
+    "6",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Washington times herald"
+  ],
+  "page_id": "sn84026749-1922-06-02-ed-1-0738",
+  "partof": [
+    "serial and government publications division",
+    "the washington times (washington [d.c.]) 1902-1939",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington times (washington [d.c.]) 1902-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84026749/1922-06-02/ed-1/?sp=15"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84026749/1922-06-02/ed-1/"
+  ],
+  "shelf_id": "15",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "washington",
+    "newspapers",
+    "district of columbia",
+    "https://id.oclc.org/worldcat/entity/e39pbjfcwcmmjdpvk8h8hpkccp",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2025-01-08T15:54:17.362Z",
+  "title": "Image 15 of The Washington times (Washington [D.C.]), June 2, 1922, (HOME FINAL EDITION)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84026749/1922-06-02/ed-1/?sp=15&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_chihuahua_ver02%2Fdata%2Fsn84026749%2F00280764863%2F1922060201%2F0738.xml&q=child+labor&relevant_snippet=1"
+}

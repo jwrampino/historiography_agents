@@ -1,0 +1,170 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88078683/1920-11-20/ed-1/?sp=7"
+  ],
+  "batch": [
+    "ohi_byrd_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/",
+    "1/united states/ohio/",
+    "2/united states/ohio/cuyahoga/",
+    "3/united states/ohio/cuyahoga/cleveland/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1920-11-20",
+  "dates": [
+    "1920-11-20"
+  ],
+  "description": [
+    "SATURDAY NOV 20th 1920 THE TOILER PAGE J Industrial Management By John Lawrence We hear a great deal about the conquest of political power as an event for which the workers must prepare This is indeed an essential phase of the Revolution and cannot be too much emphasized At the same time it must be remembered that the Revolution means the taking over by the work ers of the means of production This industrial procedure will be the backbone of the Social Revo lution The political act the setting up of a work ers government or proletarian dictatorship will be the means by which this industrial transformation will take place Taking over of the industries will proceed Rapid ly under the proletarian dictatorship but the pre paration for it must be begun now We see that the Italian workers have already taken over a large part of the industries of their country in anticipation of the political conquest or overthrow of the capitalist state which is being prepared for and will take place at any time Both are necessary the political Act and the industrial preparation It is in the industrial field that most of the workers will be called"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:15:28.475Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88078683/1920-11-20/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn88078683:00280774789:1920112001:0396/full/pct:12.5/0/default.jpg#h=483&w=358",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn88078683:00280774789:1920112001:0396/full/pct:25/0/default.jpg#h=966&w=717",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_byrd_ver01/data/sn88078683/00280774789/1920112001/0396.xml&format=alto_xml"
+  ],
+  "index": 58,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "new york",
+    "cleveland",
+    "ohio",
+    "new york city",
+    "cuyahoga",
+    "united states"
+  ],
+  "location_city": [
+    "new york",
+    "cleveland"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york",
+    "cuyahoga"
+  ],
+  "location_state": [
+    "new york",
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000007",
+    "9",
+    "sn88078683",
+    "2",
+    "8",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88078683"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "7",
+    "7",
+    "4",
+    "7",
+    "8",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88078683-1920-11-20-ed-1-0396",
+  "partof": [
+    "the toiler (cleveland, ohio) 1919-1922",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the toiler (cleveland, ohio) 1919-1922"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88078683/1920-11-20/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88078683/1920-11-20/ed-1/"
+  ],
+  "shelf_id": "07",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "new york",
+    "new york (state)",
+    "cleveland",
+    "ohio",
+    "cuyahoga",
+    "communism",
+    "cleveland (ohio)",
+    "labor movement",
+    "united states",
+    "newspapers",
+    "new york (n.y.)"
+  ],
+  "timestamp": "2023-09-05T04:41:41.828Z",
+  "title": "Image 7 of The toiler (Cleveland, Ohio), November 20, 1920",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88078683/1920-11-20/ed-1/?sp=7&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_byrd_ver01%2Fdata%2Fsn88078683%2F00280774789%2F1920112001%2F0396.xml&q=revolution&relevant_snippet=1"
+}

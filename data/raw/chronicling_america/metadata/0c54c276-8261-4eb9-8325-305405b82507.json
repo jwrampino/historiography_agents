@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88061076/1859-10-07/ed-1/?sp=1"
+  ],
+  "batch": [
+    "tu_homer_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/tennessee/",
+    "2/united states/tennessee/montgomery/",
+    "3/united states/tennessee/montgomery/clarksville/"
+  ],
+  "contributor": [
+    "university of tennessee"
+  ],
+  "date": "1859-10-07",
+  "dates": [
+    "1859-10-07"
+  ],
+  "description": [
+    "1 u VOLUM 10 CLABKSVILLETENNVERIDAYv OCTOBER 1859 NUMBER 40 A 1 1 At 1 1 Mr u v f THE Oil R0N10LE Printed Weekly on a doublemedium sheet every rftdsy morning by NEBLETT GRANT Pullihtri and Proprieori r TFfinsl OK THE TAPER Per annum in advance 2 TEltMS OF ADVER I lSlJfO frnR nMI sqUARt One Insertion Two insertions Jhrse Insertions One month V L 11F TWELVE LINKS OR ftfl 1 Two mouths I So I Three months 200 Six mouths 950 I Twelve month 45n sno 1500 OCTOBER BY mart iu ami 01 OcTontR skies are weeping Oer the seared and yellow groat And Octolier winds are sweeping Rustling dead leaves as they pns Rlent la their mossy chambers Summers pule tweet flower sleep While the winds with solemn murmurs Oer hem mournful vigils keep t fc In my hearts own silent chandlers Are pale flowers of the past Ami they rnsiie to the murmur Of the mournful nutumn blast 1 A W I F E FOIl A MAN IX MODERATE CIRCUMSTANCES s x 1 If yon marry that girt brothcrvTom Ill have nothing to rlo with her I wont sit her nor call Ler sister nor even peak"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-10-19T12:38:55.462Z",
+  "group": [
+    "ndnp/tu",
+    "university-of-tennessee-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88061076/1859-10-07/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061076:00200293897:1859100701:0576/full/pct:6.25/0/default.jpg#h=438&w=365",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061076:00200293897:1859100701:0576/full/pct:12.5/0/default.jpg#h=876&w=731",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/tu/batch_tu_homer_ver01/data/sn88061076/00200293897/1859100701/0576.xml&format=alto_xml"
+  ],
+  "index": 124,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "tennessee",
+    "united states",
+    "montgomery county",
+    "montgomery",
+    "clarksville"
+  ],
+  "location_city": [
+    "clarksville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "montgomery"
+  ],
+  "location_state": [
+    "tennessee"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "sn88061076",
+    "0000000001",
+    "2",
+    "8",
+    "3",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88061076"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "0",
+    "2",
+    "9",
+    "3",
+    "8",
+    "9",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88061076-1859-10-07-ed-1-0576",
+  "partof": [
+    "clarksville chronicle (clarksville, tenn.) 1857-1865",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "clarksville chronicle (clarksville, tenn.) 1857-1865"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88061076/1859-10-07/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88061076/1859-10-07/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "clarksville (tenn.)",
+    "montgomery county (tenn.)",
+    "tennessee",
+    "newspapers",
+    "montgomery county",
+    "montgomery",
+    "clarksville"
+  ],
+  "timestamp": "2022-10-28T04:16:22.464Z",
+  "title": "Image 1 of Clarksville chronicle (Clarksville, Tenn.), October 7, 1859",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88061076/1859-10-07/ed-1/?sp=1&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Ftu%2Fbatch_tu_homer_ver01%2Fdata%2Fsn88061076%2F00200293897%2F1859100701%2F0576.xml&q=manifest+destiny&relevant_snippet=1"
+}

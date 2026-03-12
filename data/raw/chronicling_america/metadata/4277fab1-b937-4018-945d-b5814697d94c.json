@@ -1,0 +1,160 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn92053389/1840-12-19/ed-1/?sp=2"
+  ],
+  "batch": [
+    "iune_albatross_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/illinois/",
+    "2/united states/illinois/la salle/",
+    "3/united states/illinois/la salle/lowell/"
+  ],
+  "contributor": [
+    "university of illinois at urbana-champaign library, urbana, il"
+  ],
+  "date": "1840-12-19",
+  "dates": [
+    "1840-12-19"
+  ],
+  "description": [
+    "GENIUS OF LIBERTY Truth crushed to eisrth will rise again The eternal years of God are hers But Error wounded writhes in pain And dies amid her worshipers SATURDAY DECEMBER 19 1810 We this day present lo the people c Illinois the first number of the Genius of Liberty and in accordance with the usual and very appropriate practice it will he expected that the Editors upon their first appearance will make a declaration of the principles by which they intend to be go verned At the head of our firstpagc will be found from week to week that well known extract from the Declaration of In dependence which is the acknowledged political creed of our country and it will be as its prominent place indicates the guiding star of our course Upon the prin ciples of this motto rest all that is held sacred by man and upon these are placed his hope sin the final emancipation and ex altation of the human race from oppression of every kind the beauty ad practical Utility cf hich have been exhibited in the almost successful attempt made by the peo ple of this country at free grovernment Were it not for"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-05-21T10:15:42.216Z",
+  "group": [
+    "ndnp/iune",
+    "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn92053389/1840-12-19/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn92053389:00514151179:1840121901:0005/full/pct:6.25/0/default.jpg#h=372&w=233",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn92053389:00514151179:1840121901:0005/full/pct:12.5/0/default.jpg#h=744&w=467",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_albatross_ver01/data/sn92053389/00514151179/1840121901/0005.xml&format=alto_xml"
+  ],
+  "index": 23,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "la salle county",
+    "lowell",
+    "illinois",
+    "la salle",
+    "united states"
+  ],
+  "location_city": [
+    "lowell"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "la salle"
+  ],
+  "location_state": [
+    "illinois"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "4",
+    "9",
+    "sn92053389",
+    "5",
+    "0000000002",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn92053389"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "4",
+    "1",
+    "5",
+    "1",
+    "1",
+    "7",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn92053389-1840-12-19-ed-1-0005",
+  "partof": [
+    "genius of liberty (lowell, la salle county, ill.) 1840-1842",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "genius of liberty (lowell, la salle county, ill.) 1840-1842"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn92053389/1840-12-19/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn92053389/1840-12-19/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "antislavery movements",
+    "la salle county",
+    "lowell",
+    "lowell (ill.)",
+    "illinois",
+    "la salle county (ill.)",
+    "la salle",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2025-05-21T11:10:24.381Z",
+  "title": "Image 2 of Genius of liberty (Lowell, La Salle County, Ill.), December 19, 1840",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn92053389/1840-12-19/ed-1/?sp=2&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiune%2Fbatch_iune_albatross_ver01%2Fdata%2Fsn92053389%2F00514151179%2F1840121901%2F0005.xml&q=slavery&relevant_snippet=1"
+}

@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045298/1959-07-25/ed-1/?sp=6"
+  ],
+  "batch": [
+    "ak_arctictern_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/alaska/",
+    "3/united states/alaska/kodiak/"
+  ],
+  "contributor": [
+    "alaska state library historical collections"
+  ],
+  "date": "1959-07-25",
+  "dates": [
+    "1959-07-25"
+  ],
+  "description": [
+    "Officer Tells of Strides Made in Attack Warning System Development Fantastic developments that smack of Buck Rogers but that are now accomplishments in the warning system designed to pro tect the United States from sur prise attack were described for Rotarians Tuesday at their noon Vuncheon at the 49 Room by 1st Lt Don M Fenner Air Force who is on leave visiting his par ents Mr and Mrs A L Fenner Lt Fenner is stationed at Rich ardsGebaur Air Force Base near Kansas CityJMo which is the site of the warning system he told about The system is called SAGE he said and stands for SemiAuto matic Ground Environment About the only thing that keeps it from being completely automatic he added is that at one point some one must make the decision to shoot or not shoot if an enemy plane is detected Even White Alice the commun ication network that has a unit at Kodiak plays a part along with the DEW line PINE line and Texas towers the Navy provides transportation the ACS communi cation and the NIKE and other missile sites and everalert inter ceptor and fighterplanes perform the last steps before destruction of an"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-05-22T12:56:52.757Z",
+  "group": [
+    "ndnp/ak",
+    "alaska-state-library-historical-collections-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045298/1959-07-25/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_arctictern_ver01:data:sn83045298:00414185642:1959072501:0298/full/pct:3.125/0/default.jpg#h=292&w=196",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_arctictern_ver01:data:sn83045298:00414185642:1959072501:0298/full/pct:6.25/0/default.jpg#h=584&w=393",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_arctictern_ver01:data:sn83045298:00414185642:1959072501:0298/full/pct:12.5/0/default.jpg#h=1169&w=787",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ak/batch_ak_arctictern_ver01/data/sn83045298/00414185642/1959072501/0298.xml&format=alto_xml"
+  ],
+  "index": 154,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "kodiak",
+    "united states",
+    "alaska"
+  ],
+  "location_city": [
+    "kodiak"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "alaska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn83045298",
+    "8",
+    "0",
+    "2",
+    "0000000006",
+    "1",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045298"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "4",
+    "1",
+    "8",
+    "5",
+    "6",
+    "4",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Kodiak daily mirror"
+  ],
+  "page_id": "sn83045298-1959-07-25-ed-1-0298",
+  "partof": [
+    "kodiak mirror (kodiak, alaska) 1940-1976",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "kodiak mirror (kodiak, alaska) 1940-1976"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045298/1959-07-25/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045298/1959-07-25/ed-1/"
+  ],
+  "shelf_id": "06",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "alaska",
+    "kodiak (alaska)",
+    "kodiak",
+    "united states"
+  ],
+  "timestamp": "2024-05-22T13:56:44.420Z",
+  "title": "Image 6 of Kodiak mirror (Kodiak, Alaska), July 25, 1959",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045298/1959-07-25/ed-1/?sp=6&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fak%2Fbatch_ak_arctictern_ver01%2Fdata%2Fsn83045298%2F00414185642%2F1959072501%2F0298.xml&q=computers&relevant_snippet=1"
+}

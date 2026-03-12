@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2017236974/1936-02-27/ed-1/?sp=8"
+  ],
+  "batch": [
+    "ncu_juniper_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/north carolina/",
+    "2/united states/north carolina/halifax/",
+    "3/united states/north carolina/halifax/roanoke rapids/"
+  ],
+  "contributor": [
+    "university of north carolina at chapel hill library, chapel hill, nc"
+  ],
+  "date": "1936-02-27",
+  "dates": [
+    "1936-02-27"
+  ],
+  "description": [
+    "Reid Compares United States With Many Foreign Countries European Forms Take All Rights Away From Citizen 0 American Democracy with all its faults compares most favorably with the new Eu ropean dictatorships and Democracy can and must be preserved by our people said P A Reid Principal of the Roanoke Rapids High School in a recent address to the Womans Club of this city Mr Reids speech was as follows Preserving American Democracy Americans believe in liberty They know however that without a sound and honest government liberty cannot be safe A vital question with them must be What kind of government will protect liberty and at the same time render the service that is needed to make a people happy and progressive Along with lib erty Americans have believed that democracy is the soundest prin ciple on which to build a govern mnet Shall we inquire whether that belief is correct and if so how democracy may be safe guarded Progress of Democracy We speak most often of the political side of democracy The democrat ic idea in government is that peo ple shall decide the form of their government and the policies it will pursue They may do"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-12T17:37:29.537Z",
+  "group": [
+    "ndnp/ncu",
+    "university-of-north-carolina-chapel-hill-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2017236974/1936-02-27/ed-1/?sp=8",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_juniper_ver01:data:2017236974:00279558984:1936022701:0178/full/pct:6.25/0/default.jpg#h=334&w=229",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_juniper_ver01:data:2017236974:00279558984:1936022701:0178/full/pct:12.5/0/default.jpg#h=669&w=458",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ncu/batch_ncu_juniper_ver01/data/2017236974/00279558984/1936022701/0178.xml&format=alto_xml"
+  ],
+  "index": 54,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "roanoke rapids",
+    "north carolina",
+    "halifax county",
+    "halifax"
+  ],
+  "location_city": [
+    "roanoke rapids"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "halifax"
+  ],
+  "location_state": [
+    "north carolina"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "9",
+    "5",
+    "0000000008",
+    "7",
+    "4",
+    "2017236974",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2017236974"
+  ],
+  "number_page": [
+    "0000000008"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "5",
+    "8",
+    "9",
+    "8",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2017236974-1936-02-27-ed-1-0178",
+  "partof": [
+    "serial and government publications division",
+    "chronicling america",
+    "roanoke rapids herald (roanoke rapids, n.c.) 1931-1948"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "roanoke rapids herald (roanoke rapids, n.c.) 1931-1948"
+  ],
+  "publication_frequency": [
+    "semiweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2017236974/1936-02-27/ed-1/?sp=8"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2017236974/1936-02-27/ed-1/"
+  ],
+  "shelf_id": "08",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "roanoke rapids",
+    "halifax county (n.c.)",
+    "newspapers",
+    "roanoke rapids (n.c.)",
+    "north carolina",
+    "halifax county",
+    "halifax"
+  ],
+  "timestamp": "2023-08-13T11:02:14Z",
+  "title": "Image 8 of Roanoke Rapids herald (Roanoke Rapids, N.C.), February 27, 1936",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2017236974/1936-02-27/ed-1/?sp=8&q=fascism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fncu%2Fbatch_ncu_juniper_ver01%2Fdata%2F2017236974%2F00279558984%2F1936022701%2F0178.xml&q=fascism&relevant_snippet=1"
+}

@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84026355/1898-05-16/ed-1/?sp=1"
+  ],
+  "batch": [
+    "pst_atherton_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/pennsylvania/",
+    "2/united states/pennsylvania/lackawanna/",
+    "3/united states/pennsylvania/lackawanna/scranton/"
+  ],
+  "contributor": [
+    "penn state university libraries; university park, pa"
+  ],
+  "date": "1898-05-16",
+  "dates": [
+    "1898-05-16"
+  ],
+  "description": [
+    "Sribiute anntoit ygltr TWO OENTawv SCRAOTON VA MONDAY MORNING MAY 15 1898 TWO CENTS SPANISH SCHEME CONGRESS FORECAST DEWEY CAPTURES ANOTHER PRIZE War Iterenuo Ulll Will Occupy Attention ol thn 8eniteTho lion Will Conildor IU wnilnn Aniiexntton DID NOT WORK Blancos Men Endeavor in Vain to Decoy American Vessels Within Range of the Big Guns at Morro Castle Welcome News from Hong Kong Reinforcements to Be Sent to Dewey at Once Copyright ISO by the Associated Press Key West Flu Mny 15 On board the Associated Press dispatch boat Kate Spencer off Havana May 11 S I m Via Key West Fin Mny 15 C n m Captain General Blanco two hours before sundown tonight at tempted to execute a ruse which If successful would have cleared the front of Havana of six ships on that blockading station Unable to come out to do battle lie adopted the tac tics of the spider and cunningly planned to draw the prey Into his net but though a clever and pretty scheme after an original proposition It was practically a repetition of the trick by which the gunboat Vlcks burg nnd the little converted revenue cutter Morrill were last week decoyed by"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-10-07T22:20:39.038Z",
+  "group": [
+    "ndnp/pst",
+    "penn-state-university-libraries-university-park-pa-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84026355/1898-05-16/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100291:1898051601:0389/full/pct:6.25/0/default.jpg#h=453&w=339",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100291:1898051601:0389/full/pct:12.5/0/default.jpg#h=906&w=678",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/pst/batch_pst_atherton_ver01/data/sn84026355/00211100291/1898051601/0389.xml&format=alto_xml"
+  ],
+  "index": 195,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "scranton",
+    "lackawanna",
+    "lackawanna county",
+    "pennsylvania",
+    "united states"
+  ],
+  "location_city": [
+    "scranton"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lackawanna"
+  ],
+  "location_state": [
+    "pennsylvania"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "2",
+    "9",
+    "sn84026355",
+    "1",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84026355"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "1",
+    "1",
+    "0",
+    "0",
+    "2",
+    "9",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84026355-1898-05-16-ed-1-0389",
+  "partof": [
+    "the scranton tribune (scranton, pa.) 1891-1910",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the scranton tribune (scranton, pa.) 1891-1910"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84026355/1898-05-16/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84026355/1898-05-16/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "scranton",
+    "lackawanna",
+    "lackawanna county (pa.)",
+    "scranton (pa.)",
+    "pennsylvania",
+    "united states"
+  ],
+  "timestamp": "2022-10-27T13:24:40.536Z",
+  "title": "Image 1 of The Scranton tribune (Scranton, Pa.), May 16, 1898, (Morning)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84026355/1898-05-16/ed-1/?sp=1&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fpst%2Fbatch_pst_atherton_ver01%2Fdata%2Fsn84026355%2F00211100291%2F1898051601%2F0389.xml&q=spanish&relevant_snippet=1"
+}

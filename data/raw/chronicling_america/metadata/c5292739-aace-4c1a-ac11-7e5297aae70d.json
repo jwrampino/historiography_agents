@@ -1,0 +1,169 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/ca06001655/1903-06-19/ed-1/?sp=1"
+  ],
+  "batch": [
+    "dlc_antelope_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/kansas/",
+    "2/united states/kansas/douglas/",
+    "3/united states/kansas/douglas/lawrence/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1903-06-19",
+  "dates": [
+    "1903-06-19"
+  ],
+  "description": [
+    "Indian LEADER DEVOTED TO IITDIAI EDUCATION VOL VIL HASKELL INSTITUTE LAWRENCE KANSAS JUNE 19 1903 NO 13 VACATION TIME FRANK W HUTT Goodbye little desk at school good bye Were off to the fields and the open sky The bells of the brooks and the woodland bells Are ringing us out to the vales and dells To meadowways fair and to hilltops cool Goodbye little desk at school Goodbye little desk at school goodbye Weve other brave lessons and tasks to try But we shall come back in the fall you know And as gay to come as we are to go With ever a laugh and never a sigh Goodbye little desk goodbye Little Folks A SACRED DOLL The Indian like any other uncivi lized race has his beliefs in the sacredness of things which he cannot understand as in the thunder and lightning He believes in the sacred ness of the medicine man whatever he says or does is always heeded with respect Often an article of some kind is blessed by these men and kept by his Among these things is descendants a doll that was blessed five of centuries ago by one of these six men"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-08-24T04:47:01.704Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/ca06001655/1903-06-19/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_antelope_ver01:data:ca06001655:00543171645:1903061901:0895/full/pct:6.25/0/default.jpg#h=307&w=222",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_antelope_ver01:data:ca06001655:00543171645:1903061901:0895/full/pct:12.5/0/default.jpg#h=615&w=444",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_antelope_ver01/data/ca06001655/00543171645/1903061901/0895.xml&format=alto_xml"
+  ],
+  "index": 28,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "kansas",
+    "douglas county",
+    "douglas",
+    "lawrence"
+  ],
+  "location_city": [
+    "lawrence"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "douglas"
+  ],
+  "location_state": [
+    "kansas"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "ca06001655",
+    "1",
+    "5",
+    "6",
+    "7",
+    "4",
+    "3",
+    "0",
+    "0000000001"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "ca06001655"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "3",
+    "1",
+    "7",
+    "1",
+    "6",
+    "4",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "ca06001655-1903-06-19-ed-1-0895",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the indian leader (lawrence, kan.) 1897-????"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the indian leader (lawrence, kan.) 1897-????"
+  ],
+  "publication_frequency": [
+    "biweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/ca06001655/1903-06-19/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/ca06001655/1903-06-19/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "lawrence (kan.)",
+    "college student newspapers and periodicals",
+    "douglas",
+    "indians of north america",
+    "haskell indian junior college",
+    "kansas",
+    "newspapers",
+    "douglas county (kan.)",
+    "douglas county",
+    "haskell indian nations university",
+    "education",
+    "haskell institute",
+    "lawrence"
+  ],
+  "subject_ethnicity": [
+    "indians of north america"
+  ],
+  "timestamp": "2025-08-24T04:57:14.882Z",
+  "title": "Image 1 of The Indian leader (Lawrence, Kan.), June 19, 1903",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/ca06001655/1903-06-19/ed-1/?sp=1&q=medicine",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_antelope_ver01%2Fdata%2Fca06001655%2F00543171645%2F1903061901%2F0895.xml&q=medicine&relevant_snippet=1"
+}

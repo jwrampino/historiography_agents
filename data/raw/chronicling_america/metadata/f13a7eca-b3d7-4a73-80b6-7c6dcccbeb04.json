@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045433/1914-06-14/ed-1/?sp=32"
+  ],
+  "batch": [
+    "dlc_continental_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1914-06-14",
+  "dates": [
+    "1914-06-14"
+  ],
+  "description": [
+    "r J T v THE WASHINGTON HEjEfcUDSUNDAY JTJffE 144914 r ffi v INDEPENDENTS FIGHT ON i sMI STANDARD CM a n Li i T t 1 7 r i CKtrles D Chtateriin ef Cleveland Declares Court Decisieh Breaking Up the Pareit Company Has Greatly Increased the Ef ficiency of the Trunk Pipe Lines Br JAMKS B MORROW The latest weapon to be drawn against the Standard Oil Company Is a proposal by Senator Owen of Oklahoma to na tionalize Its 10000 miles of trunk pipe lines valued so John D Rockefeller once said at J5OO0000O Nationalize means purchase Mr Iiockefeller though may contend that It means confiscate Having separated the Standard Into many supposedly detached units the government Is now listening to another plan of attack on the richest monopoly that ever existed The attitude of the White House to ward the project remains undlvulged At least one member of the Cabinet Is not averse to the suggestion Senators on Intimate political and legislative terms with the President are known to favor It The House swarms with publicownership advocaes In the main of course the Idea is to push the frontier of the new freedom forward so as to Include"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-12-09T13:42:24.753Z",
+  "group": [
+    "ndnp/dlc-2009_2010",
+    "library-of-congress-washington-dc-awardee-3"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045433/1914-06-14/ed-1/?sp=32",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn83045433:00294558159:1914061401:0666/full/pct:6.25/0/default.jpg#h=406&w=294",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn83045433:00294558159:1914061401:0666/full/pct:12.5/0/default.jpg#h=813&w=588",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_continental_ver02/data/sn83045433/00294558159/1914061401/0666.xml&format=alto_xml"
+  ],
+  "index": 85,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "washington",
+    "washington d.c.",
+    "district of columbia"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "0000000032",
+    "9",
+    "2",
+    "8",
+    "5",
+    "4",
+    "1",
+    "sn83045433"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045433"
+  ],
+  "number_page": [
+    "0000000032"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "4",
+    "5",
+    "5",
+    "8",
+    "1",
+    "5",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Washington times-herald",
+    "Washington herald times"
+  ],
+  "page_id": "sn83045433-1914-06-14-ed-1-0666",
+  "partof": [
+    "the washington herald (washington, d.c.) 1906-1939",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington herald (washington, d.c.) 1906-1939"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045433/1914-06-14/ed-1/?sp=32"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045433/1914-06-14/ed-1/"
+  ],
+  "shelf_id": "32",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "washington",
+    "washington (d.c.)",
+    "district of columbia",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2024-12-09T20:25:38.889Z",
+  "title": "Image 32 of The Washington herald (Washington, D.C.), June 14, 1914, (MAGAZINE SECTION)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045433/1914-06-14/ed-1/?sp=32&q=oil",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_continental_ver02%2Fdata%2Fsn83045433%2F00294558159%2F1914061401%2F0666.xml&q=oil&relevant_snippet=1"
+}

@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84020422/1856-01-09/ed-1/?sp=2"
+  ],
+  "batch": [
+    "deu_artemis_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/delaware/",
+    "2/united states/delaware/kent/",
+    "3/united states/delaware/kent/smyrna/"
+  ],
+  "contributor": [
+    "university of delaware library, newark, de"
+  ],
+  "date": "1856-01-09",
+  "dates": [
+    "1856-01-09"
+  ],
+  "description": [
+    "Cjic nignw Cimes ROBT D HOFFECKER EDITOR WEDNESDAY JANUARY 9 1856 The SnowStorm The storm which com menced about noon en Saturday last and ter minated about two or three oclock on Sunday of the most violent that hag The snow fell to morning was one visited us for a long tune the depth of near two feet on a level but bank ed in many places five or six feet high It snowed in the good oldfashioned style as it did when our grandfathers were boys steadily and rapidly falling in the successive waves technically termed windrows for than twelve hours Sunday morning the It came mors beautifully but upon empty streets sun rose except the banks of snow and those who were It will be recollected clearing the way before them with the shovel The churches were nearly or quite neglected and travelling of every kind suspended except I vo or three adventurous sleighs which turned out in the afternoon to dive into the banks The mails have been considerably detained in of the difficulty of travel No onsequence mail at all reached us on Monday from below while all are several hours behind the usual t me"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-12T17:53:45.768Z",
+  "group": [
+    "ndnp/deu",
+    "university-of-delaware-library-newark-de-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84020422/1856-01-09/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_artemis_ver02:data:sn84020422:00383342910:1856010901:0395/full/pct:6.25/0/default.jpg#h=509&w=363",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_artemis_ver02:data:sn84020422:00383342910:1856010901:0395/full/pct:12.5/0/default.jpg#h=1018&w=727",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/deu/batch_deu_artemis_ver02/data/sn84020422/00383342910/1856010901/0395.xml&format=alto_xml"
+  ],
+  "index": 89,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "kent",
+    "smyrna",
+    "delaware",
+    "united states"
+  ],
+  "location_city": [
+    "smyrna"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "kent"
+  ],
+  "location_state": [
+    "delaware"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "9",
+    "4",
+    "2",
+    "1",
+    "0000000002",
+    "sn84020422",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84020422"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "8",
+    "3",
+    "3",
+    "4",
+    "2",
+    "9",
+    "1",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84020422-1856-01-09-ed-1-0395",
+  "partof": [
+    "chronicling america",
+    "smyrna times (smyrna, del.) 1854-1987",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "smyrna times (smyrna, del.) 1854-1987"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84020422/1856-01-09/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84020422/1856-01-09/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "kent",
+    "newspapers",
+    "smyrna",
+    "delaware",
+    "smyrna (del.)"
+  ],
+  "timestamp": "2023-08-12T19:50:51.287Z",
+  "title": "Image 2 of Smyrna times (Smyrna, Del.), January 9, 1856",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84020422/1856-01-09/ed-1/?sp=2&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdeu%2Fbatch_deu_artemis_ver02%2Fdata%2Fsn84020422%2F00383342910%2F1856010901%2F0395.xml&q=manifest+destiny&relevant_snippet=1"
+}

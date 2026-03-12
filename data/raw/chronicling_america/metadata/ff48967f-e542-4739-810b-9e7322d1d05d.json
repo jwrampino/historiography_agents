@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83030313/1873-11-13/ed-1/?sp=6"
+  ],
+  "batch": [
+    "dlc_juneberry_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1873-11-13",
+  "dates": [
+    "1873-11-13"
+  ],
+  "description": [
+    "NEW YORK HERALD BROADWAY AND ANN STREET JAMES GORDON BENNETT PROPRIETOR Volume wo an AMUSEMENTS THIS EVENING BOOTHS THEATHE Sixth av and Twenty third St Bioualimu METROPOLITAN THEATRE 58fl BroadwayYAHiirr Entertainment BOWERV THEATRE Bowery Tug Qukti Cac Wat Daniel Boose MRS V B CONWAYS BROOKLYN THEATRE NoTRK DamK PARK THEATRE Brooklyn opposite City Hall Hbib at Law llArpmsT Ja oi Mr Lire HARLEM THEATRE 3d av between 129th and 130th ski Winninu Hand THEATRE COMIQUE No 514 Broadway Yariett Entbbtainmknt OLYMPIC THEATRE Broadway between Houston And Bleccker sis Rip Van Winkle OERMANIA THEATRE UiU street and 3d avenue ElU SCUBITT VoM WfcGE BROADWAY THEATRE 728 and 730 Broad ay Tuat Nitw Magdalen GRAND OPERA HOUSE Eighth av and Twentythird St A Flaku or LigiItning NIBLOS GARDEN Broadway between Prince and Houftou t Thk Black hook ACADEMY OF MUSIC 14th mrcet and Irving place Gil AND DKAMATIC EjfTKRTAINMI NTS WALIACKS THEATRE Broadway and Thirteenth street Owns UNION SQUARR THEATRE Union square near Broadway Tu Geneva Cros WOODS MUSEUM Broadway corner Thirtieth st Jack Uarkawat Aiternoon and evemug TONY PASTORS OPERA HOUSE No 201 Bowerv VABitrr Entertainment BRYANTS OPERA HOUSE Twentythird St corner Sixth av Neobo Minstrelsy Ac P T BARNUM8 WORLDS"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:26:26.275Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83030313/1873-11-13/ed-1/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743841:1873111301:0573/full/pct:3.125/0/default.jpg#h=273&w=189",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743841:1873111301:0573/full/pct:6.25/0/default.jpg#h=546&w=379",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743841:1873111301:0573/full/pct:12.5/0/default.jpg#h=1093&w=759",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_juneberry_ver01/data/sn83030313/00271743841/1873111301/0573.xml&format=alto_xml"
+  ],
+  "index": 153,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "new york",
+    "united states",
+    "new york county",
+    "new york city"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "2",
+    "8",
+    "3",
+    "4",
+    "1",
+    "0000000006",
+    "7",
+    "sn83030313"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83030313"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "1",
+    "7",
+    "4",
+    "3",
+    "8",
+    "4",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "New York daily herald"
+  ],
+  "page_id": "sn83030313-1873-11-13-ed-1-0573",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the new york herald (new york [n.y.]) 1840-1920"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the new york herald (new york [n.y.]) 1840-1920"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83030313/1873-11-13/ed-1/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83030313/1873-11-13/ed-1/"
+  ],
+  "shelf_id": "06",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "new york",
+    "new york (state)",
+    "united states",
+    "new york county",
+    "new york county (n.y.)",
+    "newspapers",
+    "new york (n.y.)"
+  ],
+  "timestamp": "2022-10-20T21:16:19.265Z",
+  "title": "Image 6 of The New York herald (New York [N.Y.]), November 13, 1873",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83030313/1873-11-13/ed-1/?sp=6&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_juneberry_ver01%2Fdata%2Fsn83030313%2F00271743841%2F1873111301%2F0573.xml&q=manifest+destiny&relevant_snippet=1"
+}

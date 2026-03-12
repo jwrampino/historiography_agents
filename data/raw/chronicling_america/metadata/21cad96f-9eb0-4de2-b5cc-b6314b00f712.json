@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1904-12-31/ed-1/?sp=29"
+  ],
+  "batch": [
+    "dlc_saluki_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1904-12-31",
+  "dates": [
+    "1904-12-31"
+  ],
+  "description": [
+    "ADVERTISED LETTERS The tollowtg Is a lIst of advertised lettesn so mainlng in the Wasbmnton D C Pont G0ee Sat urday Deember 81 10 To obtain any of these letters the applicant should ean for Advertised Letters If not ealled for within two 42 weeks they will be gent to the Dead Latter 0Of1ce LADIES LIST Adams Mies Minnie Lloyd Mims Natalie Allen Mrs Vharles H Lomax Mis Estelle Allen Miss Florence Lucas Mrs Ernest Allen Mrs Lllie E Lucas Mis Martha 2 Allen Mrs Mildred Lucas Miss Mary Amercia Miss Stella McBride Miss Jesie Anderson Mrs Hannah McCartnyMiss Catherine Anderson Miss Hannah McDaniel Miss Georgia Anderson Miss Jessi McKenna Mrs Kate Andrews Mrs Bertha McMahon Mrs Maggie Andrews Mm M I labery Miss A F Appleton Mrs G B Mack Miss Elizabeth Archie Mrs Mary Macmanns Mism Boole Armstead Mrs H 11 Madison Mrs James Aronhalt Mrs Elisha Madison Miss Louise Ashton Mrs II Magee Mrs Bettie Baker Mi M Magruder Mins M C Baker Min M B Ma lhei Miss Fannie Ballinger Miss Miriam Malone Miss S 1 Barlay Misd Helen Marsh Mrs R Barnes Mary Martin Miss Mollie 2 Barnett Miss Anna Mastin Mrs Lida Barry Mis"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-01-08T13:49:33.392Z",
+  "group": [
+    "ndnp/dlc-2011_2013",
+    "library-of-congress-washington-dc-awardee-4"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1904-12-31/ed-1/?sp=29",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_saluki_ver01:data:sn83045462:00280655934:1904123101:0053/full/pct:6.25/0/default.jpg#h=488&w=361",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_saluki_ver01:data:sn83045462:00280655934:1904123101:0053/full/pct:12.5/0/default.jpg#h=976&w=722",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_saluki_ver01/data/sn83045462/00280655934/1904123101/0053.xml&format=alto_xml"
+  ],
+  "index": 15,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "district of columbia",
+    "washington d.c.",
+    "washington",
+    "united states"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "0",
+    "0000000029",
+    "2",
+    "sn83045462",
+    "9",
+    "1",
+    "3",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000029"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "5",
+    "9",
+    "3",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday issues for Mar. 26, 1905-July 9,1972 called: Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1904-12-31-ed-1-0053",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1904-12-31/ed-1/?sp=29"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1904-12-31/ed-1/"
+  ],
+  "shelf_id": "29",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)",
+    "https://id.oclc.org/worldcat/entity/e39pbjfcwcmmjdpvk8h8hpkccp",
+    "washington",
+    "united states"
+  ],
+  "timestamp": "2025-01-09T08:15:24.701Z",
+  "title": "Image 29 of Evening star (Washington, D.C.), December 31, 1904",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1904-12-31/ed-1/?sp=29&q=indian+territory",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_saluki_ver01%2Fdata%2Fsn83045462%2F00280655934%2F1904123101%2F0053.xml&q=indian+territory&relevant_snippet=1"
+}

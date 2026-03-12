@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85029677/1904-02-11/ed-1/?sp=5"
+  ],
+  "batch": [
+    "khi_curry_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/kansas/",
+    "2/united states/kansas/phillips/",
+    "3/united states/kansas/phillips/phillipsburg/"
+  ],
+  "contributor": [
+    "kansas state historical society; topeka, ks"
+  ],
+  "date": "1904-02-11",
+  "dates": [
+    "1904-02-11"
+  ],
+  "description": [
+    "J LOCAL MENTION Haggard tits glasses Fine book work at tbis office Henry Daum is a very sick man Dont forget to attend the primaries M L Bogart was in the city Mon day D Laughery was a pleasant visitor today Mae Seavey spent Sunday at her home in this city Little Cleon Bowman has suffered an attack of the grip A new gasoline engine has been in stalled in the laundry Try the Blue Front Restaurant for meais west sine square v A trip through Two Penitentaries at the opera house tonight Carl LaRue was slightly indisposed the latter part of last week Jas Carman has been called cast by the death of a sisterinlaw Some report considerable damage to wheat as a result oj dry weather Attorney C V Ebersteln was in Wichita one day the first of the week The Herald beats all competitors in the quality of and price of Job print ing Gomcr Davies is mentioned as a candidate for state printer He is all right General real estate and insurance business See W H Pratt Phillips burg Kansas n R Winterstcen bought another farm Monday This one is in Free dom township Mrs C"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2021-06-17T23:02:58.139Z",
+  "group": [
+    "ndnp/khi",
+    "kansas-state-historical-society-topeka-ks-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85029677/1904-02-11/ed-1/?sp=5",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:00212473121:1904021101:0569/full/pct:6.25/0/default.jpg#h=426&w=277",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:00212473121:1904021101:0569/full/pct:12.5/0/default.jpg#h=852&w=554",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/khi/batch_khi_curry_ver01/data/sn85029677/00212473121/1904021101/0569.xml&format=alto_xml"
+  ],
+  "index": 183,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "phillips",
+    "phillipsburg",
+    "kansas",
+    "united states"
+  ],
+  "location_city": [
+    "phillipsburg"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "phillips"
+  ],
+  "location_state": [
+    "kansas"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000005",
+    "0",
+    "2",
+    "sn85029677",
+    "7",
+    "1",
+    "3",
+    "4"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85029677"
+  ],
+  "number_page": [
+    "0000000005"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "2",
+    "4",
+    "7",
+    "3",
+    "1",
+    "2",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Daily herald"
+  ],
+  "page_id": "sn85029677-1904-02-11-ed-1-0569",
+  "partof": [
+    "chronicling america",
+    "phillipsburg herald (phillipsburg, kan.) 1882-1905",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "phillipsburg herald (phillipsburg, kan.) 1882-1905"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85029677/1904-02-11/ed-1/?sp=5"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85029677/1904-02-11/ed-1/"
+  ],
+  "shelf_id": "5",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "phillipsburg",
+    "phillips",
+    "phillipsburg (kan.)",
+    "kansas",
+    "united states"
+  ],
+  "timestamp": "2022-10-17T05:22:56.154Z",
+  "title": "Image 5 of Phillipsburg herald (Phillipsburg, Kan.), February 11, 1904",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85029677/1904-02-11/ed-1/?sp=5&q=korea",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fkhi%2Fbatch_khi_curry_ver01%2Fdata%2Fsn85029677%2F00212473121%2F1904021101%2F0569.xml&q=korea&relevant_snippet=1"
+}

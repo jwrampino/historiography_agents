@@ -1,0 +1,153 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84020104/1853-11-19/ed-1/?sp=2"
+  ],
+  "batch": [
+    "dlc_firedrake_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1853-11-19",
+  "dates": [
+    "1853-11-19"
+  ],
+  "description": [
+    "PasMngfoit gtuHntl BY BEVERLEY WcKEK I EDITED BY WM M OVERTON AND CH MAURICE SMITH CITY OP WASHINGTON i oTemJeR 191853 oc3Beg3j iiaiMMawn i u George E French Bookseller King street Alexandria is our authorized agent to re ceive adveitisemeins and subscriptions Single numbers can be procured at hi counter every morning J53Mk E K Lundy bookseller Budge street f Georgetown will act as agent for the Sentinel in t receiving subscriptions and advertisements aAmong the names on the register nt the National Hotel we notice those of the Hon Win Dickey of New Jersey and the Hon Win Lawrence of Ohio at the United States Hotel Hon Linn Boyd of Kentucky and at Browns Hotel Hon C J Faulkner of Vir ginia Hon Vm A Richardson of Illinois Hon J A Dix of New York Hon Richard Rush of Penn and Hon John B Weller of California MANIFEST DESTINY The age in which we live is prolific in origi nating new ideas and new names for express ing old ones To these names is attached a i great variety of meanings depending upon the j fancy or the prejudice of the interpreting oracle j One class always on the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T07:08:55.766Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84020104/1853-11-19/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853111901:0206/full/pct:3.125/0/default.jpg#h=290&w=228",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853111901:0206/full/pct:6.25/0/default.jpg#h=581&w=457",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853111901:0206/full/pct:12.5/0/default.jpg#h=1163&w=914",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_firedrake_ver01/data/sn84020104/00415661526/1853111901/0206.xml&format=alto_xml"
+  ],
+  "index": 49,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "district of columbia",
+    "washington d.c.",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "5",
+    "4",
+    "1",
+    "6",
+    "2",
+    "sn84020104",
+    "0000000002"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84020104"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "4",
+    "1",
+    "5",
+    "6",
+    "6",
+    "1",
+    "5",
+    "2",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn84020104-1853-11-19-ed-1-0206",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "washington sentinel (washington [d.c.]) 1853-1855"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "washington sentinel (washington [d.c.]) 1853-1855"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84020104/1853-11-19/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84020104/1853-11-19/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "washington",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2022-10-20T12:54:40.946Z",
+  "title": "Image 2 of Washington sentinel (Washington [D.C.]), November 19, 1853",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84020104/1853-11-19/ed-1/?sp=2&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_firedrake_ver01%2Fdata%2Fsn84020104%2F00415661526%2F1853111901%2F0206.xml&q=manifest+destiny&relevant_snippet=1"
+}

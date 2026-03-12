@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1962-03-21/ed-1/?sp=12"
+  ],
+  "batch": [
+    "dlc_godard_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1962-03-21",
+  "dates": [
+    "1962-03-21"
+  ],
+  "description": [
+    "A12 THE EVENING STAR Wathington D C Wtdnaidoy March 21 1962 AT WXJ 1 Wwfl W 1 x w jFr fl c fajL HBHr 3ilsM Jh i sflflEs w Ik SF k I IgZWt _ jl l Xs gPty yflaMr V r is v f ji An Israel commando removes the bodies of Syrian soldiers from a trench in the Syrian fortifications near ElNuqueib on the eastern shore of the Sea of Galilee after last Saturdays battle according to the Israeli armv Thirty Syrian and five Israeli soldiers were reported killed AP Wire photo Terrorism Fades Away In Interior of Algeria ALGIERS Mar 21 iAPi Bloody clashes between Moslem mobs and French troops in Algerias interior gave way today to peaceful demonstrations French headquarters reported The French said at noon there had been no reports of clashes between French unite and Moslems anywhere in the North African territory The army said localized effervescence of Moslem crowds continued in a number of villages but that all demon1 strations ere being handled peacefully The announcement was in sharp contrast to the bloody 36 hours following Mondays cease fire proclamatoin in which at least 70 Moslems were killed and nearly 150 were wounded"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-07T20:31:52.775Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1962-03-21/ed-1/?sp=12",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godard_ver01:data:sn83045462:00280608403:1962032101:0416/full/pct:3.125/0/default.jpg#h=306&w=194",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godard_ver01:data:sn83045462:00280608403:1962032101:0416/full/pct:6.25/0/default.jpg#h=613&w=388",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_godard_ver01/data/sn83045462/00280608403/1962032101/0416.xml&format=alto_xml"
+  ],
+  "index": 199,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "district of columbia",
+    "washington d.c.",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "3",
+    "6",
+    "2",
+    "4",
+    "0000000012",
+    "1",
+    "sn83045462",
+    "8"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000012"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "0",
+    "8",
+    "4",
+    "0",
+    "3"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday issues for Mar. 26, 1905-July 9,1972 called: Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1962-03-21-ed-1-0416",
+  "partof": [
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1962-03-21/ed-1/?sp=12"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1962-03-21/ed-1/"
+  ],
+  "shelf_id": "12",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "washington",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2023-08-08T08:11:53.292Z",
+  "title": "Image 12 of Evening star (Washington, D.C.), March 21, 1962",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1962-03-21/ed-1/?sp=12&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_godard_ver01%2Fdata%2Fsn83045462%2F00280608403%2F1962032101%2F0416.xml&q=terrorism&relevant_snippet=1"
+}

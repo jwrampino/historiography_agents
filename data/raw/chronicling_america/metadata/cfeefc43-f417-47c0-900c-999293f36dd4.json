@@ -1,0 +1,171 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn91069201/1945-02-14/ed-1/?sp=7"
+  ],
+  "batch": [
+    "ohi_carrie_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/meigs/",
+    "3/united states/ohio/meigs/pomeroy/",
+    "2/united states/ohio/franklin/",
+    "3/united states/ohio/franklin/columbus/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1945-02-14",
+  "dates": [
+    "1945-02-14"
+  ],
+  "description": [
+    "Mritwnch den 14 1945 Francis Aeh Executive Sekre t\u00e4r der Catholic Truth Society in China kam unl\u00e4ngst aus Chung king China in Cincnnati an um sich der Catholic Students Mission Crusade anzuschlie\u00dfen Unser Bild Revolution Memento wort Gedenke o Mensch da\u00df du Gk\u00fcUb bist und zum Staub zur\u00fcckkehren wirst Diese ernsten Wahnworte rich tet am Aschermittwoch die Kirche an jeden Gl\u00e4ubigen indem der Priester ihm ein Aschenkreuz auf die Stirn zeichnet Damit will die Kirche am Anfang der hl Fasten und Bu\u00dfzeit uns an die Verg\u00e4nglichkeit alles ir dischen und an unfern eigenen Tod erinnern M\u00f6gen wir r\u00fcckw\u00e4rts oder vorw\u00e4rts oder auf die Gegenwart schauen so erscheint die ganze Welt mit dem Aschenkreuz der Verg\u00e4ngnich Feit gezeichnet Mit Schutt und Staub unter dem Flugsand vergangener Jahrhunderte liegen alte hochber\u00fchm te St\u00e4dte ehemalige St\u00e4tten des Ruhmes des Reichtums der Pracht iqtd Lust Die V\u00f6lker der alten Welt mit ih ren K\u00e4mpfen und Siegen mit ihren k\u00fchnen Pl\u00e4nen und gro\u00dfen Unter nehmungen haben kaum eine Spur zur\u00fcckgelassen Die Millionen kamen und gingen Ihre Namen sind tier Hungen und vergessen Was sie im Wellenlauf der Zeit ergreifen woll ten zerrann wie ein Schattengebild Was f\u00fcr unersch\u00fctterlich und feisen fest gehalten wurde ist in"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-09-04T23:15:36.817Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn91069201/1945-02-14/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_carrie_ver01:data:sn91069201:00279556227:1945021401:0744/full/pct:6.25/0/default.jpg#h=408&w=293",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_carrie_ver01:data:sn91069201:00279556227:1945021401:0744/full/pct:12.5/0/default.jpg#h=816&w=586",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_carrie_ver01/data/sn91069201/00279556227/1945021401/0744.xml&format=alto_xml"
+  ],
+  "index": 195,
+  "language": [
+    "german",
+    "english"
+  ],
+  "location": [
+    "meigs",
+    "franklin",
+    "columbus",
+    "pomeroy",
+    "ohio",
+    "united states"
+  ],
+  "location_city": [
+    "pomeroy",
+    "columbus"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "meigs",
+    "franklin"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "sn91069201",
+    "0",
+    "2",
+    "7",
+    "9",
+    "1",
+    "0000000007",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn91069201"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "5",
+    "6",
+    "2",
+    "2",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn91069201-1945-02-14-ed-1-0744",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "ohio waisenfreund (pomeroy, o. [ohio]) 1874-1953"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "ohio waisenfreund (pomeroy, o. [ohio]) 1874-1953"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn91069201/1945-02-14/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn91069201/1945-02-14/ed-1/"
+  ],
+  "shelf_id": "07",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "meigs",
+    "franklin",
+    "german",
+    "columbus",
+    "catholics",
+    "pomeroy",
+    "ohio",
+    "german americans",
+    "united states"
+  ],
+  "subject_ethnicity": [
+    "german"
+  ],
+  "timestamp": "2023-09-05T05:03:27.284Z",
+  "title": "Image 7 of Ohio Waisenfreund (Pomeroy, O. [Ohio]), February 14, 1945",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn91069201/1945-02-14/ed-1/?sp=7&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_carrie_ver01%2Fdata%2Fsn91069201%2F00279556227%2F1945021401%2F0744.xml&q=revolution&relevant_snippet=1"
+}

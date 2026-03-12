@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn89077774/1905-03-23/ed-1/?sp=1"
+  ],
+  "batch": [
+    "dlc_cheetah_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/pennsylvania/",
+    "2/united states/pennsylvania/cumberland/",
+    "3/united states/pennsylvania/cumberland/carlisle/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1905-03-23",
+  "dates": [
+    "1905-03-23"
+  ],
+  "description": [
+    "SPe PPL 7 I si u i t l Publication of the United States Indian School Carlisle Pa Vol I THURSDAY MARCH 23 1905 No 30 THEIRETURN OF THE BIRDS 1 HEAR from many a little throat A warble interrupted loyy I hear the robins flute like note The bluebirds slenderer sony Brmcn meadows and the russet hill Not yet the haunt of yraziny herds And thickets by the ylimmeriny rill Are all alive with birds O choir oj Spriny why come so soon On leafless yrove and herbless lawn Warm lie the yellow beams of noon Yet Winter is not yone 1 Stay then beneath our ruder sky Heed not the stormclouds rishiy black Nor yelliny winds that with them fly Nor let them friyht you back Back to the stifliny battlecloud To burniny towns tlad blot the day And trains of mountiny dust that shroud The armies on their way Stay for a tint of yreen shall creep Soon oer the orchards yrassy floor And from its bed the crocus peep Beside the housewifes door Here build and dread no harsher sound To scare you from the shelteriny tree Than winds that stir the branches round And murmur"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-09-14T05:37:50.857Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn89077774/1905-03-23/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cheetah_ver02:data:sn89077774:00543171712:1905032301:0120/full/pct:6.25/0/default.jpg#h=453&w=305",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cheetah_ver02:data:sn89077774:00543171712:1905032301:0120/full/pct:12.5/0/default.jpg#h=906&w=610",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_cheetah_ver02/data/sn89077774/00543171712/1905032301/0120.xml&format=alto_xml"
+  ],
+  "index": 122,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "cumberland",
+    "cumberland county",
+    "carlisle",
+    "pennsylvania",
+    "united states"
+  ],
+  "location_city": [
+    "carlisle"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cumberland"
+  ],
+  "location_state": [
+    "pennsylvania"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn89077774",
+    "0000000001",
+    "2",
+    "3",
+    "5",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn89077774"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "3",
+    "1",
+    "7",
+    "1",
+    "7",
+    "1",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn89077774-1905-03-23-ed-1-0120",
+  "partof": [
+    "the arrow (carlisle, pa.) 1904-1908",
+    "chronicling america",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the arrow (carlisle, pa.) 1904-1908"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn89077774/1905-03-23/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn89077774/1905-03-23/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "cumberland",
+    "cumberland county (pa.)",
+    "carlisle",
+    "cumberland county",
+    "pennsylvania",
+    "indians of north america",
+    "carlisle (pa.)",
+    "united states",
+    "newspapers"
+  ],
+  "subject_ethnicity": [
+    "indians of north america"
+  ],
+  "timestamp": "2025-09-14T05:51:49.086Z",
+  "title": "Image 1 of The arrow (Carlisle, Pa.), March 23, 1905",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn89077774/1905-03-23/ed-1/?sp=1&q=phillipines",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_cheetah_ver02%2Fdata%2Fsn89077774%2F00543171712%2F1905032301%2F0120.xml&q=phillipines&relevant_snippet=1"
+}

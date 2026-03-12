@@ -1,0 +1,18 @@
+{
+  "creator": "Internet Archive",
+  "date": "2013-01-01T00:00:00Z",
+  "description": "Internet Archive crawldata from web domain tests, captured by wbgrp-crawl003.us.archive.org:web_domain_tests from Tue Nov 3 23:35:03 PST 2015 to Mon Apr 8 10:25:01 PDT 2013.",
+  "format": [
+    "Archive BitTorrent",
+    "Item CDX Index",
+    "Item CDX Meta-Index",
+    "Metadata",
+    "Text",
+    "WARC CDX Index",
+    "Web ARChive GZ"
+  ],
+  "identifier": "CUBA-TEST-20151103233503940-00000-00003-wbgrp-crawl003",
+  "mediatype": "web",
+  "subject": "crawldata",
+  "title": "web_domain_tests Crawldata 2015-11-03T23:35:03PST to 2013-04-08T10:25:01PDT"
+}

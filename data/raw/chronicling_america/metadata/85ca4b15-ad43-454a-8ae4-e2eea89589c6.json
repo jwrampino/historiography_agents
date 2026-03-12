@@ -1,0 +1,165 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83030214/1918-09-22/ed-2/?sp=25"
+  ],
+  "batch": [
+    "dlc_allen_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1918-09-22",
+  "dates": [
+    "1918-09-22"
+  ],
+  "description": [
+    "Putting Judas Iscariot and Benedict Arnold Out of Business JUDAS and Benedict Arnold have I been put out of the running as traitors by Leon Trotzky and Nicolai Lnine Anv remaining doubts as to the al legiance of these pillars of Bol shevism havo been removed by the re markable scries of seventy documents that have just been made public by the j Committee on Public Information at Washington The evidence gathered by Edgar Sisson in Russia last winter re j teals that 25000000 was the price Germany paid for Russia Moreover the evidence shows that Germany had j prepared detailed plans for a war of world conquest long before the as sassination at Sarcjevo and that two Tears before America was drawn into je war Germany was mobilizing as de structive agents and observers an army of anarchists and escaped criminals to operate in the United States The substance of the startling docu ments produced in Washington is sum marized thus by the committees report They show that the Bolshevik revolu tion was arranged for by the German great genera staff and financed by the German jmperial Bank and other German financial institutions They show that the treaty of"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-12-09T13:41:33.472Z",
+  "group": [
+    "ndnp/dlc-2009_2010",
+    "library-of-congress-washington-dc-awardee-3"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83030214/1918-09-22/ed-2/?sp=25",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_allen_ver02:data:sn83030214:00206532300:1918092202:0407/full/pct:3.125/0/default.jpg#h=263&w=208",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_allen_ver02:data:sn83030214:00206532300:1918092202:0407/full/pct:6.25/0/default.jpg#h=526&w=416",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_allen_ver02:data:sn83030214:00206532300:1918092202:0407/full/pct:12.5/0/default.jpg#h=1053&w=833",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_allen_ver02/data/sn83030214/00206532300/1918092202/0407.xml&format=alto_xml"
+  ],
+  "index": 40,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "new york",
+    "new york county",
+    "new york city"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "6",
+    "5",
+    "0000000025",
+    "sn83030214",
+    "3",
+    "2"
+  ],
+  "number_edition": [
+    "2"
+  ],
+  "number_lccn": [
+    "sn83030214"
+  ],
+  "number_page": [
+    "0000000025"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "6",
+    "5",
+    "3",
+    "2",
+    "3",
+    "0",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Due to strike, published jointly with other newspapers as: Combined New York morning newspapers",
+    "Combined New York Sunday newspapers",
+    "New-York daily tribune"
+  ],
+  "page_id": "sn83030214-1918-09-22-ed-2-0407",
+  "partof": [
+    "serial and government publications division",
+    "new-york tribune (new york [n.y.]) 1866-1924",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "new-york tribune (new york [n.y.]) 1866-1924"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83030214/1918-09-22/ed-2/?sp=25"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83030214/1918-09-22/ed-2/"
+  ],
+  "shelf_id": "25",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "new york",
+    "new york county (n.y.)",
+    "https://id.oclc.org/worldcat/entity/e39pbjpj8ktvrv6gp6v6tp7pwc",
+    "new york (state)",
+    "newspapers",
+    "https://id.oclc.org/worldcat/entity/e39qbtfrvqh7864jh4rdgbfdwc",
+    "new york county",
+    "new york (n.y.)"
+  ],
+  "timestamp": "2024-12-09T15:23:51.612Z",
+  "title": "Image 25 of New-York tribune (New York [N.Y.]), September 22, 1918",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83030214/1918-09-22/ed-2/?sp=25&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_allen_ver02%2Fdata%2Fsn83030214%2F00206532300%2F1918092202%2F0407.xml&q=child+labor&relevant_snippet=1"
+}

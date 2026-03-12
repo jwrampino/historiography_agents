@@ -1,0 +1,157 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn88085081/1898-04-29/ed-1/?sp=2"
+  ],
+  "batch": [
+    "wa_lopez_ver03"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/washington/",
+    "2/united states/washington/mason/",
+    "3/united states/washington/mason/shelton/"
+  ],
+  "contributor": [
+    "washington state library; olympia, wa"
+  ],
+  "date": "1898-04-29",
+  "dates": [
+    "1898-04-29"
+  ],
+  "description": [
+    "The Mason County journal G C ANGLE Editor ami Proprietor The Latest War News Thursday i2Bombardment of S Cuba begun Ihe fgrt at Matanzas opened fire on Hqgship New York Cincinnati and Monitor Puritan Some 8inch shells fall short sor 0 light shells tfred from fort two pass ever others fall short Our ships open fire at 1257 and continue until 115 p m throwing 300 shots range 4000 to 7000 yards all of which took effect demolishing the fort and causing some loss of life Admiral Sampson pleased at marks manship and behavior of his vessels No damage to our vessels Oregon coming up the South Amer ican coast Said to be in no danger Blockading Squadron at Havana continuing peaceful blockade No further engagement expected for two days Prospects for fight be tween Squadrons seems no nearer Asiatic squadron has moved toward Manila with the prospects of engage ment at once Between the Ameri can and the rebels in the Phillipines the Spanish like rats in a corner must fight Our vessels in those waters are more modern than the Spanish and thirty minutes is all our admiral asks for Summary of the Week Friday President considers the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2024-04-26T11:28:35.598Z",
+  "group": [
+    "ndnp/wa",
+    "washington-state-library-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn88085081/1898-04-29/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_lopez_ver03:data:sn88085081:0020219977A:1898042901:0504/full/pct:3.125/0/default.jpg#h=318&w=230",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_lopez_ver03:data:sn88085081:0020219977A:1898042901:0504/full/pct:6.25/0/default.jpg#h=637&w=461",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wa/batch_wa_lopez_ver03/data/sn88085081/0020219977A/1898042901/0504.xml&format=alto_xml"
+  ],
+  "index": 128,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "shelton",
+    "mason",
+    "washington"
+  ],
+  "location_city": [
+    "shelton"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "mason"
+  ],
+  "location_state": [
+    "washington"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "1",
+    "2",
+    "sn88085081",
+    "a",
+    "7",
+    "0000000002"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn88085081"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "2",
+    "1",
+    "9",
+    "9",
+    "7",
+    "7",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn88085081-1898-04-29-ed-1-0504",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the mason county journal (shelton, w.t.) 1886-1927"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the mason county journal (shelton, w.t.) 1886-1927"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn88085081/1898-04-29/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn88085081/1898-04-29/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "shelton (wash.)",
+    "shelton",
+    "washington (state)",
+    "united states",
+    "newspapers",
+    "washington",
+    "mason"
+  ],
+  "timestamp": "2024-04-27T07:40:14.865Z",
+  "title": "Image 2 of The Mason County journal (Shelton, W.T.), April 29, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn88085081/1898-04-29/ed-1/?sp=2&q=phillipines",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fwa%2Fbatch_wa_lopez_ver03%2Fdata%2Fsn88085081%2F0020219977A%2F1898042901%2F0504.xml&q=phillipines&relevant_snippet=1"
+}

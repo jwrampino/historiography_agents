@@ -1,0 +1,119 @@
+{
+  "dataControlGroup": {
+    "groupName": "National Archives at Seattle",
+    "groupId": "RRFE",
+    "groupCd": "RRFE"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "status": "Unrestricted"
+  },
+  "digitalObjects": [
+    {
+      "objectFilename": "1126387-001-015-0001.tif",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/seattle/rg-004/1126387/1126387-001-015/1126387-001-015-0001.tif",
+      "objectFileSize": 2316729,
+      "objectId": "486338120",
+      "objectType": "Image (TIFF)"
+    },
+    {
+      "objectFilename": "1126387-001-015-0002.tif",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/seattle/rg-004/1126387/1126387-001-015/1126387-001-015-0002.tif",
+      "objectFileSize": 2826727,
+      "objectId": "486338121",
+      "objectType": "Image (TIFF)"
+    },
+    {
+      "objectFilename": "1126387-001-015-0003.tif",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/seattle/rg-004/1126387/1126387-001-015/1126387-001-015-0003.tif",
+      "objectFileSize": 1775489,
+      "objectId": "486338122",
+      "objectType": "Image (TIFF)"
+    }
+  ],
+  "ancestors": [
+    {
+      "inclusiveStartDate": {
+        "year": 1917,
+        "logicalDate": "1917-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "recordGroup",
+      "recordGroupNumber": 4,
+      "inclusiveEndDate": {
+        "year": 1920,
+        "logicalDate": "1920-01-01"
+      },
+      "title": "Records of the U.S. Food Administration",
+      "naId": 333
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1917,
+        "logicalDate": "1917-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "U.S. Food Administration. Alaska State Food Administration. (11/1917 - 02/1919)",
+          "abolishDate": {
+            "month": 2,
+            "year": 1919,
+            "logicalDate": "1919-02-01"
+          },
+          "authorityType": "organization",
+          "establishDate": {
+            "month": 11,
+            "year": 1917,
+            "logicalDate": "1917-11-01"
+          },
+          "naId": 10478883
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1919,
+        "logicalDate": "1919-01-01"
+      },
+      "title": "Correspondence Files",
+      "naId": 1126387
+    }
+  ],
+  "title": "Bundle 1, General Correspondence, Child Labor Law",
+  "naId": 486338119,
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Seattle",
+          "phone": "206-336-5115",
+          "address1": "6125 Sand Point Way NE",
+          "postalCode": "98115-7999",
+          "name": "National Archives at Seattle",
+          "state": "WA",
+          "fax": "206-336-5112",
+          "email": "seattle.archives@nara.gov",
+          "mailCode": "RW-SE"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper",
+          "containerId": "1"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "status": "Unrestricted"
+  }
+}

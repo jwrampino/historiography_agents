@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85035720/1915-09-17/ed-2/?sp=18"
+  ],
+  "batch": [
+    "njr_dill_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new jersey/",
+    "2/united states/new jersey/middlesex/",
+    "3/united states/new jersey/middlesex/perth amboy/"
+  ],
+  "contributor": [
+    "rutgers university libraries"
+  ],
+  "date": "1915-09-17",
+  "dates": [
+    "1915-09-17"
+  ],
+  "description": [
+    "Copyright 1916 by J W Muller All HBnt reserved A Narrative Fact Story Based Authoritatively on the Inexorable Mathematics of WarWhat Can Be Done to Oppose an Invading Army With Our Actual Present Resources In Regulars Trained Militia Untrained Citizens Coast Defenses Field Artillery and All Other Weapons of Defense FOREWORD BY AUTHOR The only theoretical assump J Hon in this series of articles is j that the United States is at tacked Every other incident is a straight statement of what ab solutely mast happen in such a case with oar military establish ment remaining what it is today In the words of certain foremost military executives of the United States army who have cognizance of these articles it is THE COLD TRUTH Nothing is overstated or under stated Every reference to mili tary efficiency supplies of can non ammunition and other im plements numbers of men in the various military units and so forth is based conscientiously on the actual resources shown today in the official records of the mili tary establishments of the United States The description of the prepara tory mobilization assemblage and management of our regular army and militia has been approved as technically correct"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:39:55.258Z",
+  "group": [
+    "ndnp/njr",
+    "rutgers-university-libraries-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85035720/1915-09-17/ed-2/?sp=18",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_dill_ver02:data:sn85035720:00383340524:1915091702:0818/full/pct:6.25/0/default.jpg#h=415&w=310",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_dill_ver02:data:sn85035720:00383340524:1915091702:0818/full/pct:12.5/0/default.jpg#h=830&w=621",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/njr/batch_njr_dill_ver02/data/sn85035720/00383340524/1915091702/0818.xml&format=alto_xml"
+  ],
+  "index": 138,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "middlesex county",
+    "new jersey",
+    "perth amboy",
+    "middlesex",
+    "united states"
+  ],
+  "location_city": [
+    "perth amboy"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "middlesex"
+  ],
+  "location_state": [
+    "new jersey"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "0",
+    "2",
+    "sn85035720",
+    "3",
+    "4",
+    "0000000018"
+  ],
+  "number_edition": [
+    "2"
+  ],
+  "number_lccn": [
+    "sn85035720"
+  ],
+  "number_page": [
+    "0000000018"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "8",
+    "3",
+    "3",
+    "4",
+    "0",
+    "5",
+    "2",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn85035720-1915-09-17-ed-2-0818",
+  "partof": [
+    "chronicling america",
+    "perth amboy evening news (perth amboy, n.j.) 1903-1959",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "perth amboy evening news (perth amboy, n.j.) 1903-1959"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85035720/1915-09-17/ed-2/?sp=18"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85035720/1915-09-17/ed-2/"
+  ],
+  "shelf_id": "18",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "perth amboy (n.j.)",
+    "middlesex county (n.j.)",
+    "middlesex county",
+    "perth amboy",
+    "new jersey",
+    "middlesex",
+    "united states"
+  ],
+  "timestamp": "2025-12-01T20:10:36.857Z",
+  "title": "Image 18 of Perth Amboy evening news (Perth Amboy, N.J.), September 17, 1915, (LAST EDITION, SECOND SECTION)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85035720/1915-09-17/ed-2/?sp=18&q=terrorism",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnjr%2Fbatch_njr_dill_ver02%2Fdata%2Fsn85035720%2F00383340524%2F1915091702%2F0818.xml&q=terrorism&relevant_snippet=1"
+}

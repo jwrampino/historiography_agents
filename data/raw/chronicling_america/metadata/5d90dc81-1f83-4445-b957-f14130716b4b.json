@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn84020645/1905-06-20/ed-1/?sp=7"
+  ],
+  "batch": [
+    "au_hall_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/alabama/",
+    "2/united states/alabama/montgomery/",
+    "3/united states/alabama/montgomery/montgomery/"
+  ],
+  "contributor": [
+    "university of alabama libraries, tuscaloosa, al"
+  ],
+  "date": "1905-06-20",
+  "dates": [
+    "1905-06-20"
+  ],
+  "description": [
+    "WILL TAKE UP PEONAGE FOUR CAin ARB SET FOR TRIAL TODAY White In A reused of Htldlu White Mae aad Negro A rowed of Uoldies NesroEd Cutrh eu Guilty The United States District Court Judge Thomas O Jones has practical ly completed the trial of Illicit distill ing cases set for this term and the court will today take up the cases of peonage only a few of which are on the docket The docket for today dltloses the in teresting fact that for the Hrst time in its history the court will try a white man for holding a white man In peonage and will also try a negro for holding a negro In peonage John C Bowden of Coffee County Indicted at the last term of court for holding Raymond Rhoda In a condi tion of servitude will be arraigned for trial this morning Bowden and Rhoda are white men The case against Oscar Hall a negro of Pike County accused of holding a negro In peonage Is also set for trial today Other peonage cases set for trial to day are those against Q B Mellvnlne a white man of Coffee County ac cused of holding T"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2022-09-26T06:26:45.724Z",
+  "group": [
+    "ndnp/au",
+    "university-of-alabama-tuscaloosa-al-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn84020645/1905-06-20/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_hall_ver01:data:sn84020645:00513684046:1905062001:0950/full/pct:6.25/0/default.jpg#h=432&w=307",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_hall_ver01:data:sn84020645:00513684046:1905062001:0950/full/pct:12.5/0/default.jpg#h=865&w=615",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/au/batch_au_hall_ver01/data/sn84020645/00513684046/1905062001/0950.xml&format=alto_xml"
+  ],
+  "index": 140,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "alabama",
+    "montgomery county",
+    "montgomery"
+  ],
+  "location_city": [
+    "montgomery"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "montgomery"
+  ],
+  "location_state": [
+    "alabama"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "sn84020645",
+    "8",
+    "5",
+    "6",
+    "4",
+    "3",
+    "0000000007",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn84020645"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "3",
+    "6",
+    "8",
+    "4",
+    "0",
+    "4",
+    "6"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Saturday morning",
+    "Montgomery advertiser and Alabama journal",
+    "Montgomery advertiser/Alabama journal",
+    "Daily advertiser"
+  ],
+  "page_id": "sn84020645-1905-06-20-ed-1-0950",
+  "partof": [
+    "the montgomery advertiser (montgomery, ala.) 1885-1982",
+    "serial and government publications division",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the montgomery advertiser (montgomery, ala.) 1885-1982"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn84020645/1905-06-20/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn84020645/1905-06-20/ed-1/"
+  ],
+  "shelf_id": "07",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "montgomery",
+    "montgomery county (ala.)",
+    "alabama",
+    "montgomery (ala.)",
+    "newspapers",
+    "montgomery county"
+  ],
+  "timestamp": "2022-11-23T01:20:39.223Z",
+  "title": "Image 7 of The Montgomery advertiser (Montgomery, Ala.), June 20, 1905",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn84020645/1905-06-20/ed-1/?sp=7&q=chinese+exclusion+act",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fau%2Fbatch_au_hall_ver01%2Fdata%2Fsn84020645%2F00513684046%2F1905062001%2F0950.xml&q=chinese+exclusion+act&relevant_snippet=1"
+}

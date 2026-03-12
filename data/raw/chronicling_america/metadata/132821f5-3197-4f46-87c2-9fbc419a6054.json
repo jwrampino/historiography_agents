@@ -1,0 +1,163 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83030214/1906-12-11/ed-1/?sp=4"
+  ],
+  "batch": [
+    "dlc_denmark_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/new york/",
+    "2/united states/new york/new york/",
+    "3/united states/new york/new york/new york/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1906-12-11",
+  "dates": [
+    "1906-12-11"
+  ],
+  "description": [
+    "t PAVING PUBLIC LANDS I _ Jin HITCHCOCKS REPORT i fyfeny Prosecutions Under Way I Affairs of Interior Department I flyashlncton Dec 10 Secretary Hitchcock of the Department of the Interior in his annual report Thick was made public today gives the following pummary Of the affairs In Ma charge Of the several branches of th Interior Depart ment in this city nil re provided for in quarters in government buildings except the ecological sur vey the reclamation service the bureau of educa tion and a portion of the general land office and cf the patent office For these last named m Clud also quarters for th morase of documents the department now expends annually 624 this mam representing the interest at per cent on a trtncipal or 46123 SI at which rate th govern Kent can very readily borrow money _ In the Interest therefore of economy ana em dency of the service provision in my judgment Should be made by cress at lie earliest prac ticable dat tor the erection of a fireproof building tor the accommodation of the bureaus now occu gtyiiK rented buildings and provision should also t once i made for the additional room necessary"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-04-11T11:52:09.289Z",
+  "group": [
+    "ndnp/dlc-2007_2008",
+    "library-of-congress-washington-dc-awardee-2"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83030214/1906-12-11/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_denmark_ver01:data:sn83030214:00175041515:1906121101:0247/full/pct:3.125/0/default.jpg#h=278&w=200",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_denmark_ver01:data:sn83030214:00175041515:1906121101:0247/full/pct:6.25/0/default.jpg#h=556&w=401",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_denmark_ver01:data:sn83030214:00175041515:1906121101:0247/full/pct:12.5/0/default.jpg#h=1113&w=802",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_denmark_ver01/data/sn83030214/00175041515/1906121101/0247.xml&format=alto_xml"
+  ],
+  "index": 197,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "new york",
+    "new york county",
+    "new york city"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new york"
+  ],
+  "location_state": [
+    "new york"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "1",
+    "5",
+    "7",
+    "0000000004",
+    "4",
+    "sn83030214",
+    "0"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83030214"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "1",
+    "7",
+    "5",
+    "0",
+    "4",
+    "1",
+    "5",
+    "1",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Due to strike, published jointly with other newspapers as: Combined New York morning newspapers",
+    "Combined New York Sunday newspapers",
+    "New-York daily tribune"
+  ],
+  "page_id": "sn83030214-1906-12-11-ed-1-0247",
+  "partof": [
+    "serial and government publications division",
+    "new-york tribune (new york [n.y.]) 1866-1924",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "new-york tribune (new york [n.y.]) 1866-1924"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83030214/1906-12-11/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83030214/1906-12-11/ed-1/"
+  ],
+  "shelf_id": "04",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "new york",
+    "new york county (n.y.)",
+    "new york (state)",
+    "newspapers",
+    "new york county",
+    "new york (n.y.)"
+  ],
+  "timestamp": "2025-04-11T14:10:18.406Z",
+  "title": "Image 4 of New-York tribune (New York [N.Y.]), December 11, 1906",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83030214/1906-12-11/ed-1/?sp=4&q=child+labor",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_denmark_ver01%2Fdata%2Fsn83030214%2F00175041515%2F1906121101%2F0247.xml&q=child+labor&relevant_snippet=1"
+}

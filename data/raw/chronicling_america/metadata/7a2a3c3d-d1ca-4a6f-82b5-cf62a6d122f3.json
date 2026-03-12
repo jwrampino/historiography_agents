@@ -1,0 +1,159 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn87060190/1898-07-27/ed-1/?sp=1"
+  ],
+  "batch": [
+    "kyu_bronze_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/kentucky/",
+    "2/united states/kentucky/mason/",
+    "3/united states/kentucky/mason/maysville/"
+  ],
+  "contributor": [
+    "university of kentucky, lexington, ky"
+  ],
+  "date": "1898-07-27",
+  "dates": [
+    "1898-07-27"
+  ],
+  "description": [
+    "fr rJSV WfT THE EVENING BULLETIN v ti i b VOLUME XVII MiYSVILLE KY WEDNESDAY JULY 27 1898 NUMBER 209 ii i ra HAS SUED FOR PEACE Spain Has Had Enough of the Present Contest MAKES A DIEE0T APPEAL Seems to Have Lost Confidence In European Powers NO TERMS AR EVEN HINTED AT rench Ambassador In Washington Car ried the Appeal of the Dona to the White House and De livered It to the President Washington July 27 The Spanish government has sued for peace not in directly through the great powers of Europe but by a direct appeal to Pres ident McKinley The proposition was formally sub mitted to the president by the French ambassador M Jules Cambon who had received Instructions from the for eign office at Paris to deliver to the United States government the tender of pgnce formulated by the Spanish ministry At the conclusion of the conference between the president and the French ambassador the following official state ment was Issued from the White House The French ambassador on behalf of the government of Spain and by di rection of the Spanish minister of for eign affairs presented to the president at the White House"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-07-21T10:35:14.566Z",
+  "group": [
+    "ndnp/kyu",
+    "university-of-kentucky-lexington-ky-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn87060190/1898-07-27/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bronze_ver01:data:sn87060190:00211103942:1898072701:1046/full/pct:6.25/0/default.jpg#h=443&w=285",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bronze_ver01:data:sn87060190:00211103942:1898072701:1046/full/pct:12.5/0/default.jpg#h=886&w=570",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/kyu/batch_kyu_bronze_ver01/data/sn87060190/00211103942/1898072701/1046.xml&format=alto_xml"
+  ],
+  "index": 162,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "kentucky",
+    "mason",
+    "maysville",
+    "mason county",
+    "united states"
+  ],
+  "location_city": [
+    "maysville"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "mason"
+  ],
+  "location_state": [
+    "kentucky"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "sn87060190",
+    "9",
+    "0000000001",
+    "2",
+    "3",
+    "4",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn87060190"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "1",
+    "1",
+    "0",
+    "3",
+    "9",
+    "4",
+    "2"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn87060190-1898-07-27-ed-1-1046",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the evening bulletin (maysville, ky.) 1887-1905"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the evening bulletin (maysville, ky.) 1887-1905"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn87060190/1898-07-27/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn87060190/1898-07-27/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "kentucky",
+    "mason",
+    "maysville",
+    "mason county",
+    "maysville (ky.)",
+    "mason county (ky.)",
+    "united states",
+    "newspapers"
+  ],
+  "timestamp": "2025-07-21T14:02:04.102Z",
+  "title": "Image 1 of The evening bulletin (Maysville, Ky.), July 27, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn87060190/1898-07-27/ed-1/?sp=1&q=spanish",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fkyu%2Fbatch_kyu_bronze_ver01%2Fdata%2Fsn87060190%2F00211103942%2F1898072701%2F1046.xml&q=spanish&relevant_snippet=1"
+}

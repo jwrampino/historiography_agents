@@ -1,0 +1,142 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045081/1917-03-16/ed-1/?sp=1"
+  ],
+  "batch": [
+    "mdu_bode_ver03"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/maryland/",
+    "3/united states/maryland/baltimore/"
+  ],
+  "contributor": [
+    "university of maryland, college park, md"
+  ],
+  "date": "1917-03-16",
+  "dates": [
+    "1917-03-16"
+  ],
+  "description": [
+    "The Oeriuan Correspondent Baltimore Md March 6 1017 l750 per Annum xli idrrlr4rrrlillliii V Heute klar V und H nordwestliche Winde D T iiriirg 77 InliMna Kaiser Nikalans w Ru\u00dfland entsagt dem Thron Gro\u00dff\u00fcrst Michael Alerondrolvitch seht Regent Revolution st\u00fcrzt die Regierung in Ru\u00dfland L o d o In M\u00e4rz Zur Ni lcistuis von Nnsiliind Hot nbgrdniitt und ist Grosuiirst Michnel Alexondrv lvitch zum Ncgentrn cruniiiit worden Diese Mittheilung mochte Andren Ponor Low ninnnzittinister des bri lischc Reiches heute Abend iw Nii tcrhouse Die Soldotcn sind nf Sei len der Dilino doch sollen keine schwe ren Menschenopfer zn verzeichne sein Ter Minister f\u00fcgte Hinz dos cs 01 ongeiiehi zn h\u00f6re sei dost diese Bewegung nicht f\u00fcr die Sicherung von Frieden sei Ter neuerninte Regent ist ei Bruder des jetnge sin istes von Riisilond N eue egi e r u n g scho nerkn n ii t Der britische und fronz\u00f6sischr Bot schoster inelite beknnnt dos sie schon die Gesch\u00e4fte mit dem Echekntio Eo niste der Dmn aufgenommen hoben Grvsisnrst Ehril brnochrichtigtc die Dliiiin dos er die Mnrine die unter seinen Befehlen steht zur Verf\u00fcgung der Dum stellt und besuchte sp\u00e4ter Herrn Rvdzionko in der Turnn wel men er z orrstelw"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-03-01T18:23:14.018Z",
+  "group": [
+    "ndnp/mdu",
+    "university-of-maryland-college-park-college-park-md-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045081/1917-03-16/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_bode_ver03:data:sn83045081:print:1917031601:8472/full/pct:6.25/0/default.jpg#h=415&w=313",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_bode_ver03:data:sn83045081:print:1917031601:8472/full/pct:12.5/0/default.jpg#h=831&w=627",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mdu/batch_mdu_bode_ver03/data/sn83045081/print/1917031601/8472.xml&format=alto_xml"
+  ],
+  "index": 178,
+  "language": [
+    "german",
+    "english"
+  ],
+  "location": [
+    "baltimore",
+    "maryland",
+    "united states"
+  ],
+  "location_city": [
+    "baltimore"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "maryland"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0000000001",
+    "sn83045081",
+    "1"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045081"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sonntags-Correspondent"
+  ],
+  "page_id": "sn83045081-1917-03-16-ed-1-8472",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "der deutsche correspondent (baltimore, md.) 1841-1918"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "der deutsche correspondent (baltimore, md.) 1841-1918"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045081/1917-03-16/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045081/1917-03-16/ed-1/"
+  ],
+  "shelf_id": "1",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "baltimore (md.)",
+    "maryland",
+    "german",
+    "baltimore",
+    "germans",
+    "german americans",
+    "united states"
+  ],
+  "subject_ethnicity": [
+    "german"
+  ],
+  "timestamp": "2023-03-07T01:57:01.273Z",
+  "title": "Image 1 of Der Deutsche correspondent (Baltimore, Md.), March 16, 1917",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045081/1917-03-16/ed-1/?sp=1&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmdu%2Fbatch_mdu_bode_ver03%2Fdata%2Fsn83045081%2Fprint%2F1917031601%2F8472.xml&q=revolution&relevant_snippet=1"
+}

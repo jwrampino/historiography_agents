@@ -1,0 +1,151 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82016181/1939-03-28/ed-1/?sp=11"
+  ],
+  "batch": [
+    "dlc_arbus_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1939-03-28",
+  "dates": [
+    "1939-03-28"
+  ],
+  "description": [
+    "That Don Juan Profile Comes to Town Recalls Earlier Happier Day J jj JOHN AND ELAINE BARRYMORE See Also Katharine Hillyers Review on Page 21 By DICK SCHOLZ John Barrymore attended Georgetown University for two years Lord knows how long ago but he still re fuses to commit himself on the authenticityof an apocry phal tale thats supposed to tell the true reason for his departure from those venerable halls of learning AU hed say yesterday as he chatted in the foyer of the National Theater between rehearsal scenes was It sounds Uke it might have been so and stifle a reminiscent halfsmile FATAL MOMENT The legend concerns the unveiling of a statue at the university A large audience listened patiently thru a ded icatory address while the statue re mained behind the veil At last the big moment arrived the curtain was drawn and the statue stood white and shiny before its first public crowned with a behandled piece of chinaware popular in a century now long departed His academic career over Mr Barry more turned a hand to cartooning he confessed illustrating the editorials of the late Arthur Brisbane on the old New York Journal He was a"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-04-13T07:02:55.646Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82016181/1939-03-28/ed-1/?sp=11",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arbus_ver02:data:sn82016181:0051699969A:1939032801:0890/full/pct:6.25/0/default.jpg#h=337&w=234",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arbus_ver02:data:sn82016181:0051699969A:1939032801:0890/full/pct:12.5/0/default.jpg#h=674&w=468",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_arbus_ver02/data/sn82016181/0051699969A/1939032801/0890.xml&format=alto_xml"
+  ],
+  "index": 136,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "district of columbia",
+    "washington d.c.",
+    "washington"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "9",
+    "1",
+    "5",
+    "6",
+    "a",
+    "0000000011",
+    "sn82016181"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82016181"
+  ],
+  "number_page": [
+    "0000000011"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "9",
+    "6",
+    "9",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82016181-1939-03-28-ed-1-0890",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the washington daily news (washington, d.c.) 1921-1972"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the washington daily news (washington, d.c.) 1921-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82016181/1939-03-28/ed-1/?sp=11"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82016181/1939-03-28/ed-1/"
+  ],
+  "shelf_id": "11",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "newspapers",
+    "washington",
+    "district of columbia",
+    "washington (d.c.)"
+  ],
+  "timestamp": "2025-04-13T09:31:34.966Z",
+  "title": "Image 11 of The Washington daily news (Washington, D.C.), March 28, 1939",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82016181/1939-03-28/ed-1/?sp=11&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_arbus_ver02%2Fdata%2Fsn82016181%2F0051699969A%2F1939032801%2F0890.xml&q=immigration&relevant_snippet=1"
+}

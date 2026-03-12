@@ -1,0 +1,16 @@
+{
+  "creator": "Archive-It",
+  "date": "2015-01-01T00:00:00Z",
+  "description": "jobId=173773, recurrence=MONTHLY, maxDuration=259200, maxDocumentCount=null, isTestCrawl=false, isPatchCrawl=false, oneTimeSubtype=null, seedCount=70, accountId=350, accountType=SUBSCRIBER, organizationName=\"National Library of Medicine\", collectionId=4887, collectionName=\"Global Health Events\", collectionPublic=true",
+  "format": [
+    "Item CDX Index",
+    "Item CDX Meta-Index",
+    "Metadata",
+    "WARC CDX Index",
+    "WARC HostLinks GZ",
+    "Web ARChive GZ"
+  ],
+  "identifier": "ARCHIVEIT-4887-MONTHLY-JOB173773-00000",
+  "mediatype": "web",
+  "title": "Archive-It Crawl Data: Partner 350 Collection 4887 Recurrence MONTHLY (around 2015-09-20T20:22:29Z)"
+}

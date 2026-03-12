@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn82007637/1961-07-14/ed-1/?sp=4"
+  ],
+  "batch": [
+    "ohi_goyle_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/ohio/",
+    "2/united states/ohio/lucas/",
+    "3/united states/ohio/lucas/toledo/"
+  ],
+  "contributor": [
+    "ohio history connection, columbus, oh"
+  ],
+  "date": "1961-07-14",
+  "dates": [
+    "1961-07-14"
+  ],
+  "description": [
+    "THE UNION JOURNALS Editorial Page Friday July 141961 Same Old Republicans 6DERSONS WHO have been calling I the 104th Ohio General Assembly a donothing body have underrated it They have underestimated its capacity for de structive action Thus spoke The Dayton Daily News last week after what it called the long knives of the Republicancontrolled Sen ate Finance committee had finished slash ing the Governors budget in an effort to curry shortterm favor with taxpayers The newspaper asserted that the GOP dominated Legislature is making a rec ord as a body blind to educational needs callous toward human distress unwilling to invest a spare penny in Ohios long range development It condemned GOP cuts in 1 million from aid to dependent children and 27 million from aid to the aged It noted the Senate committee cut a 200000 item for retraining displaced workers and 50000 from the program to teach children of migrant workers But it said the worst inroads are in higher education Although Ohios great est need is a massive program of univers ity construction the Legislature has done nothing so far to provide either university branches or community colleges it stated The Daily News said the economy"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-04-13T08:05:43.404Z",
+  "group": [
+    "ndnp/ohi",
+    "ohio-historical-society-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn82007637/1961-07-14/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_goyle_ver01:data:sn82007637:00516993844:1961071401:0678/full/pct:6.25/0/default.jpg#h=417&w=304",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_goyle_ver01:data:sn82007637:00516993844:1961071401:0678/full/pct:12.5/0/default.jpg#h=834&w=608",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_goyle_ver01/data/sn82007637/00516993844/1961071401/0678.xml&format=alto_xml"
+  ],
+  "index": 84,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "ohio",
+    "toledo",
+    "lucas county",
+    "lucas",
+    "united states"
+  ],
+  "location_city": [
+    "toledo"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lucas"
+  ],
+  "location_state": [
+    "ohio"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0000000004",
+    "sn82007637",
+    "8",
+    "0",
+    "9",
+    "1",
+    "3",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn82007637"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "1",
+    "6",
+    "9",
+    "9",
+    "3",
+    "8",
+    "4",
+    "4"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn82007637-1961-07-14-ed-1-0678",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "toledo union journal (toledo, ohio) 1942-current"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "toledo union journal (toledo, ohio) 1942-current"
+  ],
+  "publication_frequency": [
+    "biweekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn82007637/1961-07-14/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn82007637/1961-07-14/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "international union, united automobile workers of america (cio)",
+    "newspapers",
+    "labor unions",
+    "ohio",
+    "toledo",
+    "toledo (ohio)",
+    "lucas county (ohio)",
+    "lucas county",
+    "lucas",
+    "united states",
+    "local 12 (toledo, ohio)"
+  ],
+  "timestamp": "2025-04-13T10:38:11.153Z",
+  "title": "Image 4 of Toledo union journal (Toledo, Ohio), July 14, 1961",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn82007637/1961-07-14/ed-1/?sp=4&q=computers",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fohi%2Fbatch_ohi_goyle_ver01%2Fdata%2Fsn82007637%2F00516993844%2F1961071401%2F0678.xml&q=computers&relevant_snippet=1"
+}

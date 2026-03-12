@@ -1,0 +1,131 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16100/?sp=6"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/india/",
+    "3/india/calcutta/"
+  ],
+  "date": "1805-11-26",
+  "dates": [
+    "1805-11-26"
+  ],
+  "description": [
+    "SA OPEAN EXTRACTS INCE OF WALES5 ISLAND ving is the Amendment moved at the In by Mr Randal Jackfon upon the friends Bure refufing to admit of any terms of or reftraint A ballot was demanded upe pal queftion Court highly fenfible of the great com PPolitical importance of the Prince of aod do approve the propofal for eftablith ular governnent relying upon the firm wBrity ofthe Court of Diretors that in Aame into execution as much attention s to ceconomy as is confiftent with the na undertaking That in the feleion of the ary and judicial officers talents chara\u00e9ter AL CUT T APrintep roR tue PR Commiffion Ware houfe Where Apve Gentlemen about to change their Stations are requested to give notice therefore to the to whom the Peons do not deliver the Papers in time SuBscriprions will be received at the Benca Hurxaru PrintIn em ter PG Do Bar aettnsicit ons odes We and experience will be their ficit conGiderat that in the application of thefe pricier nn 5 an ble preference will be given to the Company ti venanted Servants That the building of hj y 8 Co in any part of India in preference to the"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-12T07:18:16.390Z",
+  "group": [
+    "paprika-gdc",
+    "catalog-split-06",
+    "catalog",
+    "main-catalog-split-06"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/gdc.sn88063570_16100/?sp=6",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16100:0006/full/pct:6.25/0/default.jpg#h=496&w=333",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16100:0006/full/pct:12.5/0/default.jpg#h=993&w=666",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16100:0006/full/pct:25.0/0/default.jpg#h=1987&w=1333",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16100:0006/full/pct:50.0/0/default.jpg#h=3975&w=2666",
+    "https://tile.loc.gov/image-services/iiif/public:gdc:sn88063570_16100:0006/full/pct:100.0/0/default.jpg#h=7950&w=5332",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/public/gdc/sn88063570_16100/0006.alto.xml&format=alto_xml"
+  ],
+  "index": 101,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "calcutta",
+    "india"
+  ],
+  "location_city": [
+    "calcutta"
+  ],
+  "location_country": [
+    "india"
+  ],
+  "mime_type": [
+    "text/xml",
+    "text/plain",
+    "image/jp2",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ],
+  "number": [
+    "0000000006",
+    "sn88063571",
+    "2025-08-13t13:59:42.400000",
+    "sn88063570",
+    "sn88063569"
+  ],
+  "number_lccn": [
+    "sn88063570"
+  ],
+  "number_page": [
+    "0000000006"
+  ],
+  "number_source_modified": [
+    "2025-08-13t13:59:42.400000"
+  ],
+  "number_succeeding_items": [
+    "sn88063571",
+    "sn88063569"
+  ],
+  "online_format": [
+    "online text",
+    "image"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Hurkaru"
+  ],
+  "page_id": "gdc-sn88063570_16100-0006-alto",
+  "partof": [
+    "catalog",
+    "world digital library",
+    "bengal hurkaru (calcutta, india) 1798-1827",
+    "asian division",
+    "serial and government publications division",
+    "south asian digital collection",
+    "world newspapers",
+    "general collections"
+  ],
+  "partof_title": [
+    "bengal hurkaru (calcutta, india) 1798-1827"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/gdc.sn88063570_16100/?sp=6"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/gdc.sn88063570_16100/"
+  ],
+  "shelf_id": "6",
+  "site": [
+    "catalog"
+  ],
+  "subject": [
+    "calcutta",
+    "india"
+  ],
+  "timestamp": "2025-12-12T07:20:11.984Z",
+  "title": "Image 6 of Volume 11, Number 567, Tuesday, November 26, 1805 ",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/gdc.sn88063570_16100/?sp=6&q=great+war",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fpublic%2Fgdc%2Fsn88063570_16100%2F0006.alto.xml&q=great+war&relevant_snippet=1"
+}

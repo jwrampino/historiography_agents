@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/46032385/1901-07-19/ed-1/?sp=7"
+  ],
+  "batch": [
+    "nbu_carson_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/nebraska/",
+    "2/united states/nebraska/lancaster/",
+    "3/united states/nebraska/lancaster/lincoln/"
+  ],
+  "contributor": [
+    "university of nebraska-lincoln libraries, lincoln, ne"
+  ],
+  "date": "1901-07-19",
+  "dates": [
+    "1901-07-19"
+  ],
+  "description": [
+    "y The Commoner Somebody Is Paying the Bill The People the Products and the Official The official reports for the fis cal year ending June 30 1001 show that the total expendi tures for the war department the past year amounted to 144543912 the expenditure for the navy during the same per iod amounted to 60580705 This shows an increase of 62000000 over the expendi tures of the army and navy departments for the fiscal year ending June 30 1000 It also shows an increase of 121600000 over the expenditures for the fiscal year ending June 30 1898 that being the last fiscal year prior to the SpanishAmerican war These are enormous figures Somebody is paying the bill Is the bill being paid by the republican politicians who insist upon making this nation a world power Or is the bill being paid by the American people who in the midst of a temporarily well filled dinner pail are ignorant or indifferent as to the source from which the money must come Mr Wu the Chinese minister has come to bo quite a popu lar orator at American ban quets Mr Wu is a man of exceptional ability and it is"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-12-01T12:38:00.528Z",
+  "group": [
+    "ndnp/nbu",
+    "university-of-nebraska-of-nebraska-lincoln-libraries-lincoln-ne-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/46032385/1901-07-19/ed-1/?sp=7",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_carson_ver02:data:46032385:00237284859:1901071901:0268/full/pct:6.25/0/default.jpg#h=400&w=293",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_carson_ver02:data:46032385:00237284859:1901071901:0268/full/pct:12.5/0/default.jpg#h=800&w=586",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/nbu/batch_nbu_carson_ver02/data/46032385/00237284859/1901071901/0268.xml&format=alto_xml"
+  ],
+  "index": 6,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "lancaster",
+    "lincoln",
+    "lancaster county",
+    "nebraska"
+  ],
+  "location_city": [
+    "lincoln"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lancaster"
+  ],
+  "location_state": [
+    "nebraska"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "46032385",
+    "8",
+    "5",
+    "9",
+    "7",
+    "4",
+    "3",
+    "0000000007",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "46032385"
+  ],
+  "number_page": [
+    "0000000007"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "3",
+    "7",
+    "2",
+    "8",
+    "4",
+    "8",
+    "5",
+    "9"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "46032385-1901-07-19-ed-1-0268",
+  "partof": [
+    "serial and government publications division",
+    "chronicling america",
+    "the commoner (lincoln, neb.) 1901-1923"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the commoner (lincoln, neb.) 1901-1923"
+  ],
+  "publication_frequency": [
+    "monthly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/46032385/1901-07-19/ed-1/?sp=7"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/46032385/1901-07-19/ed-1/"
+  ],
+  "shelf_id": "07",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "united states",
+    "lincoln (neb.)",
+    "lancaster",
+    "lincoln",
+    "lancaster county (neb.)",
+    "lancaster county",
+    "middle class",
+    "newspapers",
+    "politics and government",
+    "nebraska"
+  ],
+  "timestamp": "2025-12-14T14:21:46.537Z",
+  "title": "Image 7 of The commoner (Lincoln, Neb.), July 19, 1901",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/46032385/1901-07-19/ed-1/?sp=7&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fnbu%2Fbatch_nbu_carson_ver02%2Fdata%2F46032385%2F00237284859%2F1901071901%2F0268.xml&q=manifest+destiny&relevant_snippet=1"
+}

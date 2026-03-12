@@ -1,0 +1,164 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83025182/1864-04-06/ed-1/?sp=2"
+  ],
+  "batch": [
+    "iahi_ivysaur_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/iowa/",
+    "2/united states/iowa/lee/",
+    "3/united states/iowa/lee/keokuk/"
+  ],
+  "contributor": [
+    "state historical society of iowa"
+  ],
+  "date": "1864-04-06",
+  "dates": [
+    "1864-04-06"
+  ],
+  "description": [
+    "6ATRC1 KEOKUK WEDNESDAY APRIL 6 ipksch or KM aT rBi ABOLITION OF SLAVERY COVCLUDKD JR V1 i S t Of miffy provisions of fhe Constt tution devised for the protection of the jlatioo this one stands first in importance Without it the bond of union would be as freak as an invalid between whom he grave bnt a and breath intervenes The Supremacy of the Constitution the laws find treaties of the United States are fiecessary to our existence as a nation Our unity can be preserved in no other ay Tbis was the belief of those who Ordained the Constitution and our expe rience accords therewith But sir sla very planted itself in opposition to this provision of the Constitution and declar ed thnt it should not be enforced Do you ask for proof We need not go far to find it Turn to the Constitution and take as a guide the words The citizens of each State shall be entitled to all tho privileges and immuni ties of citizens of the several States To what extent has this been regard ed as the supreme law of the land io State4 where slavery controlled legislation presided in the courts"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-05-16T11:56:44.794Z",
+  "group": [
+    "ndnp/iahi",
+    "state-historical-society-of-iowa-state-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83025182/1864-04-06/ed-1/?sp=2",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528311:1864040601:0741/full/pct:3.125/0/default.jpg#h=259&w=199",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528311:1864040601:0741/full/pct:6.25/0/default.jpg#h=518&w=399",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528311:1864040601:0741/full/pct:12.5/0/default.jpg#h=1036&w=798",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iahi/batch_iahi_ivysaur_ver01/data/sn83025182/00279528311/1864040601/0741.xml&format=alto_xml"
+  ],
+  "index": 28,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "lee",
+    "united states",
+    "iowa",
+    "keokuk"
+  ],
+  "location_city": [
+    "keokuk"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "lee"
+  ],
+  "location_state": [
+    "iowa"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "8",
+    "0000000002",
+    "0",
+    "2",
+    "7",
+    "9",
+    "1",
+    "3",
+    "sn83025182"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83025182"
+  ],
+  "number_page": [
+    "0000000002"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "7",
+    "9",
+    "5",
+    "2",
+    "8",
+    "3",
+    "1",
+    "1"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Gate City",
+    "Sunday Gate City"
+  ],
+  "page_id": "sn83025182-1864-04-06-ed-1-0741",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "the daily gate city (keokuk, iowa) 1855-1916"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the daily gate city (keokuk, iowa) 1855-1916"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83025182/1864-04-06/ed-1/?sp=2"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83025182/1864-04-06/ed-1/"
+  ],
+  "shelf_id": "2",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "iowa",
+    "keokuk (iowa)",
+    "lee",
+    "keokuk",
+    "united states"
+  ],
+  "timestamp": "2023-07-04T06:58:19.794Z",
+  "title": "Image 2 of The daily Gate City (Keokuk, Iowa), April 6, 1864",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83025182/1864-04-06/ed-1/?sp=2&q=slavery",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fiahi%2Fbatch_iahi_ivysaur_ver01%2Fdata%2Fsn83025182%2F00279528311%2F1864040601%2F0741.xml&q=slavery&relevant_snippet=1"
+}

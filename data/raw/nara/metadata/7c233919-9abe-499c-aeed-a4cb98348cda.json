@@ -1,0 +1,154 @@
+{
+  "levelOfDescription": "fileUnit",
+  "recordType": "description",
+  "useRestriction": {
+    "note": "Some or all of the records may be subject to copyright restrictions. Researchers should contact the copyright holder for further information.",
+    "specificUseRestrictions": [
+      "Copyright",
+      "Copyright"
+    ],
+    "status": "Restricted - Possibly"
+  },
+  "title": "[Employee Ownership: Revolution or Ripoff?]",
+  "physicalOccurrences": [
+    {
+      "referenceUnits": [
+        {
+          "city": "Little Rock",
+          "phone": "501-244-2877",
+          "address1": "1200 President Clinton Avenue",
+          "postalCode": "72201",
+          "name": "William J. Clinton Library",
+          "state": "AR",
+          "fax": "501-244-2881",
+          "email": "clinton.library@nara.gov",
+          "mailCode": "LP-WJC"
+        }
+      ],
+      "mediaOccurrences": [
+        {
+          "generalMediaTypes": [
+            "Loose Sheets"
+          ],
+          "specificMediaType": "Paper",
+          "containerId": "107"
+        }
+      ],
+      "copyStatus": "Preservation-Reproduction-Reference"
+    }
+  ],
+  "accessRestriction": {
+    "note": "These records may need to be screened for personal privacy, and law enforcement under 5 U.S.C. 552 (b) prior to public release.",
+    "specificAccessRestrictions": [
+      {
+        "restriction": "FOIA (b)(4) Trade Secrets and Commercial or Financial Information"
+      },
+      {
+        "restriction": "FOIA (b)(6) Personal Information"
+      },
+      {
+        "restriction": "FOIA (b)(7c) Law Enforcement"
+      },
+      {
+        "restriction": "FOIA (b)(7e) Law Enforcement"
+      },
+      {
+        "restriction": "FOIA (b)(7f) Law Enforcement"
+      }
+    ],
+    "status": "Restricted - Partly"
+  },
+  "dataControlGroup": {
+    "groupId": "ou=NLWJC,ou=groups",
+    "groupCd": "LPWJC"
+  },
+  "generalRecordsTypes": [
+    "Textual Records"
+  ],
+  "variantControlNumbers": [
+    {
+      "number": "LPWJC 2006-0885-F (Seg 1)",
+      "type": "FOIA Tracking Number"
+    }
+  ],
+  "digitalObjects": [
+    {
+      "objectFilename": "42_t_12092985_20060885F_Seg1_107_002_2015_Page_001.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/82/6162/17616282/content/presidential-libraries/clinton/foia/2006-0885-F-Seg-1/2006-0885-F-Seg-1-JPG/Box_107/42-t-12092985-20060885F-Seg1-107-002-2015/42_t_12092985_20060885F_Seg1_107_002_2015_Page_001.JPG",
+      "objectFileSize": 327680,
+      "objectId": "34906129",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_12092985_20060885F_Seg1_107_002_2015_Page_002.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/82/6162/17616282/content/presidential-libraries/clinton/foia/2006-0885-F-Seg-1/2006-0885-F-Seg-1-JPG/Box_107/42-t-12092985-20060885F-Seg1-107-002-2015/42_t_12092985_20060885F_Seg1_107_002_2015_Page_002.JPG",
+      "objectFileSize": 303104,
+      "objectId": "34906130",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_12092985_20060885F_Seg1_107_002_2015_Page_003.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/82/6162/17616282/content/presidential-libraries/clinton/foia/2006-0885-F-Seg-1/2006-0885-F-Seg-1-JPG/Box_107/42-t-12092985-20060885F-Seg1-107-002-2015/42_t_12092985_20060885F_Seg1_107_002_2015_Page_003.JPG",
+      "objectFileSize": 131072,
+      "objectId": "34906131",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42_t_12092985_20060885F_Seg1_107_002_2015_Page_004.JPG",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/82/6162/17616282/content/presidential-libraries/clinton/foia/2006-0885-F-Seg-1/2006-0885-F-Seg-1-JPG/Box_107/42-t-12092985-20060885F-Seg1-107-002-2015/42_t_12092985_20060885F_Seg1_107_002_2015_Page_004.JPG",
+      "objectFileSize": 671744,
+      "objectId": "34906132",
+      "objectType": "Image (JPG)"
+    },
+    {
+      "objectFilename": "42-t-12092985-20060885F-Seg1-107-002-2015.pdf",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/82/6162/17616282/content/presidential-libraries/clinton/foia/2006-0885-F-Seg-1/2006-0885-F-Seg-1-PDF/Box_107/42-t-12092985-20060885F-Seg1-107-002-2015.pdf",
+      "objectFileSize": 113397,
+      "objectId": "34906128",
+      "objectType": "Portable Document File (PDF)"
+    }
+  ],
+  "otherTitles": [
+    "42-t-12092985-20060885F-Seg1-107-002-2015"
+  ],
+  "ancestors": [
+    {
+      "collectionIdentifier": "WJC-TFNHC",
+      "inclusiveStartDate": {
+        "year": 1993,
+        "logicalDate": "1993-01-01"
+      },
+      "distance": 2,
+      "levelOfDescription": "collection",
+      "inclusiveEndDate": {
+        "year": 1994,
+        "logicalDate": "1994-12-31"
+      },
+      "title": "Records of the Task Force on National Health Care (Clinton Administration)",
+      "naId": 7410105
+    },
+    {
+      "inclusiveStartDate": {
+        "year": 1993,
+        "logicalDate": "1993-01-01"
+      },
+      "distance": 1,
+      "levelOfDescription": "series",
+      "creators": [
+        {
+          "creatorType": "Most Recent",
+          "heading": "White House Health Care Task Force (U.S.)",
+          "authorityType": "organization",
+          "naId": 10443060
+        }
+      ],
+      "inclusiveEndDate": {
+        "year": 1994,
+        "logicalDate": "1994-12-31"
+      },
+      "title": "Ira Magaziner's Files",
+      "naId": 12092985
+    }
+  ],
+  "naId": 17616282
+}

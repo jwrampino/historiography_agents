@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/2025200871/1894-12-01/ed-1/?sp=8"
+  ],
+  "batch": [
+    "dlc_cheetah_ver02"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/pennsylvania/",
+    "2/united states/pennsylvania/cumberland/",
+    "3/united states/pennsylvania/cumberland/carlisle/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1894-12-01",
+  "dates": [
+    "1894-12-01"
+  ],
+  "description": [
+    "able to appropriate to his exclusive use 50000 acres of valuable land The half breeds and adopted whites rule the Terri tory and rule it in a manner to make it the choice field of operations of the Cook There are decent and gang of bandits honest men in the Territory most of them full blooded Indians They need to be protected from the crafty and unscrup ulous adventurers who have taken pos session of the Territory In the opinion of the commission the five tribes have demonstrated their in capacity for selfgovernment and the United States should therefore revoke the privileges which have so lamentably fail ed All authority has fallen into the hands of a few men who use it solely for their own aggrandizement Sixtyone men in one tribe have obtained title and hold for pasturage and cultivation 1237 000 acres or over 20000 acres apiece In this way these few men monopolize near ly onehalf and altogether the most valu able land of the tribe Certainly the I United States Government never set apart the Indian Territory to make a few ad venturers very rich and create a safe working ground for gangs of freebooters Something"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2025-09-14T05:40:40.501Z",
+  "group": [
+    "ndnp/dlc-2020_now",
+    "library-of-congress-washington-dc-awardee-8"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/2025200871/1894-12-01/ed-1/?sp=8",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cheetah_ver02:data:2025200871:00543171748:1894120101:0438/full/pct:6.25/0/default.jpg#h=400&w=275",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cheetah_ver02:data:2025200871:00543171748:1894120101:0438/full/pct:12.5/0/default.jpg#h=800&w=550",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_cheetah_ver02/data/2025200871/00543171748/1894120101/0438.xml&format=alto_xml"
+  ],
+  "index": 39,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "carlisle",
+    "united states",
+    "cumberland",
+    "pennsylvania"
+  ],
+  "location_city": [
+    "carlisle"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "cumberland"
+  ],
+  "location_state": [
+    "pennsylvania"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "2025200871",
+    "0000000008",
+    "8",
+    "3",
+    "5",
+    "4",
+    "1",
+    "7"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "2025200871"
+  ],
+  "number_page": [
+    "0000000008"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "5",
+    "4",
+    "3",
+    "1",
+    "7",
+    "1",
+    "7",
+    "4",
+    "8"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "2025200871-1894-12-01-ed-1-0438",
+  "partof": [
+    "chronicling america",
+    "the red man (carlisle, pa.) 1888-1900",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the red man (carlisle, pa.) 1888-1900"
+  ],
+  "publication_frequency": [
+    "monthly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/2025200871/1894-12-01/ed-1/?sp=8"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/2025200871/1894-12-01/ed-1/"
+  ],
+  "shelf_id": "8",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "cumberland",
+    "united states indian school (carlisle, pa.)",
+    "carlisle",
+    "pennsylvania",
+    "indians of north america",
+    "carlisle (pa.)",
+    "united states",
+    "newspapers"
+  ],
+  "subject_ethnicity": [
+    "indians of north america"
+  ],
+  "timestamp": "2025-09-14T05:44:00.473Z",
+  "title": "Image 8 of The Red man (Carlisle, Pa.), December 1, 1894",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/2025200871/1894-12-01/ed-1/?sp=8&q=indian+territory",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_cheetah_ver02%2Fdata%2F2025200871%2F00543171748%2F1894120101%2F0438.xml&q=indian+territory&relevant_snippet=1"
+}

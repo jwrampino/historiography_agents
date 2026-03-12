@@ -1,0 +1,161 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83025925/1870-11-25/ed-1/?sp=4"
+  ],
+  "batch": [
+    "pst_grange_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/pennsylvania/",
+    "2/united states/pennsylvania/philadelphia/",
+    "3/united states/pennsylvania/philadelphia/philadelphia/"
+  ],
+  "contributor": [
+    "penn state university libraries; university park, pa"
+  ],
+  "date": "1870-11-25",
+  "dates": [
+    "1870-11-25"
+  ],
+  "description": [
+    "4 Tllfi DAILY EVENING TELEGRAPH 1lilLADELPHIA F tID AY NOVEMBER 25 1870 toting Mcgtapli f U BUSHED EVER T AFTERNOON BUN DATS BXCRPTBD T THE EVENING TELEGRAPH BUILDING NO 103 8 THIRD STREET PHILADELPHIA Tfte Prioe U three cenlt per copy double sheet or eighteen cents per week payable to the carrier by whom nerved The subscription price by mail is Nine Dollars per annum or One Dollar and Fifty Cents for tu0 months invariably in advance for Vie time ordered FRIDAY NOVEMBER 25 1370 FO REIGN 0 RA TIOX An oflicial statement has recently been issued of the number and nationality of tho alien passengers or immigrants who arrived in the United States during the fiftyone years ending on September 30 1370 Ih 1S20 the number of immigrants was only 838 and it was not nntil 1828 that they exceeded 20000 In 18114 more than 05000 immigrants arrived on our shores and it was not until 18l that they exceeded one hundred thousand In 1847 tho immigration suddenly increased to more than two hundred thousand per annum the famine in Ireland driving an immense number of her citizens to our shores at a time when the Qerman immigration was"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-10-08T07:59:49.239Z",
+  "group": [
+    "ndnp/pst",
+    "penn-state-university-libraries-university-park-pa-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83025925/1870-11-25/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn83025925:00280776300:1870112501:0600/full/pct:6.25/0/default.jpg#h=473&w=374",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn83025925:00280776300:1870112501:0600/full/pct:12.5/0/default.jpg#h=946&w=749",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/pst/batch_pst_grange_ver01/data/sn83025925/00280776300/1870112501/0600.xml&format=alto_xml"
+  ],
+  "index": 92,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "united states",
+    "philadelphia",
+    "pennsylvania",
+    "philadelphia county"
+  ],
+  "location_city": [
+    "philadelphia"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "philadelphia"
+  ],
+  "location_state": [
+    "pennsylvania"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "8",
+    "6",
+    "sn83025925",
+    "7",
+    "0000000004",
+    "3",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83025925"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "7",
+    "7",
+    "6",
+    "3",
+    "0",
+    "0"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Daily evening telegraph"
+  ],
+  "page_id": "sn83025925-1870-11-25-ed-1-0600",
+  "partof": [
+    "serial and government publications division",
+    "the evening telegraph (philadelphia [pa.]) 1864-1918",
+    "chronicling america"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "the evening telegraph (philadelphia [pa.]) 1864-1918"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83025925/1870-11-25/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83025925/1870-11-25/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "philadelphia (pa.)",
+    "united states",
+    "philadelphia county (pa.)",
+    "philadelphia",
+    "newspapers",
+    "pennsylvania",
+    "philadelphia county"
+  ],
+  "timestamp": "2022-10-28T01:21:08.844Z",
+  "title": "Image 4 of The evening telegraph (Philadelphia [Pa.]), November 25, 1870, (FIFTH EDITION)",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83025925/1870-11-25/ed-1/?sp=4&q=immigration",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fpst%2Fbatch_pst_grange_ver01%2Fdata%2Fsn83025925%2F00280776300%2F1870112501%2F0600.xml&q=immigration&relevant_snippet=1"
+}

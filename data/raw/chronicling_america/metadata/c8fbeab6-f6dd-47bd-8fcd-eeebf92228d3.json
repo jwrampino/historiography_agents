@@ -1,0 +1,156 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn83045462/1921-11-12/ed-1/?sp=22"
+  ],
+  "batch": [
+    "dlc_cylon_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/district of columbia/",
+    "3/united states/district of columbia/washington/"
+  ],
+  "contributor": [
+    "library of congress, washington, dc"
+  ],
+  "date": "1921-11-12",
+  "dates": [
+    "1921-11-12"
+  ],
+  "description": [
+    "i SEASURY CALLS FORMW ccount September 15 Fi nancingMaturities De cember 15 BY I A FLEMING Secretary Mellon this morning call a on banks having on deposit to the redit of the Treasury Department to y into their respective regional iinks 60 per cent of the balance of ich funds by the 15th instant This payment will call for about V 8000000 and will leave a com paratively small balance of the pro eds of that sale in the banks and ihe proceeds of the entire sale of cer tificates of November 1 With this large credit l N practically certain that the Treas ury will not do any additional public ilnancing during the current month With December 15 comes the ma turity of 401557500 Treasury certifi rates and the interest on the fourth i Si per cent liberty bonds of which the original issue was 6SoO000000 Interest on the first 3Hs and the first 414s into which the former were onvertible will be due and payable November 15 This was the smallest of the liberty loans 2000000 Following his usual custom Secre inry Mellon may couple with the De cember offering of certificates an offering o threeyear notes His"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T06:56:39.671Z",
+  "group": [
+    "ndnp/dlc-2014_2016",
+    "library-of-congress-washington-dc-awardee-5"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn83045462/1921-11-12/ed-1/?sp=22",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cylon_ver01:data:sn83045462:00280657025:1921111201:0464/full/pct:6.25/0/default.jpg#h=426&w=328",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cylon_ver01:data:sn83045462:00280657025:1921111201:0464/full/pct:12.5/0/default.jpg#h=852&w=656",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_cylon_ver01/data/sn83045462/00280657025/1921111201/0464.xml&format=alto_xml"
+  ],
+  "index": 187,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "district of columbia",
+    "washington d.c.",
+    "washington",
+    "united states"
+  ],
+  "location_city": [
+    "washington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "district of columbia"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "5",
+    "0000000022",
+    "8",
+    "0",
+    "2",
+    "sn83045462",
+    "7",
+    "1",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn83045462"
+  ],
+  "number_page": [
+    "0000000022"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "8",
+    "0",
+    "6",
+    "5",
+    "7",
+    "0",
+    "2",
+    "5"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Sunday star",
+    "Star"
+  ],
+  "page_id": "sn83045462-1921-11-12-ed-1-0464",
+  "partof": [
+    "chronicling america",
+    "evening star (washington, d.c.) 1854-1972",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening star (washington, d.c.) 1854-1972"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn83045462/1921-11-12/ed-1/?sp=22"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn83045462/1921-11-12/ed-1/"
+  ],
+  "shelf_id": "22",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "district of columbia",
+    "washington (d.c.)",
+    "washington",
+    "united states"
+  ],
+  "timestamp": "2022-10-20T03:41:47.194Z",
+  "title": "Image 22 of Evening star (Washington, D.C.), November 12, 1921",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn83045462/1921-11-12/ed-1/?sp=22&q=oil",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdlc%2Fbatch_dlc_cylon_ver01%2Fdata%2Fsn83045462%2F00280657025%2F1921111201%2F0464.xml&q=oil&relevant_snippet=1"
+}

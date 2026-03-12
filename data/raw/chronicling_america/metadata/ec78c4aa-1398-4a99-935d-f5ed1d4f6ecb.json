@@ -1,0 +1,158 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn89067274/1898-07-28/ed-1/?sp=4"
+  ],
+  "batch": [
+    "mohi_garfield_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/missouri/",
+    "2/united states/missouri/audrain/",
+    "3/united states/missouri/audrain/mexico/"
+  ],
+  "contributor": [
+    "state historical society of missouri; columbia, mo"
+  ],
+  "date": "1898-07-28",
+  "dates": [
+    "1898-07-28"
+  ],
+  "description": [
+    "The Weekly Ledger R U WHITE Editor and Proprietor THURSDAY JULY 28 A BARE OPPORTUNITY Prof French Strother Attends Lec tures at Charlottesville Va Visit to the Old Jef ferson Home Correspondence of the Ledger CHARLOTTESVILLE Va July 20 We were fortunate in getting to this place In time to attend some of the grand lectures being daily delivered at the rJchool of Methods It is a rare privilege to meet and mingle with four or five hundred bright intel ligent and enthusiastic men and women who are not teaching for money only bnt whose hearts are In their work and who pat forth every gift and energy to rise to greater heights in their chosen profession Such are the teachers we have met in onr dear old mother state One of the brainiest most fluent and deserv edly popular teachers here is Dr Charles W Kent the lecturer on Military Men and Their Works of the Nineteenth Century Dr Kent if the brother of oar distinguished St Louis attorney H T Kent and ranks If possible higher than does his brother among lawyers We could hardly say more In his praise We verily believe that if Dr Kent la"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2020-09-15T12:00:12.695Z",
+  "group": [
+    "ndnp/mohi",
+    "state-historical-society-of-missouri-columbia-mo-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn89067274/1898-07-28/ed-1/?sp=4",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556977:1898072801:0756/full/pct:6.25/0/default.jpg#h=494&w=401",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556977:1898072801:0756/full/pct:12.5/0/default.jpg#h=989&w=803",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mohi/batch_mohi_garfield_ver01/data/sn89067274/00294556977/1898072801/0756.xml&format=alto_xml"
+  ],
+  "index": 5,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "audrain",
+    "mexico",
+    "missouri",
+    "united states"
+  ],
+  "location_city": [
+    "mexico"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "audrain"
+  ],
+  "location_state": [
+    "missouri"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "0",
+    "1",
+    "9",
+    "5",
+    "6",
+    "sn89067274",
+    "0000000004",
+    "4",
+    "7",
+    "2"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn89067274"
+  ],
+  "number_page": [
+    "0000000004"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "2",
+    "9",
+    "4",
+    "5",
+    "5",
+    "6",
+    "9",
+    "7",
+    "7"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "page_id": "sn89067274-1898-07-28-ed-1-0756",
+  "partof": [
+    "chronicling america",
+    "serial and government publications division",
+    "mexico weekly ledger (mexico, mo.) 1855-1956"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "mexico weekly ledger (mexico, mo.) 1855-1956"
+  ],
+  "publication_frequency": [
+    "weekly"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn89067274/1898-07-28/ed-1/?sp=4"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn89067274/1898-07-28/ed-1/"
+  ],
+  "shelf_id": "4",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "audrain",
+    "mexico",
+    "united states",
+    "newspapers",
+    "mexico (mo.)",
+    "missouri"
+  ],
+  "timestamp": "2022-10-17T14:00:41.364Z",
+  "title": "Image 4 of Mexico weekly ledger (Mexico, Mo.), July 28, 1898",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn89067274/1898-07-28/ed-1/?sp=4&q=manifest+destiny",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fmohi%2Fbatch_mohi_garfield_ver01%2Fdata%2Fsn89067274%2F00294556977%2F1898072801%2F0756.xml&q=manifest+destiny&relevant_snippet=1"
+}

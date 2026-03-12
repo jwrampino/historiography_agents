@@ -1,0 +1,162 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/resource/sn85042354/1917-03-16/ed-1/?sp=1"
+  ],
+  "batch": [
+    "deu_greenville_ver01"
+  ],
+  "campaigns": [],
+  "composite_location": [
+    "0/united states/",
+    "1/united states/delaware/",
+    "2/united states/delaware/new castle/",
+    "3/united states/delaware/new castle/wilmington/"
+  ],
+  "contributor": [
+    "university of delaware library, newark, de"
+  ],
+  "date": "1917-03-16",
+  "dates": [
+    "1917-03-16"
+  ],
+  "description": [
+    "The Evening Journal WEATHER 18711 Circulation Yesterday NONRETURNARLB Cloudy tonight and Sntnr day I probably rain TWENTYNINTH YEAR NO 242 WILMINGTON DELAWARE FRIDAY MARCH 16 1917 24 PAGES ONE CENT _ R 3 T SE7 \u00c6 jfv m m U I g s i r 9 m I 1 sin ri J S 5 V v mi i K I o my s S 3KS53BS fi autu g fc x\u00fc S\u00dc\u00dc RAILROADS AND EMPLOYES LOOK TO WILSON TO HALT THREATENED RAILTIE4JP By the United Press WASHINGTON Mar 16 President Wilson will accept any offer by the Brotherhoods or the managers if such are made to mediate in the strike called for Saturday it was stated on high authority today There was even strong indica tion today that President Wilson night call both the railroad man agers and Brotherhood leaders into conference with him within 24 hours without awaiting an in vitation to mediate Th Presidents understanding of th situation now is that both sides appear to 10 marking time pending some ac tion on his part It is the belief of his advisors that tlie country as well as the railroads and their employes now look to tha Presi dent"
+  ],
+  "digitized": true,
+  "extract_timestamp": "2023-08-12T17:56:43.453Z",
+  "group": [
+    "ndnp/deu",
+    "university-of-delaware-library-newark-de-awardee"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/resource/sn85042354/1917-03-16/ed-1/?sp=1",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_greenville_ver01:data:sn85042354:0038334296A:1917031601:0194/full/pct:6.25/0/default.jpg#h=452&w=323",
+    "https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_greenville_ver01:data:sn85042354:0038334296A:1917031601:0194/full/pct:12.5/0/default.jpg#h=905&w=646",
+    "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/deu/batch_deu_greenville_ver01/data/sn85042354/0038334296A/1917031601/0194.xml&format=alto_xml"
+  ],
+  "index": 85,
+  "language": [
+    "english"
+  ],
+  "location": [
+    "new castle",
+    "wilmington",
+    "delaware",
+    "united states"
+  ],
+  "location_city": [
+    "wilmington"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_county": [
+    "new castle"
+  ],
+  "location_state": [
+    "delaware"
+  ],
+  "mime_type": [
+    "image/jp2",
+    "application/pdf",
+    "text/xml",
+    "image/jpeg",
+    "image/jpeg",
+    "application/json",
+    "text/plain"
+  ],
+  "number": [
+    "sn85042354",
+    "1",
+    "8",
+    "0",
+    "2",
+    "3",
+    "9",
+    "a",
+    "0000000001",
+    "4",
+    "6"
+  ],
+  "number_edition": [
+    "1"
+  ],
+  "number_lccn": [
+    "sn85042354"
+  ],
+  "number_page": [
+    "0000000001"
+  ],
+  "number_reel": [
+    "0",
+    "0",
+    "3",
+    "8",
+    "3",
+    "3",
+    "4",
+    "2",
+    "9",
+    "6",
+    "a"
+  ],
+  "online_format": [
+    "image",
+    "pdf",
+    "online text"
+  ],
+  "original_format": [
+    "newspaper"
+  ],
+  "other_title": [
+    "Evening journal and the daily Republican"
+  ],
+  "page_id": "sn85042354-1917-03-16-ed-1-0194",
+  "partof": [
+    "chronicling america",
+    "evening journal (wilmington, del.) 1888-1932",
+    "serial and government publications division"
+  ],
+  "partof_collection": [
+    "chronicling america"
+  ],
+  "partof_division": [
+    "serial and government publications division"
+  ],
+  "partof_title": [
+    "evening journal (wilmington, del.) 1888-1932"
+  ],
+  "publication_frequency": [
+    "daily"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "url": "https://www.loc.gov/resource/sn85042354/1917-03-16/ed-1/?sp=1"
+    }
+  ],
+  "segmentof": [
+    "http://www.loc.gov/resource/sn85042354/1917-03-16/ed-1/"
+  ],
+  "shelf_id": "01",
+  "site": [
+    "chroniclingamerica"
+  ],
+  "subject": [
+    "newspapers",
+    "new castle",
+    "delaware",
+    "wilmington (del.)",
+    "wilmington",
+    "united states"
+  ],
+  "timestamp": "2023-08-13T05:04:14.558Z",
+  "title": "Image 1 of Evening journal (Wilmington, Del.), March 16, 1917",
+  "type": [
+    "segment"
+  ],
+  "url": "https://www.loc.gov/resource/sn85042354/1917-03-16/ed-1/?sp=1&q=revolution",
+  "word_coordinates_url": "https://tile.loc.gov/text-services/word-coordinates-service?format=alto_xml&segment=%2Fservice%2Fndnp%2Fdeu%2Fbatch_deu_greenville_ver01%2Fdata%2Fsn85042354%2F0038334296A%2F1917031601%2F0194.xml&q=revolution&relevant_snippet=1"
+}

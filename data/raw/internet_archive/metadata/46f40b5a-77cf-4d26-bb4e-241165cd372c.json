@@ -1,0 +1,23 @@
+{
+  "format": [
+    "Archive BitTorrent",
+    "GZIP",
+    "Item CDX Index",
+    "Item CDX Meta-Index",
+    "Log",
+    "Metadata",
+    "Unknown",
+    "WARC CDX Index",
+    "Web ARChive GZ"
+  ],
+  "identifier": "warc-www_freebyte_com",
+  "mediatype": "web",
+  "subject": [
+    "warcarchives",
+    "internet",
+    "information",
+    "blogs",
+    "computers"
+  ],
+  "title": "WARC: www.freebyte.com"
+}
