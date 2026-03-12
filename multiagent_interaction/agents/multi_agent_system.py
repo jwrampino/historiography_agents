@@ -18,7 +18,7 @@ from langchain_openai import ChatOpenAI
 
 import sys
 sys.path.append('..')
-from personas.persona_manager import HistorianPersona
+from personas.historian_manager import HistorianPersona
 from sources.source_library import SourceLibrary, PrimarySource
 
 
@@ -66,7 +66,8 @@ class HistorianAgent:
     ):
         """Initialize historian agent."""
         self.persona = persona
-        self.agent_id = persona.persona_id
+        self.agent_id = persona.historian_id
+        self.name = persona.name
         self.source_library = source_library
         self.experiment_id = experiment_id
 
@@ -90,11 +91,11 @@ class HistorianAgent:
 
     def get_system_prompt(self) -> str:
         """Generate system prompt based on persona."""
-        return f"""You are a historian with the following characteristics:
-- Field: {self.persona.field}
-- Methodological approach: {self.persona.method}
-- Historical era of focus: {self.persona.era}
-- Theoretical orientation: {self.persona.theoretical_orientation}
+        # Use the historian's actual prompt from their papers
+        base_prompt = self.persona.prompt
+
+        # Add collaboration instructions
+        collaboration_instructions = """
 
 You are collaborating with other historians to develop a novel research question and abstract.
 Your goal is to:
@@ -111,7 +112,9 @@ Available actions:
 - CRITIQUE: Offer constructive criticism of another's proposal
 - CONCLUDE: Signal agreement with a final research question and abstract
 
-Be intellectually curious, rigorous, and open to collaboration while maintaining your disciplinary perspective."""
+Be intellectually curious, rigorous, and open to collaboration while maintaining your scholarly perspective."""
+
+        return base_prompt + collaboration_instructions
 
     def decide_action(self, dialogue_state: DialogueState) -> AgentAction:
         """
@@ -423,17 +426,21 @@ class MultiAgentDialogueSystem:
 
 if __name__ == "__main__":
     # Example usage
-    from personas.persona_manager import PersonaManager
+    from personas.historian_manager import HistorianManager
 
     print("Initializing multi-agent system...")
 
     # Load personas
-    persona_manager = PersonaManager()
-    personas = persona_manager.create_persona_grid()[:3]  # Use first 3 personas
+    historian_manager = HistorianManager()
+    personas = historian_manager.load_personas("personas/historian_personas.json")[:3]
+
+    print(f"Loaded {len(personas)} historian personas:")
+    for p in personas:
+        print(f"  - {p.name}")
 
     # Create dialogue system
     system = MultiAgentDialogueSystem()
 
-    print(f"Running experiment with {len(personas)} agents...")
+    print(f"\nRunning experiment with {len(personas)} agents...")
     # Note: This would actually run the dialogue
     # final_state = system.run_experiment(personas, experiment_id="test_001")

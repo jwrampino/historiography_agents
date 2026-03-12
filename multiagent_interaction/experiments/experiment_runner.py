@@ -13,7 +13,7 @@ import yaml
 
 import sys
 sys.path.append('..')
-from personas.persona_manager import PersonaManager, HistorianPersona
+from personas.historian_manager import HistorianManager, HistorianPersona
 from sources.source_library import SourceLibrary
 from agents.multi_agent_system import MultiAgentDialogueSystem, DialogueState
 
@@ -23,6 +23,7 @@ class ExperimentResult:
     """Stores results from a single experiment run."""
     experiment_id: str
     group_composition: List[Dict]  # Persona info for each agent
+    triangle_geometry: Dict  # Geometric features of the historian triangle
     chat_history: List[Dict]  # All agent actions
     sources_accessed: List[Dict]  # Sources used
     final_question: str
@@ -52,7 +53,7 @@ class ExperimentRunner:
         self.config = self._load_config()
 
         # Initialize components
-        self.persona_manager = PersonaManager(config_path)
+        self.historian_manager = HistorianManager()
         self.dialogue_system = MultiAgentDialogueSystem(config_path)
         self.source_library = self.dialogue_system.source_library
 
@@ -69,40 +70,38 @@ class ExperimentRunner:
         with open(self.config_path, 'r') as f:
             return yaml.safe_load(f)
 
-    def setup_personas(self, strategy: str = "full", n_samples: Optional[int] = None):
+    def setup_personas(self, strategy: str = "filtered", n_samples: Optional[int] = None):
         """
         Set up personas for experiments.
 
         Args:
-            strategy: "full" for full factorial, "stratified" for sampling
-            n_samples: Number of samples for stratified strategy
+            strategy: "filtered", "stratified", or "random"
+            n_samples: Number of samples for sampling strategies
         """
-        print("Setting up personas...")
+        print("Setting up historian personas...")
 
-        # Load or create personas
-        self.persona_manager.load_personas_from_storage()
+        # Load historian personas
+        personas = self.historian_manager.load_personas("personas/historian_personas.json")
+        print(f"Loaded {len(personas)} historians")
 
-        if strategy == "full":
-            # Full factorial: all possible groups
-            group_size = self.config['experiment']['n_agents_per_group']
-            self.groups = self.persona_manager.generate_factorial_groups(group_size)
-            print(f"Generated {len(self.groups)} groups (full factorial)")
+        # Ensure embeddings are computed
+        if personas[0].embedding is None:
+            print("Computing embeddings...")
+            self.historian_manager.compute_historian_embeddings()
 
-        elif strategy == "stratified":
-            # Stratified sampling
-            if n_samples is None:
-                n_samples = 100  # Default
+        # Sample groups with geometry constraints
+        if n_samples is None:
+            n_samples = 100  # Default
 
-            group_size = self.config['experiment']['n_agents_per_group']
-            self.groups = self.persona_manager.generate_stratified_groups(
-                group_size=group_size,
-                n_samples=n_samples,
-                ensure_diversity=True
-            )
-            print(f"Generated {len(self.groups)} groups (stratified sampling)")
+        self.groups = self.historian_manager.sample_groups(
+            n_groups=n_samples,
+            strategy=strategy,
+            min_distance=0.1,
+            max_distance=0.7,
+            min_area=0.001
+        )
 
-        else:
-            raise ValueError(f"Unknown strategy: {strategy}")
+        print(f"Generated {len(self.groups)} groups using '{strategy}' strategy")
 
     def setup_source_library(self, library_path: Optional[str] = None):
         """
@@ -143,7 +142,11 @@ class ExperimentRunner:
             self.experiment_count += 1
 
         print(f"\nRunning experiment: {experiment_id}")
-        print(f"Group composition: {[p.persona_id for p in group]}")
+        print(f"Group composition: {[p.name for p in group]}")
+
+        # Compute triangle geometry
+        triangle_geometry = self.historian_manager.compute_triangle_geometry(group)
+        print(f"Triangle geometry: perimeter={triangle_geometry['perimeter']:.3f}, area={triangle_geometry['area']:.3f}")
 
         # Run dialogue
         final_state = self.dialogue_system.run_experiment(
@@ -155,6 +158,7 @@ class ExperimentRunner:
         result = ExperimentResult(
             experiment_id=experiment_id,
             group_composition=[p.to_dict() for p in group],
+            triangle_geometry=triangle_geometry,
             chat_history=[msg.to_dict() for msg in final_state.messages],
             sources_accessed=[s.to_dict() for s in final_state.sources_accessed],
             final_question=final_state.final_question or "",
@@ -282,14 +286,14 @@ class ExperimentRunner:
 
         records = []
         for result in self.results:
-            # Extract persona characteristics for each agent
-            persona_fields = [p['field'] for p in result.group_composition]
-            persona_methods = [p['method'] for p in result.group_composition]
-            persona_eras = [p['era'] for p in result.group_composition]
-            persona_orientations = [p['theoretical_orientation'] for p in result.group_composition]
+            # Extract historian names
+            historian_names = [p['name'] for p in result.group_composition]
 
             record = {
                 'experiment_id': result.experiment_id,
+                'historian_1': historian_names[0] if len(historian_names) > 0 else None,
+                'historian_2': historian_names[1] if len(historian_names) > 1 else None,
+                'historian_3': historian_names[2] if len(historian_names) > 2 else None,
                 'turn_count': result.turn_count,
                 'consensus_reached': result.consensus_reached,
                 'n_sources_used': len(result.sources_accessed),
@@ -297,12 +301,18 @@ class ExperimentRunner:
                 'abstract_length': len(result.final_abstract),
             }
 
-            # Add persona characteristics
-            for i in range(len(result.group_composition)):
-                record[f'agent_{i}_field'] = persona_fields[i]
-                record[f'agent_{i}_method'] = persona_methods[i]
-                record[f'agent_{i}_era'] = persona_eras[i]
-                record[f'agent_{i}_orientation'] = persona_orientations[i]
+            # Add triangle geometry features
+            geom = result.triangle_geometry
+            record.update({
+                'geom_side_1': geom['side_1'],
+                'geom_side_2': geom['side_2'],
+                'geom_side_3': geom['side_3'],
+                'geom_perimeter': geom['perimeter'],
+                'geom_area': geom['area'],
+                'geom_min_angle': geom['min_angle'],
+                'geom_max_angle': geom['max_angle'],
+                'geom_angle_variance': geom['angle_variance'],
+            })
 
             records.append(record)
 
@@ -316,9 +326,9 @@ def main():
     parser = argparse.ArgumentParser(description="Run multi-agent historian experiments")
     parser.add_argument(
         '--strategy',
-        choices=['full', 'stratified'],
-        default='stratified',
-        help='Sampling strategy for persona groups'
+        choices=['filtered', 'stratified', 'random'],
+        default='filtered',
+        help='Sampling strategy for historian groups'
     )
     parser.add_argument(
         '--n-samples',
