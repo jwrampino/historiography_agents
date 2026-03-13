@@ -21,8 +21,8 @@ from agents.storage import ExperimentStorage
 from agents.visualization import ConvergenceAnalyzer
 from agents.visualization import ConvergencePredictionModel, run_inference_analysis, run_ablation_study
 from agents.historian_manager import HistorianManager, HistorianPersona
-from historian_pipeline.storage.corpus_store import CorpusStore
-from historian_pipeline.embeddings.faiss_index import CorpusIndex
+from sources.storage.corpus_store import CorpusStore
+from sources.embeddings.faiss_index import CorpusIndex
  
 logger = logging.getLogger(__name__)
  

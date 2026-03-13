@@ -1194,3 +1194,6 @@
 2026-03-13 00:07:17,767 [WARNING] __main__: Could not load data/embeddings/27/27c671ef-ab46-4bcd-be3a-c31e4079ccd0 2.npy: No data left in file
 2026-03-13 00:07:18,228 [WARNING] __main__: Could not load data/embeddings/27/27cef49a-18d6-4a26-82bc-625368829a5a 2.npy: No data left in file
 2026-03-13 00:07:18,535 [WARNING] __main__: Could not load data/embeddings/27/27d14ff8-a05b-4118-8ac2-49c3b13cf2ad 2.npy: No data left in file
+2026-03-13 16:04:59,432 [INFO] sources.storage.corpus_store: Schema initialised at data/db/corpus.duckdb
+2026-03-13 16:04:59,505 [INFO] sources.ingestors.internet_archive_ingestor: [IA] internetarchive SDK available (anonymous access)
+2026-03-13 16:04:59,505 [INFO] __main__: [Chronicling America] query='reconstruction era' max=1

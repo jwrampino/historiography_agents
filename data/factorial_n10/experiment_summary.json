@@ -1,0 +1,132 @@
+{
+  "n_triads_attempted": 10,
+  "n_triads_successful": 10,
+  "elapsed_seconds": 235.5,
+  "output_dir": "data/factorial_experiment_10",
+  "min_area_filter": 0.001,
+  "max_triads_limit": 10,
+  "prediction_results": {
+    "n_samples": 10,
+    "target": "convergence_delta",
+    "target_mean": 0.05148007969061534,
+    "target_std": 0.04273721396743604,
+    "target_min": -0.03276498119036353,
+    "target_max": 0.11859281857808429,
+    "r2": 0.17423231155671148,
+    "mae": 0.03226799872005547,
+    "rmse": 0.03883605878685275,
+    "alpha_selected": 100.0,
+    "coefficients": {
+      "perimeter": 0.00023150139424569477,
+      "area": 0.0009039652151252151,
+      "angle_variance": -0.0014690917715067756,
+      "mean_historian_distance": 0.00023355713644157314,
+      "abstract_distance_variance": 0.001581386763120223,
+      "mean_pairwise_abstract_similarity": -0.0021700116610788188,
+      "bias_score": 0.0006664007239828675,
+      "dominant_historian_position": 0.0018444577994651697
+    },
+    "intercept": 0.05148007969061535
+  },
+  "inference_results": {
+    "target": "convergence_delta",
+    "n_samples": 10,
+    "convergence_delta_mean": 0.05148007969061534,
+    "convergence_delta_std": 0.04273721396743604,
+    "convergence_delta_min": -0.03276498119036353,
+    "convergence_delta_max": 0.11859281857808429,
+    "correlations_with_delta": {
+      "perimeter": 0.14209638410975237,
+      "area": 0.3158385684369592,
+      "angle_variance": -0.411088862698951,
+      "mean_historian_distance": 0.14274001517237042
+    },
+    "bias_score_correlation_with_delta": 0.24611892285285644,
+    "ols_area_vs_delta": {
+      "slope": 1.4738535465420197,
+      "intercept": -0.38103631698362306,
+      "r_squared": 0.09975400131230774,
+      "p_value": 0.37399582048107205,
+      "std_err": 1.5653980002037757
+    },
+    "strongest_predictor": "angle_variance",
+    "strongest_correlation": -0.411088862698951,
+    "interpretation": "'angle_variance' is the strongest geometric predictor of convergence (r=-0.411). Higher convergence_delta means the synthesis landed closer to the true centroid of the triad."
+  },
+  "ablation_results": {
+    "n_samples": 10,
+    "baseline_features": [
+      "perimeter",
+      "area",
+      "angle_variance",
+      "mean_historian_distance"
+    ],
+    "extended_features": [
+      "perimeter",
+      "area",
+      "angle_variance",
+      "mean_historian_distance",
+      "abstract_distance_variance",
+      "mean_pairwise_abstract_similarity",
+      "bias_score",
+      "dominant_historian_position"
+    ],
+    "source_features": [
+      "mean_source_embedding_distance",
+      "source_embedding_variance"
+    ],
+    "full_features": [
+      "perimeter",
+      "area",
+      "angle_variance",
+      "mean_historian_distance",
+      "abstract_distance_variance",
+      "mean_pairwise_abstract_similarity",
+      "bias_score",
+      "dominant_historian_position",
+      "mean_source_embedding_distance",
+      "source_embedding_variance"
+    ],
+    "baseline_model": {
+      "n_features": 4,
+      "n_samples_used": 10,
+      "r2": 0.17829588707519373,
+      "mae": 0.032567648429926134,
+      "rmse": 0.03874038545913455,
+      "cv_r2_mean": -96.46192782286676,
+      "cv_r2_std": 186.74544097148734,
+      "alpha": 0.1
+    },
+    "extended_model": {
+      "n_features": 8,
+      "n_samples_used": 10,
+      "r2": 0.17423231155671148,
+      "mae": 0.03226799872005547,
+      "rmse": 0.03883605878685275,
+      "cv_r2_mean": -200.22495451405695,
+      "cv_r2_std": 399.0344163564131,
+      "alpha": 100.0
+    },
+    "full_model": {
+      "n_features": 10,
+      "n_samples_used": 10,
+      "r2": 0.9943322855462213,
+      "mae": 0.0028390528203249958,
+      "rmse": 0.0032174380094700324,
+      "cv_r2_mean": -93.16434865525527,
+      "cv_r2_std": 186.42319086837855,
+      "alpha": 0.1
+    },
+    "extended_improvement": {
+      "delta_r2": -0.004063575518482243,
+      "delta_mae": -0.0002996497098706613,
+      "pct_r2_improvement": -2.279119032048843
+    },
+    "source_improvement": {
+      "delta_r2": 0.8200999739895098,
+      "delta_mae": -0.029428945899730476,
+      "pct_r2_improvement": 470.69338744073235,
+      "interpretation": "Positive delta_r2 means source embeddings improve prediction"
+    }
+  }
+}

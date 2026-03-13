@@ -22,8 +22,9 @@ from __future__ import annotations
 import argparse
 import json
 import warnings
+from dataclasses import dataclass, field
 from pathlib import Path
-from typing import Optional
+from typing import Dict, List, Optional, Tuple
 
 import matplotlib
 import matplotlib.colors as mcolors
@@ -2462,3 +2463,565 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# SYNTHESIS ANALYSIS (merged from convergence_analysis.py)
+# Import via: from agents.visualization import SynthesisAnalyzer
+# ═══════════════════════════════════════════════════════════════════════════════
+
+# numpy, dataclasses, typing already imported above
+
+
+@dataclass
+class SynthesisMetrics:
+    """Container for synthesis analysis results."""
+    historian_1_embedding: np.ndarray
+    historian_2_embedding: np.ndarray
+    historian_3_embedding: np.ndarray
+    centroid_embedding: np.ndarray
+
+    abstract_1_embedding: np.ndarray
+    abstract_2_embedding: np.ndarray
+    abstract_3_embedding: np.ndarray
+
+    final_abstract_embedding: np.ndarray
+
+    distance_hist1_to_centroid: float
+    distance_hist2_to_centroid: float
+    distance_hist3_to_centroid: float
+    mean_historian_distance: float
+
+    distance_abstract1_to_centroid: float
+    distance_abstract2_to_centroid: float
+    distance_abstract3_to_centroid: float
+    mean_abstract_distance: float
+
+    distance_final_to_centroid: float
+
+    bias_weights: np.ndarray = field(default_factory=lambda: np.array([1/3, 1/3, 1/3]))
+    dominant_historian_position: int = 0
+    bias_score: float = 0.0
+
+    def to_dict(self) -> Dict:
+        return {
+            'distance_hist1_to_centroid':    float(self.distance_hist1_to_centroid),
+            'distance_hist2_to_centroid':    float(self.distance_hist2_to_centroid),
+            'distance_hist3_to_centroid':    float(self.distance_hist3_to_centroid),
+            'mean_historian_distance':       float(self.mean_historian_distance),
+            'distance_abstract1_to_centroid': float(self.distance_abstract1_to_centroid),
+            'distance_abstract2_to_centroid': float(self.distance_abstract2_to_centroid),
+            'distance_abstract3_to_centroid': float(self.distance_abstract3_to_centroid),
+            'mean_abstract_distance':        float(self.mean_abstract_distance),
+            'distance_final_to_centroid':    float(self.distance_final_to_centroid),
+            'bias_weight_1':                 float(self.bias_weights[0]),
+            'bias_weight_2':                 float(self.bias_weights[1]),
+            'bias_weight_3':                 float(self.bias_weights[2]),
+            'dominant_historian_position':   int(self.dominant_historian_position),
+            'bias_score':                    float(self.bias_score),
+        }
+
+
+class SynthesisAnalyzer:
+    """Analyzes synthesis movement and bias in historian triad interactions."""
+
+    def __init__(self):
+        self._text_embedder = None
+
+    @property
+    def text_embedder(self):
+        if self._text_embedder is None:
+            try:
+                from sentence_transformers import SentenceTransformer
+                self._text_embedder = SentenceTransformer(
+                    'sentence-transformers/all-mpnet-base-v2',
+                    device='cpu'
+                )
+                logger.info("Loaded text embedding model for synthesis analysis")
+            except ImportError:
+                raise RuntimeError(
+                    "sentence-transformers required: pip install sentence-transformers"
+                )
+        return self._text_embedder
+
+    def compute_synthesis_metrics(
+        self,
+        historian_embeddings: Tuple[np.ndarray, np.ndarray, np.ndarray],
+        individual_abstracts: List[str],
+        final_abstract: str
+    ) -> SynthesisMetrics:
+        h1_emb, h2_emb, h3_emb = historian_embeddings
+        centroid = self._compute_centroid([h1_emb, h2_emb, h3_emb])
+
+        logger.info("Embedding individual abstracts...")
+        abstract_embeddings = self.text_embedder.encode(
+            individual_abstracts, normalize_embeddings=True, show_progress_bar=False
+        )
+        a1_emb, a2_emb, a3_emb = [
+            abstract_embeddings[i].astype(np.float32) for i in range(3)
+        ]
+
+        logger.info("Embedding final abstract...")
+        final_emb = self.text_embedder.encode(
+            [final_abstract], normalize_embeddings=True, show_progress_bar=False
+        )[0].astype(np.float32)
+
+        d_h1 = self._cosine_distance(h1_emb, centroid)
+        d_h2 = self._cosine_distance(h2_emb, centroid)
+        d_h3 = self._cosine_distance(h3_emb, centroid)
+        mean_h_dist = float(np.mean([d_h1, d_h2, d_h3]))
+
+        d_a1 = self._cosine_distance(a1_emb, centroid)
+        d_a2 = self._cosine_distance(a2_emb, centroid)
+        d_a3 = self._cosine_distance(a3_emb, centroid)
+        mean_a_dist = float(np.mean([d_a1, d_a2, d_a3]))
+
+        d_final = self._cosine_distance(final_emb, centroid)
+
+        sim_to_1 = float(np.dot(final_emb, a1_emb))
+        sim_to_2 = float(np.dot(final_emb, a2_emb))
+        sim_to_3 = float(np.dot(final_emb, a3_emb))
+
+        raw = np.array([sim_to_1, sim_to_2, sim_to_3])
+        exp_raw = np.exp(raw - raw.max())
+        bias_weights = exp_raw / exp_raw.sum()
+
+        dominant_pos = int(np.argmax(bias_weights)) + 1
+        bias_score   = float(bias_weights.max() - 1/3)
+
+        logger.info(
+            f"Synthesis analysis: mean_abstract_dist={mean_a_dist:.4f}, "
+            f"final_dist={d_final:.4f}, "
+            f"bias=[{bias_weights[0]:.2f},{bias_weights[1]:.2f},{bias_weights[2]:.2f}], "
+            f"dominant=historian_{dominant_pos}, bias_score={bias_score:.3f}"
+        )
+
+        return SynthesisMetrics(
+            historian_1_embedding=h1_emb,
+            historian_2_embedding=h2_emb,
+            historian_3_embedding=h3_emb,
+            centroid_embedding=centroid,
+            abstract_1_embedding=a1_emb,
+            abstract_2_embedding=a2_emb,
+            abstract_3_embedding=a3_emb,
+            final_abstract_embedding=final_emb,
+            distance_hist1_to_centroid=d_h1,
+            distance_hist2_to_centroid=d_h2,
+            distance_hist3_to_centroid=d_h3,
+            mean_historian_distance=mean_h_dist,
+            distance_abstract1_to_centroid=d_a1,
+            distance_abstract2_to_centroid=d_a2,
+            distance_abstract3_to_centroid=d_a3,
+            mean_abstract_distance=mean_a_dist,
+            distance_final_to_centroid=d_final,
+            bias_weights=bias_weights,
+            dominant_historian_position=dominant_pos,
+            bias_score=bias_score,
+        )
+
+    def compute_embedding_stats(self, metrics: SynthesisMetrics) -> Dict:
+        abstract_distances = [
+            metrics.distance_abstract1_to_centroid,
+            metrics.distance_abstract2_to_centroid,
+            metrics.distance_abstract3_to_centroid,
+        ]
+        abstract_variance   = float(np.var(abstract_distances))
+        convergence_delta   = metrics.mean_abstract_distance - metrics.distance_final_to_centroid
+
+        sim_12 = float(np.dot(metrics.abstract_1_embedding, metrics.abstract_2_embedding))
+        sim_23 = float(np.dot(metrics.abstract_2_embedding, metrics.abstract_3_embedding))
+        sim_13 = float(np.dot(metrics.abstract_1_embedding, metrics.abstract_3_embedding))
+        mean_pairwise_sim = float(np.mean([sim_12, sim_23, sim_13]))
+
+        return {
+            'abstract_distance_variance':        abstract_variance,
+            'convergence_delta':                 float(convergence_delta),
+            'mean_pairwise_abstract_similarity': float(mean_pairwise_sim),
+            'abstract_similarity_12':            sim_12,
+            'abstract_similarity_23':            sim_23,
+            'abstract_similarity_13':            sim_13,
+            'bias_weight_1':                     float(metrics.bias_weights[0]),
+            'bias_weight_2':                     float(metrics.bias_weights[1]),
+            'bias_weight_3':                     float(metrics.bias_weights[2]),
+            'dominant_historian_position':       int(metrics.dominant_historian_position),
+            'bias_score':                        float(metrics.bias_score),
+        }
+
+    @staticmethod
+    def _compute_centroid(embeddings: List[np.ndarray]) -> np.ndarray:
+        centroid = np.mean(embeddings, axis=0)
+        centroid = centroid / np.linalg.norm(centroid)
+        return centroid.astype(np.float32)
+
+    @staticmethod
+    def _cosine_distance(v1: np.ndarray, v2: np.ndarray) -> float:
+        return float(1.0 - np.dot(v1, v2))
+
+
+# ── Ablation study (merged from prediction_model.py) ──────────────────────────
+def run_ablation_study(df: pd.DataFrame,
+                       output_path: str = "data/agent_experiments/ablation_study.json") -> Dict:
+    """
+    Run ablation study comparing three feature sets:
+      - baseline:  geometry only (perimeter, area, angle_variance, mean_historian_distance)
+      - extended:  baseline + semantic/bias features
+      - full:      extended + source embedding features
+
+    Args:
+        df: Merged DataFrame with all features and convergence_delta
+        output_path: Where to save the JSON results
+
+    Returns:
+        Dict with per-model metrics and improvement deltas
+    """
+    try:
+        from sklearn.linear_model import RidgeCV
+        from sklearn.preprocessing import StandardScaler
+        from sklearn.model_selection import cross_val_score
+        from sklearn.metrics import r2_score, mean_absolute_error
+    except ImportError:
+        raise RuntimeError("scikit-learn required: pip install scikit-learn")
+
+    if 'convergence_delta' not in df.columns:
+        logger.warning("convergence_delta not found — cannot run ablation")
+        return {'error': 'missing_convergence_delta'}
+
+    y = df['convergence_delta'].dropna().values
+    df_clean = df.loc[df['convergence_delta'].notna()].copy()
+
+    baseline_features = ['perimeter', 'area', 'angle_variance', 'mean_historian_distance']
+    extended_features = baseline_features + [
+        'abstract_distance_variance', 'mean_pairwise_abstract_similarity',
+        'bias_score', 'dominant_historian_position'
+    ]
+    source_features   = ['mean_source_embedding_distance', 'source_embedding_variance']
+    full_features     = extended_features + source_features
+
+    def _fit_model(feature_list):
+        available = [f for f in feature_list if f in df_clean.columns]
+        if not available:
+            return None, available
+        X = df_clean[available].fillna(0).values
+        scaler = StandardScaler()
+        X_scaled = scaler.fit_transform(X)
+        n = len(y)
+        model = RidgeCV(alphas=[0.01, 0.1, 1.0, 10.0, 100.0], cv=min(5, n))
+        model.fit(X_scaled, y)
+        y_pred = model.predict(X_scaled)
+        r2   = float(r2_score(y, y_pred))
+        mae  = float(mean_absolute_error(y, y_pred))
+        rmse = float(np.sqrt(np.mean((y - y_pred) ** 2)))
+        cv_scores = cross_val_score(
+            RidgeCV(alphas=[0.01, 0.1, 1.0, 10.0, 100.0]),
+            X_scaled, y, cv=min(5, n), scoring='r2'
+        )
+        return {
+            'n_features':     len(available),
+            'n_samples_used': int(n),
+            'r2':             r2,
+            'mae':            mae,
+            'rmse':           rmse,
+            'cv_r2_mean':     float(cv_scores.mean()),
+            'cv_r2_std':      float(cv_scores.std()),
+            'alpha':          float(model.alpha_),
+        }, available
+
+    baseline_result, baseline_used = _fit_model(baseline_features)
+    extended_result, extended_used = _fit_model(extended_features)
+    full_result,     full_used     = _fit_model(full_features)
+
+    # Source-only improvement
+    source_delta_r2  = full_result['r2']  - extended_result['r2']
+    source_delta_mae = full_result['mae'] - extended_result['mae']
+
+    results = {
+        'n_samples':          int(len(y)),
+        'baseline_features':  baseline_used,
+        'extended_features':  extended_used,
+        'source_features':    [f for f in source_features if f in df_clean.columns],
+        'full_features':      full_used,
+        'baseline_model':     baseline_result,
+        'extended_model':     extended_result,
+        'full_model':         full_result,
+        'extended_improvement': {
+            'delta_r2':            extended_result['r2']  - baseline_result['r2'],
+            'delta_mae':           extended_result['mae'] - baseline_result['mae'],
+            'pct_r2_improvement':  (
+                (extended_result['r2'] - baseline_result['r2'])
+                / (abs(baseline_result['r2']) + 1e-9) * 100
+            ),
+        },
+        'source_improvement': {
+            'delta_r2':            source_delta_r2,
+            'delta_mae':           source_delta_mae,
+            'pct_r2_improvement':  source_delta_r2 / (abs(extended_result['r2']) + 1e-9) * 100,
+            'interpretation':      (
+                'Positive delta_r2 means source embeddings improve prediction'
+                if source_delta_r2 > 0 else
+                'Negative delta_r2 means source embeddings do not help prediction'
+            ),
+        },
+    }
+
+    output_path = Path(output_path)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    with open(output_path, 'w') as f:
+        json.dump(results, f, indent=2)
+    logger.info(
+        f"Ablation saved to {output_path} | "
+        f"baseline R²={baseline_result['r2']:.3f}, "
+        f"extended R²={extended_result['r2']:.3f}, "
+        f"full R²={full_result['r2']:.3f}"
+    )
+    return results
+
+
+# ── Prediction model (merged from prediction_model.py) ────────────────────────
+class ConvergencePredictionModel:
+    """Predicts convergence delta for historian triads via ridge regression."""
+
+    def __init__(self):
+        """Initialize prediction model."""
+        self.model = None
+        self.feature_names = None
+        self.scaler = None
+
+    def extract_features(self, df: pd.DataFrame) -> Tuple[np.ndarray, List[str]]:
+        """
+        Extract features for regression.
+
+        Args:
+            df: DataFrame with triad and convergence data
+
+        Returns:
+            (feature_matrix, feature_names)
+        """
+        feature_names = [
+            'perimeter',
+            'area',
+            'angle_variance',
+            'mean_historian_distance'
+        ]
+
+        if 'abstract_distance_variance' in df.columns:
+            feature_names.extend([
+                'abstract_distance_variance',
+                'mean_pairwise_abstract_similarity'
+            ])
+
+        # Add bias features if present
+        for col in ['bias_score', 'dominant_historian_position']:
+            if col in df.columns:
+                feature_names.append(col)
+
+        X = df[feature_names].values
+        return X, feature_names
+
+    def fit(
+        self,
+        X: np.ndarray,
+        y: np.ndarray,
+        feature_names: List[str]
+    ) -> Dict:
+        """
+        Fit ridge regression model predicting convergence_delta.
+
+        Args:
+            X: Feature matrix (n_samples, n_features)
+            y: Continuous target — convergence_delta (n_samples,)
+            feature_names: List of feature names
+
+        Returns:
+            Dict with training results
+        """
+        try:
+            from sklearn.linear_model import RidgeCV
+            from sklearn.preprocessing import StandardScaler
+            from sklearn.metrics import r2_score, mean_absolute_error
+        except ImportError:
+            raise RuntimeError(
+                "scikit-learn required: pip install scikit-learn"
+            )
+
+        self.feature_names = feature_names
+
+        # Standardize features
+        self.scaler = StandardScaler()
+        X_scaled = self.scaler.fit_transform(X)
+
+        # Fit ridge regression with cross-validated alpha
+        self.model = RidgeCV(
+            alphas=[0.01, 0.1, 1.0, 10.0, 100.0],
+            cv=min(5, len(y))
+        )
+        self.model.fit(X_scaled, y)
+
+        # In-sample metrics
+        y_pred = self.model.predict(X_scaled)
+        r2 = r2_score(y, y_pred)
+        mae = mean_absolute_error(y, y_pred)
+        rmse = float(np.sqrt(np.mean((y - y_pred) ** 2)))
+
+        results = {
+            'n_samples': int(len(y)),
+            'target': 'convergence_delta',
+            'target_mean': float(np.mean(y)),
+            'target_std': float(np.std(y)),
+            'target_min': float(np.min(y)),
+            'target_max': float(np.max(y)),
+            'r2': float(r2),
+            'mae': float(mae),
+            'rmse': float(rmse),
+            'alpha_selected': float(self.model.alpha_),
+            'coefficients': {
+                name: float(coef)
+                for name, coef in zip(feature_names, self.model.coef_)
+            },
+            'intercept': float(self.model.intercept_)
+        }
+
+        logger.info(
+            f"Regression fitted: R²={r2:.3f}, MAE={mae:.4f}, "
+            f"alpha={self.model.alpha_}"
+        )
+        return results
+
+    def predict(self, X: np.ndarray) -> np.ndarray:
+        """
+        Predict convergence delta for new triads.
+
+        Args:
+            X: Feature matrix
+
+        Returns:
+            Predicted convergence deltas
+        """
+        if self.model is None:
+            raise RuntimeError("Model not fitted yet")
+
+        X_scaled = self.scaler.transform(X)
+        return self.model.predict(X_scaled)
+
+    def analyze_feature_importance(self) -> pd.DataFrame:
+        """
+        Analyze feature importance from standardized coefficients.
+
+        Returns:
+            DataFrame with feature importance sorted by absolute coefficient
+        """
+        if self.model is None:
+            raise RuntimeError("Model not fitted yet")
+
+        importance_df = pd.DataFrame({
+            'feature': self.feature_names,
+            'coefficient': self.model.coef_,
+            'abs_coefficient': np.abs(self.model.coef_)
+        }).sort_values('abs_coefficient', ascending=False)
+
+        return importance_df
+
+    def save_model(self, output_path: str = "data/agent_experiments/prediction_model.json"):
+        """Save model parameters to JSON."""
+        if self.model is None:
+            raise RuntimeError("Model not fitted yet")
+
+        output_path = Path(output_path)
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+
+        model_data = {
+            'model_type': 'ridge_regression',
+            'target': 'convergence_delta',
+            'feature_names': self.feature_names,
+            'coefficients': self.model.coef_.tolist(),
+            'intercept': float(self.model.intercept_),
+            'alpha': float(self.model.alpha_),
+            'scaler_mean': self.scaler.mean_.tolist(),
+            'scaler_scale': self.scaler.scale_.tolist()
+        }
+
+        with open(output_path, 'w') as f:
+            json.dump(model_data, f, indent=2)
+
+        logger.info(f"Saved model to {output_path}")
+
+
+def run_inference_analysis(df: pd.DataFrame) -> Dict:
+    """
+    Run inference analysis: test if geometric diversity predicts convergence delta.
+    Uses OLS with triangle area as the key predictor of convergence_delta.
+
+    Args:
+        df: DataFrame with triangle geometry and convergence_delta
+
+    Returns:
+        Dict with inference results
+    """
+    if len(df) < 4:
+        logger.warning("Too few samples for inference analysis")
+        return {'error': 'insufficient_samples'}
+
+    if 'convergence_delta' not in df.columns:
+        logger.warning("convergence_delta not found in dataframe")
+        return {'error': 'missing_convergence_delta'}
+
+    y = df['convergence_delta'].values
+
+    results = {
+        'target': 'convergence_delta',
+        'n_samples': len(df),
+        'convergence_delta_mean': float(np.mean(y)),
+        'convergence_delta_std': float(np.std(y)),
+        'convergence_delta_min': float(np.min(y)),
+        'convergence_delta_max': float(np.max(y)),
+    }
+
+    # Correlations between geometry features and convergence delta
+    geometry_features = ['perimeter', 'area', 'angle_variance', 'mean_historian_distance']
+    correlations = {}
+    for feat in geometry_features:
+        if feat in df.columns:
+            corr = float(np.corrcoef(df[feat].values, y)[0, 1])
+            correlations[feat] = corr
+    results['correlations_with_delta'] = correlations
+
+    # Add bias correlations if present
+    if 'bias_score' in df.columns:
+        bias_corr = float(np.corrcoef(df['bias_score'].values, y)[0, 1])
+        results['bias_score_correlation_with_delta'] = bias_corr
+
+    # OLS regression: area -> convergence_delta
+    try:
+        from scipy import stats
+
+        slope, intercept, r_value, p_value, std_err = stats.linregress(
+            df['area'].values, y
+        )
+        results['ols_area_vs_delta'] = {
+            'slope': float(slope),
+            'intercept': float(intercept),
+            'r_squared': float(r_value ** 2),
+            'p_value': float(p_value),
+            'std_err': float(std_err)
+        }
+
+        # Most correlated feature overall
+        best_feat = max(correlations, key=lambda k: abs(correlations[k]))
+        best_corr = correlations[best_feat]
+        results['strongest_predictor'] = best_feat
+        results['strongest_correlation'] = best_corr
+        results['interpretation'] = (
+            f"'{best_feat}' is the strongest geometric predictor of convergence "
+            f"(r={best_corr:.3f}). Higher convergence_delta means the synthesis "
+            f"landed closer to the true centroid of the triad."
+        )
+
+        logger.info(
+            f"Inference: delta_mean={np.mean(y):.4f}, "
+            f"best_predictor={best_feat} (r={best_corr:.3f}), "
+            f"area p={p_value:.3f}"
+        )
+
+    except ImportError:
+        logger.warning("scipy not available")
+        results['error'] = 'scipy_not_available'
+
+    return results

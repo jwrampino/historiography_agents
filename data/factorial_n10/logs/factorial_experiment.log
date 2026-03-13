@@ -1,0 +1,564 @@
+2026-03-13 15:36:49,493 [INFO] __main__: Initializing factorial experiment components...
+2026-03-13 15:36:49,494 [INFO] agents.historian_manager: Loading historian data from CSVs...
+2026-03-13 15:36:49,515 [INFO] agents.historian_manager: Loaded 720 papers, 1105 authors
+2026-03-13 15:36:49,528 [INFO] agents.historian_manager: Created 25 historian personas
+2026-03-13 15:36:49,528 [INFO] agents.historian_manager: Computing historian embeddings...
+2026-03-13 15:36:54,158 [INFO] sentence_transformers.SentenceTransformer: Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2026-03-13 15:36:54,298 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-13 15:36:54,299 [WARNING] huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-03-13 15:36:54,309 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/modules.json "HTTP/1.1 200 OK"
+2026-03-13 15:36:54,361 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-13 15:36:54,373 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-03-13 15:36:54,438 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-13 15:36:54,447 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-03-13 15:36:54,494 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-03-13 15:36:54,503 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/README.md "HTTP/1.1 200 OK"
+2026-03-13 15:36:54,545 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-13 15:36:54,557 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/modules.json "HTTP/1.1 200 OK"
+2026-03-13 15:36:54,603 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-13 15:36:54,613 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/sentence_bert_config.json "HTTP/1.1 200 OK"
+2026-03-13 15:36:54,658 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+2026-03-13 15:36:54,705 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-13 15:36:54,715 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/config.json "HTTP/1.1 200 OK"
+2026-03-13 15:36:55,142 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-13 15:36:55,155 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/config.json "HTTP/1.1 200 OK"
+2026-03-13 15:36:55,200 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-13 15:36:55,210 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-03-13 15:36:55,283 [INFO] httpx: HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-mpnet-base-v2/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-03-13 15:36:55,351 [INFO] httpx: HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-mpnet-base-v2/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-03-13 15:36:55,470 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-13 15:36:55,490 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+2026-03-13 15:36:55,547 [INFO] httpx: HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-mpnet-base-v2 "HTTP/1.1 200 OK"
+2026-03-13 15:36:55,553 [INFO] agents.historian_manager: Loaded text embedding model
+2026-03-13 15:37:12,976 [INFO] agents.historian_manager: Computed embeddings for all historians
+2026-03-13 15:37:13,023 [INFO] historian_pipeline.storage.corpus_store: Schema initialised at data/db/corpus.duckdb
+2026-03-13 15:37:13,033 [INFO] faiss.loader: Loading faiss.
+2026-03-13 15:37:13,098 [INFO] faiss.loader: Successfully loaded faiss.
+2026-03-13 15:37:13,121 [INFO] historian_pipeline.embeddings.faiss_index: Index loaded: 9307 vectors from data/index/corpus.faiss
+2026-03-13 15:37:13,122 [INFO] agents.source_retrieval: Loaded FAISS index with 9307 vectors
+2026-03-13 15:37:13,147 [INFO] agents.storage: Initialized experiment database at data/factorial_experiment_10/experiments.duckdb
+2026-03-13 15:37:13,147 [INFO] __main__: All components initialized
+2026-03-13 15:37:13,148 [INFO] __main__: 
+============================================================
+2026-03-13 15:37:13,148 [INFO] __main__: FULL FACTORIAL EXPERIMENT
+2026-03-13 15:37:13,148 [INFO] __main__: ============================================================
+
+2026-03-13 15:37:13,148 [INFO] __main__: Generating all possible historian triads...
+2026-03-13 15:37:13,149 [INFO] __main__: Total possible triads: 2300
+2026-03-13 15:37:13,285 [INFO] __main__: Valid triads after filtering (area >= 0.001): 2299
+2026-03-13 15:37:13,286 [INFO] __main__: Limiting to 10 triads
+2026-03-13 15:37:13,287 [INFO] __main__: Step 1: Running 10 triad experiments...
+2026-03-13 15:37:13,287 [INFO] __main__: 
+--- Triad 1/10 ---
+2026-03-13 15:37:13,287 [INFO] agents.interaction_pipeline: Starting triad 1: John Marincola, David F. Noble, Claude S. Fischer
+2026-03-13 15:37:13,287 [INFO] agents.interaction_pipeline: Retrieving sources for historians...
+2026-03-13 15:37:13,287 [INFO] agents.interaction_pipeline:   Retrieving for John Marincola...
+2026-03-13 15:37:13,321 [INFO] agents.source_retrieval: Randomly sampled 3 text sources
+2026-03-13 15:37:13,952 [WARNING] agents.source_retrieval: Failed to download image 88b99851-32e2-48b8-8947-842848db3caf: cannot identify image file <_io.BytesIO object at 0x64f467100>
+2026-03-13 15:37:14,737 [WARNING] agents.source_retrieval: Failed to download image 598fd2e2-1f38-4a74-9a19-b92f587a7c7a: cannot identify image file <_io.BytesIO object at 0x64f466de0>
+2026-03-13 15:37:14,738 [INFO] agents.source_retrieval: Randomly sampled 2 image sources
+2026-03-13 15:37:14,738 [INFO] agents.interaction_pipeline:   Retrieving for David F. Noble...
+2026-03-13 15:37:14,753 [INFO] agents.source_retrieval: Randomly sampled 3 text sources
+2026-03-13 15:37:15,216 [WARNING] agents.source_retrieval: Failed to download image 129dd865-ed24-468b-a764-9477fa2a8c5e: cannot identify image file <_io.BytesIO object at 0x64fb6d300>
+2026-03-13 15:37:15,734 [WARNING] agents.source_retrieval: Failed to download image 9a882159-f178-4f03-8182-95c492b7d5c5: cannot identify image file <_io.BytesIO object at 0x63dbac810>
+2026-03-13 15:37:15,734 [INFO] agents.source_retrieval: Randomly sampled 2 image sources
+2026-03-13 15:37:15,734 [INFO] agents.interaction_pipeline:   Retrieving for Claude S. Fischer...
+2026-03-13 15:37:15,749 [INFO] agents.source_retrieval: Randomly sampled 3 text sources
+2026-03-13 15:37:16,404 [WARNING] agents.source_retrieval: Failed to download image 11cdefcd-b9ab-4b25-92cc-72f1bd9de869: cannot identify image file <_io.BytesIO object at 0x64fb6d6c0>
+2026-03-13 15:37:17,036 [WARNING] agents.source_retrieval: Failed to download image ca9b1297-8b4d-49cb-bfd3-bc5baf50f809: cannot identify image file <_io.BytesIO object at 0x64fb6d490>
+2026-03-13 15:37:17,036 [INFO] agents.source_retrieval: Randomly sampled 2 image sources
+2026-03-13 15:37:17,037 [INFO] agents.interaction_pipeline: Generating individual hypotheses...
+2026-03-13 15:37:17,037 [INFO] agents.interaction_pipeline:   Generating hypothesis from John Marincola...
+2026-03-13 15:37:17,329 [INFO] agents.agent_llm: Initialized OpenAI client with model gpt-4o
+2026-03-13 15:37:21,532 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:37:21,547 [INFO] agents.agent_llm: Generated individual hypothesis (attempt 1)
+2026-03-13 15:37:21,547 [INFO] agents.interaction_pipeline:   Generating hypothesis from David F. Noble...
+2026-03-13 15:37:27,218 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:37:27,222 [INFO] agents.agent_llm: Generated individual hypothesis (attempt 1)
+2026-03-13 15:37:27,222 [INFO] agents.interaction_pipeline:   Generating hypothesis from Claude S. Fischer...
+2026-03-13 15:37:31,934 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:37:31,940 [INFO] agents.agent_llm: Generated individual hypothesis (attempt 1)
+2026-03-13 15:37:31,940 [INFO] agents.interaction_pipeline: Generated 3 individual hypotheses
+2026-03-13 15:37:31,940 [INFO] agents.interaction_pipeline: Generating synthesis...
+2026-03-13 15:37:36,875 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:37:36,880 [INFO] agents.agent_llm: Generated synthesis (attempt 1)
+2026-03-13 15:37:36,880 [INFO] agents.interaction_pipeline: Synthesis generated
+2026-03-13 15:37:36,880 [INFO] agents.interaction_pipeline: OK Triad 1 completed successfully
+2026-03-13 15:37:36,905 [INFO] agents.storage: Exported 1 rows to data/factorial_experiment_10/triads.csv
+2026-03-13 15:37:36,907 [INFO] agents.storage: Exported 3 rows to data/factorial_experiment_10/proposals.csv
+2026-03-13 15:37:36,908 [INFO] agents.storage: Exported 1 rows to data/factorial_experiment_10/synthesis.csv
+2026-03-13 15:37:36,909 [INFO] agents.storage: Exported 0 rows to data/factorial_experiment_10/convergence_results.csv
+2026-03-13 15:37:36,911 [INFO] agents.storage: Exported 4 rows to data/factorial_experiment_10/llm_interactions.csv
+2026-03-13 15:37:36,912 [INFO] agents.storage: Exported 0 rows to data/factorial_experiment_10/source_geometry.csv
+2026-03-13 15:37:37,917 [INFO] __main__: 
+--- Triad 2/10 ---
+2026-03-13 15:37:37,917 [INFO] agents.interaction_pipeline: Starting triad 2: John Marincola, Nancy C. M. Hartsock, David F. Noble
+2026-03-13 15:37:37,917 [INFO] agents.interaction_pipeline: Retrieving sources for historians...
+2026-03-13 15:37:37,917 [INFO] agents.interaction_pipeline:   Retrieving for John Marincola...
+2026-03-13 15:37:37,927 [INFO] agents.source_retrieval: Randomly sampled 3 text sources
+2026-03-13 15:37:38,373 [WARNING] agents.source_retrieval: Failed to download image 69b4fab1-0e1c-455f-96c9-899855d08ff3: cannot identify image file <_io.BytesIO object at 0x668867470>
+2026-03-13 15:37:39,133 [WARNING] agents.source_retrieval: Failed to download image 0a55a513-5e08-45d4-8825-92754c1c4294: cannot identify image file <_io.BytesIO object at 0x668867470>
+2026-03-13 15:37:39,133 [INFO] agents.source_retrieval: Randomly sampled 2 image sources
+2026-03-13 15:37:39,133 [INFO] agents.interaction_pipeline:   Retrieving for Nancy C. M. Hartsock...
+2026-03-13 15:37:39,150 [INFO] agents.source_retrieval: Randomly sampled 3 text sources
+2026-03-13 15:37:40,008 [WARNING] agents.source_retrieval: Failed to download image 649c6529-d9ff-4a1c-a60f-453764331032: cannot identify image file <_io.BytesIO object at 0x668867790>
+2026-03-13 15:37:41,110 [WARNING] agents.source_retrieval: Failed to download image ee1988ca-a4ef-48b1-8325-3774b33ce00d: cannot identify image file <_io.BytesIO object at 0x6688675b0>
+2026-03-13 15:37:41,112 [INFO] agents.source_retrieval: Randomly sampled 2 image sources
+2026-03-13 15:37:41,112 [INFO] agents.interaction_pipeline:   Retrieving for David F. Noble...
+2026-03-13 15:37:41,127 [INFO] agents.source_retrieval: Randomly sampled 3 text sources
+2026-03-13 15:37:42,151 [WARNING] agents.source_retrieval: Failed to download image d8ecd69c-efc8-4b0c-825d-f3332ff0f5d8: cannot identify image file <_io.BytesIO object at 0x668867380>
+2026-03-13 15:37:42,676 [WARNING] agents.source_retrieval: Failed to download image 1dc66c60-44ef-4b51-8019-282e91e9f1c8: cannot identify image file <_io.BytesIO object at 0x6688673d0>
+2026-03-13 15:37:42,676 [INFO] agents.source_retrieval: Randomly sampled 2 image sources
+2026-03-13 15:37:42,676 [INFO] agents.interaction_pipeline: Generating individual hypotheses...
+2026-03-13 15:37:42,676 [INFO] agents.interaction_pipeline:   Generating hypothesis from John Marincola...
+2026-03-13 15:37:46,858 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:37:46,881 [INFO] agents.agent_llm: Generated individual hypothesis (attempt 1)
+2026-03-13 15:37:46,885 [INFO] agents.interaction_pipeline:   Generating hypothesis from Nancy C. M. Hartsock...
+2026-03-13 15:37:50,425 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:37:50,430 [INFO] agents.agent_llm: Generated individual hypothesis (attempt 1)
+2026-03-13 15:37:50,430 [INFO] agents.interaction_pipeline:   Generating hypothesis from David F. Noble...
+2026-03-13 15:37:53,924 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:37:53,931 [INFO] agents.agent_llm: Generated individual hypothesis (attempt 1)
+2026-03-13 15:37:53,931 [INFO] agents.interaction_pipeline: Generated 3 individual hypotheses
+2026-03-13 15:37:53,931 [INFO] agents.interaction_pipeline: Generating synthesis...
+2026-03-13 15:37:57,461 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:37:57,467 [INFO] agents.agent_llm: Generated synthesis (attempt 1)
+2026-03-13 15:37:57,468 [INFO] agents.interaction_pipeline: Synthesis generated
+2026-03-13 15:37:57,468 [INFO] agents.interaction_pipeline: OK Triad 2 completed successfully
+2026-03-13 15:37:57,519 [INFO] agents.storage: Exported 2 rows to data/factorial_experiment_10/triads.csv
+2026-03-13 15:37:57,525 [INFO] agents.storage: Exported 6 rows to data/factorial_experiment_10/proposals.csv
+2026-03-13 15:37:57,528 [INFO] agents.storage: Exported 2 rows to data/factorial_experiment_10/synthesis.csv
+2026-03-13 15:37:57,533 [INFO] agents.storage: Exported 0 rows to data/factorial_experiment_10/convergence_results.csv
+2026-03-13 15:37:57,537 [INFO] agents.storage: Exported 8 rows to data/factorial_experiment_10/llm_interactions.csv
+2026-03-13 15:37:57,539 [INFO] agents.storage: Exported 0 rows to data/factorial_experiment_10/source_geometry.csv
+2026-03-13 15:37:58,545 [INFO] __main__: 
+--- Triad 3/10 ---
+2026-03-13 15:37:58,545 [INFO] agents.interaction_pipeline: Starting triad 3: David F. Noble, Gyan Prakash, Claude S. Fischer
+2026-03-13 15:37:58,545 [INFO] agents.interaction_pipeline: Retrieving sources for historians...
+2026-03-13 15:37:58,545 [INFO] agents.interaction_pipeline:   Retrieving for David F. Noble...
+2026-03-13 15:37:58,571 [INFO] agents.source_retrieval: Randomly sampled 3 text sources
+2026-03-13 15:37:58,933 [WARNING] agents.source_retrieval: Failed to download image d8ecd69c-efc8-4b0c-825d-f3332ff0f5d8: cannot identify image file <_io.BytesIO object at 0x668867ce0>
+2026-03-13 15:38:00,751 [WARNING] agents.source_retrieval: Failed to download image 149defdd-951f-4911-aba9-52e51d6ff405: cannot identify image file <_io.BytesIO object at 0x668866980>
+2026-03-13 15:38:00,753 [INFO] agents.source_retrieval: Randomly sampled 2 image sources
+2026-03-13 15:38:00,753 [INFO] agents.interaction_pipeline:   Retrieving for Gyan Prakash...
+2026-03-13 15:38:00,765 [INFO] agents.source_retrieval: Randomly sampled 3 text sources
+2026-03-13 15:38:01,787 [WARNING] agents.source_retrieval: Failed to download image 83611a63-14d9-436e-8304-64018db8b7f7: cannot identify image file <_io.BytesIO object at 0x668867470>
+2026-03-13 15:38:03,080 [WARNING] agents.source_retrieval: Failed to download image ad92b5fa-cd0a-4eca-9101-f844f92bd264: cannot identify image file <_io.BytesIO object at 0x668867c40>
+2026-03-13 15:38:03,081 [INFO] agents.source_retrieval: Randomly sampled 2 image sources
+2026-03-13 15:38:03,081 [INFO] agents.interaction_pipeline:   Retrieving for Claude S. Fischer...
+2026-03-13 15:38:03,105 [INFO] agents.source_retrieval: Randomly sampled 3 text sources
+2026-03-13 15:38:03,601 [WARNING] agents.source_retrieval: Failed to download image 35fd8329-2a1b-4842-b1d0-07aa00edc40d: cannot identify image file <_io.BytesIO object at 0x668867830>
+2026-03-13 15:38:04,597 [WARNING] agents.source_retrieval: Failed to download image 5ffb37a9-148f-4580-8e58-4e3103d512f7: cannot identify image file <_io.BytesIO object at 0x668867650>
+2026-03-13 15:38:04,597 [INFO] agents.source_retrieval: Randomly sampled 2 image sources
+2026-03-13 15:38:04,597 [INFO] agents.interaction_pipeline: Generating individual hypotheses...
+2026-03-13 15:38:04,597 [INFO] agents.interaction_pipeline:   Generating hypothesis from David F. Noble...
+2026-03-13 15:38:08,517 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:38:08,521 [INFO] agents.agent_llm: Generated individual hypothesis (attempt 1)
+2026-03-13 15:38:08,522 [INFO] agents.interaction_pipeline:   Generating hypothesis from Gyan Prakash...
+2026-03-13 15:38:12,493 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:38:12,495 [INFO] agents.agent_llm: Generated individual hypothesis (attempt 1)
+2026-03-13 15:38:12,496 [INFO] agents.interaction_pipeline:   Generating hypothesis from Claude S. Fischer...
+2026-03-13 15:38:19,472 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:38:19,476 [INFO] agents.agent_llm: Generated individual hypothesis (attempt 1)
+2026-03-13 15:38:19,476 [INFO] agents.interaction_pipeline: Generated 3 individual hypotheses
+2026-03-13 15:38:19,476 [INFO] agents.interaction_pipeline: Generating synthesis...
+2026-03-13 15:38:22,750 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:38:22,753 [INFO] agents.agent_llm: Generated synthesis (attempt 1)
+2026-03-13 15:38:22,754 [INFO] agents.interaction_pipeline: Synthesis generated
+2026-03-13 15:38:22,754 [INFO] agents.interaction_pipeline: OK Triad 3 completed successfully
+2026-03-13 15:38:22,772 [INFO] agents.storage: Exported 3 rows to data/factorial_experiment_10/triads.csv
+2026-03-13 15:38:22,773 [INFO] agents.storage: Exported 9 rows to data/factorial_experiment_10/proposals.csv
+2026-03-13 15:38:22,774 [INFO] agents.storage: Exported 3 rows to data/factorial_experiment_10/synthesis.csv
+2026-03-13 15:38:22,775 [INFO] agents.storage: Exported 0 rows to data/factorial_experiment_10/convergence_results.csv
+2026-03-13 15:38:22,777 [INFO] agents.storage: Exported 12 rows to data/factorial_experiment_10/llm_interactions.csv
+2026-03-13 15:38:22,778 [INFO] agents.storage: Exported 0 rows to data/factorial_experiment_10/source_geometry.csv
+2026-03-13 15:38:23,783 [INFO] __main__: 
+--- Triad 4/10 ---
+2026-03-13 15:38:23,783 [INFO] agents.interaction_pipeline: Starting triad 4: David F. Noble, Gabrielle M. Spiegel, Claude S. Fischer
+2026-03-13 15:38:23,783 [INFO] agents.interaction_pipeline: Retrieving sources for historians...
+2026-03-13 15:38:23,784 [INFO] agents.interaction_pipeline:   Retrieving for David F. Noble...
+2026-03-13 15:38:23,805 [INFO] agents.source_retrieval: Randomly sampled 3 text sources
+2026-03-13 15:38:24,949 [WARNING] agents.source_retrieval: Failed to download image 34d9f91d-b44c-4441-af76-24eb652bbb5b: cannot identify image file <_io.BytesIO object at 0x66888c680>
+2026-03-13 15:38:25,418 [WARNING] agents.source_retrieval: Failed to download image 88e43611-38e3-4c47-bd69-9edbf88a0fc1: cannot identify image file <_io.BytesIO object at 0x66888cc70>
+2026-03-13 15:38:25,419 [INFO] agents.source_retrieval: Randomly sampled 2 image sources
+2026-03-13 15:38:25,419 [INFO] agents.interaction_pipeline:   Retrieving for Gabrielle M. Spiegel...
+2026-03-13 15:38:25,435 [INFO] agents.source_retrieval: Randomly sampled 3 text sources
+2026-03-13 15:38:26,204 [WARNING] agents.source_retrieval: Failed to download image 1a9dd8e4-dded-4898-8bdc-875b306cbf00: cannot identify image file <_io.BytesIO object at 0x66888c130>
+2026-03-13 15:38:26,943 [WARNING] agents.source_retrieval: Failed to download image af1b1364-88e4-495a-986f-de728d3f5d71: cannot identify image file <_io.BytesIO object at 0x66888cf40>
+2026-03-13 15:38:26,943 [INFO] agents.source_retrieval: Randomly sampled 2 image sources
+2026-03-13 15:38:26,943 [INFO] agents.interaction_pipeline:   Retrieving for Claude S. Fischer...
+2026-03-13 15:38:26,958 [INFO] agents.source_retrieval: Randomly sampled 3 text sources
+2026-03-13 15:38:27,783 [WARNING] agents.source_retrieval: Failed to download image f6d6de91-605f-4fe9-8760-7b6a22b11bfc: cannot identify image file <_io.BytesIO object at 0x66888ce00>
+2026-03-13 15:38:28,760 [WARNING] agents.source_retrieval: Failed to download image 8834595f-15b7-4f81-a6ab-fb46cf3af4c8: cannot identify image file <_io.BytesIO object at 0x66888cfe0>
+2026-03-13 15:38:28,760 [INFO] agents.source_retrieval: Randomly sampled 2 image sources
+2026-03-13 15:38:28,761 [INFO] agents.interaction_pipeline: Generating individual hypotheses...
+2026-03-13 15:38:28,761 [INFO] agents.interaction_pipeline:   Generating hypothesis from David F. Noble...
+2026-03-13 15:38:32,618 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:38:32,630 [INFO] agents.agent_llm: Generated individual hypothesis (attempt 1)
+2026-03-13 15:38:32,630 [INFO] agents.interaction_pipeline:   Generating hypothesis from Gabrielle M. Spiegel...
+2026-03-13 15:38:37,700 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:38:37,704 [INFO] agents.agent_llm: Generated individual hypothesis (attempt 1)
+2026-03-13 15:38:37,704 [INFO] agents.interaction_pipeline:   Generating hypothesis from Claude S. Fischer...
+2026-03-13 15:38:41,007 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:38:41,011 [INFO] agents.agent_llm: Generated individual hypothesis (attempt 1)
+2026-03-13 15:38:41,011 [INFO] agents.interaction_pipeline: Generated 3 individual hypotheses
+2026-03-13 15:38:41,011 [INFO] agents.interaction_pipeline: Generating synthesis...
+2026-03-13 15:38:44,772 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:38:44,782 [INFO] agents.agent_llm: Generated synthesis (attempt 1)
+2026-03-13 15:38:44,782 [INFO] agents.interaction_pipeline: Synthesis generated
+2026-03-13 15:38:44,782 [INFO] agents.interaction_pipeline: OK Triad 4 completed successfully
+2026-03-13 15:38:44,797 [INFO] agents.storage: Exported 4 rows to data/factorial_experiment_10/triads.csv
+2026-03-13 15:38:44,799 [INFO] agents.storage: Exported 12 rows to data/factorial_experiment_10/proposals.csv
+2026-03-13 15:38:44,800 [INFO] agents.storage: Exported 4 rows to data/factorial_experiment_10/synthesis.csv
+2026-03-13 15:38:44,801 [INFO] agents.storage: Exported 0 rows to data/factorial_experiment_10/convergence_results.csv
+2026-03-13 15:38:44,804 [INFO] agents.storage: Exported 16 rows to data/factorial_experiment_10/llm_interactions.csv
+2026-03-13 15:38:44,805 [INFO] agents.storage: Exported 0 rows to data/factorial_experiment_10/source_geometry.csv
+2026-03-13 15:38:45,810 [INFO] __main__: 
+--- Triad 5/10 ---
+2026-03-13 15:38:45,810 [INFO] agents.interaction_pipeline: Starting triad 5: E.F.K. Koerner, David F. Noble, Arjun Appadurai
+2026-03-13 15:38:45,810 [INFO] agents.interaction_pipeline: Retrieving sources for historians...
+2026-03-13 15:38:45,810 [INFO] agents.interaction_pipeline:   Retrieving for E.F.K. Koerner...
+2026-03-13 15:38:45,827 [INFO] agents.source_retrieval: Randomly sampled 3 text sources
+2026-03-13 15:38:46,292 [WARNING] agents.source_retrieval: Failed to download image 03eee316-9f6a-4f3d-b605-2f0d247e4fe6: cannot identify image file <_io.BytesIO object at 0x668866980>
+2026-03-13 15:38:46,724 [WARNING] agents.source_retrieval: Failed to download image d3587914-e5ac-4219-b968-f1df91239f01: cannot identify image file <_io.BytesIO object at 0x668867d80>
+2026-03-13 15:38:46,724 [INFO] agents.source_retrieval: Randomly sampled 2 image sources
+2026-03-13 15:38:46,724 [INFO] agents.interaction_pipeline:   Retrieving for David F. Noble...
+2026-03-13 15:38:46,740 [INFO] agents.source_retrieval: Randomly sampled 3 text sources
+2026-03-13 15:38:47,194 [WARNING] agents.source_retrieval: Failed to download image 04d450d5-5156-4d38-bae2-87d74b99e81f: cannot identify image file <_io.BytesIO object at 0x668833c90>
+2026-03-13 15:38:48,235 [WARNING] agents.source_retrieval: Failed to download image 8834595f-15b7-4f81-a6ab-fb46cf3af4c8: cannot identify image file <_io.BytesIO object at 0x6688328e0>
+2026-03-13 15:38:48,236 [INFO] agents.source_retrieval: Randomly sampled 2 image sources
+2026-03-13 15:38:48,236 [INFO] agents.interaction_pipeline:   Retrieving for Arjun Appadurai...
+2026-03-13 15:38:48,250 [INFO] agents.source_retrieval: Randomly sampled 3 text sources
+2026-03-13 15:38:49,077 [WARNING] agents.source_retrieval: Failed to download image ea9d7245-e053-4fa8-83c6-664214729c83: cannot identify image file <_io.BytesIO object at 0x668833a60>
+2026-03-13 15:38:49,994 [WARNING] agents.source_retrieval: Failed to download image 992f0755-7f69-4d3d-8959-b88b9a4a6032: cannot identify image file <_io.BytesIO object at 0x668832390>
+2026-03-13 15:38:49,994 [INFO] agents.source_retrieval: Randomly sampled 2 image sources
+2026-03-13 15:38:49,995 [INFO] agents.interaction_pipeline: Generating individual hypotheses...
+2026-03-13 15:38:49,995 [INFO] agents.interaction_pipeline:   Generating hypothesis from E.F.K. Koerner...
+2026-03-13 15:38:54,700 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:38:54,704 [INFO] agents.agent_llm: Generated individual hypothesis (attempt 1)
+2026-03-13 15:38:54,704 [INFO] agents.interaction_pipeline:   Generating hypothesis from David F. Noble...
+2026-03-13 15:38:59,205 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:38:59,208 [INFO] agents.agent_llm: Generated individual hypothesis (attempt 1)
+2026-03-13 15:38:59,209 [INFO] agents.interaction_pipeline:   Generating hypothesis from Arjun Appadurai...
+2026-03-13 15:39:03,915 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:39:03,918 [INFO] agents.agent_llm: Generated individual hypothesis (attempt 1)
+2026-03-13 15:39:03,919 [INFO] agents.interaction_pipeline: Generated 3 individual hypotheses
+2026-03-13 15:39:03,919 [INFO] agents.interaction_pipeline: Generating synthesis...
+2026-03-13 15:39:14,785 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:39:14,813 [INFO] agents.agent_llm: Generated synthesis (attempt 1)
+2026-03-13 15:39:14,813 [INFO] agents.interaction_pipeline: Synthesis generated
+2026-03-13 15:39:14,813 [INFO] agents.interaction_pipeline: OK Triad 5 completed successfully
+2026-03-13 15:39:14,829 [INFO] agents.storage: Exported 5 rows to data/factorial_experiment_10/triads.csv
+2026-03-13 15:39:14,831 [INFO] agents.storage: Exported 15 rows to data/factorial_experiment_10/proposals.csv
+2026-03-13 15:39:14,831 [INFO] agents.storage: Exported 5 rows to data/factorial_experiment_10/synthesis.csv
+2026-03-13 15:39:14,833 [INFO] agents.storage: Exported 0 rows to data/factorial_experiment_10/convergence_results.csv
+2026-03-13 15:39:14,835 [INFO] agents.storage: Exported 20 rows to data/factorial_experiment_10/llm_interactions.csv
+2026-03-13 15:39:14,836 [INFO] agents.storage: Exported 0 rows to data/factorial_experiment_10/source_geometry.csv
+2026-03-13 15:39:15,841 [INFO] __main__: 
+--- Triad 6/10 ---
+2026-03-13 15:39:15,841 [INFO] agents.interaction_pipeline: Starting triad 6: Nancy C. M. Hartsock, E.F.K. Koerner, David F. Noble
+2026-03-13 15:39:15,842 [INFO] agents.interaction_pipeline: Retrieving sources for historians...
+2026-03-13 15:39:15,842 [INFO] agents.interaction_pipeline:   Retrieving for Nancy C. M. Hartsock...
+2026-03-13 15:39:15,853 [INFO] agents.source_retrieval: Randomly sampled 3 text sources
+2026-03-13 15:39:16,293 [WARNING] agents.source_retrieval: Failed to download image 69b4fab1-0e1c-455f-96c9-899855d08ff3: cannot identify image file <_io.BytesIO object at 0x66888cd60>
+2026-03-13 15:39:16,668 [WARNING] agents.source_retrieval: Failed to download image d9d15208-bdef-48f2-b7f1-1b58f027482f: cannot identify image file <_io.BytesIO object at 0x66888d080>
+2026-03-13 15:39:16,668 [INFO] agents.source_retrieval: Randomly sampled 2 image sources
+2026-03-13 15:39:16,668 [INFO] agents.interaction_pipeline:   Retrieving for E.F.K. Koerner...
+2026-03-13 15:39:16,684 [INFO] agents.source_retrieval: Randomly sampled 3 text sources
+2026-03-13 15:39:17,131 [WARNING] agents.source_retrieval: Failed to download image d3587914-e5ac-4219-b968-f1df91239f01: cannot identify image file <_io.BytesIO object at 0x66888da80>
+2026-03-13 15:39:18,647 [WARNING] agents.source_retrieval: Failed to download image 7b9ca80a-396c-4fc1-820d-2a586deb5e8f: cannot identify image file <_io.BytesIO object at 0x66888db20>
+2026-03-13 15:39:18,648 [INFO] agents.source_retrieval: Randomly sampled 2 image sources
+2026-03-13 15:39:18,648 [INFO] agents.interaction_pipeline:   Retrieving for David F. Noble...
+2026-03-13 15:39:18,661 [INFO] agents.source_retrieval: Randomly sampled 3 text sources
+2026-03-13 15:39:18,987 [WARNING] agents.source_retrieval: Failed to download image a64a1e27-5031-40c1-a085-9f94d0a938ed: cannot identify image file <_io.BytesIO object at 0x66888d760>
+2026-03-13 15:39:19,422 [WARNING] agents.source_retrieval: Failed to download image 04d450d5-5156-4d38-bae2-87d74b99e81f: cannot identify image file <_io.BytesIO object at 0x66888c680>
+2026-03-13 15:39:19,423 [INFO] agents.source_retrieval: Randomly sampled 2 image sources
+2026-03-13 15:39:19,423 [INFO] agents.interaction_pipeline: Generating individual hypotheses...
+2026-03-13 15:39:19,423 [INFO] agents.interaction_pipeline:   Generating hypothesis from Nancy C. M. Hartsock...
+2026-03-13 15:39:25,217 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:39:25,221 [INFO] agents.agent_llm: Generated individual hypothesis (attempt 1)
+2026-03-13 15:39:25,221 [INFO] agents.interaction_pipeline:   Generating hypothesis from E.F.K. Koerner...
+2026-03-13 15:39:29,514 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:39:29,518 [INFO] agents.agent_llm: Generated individual hypothesis (attempt 1)
+2026-03-13 15:39:29,518 [INFO] agents.interaction_pipeline:   Generating hypothesis from David F. Noble...
+2026-03-13 15:39:34,108 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:39:34,119 [INFO] agents.agent_llm: Generated individual hypothesis (attempt 1)
+2026-03-13 15:39:34,119 [INFO] agents.interaction_pipeline: Generated 3 individual hypotheses
+2026-03-13 15:39:34,119 [INFO] agents.interaction_pipeline: Generating synthesis...
+2026-03-13 15:39:38,321 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:39:38,325 [INFO] agents.agent_llm: Generated synthesis (attempt 1)
+2026-03-13 15:39:38,325 [INFO] agents.interaction_pipeline: Synthesis generated
+2026-03-13 15:39:38,325 [INFO] agents.interaction_pipeline: OK Triad 6 completed successfully
+2026-03-13 15:39:38,339 [INFO] agents.storage: Exported 6 rows to data/factorial_experiment_10/triads.csv
+2026-03-13 15:39:38,341 [INFO] agents.storage: Exported 18 rows to data/factorial_experiment_10/proposals.csv
+2026-03-13 15:39:38,342 [INFO] agents.storage: Exported 6 rows to data/factorial_experiment_10/synthesis.csv
+2026-03-13 15:39:38,343 [INFO] agents.storage: Exported 0 rows to data/factorial_experiment_10/convergence_results.csv
+2026-03-13 15:39:38,346 [INFO] agents.storage: Exported 24 rows to data/factorial_experiment_10/llm_interactions.csv
+2026-03-13 15:39:38,347 [INFO] agents.storage: Exported 0 rows to data/factorial_experiment_10/source_geometry.csv
+2026-03-13 15:39:39,352 [INFO] __main__: 
+--- Triad 7/10 ---
+2026-03-13 15:39:39,352 [INFO] agents.interaction_pipeline: Starting triad 7: Arnaldo Momigliano, David F. Noble, Claude S. Fischer
+2026-03-13 15:39:39,352 [INFO] agents.interaction_pipeline: Retrieving sources for historians...
+2026-03-13 15:39:39,352 [INFO] agents.interaction_pipeline:   Retrieving for Arnaldo Momigliano...
+2026-03-13 15:39:39,367 [INFO] agents.source_retrieval: Randomly sampled 3 text sources
+2026-03-13 15:39:39,970 [WARNING] agents.source_retrieval: Failed to download image 04d450d5-5156-4d38-bae2-87d74b99e81f: cannot identify image file <_io.BytesIO object at 0x66888e200>
+2026-03-13 15:39:40,333 [WARNING] agents.source_retrieval: Failed to download image 598fd2e2-1f38-4a74-9a19-b92f587a7c7a: cannot identify image file <_io.BytesIO object at 0x66888cb30>
+2026-03-13 15:39:40,334 [INFO] agents.source_retrieval: Randomly sampled 2 image sources
+2026-03-13 15:39:40,334 [INFO] agents.interaction_pipeline:   Retrieving for David F. Noble...
+2026-03-13 15:39:40,351 [INFO] agents.source_retrieval: Randomly sampled 3 text sources
+2026-03-13 15:39:40,724 [WARNING] agents.source_retrieval: Failed to download image fbc54c2b-ab2f-4d26-895b-b6ad8a982968: cannot identify image file <_io.BytesIO object at 0x66888ccc0>
+2026-03-13 15:39:41,156 [WARNING] agents.source_retrieval: Failed to download image 129dd865-ed24-468b-a764-9477fa2a8c5e: cannot identify image file <_io.BytesIO object at 0x66888e110>
+2026-03-13 15:39:41,156 [INFO] agents.source_retrieval: Randomly sampled 2 image sources
+2026-03-13 15:39:41,156 [INFO] agents.interaction_pipeline:   Retrieving for Claude S. Fischer...
+2026-03-13 15:39:41,171 [INFO] agents.source_retrieval: Randomly sampled 3 text sources
+2026-03-13 15:39:41,987 [WARNING] agents.source_retrieval: Failed to download image f6d6de91-605f-4fe9-8760-7b6a22b11bfc: cannot identify image file <_io.BytesIO object at 0x66888de90>
+2026-03-13 15:39:42,352 [WARNING] agents.source_retrieval: Failed to download image 88e43611-38e3-4c47-bd69-9edbf88a0fc1: cannot identify image file <_io.BytesIO object at 0x66888e250>
+2026-03-13 15:39:42,353 [INFO] agents.source_retrieval: Randomly sampled 2 image sources
+2026-03-13 15:39:42,353 [INFO] agents.interaction_pipeline: Generating individual hypotheses...
+2026-03-13 15:39:42,353 [INFO] agents.interaction_pipeline:   Generating hypothesis from Arnaldo Momigliano...
+2026-03-13 15:39:49,678 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:39:49,687 [INFO] agents.agent_llm: Generated individual hypothesis (attempt 1)
+2026-03-13 15:39:49,687 [INFO] agents.interaction_pipeline:   Generating hypothesis from David F. Noble...
+2026-03-13 15:39:52,862 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:39:52,866 [INFO] agents.agent_llm: Generated individual hypothesis (attempt 1)
+2026-03-13 15:39:52,866 [INFO] agents.interaction_pipeline:   Generating hypothesis from Claude S. Fischer...
+2026-03-13 15:39:55,527 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:39:55,530 [INFO] agents.agent_llm: Generated individual hypothesis (attempt 1)
+2026-03-13 15:39:55,530 [INFO] agents.interaction_pipeline: Generated 3 individual hypotheses
+2026-03-13 15:39:55,530 [INFO] agents.interaction_pipeline: Generating synthesis...
+2026-03-13 15:39:59,415 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:39:59,420 [INFO] agents.agent_llm: Generated synthesis (attempt 1)
+2026-03-13 15:39:59,420 [INFO] agents.interaction_pipeline: Synthesis generated
+2026-03-13 15:39:59,420 [INFO] agents.interaction_pipeline: OK Triad 7 completed successfully
+2026-03-13 15:39:59,431 [INFO] agents.storage: Exported 7 rows to data/factorial_experiment_10/triads.csv
+2026-03-13 15:39:59,433 [INFO] agents.storage: Exported 21 rows to data/factorial_experiment_10/proposals.csv
+2026-03-13 15:39:59,434 [INFO] agents.storage: Exported 7 rows to data/factorial_experiment_10/synthesis.csv
+2026-03-13 15:39:59,435 [INFO] agents.storage: Exported 0 rows to data/factorial_experiment_10/convergence_results.csv
+2026-03-13 15:39:59,437 [INFO] agents.storage: Exported 28 rows to data/factorial_experiment_10/llm_interactions.csv
+2026-03-13 15:39:59,438 [INFO] agents.storage: Exported 0 rows to data/factorial_experiment_10/source_geometry.csv
+2026-03-13 15:40:00,443 [INFO] __main__: 
+--- Triad 8/10 ---
+2026-03-13 15:40:00,444 [INFO] agents.interaction_pipeline: Starting triad 8: E.F.K. Koerner, David F. Noble, Claude S. Fischer
+2026-03-13 15:40:00,444 [INFO] agents.interaction_pipeline: Retrieving sources for historians...
+2026-03-13 15:40:00,444 [INFO] agents.interaction_pipeline:   Retrieving for E.F.K. Koerner...
+2026-03-13 15:40:00,460 [INFO] agents.source_retrieval: Randomly sampled 3 text sources
+2026-03-13 15:40:00,862 [WARNING] agents.source_retrieval: Failed to download image fbdf1570-1962-4a7f-bae4-d18d4062429d: cannot identify image file <_io.BytesIO object at 0x668867b00>
+2026-03-13 15:40:01,519 [WARNING] agents.source_retrieval: Failed to download image 924e2177-458b-4753-b5ea-318e1fcf9e44: cannot identify image file <_io.BytesIO object at 0x6688672e0>
+2026-03-13 15:40:01,519 [INFO] agents.source_retrieval: Randomly sampled 2 image sources
+2026-03-13 15:40:01,519 [INFO] agents.interaction_pipeline:   Retrieving for David F. Noble...
+2026-03-13 15:40:01,534 [INFO] agents.source_retrieval: Randomly sampled 3 text sources
+2026-03-13 15:40:02,220 [WARNING] agents.source_retrieval: Failed to download image e139d9ed-2c2f-4db4-a08a-9895c6a16247: cannot identify image file <_io.BytesIO object at 0x66888e480>
+2026-03-13 15:40:02,679 [WARNING] agents.source_retrieval: Failed to download image d7c97218-177a-4ec3-983c-083c5db8ba7b: cannot identify image file <_io.BytesIO object at 0x66888c900>
+2026-03-13 15:40:02,679 [INFO] agents.source_retrieval: Randomly sampled 2 image sources
+2026-03-13 15:40:02,679 [INFO] agents.interaction_pipeline:   Retrieving for Claude S. Fischer...
+2026-03-13 15:40:02,696 [INFO] agents.source_retrieval: Randomly sampled 3 text sources
+2026-03-13 15:40:03,108 [WARNING] agents.source_retrieval: Failed to download image d3587914-e5ac-4219-b968-f1df91239f01: cannot identify image file <_io.BytesIO object at 0x66888eb10>
+2026-03-13 15:40:03,755 [WARNING] agents.source_retrieval: Failed to download image 3b38e624-7b66-4d91-9626-68e32df14722: cannot identify image file <_io.BytesIO object at 0x66888c680>
+2026-03-13 15:40:03,755 [INFO] agents.source_retrieval: Randomly sampled 2 image sources
+2026-03-13 15:40:03,755 [INFO] agents.interaction_pipeline: Generating individual hypotheses...
+2026-03-13 15:40:03,755 [INFO] agents.interaction_pipeline:   Generating hypothesis from E.F.K. Koerner...
+2026-03-13 15:40:07,096 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:40:07,101 [INFO] agents.agent_llm: Generated individual hypothesis (attempt 1)
+2026-03-13 15:40:07,101 [INFO] agents.interaction_pipeline:   Generating hypothesis from David F. Noble...
+2026-03-13 15:40:10,573 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:40:10,578 [INFO] agents.agent_llm: Generated individual hypothesis (attempt 1)
+2026-03-13 15:40:10,578 [INFO] agents.interaction_pipeline:   Generating hypothesis from Claude S. Fischer...
+2026-03-13 15:40:14,604 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:40:14,614 [INFO] agents.agent_llm: Generated individual hypothesis (attempt 1)
+2026-03-13 15:40:14,614 [INFO] agents.interaction_pipeline: Generated 3 individual hypotheses
+2026-03-13 15:40:14,614 [INFO] agents.interaction_pipeline: Generating synthesis...
+2026-03-13 15:40:19,078 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:40:19,082 [INFO] agents.agent_llm: Generated synthesis (attempt 1)
+2026-03-13 15:40:19,082 [INFO] agents.interaction_pipeline: Synthesis generated
+2026-03-13 15:40:19,082 [INFO] agents.interaction_pipeline: OK Triad 8 completed successfully
+2026-03-13 15:40:19,094 [INFO] agents.storage: Exported 8 rows to data/factorial_experiment_10/triads.csv
+2026-03-13 15:40:19,096 [INFO] agents.storage: Exported 24 rows to data/factorial_experiment_10/proposals.csv
+2026-03-13 15:40:19,097 [INFO] agents.storage: Exported 8 rows to data/factorial_experiment_10/synthesis.csv
+2026-03-13 15:40:19,098 [INFO] agents.storage: Exported 0 rows to data/factorial_experiment_10/convergence_results.csv
+2026-03-13 15:40:19,101 [INFO] agents.storage: Exported 32 rows to data/factorial_experiment_10/llm_interactions.csv
+2026-03-13 15:40:19,102 [INFO] agents.storage: Exported 0 rows to data/factorial_experiment_10/source_geometry.csv
+2026-03-13 15:40:20,107 [INFO] __main__: 
+--- Triad 9/10 ---
+2026-03-13 15:40:20,107 [INFO] agents.interaction_pipeline: Starting triad 9: F. M. L. Thompson, E.F.K. Koerner, David F. Noble
+2026-03-13 15:40:20,107 [INFO] agents.interaction_pipeline: Retrieving sources for historians...
+2026-03-13 15:40:20,107 [INFO] agents.interaction_pipeline:   Retrieving for F. M. L. Thompson...
+2026-03-13 15:40:20,123 [INFO] agents.source_retrieval: Randomly sampled 3 text sources
+2026-03-13 15:40:20,474 [WARNING] agents.source_retrieval: Failed to download image f694ba38-b396-4ca9-b780-2548f16b8983: cannot identify image file <_io.BytesIO object at 0x66888de90>
+2026-03-13 15:40:20,832 [WARNING] agents.source_retrieval: Failed to download image 3b38e624-7b66-4d91-9626-68e32df14722: cannot identify image file <_io.BytesIO object at 0x66888c2c0>
+2026-03-13 15:40:20,833 [INFO] agents.source_retrieval: Randomly sampled 2 image sources
+2026-03-13 15:40:20,833 [INFO] agents.interaction_pipeline:   Retrieving for E.F.K. Koerner...
+2026-03-13 15:40:20,849 [INFO] agents.source_retrieval: Randomly sampled 3 text sources
+2026-03-13 15:40:21,196 [WARNING] agents.source_retrieval: Failed to download image d9d15208-bdef-48f2-b7f1-1b58f027482f: cannot identify image file <_io.BytesIO object at 0x66888d440>
+2026-03-13 15:40:21,925 [WARNING] agents.source_retrieval: Failed to download image ba611437-b8e1-4ce3-8244-e19c9ed4d872: cannot identify image file <_io.BytesIO object at 0x66888dfd0>
+2026-03-13 15:40:21,925 [INFO] agents.source_retrieval: Randomly sampled 2 image sources
+2026-03-13 15:40:21,926 [INFO] agents.interaction_pipeline:   Retrieving for David F. Noble...
+2026-03-13 15:40:21,941 [INFO] agents.source_retrieval: Randomly sampled 3 text sources
+2026-03-13 15:40:23,679 [WARNING] agents.source_retrieval: Failed to download image c79ef032-903d-4adf-b691-1e1f6bacab5a: cannot identify image file <_io.BytesIO object at 0x66888c590>
+2026-03-13 15:40:24,097 [WARNING] agents.source_retrieval: Failed to download image f7e4a1e2-eacb-41d0-beb8-5bcf4e7fa5d5: cannot identify image file <_io.BytesIO object at 0x66888e7f0>
+2026-03-13 15:40:24,098 [INFO] agents.source_retrieval: Randomly sampled 2 image sources
+2026-03-13 15:40:24,098 [INFO] agents.interaction_pipeline: Generating individual hypotheses...
+2026-03-13 15:40:24,098 [INFO] agents.interaction_pipeline:   Generating hypothesis from F. M. L. Thompson...
+2026-03-13 15:40:28,606 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:40:28,621 [INFO] agents.agent_llm: Generated individual hypothesis (attempt 1)
+2026-03-13 15:40:28,621 [INFO] agents.interaction_pipeline:   Generating hypothesis from E.F.K. Koerner...
+2026-03-13 15:40:31,571 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:40:31,575 [INFO] agents.agent_llm: Generated individual hypothesis (attempt 1)
+2026-03-13 15:40:31,575 [INFO] agents.interaction_pipeline:   Generating hypothesis from David F. Noble...
+2026-03-13 15:40:34,679 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:40:34,685 [INFO] agents.agent_llm: Generated individual hypothesis (attempt 1)
+2026-03-13 15:40:34,685 [INFO] agents.interaction_pipeline: Generated 3 individual hypotheses
+2026-03-13 15:40:34,685 [INFO] agents.interaction_pipeline: Generating synthesis...
+2026-03-13 15:40:39,574 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:40:39,583 [INFO] agents.agent_llm: Generated synthesis (attempt 1)
+2026-03-13 15:40:39,583 [INFO] agents.interaction_pipeline: Synthesis generated
+2026-03-13 15:40:39,584 [INFO] agents.interaction_pipeline: OK Triad 9 completed successfully
+2026-03-13 15:40:39,598 [INFO] agents.storage: Exported 9 rows to data/factorial_experiment_10/triads.csv
+2026-03-13 15:40:39,603 [INFO] agents.storage: Exported 27 rows to data/factorial_experiment_10/proposals.csv
+2026-03-13 15:40:39,606 [INFO] agents.storage: Exported 9 rows to data/factorial_experiment_10/synthesis.csv
+2026-03-13 15:40:39,609 [INFO] agents.storage: Exported 0 rows to data/factorial_experiment_10/convergence_results.csv
+2026-03-13 15:40:39,617 [INFO] agents.storage: Exported 36 rows to data/factorial_experiment_10/llm_interactions.csv
+2026-03-13 15:40:39,619 [INFO] agents.storage: Exported 0 rows to data/factorial_experiment_10/source_geometry.csv
+2026-03-13 15:40:40,624 [INFO] __main__: 
+--- Triad 10/10 ---
+2026-03-13 15:40:40,624 [INFO] agents.interaction_pipeline: Starting triad 10: John Marincola, F. M. L. Thompson, David F. Noble
+2026-03-13 15:40:40,624 [INFO] agents.interaction_pipeline: Retrieving sources for historians...
+2026-03-13 15:40:40,625 [INFO] agents.interaction_pipeline:   Retrieving for John Marincola...
+2026-03-13 15:40:40,641 [INFO] agents.source_retrieval: Randomly sampled 3 text sources
+2026-03-13 15:40:40,998 [WARNING] agents.source_retrieval: Failed to download image 2cfda3be-29fb-42b0-ae97-369a001b50de: cannot identify image file <_io.BytesIO object at 0x66888fc90>
+2026-03-13 15:40:41,347 [WARNING] agents.source_retrieval: Failed to download image fbdf1570-1962-4a7f-bae4-d18d4062429d: cannot identify image file <_io.BytesIO object at 0x66888f010>
+2026-03-13 15:40:41,347 [INFO] agents.source_retrieval: Randomly sampled 2 image sources
+2026-03-13 15:40:41,347 [INFO] agents.interaction_pipeline:   Retrieving for F. M. L. Thompson...
+2026-03-13 15:40:41,353 [INFO] agents.source_retrieval: Randomly sampled 3 text sources
+2026-03-13 15:40:41,783 [WARNING] agents.source_retrieval: Failed to download image fbc54c2b-ab2f-4d26-895b-b6ad8a982968: cannot identify image file <_io.BytesIO object at 0x66888de90>
+2026-03-13 15:40:42,143 [WARNING] agents.source_retrieval: Failed to download image f694ba38-b396-4ca9-b780-2548f16b8983: cannot identify image file <_io.BytesIO object at 0x66888f100>
+2026-03-13 15:40:42,143 [INFO] agents.source_retrieval: Randomly sampled 2 image sources
+2026-03-13 15:40:42,144 [INFO] agents.interaction_pipeline:   Retrieving for David F. Noble...
+2026-03-13 15:40:42,164 [INFO] agents.source_retrieval: Randomly sampled 3 text sources
+2026-03-13 15:40:42,743 [WARNING] agents.source_retrieval: Failed to download image 88b99851-32e2-48b8-8947-842848db3caf: cannot identify image file <_io.BytesIO object at 0x66888f1f0>
+2026-03-13 15:40:47,958 [WARNING] agents.source_retrieval: Failed to download image 9ccc300c-3f01-4a32-a29d-49c31fc67048: cannot identify image file <_io.BytesIO object at 0x66888f9c0>
+2026-03-13 15:40:47,959 [INFO] agents.source_retrieval: Randomly sampled 2 image sources
+2026-03-13 15:40:47,959 [INFO] agents.interaction_pipeline: Generating individual hypotheses...
+2026-03-13 15:40:47,959 [INFO] agents.interaction_pipeline:   Generating hypothesis from John Marincola...
+2026-03-13 15:40:51,538 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:40:51,544 [INFO] agents.agent_llm: Generated individual hypothesis (attempt 1)
+2026-03-13 15:40:51,544 [INFO] agents.interaction_pipeline:   Generating hypothesis from F. M. L. Thompson...
+2026-03-13 15:40:54,486 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:40:54,490 [INFO] agents.agent_llm: Generated individual hypothesis (attempt 1)
+2026-03-13 15:40:54,490 [INFO] agents.interaction_pipeline:   Generating hypothesis from David F. Noble...
+2026-03-13 15:40:57,315 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:40:57,321 [INFO] agents.agent_llm: Generated individual hypothesis (attempt 1)
+2026-03-13 15:40:57,321 [INFO] agents.interaction_pipeline: Generated 3 individual hypotheses
+2026-03-13 15:40:57,321 [INFO] agents.interaction_pipeline: Generating synthesis...
+2026-03-13 15:41:01,575 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-13 15:41:01,581 [INFO] agents.agent_llm: Generated synthesis (attempt 1)
+2026-03-13 15:41:01,581 [INFO] agents.interaction_pipeline: Synthesis generated
+2026-03-13 15:41:01,581 [INFO] agents.interaction_pipeline: OK Triad 10 completed successfully
+2026-03-13 15:41:01,597 [INFO] agents.storage: Exported 10 rows to data/factorial_experiment_10/triads.csv
+2026-03-13 15:41:01,598 [INFO] agents.storage: Exported 30 rows to data/factorial_experiment_10/proposals.csv
+2026-03-13 15:41:01,599 [INFO] agents.storage: Exported 10 rows to data/factorial_experiment_10/synthesis.csv
+2026-03-13 15:41:01,600 [INFO] agents.storage: Exported 0 rows to data/factorial_experiment_10/convergence_results.csv
+2026-03-13 15:41:01,604 [INFO] agents.storage: Exported 40 rows to data/factorial_experiment_10/llm_interactions.csv
+2026-03-13 15:41:01,605 [INFO] agents.storage: Exported 0 rows to data/factorial_experiment_10/source_geometry.csv
+2026-03-13 15:41:02,610 [INFO] __main__: Completed 10 experiments
+
+2026-03-13 15:41:02,610 [INFO] __main__: Step 2: Analyzing convergence...
+2026-03-13 15:41:02,611 [INFO] agents.visualization: Embedding individual abstracts...
+2026-03-13 15:41:02,617 [INFO] sentence_transformers.SentenceTransformer: Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2026-03-13 15:41:02,689 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-13 15:41:02,704 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/modules.json "HTTP/1.1 200 OK"
+2026-03-13 15:41:02,781 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-13 15:41:02,792 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-03-13 15:41:02,831 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-13 15:41:02,844 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-03-13 15:41:02,887 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-03-13 15:41:02,897 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/README.md "HTTP/1.1 200 OK"
+2026-03-13 15:41:02,937 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-13 15:41:02,948 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/modules.json "HTTP/1.1 200 OK"
+2026-03-13 15:41:02,992 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-13 15:41:03,003 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/sentence_bert_config.json "HTTP/1.1 200 OK"
+2026-03-13 15:41:03,053 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+2026-03-13 15:41:03,096 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-13 15:41:03,108 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/config.json "HTTP/1.1 200 OK"
+2026-03-13 15:41:03,231 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-13 15:41:03,240 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/config.json "HTTP/1.1 200 OK"
+2026-03-13 15:41:03,278 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-13 15:41:03,287 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-03-13 15:41:03,326 [INFO] httpx: HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-mpnet-base-v2/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-03-13 15:41:03,373 [INFO] httpx: HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-mpnet-base-v2/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-03-13 15:41:03,467 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-13 15:41:03,475 [INFO] httpx: HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+2026-03-13 15:41:03,517 [INFO] httpx: HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-mpnet-base-v2 "HTTP/1.1 200 OK"
+2026-03-13 15:41:03,520 [INFO] agents.visualization: Loaded text embedding model for synthesis analysis
+2026-03-13 15:41:03,729 [INFO] agents.visualization: Embedding final abstract...
+2026-03-13 15:41:03,829 [INFO] agents.visualization: Synthesis analysis: mean_abstract_dist=0.6506, final_dist=0.5731, bias=[0.41,0.37,0.22], dominant=historian_1, bias_score=0.081
+2026-03-13 15:41:03,841 [INFO] __main__:   Triad 1: delta=0.0775, bias_score=0.081, dominant=historian_1
+2026-03-13 15:41:03,841 [INFO] agents.visualization: Embedding individual abstracts...
+2026-03-13 15:41:04,032 [INFO] agents.visualization: Embedding final abstract...
+2026-03-13 15:41:04,129 [INFO] agents.visualization: Synthesis analysis: mean_abstract_dist=0.6137, final_dist=0.5331, bias=[0.34,0.32,0.34], dominant=historian_1, bias_score=0.011
+2026-03-13 15:41:04,138 [INFO] __main__:   Triad 2: delta=0.0806, bias_score=0.011, dominant=historian_1
+2026-03-13 15:41:04,138 [INFO] agents.visualization: Embedding individual abstracts...
+2026-03-13 15:41:04,349 [INFO] agents.visualization: Embedding final abstract...
+2026-03-13 15:41:04,452 [INFO] agents.visualization: Synthesis analysis: mean_abstract_dist=0.4465, final_dist=0.3777, bias=[0.38,0.30,0.32], dominant=historian_1, bias_score=0.043
+2026-03-13 15:41:04,462 [INFO] __main__:   Triad 3: delta=0.0688, bias_score=0.043, dominant=historian_1
+2026-03-13 15:41:04,462 [INFO] agents.visualization: Embedding individual abstracts...
+2026-03-13 15:41:04,666 [INFO] agents.visualization: Embedding final abstract...
+2026-03-13 15:41:04,767 [INFO] agents.visualization: Synthesis analysis: mean_abstract_dist=0.4915, final_dist=0.3729, bias=[0.31,0.33,0.36], dominant=historian_3, bias_score=0.026
+2026-03-13 15:41:04,777 [INFO] __main__:   Triad 4: delta=0.1186, bias_score=0.026, dominant=historian_3
+2026-03-13 15:41:04,777 [INFO] agents.visualization: Embedding individual abstracts...
+2026-03-13 15:41:05,212 [INFO] agents.visualization: Embedding final abstract...
+2026-03-13 15:41:05,331 [INFO] agents.visualization: Synthesis analysis: mean_abstract_dist=0.6381, final_dist=0.6708, bias=[0.36,0.31,0.33], dominant=historian_1, bias_score=0.024
+2026-03-13 15:41:05,342 [INFO] __main__:   Triad 5: delta=-0.0328, bias_score=0.024, dominant=historian_1
+2026-03-13 15:41:05,342 [INFO] agents.visualization: Embedding individual abstracts...
+2026-03-13 15:41:05,676 [INFO] agents.visualization: Embedding final abstract...
+2026-03-13 15:41:05,789 [INFO] agents.visualization: Synthesis analysis: mean_abstract_dist=0.6411, final_dist=0.5760, bias=[0.33,0.31,0.36], dominant=historian_3, bias_score=0.022
+2026-03-13 15:41:05,799 [INFO] __main__:   Triad 6: delta=0.0651, bias_score=0.022, dominant=historian_3
+2026-03-13 15:41:05,799 [INFO] agents.visualization: Embedding individual abstracts...
+2026-03-13 15:41:05,993 [INFO] agents.visualization: Embedding final abstract...
+2026-03-13 15:41:06,087 [INFO] agents.visualization: Synthesis analysis: mean_abstract_dist=0.6091, final_dist=0.5966, bias=[0.35,0.32,0.33], dominant=historian_1, bias_score=0.016
+2026-03-13 15:41:06,095 [INFO] __main__:   Triad 7: delta=0.0125, bias_score=0.016, dominant=historian_1
+2026-03-13 15:41:06,095 [INFO] agents.visualization: Embedding individual abstracts...
+2026-03-13 15:41:06,527 [INFO] agents.visualization: Embedding final abstract...
+2026-03-13 15:41:06,729 [INFO] agents.visualization: Synthesis analysis: mean_abstract_dist=0.5605, final_dist=0.4952, bias=[0.32,0.34,0.35], dominant=historian_3, bias_score=0.013
+2026-03-13 15:41:06,742 [INFO] __main__:   Triad 8: delta=0.0653, bias_score=0.013, dominant=historian_3
+2026-03-13 15:41:06,742 [INFO] agents.visualization: Embedding individual abstracts...
+2026-03-13 15:41:07,176 [INFO] agents.visualization: Embedding final abstract...
+2026-03-13 15:41:07,443 [INFO] agents.visualization: Synthesis analysis: mean_abstract_dist=0.5751, final_dist=0.5770, bias=[0.35,0.30,0.35], dominant=historian_1, bias_score=0.019
+2026-03-13 15:41:07,452 [INFO] __main__:   Triad 9: delta=-0.0019, bias_score=0.019, dominant=historian_1
+2026-03-13 15:41:07,453 [INFO] agents.visualization: Embedding individual abstracts...
+2026-03-13 15:41:08,036 [INFO] agents.visualization: Embedding final abstract...
+2026-03-13 15:41:08,290 [INFO] agents.visualization: Synthesis analysis: mean_abstract_dist=0.6209, final_dist=0.5597, bias=[0.36,0.33,0.31], dominant=historian_1, bias_score=0.029
+2026-03-13 15:41:08,309 [INFO] __main__:   Triad 10: delta=0.0611, bias_score=0.029, dominant=historian_1
+2026-03-13 15:41:08,310 [INFO] __main__: Convergence analysis complete
+
+2026-03-13 15:41:08,310 [INFO] __main__: Step 3: Exporting data...
+2026-03-13 15:41:08,319 [INFO] agents.storage: Exported 10 rows to data/factorial_experiment_10/triads.csv
+2026-03-13 15:41:08,324 [INFO] agents.storage: Exported 30 rows to data/factorial_experiment_10/proposals.csv
+2026-03-13 15:41:08,327 [INFO] agents.storage: Exported 10 rows to data/factorial_experiment_10/synthesis.csv
+2026-03-13 15:41:08,331 [INFO] agents.storage: Exported 10 rows to data/factorial_experiment_10/convergence_results.csv
+2026-03-13 15:41:08,343 [INFO] agents.storage: Exported 40 rows to data/factorial_experiment_10/llm_interactions.csv
+2026-03-13 15:41:08,350 [INFO] agents.storage: Exported 10 rows to data/factorial_experiment_10/source_geometry.csv
+2026-03-13 15:41:08,350 [INFO] __main__: Data exported to data/factorial_experiment_10
+
+2026-03-13 15:41:08,351 [INFO] __main__: Step 4: Training prediction model...
+2026-03-13 15:41:08,444 [INFO] agents.visualization: Regression fitted: R²=0.174, MAE=0.0323, alpha=100.0
+2026-03-13 15:41:08,447 [INFO] agents.visualization: Saved model to data/factorial_experiment_10/prediction_model.json
+2026-03-13 15:41:08,454 [INFO] __main__:   R²=0.174, MAE=0.0323, RMSE=0.0388
+2026-03-13 15:41:08,455 [INFO] __main__: Prediction model trained
+
+2026-03-13 15:41:08,455 [INFO] __main__: Step 5: Running inference analysis...
+2026-03-13 15:41:08,460 [INFO] agents.visualization: Inference: delta_mean=0.0515, best_predictor=angle_variance (r=-0.411), area p=0.374
+2026-03-13 15:41:08,463 [INFO] __main__:   'angle_variance' is the strongest geometric predictor of convergence (r=-0.411). Higher convergence_delta means the synthesis landed closer to the true centroid of the triad.
+2026-03-13 15:41:08,463 [INFO] __main__: Inference analysis complete
+
+2026-03-13 15:41:08,463 [INFO] __main__: Step 6: Running ablation study (source embeddings)...
+2026-03-13 15:41:08,599 [INFO] agents.visualization: Ablation saved to data/agent_experiments/ablation_study.json | baseline R²=0.178, extended R²=0.174, full R²=0.994
+2026-03-13 15:41:08,600 [INFO] __main__:   Source features ΔR²=0.8201
+2026-03-13 15:41:08,600 [INFO] __main__: Ablation study complete
+
+2026-03-13 15:41:08,600 [INFO] __main__: 
+============================================================
+2026-03-13 15:41:08,600 [INFO] __main__: FACTORIAL EXPERIMENT COMPLETE
+2026-03-13 15:41:08,600 [INFO] __main__: Elapsed time: 235.5s
+2026-03-13 15:41:08,600 [INFO] __main__: Results saved to: data/factorial_experiment_10
+2026-03-13 15:41:08,600 [INFO] __main__: ============================================================
+
