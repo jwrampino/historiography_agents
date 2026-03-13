@@ -74,7 +74,7 @@ class ExperimentRunner:
         self.convergence_analyzer = ConvergenceAnalyzer()
         self.prediction_model = ConvergencePredictionModel()
  
-        logger.info("✓ All components initialized")
+        logger.info("OK All components initialized")
  
     def run(self) -> dict:
         t0 = time.time()
@@ -85,7 +85,7 @@ class ExperimentRunner:
  
         logger.info("Step 1: Loading historian personas...")
         personas = self.historian_manager.personas
-        logger.info(f"✓ Loaded {len(personas)} historians\n")
+        logger.info(f"OK Loaded {len(personas)} historians\n")
  
         logger.info(f"Step 2: Sampling {self.n_triads} triads...")
         triads = self.historian_manager.sample_groups(
@@ -95,7 +95,7 @@ class ExperimentRunner:
             max_distance=0.7,
             min_area=0.001
         )
-        logger.info(f"✓ Sampled {len(triads)} triads\n")
+        logger.info(f"OK Sampled {len(triads)} triads\n")
  
         if len(triads) == 0:
             logger.error("No valid triads found!")
@@ -103,23 +103,23 @@ class ExperimentRunner:
  
         logger.info(f"Step 3: Running triad experiments...")
         results = self._run_triad_experiments(triads)
-        logger.info(f"✓ Completed {len(results)} experiments\n")
+        logger.info(f"OK Completed {len(results)} experiments\n")
  
         logger.info("Step 4: Analyzing convergence...")
         self._analyze_convergence(results)
-        logger.info(f"✓ Convergence analysis complete\n")
+        logger.info(f"OK Convergence analysis complete\n")
  
         logger.info("Step 5: Exporting data...")
         self.storage.export_to_csv(str(self.output_dir))
-        logger.info(f"✓ Data exported to {self.output_dir}\n")
+        logger.info(f"OK Data exported to {self.output_dir}\n")
  
         logger.info("Step 6: Training prediction model...")
         prediction_results = self._train_prediction_model()
-        logger.info(f"✓ Prediction model trained\n")
+        logger.info(f"OK Prediction model trained\n")
  
         logger.info("Step 7: Running inference analysis...")
         inference_results = self._run_inference_analysis()
-        logger.info(f"✓ Inference analysis complete\n")
+        logger.info(f"OK Inference analysis complete\n")
  
         elapsed = time.time() - t0
         summary = {

@@ -125,7 +125,13 @@ class SourceRetriever:
         if not selected:
             selected = keywords[:n_keywords]
 
-        query = " ".join(selected[:n_keywords])
+        # Fallback if still no keywords found
+        if not selected:
+            logger.warning("No keywords extracted from papers, using default query")
+            query = "history historical"
+        else:
+            query = " ".join(selected[:n_keywords])
+
         logger.info(f"Generated retrieval query: '{query}'")
         return query
 
@@ -143,6 +149,11 @@ class SourceRetriever:
         Returns:
             List of source dicts with metadata and text
         """
+        # Safety check for empty query
+        if not query or not query.strip():
+            logger.warning("Empty query provided, using default")
+            query = "history historical"
+
         # Embed query
         query_vec = self.embedder.text_embedder.embed_one(query)
 
@@ -198,13 +209,21 @@ class SourceRetriever:
         Returns:
             List of image source dicts
         """
+        # Safety check for empty query
+        if not query or not query.strip():
+            logger.warning("Empty query provided, using default")
+            query = "history historical"
+
         # Embed query (text-based search for images)
         query_vec = self.embedder.text_embedder.embed_one(query)
 
-        # Search FAISS index
-        results = self.index.search(query_vec, top_k=n_sources * 5)
+        # Search FAISS index - search more results since we're filtering by modality
+        results = self.index.search(query_vec, top_k=n_sources * 50)
 
         sources = []
+        images_found = 0
+        items_checked = 0
+
         for result in results:
             if len(sources) >= n_sources:
                 break
@@ -214,9 +233,13 @@ class SourceRetriever:
             if not item:
                 continue
 
+            items_checked += 1
+
             # Filter by modality
             if item.modality not in ['image', 'map']:
                 continue
+
+            images_found += 1
 
             # Download image if requested
             local_path = None
@@ -236,7 +259,14 @@ class SourceRetriever:
                 'modality': 'image'
             })
 
-        logger.info(f"Retrieved {len(sources)} image sources for query '{query}'")
+        if len(sources) < n_sources:
+            logger.warning(
+                f"Retrieved only {len(sources)}/{n_sources} image sources for query '{query}' "
+                f"(checked {items_checked} items, found {images_found} images)"
+            )
+        else:
+            logger.info(f"Retrieved {len(sources)} image sources for query '{query}'")
+
         return sources
 
     def retrieve_source_packet(

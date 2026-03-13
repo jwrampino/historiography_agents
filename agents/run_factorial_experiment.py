@@ -90,7 +90,7 @@ class FactorialExperimentRunner:
         self.convergence_analyzer = ConvergenceAnalyzer()
         self.prediction_model = ConvergencePredictionModel()
 
-        logger.info("✓ All components initialized")
+        logger.info("All components initialized")
 
     def generate_all_triads(self) -> List[Tuple]:
         """
@@ -147,23 +147,23 @@ class FactorialExperimentRunner:
 
         logger.info(f"Step 1: Running {len(triads_with_geometry)} triad experiments...")
         results = self._run_triad_experiments(triads_with_geometry)
-        logger.info(f"✓ Completed {len(results)} experiments\n")
+        logger.info(f"Completed {len(results)} experiments\n")
 
         logger.info("Step 2: Analyzing convergence...")
         self._analyze_convergence(results)
-        logger.info(f"✓ Convergence analysis complete\n")
+        logger.info(f"Convergence analysis complete\n")
 
         logger.info("Step 3: Exporting data...")
         self.storage.export_to_csv(str(self.output_dir))
-        logger.info(f"✓ Data exported to {self.output_dir}\n")
+        logger.info(f"Data exported to {self.output_dir}\n")
 
         logger.info("Step 4: Training prediction model...")
         prediction_results = self._train_prediction_model()
-        logger.info(f"✓ Prediction model trained\n")
+        logger.info(f"Prediction model trained\n")
 
         logger.info("Step 5: Running inference analysis...")
         inference_results = self._run_inference_analysis()
-        logger.info(f"✓ Inference analysis complete\n")
+        logger.info(f"Inference analysis complete\n")
 
         elapsed = time.time() - t0
         summary = {
