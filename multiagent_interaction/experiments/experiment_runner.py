@@ -259,7 +259,7 @@ class ExperimentRunner:
 
         error_entry = {
             'experiment_id': experiment_id,
-            'group': [p.persona_id for p in group],
+            'group': [p.historian_id for p in group],
             'error': error,
             'timestamp': datetime.now().isoformat()
         }
