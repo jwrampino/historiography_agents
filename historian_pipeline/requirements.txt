@@ -21,3 +21,11 @@ internetarchive>=3.3.0   # Internet Archive Python SDK
 
 # ─── Utilities ─────────────────────────────────────────────────────────────────
 numpy>=1.26.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+scipy>=1.11.0
+
+pypdf>=4.0
+
+# ─── Multi-Agent System (agents/ module) ───────────────────────────────────────
+openai>=1.0.0            # GPT-3.5-turbo for agent reasoning
