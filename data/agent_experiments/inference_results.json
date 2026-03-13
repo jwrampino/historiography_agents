@@ -1,0 +1,25 @@
+{
+  "target": "convergence_delta",
+  "n_samples": 150,
+  "convergence_delta_mean": 0.10858193414078819,
+  "convergence_delta_std": 0.059584192430390086,
+  "convergence_delta_min": -0.057566324869791685,
+  "convergence_delta_max": 0.24122507373491925,
+  "correlations_with_delta": {
+    "perimeter": 0.27612259749415446,
+    "area": 0.2485124580189662,
+    "angle_variance": -0.007531105878664489,
+    "mean_historian_distance": 0.2754665026016008
+  },
+  "bias_score_correlation_with_delta": 0.22168705642199274,
+  "ols_area_vs_delta": {
+    "slope": 0.406194709204517,
+    "intercept": 0.06953250830287036,
+    "r_squared": 0.061758441790628456,
+    "p_value": 0.0021662720732545182,
+    "std_err": 0.1301405304060071
+  },
+  "strongest_predictor": "perimeter",
+  "strongest_correlation": 0.27612259749415446,
+  "interpretation": "'perimeter' is the strongest geometric predictor of convergence (r=0.276). Higher convergence_delta means the synthesis landed closer to the true centroid of the triad."
+}

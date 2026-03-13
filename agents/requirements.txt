@@ -1,0 +1,17 @@
+# Additional requirements for multi-agent experiment
+# Install with: pip install -r agents/requirements.txt
+
+# OpenAI API
+openai>=1.0.0
+
+# Scientific computing (if not already installed)
+scipy>=1.11.0
+
+# Others from main requirements should already be installed:
+# - sentence-transformers
+# - numpy
+# - pandas
+# - scikit-learn
+# - duckdb
+# - requests
+# - Pillow
