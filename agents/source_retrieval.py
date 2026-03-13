@@ -270,26 +270,139 @@ class SourceRetriever:
 
         return sources
 
+    def retrieve_random_text_sources(self, n_sources: int = 3) -> List[Dict]:
+        """
+        Randomly sample text sources from corpus (NO query-based retrieval).
+        Uses DuckDB's ORDER BY RANDOM() for efficient sampling.
+
+        Args:
+            n_sources: Number of text sources to retrieve
+
+        Returns:
+            List of randomly sampled text source dicts
+        """
+        # Use DuckDB to randomly sample text items efficiently
+        sql = f"""
+            SELECT * FROM corpus
+            WHERE modality = 'text'
+            ORDER BY RANDOM()
+            LIMIT {n_sources}
+        """
+
+        try:
+            rows = self.store.con.execute(sql).fetchall()
+            if not rows:
+                logger.warning("No text sources found in corpus")
+                return []
+
+            cols = [desc[0] for desc in self.store.con.description]
+            sampled_items = [self.store.get(dict(zip(cols, row))['source_id']) for row in rows]
+
+            sources = []
+            for item in sampled_items:
+                if item is None:
+                    continue
+                text_content = self._get_item_text(item)
+                sources.append({
+                    'source_id': item.source_id,
+                    'title': item.title,
+                    'institution': item.institution,
+                    'date_original': item.date_original,
+                    'text': text_content,
+                    'url': item.url_original,
+                    'similarity_score': None,  # No semantic similarity in random sampling
+                    'modality': 'text'
+                })
+
+            logger.info(f"Randomly sampled {len(sources)} text sources")
+            return sources
+
+        except Exception as e:
+            logger.error(f"Failed to retrieve random text sources: {e}")
+            return []
+
+    def retrieve_random_image_sources(self, n_sources: int = 2, download: bool = True) -> List[Dict]:
+        """
+        Randomly sample image sources from corpus (NO query-based retrieval).
+        Uses DuckDB's ORDER BY RANDOM() for efficient sampling.
+
+        Args:
+            n_sources: Number of image sources to retrieve
+            download: Whether to download images
+
+        Returns:
+            List of randomly sampled image source dicts
+        """
+        # Use DuckDB to randomly sample image items efficiently
+        sql = f"""
+            SELECT * FROM corpus
+            WHERE modality = 'image'
+            ORDER BY RANDOM()
+            LIMIT {n_sources}
+        """
+
+        try:
+            rows = self.store.con.execute(sql).fetchall()
+            if not rows:
+                logger.warning("No image sources found in corpus")
+                return []
+
+            cols = [desc[0] for desc in self.store.con.description]
+            sampled_items = [self.store.get(dict(zip(cols, row))['source_id']) for row in rows]
+
+            sources = []
+            for item in sampled_items:
+                if item is None:
+                    continue
+
+                # Download image if requested
+                local_path = None
+                if download and item.url_original:
+                    local_path = self._download_image(item.url_original, item.source_id)
+
+                sources.append({
+                    'source_id': item.source_id,
+                    'title': item.title,
+                    'institution': item.institution,
+                    'date_original': item.date_original,
+                    'url': item.url_original,
+                    'local_path': str(local_path) if local_path else None,
+                    'similarity_score': None,  # No semantic similarity in random sampling
+                    'modality': 'image'
+                })
+
+            logger.info(f"Randomly sampled {len(sources)} image sources")
+            return sources
+
+        except Exception as e:
+            logger.error(f"Failed to retrieve random image sources: {e}")
+            return []
+
     def retrieve_source_packet(
-        self, papers: List[Dict], n_text: int = 3, n_images: int = 2
+        self, papers: List[Dict], n_text: int = 3, n_images: int = 2, random_sampling: bool = True
     ) -> Dict[str, List[Dict]]:
         """
         Retrieve a full source packet for a historian.
 
         Args:
-            papers: Historian's papers (for deriving query)
+            papers: Historian's papers (for deriving query if random_sampling=False)
             n_text: Number of text sources
             n_images: Number of image sources
+            random_sampling: If True, randomly sample sources; if False, use query-based retrieval
 
         Returns:
             Dict with 'text_sources' and 'image_sources'
         """
-        # Generate query from papers
-        query = self.generate_retrieval_query(papers)
-
-        # Retrieve sources
-        text_sources = self.retrieve_text_sources(query, n_sources=n_text)
-        image_sources = self.retrieve_image_sources(query, n_sources=n_images)
+        if random_sampling:
+            # NEW: Random sampling (no query needed, each historian gets different sources)
+            text_sources = self.retrieve_random_text_sources(n_sources=n_text)
+            image_sources = self.retrieve_random_image_sources(n_sources=n_images)
+            query = "random_sampling"
+        else:
+            # OLD: Query-based semantic search
+            query = self.generate_retrieval_query(papers)
+            text_sources = self.retrieve_text_sources(query, n_sources=n_text)
+            image_sources = self.retrieve_image_sources(query, n_sources=n_images)
 
         return {
             'query': query,

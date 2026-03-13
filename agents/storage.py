@@ -105,8 +105,7 @@ class ExperimentStorage:
                 -- Final abstract distance
                 distance_final_to_centroid DOUBLE,
  
-                -- Convergence outcome
-                converged BOOLEAN,
+                -- Synthesis movement
                 convergence_delta DOUBLE,
  
                 -- Additional stats
@@ -119,16 +118,16 @@ class ExperimentStorage:
                 bias_weight_3 DOUBLE,
                 dominant_historian_position INTEGER,
                 bias_score DOUBLE,
-
+ 
                 -- Source embedding similarity features
                 mean_source_embedding_distance DOUBLE,
                 source_embedding_variance DOUBLE,
-
+ 
                 created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
                 FOREIGN KEY (triad_id) REFERENCES triads(triad_id)
             );
         """)
-
+ 
         self.con.execute("""
             CREATE TABLE IF NOT EXISTS llm_interactions (
                 interaction_id INTEGER PRIMARY KEY DEFAULT nextval('llm_interaction_id_seq'),
@@ -144,19 +143,19 @@ class ExperimentStorage:
                 created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
             );
         """)
-
+ 
         self.con.execute("""
             CREATE TABLE IF NOT EXISTS source_geometry (
                 geometry_id INTEGER PRIMARY KEY DEFAULT nextval('source_geometry_id_seq'),
                 triad_id INTEGER,
-
+ 
                 -- Source IDs
                 source_ids JSON,  -- List of all source_ids
                 n_sources INTEGER,
-
+ 
                 -- Full pairwise distance matrix
                 distance_matrix JSON,  -- NxN matrix of cosine distances
-
+ 
                 -- Distribution statistics
                 distance_mean DOUBLE,
                 distance_std DOUBLE,
@@ -167,7 +166,7 @@ class ExperimentStorage:
                 distance_p50 DOUBLE,
                 distance_p75 DOUBLE,
                 distance_p90 DOUBLE,
-
+ 
                 -- Within vs between historian distances
                 within_hist1_mean DOUBLE,
                 within_hist2_mean DOUBLE,
@@ -178,12 +177,12 @@ class ExperimentStorage:
                 within_mean DOUBLE,  -- Average of within-historian distances
                 between_mean DOUBLE,  -- Average of between-historian distances
                 within_between_ratio DOUBLE,  -- within_mean / between_mean
-
+ 
                 created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
                 FOREIGN KEY (triad_id) REFERENCES triads(triad_id)
             );
         """)
-
+ 
         self.con.commit()
         logger.info(f"Initialized experiment database at {self.db_path}")
  
@@ -230,7 +229,7 @@ class ExperimentStorage:
         # Convert source ID lists to comma-separated strings
         text_ids_str = ','.join(text_source_ids) if text_source_ids else ''
         image_ids_str = ','.join(image_source_ids) if image_source_ids else ''
-
+ 
         self.con.execute("""
             INSERT INTO proposals (
                 triad_id, historian_name, historian_position,
@@ -258,7 +257,7 @@ class ExperimentStorage:
         # Convert source ID lists to comma-separated strings
         text_ids_str = ','.join(all_text_source_ids) if all_text_source_ids else ''
         image_ids_str = ','.join(all_image_source_ids) if all_image_source_ids else ''
-
+ 
         self.con.execute("""
             INSERT INTO synthesis (
                 triad_id,
@@ -296,7 +295,6 @@ class ExperimentStorage:
                 distance_abstract3_to_centroid,
                 mean_abstract_distance,
                 distance_final_to_centroid,
-                converged,
                 convergence_delta,
                 abstract_distance_variance,
                 mean_pairwise_abstract_similarity,
@@ -307,7 +305,7 @@ class ExperimentStorage:
                 bias_score,
                 mean_source_embedding_distance,
                 source_embedding_variance
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, [
             triad_id,
             metrics['distance_hist1_to_centroid'],
@@ -319,7 +317,6 @@ class ExperimentStorage:
             metrics['distance_abstract3_to_centroid'],
             metrics['mean_abstract_distance'],
             metrics['distance_final_to_centroid'],
-            metrics['converged'],
             additional_stats['convergence_delta'],
             additional_stats['abstract_distance_variance'],
             additional_stats['mean_pairwise_abstract_similarity'],
@@ -332,7 +329,7 @@ class ExperimentStorage:
             additional_stats.get('source_embedding_variance', None)
         ])
         self.con.commit()
-
+ 
     def insert_llm_interaction(
         self,
         triad_id: int,
@@ -358,7 +355,7 @@ class ExperimentStorage:
             model_name, temperature
         ])
         self.con.commit()
-
+ 
     def insert_source_geometry(
         self,
         triad_id: int,
@@ -368,7 +365,7 @@ class ExperimentStorage:
     ) -> None:
         """Store detailed source geometry information."""
         import json
-
+ 
         self.con.execute("""
             INSERT INTO source_geometry (
                 triad_id, source_ids, n_sources,
@@ -404,7 +401,7 @@ class ExperimentStorage:
             stats.get('within_between_ratio')
         ])
         self.con.commit()
-
+ 
     def export_to_csv(self, output_dir: str = "data/agent_experiments"):
         output_dir = Path(output_dir)
         output_dir.mkdir(parents=True, exist_ok=True)
@@ -424,7 +421,6 @@ class ExperimentStorage:
                 c.mean_historian_distance,
                 c.mean_abstract_distance,
                 c.distance_final_to_centroid,
-                c.converged,
                 c.convergence_delta,
                 c.abstract_distance_variance,
                 c.mean_pairwise_abstract_similarity,

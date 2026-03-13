@@ -1,6 +1,6 @@
 """
 Interaction Pipeline: Orchestrates the two-stage multi-agent process.
-Stage 1: Individual historian proposals
+Stage 1: Individual historian hypotheses
 Stage 2: Final synthesis
 """
 
@@ -31,8 +31,8 @@ class TriadExperimentResult:
     retrieval_query: str
     source_packets: List[Dict]  # 3 packets, one per historian
 
-    # Stage 1: Individual proposals
-    proposals: List[Dict]  # 3 proposals
+    # Stage 1: Individual hypotheses
+    hypotheses: List[Dict]  # 3 hypotheses
 
     # Stage 2: Synthesis
     synthesis: Dict
@@ -101,13 +101,13 @@ class InteractionPipeline:
             # Use same query for all (derived from first historian)
             retrieval_query = source_packets[0]['query']
 
-            # Stage 1: Individual proposals
-            proposals = self._generate_individual_proposals(
+            # Stage 1: Individual hypotheses
+            hypotheses = self._generate_individual_hypotheses(
                 historians, source_packets
             )
 
             # Stage 2: Synthesis
-            synthesis = self._generate_synthesis(historian_names, proposals)
+            synthesis = self._generate_synthesis(historian_names, hypotheses)
 
             result = TriadExperimentResult(
                 triad_id=triad_id,
@@ -116,7 +116,7 @@ class InteractionPipeline:
                 geometry=geometry,
                 retrieval_query=retrieval_query,
                 source_packets=source_packets,
-                proposals=proposals,
+                hypotheses=hypotheses,
                 synthesis=synthesis,
                 success=True
             )
@@ -125,7 +125,7 @@ class InteractionPipeline:
             return result
 
         except Exception as e:
-            logger.error(f"✗ Triad {triad_id} failed: {e}", exc_info=True)
+            logger.error(f"[FAIL] Triad {triad_id} failed: {e}", exc_info=True)
             return TriadExperimentResult(
                 triad_id=triad_id,
                 historians=historians,
@@ -133,7 +133,7 @@ class InteractionPipeline:
                 geometry=geometry,
                 retrieval_query="",
                 source_packets=[],
-                proposals=[],
+                hypotheses=[],
                 synthesis={},
                 success=False,
                 error=str(e)
@@ -170,26 +170,26 @@ class InteractionPipeline:
 
         return source_packets
 
-    def _generate_individual_proposals(
+    def _generate_individual_hypotheses(
         self,
         historians: Tuple[HistorianPersona, HistorianPersona, HistorianPersona],
         source_packets: List[Dict]
     ) -> List[Dict]:
         """
-        Generate individual proposals from each historian.
+        Generate individual hypotheses from each historian.
 
         Args:
             historians: Tuple of 3 historians
             source_packets: List of 3 source packets
 
         Returns:
-            List of 3 proposal dicts
+            List of 3 hypothesis dicts
         """
-        logger.info("Generating individual proposals...")
+        logger.info("Generating individual hypotheses...")
 
-        proposals = []
+        hypotheses = []
         for i, (historian, packet) in enumerate(zip(historians, source_packets)):
-            logger.info(f"  Generating proposal from {historian.name}...")
+            logger.info(f"  Generating hypothesis from {historian.name}...")
 
             # Format sources for prompt
             sources_text = self.retriever.format_sources_for_agent(packet)
@@ -209,30 +209,30 @@ class InteractionPipeline:
                     historian_position=i + 1
                 )
 
-            # Generate proposal (with images if available)
-            proposal = self.llm.generate_individual_proposal(
+            # Generate hypothesis (with images if available)
+            hypothesis = self.llm.generate_individual_hypothesis(
                 historian_prompt=historian.prompt,
                 source_packet_text=sources_text,
                 image_paths=image_paths if image_paths else None,
                 temperature=0.7
             )
 
-            proposals.append(proposal)
+            hypotheses.append(hypothesis)
 
-        logger.info(f"Generated {len(proposals)} individual proposals")
-        return proposals
+        logger.info(f"Generated {len(hypotheses)} individual hypotheses")
+        return hypotheses
 
     def _generate_synthesis(
         self,
         historian_names: List[str],
-        proposals: List[Dict]
+        hypotheses: List[Dict]
     ) -> Dict:
         """
-        Generate final synthesis from individual proposals.
+        Generate final synthesis from individual hypotheses.
 
         Args:
             historian_names: List of 3 historian names
-            proposals: List of 3 proposal dicts
+            hypotheses: List of 3 hypothesis dicts
 
         Returns:
             Synthesis dict
@@ -241,7 +241,7 @@ class InteractionPipeline:
 
         synthesis = self.llm.generate_synthesis(
             historian_names=historian_names,
-            proposals=proposals,
+            proposals=hypotheses,  # kwarg name in AgentLLM.generate_synthesis
             temperature=0.5
         )
 

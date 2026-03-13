@@ -1,6 +1,6 @@
 """
 Agent LLM Interface: Handles communication with OpenAI GPT-4o.
-Used for generating individual proposals and synthesizing group abstracts.
+Used for generating individual hypotheses and synthesizing group abstracts.
 """
 
 import os
@@ -73,7 +73,7 @@ class AgentLLM:
         except Exception:
             return None
 
-    def generate_individual_proposal(
+    def generate_individual_hypothesis(
         self,
         historian_prompt: str,
         source_packet_text: str,
@@ -82,7 +82,7 @@ class AgentLLM:
         max_retries: int = 3
     ) -> Dict[str, str]:
         """
-        Generate an individual historian's proposal.
+        Generate an individual historian's hypothesis.
 
         Args:
             historian_prompt: Full persona prompt for the historian
@@ -92,7 +92,7 @@ class AgentLLM:
             max_retries: Number of retry attempts
 
         Returns:
-            Dict with keys: research_question, abstract, selected_sources
+            Dict with keys: hypothesis, abstract, selected_sources
         """
         system_message = historian_prompt
 
@@ -102,14 +102,14 @@ class AgentLLM:
 
 Based on these sources and your scholarly perspective, please:
 
-1. Propose ONE focused research question that you find most compelling
+1. Propose ONE focused hypothesis that you find most compelling
 2. Write a short abstract (3-4 sentences) outlining your interpretation
 3. Identify the TWO most useful sources for your interpretation (by number)
 
 Format your response exactly as:
 
-RESEARCH QUESTION:
-[your question here]
+HYPOTHESIS:
+[your hypothesis here]
 
 ABSTRACT:
 [your 3-4 sentence abstract here]
@@ -147,27 +147,38 @@ SELECTED SOURCES:
                 )
 
                 content = response.choices[0].message.content
-                parsed = self._parse_individual_proposal(content)
+                parsed = self._parse_individual_hypothesis(content)
 
-                # Checkpoint: Log LLM interaction immediately
+                # Checkpoint: Log LLM interaction immediately (handle Unicode safely)
                 if self.storage and self._current_triad_id is not None:
-                    self.storage.insert_llm_interaction(
-                        triad_id=self._current_triad_id,
-                        interaction_type='individual_proposal',
-                        historian_name=self._current_historian_name,
-                        historian_position=self._current_historian_position,
-                        system_prompt=system_message,
-                        user_prompt=user_message,
-                        llm_response=content,
-                        model_name=self.model,
-                        temperature=temperature
-                    )
+                    try:
+                        # Extract text from user_message if it's multimodal
+                        if isinstance(user_message, list):
+                            user_text = next((item['text'] for item in user_message if item.get('type') == 'text'), '')
+                        else:
+                            user_text = user_message
 
-                logger.info(f"Generated individual proposal (attempt {attempt + 1})")
+                        self.storage.insert_llm_interaction(
+                            triad_id=self._current_triad_id,
+                            interaction_type='individual_hypothesis',
+                            historian_name=self._current_historian_name,
+                            historian_position=self._current_historian_position,
+                            system_prompt=system_message,
+                            user_prompt=user_text,
+                            llm_response=content,
+                            model_name=self.model,
+                            temperature=temperature
+                        )
+                    except Exception as checkpoint_err:
+                        logger.warning(f"Checkpoint logging failed: {checkpoint_err}")
+
+                logger.info(f"Generated individual hypothesis (attempt {attempt + 1})")
                 return parsed
 
             except Exception as e:
-                logger.warning(f"Proposal generation failed (attempt {attempt + 1}): {e}")
+                # Clean error message for logging (Windows console can't handle some Unicode)
+                error_msg = str(e).encode('ascii', errors='replace').decode('ascii')
+                logger.warning(f"Hypothesis generation failed (attempt {attempt + 1}): {error_msg}")
                 if attempt < max_retries - 1:
                     time.sleep(2 ** attempt)  # Exponential backoff
                 else:
@@ -185,19 +196,19 @@ SELECTED SOURCES:
 
         Args:
             historian_names: Names of the three historians
-            proposals: List of 3 proposal dicts
+            hypotheses: List of 3 hypothesis dicts
             temperature: Sampling temperature
             max_retries: Number of retry attempts
 
         Returns:
-            Dict with keys: final_research_question, final_abstract, final_sources
+            Dict with keys: final_hypothesis, final_abstract, final_sources
         """
         # Build prompt with all three proposals
-        proposals_text = []
+        hypotheses_text = []
         for name, prop in zip(historian_names, proposals):
-            proposals_text.append(f"""
+            hypotheses_text.append(f"""
 === {name} ===
-Research Question: {prop['research_question']}
+Hypothesis: {prop['hypothesis']}
 
 Abstract:
 {prop['abstract']}
@@ -207,13 +218,13 @@ Sources Used: {prop['selected_sources']}
 
         system_message = """You are a skilled historical editor facilitating collaboration between historians with different perspectives. Your goal is to synthesize their individual proposals into a coherent shared interpretation."""
 
-        user_message = f"""Three historians have each proposed research questions and abstracts based on the same source materials:
+        user_message = f"""Three historians have each proposed hypotheses and abstracts based on the same source materials:
 
-{''.join(proposals_text)}
+{''.join(hypotheses_text)}
 
 Please produce:
 
-1. A SHARED RESEARCH QUESTION that bridges their perspectives
+1. A SHARED HYPOTHESIS that bridges their perspectives
 2. A FINAL MERGED ABSTRACT (4-5 sentences) that:
    - Identifies key agreements across proposals
    - Acknowledges productive tensions or disagreements
@@ -222,8 +233,8 @@ Please produce:
 
 Format your response exactly as:
 
-FINAL RESEARCH QUESTION:
-[shared question here]
+FINAL HYPOTHESIS:
+[shared hypothesis here]
 
 FINAL ABSTRACT:
 [4-5 sentence synthesis here]
@@ -246,34 +257,39 @@ FINAL SOURCES:
                 content = response.choices[0].message.content
                 parsed = self._parse_synthesis(content)
 
-                # Checkpoint: Log LLM interaction immediately
+                # Checkpoint: Log LLM interaction immediately (handle Unicode safely)
                 if self.storage and self._current_triad_id is not None:
-                    self.storage.insert_llm_interaction(
-                        triad_id=self._current_triad_id,
-                        interaction_type='synthesis',
-                        historian_name='group_synthesis',
-                        historian_position=0,
-                        system_prompt=system_message,
-                        user_prompt=user_message,
-                        llm_response=content,
-                        model_name=self.model,
-                        temperature=temperature
-                    )
+                    try:
+                        self.storage.insert_llm_interaction(
+                            triad_id=self._current_triad_id,
+                            interaction_type='synthesis',
+                            historian_name='group_synthesis',
+                            historian_position=0,
+                            system_prompt=system_message,
+                            user_prompt=user_message,
+                            llm_response=content,
+                            model_name=self.model,
+                            temperature=temperature
+                        )
+                    except Exception as checkpoint_err:
+                        logger.warning(f"Checkpoint logging failed: {checkpoint_err}")
 
                 logger.info(f"Generated synthesis (attempt {attempt + 1})")
                 return parsed
 
             except Exception as e:
-                logger.warning(f"Synthesis generation failed (attempt {attempt + 1}): {e}")
+                # Clean error message for logging (Windows console can't handle some Unicode)
+                error_msg = str(e).encode('ascii', errors='replace').decode('ascii')
+                logger.warning(f"Synthesis generation failed (attempt {attempt + 1}): {error_msg}")
                 if attempt < max_retries - 1:
                     time.sleep(2 ** attempt)
                 else:
                     raise
 
-    def _parse_individual_proposal(self, content: str) -> Dict[str, str]:
-        """Parse the LLM output for individual proposal."""
+    def _parse_individual_hypothesis(self, content: str) -> Dict[str, str]:
+        """Parse the LLM output for individual hypothesis."""
         result = {
-            'research_question': '',
+            'hypothesis': '',
             'abstract': '',
             'selected_sources': ''
         }
@@ -284,8 +300,8 @@ FINAL SOURCES:
         for line in lines:
             line_upper = line.strip().upper()
 
-            if 'RESEARCH QUESTION' in line_upper:
-                current_section = 'research_question'
+            if 'HYPOTHESIS' in line_upper:
+                current_section = 'hypothesis'
                 # Check if content on same line
                 if ':' in line:
                     content_part = line.split(':', 1)[1].strip()
@@ -319,7 +335,7 @@ FINAL SOURCES:
     def _parse_synthesis(self, content: str) -> Dict[str, str]:
         """Parse the LLM output for synthesis."""
         result = {
-            'final_research_question': '',
+            'final_hypothesis': '',
             'final_abstract': '',
             'final_sources': ''
         }
@@ -330,9 +346,9 @@ FINAL SOURCES:
         for line in lines:
             line_upper = line.strip().upper()
 
-            if 'FINAL RESEARCH QUESTION' in line_upper or \
-               ('SHARED' in line_upper and 'QUESTION' in line_upper):
-                current_section = 'final_research_question'
+            if 'FINAL HYPOTHESIS' in line_upper or \
+               ('SHARED' in line_upper and 'HYPOTHESIS' in line_upper):
+                current_section = 'final_hypothesis'
                 if ':' in line:
                     content_part = line.split(':', 1)[1].strip()
                     if content_part:
