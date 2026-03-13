@@ -61,10 +61,23 @@ class AgentLLM:
         self._current_historian_name = historian_name
         self._current_historian_position = historian_position
 
+    @staticmethod
+    def _encode_image(image_path: str) -> Optional[str]:
+        """Encode image to base64. Returns None if fails."""
+        try:
+            path = Path(image_path)
+            if not path.exists():
+                return None
+            with open(path, "rb") as f:
+                return base64.b64encode(f.read()).decode('utf-8')
+        except Exception:
+            return None
+
     def generate_individual_proposal(
         self,
         historian_prompt: str,
         source_packet_text: str,
+        image_paths: Optional[List[str]] = None,
         temperature: float = 0.7,
         max_retries: int = 3
     ) -> Dict[str, str]:
@@ -74,6 +87,7 @@ class AgentLLM:
         Args:
             historian_prompt: Full persona prompt for the historian
             source_packet_text: Formatted sources text
+            image_paths: Optional list of local image paths to include
             temperature: Sampling temperature
             max_retries: Number of retry attempts
 
@@ -82,7 +96,7 @@ class AgentLLM:
         """
         system_message = historian_prompt
 
-        user_message = f"""You have been provided with the following primary sources:
+        user_text = f"""You have been provided with the following primary sources:
 
 {source_packet_text}
 
@@ -102,6 +116,23 @@ ABSTRACT:
 
 SELECTED SOURCES:
 [list the source numbers, e.g., "Source 1, Image 2"]"""
+
+        # Build user message - multimodal if images provided
+        if image_paths:
+            user_content = [{"type": "text", "text": user_text}]
+            for img_path in image_paths:
+                img_b64 = self._encode_image(img_path)
+                if img_b64:
+                    user_content.append({
+                        "type": "image_url",
+                        "image_url": {
+                            "url": f"data:image/jpeg;base64,{img_b64}",
+                            "detail": "low"  # Low detail = 85 tokens per image
+                        }
+                    })
+            user_message = user_content
+        else:
+            user_message = user_text
 
         for attempt in range(max_retries):
             try:

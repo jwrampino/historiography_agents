@@ -217,8 +217,9 @@ class SourceRetriever:
         # Embed query (text-based search for images)
         query_vec = self.embedder.text_embedder.embed_one(query)
 
-        # Search FAISS index - search more results since we're filtering by modality
-        results = self.index.search(query_vec, top_k=n_sources * 50)
+        # Search FAISS index - search MANY results since images are rare (57/4000)
+        # Need to check ~350 items on average to find 5 images
+        results = self.index.search(query_vec, top_k=min(500, n_sources * 100))
 
         sources = []
         images_found = 0
@@ -235,8 +236,8 @@ class SourceRetriever:
 
             items_checked += 1
 
-            # Filter by modality
-            if item.modality not in ['image', 'map']:
+            # Filter by modality (only 57 images in ~4000 corpus items)
+            if item.modality != 'image':
                 continue
 
             images_found += 1

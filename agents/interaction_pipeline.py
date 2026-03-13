@@ -121,7 +121,7 @@ class InteractionPipeline:
                 success=True
             )
 
-            logger.info(f"✓ Triad {triad_id} completed successfully")
+            logger.info(f"OK Triad {triad_id} completed successfully")
             return result
 
         except Exception as e:
@@ -194,6 +194,12 @@ class InteractionPipeline:
             # Format sources for prompt
             sources_text = self.retriever.format_sources_for_agent(packet)
 
+            # Extract image paths if available
+            image_paths = [
+                img['local_path'] for img in packet['image_sources']
+                if img.get('local_path')
+            ]
+
             # Set context for checkpoint logging
             if hasattr(self.llm, 'set_context'):
                 # We'll set triad_id later in run_triad_experiment
@@ -203,10 +209,11 @@ class InteractionPipeline:
                     historian_position=i + 1
                 )
 
-            # Generate proposal
+            # Generate proposal (with images if available)
             proposal = self.llm.generate_individual_proposal(
                 historian_prompt=historian.prompt,
                 source_packet_text=sources_text,
+                image_paths=image_paths if image_paths else None,
                 temperature=0.7
             )
 
