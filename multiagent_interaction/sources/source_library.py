@@ -204,7 +204,18 @@ class SourceLibrary:
 
     def get_source_by_id(self, source_id: str) -> Optional[PrimarySource]:
         """Retrieve a source by its ID."""
-        return self.sources.get(source_id)
+        # Check if already loaded
+        if source_id in self.sources:
+            return self.sources[source_id]
+
+        # Try lazy loading if using historian_pipeline data
+        if hasattr(self, 'metadata_sources'):
+            source = self._load_source_metadata(source_id)
+            if source:
+                self.sources[source_id] = source
+                return source
+
+        return None
 
     def _log_access(
         self,
@@ -283,6 +294,103 @@ class SourceLibrary:
             self.sources[source_id] = PrimarySource(**source_data)
 
         print(f"Loaded {len(self.sources)} sources from {path}")
+
+    def load_from_historian_pipeline(self, data_dir: Optional[Path] = None):
+        """
+        Load FAISS index and metadata from historian_pipeline data structure.
+
+        Args:
+            data_dir: Path to the data directory (default: ../data relative to config)
+        """
+        if data_dir is None:
+            data_dir = Path(__file__).parent.parent.parent / "data"
+        else:
+            data_dir = Path(data_dir)
+
+        index_file = data_dir / "index" / "corpus.faiss"
+        id_map_file = data_dir / "index" / "id_map.json"
+
+        if not index_file.exists():
+            raise FileNotFoundError(f"FAISS index not found: {index_file}")
+        if not id_map_file.exists():
+            raise FileNotFoundError(f"ID map not found: {id_map_file}")
+
+        # Initialize embedding model
+        self.initialize_embedding_model()
+
+        # Load FAISS index
+        print(f"Loading FAISS index from {index_file}")
+        self.index = faiss.read_index(str(index_file))
+
+        # Load ID mappings
+        with open(id_map_file, 'r') as f:
+            id_data = json.load(f)
+
+        self.index_to_source_id = {int(k): v for k, v in id_data['int_to_source'].items()}
+        self.source_id_to_index = {v: int(k) for k, v in id_data['int_to_source'].items()}
+
+        # Load metadata from JSON files on-demand
+        # We'll populate sources dict lazily as they're accessed
+        print(f"Loaded FAISS index with {len(self.index_to_source_id)} sources")
+        print(f"Metadata will be loaded on-demand from {data_dir / 'raw'}")
+
+        # Store paths for lazy loading
+        self.data_dir = data_dir
+        self.metadata_sources = {
+            'chronicling_america': data_dir / 'raw' / 'chronicling_america' / 'metadata',
+            'internet_archive': data_dir / 'raw' / 'internet_archive' / 'metadata',
+            'nara': data_dir / 'raw' / 'nara' / 'metadata'
+        }
+
+    def _load_source_metadata(self, source_id: str) -> Optional[PrimarySource]:
+        """Load metadata for a source from JSON file."""
+        # Try each metadata directory
+        for source_name, metadata_dir in self.metadata_sources.items():
+            metadata_file = metadata_dir / f"{source_id}.json"
+            if metadata_file.exists():
+                try:
+                    with open(metadata_file, 'r') as f:
+                        metadata = json.load(f)
+
+                    # Extract title and content from metadata
+                    title = metadata.get('title', f"Source {source_id}")
+
+                    # For text sources, use description; for images, use caption/description
+                    content = ""
+                    if 'description' in metadata:
+                        if isinstance(metadata['description'], list):
+                            content = " ".join(metadata['description'])
+                        else:
+                            content = str(metadata['description'])
+                    elif 'ocr_text' in metadata:
+                        content = metadata['ocr_text']
+                    elif 'caption' in metadata:
+                        content = metadata['caption']
+
+                    # Determine source type
+                    source_type = metadata.get('type', 'text')
+                    if 'image' in metadata.get('online_format', []):
+                        source_type = 'image_caption'
+
+                    return PrimarySource(
+                        source_id=source_id,
+                        title=title,
+                        content=content or f"No content available for {source_id}",
+                        source_type=source_type,
+                        metadata=metadata
+                    )
+                except Exception as e:
+                    print(f"Error loading metadata for {source_id}: {e}")
+                    continue
+
+        # If not found, return a placeholder
+        return PrimarySource(
+            source_id=source_id,
+            title=f"Source {source_id}",
+            content=f"Metadata not found for source {source_id}",
+            source_type="unknown",
+            metadata={}
+        )
 
 
 def create_example_library(n_sources: int = 100) -> SourceLibrary:

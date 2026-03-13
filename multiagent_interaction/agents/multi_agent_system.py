@@ -17,7 +17,10 @@ from langchain_anthropic import ChatAnthropic
 from langchain_openai import ChatOpenAI
 
 import sys
-sys.path.append('..')
+from pathlib import Path
+# Add parent directory to path for imports
+sys.path.insert(0, str(Path(__file__).parent.parent))
+
 from personas.historian_manager import HistorianPersona
 from sources.source_library import SourceLibrary, PrimarySource
 

@@ -1,5 +1,5 @@
 """Persona management for historian agents."""
 
-from .persona_manager import HistorianPersona, PersonaManager
+from .historian_manager import HistorianPersona, HistorianManager
 
-__all__ = ['HistorianPersona', 'PersonaManager']
+__all__ = ['HistorianPersona', 'HistorianManager']

@@ -12,7 +12,9 @@ from tqdm import tqdm
 import yaml
 
 import sys
-sys.path.append('..')
+# Add parent directory to path for imports
+sys.path.insert(0, str(Path(__file__).parent.parent))
+
 from personas.historian_manager import HistorianManager, HistorianPersona
 from sources.source_library import SourceLibrary
 from agents.multi_agent_system import MultiAgentDialogueSystem, DialogueState
@@ -103,16 +105,24 @@ class ExperimentRunner:
 
         print(f"Generated {len(self.groups)} groups using '{strategy}' strategy")
 
-    def setup_source_library(self, library_path: Optional[str] = None):
+    def setup_source_library(self, library_path: Optional[str] = None, use_historian_pipeline: bool = True):
         """
         Set up the source library.
 
         Args:
-            library_path: Path to pre-existing library, or None to create example
+            library_path: Path to pre-existing library, or None to use historian_pipeline data
+            use_historian_pipeline: If True, load from historian_pipeline data structure (default)
         """
         print("Setting up source library...")
 
-        if library_path and Path(library_path).exists():
+        if use_historian_pipeline:
+            # Load from historian_pipeline data
+            data_dir = Path(__file__).parent.parent.parent / "data"
+            if library_path:
+                data_dir = Path(library_path)
+            print(f"Loading from historian_pipeline data at {data_dir}")
+            self.source_library.load_from_historian_pipeline(data_dir)
+        elif library_path and Path(library_path).exists():
             self.source_library.load_index(Path(library_path))
         else:
             print("Creating example source library...")
@@ -120,7 +130,8 @@ class ExperimentRunner:
             self.source_library = create_example_library(n_sources=200)
             self.dialogue_system.source_library = self.source_library
 
-        print(f"Source library ready with {len(self.source_library.sources)} sources")
+        index_size = len(self.source_library.index_to_source_id) if hasattr(self.source_library, 'index_to_source_id') else self.source_library.index.ntotal if self.source_library.index else 0
+        print(f"Source library ready with {index_size} sources in index")
 
     def run_single_experiment(
         self,

@@ -1,462 +1,170 @@
-# Multi-Agent Historian Research Simulation
+# Multi-Agent Historian System - Prediction-Based Analysis
 
-A comprehensive system for simulating collaborative historical research through multi-agent dialogue, with causal analysis of how historian personas influence source selection and thesis quality.
+A system for simulating collaborative historical research through multi-agent dialogue, with **prediction models** to analyze how historian configurations affect outcomes.
 
 ## Overview
 
-This system implements a factorial design experiment where groups of AI historian agents with different theoretical orientations, methodological approaches, and domain expertise collaboratively develop research questions by:
+Groups of AI historian agents with different theoretical orientations, methodological approaches, and domain expertise collaboratively develop research questions by:
 
-1. **Exploring primary sources** through a FAISS-based multimodal document library
+1. **Exploring primary sources** through a FAISS-based document library (real data from historian_pipeline)
 2. **Engaging in dialogue** to share insights and critique proposals
-3. **Mixing induction and deduction** to let theses emerge from source exploration
-4. **Iteratively refining** research questions and abstracts
+3. **Iteratively refining** research questions and abstracts until consensus
 
-The system then uses **Sparse Autoencoders (SAE)** and **Double Debiasing** techniques to perform causal inference and answer:
+The system then uses **supervised prediction models** (RandomForest, GradientBoosting, Ridge) to answer:
 
-- **RQ1**: How do specific groups of historians (defined by field, method, era, and theoretical orientation) differentially select primary sources from a common multimodal corpus?
-
-- **RQ2**: Which configurations of historian personas and source-selection patterns produce the most novel, perplexing, and high-quality historical theses?
-
-## Architecture
-
-```
-multiagent_interaction/
-├── personas/              # Historian persona management
-│   ├── persona_manager.py
-│   └── persona_storage.json
-│
-├── sources/               # FAISS-based source library
-│   ├── source_library.py
-│   └── faiss_index/
-│
-├── agents/                # Multi-agent dialogue system (LangGraph)
-│   └── multi_agent_system.py
-│
-├── experiments/           # Factorial design experiment runner
-│   └── experiment_runner.py
-│
-├── analysis/              # Causal inference (SAE + double debiasing)
-│   └── causal_analysis.py
-│
-├── config/                # Configuration files
-│   └── config.yaml
-│
-├── outputs/               # Experiment results
-│   ├── results.csv
-│   ├── exp_*.json
-│   └── analysis_report.json
-│
-├── requirements.txt
-└── run_experiment.py      # Main entry point
-```
-
-## Installation
-
-1. **Install dependencies**:
-```bash
-pip install -r requirements.txt
-```
-
-2. **Set up API keys** (create `.env` file):
-```bash
-# For Anthropic Claude
-ANTHROPIC_API_KEY=your_key_here
-
-# OR for OpenAI
-OPENAI_API_KEY=your_key_here
-```
-
-3. **Configure experiment** (edit `config/config.yaml`):
-   - Adjust persona dimensions
-   - Set dialogue parameters
-   - Configure LLM settings
-   - Set analysis parameters
+- **RQ1**: Can embedding geometry predict source selection patterns?
+- **RQ2**: Can embedding geometry predict abstract quality (perplexity)?
 
 ## Quick Start
 
-### Full Pipeline (Setup + Run + Analyze)
-
 ```bash
-python run_experiment.py --mode full --n-samples 20
+# 1. Run experiments (10 groups of 3 historians)
+python experiments/experiment_runner.py \
+  --strategy filtered \
+  --n-samples 10 \
+  --max-experiments 10
+
+# 2. Analyze results
+python analysis/prediction_analysis.py
+
+# 3. Generate visualizations
+python visualization/generate_all.py --output-dir outputs
 ```
 
-This will:
-1. Create historian personas across 4 dimensions
-2. Build a source library with 200 primary sources
-3. Run 20 multi-agent experiments
-4. Perform causal analysis
+## Pipeline Structure
 
-### Step-by-Step Execution
+```
+1. personas/historian_manager.py
+   ↓ (Load real historians from OpenAlex)
 
-**Step 1: Setup**
-```bash
-python run_experiment.py --mode setup-only --n-sources 500
+2. sources/source_library.py
+   ↓ (Connect to ../data/index/corpus.faiss)
+
+3. experiments/experiment_runner.py
+   ↓ (Run multi-agent dialogues)
+
+4. analysis/prediction_analysis.py
+   ↓ (Predict outcomes using regression)
+
+5. visualization/generate_all.py
+   ↓ (Create 50+ plots)
 ```
 
-**Step 2: Run Experiments**
-```bash
-python run_experiment.py --mode run-only --strategy stratified --n-samples 50
+## Research Questions
+
+### RQ1: Source Selection Prediction
+Can triangle geometry (embedding distances between historians) predict how many sources they'll use?
+
+- **Features**: sides, angles, area, perimeter of historian embedding triangle
+- **Target**: n_sources_used per experiment
+- **Models**: RandomForest, GradientBoosting, Ridge
+
+### RQ2: Perplexity Prediction
+Can the same geometry predict abstract quality/novelty (measured via perplexity)?
+
+- **Features**: same geometry features
+- **Target**: abstract perplexity score
+- **Models**: same regression models
+
+## File Structure
+
+```
+multiagent_interaction/
+├── personas/
+│   ├── historian_manager.py        # Real historian personas (OpenAlex)
+│   └── historian_personas.json     # 25 real historians with embeddings
+├── sources/
+│   └── source_library.py           # FAISS + lazy metadata loading
+├── agents/
+│   └── multi_agent_system.py       # LangGraph dialogue system
+├── experiments/
+│   └── experiment_runner.py        # Main experiment orchestrator
+├── analysis/
+│   └── prediction_analysis.py      # Prediction models (Pipeline 1)
+├── visualization/
+│   ├── generate_all.py             # Master visualization generator
+│   ├── geometry_viz.py             # Triangle geometry plots
+│   ├── prediction_viz.py           # Prediction results
+│   └── experiment_viz.py           # Experiment dynamics
+├── test_integration.py             # Tests
+├── test_prediction_analysis.py
+├── test_visualizations.py
+└── config/
+    └── config.yaml                 # Configuration
 ```
 
-**Step 3: Analyze Results**
-```bash
-python run_experiment.py --mode analyze-only
-```
+## Configuration
 
-## Components
-
-### 1. Persona Manager
-
-Manages historian personas defined by:
-- **Field**: social_history, political_history, cultural_history, etc.
-- **Method**: quantitative, qualitative, comparative, microhistory, etc.
-- **Era**: ancient, medieval, early_modern, modern, contemporary
-- **Theoretical Orientation**: marxist, poststructuralist, feminist, postcolonial, etc.
-
-```python
-from personas import PersonaManager
-
-manager = PersonaManager()
-personas = manager.create_persona_grid()  # Full factorial
-groups = manager.generate_stratified_groups(group_size=3, n_samples=100)
-```
-
-### 2. Source Library
-
-FAISS-based vector database for primary sources with:
-- Semantic search using sentence transformers
-- Access logging for causal analysis
-- Support for multimodal documents (text, image captions, transcripts)
-
-```python
-from sources import SourceLibrary, PrimarySource
-
-library = SourceLibrary()
-library.initialize_embedding_model()
-
-# Search for relevant sources
-results = library.search("labor movements", k=5, agent_id="historian_001")
-```
-
-### 3. Multi-Agent Dialogue System
-
-LangGraph-based stateful dialogue where agents can:
-
-**Actions**:
-- `SPEAK`: Share thoughts and arguments
-- `SEARCH`: Query the source library
-- `READ`: Read a source in detail
-- `PROPOSE`: Propose research question/thesis
-- `CRITIQUE`: Critique another's proposal
-- `CONCLUDE`: Signal consensus
-
-```python
-from agents import MultiAgentDialogueSystem
-
-system = MultiAgentDialogueSystem()
-final_state = system.run_experiment(personas, experiment_id="exp_001")
-
-# Access results
-print(final_state.final_question)
-print(final_state.sources_accessed)
-print(final_state.messages)  # Full chat history
-```
-
-### 4. Experiment Runner
-
-Orchestrates factorial design experiments:
-
-```python
-from experiments import ExperimentRunner
-
-runner = ExperimentRunner()
-runner.setup_personas(strategy="stratified", n_samples=50)
-runner.setup_source_library()
-runner.run_all_experiments()
-
-# Export results
-df = runner.get_results_dataframe()
-df.to_csv("results.csv")
-```
-
-### 5. Causal Analysis
-
-Implements:
-- **Sparse Autoencoder (SAE)**: Learn latent representations of source selection patterns
-- **Double Debiasing**: Reduce bias in treatment effect estimation
-- **Feature Importance**: Identify which persona characteristics matter most
-
-```python
-from analysis import ExperimentAnalyzer
-
-analyzer = ExperimentAnalyzer()
-analyzer.load_results("outputs/results.csv")
-analyzer.load_detailed_results("outputs/")
-
-# Analyze RQ1: Source selection patterns
-rq1_results = analyzer.analyze_rq1_source_selection()
-
-# Analyze RQ2: Optimal configurations
-rq2_results = analyzer.analyze_rq2_optimal_configurations()
-
-# Generate full report
-report = analyzer.generate_report("outputs/analysis_report.json")
-```
-
-## Output Structure
-
-Each experiment produces:
-
-```json
-{
-  "experiment_id": "exp_00042",
-  "group_composition": [
-    {
-      "persona_id": "historian_0123",
-      "field": "social_history",
-      "method": "quantitative",
-      "era": "modern",
-      "theoretical_orientation": "marxist"
-    },
-    // ... 2 more agents
-  ],
-  "chat_history": [
-    {
-      "agent_id": "historian_0123",
-      "action_type": "search",
-      "content": "labor strikes 1890s",
-      "timestamp": "2026-03-09T10:30:45"
-    },
-    // ... all dialogue turns
-  ],
-  "sources_accessed": [
-    {
-      "source_id": "source_0045",
-      "title": "Miners' Strike of 1894",
-      "content": "..."
-    }
-  ],
-  "final_question": "How did...",
-  "final_abstract": "This research examines...",
-  "turn_count": 42,
-  "consensus_reached": true
-}
-```
-
-## Analysis Report
-
-The causal analysis produces:
-
-```json
-{
-  "rq1_source_selection": {
-    "n_tests": 384,
-    "n_significant": 47,
-    "significant_effects": [
-      {
-        "agent": 0,
-        "dimension": "theoretical_orientation",
-        "latent_dim": 3,
-        "effect": 0.245,
-        "p_value": 0.003
-      }
-    ]
-  },
-  "rq2_optimal_configurations": {
-    "novelty_combined": {
-      "feature_importance": [...],
-      "r2_score": 0.67,
-      "top_configurations": [...]
-    }
-  }
-}
-```
-
-## Customization
-
-### Custom Personas
-
-Edit `config/config.yaml` to add new persona dimensions:
-
+`config/config.yaml`:
 ```yaml
-personas:
-  fields:
-    - "digital_history"  # Add new field
-    - "public_history"
+sources:
+  embedding_model: "sentence-transformers/all-mpnet-base-v2"
+  index_path: "../data/index"       # Points to historian_pipeline data
+  metadata_path: "../data/raw"
+
+llm:
+  provider: "anthropic"
+  model: "claude-sonnet-4-6"
+  temperature: 0.7
+
+experiment:
+  n_agents_per_group: 3
+  max_dialogue_turns: 50
 ```
 
-### Custom Source Library
+## Data Integration
 
-```python
-from sources import SourceLibrary, PrimarySource
+Uses real corpus from `historiography_agents/data/`:
+- FAISS index: `../data/index/corpus.faiss`
+- Metadata: `../data/raw/*/metadata/*.json`
+- Sources: Chronicling America, Internet Archive, NARA
 
-library = SourceLibrary()
-library.initialize_embedding_model()
-
-# Add your sources
-sources = [
-    PrimarySource(
-        source_id="custom_001",
-        title="Your Document",
-        content="Document text...",
-        source_type="text",
-        metadata={"year": 1920, "author": "..."}
-    )
-]
-
-library.add_sources_batch(sources)
-library.save_index()
-```
-
-### Custom Agent Behavior
-
-Modify the system prompt in `agents/multi_agent_system.py`:
-
-```python
-def get_system_prompt(self) -> str:
-    return f"""You are a historian specialized in {self.persona.field}...
-
-    Additional instructions:
-    - Always cite sources
-    - Consider counterfactuals
-    ...
-    """
-```
-
-## Advanced Usage
-
-### Resume Interrupted Experiments
+## Dependencies
 
 ```bash
-python run_experiment.py --mode run-only --start-from 25
+pip install anthropic langchain-anthropic langgraph faiss-cpu \
+  sentence-transformers pandas numpy scikit-learn matplotlib \
+  seaborn tqdm pyyaml
 ```
 
-### Use Custom Configuration
+## Output
+
+After running experiments:
+```
+outputs/
+├── results.csv                  # Summary of all experiments
+├── exp_00000.json              # Detailed transcript for each
+├── exp_00001.json
+├── ...
+├── prediction_report.json      # Analysis results
+├── correlations.csv            # Feature correlations
+└── figures/                    # 50+ visualizations
+    ├── geometry_*.png
+    ├── prediction_*.png
+    └── experiment_*.png
+```
+
+## Testing
 
 ```bash
-python run_experiment.py --config my_config.yaml
+# Test with mock data
+python test_integration.py
+python test_prediction_analysis.py
+python test_visualizations.py
 ```
 
-### Analyze Specific Outcomes
+## Time Estimates
 
-```python
-analyzer = ExperimentAnalyzer()
-analyzer.load_results("outputs/results.csv")
+| Experiments | Duration | API Calls |
+|-------------|----------|-----------|
+| 10          | 30-90 min | ~750 |
+| 50          | 2.5-7.5 hrs | ~3,750 |
+| 100         | 5-15 hrs | ~7,500 |
 
-# Custom analysis
-quality_metrics = analyzer.compute_thesis_quality_metrics()
-print(quality_metrics.describe())
+## Clean Architecture
 
-# Train SAE on custom features
-analyzer.train_sae(latent_dim=64)
-latent = analyzer.get_latent_representations()
-```
-
-## Research Questions Addressed
-
-### RQ1: Differential Source Selection
-
-The system tracks which sources each agent accesses during dialogue and uses:
-
-1. **SAE** to learn latent representations of source selection patterns
-2. **Double Debiasing** to estimate causal effects of persona characteristics on latent dimensions
-3. **Feature importance** to rank which persona combinations drive different selection behaviors
-
-**Key Insights**:
-- Do marxist historians select different economic sources than poststructuralists?
-- Do quantitative methods lead to broader or narrower source usage?
-- How does field specialization interact with theoretical orientation?
-
-### RQ2: Optimal Configurations for Quality
-
-The system measures thesis outcomes via:
-
-1. **Novelty**: Embedding distance from other theses (semantic uniqueness)
-2. **Perplexity**: Language model surprise (complexity/unexpectedness)
-3. **Quality**: Composite score including source diversity and argumentation
-
-Then identifies which persona configurations maximize these outcomes.
-
-**Key Insights**:
-- Do diverse groups (mixed fields/methods) produce more novel theses?
-- Which specific combinations yield highest quality?
-- Is there a trade-off between novelty and consensus speed?
-
-## Theory of Change
-
-The system implements:
-
-**Inductive Reasoning**: Agents search sources → observe patterns → form hypotheses
-
-**Deductive Reasoning**: Agents propose theses → search for evidence → test predictions
-
-**Mixed Approach**: Iterative dialogue allows both:
-- Bottom-up pattern discovery from corpus
-- Top-down hypothesis refinement through critique
-- Emergent synthesis via collaborative reasoning
-
-This prevents pre-selection bias (picking sources for a predetermined thesis) while enabling structured argumentation.
-
-## Performance Notes
-
-- Full factorial design with 7 fields × 5 methods × 5 eras × 7 orientations = **6,125 personas**
-- Groups of 3 = **~38 billion possible combinations**
-- Use `--strategy stratified` for manageable sampling
-- Each experiment takes ~2-5 minutes depending on:
-  - Number of dialogue turns (10-50)
-  - Source searches per turn (0-3)
-  - LLM latency
-
-**Recommendations**:
-- Start with 20-50 experiments for pilot testing
-- Scale to 500+ for robust causal estimates
-- Use GPU for FAISS if corpus > 10K sources
-
-## Troubleshooting
-
-**"Index is empty"**: Run setup first with `--mode setup-only`
-
-**API rate limits**: Reduce `--n-samples` or add delays in `multi_agent_system.py`
-
-**Memory issues**: Reduce `n_sources` or use `faiss-gpu` package
-
-**Convergence issues**: Check `config.yaml` dialogue parameters:
-```yaml
-dialogue:
-  min_turns: 10
-  max_turns: 50  # Increase if agents don't reach consensus
-```
-
-## Citation
-
-If you use this system in your research:
-
-```bibtex
-@software{multiagent_historian_2026,
-  title={Multi-Agent Historian Research Simulation},
-  author={Your Name},
-  year={2026},
-  description={Factorial design experiments with causal inference for
-               analyzing collaborative historical research patterns}
-}
-```
-
-## License
-
-MIT License - See LICENSE file for details
-
-## Contributing
-
-Contributions welcome! Please open issues or pull requests for:
-- Additional persona dimensions
-- Alternative causal inference methods
-- Improved dialogue strategies
-- Enhanced quality metrics
-
-## Acknowledgments
-
-Built with:
-- [LangChain](https://langchain.com/) & [LangGraph](https://langchain-ai.github.io/langgraph/)
-- [FAISS](https://github.com/facebookresearch/faiss)
-- [Sentence Transformers](https://www.sbert.net/)
-- [Claude](https://www.anthropic.com/) (Anthropic) or [GPT-4](https://openai.com/) (OpenAI)
+✅ Single pipeline (prediction-based)
+✅ Real data from historian_pipeline
+✅ No causal inference complexity
+✅ Clear research questions
+✅ Reproducible results

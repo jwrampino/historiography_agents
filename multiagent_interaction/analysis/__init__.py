@@ -1,15 +1,13 @@
-"""Causal analysis and pattern detection."""
+"""Prediction analysis for historian experiments."""
 
-from .causal_analysis import (
-    ExperimentAnalyzer,
-    SparseAutoencoder,
-    DoubleDebiasingEstimator,
-    CausalEstimate
+from .prediction_analysis import (
+    PredictionAnalyzer,
+    PredictionResult,
+    PerplexityCalculator
 )
 
 __all__ = [
-    'ExperimentAnalyzer',
-    'SparseAutoencoder',
-    'DoubleDebiasingEstimator',
-    'CausalEstimate'
+    'PredictionAnalyzer',
+    'PredictionResult',
+    'PerplexityCalculator'
 ]

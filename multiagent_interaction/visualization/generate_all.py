@@ -8,8 +8,8 @@ import pandas as pd
 import numpy as np
 import json
 
-# Add parent to path
-sys.path.append(str(Path(__file__).parent.parent))
+# Add parent directory to path for imports
+sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from visualization import geometry_viz as geom_viz
 from visualization import prediction_viz as pred_viz

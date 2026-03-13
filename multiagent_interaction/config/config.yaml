@@ -42,8 +42,8 @@ personas:
 # FAISS Source Library
 sources:
   embedding_model: "sentence-transformers/all-mpnet-base-v2"
-  index_path: "./sources/faiss_index"
-  metadata_path: "./sources/metadata.json"
+  index_path: "../data/index"
+  metadata_path: "../data/raw"
   chunk_size: 500
   chunk_overlap: 50
 
