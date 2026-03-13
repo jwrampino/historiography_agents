@@ -22,6 +22,8 @@ agents/
 └── run_experiment.py          # Main experiment runner
 ```
 
+#  python -m agents.perplexity_analysis --data-dir data/agent_experiments --output-dir data/perplexity_analysis
+
 ## Installation
 
 ```bash
