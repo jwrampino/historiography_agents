@@ -165,6 +165,10 @@ class FactorialExperimentRunner:
         inference_results = self._run_inference_analysis()
         logger.info(f"Inference analysis complete\n")
 
+        logger.info("Step 6: Running ablation study (source embeddings)...")
+        ablation_results = self._run_ablation_study()
+        logger.info(f"Ablation study complete\n")
+
         elapsed = time.time() - t0
         summary = {
             'n_triads_attempted': len(triads_with_geometry),
@@ -174,7 +178,8 @@ class FactorialExperimentRunner:
             'min_area_filter': self.min_area,
             'max_triads_limit': self.max_triads,
             'prediction_results': prediction_results,
-            'inference_results': inference_results
+            'inference_results': inference_results,
+            'ablation_results': ablation_results
         }
 
         summary_path = self.output_dir / "experiment_summary.json"
@@ -350,6 +355,24 @@ class FactorialExperimentRunner:
 
         if 'interpretation' in results:
             logger.info(f"  {results['interpretation']}")
+
+        return results
+
+    def _run_ablation_study(self) -> dict:
+        df = self.storage.get_convergence_data()
+
+        if len(df) < 4:
+            logger.warning("Insufficient data for ablation study")
+            return {'error': 'insufficient_data'}
+
+        from agents.prediction_model import run_ablation_study
+        results = run_ablation_study(df)
+
+        with open(self.output_dir / "ablation_study.json", 'w') as f:
+            json.dump(results, f, indent=2)
+
+        if 'source_improvement' in results:
+            logger.info(f"  Source features ΔR²={results['source_improvement']['delta_r2']:.4f}")
 
         return results
 

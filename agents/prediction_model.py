@@ -266,5 +266,137 @@ def run_inference_analysis(df: pd.DataFrame) -> Dict:
     except ImportError:
         logger.warning("scipy not available")
         results['error'] = 'scipy_not_available'
- 
+
+    return results
+
+
+def run_ablation_study(df: pd.DataFrame) -> Dict:
+    """
+    Ablation study: compare prediction with/without source embedding features.
+
+    Tests whether source geometry improves convergence prediction beyond
+    just historian triangle geometry and bias metrics.
+
+    Args:
+        df: DataFrame with all features
+
+    Returns:
+        Dict with ablation results
+    """
+    if len(df) < 4:
+        logger.warning("Too few samples for ablation study")
+        return {'error': 'insufficient_samples'}
+
+    try:
+        from sklearn.linear_model import RidgeCV
+        from sklearn.preprocessing import StandardScaler
+        from sklearn.model_selection import cross_val_score
+        from sklearn.metrics import r2_score, mean_absolute_error
+    except ImportError:
+        logger.warning("scikit-learn required for ablation study")
+        return {'error': 'sklearn_not_available'}
+
+    y = df['convergence_delta'].values
+
+    # Feature sets
+    baseline_features = ['perimeter', 'area', 'angle_variance', 'mean_historian_distance']
+
+    extended_features = baseline_features.copy()
+    if 'abstract_distance_variance' in df.columns:
+        extended_features.extend(['abstract_distance_variance', 'mean_pairwise_abstract_similarity'])
+    if 'bias_score' in df.columns:
+        extended_features.extend(['bias_score', 'dominant_historian_position'])
+
+    source_features = []
+    if 'mean_source_embedding_distance' in df.columns:
+        source_features.append('mean_source_embedding_distance')
+    if 'source_embedding_variance' in df.columns:
+        source_features.append('source_embedding_variance')
+
+    full_features = extended_features + source_features
+
+    # Filter available features
+    baseline_features = [f for f in baseline_features if f in df.columns]
+    extended_features = [f for f in extended_features if f in df.columns]
+    full_features = [f for f in full_features if f in df.columns]
+
+    results = {
+        'n_samples': len(df),
+        'baseline_features': baseline_features,
+        'extended_features': extended_features,
+        'source_features': source_features,
+        'full_features': full_features
+    }
+
+    # Train models
+    models = {
+        'baseline': baseline_features,
+        'extended': extended_features,
+        'full': full_features
+    }
+
+    for model_name, features in models.items():
+        if len(features) == 0:
+            continue
+
+        X = df[features].values
+
+        # Remove rows with NaN
+        mask = ~np.isnan(X).any(axis=1) & ~np.isnan(y)
+        X_clean = X[mask]
+        y_clean = y[mask]
+
+        if len(X_clean) < 4:
+            continue
+
+        # Standardize
+        scaler = StandardScaler()
+        X_scaled = scaler.fit_transform(X_clean)
+
+        # Fit model
+        model = RidgeCV(alphas=[0.01, 0.1, 1.0, 10.0, 100.0], cv=min(5, len(y_clean)))
+        model.fit(X_scaled, y_clean)
+
+        # Metrics
+        y_pred = model.predict(X_scaled)
+        r2 = r2_score(y_clean, y_pred)
+        mae = mean_absolute_error(y_clean, y_pred)
+        rmse = float(np.sqrt(np.mean((y_clean - y_pred) ** 2)))
+
+        # Cross-validation score
+        cv_scores = cross_val_score(model, X_scaled, y_clean, cv=min(5, len(y_clean)), scoring='r2')
+
+        results[f'{model_name}_model'] = {
+            'n_features': len(features),
+            'n_samples_used': int(len(y_clean)),
+            'r2': float(r2),
+            'mae': float(mae),
+            'rmse': float(rmse),
+            'cv_r2_mean': float(cv_scores.mean()),
+            'cv_r2_std': float(cv_scores.std()),
+            'alpha': float(model.alpha_)
+        }
+
+    # Compute improvements
+    if 'baseline_model' in results and 'extended_model' in results:
+        results['extended_improvement'] = {
+            'delta_r2': results['extended_model']['r2'] - results['baseline_model']['r2'],
+            'delta_mae': results['extended_model']['mae'] - results['baseline_model']['mae'],
+            'pct_r2_improvement': 100 * (results['extended_model']['r2'] - results['baseline_model']['r2']) / max(0.01, abs(results['baseline_model']['r2']))
+        }
+
+    if 'extended_model' in results and 'full_model' in results and source_features:
+        results['source_improvement'] = {
+            'delta_r2': results['full_model']['r2'] - results['extended_model']['r2'],
+            'delta_mae': results['full_model']['mae'] - results['extended_model']['mae'],
+            'pct_r2_improvement': 100 * (results['full_model']['r2'] - results['extended_model']['r2']) / max(0.01, abs(results['extended_model']['r2'])),
+            'interpretation': 'Positive delta_r2 means source embeddings improve prediction'
+        }
+
+    logger.info(
+        f"Ablation: baseline R²={results.get('baseline_model', {}).get('r2', 0):.3f}, "
+        f"extended R²={results.get('extended_model', {}).get('r2', 0):.3f}, "
+        f"full R²={results.get('full_model', {}).get('r2', 0):.3f}"
+    )
+
     return results

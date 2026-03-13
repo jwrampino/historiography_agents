@@ -261,6 +261,76 @@ def analyze_correlations(df: pd.DataFrame) -> pd.DataFrame:
     return corr_df
 
 
+def analyze_source_geometry_correlations(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    NEW COMPARATIVE ANALYSIS: Analyze correlations between perplexity and source geometry.
+
+    Tests hypothesis: More diverse sources → more complex/uncertain language?
+
+    Args:
+        df: Merged DataFrame with perplexity and source geometry features
+
+    Returns:
+        DataFrame of correlations between perplexity and source features
+    """
+    logger.info("Analyzing perplexity vs source geometry correlations...")
+
+    perplexity_cols = [
+        'proposal_ppl_mean', 'proposal_ppl_std', 'synthesis_ppl', 'ppl_delta'
+    ]
+
+    source_cols = [
+        'mean_source_embedding_distance', 'source_embedding_variance'
+    ]
+
+    # Filter to available columns
+    perplexity_cols = [c for c in perplexity_cols if c in df.columns]
+    source_cols = [c for c in source_cols if c in df.columns]
+
+    if not source_cols:
+        logger.warning("No source geometry columns found")
+        return pd.DataFrame()
+
+    correlations = []
+    for ppl_col in perplexity_cols:
+        for source_col in source_cols:
+            if df[ppl_col].notna().sum() > 0 and df[source_col].notna().sum() > 0:
+                corr = df[ppl_col].corr(df[source_col])
+                correlations.append({
+                    'perplexity_feature': ppl_col,
+                    'source_feature': source_col,
+                    'correlation': corr,
+                    'interpretation': _interpret_ppl_source_corr(ppl_col, source_col, corr)
+                })
+
+    corr_df = pd.DataFrame(correlations)
+    if len(corr_df) > 0:
+        corr_df = corr_df.sort_values('correlation', key=abs, ascending=False)
+
+    return corr_df
+
+
+def _interpret_ppl_source_corr(ppl_col: str, source_col: str, corr: float) -> str:
+    """Generate interpretation for perplexity-source correlation."""
+    if abs(corr) < 0.1:
+        return "No meaningful correlation"
+
+    direction = "positive" if corr > 0 else "negative"
+
+    if "distance" in source_col:
+        if corr > 0:
+            return "More diverse sources → higher perplexity (more uncertain language)"
+        else:
+            return "More diverse sources → lower perplexity (simpler language)"
+    elif "variance" in source_col:
+        if corr > 0:
+            return "Higher source diversity variance → higher perplexity"
+        else:
+            return "Higher source diversity variance → lower perplexity"
+
+    return f"{direction.capitalize()} correlation"
+
+
 def create_visualizations(df: pd.DataFrame, output_dir: Path):
     """
     Create visualization plots.
@@ -449,6 +519,19 @@ def run_analysis(data_dir: Path, output_dir: Path, model_name: str = "gpt2"):
         print("=" * 60)
         print(corr_df.head(10).to_string(index=False))
         print("=" * 60 + "\n")
+
+        # NEW: Analyze source geometry correlations
+        source_corr_df = analyze_source_geometry_correlations(merged_df)
+        if len(source_corr_df) > 0:
+            source_corr_csv = output_dir / 'perplexity_source_correlations.csv'
+            source_corr_df.to_csv(source_corr_csv, index=False)
+            logger.info(f"Saved source geometry correlations to {source_corr_csv}")
+
+            print("\n" + "=" * 60)
+            print("PERPLEXITY vs SOURCE GEOMETRY CORRELATIONS")
+            print("=" * 60)
+            print(source_corr_df.to_string(index=False))
+            print("=" * 60 + "\n")
 
         # Create visualizations
         create_visualizations(merged_df, output_dir)
