@@ -346,18 +346,36 @@ class ExperimentStorage:
         temperature: float
     ) -> None:
         """Log an LLM interaction for checkpoint tracking."""
-        self.con.execute("""
-            INSERT INTO llm_interactions (
+        # Clean Unicode - remove problematic control characters
+        def clean_text(text: str) -> str:
+            if not text:
+                return text
+            import unicodedata
+            # Remove zero-width and other control characters (keep newlines/tabs)
+            cleaned = ''.join(
+                char for char in text
+                if unicodedata.category(char)[0] != 'C' or char in '\n\r\t'
+            )
+            return cleaned
+
+        try:
+            self.con.execute("""
+                INSERT INTO llm_interactions (
+                    triad_id, interaction_type, historian_name, historian_position,
+                    system_prompt, user_prompt, llm_response,
+                    model_name, temperature
+                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+            """, [
                 triad_id, interaction_type, historian_name, historian_position,
-                system_prompt, user_prompt, llm_response,
+                clean_text(system_prompt), clean_text(user_prompt), clean_text(llm_response),
                 model_name, temperature
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
-        """, [
-            triad_id, interaction_type, historian_name, historian_position,
-            system_prompt, user_prompt, llm_response,
-            model_name, temperature
-        ])
-        self.con.commit()
+            ])
+            self.con.commit()
+        except Exception as e:
+            # If checkpoint fails, log but don't crash experiment
+            import logging
+            logger = logging.getLogger(__name__)
+            logger.warning(f"Failed to log LLM interaction (Unicode issue): {str(e)[:100]}")
 
     def insert_source_geometry(
         self,

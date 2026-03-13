@@ -149,25 +149,36 @@ SELECTED SOURCES:
                 content = response.choices[0].message.content
                 parsed = self._parse_individual_proposal(content)
 
-                # Checkpoint: Log LLM interaction immediately
+                # Checkpoint: Log LLM interaction immediately (handle Unicode safely)
                 if self.storage and self._current_triad_id is not None:
-                    self.storage.insert_llm_interaction(
-                        triad_id=self._current_triad_id,
-                        interaction_type='individual_proposal',
-                        historian_name=self._current_historian_name,
-                        historian_position=self._current_historian_position,
-                        system_prompt=system_message,
-                        user_prompt=user_message,
-                        llm_response=content,
-                        model_name=self.model,
-                        temperature=temperature
-                    )
+                    try:
+                        # Extract text from user_message if it's multimodal
+                        if isinstance(user_message, list):
+                            user_text = next((item['text'] for item in user_message if item.get('type') == 'text'), '')
+                        else:
+                            user_text = user_message
+
+                        self.storage.insert_llm_interaction(
+                            triad_id=self._current_triad_id,
+                            interaction_type='individual_proposal',
+                            historian_name=self._current_historian_name,
+                            historian_position=self._current_historian_position,
+                            system_prompt=system_message,
+                            user_prompt=user_text,
+                            llm_response=content,
+                            model_name=self.model,
+                            temperature=temperature
+                        )
+                    except Exception as checkpoint_err:
+                        logger.warning(f"Checkpoint logging failed: {checkpoint_err}")
 
                 logger.info(f"Generated individual proposal (attempt {attempt + 1})")
                 return parsed
 
             except Exception as e:
-                logger.warning(f"Proposal generation failed (attempt {attempt + 1}): {e}")
+                # Clean error message for logging (Windows console can't handle some Unicode)
+                error_msg = str(e).encode('ascii', errors='replace').decode('ascii')
+                logger.warning(f"Proposal generation failed (attempt {attempt + 1}): {error_msg}")
                 if attempt < max_retries - 1:
                     time.sleep(2 ** attempt)  # Exponential backoff
                 else:
@@ -246,25 +257,30 @@ FINAL SOURCES:
                 content = response.choices[0].message.content
                 parsed = self._parse_synthesis(content)
 
-                # Checkpoint: Log LLM interaction immediately
+                # Checkpoint: Log LLM interaction immediately (handle Unicode safely)
                 if self.storage and self._current_triad_id is not None:
-                    self.storage.insert_llm_interaction(
-                        triad_id=self._current_triad_id,
-                        interaction_type='synthesis',
-                        historian_name='group_synthesis',
-                        historian_position=0,
-                        system_prompt=system_message,
-                        user_prompt=user_message,
-                        llm_response=content,
-                        model_name=self.model,
-                        temperature=temperature
-                    )
+                    try:
+                        self.storage.insert_llm_interaction(
+                            triad_id=self._current_triad_id,
+                            interaction_type='synthesis',
+                            historian_name='group_synthesis',
+                            historian_position=0,
+                            system_prompt=system_message,
+                            user_prompt=user_message,
+                            llm_response=content,
+                            model_name=self.model,
+                            temperature=temperature
+                        )
+                    except Exception as checkpoint_err:
+                        logger.warning(f"Checkpoint logging failed: {checkpoint_err}")
 
                 logger.info(f"Generated synthesis (attempt {attempt + 1})")
                 return parsed
 
             except Exception as e:
-                logger.warning(f"Synthesis generation failed (attempt {attempt + 1}): {e}")
+                # Clean error message for logging (Windows console can't handle some Unicode)
+                error_msg = str(e).encode('ascii', errors='replace').decode('ascii')
+                logger.warning(f"Synthesis generation failed (attempt {attempt + 1}): {error_msg}")
                 if attempt < max_retries - 1:
                     time.sleep(2 ** attempt)
                 else:

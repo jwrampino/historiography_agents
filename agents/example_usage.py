@@ -83,7 +83,10 @@ def example_source_retrieval():
             src = packet['text_sources'][0]
             print(f"  Title: {src['title']}")
             print(f"  Institution: {src['institution']}")
-            print(f"  Similarity: {src['similarity_score']:.3f}")
+            if src['similarity_score'] is not None:
+                print(f"  Similarity: {src['similarity_score']:.3f}")
+            else:
+                print(f"  Sampling: Random")
 
     except Exception as e:
         print(f"⚠ Retrieval failed (corpus may not be built): {e}")

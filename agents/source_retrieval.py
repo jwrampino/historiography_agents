@@ -270,26 +270,118 @@ class SourceRetriever:
 
         return sources
 
+    def retrieve_random_text_sources(self, n_sources: int = 3) -> List[Dict]:
+        """
+        Randomly sample text sources from corpus (NO query-based retrieval).
+
+        Args:
+            n_sources: Number of text sources to retrieve
+
+        Returns:
+            List of randomly sampled text source dicts
+        """
+        import random
+
+        # Get all text sources from corpus
+        all_items = list(self.store.get_all_items())
+        text_items = [item for item in all_items if item.modality == 'text']
+
+        if len(text_items) == 0:
+            logger.warning("No text sources found in corpus")
+            return []
+
+        # Randomly sample
+        n_samples = min(n_sources, len(text_items))
+        sampled_items = random.sample(text_items, n_samples)
+
+        sources = []
+        for item in sampled_items:
+            text_content = self._get_item_text(item)
+            sources.append({
+                'source_id': item.source_id,
+                'title': item.title,
+                'institution': item.institution,
+                'date_original': item.date_original,
+                'text': text_content,
+                'url': item.url_original,
+                'similarity_score': None,  # No semantic similarity in random sampling
+                'modality': 'text'
+            })
+
+        logger.info(f"Randomly sampled {len(sources)} text sources")
+        return sources
+
+    def retrieve_random_image_sources(self, n_sources: int = 2, download: bool = True) -> List[Dict]:
+        """
+        Randomly sample image sources from corpus (NO query-based retrieval).
+
+        Args:
+            n_sources: Number of image sources to retrieve
+            download: Whether to download images
+
+        Returns:
+            List of randomly sampled image source dicts
+        """
+        import random
+
+        # Get all image sources from corpus
+        all_items = list(self.store.get_all_items())
+        image_items = [item for item in all_items if item.modality == 'image']
+
+        if len(image_items) == 0:
+            logger.warning("No image sources found in corpus")
+            return []
+
+        # Randomly sample
+        n_samples = min(n_sources, len(image_items))
+        sampled_items = random.sample(image_items, n_samples)
+
+        sources = []
+        for item in sampled_items:
+            # Download image if requested
+            local_path = None
+            if download and item.url_original:
+                local_path = self._download_image(item.url_original, item.source_id)
+
+            sources.append({
+                'source_id': item.source_id,
+                'title': item.title,
+                'institution': item.institution,
+                'date_original': item.date_original,
+                'url': item.url_original,
+                'local_path': str(local_path) if local_path else None,
+                'similarity_score': None,  # No semantic similarity in random sampling
+                'modality': 'image'
+            })
+
+        logger.info(f"Randomly sampled {len(sources)} image sources")
+        return sources
+
     def retrieve_source_packet(
-        self, papers: List[Dict], n_text: int = 3, n_images: int = 2
+        self, papers: List[Dict], n_text: int = 3, n_images: int = 2, random_sampling: bool = True
     ) -> Dict[str, List[Dict]]:
         """
         Retrieve a full source packet for a historian.
 
         Args:
-            papers: Historian's papers (for deriving query)
+            papers: Historian's papers (for deriving query if random_sampling=False)
             n_text: Number of text sources
             n_images: Number of image sources
+            random_sampling: If True, randomly sample sources; if False, use query-based retrieval
 
         Returns:
             Dict with 'text_sources' and 'image_sources'
         """
-        # Generate query from papers
-        query = self.generate_retrieval_query(papers)
-
-        # Retrieve sources
-        text_sources = self.retrieve_text_sources(query, n_sources=n_text)
-        image_sources = self.retrieve_image_sources(query, n_sources=n_images)
+        if random_sampling:
+            # NEW: Random sampling (no query needed, each historian gets different sources)
+            text_sources = self.retrieve_random_text_sources(n_sources=n_text)
+            image_sources = self.retrieve_random_image_sources(n_sources=n_images)
+            query = "random_sampling"
+        else:
+            # OLD: Query-based semantic search
+            query = self.generate_retrieval_query(papers)
+            text_sources = self.retrieve_text_sources(query, n_sources=n_text)
+            image_sources = self.retrieve_image_sources(query, n_sources=n_images)
 
         return {
             'query': query,
