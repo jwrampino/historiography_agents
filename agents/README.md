@@ -29,7 +29,7 @@ agents/
 pip install -r agents/requirements.txt
 
 # Set OpenAI API key
-export OPENAI_API_KEY="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"
+export OPENAI_API_KEY="set_key"
 ```
 
 ## Quick Start
