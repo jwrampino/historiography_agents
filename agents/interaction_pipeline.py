@@ -88,6 +88,10 @@ class InteractionPipeline:
             f"{historian_names[0]}, {historian_names[1]}, {historian_names[2]}"
         )
 
+        # Set triad context for LLM checkpoint logging
+        if hasattr(self.llm, 'set_context'):
+            self.llm._current_triad_id = triad_id
+
         try:
             # Stage 0: Retrieve sources for each historian
             source_packets = self._retrieve_sources(
@@ -189,6 +193,15 @@ class InteractionPipeline:
 
             # Format sources for prompt
             sources_text = self.retriever.format_sources_for_agent(packet)
+
+            # Set context for checkpoint logging
+            if hasattr(self.llm, 'set_context'):
+                # We'll set triad_id later in run_triad_experiment
+                self.llm.set_context(
+                    triad_id=getattr(self.llm, '_current_triad_id', 0),
+                    historian_name=historian.name,
+                    historian_position=i + 1
+                )
 
             # Generate proposal
             proposal = self.llm.generate_individual_proposal(

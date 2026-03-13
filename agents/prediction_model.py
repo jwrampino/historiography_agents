@@ -50,7 +50,12 @@ class ConvergencePredictionModel:
         for col in ['bias_score', 'dominant_historian_position']:
             if col in df.columns:
                 feature_names.append(col)
- 
+
+        # Add source embedding features if present
+        for col in ['mean_source_embedding_distance', 'source_embedding_variance']:
+            if col in df.columns:
+                feature_names.append(col)
+
         X = df[feature_names].values
         return X, feature_names
  

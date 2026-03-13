@@ -14,13 +14,14 @@ logger = logging.getLogger(__name__)
 class AgentLLM:
     """Interface to OpenAI GPT-4o for historian agent reasoning."""
 
-    def __init__(self, api_key: Optional[str] = None, model: str = "gpt-4o"):
+    def __init__(self, api_key: Optional[str] = None, model: str = "gpt-4o", storage=None):
         """
         Initialize LLM interface.
 
         Args:
             api_key: OpenAI API key (defaults to OPENAI_API_KEY env var)
             model: Model name (default: gpt-4o)
+            storage: ExperimentStorage instance for checkpoint logging (optional)
         """
         self.api_key = api_key or os.getenv("OPENAI_API_KEY")
         if not self.api_key:
@@ -30,7 +31,11 @@ class AgentLLM:
             )
 
         self.model = model
+        self.storage = storage
         self._client = None
+        self._current_triad_id = None
+        self._current_historian_name = None
+        self._current_historian_position = None
 
     @property
     def client(self):
@@ -45,6 +50,14 @@ class AgentLLM:
                     "openai package required: pip install openai"
                 )
         return self._client
+
+    def set_context(
+        self, triad_id: int, historian_name: str = "", historian_position: int = 0
+    ):
+        """Set context for checkpoint logging."""
+        self._current_triad_id = triad_id
+        self._current_historian_name = historian_name
+        self._current_historian_position = historian_position
 
     def generate_individual_proposal(
         self,
@@ -102,6 +115,20 @@ SELECTED SOURCES:
 
                 content = response.choices[0].message.content
                 parsed = self._parse_individual_proposal(content)
+
+                # Checkpoint: Log LLM interaction immediately
+                if self.storage and self._current_triad_id is not None:
+                    self.storage.insert_llm_interaction(
+                        triad_id=self._current_triad_id,
+                        interaction_type='individual_proposal',
+                        historian_name=self._current_historian_name,
+                        historian_position=self._current_historian_position,
+                        system_prompt=system_message,
+                        user_prompt=user_message,
+                        llm_response=content,
+                        model_name=self.model,
+                        temperature=temperature
+                    )
 
                 logger.info(f"Generated individual proposal (attempt {attempt + 1})")
                 return parsed
@@ -185,6 +212,20 @@ FINAL SOURCES:
 
                 content = response.choices[0].message.content
                 parsed = self._parse_synthesis(content)
+
+                # Checkpoint: Log LLM interaction immediately
+                if self.storage and self._current_triad_id is not None:
+                    self.storage.insert_llm_interaction(
+                        triad_id=self._current_triad_id,
+                        interaction_type='synthesis',
+                        historian_name='group_synthesis',
+                        historian_position=0,
+                        system_prompt=system_message,
+                        user_prompt=user_message,
+                        llm_response=content,
+                        model_name=self.model,
+                        temperature=temperature
+                    )
 
                 logger.info(f"Generated synthesis (attempt {attempt + 1})")
                 return parsed

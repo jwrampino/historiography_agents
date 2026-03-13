@@ -28,6 +28,7 @@ class ExperimentStorage:
         self.con.execute("CREATE SEQUENCE IF NOT EXISTS proposal_id_seq START 1;")
         self.con.execute("CREATE SEQUENCE IF NOT EXISTS synthesis_id_seq START 1;")
         self.con.execute("CREATE SEQUENCE IF NOT EXISTS result_id_seq START 1;")
+        self.con.execute("CREATE SEQUENCE IF NOT EXISTS llm_interaction_id_seq START 1;")
  
         self.con.execute("""
             CREATE TABLE IF NOT EXISTS triads (
@@ -60,6 +61,8 @@ class ExperimentStorage:
                 research_question VARCHAR,
                 abstract TEXT,
                 selected_sources VARCHAR,
+                text_source_ids VARCHAR,
+                image_source_ids VARCHAR,
                 n_text_sources INTEGER,
                 n_image_sources INTEGER,
                 created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
@@ -74,6 +77,8 @@ class ExperimentStorage:
                 final_research_question VARCHAR,
                 final_abstract TEXT,
                 final_sources VARCHAR,
+                all_text_source_ids VARCHAR,
+                all_image_source_ids VARCHAR,
                 created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
                 FOREIGN KEY (triad_id) REFERENCES triads(triad_id)
             );
@@ -113,12 +118,32 @@ class ExperimentStorage:
                 bias_weight_3 DOUBLE,
                 dominant_historian_position INTEGER,
                 bias_score DOUBLE,
- 
+
+                -- Source embedding similarity features
+                mean_source_embedding_distance DOUBLE,
+                source_embedding_variance DOUBLE,
+
                 created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
                 FOREIGN KEY (triad_id) REFERENCES triads(triad_id)
             );
         """)
- 
+
+        self.con.execute("""
+            CREATE TABLE IF NOT EXISTS llm_interactions (
+                interaction_id INTEGER PRIMARY KEY DEFAULT nextval('llm_interaction_id_seq'),
+                triad_id INTEGER,
+                interaction_type VARCHAR,
+                historian_name VARCHAR,
+                historian_position INTEGER,
+                system_prompt TEXT,
+                user_prompt TEXT,
+                llm_response TEXT,
+                model_name VARCHAR,
+                temperature DOUBLE,
+                created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+            );
+        """)
+
         self.con.commit()
         logger.info(f"Initialized experiment database at {self.db_path}")
  
@@ -158,36 +183,58 @@ class ExperimentStorage:
         position: int,
         proposal: Dict,
         n_text_sources: int,
-        n_image_sources: int
+        n_image_sources: int,
+        text_source_ids: Optional[List[str]] = None,
+        image_source_ids: Optional[List[str]] = None
     ) -> None:
+        # Convert source ID lists to comma-separated strings
+        text_ids_str = ','.join(text_source_ids) if text_source_ids else ''
+        image_ids_str = ','.join(image_source_ids) if image_source_ids else ''
+
         self.con.execute("""
             INSERT INTO proposals (
                 triad_id, historian_name, historian_position,
                 research_question, abstract, selected_sources,
+                text_source_ids, image_source_ids,
                 n_text_sources, n_image_sources
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, [
             triad_id, historian_name, position,
             proposal['research_question'],
             proposal['abstract'],
             proposal['selected_sources'],
+            text_ids_str, image_ids_str,
             n_text_sources, n_image_sources
         ])
         self.con.commit()
  
-    def insert_synthesis(self, triad_id: int, synthesis: Dict) -> None:
+    def insert_synthesis(
+        self,
+        triad_id: int,
+        synthesis: Dict,
+        all_text_source_ids: Optional[List[str]] = None,
+        all_image_source_ids: Optional[List[str]] = None
+    ) -> None:
+        # Convert source ID lists to comma-separated strings
+        text_ids_str = ','.join(all_text_source_ids) if all_text_source_ids else ''
+        image_ids_str = ','.join(all_image_source_ids) if all_image_source_ids else ''
+
         self.con.execute("""
             INSERT INTO synthesis (
                 triad_id,
                 final_research_question,
                 final_abstract,
-                final_sources
-            ) VALUES (?, ?, ?, ?)
+                final_sources,
+                all_text_source_ids,
+                all_image_source_ids
+            ) VALUES (?, ?, ?, ?, ?, ?)
         """, [
             triad_id,
             synthesis['final_research_question'],
             synthesis['final_abstract'],
-            synthesis['final_sources']
+            synthesis['final_sources'],
+            text_ids_str,
+            image_ids_str
         ])
         self.con.commit()
  
@@ -217,8 +264,10 @@ class ExperimentStorage:
                 bias_weight_2,
                 bias_weight_3,
                 dominant_historian_position,
-                bias_score
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                bias_score,
+                mean_source_embedding_distance,
+                source_embedding_variance
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, [
             triad_id,
             metrics['distance_hist1_to_centroid'],
@@ -238,14 +287,42 @@ class ExperimentStorage:
             additional_stats['bias_weight_2'],
             additional_stats['bias_weight_3'],
             additional_stats['dominant_historian_position'],
-            additional_stats['bias_score']
+            additional_stats['bias_score'],
+            additional_stats.get('mean_source_embedding_distance', None),
+            additional_stats.get('source_embedding_variance', None)
         ])
         self.con.commit()
- 
+
+    def insert_llm_interaction(
+        self,
+        triad_id: int,
+        interaction_type: str,
+        historian_name: str,
+        historian_position: int,
+        system_prompt: str,
+        user_prompt: str,
+        llm_response: str,
+        model_name: str,
+        temperature: float
+    ) -> None:
+        """Log an LLM interaction for checkpoint tracking."""
+        self.con.execute("""
+            INSERT INTO llm_interactions (
+                triad_id, interaction_type, historian_name, historian_position,
+                system_prompt, user_prompt, llm_response,
+                model_name, temperature
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+        """, [
+            triad_id, interaction_type, historian_name, historian_position,
+            system_prompt, user_prompt, llm_response,
+            model_name, temperature
+        ])
+        self.con.commit()
+
     def export_to_csv(self, output_dir: str = "data/agent_experiments"):
         output_dir = Path(output_dir)
         output_dir.mkdir(parents=True, exist_ok=True)
-        for table in ['triads', 'proposals', 'synthesis', 'convergence_results']:
+        for table in ['triads', 'proposals', 'synthesis', 'convergence_results', 'llm_interactions']:
             df = self.con.execute(f"SELECT * FROM {table}").fetchdf()
             output_path = output_dir / f"{table}.csv"
             df.to_csv(output_path, index=False)
@@ -269,7 +346,9 @@ class ExperimentStorage:
                 c.bias_weight_2,
                 c.bias_weight_3,
                 c.dominant_historian_position,
-                c.bias_score
+                c.bias_score,
+                c.mean_source_embedding_distance,
+                c.source_embedding_variance
             FROM triads t
             JOIN convergence_results c ON t.triad_id = c.triad_id
             ORDER BY t.triad_id

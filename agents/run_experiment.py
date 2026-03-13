@@ -11,7 +11,7 @@ import sys
 import time
 import json
 from pathlib import Path
-from typing import List
+from typing import List, Dict
  
 from agents.historian_manager import HistorianManager
 from agents.source_retrieval import SourceRetriever
@@ -54,22 +54,24 @@ class ExperimentRunner:
             corpus_store=self.corpus_store,
             corpus_index=self.corpus_index
         )
-        self.agent_llm = AgentLLM(api_key=openai_api_key)
-        self.interaction_pipeline = InteractionPipeline(
-            source_retriever=self.source_retriever,
-            agent_llm=self.agent_llm
-        )
-        self.convergence_analyzer = ConvergenceAnalyzer()
- 
+
         # Delete existing database to start fresh on each run
         db_path = self.output_dir / "experiments.duckdb"
         if db_path.exists():
             db_path.unlink()
             logger.info("Deleted existing experiments database")
- 
+
+        # Initialize storage before AgentLLM for checkpoint logging
         self.storage = ExperimentStorage(
             db_path=str(self.output_dir / "experiments.duckdb")
         )
+
+        self.agent_llm = AgentLLM(api_key=openai_api_key, storage=self.storage)
+        self.interaction_pipeline = InteractionPipeline(
+            source_retriever=self.source_retriever,
+            agent_llm=self.agent_llm
+        )
+        self.convergence_analyzer = ConvergenceAnalyzer()
         self.prediction_model = ConvergencePredictionModel()
  
         logger.info("✓ All components initialized")
@@ -168,22 +170,95 @@ class ExperimentRunner:
             geometry=result.geometry,
             retrieval_query=result.retrieval_query
         )
+        # Collect all source IDs from all historians for synthesis table
+        all_text_ids = []
+        all_image_ids = []
+
         for i, (name, proposal, packet) in enumerate(
             zip(result.historian_names, result.proposals, result.source_packets), 1
         ):
+            # Extract source IDs from packet
+            text_source_ids = [src['source_id'] for src in packet['text_sources']]
+            image_source_ids = [src['source_id'] for src in packet['image_sources']]
+
+            all_text_ids.extend(text_source_ids)
+            all_image_ids.extend(image_source_ids)
+
             self.storage.insert_proposal(
                 triad_id=result.triad_id,
                 historian_name=name,
                 position=i,
                 proposal=proposal,
                 n_text_sources=len(packet['text_sources']),
-                n_image_sources=len(packet['image_sources'])
+                n_image_sources=len(packet['image_sources']),
+                text_source_ids=text_source_ids,
+                image_source_ids=image_source_ids
             )
         self.storage.insert_synthesis(
             triad_id=result.triad_id,
-            synthesis=result.synthesis
+            synthesis=result.synthesis,
+            all_text_source_ids=all_text_ids,
+            all_image_source_ids=all_image_ids
         )
- 
+
+    def _compute_source_embedding_distances(self, source_packets: List[Dict]) -> Dict[str, float]:
+        """
+        Compute pairwise embedding distances between sources assigned to different historians.
+
+        Args:
+            source_packets: List of 3 source packet dicts with text_sources and image_sources
+
+        Returns:
+            Dict with mean_source_embedding_distance and source_embedding_variance
+        """
+        import numpy as np
+
+        try:
+            all_source_ids = []
+            for packet in source_packets:
+                all_source_ids.extend([src['source_id'] for src in packet['text_sources']])
+                all_source_ids.extend([src['source_id'] for src in packet['image_sources']])
+
+            # Load embeddings for all sources from disk
+            embeddings = []
+            embeddings_dir = Path("data/embeddings")
+            for source_id in all_source_ids:
+                # Embeddings are stored as data/embeddings/XX/source_id.npy
+                # where XX is first 2 chars of source_id
+                emb_path = embeddings_dir / source_id[:2] / f"{source_id}.npy"
+                if emb_path.exists():
+                    emb = np.load(emb_path)
+                    embeddings.append(emb)
+
+            if len(embeddings) < 2:
+                return {'mean_source_embedding_distance': None, 'source_embedding_variance': None}
+
+            # Compute pairwise cosine distances
+            embeddings = np.array(embeddings)
+            # Normalize embeddings
+            embeddings = embeddings / np.linalg.norm(embeddings, axis=1, keepdims=True)
+
+            # Compute all pairwise cosine similarities
+            similarities = np.dot(embeddings, embeddings.T)
+            # Convert to distances (1 - similarity)
+            distances = 1.0 - similarities
+
+            # Get upper triangle (excluding diagonal)
+            mask = np.triu(np.ones_like(distances, dtype=bool), k=1)
+            pairwise_distances = distances[mask]
+
+            mean_distance = float(np.mean(pairwise_distances))
+            variance = float(np.var(pairwise_distances))
+
+            return {
+                'mean_source_embedding_distance': mean_distance,
+                'source_embedding_variance': variance
+            }
+
+        except Exception as e:
+            logger.warning(f"Failed to compute source embedding distances: {e}")
+            return {'mean_source_embedding_distance': None, 'source_embedding_variance': None}
+
     def _analyze_convergence(self, results: List[TriadExperimentResult]):
         for result in results:
             if not result.success:
@@ -199,7 +274,11 @@ class ExperimentRunner:
                     final_abstract=final_abstract
                 )
                 additional_stats = self.convergence_analyzer.compute_embedding_stats(metrics)
- 
+
+                # Compute source embedding distances
+                source_embedding_stats = self._compute_source_embedding_distances(result.source_packets)
+                additional_stats.update(source_embedding_stats)
+
                 self.storage.insert_convergence_result(
                     triad_id=result.triad_id,
                     metrics=metrics.to_dict(),
