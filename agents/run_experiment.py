@@ -11,7 +11,7 @@ import sys
 import time
 import json
 from pathlib import Path
-from typing import List, Dict
+from typing import List, Dict, Tuple
  
 from agents.historian_manager import HistorianManager
 from agents.source_retrieval import SourceRetriever
@@ -201,27 +201,40 @@ class ExperimentRunner:
             all_image_source_ids=all_image_ids
         )
 
-    def _compute_source_embedding_distances(self, source_packets: List[Dict]) -> Dict[str, float]:
+    def _compute_source_geometry(
+        self, triad_id: int, source_packets: List[Dict]
+    ) -> Tuple[Dict[str, float], List[str], List[List[float]], Dict[str, float]]:
         """
-        Compute pairwise embedding distances between sources assigned to different historians.
+        Compute comprehensive source geometry including full distance matrix and statistics.
 
         Args:
+            triad_id: Triad ID
             source_packets: List of 3 source packet dicts with text_sources and image_sources
 
         Returns:
-            Dict with mean_source_embedding_distance and source_embedding_variance
+            Tuple of (simple_stats, source_ids, distance_matrix, detailed_stats)
+            - simple_stats: Dict with mean_source_embedding_distance and source_embedding_variance (for backward compat)
+            - source_ids: List of all source IDs
+            - distance_matrix: NxN distance matrix
+            - detailed_stats: Dict with distribution and within/between stats
         """
         import numpy as np
 
         try:
-            all_source_ids = []
-            for packet in source_packets:
-                all_source_ids.extend([src['source_id'] for src in packet['text_sources']])
-                all_source_ids.extend([src['source_id'] for src in packet['image_sources']])
+            # Collect source IDs by historian
+            historian_sources = [
+                [src['source_id'] for src in packet['text_sources']] +
+                [src['source_id'] for src in packet['image_sources']]
+                for packet in source_packets
+            ]
+
+            all_source_ids = [sid for hist_sources in historian_sources for sid in hist_sources]
 
             # Load embeddings for all sources from disk
             embeddings = []
+            valid_source_ids = []
             embeddings_dir = Path("data/embeddings")
+
             for source_id in all_source_ids:
                 # Embeddings are stored as data/embeddings/XX/source_id.npy
                 # where XX is first 2 chars of source_id
@@ -229,9 +242,15 @@ class ExperimentRunner:
                 if emb_path.exists():
                     emb = np.load(emb_path)
                     embeddings.append(emb)
+                    valid_source_ids.append(source_id)
 
             if len(embeddings) < 2:
-                return {'mean_source_embedding_distance': None, 'source_embedding_variance': None}
+                return (
+                    {'mean_source_embedding_distance': None, 'source_embedding_variance': None},
+                    [],
+                    [],
+                    {}
+                )
 
             # Compute pairwise cosine distances
             embeddings = np.array(embeddings)
@@ -243,21 +262,96 @@ class ExperimentRunner:
             # Convert to distances (1 - similarity)
             distances = 1.0 - similarities
 
-            # Get upper triangle (excluding diagonal)
+            # Get upper triangle (excluding diagonal) for summary stats
             mask = np.triu(np.ones_like(distances, dtype=bool), k=1)
             pairwise_distances = distances[mask]
 
-            mean_distance = float(np.mean(pairwise_distances))
-            variance = float(np.var(pairwise_distances))
-
-            return {
-                'mean_source_embedding_distance': mean_distance,
-                'source_embedding_variance': variance
+            # Simple stats for backward compatibility
+            simple_stats = {
+                'mean_source_embedding_distance': float(np.mean(pairwise_distances)),
+                'source_embedding_variance': float(np.var(pairwise_distances))
             }
 
+            # Distribution statistics
+            detailed_stats = {
+                'distance_mean': float(np.mean(pairwise_distances)),
+                'distance_std': float(np.std(pairwise_distances)),
+                'distance_min': float(np.min(pairwise_distances)),
+                'distance_max': float(np.max(pairwise_distances)),
+                'distance_p10': float(np.percentile(pairwise_distances, 10)),
+                'distance_p25': float(np.percentile(pairwise_distances, 25)),
+                'distance_p50': float(np.percentile(pairwise_distances, 50)),
+                'distance_p75': float(np.percentile(pairwise_distances, 75)),
+                'distance_p90': float(np.percentile(pairwise_distances, 90)),
+            }
+
+            # Within vs between historian distances
+            # Build mapping of source_id to index
+            id_to_idx = {sid: idx for idx, sid in enumerate(valid_source_ids)}
+
+            # Get indices for each historian's sources
+            hist_indices = []
+            for hist_sources in historian_sources:
+                indices = [id_to_idx[sid] for sid in hist_sources if sid in id_to_idx]
+                hist_indices.append(indices)
+
+            # Compute within-historian distances
+            within_distances = [[], [], []]
+            for h_idx, indices in enumerate(hist_indices):
+                for i in range(len(indices)):
+                    for j in range(i + 1, len(indices)):
+                        within_distances[h_idx].append(distances[indices[i], indices[j]])
+
+            detailed_stats['within_hist1_mean'] = float(np.mean(within_distances[0])) if within_distances[0] else None
+            detailed_stats['within_hist2_mean'] = float(np.mean(within_distances[1])) if within_distances[1] else None
+            detailed_stats['within_hist3_mean'] = float(np.mean(within_distances[2])) if within_distances[2] else None
+
+            # Compute between-historian distances
+            between_12 = []
+            between_13 = []
+            between_23 = []
+
+            for i in hist_indices[0]:
+                for j in hist_indices[1]:
+                    between_12.append(distances[i, j])
+
+            for i in hist_indices[0]:
+                for j in hist_indices[2]:
+                    between_13.append(distances[i, j])
+
+            for i in hist_indices[1]:
+                for j in hist_indices[2]:
+                    between_23.append(distances[i, j])
+
+            detailed_stats['between_hist12_mean'] = float(np.mean(between_12)) if between_12 else None
+            detailed_stats['between_hist13_mean'] = float(np.mean(between_13)) if between_13 else None
+            detailed_stats['between_hist23_mean'] = float(np.mean(between_23)) if between_23 else None
+
+            # Overall within vs between
+            all_within = [d for within in within_distances for d in within]
+            all_between = between_12 + between_13 + between_23
+
+            detailed_stats['within_mean'] = float(np.mean(all_within)) if all_within else None
+            detailed_stats['between_mean'] = float(np.mean(all_between)) if all_between else None
+
+            if detailed_stats['between_mean'] and detailed_stats['between_mean'] > 0:
+                detailed_stats['within_between_ratio'] = detailed_stats['within_mean'] / detailed_stats['between_mean']
+            else:
+                detailed_stats['within_between_ratio'] = None
+
+            # Convert distance matrix to list of lists for JSON serialization
+            distance_matrix = distances.tolist()
+
+            return (simple_stats, valid_source_ids, distance_matrix, detailed_stats)
+
         except Exception as e:
-            logger.warning(f"Failed to compute source embedding distances: {e}")
-            return {'mean_source_embedding_distance': None, 'source_embedding_variance': None}
+            logger.warning(f"Failed to compute source geometry: {e}", exc_info=True)
+            return (
+                {'mean_source_embedding_distance': None, 'source_embedding_variance': None},
+                [],
+                [],
+                {}
+            )
 
     def _analyze_convergence(self, results: List[TriadExperimentResult]):
         for result in results:
@@ -275,15 +369,27 @@ class ExperimentRunner:
                 )
                 additional_stats = self.convergence_analyzer.compute_embedding_stats(metrics)
 
-                # Compute source embedding distances
-                source_embedding_stats = self._compute_source_embedding_distances(result.source_packets)
-                additional_stats.update(source_embedding_stats)
+                # Compute comprehensive source geometry
+                (simple_stats, source_ids, distance_matrix, detailed_stats) = self._compute_source_geometry(
+                    result.triad_id, result.source_packets
+                )
+                additional_stats.update(simple_stats)
 
+                # Store convergence results
                 self.storage.insert_convergence_result(
                     triad_id=result.triad_id,
                     metrics=metrics.to_dict(),
                     additional_stats=additional_stats
                 )
+
+                # Store detailed source geometry
+                if source_ids and distance_matrix:
+                    self.storage.insert_source_geometry(
+                        triad_id=result.triad_id,
+                        source_ids=source_ids,
+                        distance_matrix=distance_matrix,
+                        stats=detailed_stats
+                    )
  
                 logger.info(
                     f"  Triad {result.triad_id}: "

@@ -29,6 +29,7 @@ class ExperimentStorage:
         self.con.execute("CREATE SEQUENCE IF NOT EXISTS synthesis_id_seq START 1;")
         self.con.execute("CREATE SEQUENCE IF NOT EXISTS result_id_seq START 1;")
         self.con.execute("CREATE SEQUENCE IF NOT EXISTS llm_interaction_id_seq START 1;")
+        self.con.execute("CREATE SEQUENCE IF NOT EXISTS source_geometry_id_seq START 1;")
  
         self.con.execute("""
             CREATE TABLE IF NOT EXISTS triads (
@@ -141,6 +142,45 @@ class ExperimentStorage:
                 model_name VARCHAR,
                 temperature DOUBLE,
                 created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+            );
+        """)
+
+        self.con.execute("""
+            CREATE TABLE IF NOT EXISTS source_geometry (
+                geometry_id INTEGER PRIMARY KEY DEFAULT nextval('source_geometry_id_seq'),
+                triad_id INTEGER,
+
+                -- Source IDs
+                source_ids JSON,  -- List of all source_ids
+                n_sources INTEGER,
+
+                -- Full pairwise distance matrix
+                distance_matrix JSON,  -- NxN matrix of cosine distances
+
+                -- Distribution statistics
+                distance_mean DOUBLE,
+                distance_std DOUBLE,
+                distance_min DOUBLE,
+                distance_max DOUBLE,
+                distance_p10 DOUBLE,
+                distance_p25 DOUBLE,
+                distance_p50 DOUBLE,
+                distance_p75 DOUBLE,
+                distance_p90 DOUBLE,
+
+                -- Within vs between historian distances
+                within_hist1_mean DOUBLE,
+                within_hist2_mean DOUBLE,
+                within_hist3_mean DOUBLE,
+                between_hist12_mean DOUBLE,
+                between_hist13_mean DOUBLE,
+                between_hist23_mean DOUBLE,
+                within_mean DOUBLE,  -- Average of within-historian distances
+                between_mean DOUBLE,  -- Average of between-historian distances
+                within_between_ratio DOUBLE,  -- within_mean / between_mean
+
+                created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+                FOREIGN KEY (triad_id) REFERENCES triads(triad_id)
             );
         """)
 
@@ -319,10 +359,56 @@ class ExperimentStorage:
         ])
         self.con.commit()
 
+    def insert_source_geometry(
+        self,
+        triad_id: int,
+        source_ids: List[str],
+        distance_matrix: List[List[float]],
+        stats: Dict[str, float]
+    ) -> None:
+        """Store detailed source geometry information."""
+        import json
+
+        self.con.execute("""
+            INSERT INTO source_geometry (
+                triad_id, source_ids, n_sources,
+                distance_matrix,
+                distance_mean, distance_std, distance_min, distance_max,
+                distance_p10, distance_p25, distance_p50, distance_p75, distance_p90,
+                within_hist1_mean, within_hist2_mean, within_hist3_mean,
+                between_hist12_mean, between_hist13_mean, between_hist23_mean,
+                within_mean, between_mean, within_between_ratio
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        """, [
+            triad_id,
+            json.dumps(source_ids),
+            len(source_ids),
+            json.dumps(distance_matrix),
+            stats.get('distance_mean'),
+            stats.get('distance_std'),
+            stats.get('distance_min'),
+            stats.get('distance_max'),
+            stats.get('distance_p10'),
+            stats.get('distance_p25'),
+            stats.get('distance_p50'),
+            stats.get('distance_p75'),
+            stats.get('distance_p90'),
+            stats.get('within_hist1_mean'),
+            stats.get('within_hist2_mean'),
+            stats.get('within_hist3_mean'),
+            stats.get('between_hist12_mean'),
+            stats.get('between_hist13_mean'),
+            stats.get('between_hist23_mean'),
+            stats.get('within_mean'),
+            stats.get('between_mean'),
+            stats.get('within_between_ratio')
+        ])
+        self.con.commit()
+
     def export_to_csv(self, output_dir: str = "data/agent_experiments"):
         output_dir = Path(output_dir)
         output_dir.mkdir(parents=True, exist_ok=True)
-        for table in ['triads', 'proposals', 'synthesis', 'convergence_results', 'llm_interactions']:
+        for table in ['triads', 'proposals', 'synthesis', 'convergence_results', 'llm_interactions', 'source_geometry']:
             df = self.con.execute(f"SELECT * FROM {table}").fetchdf()
             output_path = output_dir / f"{table}.csv"
             df.to_csv(output_path, index=False)
